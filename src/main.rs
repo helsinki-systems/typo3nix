@@ -12,16 +12,10 @@ const API: &str = "https://extensions.typo3.org/api/v1";
 const PER_PAGE: u32 = 50;
 
 #[derive(Deserialize, Serialize)]
-struct ExtensionDownload {
-    zip: String,
-}
-
-#[derive(Deserialize, Serialize)]
 struct ExtensionCurrentVersion {
     description: String,
     number: String,
     typo3_versions: Vec<u32>,
-    download: ExtensionDownload,
 }
 
 #[derive(Deserialize, Serialize)]
@@ -41,7 +35,6 @@ struct ExtensionsResponse {
 #[derive(Debug, Deserialize, Serialize)]
 struct ExtensionOutput {
     version: String,
-    url: String,
     t3_versions: Vec<u32>,
     description: String,
     hash: String,
@@ -91,11 +84,12 @@ async fn handle_extension(
     old_json: &IndexMap<String, ExtensionOutput>,
 ) -> Result<(), reqwest::Error> {
     let key = input.key;
+    let url = format!("https://extensions.typo3.org/extension/download/{}/{}/zip", key, input.current_version.number);
     let hash = if let Some(old) = old_json.get(&key) {
         if old.version == input.current_version.number && !old.hash.is_empty() {
             old.hash.clone()
         } else {
-            match calc_hash(client, &input.current_version.download.zip).await {
+            match calc_hash(client, &url).await {
                 Ok(hash) => hash,
                 Err(e) => {
                     println!("Unable to calculate hash of {}: {}", key, e);
@@ -104,7 +98,7 @@ async fn handle_extension(
             }
         }
     } else {
-        match calc_hash(client, &input.current_version.download.zip).await {
+        match calc_hash(client, &url).await {
             Ok(hash) => hash,
             Err(e) => {
                 println!("Unable to calculate hash of {}: {}", key, e);
@@ -117,9 +111,8 @@ async fn handle_extension(
         key,
         ExtensionOutput {
             version: input.current_version.number,
-            url: input.current_version.download.zip,
             t3_versions: input.current_version.typo3_versions,
-            description: input.current_version.description,
+            description: input.current_version.description.split('\n').next().unwrap().to_string(),
             hash,
         },
     );
