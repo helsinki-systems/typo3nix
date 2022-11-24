@@ -24,6 +24,7 @@ git checkout data
 git reset --hard origin/data
 
 # Generate data
+ulimit -n 16384
 target/release/typo3nix
 
 if [[ "${TYPO3NIX_TEST_MODE:-}" = 1 ]]; then
