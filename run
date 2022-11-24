@@ -8,7 +8,9 @@ set -euo pipefail
 
 # Set up SSH
 eval "$(ssh-agent -s)"
+chmod 400 "${SSH_PRIVATE_KEY}"
 ssh-add "${SSH_PRIVATE_KEY}" > /dev/null
+rm -f "${SSH_PRIVATE_KEY}"
 
 # Set up git
 git config user.name "GitLab CI"
