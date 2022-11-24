@@ -1,4 +1,8 @@
-#!/usr/bin/env bash
+#!/usr/bin/env nix-shell
+#!nix-shell -i bash -p git openssh
+# vi: ft=sh
+# shellcheck shell=bash
+
 
 set -euo pipefail
 

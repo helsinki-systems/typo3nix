@@ -16,6 +16,8 @@ cargo build:
 
 run full:
   stage: run
+  tags:
+    - nix
   rules:
     - if: $CI_PIPELINE_SOURCE == "schedule"
   dependencies:
@@ -25,6 +27,8 @@ run full:
 
 run test:
   stage: run
+  tags:
+    - nix
   rules:
     - if: $CI_PIPELINE_SOURCE != "schedule"
   dependencies:
