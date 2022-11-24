@@ -1,0 +1,35 @@
+# vim: set ft=yaml sw=2:
+---
+stages:
+  - build
+  - run
+
+cargo build:
+  stage: build
+  tags:
+    - nix
+  artifacts:
+    paths:
+      - target/release/typo3nix
+  script:
+    - nix-shell --run "cargo build --release"
+
+run full:
+  stage: run
+  rules:
+    - if: $CI_PIPELINE_SOURCE == "schedule"
+  dependencies:
+    - cargo build
+  script:
+    ./run
+
+run test:
+  stage: run
+  rules:
+    - if: $CI_PIPELINE_SOURCE != "schedule"
+  dependencies:
+    - cargo build
+  variables:
+    TYPO3NIX_TEST_MODE: 1
+  script:
+    ./run

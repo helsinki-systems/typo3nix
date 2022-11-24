@@ -1,0 +1,35 @@
+#!/usr/bin/env bash
+
+set -euo pipefail
+
+# Set up git
+git config user.name "GitLab CI"
+git config user.email "gitlab-ci@helsinki-systems.de"
+git remote add origin git@"${GITLAB_HOST}":"${CI_PROJECT_PATH}"
+
+# Switch to correct branch
+git fetch origin data
+git checkout data
+git reset --hard origin/data
+
+# Generate data
+target/release/typo3nix
+
+if [[ "${TYPO3NIX_TEST_MODE:-}" = 1 ]]; then
+	exit 0
+fi
+
+# Do we need to commit anything?
+if ! git status --porcelain | grep -q "extensions.json"; then
+	echo "Nothing changed"
+	exit 0
+fi
+
+# Set up ssh
+eval "$(ssh-agent -s)"
+ssh-add "${SSH_PRIVATE_KEY}" > /dev/null
+
+# Commit and push
+git add exptensions.json
+git commit -m "Automatic extension.json update"
+git push origin data
