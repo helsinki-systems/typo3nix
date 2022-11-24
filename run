@@ -38,6 +38,6 @@ if ! git status --porcelain | grep -q "extensions.json"; then
 fi
 
 # Commit and push
-git add exptensions.json
-git commit -m "Automatic extension.json update"
+git add extensions.json
+git commit -m "Automatic extensions.json update"
 git push -o ci.skip origin data
