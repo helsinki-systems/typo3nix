@@ -32,4 +32,4 @@ ssh-add "${SSH_PRIVATE_KEY}" > /dev/null
 # Commit and push
 git add exptensions.json
 git commit -m "Automatic extension.json update"
-git push origin data
+git push -o ci.skip origin data
