@@ -6,6 +6,10 @@
 
 set -euo pipefail
 
+# Set up SSH
+eval "$(ssh-agent -s)"
+ssh-add "${SSH_PRIVATE_KEY}" > /dev/null
+
 # Set up git
 git config user.name "GitLab CI"
 git config user.email "gitlab-ci@helsinki-systems.de"
@@ -30,10 +34,6 @@ if ! git status --porcelain | grep -q "extensions.json"; then
 	echo "Nothing changed"
 	exit 0
 fi
-
-# Set up ssh
-eval "$(ssh-agent -s)"
-ssh-add "${SSH_PRIVATE_KEY}" > /dev/null
 
 # Commit and push
 git add exptensions.json
