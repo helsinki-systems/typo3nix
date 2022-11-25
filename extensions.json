@@ -16915,13 +16915,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "events2": {
-    "version": "8.1.4",
+    "version": "8.1.5",
     "t3_versions": [
       10,
       11
     ],
     "description": "Create single and recurring events",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-s0j8tgF9uIaq+1mJ1ghxZ7h5qqKA40cIeI/mTb1uZYg="
   },
   "evgallery": {
     "version": "2.9.0",
@@ -21688,12 +21688,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "gh_randomcontent": {
-    "version": "1.1.1",
+    "version": "1.2.0",
     "t3_versions": [
       11
     ],
     "description": "This frontend plugin shows random content elements from selected page(s).",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-95xJFS7kxoZDJKXKXv81AzfLAO1jkfFSRqfJslSEDCc="
   },
   "gh_tabbedcontent": {
     "version": "0.3.0",
@@ -27657,13 +27657,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "jwtools2": {
-    "version": "5.10.2",
+    "version": "6.0.0",
     "t3_versions": [
-      9,
-      10
+      10,
+      11
     ],
     "description": "Jwtools2 contains a scheduler task for Solr to index multiple Pagetrees and a task to execute ",
-    "hash": "sha256-u7DwTm6okJyYFyoSlX0ioUetuzMsgryZUIuW3emLerM="
+    "hash": "sha256-5/V6LKNG7y+q4+fw3LMrDgKpMCrO3hyiDseXR6FdBK0="
   },
   "k20events": {
     "version": "1.0.3",
@@ -30516,22 +30516,22 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "lux": {
-    "version": "26.3.1",
+    "version": "26.4.0",
     "t3_versions": [
       10,
       11
     ],
     "description": "Living User Experience - LUX - the Marketing Automation tool for TYPO3.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-s4pMYBG9wjWK780sdTKy8g5GO2lC9V9EbvbUYthRCkY="
   },
   "luxletter": {
-    "version": "17.2.0",
+    "version": "17.3.0",
     "t3_versions": [
       10,
       11
     ],
     "description": "Free newsletter extension for TYPO3 for an individual email marketing. A lot of analytics and modern concepts. Works with and without EXT:lux.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-QiIH1UaHXLh49Q+T82WyB7QF0JeTqNyngUFTHZeFVAU="
   },
   "lvcleantemp": {
     "version": "1.0.4",
@@ -32189,13 +32189,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "media2click": {
-    "version": "3.0.1",
+    "version": "3.1.0",
     "t3_versions": [
-      10,
       11
     ],
     "description": "Render external content like videos and iframes with privacy in mind: User has to click on placeholder to load the actual content.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-Gti7/5QM7uG3h/0NzjwwJLGca66lYgixP47Tlf2KiTc="
   },
   "media_center": {
     "version": "1.0.3",
@@ -41955,12 +41954,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "pluploadfe": {
-    "version": "6.0.0",
+    "version": "6.1.0",
     "t3_versions": [
       11
     ],
     "description": "Provides an API and a FE plugin for using plupload, a highly usable and advanced upload handler.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-5brV9dT/jiyksvc0uzNYET44kddRCmFwIdBTi9R4bfw="
   },
   "pluploadfe_powermail": {
     "version": "1.0.0",
@@ -42324,12 +42323,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "powermail": {
-    "version": "10.6.0",
+    "version": "10.6.1",
     "t3_versions": [
       11
     ],
     "description": "Powermail is a well-known, editor-friendly, powerful",
-    "hash": "sha256-xZZ4nely6LD2Q+5ACjKXwAVOI6SlSxOQfofbGkb7JCw="
+    "hash": "sha256-Ane2uSMUJggAcyV44AmukmndqcYW8/sVUUtnH9tCZYw="
   },
   "powermail2document": {
     "version": "1.6.1",
