@@ -1055,13 +1055,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "address_manager": {
-    "version": "3.1.0",
+    "version": "3.1.1",
     "t3_versions": [
       10,
       11
     ],
     "description": "Manages and displays address and person records. Comes with three kinds of categories (groups, organisations and positions) with frontend filtering and fulltext search. Includes Google Maps and SEO support. There is also a pro version available. (Personenverzeichnis, Personendatenbank, Mitarbeiterverzeichnis, Filialfinder, Umkreissuche, Standortuebersicht, radial search, radius search)",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-eOe65aGyLAT6zb/Ke7zw7qnCJBU/a8hQBmpSc3zGZLY="
   },
   "addressgroups": {
     "version": "1.4.0",
