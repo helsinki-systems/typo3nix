@@ -9499,7 +9499,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "content_animations": {
-    "version": "2.3.2",
+    "version": "2.3.3",
     "t3_versions": [
       8,
       9,
@@ -9507,7 +9507,7 @@
       11
     ],
     "description": "This extension allows you to set nice animations to your content elements if they are scrolled into the browsers viewport. To install it include the static typoscript of content_animations to your template and you're good to go. Have fun! :-)",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-17zXLX0/K3xLpUR7b+r1+znFIXrltFIupUktYdQqmkk="
   },
   "content_consent": {
     "version": "1.0.2",
@@ -19844,7 +19844,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "flux": {
-    "version": "9.7.1",
+    "version": "9.7.2",
     "t3_versions": [
       8,
       9,
@@ -19852,7 +19852,7 @@
       11
     ],
     "description": "Drop-in page and content templates with nested content feature. Provides multiple condensed integration APIs to use advanced TYPO3 features with little effort.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-Vx3EoV5XjTaX+Y7qEXfcjEq1RCO2gOVx3CygcK5rfsY="
   },
   "flux_elements": {
     "version": "1.4.1",
@@ -24992,12 +24992,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "in2studyfinder": {
-    "version": "9.0.0",
+    "version": "9.0.1",
     "t3_versions": [
       11
     ],
     "description": "List of master's and bachelor's degree programs for colleges and universities",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-fSTsuK8Ny53pVyMgYfqhzWNpQIKImJ2JR2YWnFg5z2Q="
   },
   "in_gallery_flickr": {
     "version": "2.0.12",
@@ -29575,6 +29575,14 @@
     "description": "Extbase Repositories for static info data with dynamic updating by scheduler tasks.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "letitsnow": {
+    "version": "1.0.2",
+    "t3_versions": [
+      11
+    ],
+    "description": "Spreads a bit of wintry vibes for the visitors of the website sitting on the sofa.",
+    "hash": "sha256-U2IVRz6WlWfcE0XPKjhs9NDx8j40iadOnbRp0mqL4kk="
+  },
   "lexical_search": {
     "version": "1.1.0",
     "t3_versions": [],
@@ -29582,13 +29590,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "lfeditor": {
-    "version": "7.1.6",
+    "version": "7.1.7",
     "t3_versions": [
       10,
       11
     ],
     "description": "This module serves several functions for editing of language files.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-SFT3vOzCzlzvuffEO7WE05ANfJxGdrzALehCjdr5vy4="
   },
   "lfeditor_impexp": {
     "version": "2.0.0",
@@ -36866,12 +36874,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "newsletter": {
-    "version": "5.0.0",
+    "version": "5.0.2",
     "t3_versions": [
       11
     ],
     "description": "Send any pages as Newsletter and provide statistics on opened emails and clicked links.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-aNf/+BRGVFr1cbQYzWvgk2W0ulWL7bbdxbKU0Be6cto="
   },
   "newsletter_subscribe": {
     "version": "4.0.1",
@@ -56311,12 +56319,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "timer": {
-    "version": "11.1.5",
+    "version": "11.1.6",
     "t3_versions": [
       11
     ],
     "description": "The extension allow the usage of periodical timer for files, content-elements, pages and own content-elements. It can be extended by own timing-definitions i.e. fullmoontimer. The extension provide a viewhelper and a sheduler for the controllking of timemanagement. It contain a simple modell for event-presentation.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-SrcddyUeEZGtJSRigJjQZZ3655hCT5DtaHHPelPDo4s="
   },
   "timezones": {
     "version": "3.1.0",
@@ -58257,14 +58265,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "tsparser": {
-    "version": "0.8.1",
+    "version": "0.9.0",
     "t3_versions": [
-      8,
-      9,
-      10
+      10,
+      11
     ],
     "description": "This extension adds more types to the Constants Editor. This is a patch for TYPO3.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-T/1wF3MjxbRDxTKgiFlGGyasbM1n5hoJshHAt7xcqfg="
   },
   "tstemplate_analyzer": {
     "version": "0.0.4",
