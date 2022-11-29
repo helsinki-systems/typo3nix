@@ -1014,13 +1014,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "additional_tca": {
-    "version": "1.10.2",
+    "version": "1.11.0",
     "t3_versions": [
       10,
       11
     ],
     "description": "Additional TCA fields and tools",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-pPB73n+05tccKgwwCuPT0Gz28snGWzd9QWaKkkn7EpU="
   },
   "addlinkheader": {
     "version": "0.0.4",
@@ -2775,14 +2775,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "assetcollector": {
-    "version": "1.6.1",
+    "version": "2.0.0",
     "t3_versions": [
-      9,
       10,
       11
     ],
     "description": "Add CSS and SVG files and strings as inline style tag/inline svg to the html code.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-Wr3Ul6FsGJPGohNIUQE9YLPqedVgA7IAIj3xhMpOHdE="
   },
   "assetic": {
     "version": "1.5.0",
@@ -11241,6 +11240,15 @@
     "description": "Obsolete - please do not use this extension any longer! Change the backend login screen with an own style.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "custom_shortcut": {
+    "version": "1.0.1",
+    "t3_versions": [
+      10,
+      11
+    ],
+    "description": "Add custom shortcut types to the page properties.",
+    "hash": "sha256-47CjgUwebjb7NSD7NrEhQEupzJZ7sEn0uX9Wxyv4gm4="
+  },
   "custom_title": {
     "version": "1.0.3",
     "t3_versions": [
@@ -16853,13 +16861,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "evangtermine": {
-    "version": "2.2.0",
+    "version": "2.2.1",
     "t3_versions": [
       10,
       11
     ],
     "description": "Anzeige des Terminkalenders der Vernetzten Kirche in der Ev.-Luth. Kirche in Bayern und weiteren teilnehmenden evangelischen Landeskirchen.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-psq343/dJ3Jyl60BI07IEOemDkXFdx65ZKG5obmrfss="
   },
   "evcontext": {
     "version": "0.0.1",
@@ -19653,13 +19661,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fluid_styleguide": {
-    "version": "2.0.3",
+    "version": "2.0.4",
     "t3_versions": [
       10,
       11
     ],
     "description": "Living styleguide for Fluid Components",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-vwFLmzej3T2ekqeokRFZVHgj0ESnBBsm9nnRk03JKQU="
   },
   "fluidbackend": {
     "version": "1.0.1",
@@ -20272,13 +20280,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "form_consent": {
-    "version": "0.6.4",
+    "version": "0.7.1",
     "t3_versions": [
       10,
       11
     ],
     "description": "An extension for TYPO3 CMS that adds double opt-in functionality to EXT:form. It allows the dynamic adaptation of the entire double opt-in process using various events. In addition, the extension integrates seamlessly into TYPO3, for example to delete outdated consents in compliance with the GDPR.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-Ubo9FZSWnwHXI/j2or+ezokzEw5vYE0M8suy0PJKfbo="
   },
   "form_country_select": {
     "version": "2.0.0",
@@ -27657,13 +27665,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "jwtools2": {
-    "version": "6.0.0",
+    "version": "6.0.1",
     "t3_versions": [
       10,
       11
     ],
     "description": "Jwtools2 contains a scheduler task for Solr to index multiple Pagetrees and a task to execute ",
-    "hash": "sha256-5/V6LKNG7y+q4+fw3LMrDgKpMCrO3hyiDseXR6FdBK0="
+    "hash": "sha256-G/FIDMlukXhHqSUruS84guDZVcxwKyMVFqI3gdHw1y8="
   },
   "k20events": {
     "version": "1.0.3",
@@ -32466,14 +32474,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "menus": {
-    "version": "0.5.1",
+    "version": "1.0.0",
     "t3_versions": [
-      9,
       10,
       11
     ],
     "description": "Various Menu functionality for TYPO3 Frontend",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-oHjYIWlbEpCaKAMA6mEn65gMQcptR8KZuPCuoXMDFuk="
   },
   "menustop": {
     "version": "0.0.2",
@@ -40201,13 +40208,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "parsedown_extra": {
-    "version": "2.3.1",
+    "version": "2.3.2",
     "t3_versions": [
       10,
       11
     ],
     "description": "Provides a content element which displays markdown files. Parses email links with TYPO3 encryption. ViewHelper for parsing Markdown from individual sources. Defining abbreviations globally by using TypoScript. Code Highlighting.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-kEDbWI3FNDGVVNV7WYqnEY2Ui87Usbo1JWknGMiBX6A="
   },
   "partner": {
     "version": "0.5.21",
@@ -41582,14 +41589,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "picture": {
-    "version": "1.3.2",
+    "version": "2.0.0",
     "t3_versions": [
-      9,
       10,
       11
     ],
     "description": "Improved TYPO3 image ViewHelper creating picture elements with support for sizes, sources, additional image formats, etc.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-WiqKPghYVgWI6mDCsmI/LTSbDmFKyxfzahcBQurG52o="
   },
   "pil_mailform": {
     "version": "3.0.4",
@@ -41781,13 +41787,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "pizpalue": {
-    "version": "14.1.0",
+    "version": "14.2.0",
     "t3_versions": [
       10,
       11
     ],
     "description": "Extension to create websites using bootstrap. It builds upon the bootstrap_package from Benjamin Kott and increases functionality by supporting the following extensions:  container_elements, news, eventnews, tt_address",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-BeGPZ5vOfB2GO7PgHdWFvFDmN8OK8oM+NPWCuqaT5pc="
   },
   "pizpalue_distribution": {
     "version": "5.1.0",
@@ -42331,12 +42337,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "powermail": {
-    "version": "10.6.1",
+    "version": "10.7.0",
     "t3_versions": [
       11
     ],
     "description": "Powermail is a well-known, editor-friendly, powerful",
-    "hash": "sha256-Ane2uSMUJggAcyV44AmukmndqcYW8/sVUUtnH9tCZYw="
+    "hash": "sha256-n8RleqTOXxWSa7qh4DrrTNClJptfMiZlIaJQmt63Q8s="
   },
   "powermail2document": {
     "version": "1.6.1",
@@ -43408,13 +43414,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "pxa_social_feed": {
-    "version": "3.1.5",
+    "version": "3.1.6",
     "t3_versions": [
       10,
       11
     ],
     "description": "Add Facebook, Instagram, and Twitter feeds to your site.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-9k4zqXVGriH9jXA+LQ5LlkgXpOg2nFIT4zocxBcpknU="
   },
   "pxa_survey": {
     "version": "2.0.0",
@@ -58395,13 +58401,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "tt_products": {
-    "version": "2.14.6",
+    "version": "2.14.7",
     "t3_versions": [
       10,
       11
     ],
-    "description": "Advanced versions at ttproducts.de. Documented in the E-Book \"Der TYPO3-Webshop\" - Shop with listing in multiple languages, with order tracking, photo gallery, DAM, product variants, credit card payment and bank accounts, bill, creditpoint, voucher system and gift certificates.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "description": "Advanced versions at ttproducts.de. Documented in the E-Book \"Der TYPO3-Webshop\" - Shop with listing in multiple languages, with order tracking, product variants, support for transactor extension, bill, creditpoint and voucher system.",
+    "hash": "sha256-Va8DGbP4s+ZfZ17YY93PRwNdM56cM+E4N+xGmiuTiPo="
   },
   "tt_products_foundby": {
     "version": "0.1.4",
@@ -60890,14 +60896,15 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "webcare": {
-    "version": "1.3.1",
+    "version": "1.4.0",
     "t3_versions": [
       8,
       9,
-      10
+      10,
+      11
     ],
     "description": "",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-F8CebZyybGosSN78ffPvEFT3iqTj79X5Aot+qnp7FNY="
   },
   "webcon_ftptransfer": {
     "version": "1.0.0",
