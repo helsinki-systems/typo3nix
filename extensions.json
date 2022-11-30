@@ -11241,13 +11241,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "custom_shortcut": {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "t3_versions": [
       10,
       11
     ],
     "description": "Add custom shortcut types to the page properties.",
-    "hash": "sha256-47CjgUwebjb7NSD7NrEhQEupzJZ7sEn0uX9Wxyv4gm4="
+    "hash": "sha256-sQW1XEb7RTNIH/VKXStuXKwm//znQkVLuCKdF5fjyno="
   },
   "custom_title": {
     "version": "1.0.3",
@@ -30945,13 +30945,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mail_logger": {
-    "version": "1.0.1",
+    "version": "3.0.6",
     "t3_versions": [
-      7,
-      8
+      10,
+      11
     ],
-    "description": "This extensions logs all your outoing mails and provides email templates and debugging tools",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "description": "This extension logs all your outgoing mails and provides email templates and debugging tools",
+    "hash": "sha256-OiLo838FRnK5g5xemnqdQCZGvFHnlyY/NqU/Jqar6ho="
   },
   "mail_spool": {
     "version": "1.2.0",
@@ -33123,6 +33123,22 @@
     ],
     "description": "Upgrade wizard to migrate redirects from RealUrl and MyRedirects to core redirects",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "migration_bootstrapgrids2start": {
+    "version": "0.0.7",
+    "t3_versions": [
+      10
+    ],
+    "description": "Migrate gridelements plugins from EXT:bootstrap_grids to EXT:start",
+    "hash": "sha256-Dn/eQwPOJizqz1V5G+BM51LcT1/FohsmL4ivEE+0di4="
+  },
+  "migration_cal2ttaddress": {
+    "version": "0.0.6",
+    "t3_versions": [
+      10
+    ],
+    "description": "Migrates locations and organisers from EXT:cal to EXT:tt_address",
+    "hash": "sha256-cDF1ECt8rru4NLMPMMX4I32kAxz3MahB0q/kSzp6zSE="
   },
   "migration_core": {
     "version": "0.1.5",
@@ -35347,12 +35363,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "multisite": {
-    "version": "0.0.6",
+    "version": "0.0.8",
     "t3_versions": [
       10
     ],
     "description": "Optimizing TYPO3 for multisite operation",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-KON3MkLTQO2l6ymxUOD5oeEKPuXQf4ZiKgihG56TgiY="
   },
   "multivote": {
     "version": "0.0.4",
@@ -36881,12 +36897,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "newsletter": {
-    "version": "5.0.2",
+    "version": "5.0.3",
     "t3_versions": [
+      10,
       11
     ],
     "description": "Send any pages as Newsletter and provide statistics on opened emails and clicked links.",
-    "hash": "sha256-aNf/+BRGVFr1cbQYzWvgk2W0ulWL7bbdxbKU0Be6cto="
+    "hash": "sha256-7wO28vbWi4ZYOm8yJWKIrO6FdK0yfYRv5JVB/6keza4="
   },
   "newsletter_subscribe": {
     "version": "4.0.1",
@@ -52555,6 +52572,15 @@
     "description": "Export pages (as ZIP-file) via staticpub",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "statictagcloud": {
+    "version": "4.0.1",
+    "t3_versions": [
+      10,
+      11
+    ],
+    "description": "Create your own static tagcloud and define on your own which word has priority",
+    "hash": "sha256-uDYxtK0Rq8aGqdKvTe9SjY/yHgy2s40otzE0l242gmk="
+  },
   "statictemplates": {
     "version": "6.0.0",
     "t3_versions": [
@@ -57753,6 +57779,16 @@
     "description": "Provides the possibility to transact payments via Paymill using the Payment Transactor extension.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "transactor_paypal": {
+    "version": "0.3.2",
+    "t3_versions": [
+      9,
+      10,
+      11
+    ],
+    "description": "Provides the possibility to transact payments via PayPal using the Payment Transactor extension.",
+    "hash": "sha256-RIrRl6K9o6q5U0/wlyhdByS1XYlJbGs8aAl6nG/XsBc="
+  },
   "transit_art": {
     "version": "1.0.3",
     "t3_versions": [
@@ -60588,13 +60624,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "wacon_cookie_management": {
-    "version": "3.3.1",
+    "version": "3.4.0",
     "t3_versions": [
       10,
       11
     ],
     "description": "WCM is a typo3 extension that enables website visitors to control and manage the usage of cookies on the website (commonly known as \"cookie consent box\"). Thus it helps website owner to be in line with the rules of the General Data Protection Regulation (GDPR) which took effect on 25 May 2018.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-wr77wr4Zs7yzy+aHtB5hTBrx1c1j8X4eDNtVNC+sBUU="
   },
   "wacon_csv2html": {
     "version": "2.0.0",
@@ -62642,14 +62678,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "xblog": {
-    "version": "0.46.12",
+    "version": "0.46.17",
     "t3_versions": [
       8,
       9,
       10
     ],
     "description": "Quickly assemble a TYPO3 frontend! Publish the data from the tables pages, tt_content and from any other database! No need to set up typoscript.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-gLNBGBFPkbamQDPiYcr+fpzRiBnJyWYAOSte9G0kTEI="
   },
   "xdbmysql": {
     "version": "3.0.18",
