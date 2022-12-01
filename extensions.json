@@ -1029,24 +1029,24 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "addons_em": {
-    "version": "0.6.0",
+    "version": "0.7.0",
     "t3_versions": [
       9,
       10,
       11
     ],
     "description": "Enhancements to the Extension Manager (em].",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-VpLY4QJxtYNce5nfsp4lMrvnIcNutShA/u4YxH4THGQ="
   },
   "addons_tt_products": {
-    "version": "0.9.0",
+    "version": "0.9.1",
     "t3_versions": [
       9,
       10,
       11
     ],
     "description": "Many translations of standard texts for shops. Additional example templates and icons for the tt_products shop system version 2.14 and later.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-7Q0e1fiB4D/W0YSAoFGnkr1Yeo/T5dtObG0+7OSomn8="
   },
   "address": {
     "version": "0.1.0",
@@ -8702,12 +8702,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cms_census": {
-    "version": "1.0.1",
+    "version": "1.1.1",
     "t3_versions": [
       11
     ],
     "description": "Extension to draw market share of content management systems on https://cmscensus.eu/, detected by whatcms.org.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-SuCTZcJCjewnluHLf5yQ3jobgsk1bIu/9pRQq/wKkhI="
   },
   "cms_plaintext_import": {
     "version": "0.0.7",
@@ -11168,12 +11168,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ctype_manager": {
-    "version": "11.4.4",
+    "version": "11.5.0",
     "t3_versions": [
       11
     ],
     "description": "This TYPO3 extension implements a backend module through which available content and plugin types can be configured on page level.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-Vt5mRMY+005kiAIP0kq39WnzpEt6sXciUXBXZOYlejo="
   },
   "cundd_composer": {
     "version": "4.1.0",
@@ -12907,7 +12907,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "deployer_information": {
-    "version": "1.3.0",
+    "version": "1.4.0",
     "t3_versions": [
       8,
       9,
@@ -12915,7 +12915,7 @@
       11
     ],
     "description": "Show information about last deployment in system information toolbar",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-LYk+wDBANcxfFNdCypyfwnt6MtuJKUxZzVlOWejSRBU="
   },
   "deprecationloganalyzer": {
     "version": "2.0.0",
@@ -23001,13 +23001,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "hcaptcha": {
-    "version": "2.0.3",
+    "version": "2.0.4",
     "t3_versions": [
       10,
       11
     ],
     "description": "TYPO3 Extension to add hCaptcha to EXT:form - The privacy friendly captcha alternative.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-XSZl8wGzMxAE4oCzR6ZnFCog06A7xtPZD3BZxySmjR0="
   },
   "hd_displayimage": {
     "version": "0.1.7",
@@ -26073,22 +26073,22 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "jar_pugtemplate": {
-    "version": "1.0.8",
+    "version": "1.0.9",
     "t3_versions": [
       10,
       11
     ],
     "description": "Tools for rendering PUG templates in TYPO3",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-Z2BN9IPCDqGzBNbVFDkPDx0NU6NfCM8yYXjemW1bYzQ="
   },
   "jar_utilities": {
-    "version": "1.0.33",
+    "version": "1.0.35",
     "t3_versions": [
       10,
       11
     ],
     "description": "Utility classes that simplify TYPO3 development.",
-    "hash": "sha256-aBse2ExftKKcfRCBiggfwFsIKs60tpPHrZo2/VqBj1I="
+    "hash": "sha256-cRS4QdyqhmxqIs2i+DveZDM3OvNupXz3bpXE+MHNJ84="
   },
   "jasmine": {
     "version": "0.1.0",
@@ -27623,6 +27623,15 @@
     "description": "Demo on how to use extJS Direct Service (jw-extjsdirect)",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "jw_forms": {
+    "version": "3.0.3",
+    "t3_versions": [
+      10,
+      11
+    ],
+    "description": "With this extension you can provide a list of downloadable files in FE.",
+    "hash": "sha256-HRE89CaohHypAtaDD++V3lBYg7zyd6JhRmW1KJMT/g0="
+  },
   "jw_shell_exec": {
     "version": "1.0.0",
     "t3_versions": [
@@ -27665,13 +27674,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "jwtools2": {
-    "version": "6.0.1",
+    "version": "6.0.2",
     "t3_versions": [
       10,
       11
     ],
     "description": "Jwtools2 contains a scheduler task for Solr to index multiple Pagetrees and a task to execute ",
-    "hash": "sha256-G/FIDMlukXhHqSUruS84guDZVcxwKyMVFqI3gdHw1y8="
+    "hash": "sha256-vRPa7d7pnk1AdPXXhp5Ak3caVRR2TXzefoIi1OhyDg4="
   },
   "k20events": {
     "version": "1.0.3",
@@ -33148,6 +33157,30 @@
     "description": "This extension provides the migration classes needed for TYPO3 8.x like t3lib_div, t3lib_extMgm, tslib_pibase and all others. This provides backwards compatibility to TYPO3 4.5 - 6.1",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "migration_danptagcloud2xblog": {
+    "version": "0.0.4",
+    "t3_versions": [
+      10
+    ],
+    "description": "Migrates danp_tagcloud plugins, which are using tt_news, to xBlog plugin Tag Cloud",
+    "hash": "sha256-8K7W1WGf5ZHCsBwX7afyUEIfNQZYnPftP28ZtHtlhag="
+  },
+  "migration_shortcut": {
+    "version": "0.0.4",
+    "t3_versions": [
+      10
+    ],
+    "description": "Updates shortcuts. Meaningful, if you have migrated plugins and records before.",
+    "hash": "sha256-sSUp1ptTj5R5h5iHfcaPrb4Zn+NjwGltzL/mSGzNCfA="
+  },
+  "migration_ttnews2orgxblog": {
+    "version": "0.1.34",
+    "t3_versions": [
+      10
+    ],
+    "description": "Migrates tt_news records and plugins to Organiser (data) with xBlog (plugins)",
+    "hash": "sha256-uGmTnmdCzlRtlsSs3Now1kpLcWaThpHV2/iRXRHzvrs="
+  },
   "migrator": {
     "version": "1.1.3",
     "t3_versions": [
@@ -38163,7 +38196,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ns_youtube": {
-    "version": "2.0.2",
+    "version": "2.1.0",
     "t3_versions": [
       6,
       7,
@@ -38172,8 +38205,8 @@
       10,
       11
     ],
-    "description": "One of the only TYPO3 extension which provides to integrate all the features of Youtube.com like Simple Video, Channel, Playlist and Live-stream to your TYPO3 site. Live-Demo: https://demo.t3terminal.com/t3t-extensions/youtube/ You can download PRO version for more-features & free-support at https://t3terminal.com/typo3-youtube-plugin-free/",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "description": "One of the only TYPO3 extension which provides to integrate all the features of Youtube.com like Simple Video, Channel, Playlist and Live-stream to your TYPO3 site. Live-Demo: https://demo.t3planet.com/t3t-extensions/youtube/ You can download PRO version for more-features & free-support at https://t3planet.com/typo3-youtube-extension",
+    "hash": "sha256-CvIPL4e2VUkrodSZ9NljU6jQQ6fV8gBHAzhuV5na0n8="
   },
   "ns_zoho_crm": {
     "version": "3.0.0",
@@ -55117,14 +55150,10 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "tcabuilder": {
-    "version": "2.1.1",
-    "t3_versions": [
-      9,
-      10,
-      11
-    ],
+    "version": "3.0.0",
+    "t3_versions": [],
     "description": "Utility to easily maintain and create your TCA forms",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-qVXAjtXiI+HPAsptsHA/ypfkKZREFK4gvLuhVNiw8GM="
   },
   "tcamanipulate": {
     "version": "0.1.7",
@@ -63260,12 +63289,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "yawave_publications": {
-    "version": "2.2.16",
+    "version": "2.4.3",
     "t3_versions": [
-      10
+      10,
+      11
     ],
     "description": "Publish your yawave publication into typo3",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-mT5rgyeO2RZMEHeKAp56CZphSDWTLB5yBLQkkaQS7PA="
   },
   "yejj_swfobject": {
     "version": "1.0.5",
