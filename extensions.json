@@ -20297,13 +20297,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "form_crshield": {
-    "version": "1.2.1",
+    "version": "1.2.2",
     "t3_versions": [
       10,
       11
     ],
     "description": "Challenge/response spam protection for ext:form",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-ej8+nEWK2WukMhT42ADBfa1SqkziRtPCuDNfhz41b3o="
   },
   "form_doubleoptin": {
     "version": "1.1.1",
@@ -40095,12 +40095,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "pagetreefilter": {
-    "version": "1.5.0",
+    "version": "1.5.1",
     "t3_versions": [
       11
     ],
-    "description": "Filter the pagetree for records and content elements. For simplicity it comes with a wizard.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "description": "It adds a wizard like the new content element wizard that helps finding content elements and records in the page tree. With a few clicks you know where they are used. You can also see what elements are not used.",
+    "hash": "sha256-/NWjyTpzcc8wLcaJb7QH1Ux3CUm+brmBFD2YYfDO9s4="
   },
   "pagetreehighlight": {
     "version": "2.0.0",
@@ -48148,12 +48148,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sf_event_mgt": {
-    "version": "6.3.0",
+    "version": "6.3.1",
     "t3_versions": [
       11
     ],
     "description": "Configurable event management and registration extension based on ExtBase and Fluid",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-FMmXQApHtScHtN5ISrbxyYCbmBpgyxC3py0mcJZfgIo="
   },
   "sf_event_mgt_indexer": {
     "version": "3.0.1",
