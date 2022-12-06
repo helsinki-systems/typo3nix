@@ -5043,13 +5043,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "bootstrap_package": {
-    "version": "12.0.5",
+    "version": "13.0.0",
     "t3_versions": [
-      10,
       11
     ],
     "description": "Bootstrap Package delivers a full configured frontend theme for TYPO3, based on the Bootstrap CSS Framework.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-8yH0Xx3p8x2Af28lmQTe6FMd7roBIX8sEcH/rRGdpjk="
   },
   "bootstrapicons": {
     "version": "0.0.1",
@@ -38088,13 +38087,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ns_theme_agency": {
-    "version": "4.0.4",
+    "version": "4.0.5",
     "t3_versions": [
       10,
       11
     ],
-    "description": "Agency TYPO3 template is an ultimate tool to kickstart your project, either a software development company, or a product startup or any new business. Live-Demo: https://demo.t3terminal.com/?theme=t3t-agency PRO version: https://t3terminal.com/t3-agency-free-business-typo3-template",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "description": "Agency TYPO3 template is an ultimate tool to kickstart your project, either a software development company, or a product startup or any new business. Live-Demo: https://demo.t3planet.com/?theme=t3t-agency PRO version: https://t3planet.com/t3-agency-free-business-typo3-template",
+    "hash": "sha256-QkqNMjDLtwJ8aj6DPAR7SwcOQvTu+kEehc8Oc9ATkbU="
   },
   "ns_theme_cleanblog": {
     "version": "3.0.5",
