@@ -8,6 +8,8 @@ cargo build:
   stage: build
   tags:
     - nix
+  rules:
+    - if: $CI_PIPELINE_SOURCE
   artifacts:
     paths:
       - target/release/typo3nix
