@@ -31501,12 +31501,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mask": {
-    "version": "8.0.4",
+    "version": "8.0.5",
     "t3_versions": [
       11
     ],
     "description": "Create your own content elements and page templates. Easy to use, even without programming skills because of the comfortable drag and drop system. Stored in structured database tables. Style your frontend with Fluid tags. Ideal, if you want to switch from Templavoila.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-in3imKCGD83FoHTO2W0qwup3UG9fSdgRrVqTcja7Uao="
   },
   "mask_export": {
     "version": "4.0.2",
