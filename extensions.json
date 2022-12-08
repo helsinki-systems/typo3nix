@@ -4991,13 +4991,12 @@
     "hash": "sha256-B8oTmmLJpv5PacBLjpC0pcaxIQqSxhvTPhc9ZuIIw1Y="
   },
   "booking": {
-    "version": "1.8.3",
+    "version": "2.0.6",
     "t3_versions": [
-      10,
       11
     ],
     "description": "Booking extension for FE users",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-S4kvKP3dmyQgoY4Sxofx4ej5xGBmPUfgp5mxSG8MWKc="
   },
   "bookmark_pages": {
     "version": "2.0.1",
@@ -8085,13 +8084,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "checkfaluploads": {
-    "version": "2.2.1",
+    "version": "3.0.0",
     "t3_versions": [
-      9,
-      10
+      10,
+      11
     ],
     "description": "Displays a checkbox that must be checked to upload files in backend",
-    "hash": "sha256-3tCJ0bj0KRJs157dkDoJEKU03OnJkxwW03R2FSAUp74="
+    "hash": "sha256-Rg/ec1TBNGfFgCteR1tEVCPvHR5bHY7EXSViGfR4dLY="
   },
   "checkmysite": {
     "version": "3.1.0",
@@ -27673,13 +27672,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "jwtools2": {
-    "version": "6.0.2",
+    "version": "6.0.3",
     "t3_versions": [
       10,
       11
     ],
     "description": "Jwtools2 contains a scheduler task for Solr to index multiple Pagetrees and a task to execute ",
-    "hash": "sha256-vRPa7d7pnk1AdPXXhp5Ak3caVRR2TXzefoIi1OhyDg4="
+    "hash": "sha256-txQJYhRKeVMwfuPFwfA0e759Dv/h9XS6obEAI71A1N4="
   },
   "k20events": {
     "version": "1.0.3",
@@ -37509,16 +37508,16 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "nnhelpers": {
-    "version": "2.0.0",
+    "version": "2.0.1",
     "t3_versions": [],
     "description": "Drastically speed up your extension development with this huge collection of very smart 'oneliners'. Make updating to new TYPO3 versions simple. Packed with things you've spent hours searching on the internet for. Everything accessible with one click via a convenient backend module. No mess and no conflicts. Use whatever method makes you happy – or simple grab the source-code and paste it in your own extension.",
-    "hash": "sha256-OWMf+sWcDsx8JvGxdTBT/PJT0BSE4KdWTg93FrHsCA8="
+    "hash": "sha256-yiIZM5/94fzPQtSwz94boTiKfHx6j5NpIDrGDj+wlao="
   },
   "nnrestapi": {
-    "version": "2.0.0",
+    "version": "2.0.1",
     "t3_versions": [],
     "description": "Build a REST Api for your TYPO3 project. Equipped with everything you need: Routing with annotations. User authentication. Fileupload and FAL conversion. Testbed and automatic documentation of your API. The backend module comes with a \"Kickstarter\" to get your RESTful API up and running in minutes.",
-    "hash": "sha256-IPxdkUaAsxjjZiVNcSj+PVbE7q57dy9r3N1QF+tLvNI="
+    "hash": "sha256-41S8PJzQAgcciDy5aPx9e838aVXdZk2qvJkkt/+56oU="
   },
   "no_opcode_cache_check": {
     "version": "1.0.2",
@@ -37777,7 +37776,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ns_basetheme": {
-    "version": "11.5.4",
+    "version": "11.5.5",
     "t3_versions": [
       8,
       9,
@@ -37785,7 +37784,7 @@
       11
     ],
     "description": "The architecture of parent/child TYPO3 theme concept. Explore https://t3terminal.com and https://nitsantech.com",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-6DaD5MOwJ5OZs4AEPrVU6HApqxkZLozAJZ/6+eRN79w="
   },
   "ns_cache_webhook": {
     "version": "1.0.0",
@@ -37978,15 +37977,15 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ns_license": {
-    "version": "1.8.1",
+    "version": "1.8.2",
     "t3_versions": [
       8,
       9,
       10,
       11
     ],
-    "description": "Manage License(s) of your purchased T3Terminal's premium TYPO3 products. Know more at documentation https://docs.t3planet.com/en/latest/License/LicenseActivation/Index.html",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "description": "Manage License(s) of your purchased T3Planet's premium TYPO3 products. Know more at documentation https://docs.t3planet.com/en/latest/License/LicenseActivation/Index.html",
+    "hash": "sha256-L9m6tCmzf1/MUkVs71K7CvMVJB7gR66xw+rcl9bSfic="
   },
   "ns_news_advancedsearch": {
     "version": "2.0.2",
@@ -38770,13 +38769,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ods_osm": {
-    "version": "4.0.0",
+    "version": "4.1.0",
     "t3_versions": [
       10,
       11
     ],
     "description": "Add an interactive OpenStreetMap map to your website. Can also show other OpenLayers compatible maps.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-68Cclqd7GaEnQ2oclO5JSGskIZtBaSwLcW5YwB50xfk="
   },
   "ods_osm_cal": {
     "version": "1.0.0",
@@ -42251,13 +42250,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "poll": {
-    "version": "3.0.2",
+    "version": "3.0.3",
     "t3_versions": [
       10,
       11
     ],
     "description": "Create polls/surveys/Umfragen in TYPO3. Multiple question types and answer layouts. There is also a PRO version available which adds custom user answers and more. (Umfrage, Poll, Opinion, Vote, SimplePoll)",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-wCpuMGuzVCD584FdnmYRv4Tm+87OF+8LLq1tmoyancY="
   },
   "polyglot": {
     "version": "1.0.0",
@@ -42518,13 +42517,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "powermailcaptcha": {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "t3_versions": [
       10,
       11
     ],
     "description": "Captcha Extension for Powermail",
-    "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
+    "hash": "sha256-Pec1Q8DmlAf00I4QDlwKkMg7tHGAZ3Pi3PWomGx2DHs="
   },
   "powermailcustomcss": {
     "version": "1.1.0",
@@ -57839,13 +57838,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "translatelabels": {
-    "version": "2.2.0",
+    "version": "2.2.1",
     "t3_versions": [
       10,
       11
     ],
     "description": "This extension extends the TYPO3 translation handling by translation records that can be edited by backend users. In this way backend users are able to translate labels without having access to the language files.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-wbvRRaR+Xm3vny9oLQFW/8JJ5i5MckyUzyaSKORwjw8="
   },
   "translationapi": {
     "version": "2.0.0",
