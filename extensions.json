@@ -23085,6 +23085,15 @@
     "description": "",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "hh_accordion": {
+    "version": "0.3.1",
+    "t3_versions": [
+      10,
+      11
+    ],
+    "description": "",
+    "hash": "sha256-qiPHXrXCTRYknEzjHeXh4WB+GkKKZkegSKbjmRyRXBs="
+  },
   "hh_add_statuscode": {
     "version": "0.1.21",
     "t3_versions": [
@@ -23107,6 +23116,14 @@
     "t3_versions": [],
     "description": "Small example how to setup a multi-page form with extbase",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "hh_openstreetmap": {
+    "version": "0.2.2",
+    "t3_versions": [
+      11
+    ],
+    "description": "Simple OpenStreetMap",
+    "hash": "sha256-+cLlJOhfe1Dx9KE2mH2KfABhKoCrA8zh5B0SQI/pwp8="
   },
   "hh_seo": {
     "version": "0.4.5",
@@ -26045,13 +26062,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "jar_columnrow": {
-    "version": "1.0.11",
+    "version": "1.0.12",
     "t3_versions": [
       10,
       11
     ],
     "description": "Provides a freely definable and universal grid element with bootstrap-based output.",
-    "hash": "sha256-WToQKH4OYfrDq3h4LiWA6ofECvbO75gkJwJtZ7VKH6A="
+    "hash": "sha256-xZ8Y8s4H4hArPNknM1B5poT37ub8Pe0pzG6EGbpmZNE="
   },
   "jar_dataflow": {
     "version": "1.0.11",
@@ -36784,6 +36801,15 @@
     "description": "News tasks in the scheduler module : find expired news and send mail to the author (be_users)",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "news_seo": {
+    "version": "1.0.1",
+    "t3_versions": [
+      10,
+      11
+    ],
+    "description": "Indivdual indexing/robot information for each news article record",
+    "hash": "sha256-TWgwqa7Gbjb3aFUSizwIsQ8EWj47zdp4aV1YPbSqx2o="
+  },
   "news_sponsor": {
     "version": "0.4.0",
     "t3_versions": [],
@@ -36937,12 +36963,12 @@
     "hash": "sha256-7wO28vbWi4ZYOm8yJWKIrO6FdK0yfYRv5JVB/6keza4="
   },
   "newsletter_subscribe": {
-    "version": "4.0.1",
+    "version": "5.0.0",
     "t3_versions": [
       11
     ],
     "description": "subscribe and unsubscribe to tt_address, generate static Link to unsubscribe (to use in Newsletter), remove unvalidated subscriptions with scheduler task",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-hpSttexAAw54XnsCxax5yB+z8GKxgQ8JcLkuzuyF0+w="
   },
   "newslettermanager": {
     "version": "0.0.1",
@@ -41826,13 +41852,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "pizpalue": {
-    "version": "14.2.0",
+    "version": "14.2.1",
     "t3_versions": [
       10,
       11
     ],
     "description": "Extension to create websites using bootstrap. It builds upon the bootstrap_package from Benjamin Kott and increases functionality by supporting the following extensions:  container_elements, news, eventnews, tt_address",
-    "hash": "sha256-BeGPZ5vOfB2GO7PgHdWFvFDmN8OK8oM+NPWCuqaT5pc="
+    "hash": "sha256-EL8YuF+egJIhaHpMxv1i/uVgQMSxOXdodPvqPP5A8Kc="
   },
   "pizpalue_distribution": {
     "version": "5.1.0",
@@ -43403,14 +43429,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "pxa_lpeh": {
-    "version": "1.1.0",
+    "version": "1.1.1",
     "t3_versions": [
       9,
       10,
       11
     ],
     "description": "Speeds up error page handling and frees up PHP workers by loading local page content without issuing an external HTTP request.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-oB5VG8mkTvVVy3XEp9Xbk04jQpDLzRWcw066c2i7jJw="
   },
   "pxa_newsletter_subscription": {
     "version": "10.0.0",
@@ -46187,12 +46213,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "rte_ckeditor_image": {
-    "version": "11.0.5",
+    "version": "11.0.6",
     "t3_versions": [
       11
     ],
     "description": "Adds FAL image support to CKEditor for TYPO3.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-IGnikN7D1wQrUlDVV5c8vyuCkploEpKTMalwUiaOajw="
   },
   "rte_ckeditor_microdata": {
     "version": "10.1.0",
@@ -47474,13 +47500,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "schema": {
-    "version": "2.6.2",
+    "version": "2.6.3",
     "t3_versions": [
       10,
       11
     ],
     "description": "API and view helpers for schema.org markup",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-tHbrz9w6MhDb/WzzUBRvpI4cDdytdxQj8xK9OGYRyso="
   },
   "schema_auto": {
     "version": "1.3.0",
@@ -47492,22 +47518,22 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "schema_bib": {
-    "version": "1.2.0",
+    "version": "1.2.1",
     "t3_versions": [
       10,
       11
     ],
     "description": "Extend the schema extension with bibliographic-related terms",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-J7qKM/tIVJVrAy2oT6pTX0bHPsgTaJd8bz+o5I8RmV8="
   },
   "schema_health": {
-    "version": "1.3.0",
+    "version": "1.3.1",
     "t3_versions": [
       10,
       11
     ],
     "description": "Extend the schema extension with health-related terms",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-2l8V+CkR7SGIfabtDcwXAQh21e8tdOETbKx8YJoIPPE="
   },
   "schema_injector": {
     "version": "1.0.1",
@@ -47759,13 +47785,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "secure_downloads": {
-    "version": "4.1.1",
+    "version": "4.1.5",
     "t3_versions": [
       9,
       10
     ],
     "description": "\"Secure Download\": Apply TYPO3 access rights to ALL file assets (PDFs, TGZs or JPGs etc. - configurable) - protect them from direct access.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-cHNOE/BAgIGMo+NqITTOd1rGwa5hJBjx99TqaL1Vmg4="
   },
   "secure_login": {
     "version": "1.0.0",
@@ -50011,13 +50037,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "skins": {
-    "version": "10.5.2",
+    "version": "10.5.3",
     "t3_versions": [
       10,
       11
     ],
     "description": "This extension adds a dark skin (dark theme) to the TYPO3 backend. The colors are customizable and can be changed to your favorite colors.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-yjZLmfONyuwZQ0bg4xaWraTBblmCnapzPkk0NXWNMLs="
   },
   "skip_page_is_being_generated": {
     "version": "1.1.7",
