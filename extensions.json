@@ -24018,6 +24018,105 @@
     "description": "Example custom iconfont extension fro RTE support. See ext:iconfont.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "iconpack": {
+    "version": "0.1.2",
+    "t3_versions": [
+      10,
+      11
+    ],
+    "description": "Provides an iconpack-registry for various iconpacks.",
+    "hash": "sha256-XRl0ihjVOG1m+uXb/L8Oqp+B7uaRPIRF8Pw6Blpwp6s="
+  },
+  "iconpack_bootstrap": {
+    "version": "1.0.2",
+    "t3_versions": [
+      10,
+      11
+    ],
+    "description": "This Extension registers an Iconpack-Provider for `EXT:iconpack` which allows you to use the \"Bootstrap Icons\" in TYPO3.",
+    "hash": "sha256-NAvNNKRylsJRunydG5NsAv2xnBaFoTfgeTw6LWlROcw="
+  },
+  "iconpack_dripicons": {
+    "version": "1.0.2",
+    "t3_versions": [
+      10,
+      11
+    ],
+    "description": "This Extension registers an Iconpack-Provider for `EXT:iconpack` which allows you to use the \"Dripicons Icons\" in TYPO3.",
+    "hash": "sha256-kB89cT/ixMO3ont2YfEITy/znp9CbPn6+lZbsbhq978="
+  },
+  "iconpack_elegant": {
+    "version": "1.0.2",
+    "t3_versions": [
+      10,
+      11
+    ],
+    "description": "This Extension registers an Iconpack-Provider for `EXT:iconpack` which allows you to use the \"Elegant Icons\" in TYPO3.",
+    "hash": "sha256-6n0f84oQmiAke3muaT6Q/nR6ekEFn6H5QC6I2o5vGA0="
+  },
+  "iconpack_feather": {
+    "version": "1.0.2",
+    "t3_versions": [
+      10,
+      11
+    ],
+    "description": "This Extension registers an Iconpack-Provider for `EXT:iconpack` which allows you to use the \"Feather Icons\" in TYPO3.",
+    "hash": "sha256-TRq/L1qq5m1cdwdmXBqNZfkSkLXVBNhUnjASjuL8wfQ="
+  },
+  "iconpack_fontawesome": {
+    "version": "0.1.2",
+    "t3_versions": [
+      10,
+      11
+    ],
+    "description": "This Extension registers an Iconpack-Provider for `EXT:iconpack` which allows you to use the \"Font Awesome Icons\" in TYPO3.",
+    "hash": "sha256-6NP8qzdnyJXa3+rg5gqNqpaucMsSJ6T9+cCp9ImHF/0="
+  },
+  "iconpack_helium": {
+    "version": "1.0.2",
+    "t3_versions": [
+      10,
+      11
+    ],
+    "description": "This Extension registers an Iconpack-Provider for `EXT:iconpack` which allows you to use the \"Helium Icons\" in TYPO3.",
+    "hash": "sha256-SrKjaVCzf+3Nnyqg9QRgOSbKWkdpOCI1sZ5qNcmz59k="
+  },
+  "iconpack_linea": {
+    "version": "1.0.2",
+    "t3_versions": [
+      10,
+      11
+    ],
+    "description": "This Extension registers an Iconpack-Provider for `EXT:iconpack` which allows you to use the \"Linea Icons\" in TYPO3.",
+    "hash": "sha256-q+pUcuHE3HmR72SXMPhVkhi7D3/A9+UjQ7nOTLMsfHs="
+  },
+  "iconpack_linearicons": {
+    "version": "1.0.2",
+    "t3_versions": [
+      10,
+      11
+    ],
+    "description": "This Extension registers an Iconpack-Provider for `EXT:iconpack` which allows you to use the \"Linearicons\" in TYPO3.",
+    "hash": "sha256-o/042aTmXLjcMDnGR6RhZOMzPo6VPndbDXtnupEcG/I="
+  },
+  "iconpack_lineicons": {
+    "version": "1.0.2",
+    "t3_versions": [
+      10,
+      11
+    ],
+    "description": "This Extension registers an Iconpack-Provider for `EXT:iconpack` which allows you to use the \"LineIcons\" in TYPO3.",
+    "hash": "sha256-/oO5tqX0uURn8tgjwU9fkZ8foQv8+l21IsbsYkifCuA="
+  },
+  "iconpack_themify": {
+    "version": "1.0.2",
+    "t3_versions": [
+      10,
+      11
+    ],
+    "description": "This Extension registers an Iconpack-Provider for `EXT:iconpack` which allows you to use the \"Themify Icons\" in TYPO3.",
+    "hash": "sha256-eBhomwFa3UPqI6DdU0k25NnVdgxldqGqscr4/7Jrh6k="
+  },
   "icons": {
     "version": "1.0.1",
     "t3_versions": [],
