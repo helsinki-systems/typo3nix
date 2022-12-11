@@ -24019,13 +24019,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "iconpack": {
-    "version": "0.1.2",
+    "version": "0.1.3",
     "t3_versions": [
       10,
       11
     ],
     "description": "Provides an iconpack-registry for various iconpacks.",
-    "hash": "sha256-XRl0ihjVOG1m+uXb/L8Oqp+B7uaRPIRF8Pw6Blpwp6s="
+    "hash": "sha256-hjeaaCcWPPcjzYcZ0LxrfnRK+sR9OzW7UIJb7JSRwgM="
   },
   "iconpack_bootstrap": {
     "version": "1.0.2",
@@ -24064,13 +24064,13 @@
     "hash": "sha256-TRq/L1qq5m1cdwdmXBqNZfkSkLXVBNhUnjASjuL8wfQ="
   },
   "iconpack_fontawesome": {
-    "version": "0.1.2",
+    "version": "0.1.3",
     "t3_versions": [
       10,
       11
     ],
     "description": "This Extension registers an Iconpack-Provider for `EXT:iconpack` which allows you to use the \"Font Awesome Icons\" in TYPO3.",
-    "hash": "sha256-6NP8qzdnyJXa3+rg5gqNqpaucMsSJ6T9+cCp9ImHF/0="
+    "hash": "sha256-+VZOiRTn93Wjdwe+1kbIkOG4hdBEb/ApvdvqKq48N/g="
   },
   "iconpack_helium": {
     "version": "1.0.2",
@@ -35833,13 +35833,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "myleaflet": {
-    "version": "1.3.1",
+    "version": "1.5.10",
     "t3_versions": [
-      10,
       11
     ],
     "description": "Leaflet / OpenStreetMap for tt_address data with radial search and categories. No registration and no API-keys necessary.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-L3ZGwpqSw2Xw7hnWh1e07C8cATVsjX2+gVQkeMNgPuw="
   },
   "mymap": {
     "version": "1.3.7",
@@ -56494,12 +56493,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "timer": {
-    "version": "11.1.7",
+    "version": "11.1.8",
     "t3_versions": [
       11
     ],
     "description": "The extension allow the usage of periodical timer for files, content-elements, pages and own content-elements. It can be extended by own timing-definitions i.e. fullmoontimer. The extension provide a viewhelper and a sheduler for the controllking of timemanagement. It contain a simple modell for event-presentation.",
-    "hash": "sha256-KZieeGdVDcgWRtAnCHsqSqamvyE+PwFkV9k20awf17s="
+    "hash": "sha256-4Ra3JtJRZtStZtK8Ury0jiO+cRP92jM9JVuumFDQugs="
   },
   "timezones": {
     "version": "3.1.0",
