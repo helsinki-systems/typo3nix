@@ -3525,21 +3525,22 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "backgroundimage": {
-    "version": "4.2.0",
+    "version": "4.3.0",
     "t3_versions": [
-      9,
-      10
+      10,
+      11
     ],
     "description": "Enables uploading of an image in page properties, which then is shown on page as background image for a predefined element.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-TXQaGU7tKLdDwWzN/MTAW/VlC+EY1LEf9wYa+UmxVJY="
   },
   "backgroundimage4ce": {
-    "version": "5.1.0",
+    "version": "5.2.1",
     "t3_versions": [
-      10
+      10,
+      11
     ],
-    "description": "Allows background images and background options for all types of content elements (text, text with image, forms, plugins, ...). Background imagess are adaptive.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "description": "Allows background images and background options for all types of content elements (text, text with image, forms, plugins, ...). Background images are adaptive.",
+    "hash": "sha256-GaKdzzGb03U9JTnBLGERuZvxsGMnu5VcFsMtzyYYE6E="
   },
   "backup": {
     "version": "0.1.0",
@@ -5691,13 +5692,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "bw_captcha": {
-    "version": "2.0.0",
+    "version": "2.0.3",
     "t3_versions": [
       10,
       11
     ],
     "description": "Captcha element for the TYPO3 form component. The captcha generation uses Gregwar/Captcha, no Google or 3rd party includes.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-4/LkepJNa3DkAhAIesBlYxs2zVGQoMUy3F3emh9oS58="
   },
   "bw_covid_numbers": {
     "version": "1.2.0",
@@ -16906,13 +16907,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "eventnews": {
-    "version": "5.0.0",
+    "version": "5.0.2",
     "t3_versions": [
       10,
       11
     ],
     "description": "Events for news",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-MYJDw+fm9D0dU9yYes8M5YmEJigIFznzzGMA9N3pduQ="
   },
   "eventoni_banner": {
     "version": "1.0.0",
@@ -23086,13 +23087,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "hh_accordion": {
-    "version": "0.3.1",
+    "version": "0.3.2",
     "t3_versions": [
       10,
       11
     ],
     "description": "",
-    "hash": "sha256-qiPHXrXCTRYknEzjHeXh4WB+GkKKZkegSKbjmRyRXBs="
+    "hash": "sha256-eUDfuQv6hofO8DIJfxQ0VY/+IFexfjfZqA3F2NCSgdY="
   },
   "hh_add_statuscode": {
     "version": "0.1.21",
@@ -43318,12 +43319,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "publications": {
-    "version": "5.1.0",
+    "version": "5.2.0",
     "t3_versions": [
       11
     ],
     "description": "Publication reference extension with im- and export with bibtex and xml files",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-9LWFkl8ndKM6xfqmX29kx08kV9Yut4cyf2RbAptzq+8="
   },
   "publish": {
     "version": "0.0.10",
@@ -48138,14 +48139,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "server_timing": {
-    "version": "1.0.8",
+    "version": "1.0.9",
     "t3_versions": [
-      9,
       10,
       11
     ],
     "description": "",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-+HKbNm2SUrv3mc/bpeYvpAypaSApBtKJHPkdp+x75pw="
   },
   "service_bw2": {
     "version": "5.0.4",
@@ -59781,6 +59781,14 @@
     ],
     "description": "",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "usertools": {
+    "version": "2.1.2",
+    "t3_versions": [
+      11
+    ],
+    "description": "Collection of user tools: ",
+    "hash": "sha256-t7BCNR8YySGNB6TPuzn7Z8ZNVnSnOft5Y60dJgpiUDc="
   },
   "uuid": {
     "version": "0.2.2",
