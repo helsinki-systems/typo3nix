@@ -5043,12 +5043,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "bootstrap_package": {
-    "version": "13.0.0",
+    "version": "13.0.1",
     "t3_versions": [
       11
     ],
     "description": "Bootstrap Package delivers a full configured frontend theme for TYPO3, based on the Bootstrap CSS Framework.",
-    "hash": "sha256-8yH0Xx3p8x2Af28lmQTe6FMd7roBIX8sEcH/rRGdpjk="
+    "hash": "sha256-srXTeRy4rF3N5J9sz6x3VwTIZ8ZnoIFud7mnqSPY/YY="
   },
   "bootstrapicons": {
     "version": "0.0.1",
@@ -13630,7 +13630,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "distributed_locks": {
-    "version": "1.3.0",
+    "version": "1.4.0",
     "t3_versions": [
       8,
       9,
@@ -13638,7 +13638,7 @@
       11
     ],
     "description": "Adds a Locking Strategy for TYPO3 frontend page generation, useful on distributed systems with NFS.",
-    "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
+    "hash": "sha256-grBs9KlQMv8MrH4EthgUmnb4Xaf1aKOQgMuMH6X7s0w="
   },
   "distribution_helper": {
     "version": "0.1.1",
@@ -17479,13 +17479,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "external_import": {
-    "version": "6.1.1",
+    "version": "6.2.0",
     "t3_versions": [
       10,
       11
     ],
     "description": "Tool for importing data from external sources into the TYPO3 CMS database, using an extended TCA syntax. Provides a BE module, a Scheduler task, a command-line tool and an API.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-6Vq62wVly1aDnAPNpUqXrwSz3d5Ypb4dx7FmB59RyCk="
   },
   "external_import_tt_products": {
     "version": "0.0.1",
@@ -18196,12 +18196,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fe_change_pwd": {
-    "version": "3.0.2",
+    "version": "3.0.3",
     "t3_versions": [
       11
     ],
     "description": "Plugin to enable password change for frontend users. Contains configurable password ",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-UlTmBCNAswiooLfspt1Cnh27iz00CpQPonzgpuwUle0="
   },
   "fe_changelog": {
     "version": "3.1.0",
@@ -19841,14 +19841,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "flush_language_cache": {
-    "version": "3.0.2",
+    "version": "4.0.0",
     "t3_versions": [
-      9,
-      10,
       11
     ],
     "description": "Adds an item to the flush cache menu to clear just the language (l10n) cache. Also provides a command-line tool for that.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-yNu2kk59lIzcYs1t+UE2K01htukJZjSRro74t2Qn+FA="
   },
   "flux": {
     "version": "9.7.2",
@@ -20752,22 +20750,22 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fp_masterquiz": {
-    "version": "3.5.1",
+    "version": "3.5.2",
     "t3_versions": [
       10,
       11
     ],
     "description": "A modern extension that offers quiz, polls and tests. Ajax support. The result can be displayed as a chart too. Supports 8 question modes.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-01SfRcCUhArsYdHy9CHuddD3k5kKd3zTIETjVx6scKc="
   },
   "fp_newsletter": {
-    "version": "3.2.0",
+    "version": "3.2.6",
     "t3_versions": [
       10,
       11
     ],
-    "description": "Plugin for newsletter subscription and unsubscription with double opt in (and double opt out). Used table: tt_address or fe_users. A log is written.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "description": "Plugin for newsletter subscription and unsubscription with double opt in (and double opt out). For: direct_mail or luxletter / tt_address or fe_users. A log is written.",
+    "hash": "sha256-AFA03ltVPWjGIuJfNDhoPI38ttHchbiKX4nydxbfC8w="
   },
   "fp_product_features": {
     "version": "0.2.0",
@@ -23127,13 +23125,13 @@
     "hash": "sha256-+cLlJOhfe1Dx9KE2mH2KfABhKoCrA8zh5B0SQI/pwp8="
   },
   "hh_seo": {
-    "version": "0.4.5",
+    "version": "0.4.6",
     "t3_versions": [
       10,
       11
     ],
     "description": "Hauer-Heinrich - SEO - Meta-Tag - ViewHelpers",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-88TMRu+PTPOaS1JBt3DV5dZ4Tszmjm8zP44xR8h76Ls="
   },
   "hh_slider": {
     "version": "0.2.6",
@@ -26179,13 +26177,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "jar_pretty_preview": {
-    "version": "1.0.14",
+    "version": "1.0.15",
     "t3_versions": [
       10,
       11
     ],
     "description": "Generates an automatic pretty preview of content elements in the backend based on the TCA fields.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-6dRITyWaeo7WZv6od2mhmUbaA6R0uhUQ0MiyS022rPs="
   },
   "jar_pugtemplate": {
     "version": "1.0.9",
@@ -26197,13 +26195,13 @@
     "hash": "sha256-Z2BN9IPCDqGzBNbVFDkPDx0NU6NfCM8yYXjemW1bYzQ="
   },
   "jar_utilities": {
-    "version": "1.0.35",
+    "version": "1.0.36",
     "t3_versions": [
       10,
       11
     ],
     "description": "Utility classes that simplify TYPO3 development.",
-    "hash": "sha256-cRS4QdyqhmxqIs2i+DveZDM3OvNupXz3bpXE+MHNJ84="
+    "hash": "sha256-wY5o0/RpLFjbKET19Y6js2JrghqxRHXnsmAxjhM7RH8="
   },
   "jasmine": {
     "version": "0.1.0",
@@ -30665,13 +30663,12 @@
     "hash": "sha256-s4pMYBG9wjWK780sdTKy8g5GO2lC9V9EbvbUYthRCkY="
   },
   "luxletter": {
-    "version": "17.3.0",
+    "version": "18.0.0",
     "t3_versions": [
-      10,
       11
     ],
     "description": "Free newsletter extension for TYPO3 for an individual email marketing. A lot of analytics and modern concepts. Works with and without EXT:lux.",
-    "hash": "sha256-QiIH1UaHXLh49Q+T82WyB7QF0JeTqNyngUFTHZeFVAU="
+    "hash": "sha256-0czeqfiQTHTlqnR8pOP8HhPPcBcvSTiqbXVoIpA8ya4="
   },
   "lvcleantemp": {
     "version": "1.0.4",
@@ -31577,14 +31574,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "masi": {
-    "version": "1.2.2",
+    "version": "2.0.0",
     "t3_versions": [
-      9,
       10,
       11
     ],
     "description": "Adds convenient features for excluding pages when generating URLs.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-FshGW73uVcTSjpvWH9d3XmRiaRyM+7h9M007d1Jg9G0="
   },
   "masi_csconv": {
     "version": "0.1.0",
@@ -35842,13 +35838,12 @@
     "hash": "sha256-L3ZGwpqSw2Xw7hnWh1e07C8cATVsjX2+gVQkeMNgPuw="
   },
   "mymap": {
-    "version": "1.3.7",
+    "version": "1.5.6",
     "t3_versions": [
-      10,
       11
     ],
     "description": "Google maps with radial search and hierarchic categories (category tree). Show the results in responsive Google maps, traffic- and bicycling layer included and can be activated via constant editor.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-liWt/C8cNxExpkznM34W1fz6vbZFZOiBRkWDv1j9OI4="
   },
   "mypuzz_ftp": {
     "version": "1.1.1",
@@ -35940,13 +35935,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "myttaddressmap": {
-    "version": "1.7.0",
+    "version": "2.0.8",
     "t3_versions": [
-      10,
       11
     ],
     "description": "Google maps for tt_address with radial search and categories",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-9mztEqrG53ZdYKQN7cJ76FmdTqZpXafE3YWtwCbHOr8="
   },
   "mytypo3": {
     "version": "0.1.1",
@@ -37170,13 +37164,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "newt": {
-    "version": "2.1.4",
+    "version": "2.2.0",
     "t3_versions": [
       10,
       11
     ],
     "description": "Backend-Extension to manage the Newt-Access",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-9GhRXswcAEG/2f9T+VErVWBrrwkHHuhe6iF2ztOAWQU="
   },
   "newt4dce": {
     "version": "1.2.2",
@@ -37188,13 +37182,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "newt4news": {
-    "version": "2.1.0",
+    "version": "2.2.0",
     "t3_versions": [
       10,
       11
     ],
     "description": "Extension with the Newt-Provider for News",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-COz2LzQpFStXOLf2IciTWkrW0ToXyz61pnhBd1TzZS8="
   },
   "nextprevious": {
     "version": "1.0.0",
@@ -53105,6 +53099,14 @@
     "description": "This extension include the jQuery Supersized plugin to add fullscreen background to your site.",
     "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
   },
+  "supi": {
+    "version": "6.1.11",
+    "t3_versions": [
+      11
+    ],
+    "description": "Cookie Consent popout, easy, yet powerful",
+    "hash": "sha256-H10A2bj0UWH2PbkBs88iu7BFeARDSvRU2kh6EZ7sTZs="
+  },
   "supr": {
     "version": "1.0.0",
     "t3_versions": [
@@ -61074,6 +61076,14 @@
     "t3_versions": [],
     "description": "Discount for users and usergroups on products and productcategories",
     "hash": "sha256-TItrGKhRR0zn4LGD8CpZlbG0TdUA3BbVMUni8RYSGoY="
+  },
+  "webauthn": {
+    "version": "1.0.3",
+    "t3_versions": [
+      11
+    ],
+    "description": "MFA provider using the webauthn standard for authentication",
+    "hash": "sha256-lxLZUqr7ZjUSb9+snjcy3CeQZZtI2ZdUEzex4U8SbPg="
   },
   "webcamstream": {
     "version": "0.1.0",
