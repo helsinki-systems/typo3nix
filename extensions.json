@@ -9961,14 +9961,14 @@
     "hash": "sha256-tc63t1KRjhmPkoblRGcYvsE/ryRBBuYeH5RlDy+fLqQ="
   },
   "cookies": {
-    "version": "8.1.1",
+    "version": "8.1.2",
     "t3_versions": [
       9,
       10,
       11
     ],
     "description": "Show cookie consent, optional with possibility to deactivate some or all of them.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-WdcImbWYAiH09YrNClXLtdzo7jMj64dIGULFTt24NP8="
   },
   "cookieshy": {
     "version": "2.0.0",
@@ -24035,6 +24035,15 @@
     "description": "This Extension registers an Iconpack-Provider for `EXT:iconpack` which allows you to use the \"Bootstrap Icons\" in TYPO3.",
     "hash": "sha256-NAvNNKRylsJRunydG5NsAv2xnBaFoTfgeTw6LWlROcw="
   },
+  "iconpack_boxicons": {
+    "version": "0.1.0",
+    "t3_versions": [
+      10,
+      11
+    ],
+    "description": "This Extension registers an Iconpack-Provider for `EXT:iconpack` which allows you to use the \"Boxicons\" in TYPO3.",
+    "hash": "sha256-z3+EYtMPj8JXs1kvjFMkxGm6OP6WAYSbU8FuGuMGQck="
+  },
   "iconpack_dripicons": {
     "version": "1.0.2",
     "t3_versions": [
@@ -31066,13 +31075,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mail_logger": {
-    "version": "3.0.6",
+    "version": "3.0.8",
     "t3_versions": [
       10,
       11
     ],
     "description": "This extension logs all your outgoing mails and provides email templates and debugging tools",
-    "hash": "sha256-OiLo838FRnK5g5xemnqdQCZGvFHnlyY/NqU/Jqar6ho="
+    "hash": "sha256-oXNAEQXNAoly3Fzi+h/+GabRXIvZbu7eXj/p2rvOk+U="
   },
   "mail_spool": {
     "version": "1.2.0",
@@ -43653,13 +43662,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "qc_info_rights": {
-    "version": "1.2.5",
+    "version": "1.2.6",
     "t3_versions": [
       10,
       11
     ],
     "description": "Gives editors a view of BE users and group rights like the Access module but in read-only. Also provides BE users and BE User Groups list with CSV export.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-WMt+ksNtpSoDanU63Jh0/bYP8HavxxCa3SmmMVBPR9M="
   },
   "qc_redirects": {
     "version": "1.0.0",
@@ -48011,13 +48020,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "seminars": {
-    "version": "4.3.0",
+    "version": "4.4.0",
     "t3_versions": [
       9,
       10
     ],
     "description": "Allows you to create and manage a list of seminars, workshops, lectures, theater performances and other events, allowing front-end users to sign up. FE users also can create and edit events.",
-    "hash": "sha256-VpZZ+cfBMFJcsrjt8Zs2mpjnFkYzDV+Wd44fCqkzHDg="
+    "hash": "sha256-TK5mdXR4k9eHZmkmhuuzc7dtUSlSnLSBMUUTwcjqy64="
   },
   "seminarscalredirect": {
     "version": "1.0.0",
@@ -51223,13 +51232,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "solr_file_indexer": {
-    "version": "2.5.1",
+    "version": "2.5.2",
     "t3_versions": [
       10,
       11
     ],
     "description": "This extension gives you the capability to index individual documents using Solr.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-UQOLOVviRYIl3MwHAkYZe+C8gycRV5hJVh+5UfZw2UM="
   },
   "solradmin": {
     "version": "2.0.0",
