@@ -20759,13 +20759,13 @@
     "hash": "sha256-01SfRcCUhArsYdHy9CHuddD3k5kKd3zTIETjVx6scKc="
   },
   "fp_newsletter": {
-    "version": "3.2.6",
+    "version": "4.0.0",
     "t3_versions": [
       10,
       11
     ],
     "description": "Plugin for newsletter subscription and unsubscription with double opt in (and double opt out). For: direct_mail or luxletter / tt_address or fe_users. A log is written.",
-    "hash": "sha256-AFA03ltVPWjGIuJfNDhoPI38ttHchbiKX4nydxbfC8w="
+    "hash": "sha256-qxaOHsuEC7shsWVG7F4zsrXm2MNp3i21OX4cYbrUqW8="
   },
   "fp_product_features": {
     "version": "0.2.0",
@@ -23085,13 +23085,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "hh_accordion": {
-    "version": "0.3.2",
+    "version": "0.3.3",
     "t3_versions": [
       10,
       11
     ],
     "description": "",
-    "hash": "sha256-eUDfuQv6hofO8DIJfxQ0VY/+IFexfjfZqA3F2NCSgdY="
+    "hash": "sha256-xePcx6OhncHRmewOQPwwHCV2FtZV375MTM208o0Ooss="
   },
   "hh_add_statuscode": {
     "version": "0.1.21",
@@ -41836,15 +41836,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "pits_downloadcenter": {
-    "version": "4.0.3",
+    "version": "5.0.0",
     "t3_versions": [
-      7,
-      8,
-      9,
-      10
+      11
     ],
     "description": "Download Center Sponsored by TNT-Graphics AG",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-G1W0d8F2HWMQGckMvfKA4sErzhWP/fSp2hal0azHZm0="
   },
   "pits_googlecse": {
     "version": "1.0.1",
@@ -47887,13 +47884,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "secure_downloads": {
-    "version": "4.1.5",
+    "version": "4.1.6",
     "t3_versions": [
       9,
       10
     ],
     "description": "\"Secure Download\": Apply TYPO3 access rights to ALL file assets (PDFs, TGZs or JPGs etc. - configurable) - protect them from direct access.",
-    "hash": "sha256-cHNOE/BAgIGMo+NqITTOd1rGwa5hJBjx99TqaL1Vmg4="
+    "hash": "sha256-+6TbdsGQW2LuniTniACwCFX94lW41noLGWfpW8b96q4="
   },
   "secure_login": {
     "version": "1.0.0",
@@ -53232,12 +53229,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "svconnector_sql": {
-    "version": "3.0.0",
+    "version": "3.1.0",
     "t3_versions": [
-      10
+      10,
+      11
     ],
     "description": "Connector service for any SQL-based database via Doctrine DBAL.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-yoPPQA6FPz4c9PXr0u5qeZxhNItu3qEme1fNkH0HPmE="
   },
   "svconnector_xls": {
     "version": "2.0.2",
@@ -54463,13 +54461,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "t3sbootstrap": {
-    "version": "5.2.7",
+    "version": "5.2.8",
     "t3_versions": [
       10,
       11
     ],
     "description": "Startup extension to use bootstrap 5 classes, components and more out of the box. Example and info: www.t3sbootstrap.de",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-QbhSH9OunIKlkCtHgRgZmKDsN+uJ5FOuUwr36DGV1AY="
   },
   "t3sbootstrap_grid": {
     "version": "2.0.1",
@@ -54762,15 +54760,15 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "t3users": {
-    "version": "9.0.0",
+    "version": "9.1.1",
     "t3_versions": [
-      6,
       7,
       8,
-      9
+      9,
+      10
     ],
     "description": "Enhanced frontend user management for TYPO3. User registration, login and management in a single extension. (Most features still under development!) Requires PHP5!",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-NafsMXwBmZ/epV2RfU7rth1ulzaBxCyf3y36rhUspoE="
   },
   "t3view": {
     "version": "1.0.11",
