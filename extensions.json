@@ -3134,13 +3134,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "autoloader": {
-    "version": "7.3.7",
+    "version": "7.3.9",
     "t3_versions": [
       10,
       11
     ],
     "description": "Automatic components loading of ExtBase extensions to get more time for coffee in the company ;) This ext is not a PHP SPL autoloader or class loader - it is better! Loads CommandController, Xclass, Hooks, FlexForms, Slots, TypoScript, TypeConverter, BackendLayouts and take care of createing needed templates, TCA configuration or translations at the right location.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-N/Fp3nuJPc++lAQlD1YcrHAw+Tdi3Ov9mLFw/H0RIgU="
   },
   "autologin": {
     "version": "1.0.1",
@@ -26178,21 +26178,21 @@
     "hash": "sha256-xZ8Y8s4H4hArPNknM1B5poT37ub8Pe0pzG6EGbpmZNE="
   },
   "jar_dataflow": {
-    "version": "1.0.11",
+    "version": "1.0.14",
     "t3_versions": [
       10
     ],
     "description": "Extends content elements with a query builder to output data from arbitrary list elements",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-8ocKoWkHS7lzw0VFdyLTY5JIk3wCBvACs4RYs6utdPs="
   },
   "jar_pretty_preview": {
-    "version": "1.0.15",
+    "version": "1.0.16",
     "t3_versions": [
       10,
       11
     ],
     "description": "Generates an automatic pretty preview of content elements in the backend based on the TCA fields.",
-    "hash": "sha256-6dRITyWaeo7WZv6od2mhmUbaA6R0uhUQ0MiyS022rPs="
+    "hash": "sha256-uUn6V/13c5bYBhu7aNVjl6CziIuQOv/vCM576bs0xcQ="
   },
   "jar_pugtemplate": {
     "version": "1.0.9",
@@ -26204,13 +26204,13 @@
     "hash": "sha256-Z2BN9IPCDqGzBNbVFDkPDx0NU6NfCM8yYXjemW1bYzQ="
   },
   "jar_utilities": {
-    "version": "1.0.36",
+    "version": "1.0.38",
     "t3_versions": [
       10,
       11
     ],
     "description": "Utility classes that simplify TYPO3 development.",
-    "hash": "sha256-wY5o0/RpLFjbKET19Y6js2JrghqxRHXnsmAxjhM7RH8="
+    "hash": "sha256-kyEvF2MIlaIrTzQInATltKni5C2+XcVoUJyZ+TQPfV0="
   },
   "jasmine": {
     "version": "0.1.0",
@@ -43560,13 +43560,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "pxa_product_manager": {
-    "version": "11.0.7",
+    "version": "11.0.8",
     "t3_versions": [
       10,
       11
     ],
     "description": "Create and list products on a site.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-uhChK/B0oCxNXkN9EIby3xU4vcoG9tCI0Wnn8NLELzo="
   },
   "pxa_siteimprove": {
     "version": "4.0.6",
