@@ -16921,6 +16921,14 @@
     "description": "",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "eventplanner": {
+    "version": "2.0.3",
+    "t3_versions": [
+      11
+    ],
+    "description": "You can organize helper for your event. Plan places of work and the front end users can register for it.",
+    "hash": "sha256-9C+5+VEAR9Gek+NUlHcDxPLjJydDvZuAnUs/o8at0TQ="
+  },
   "events2": {
     "version": "8.1.5",
     "t3_versions": [
@@ -35839,12 +35847,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "myleaflet": {
-    "version": "1.5.10",
+    "version": "1.6.2",
     "t3_versions": [
       11
     ],
     "description": "Leaflet / OpenStreetMap for tt_address data with radial search and categories. No registration and no API-keys necessary.",
-    "hash": "sha256-L3ZGwpqSw2Xw7hnWh1e07C8cATVsjX2+gVQkeMNgPuw="
+    "hash": "sha256-ekIWqGgTXSM4J1f3kSvXJUdJLWp4kabhlp8Ddge4UKs="
   },
   "mymap": {
     "version": "1.5.6",
@@ -58588,13 +58596,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "tt_products": {
-    "version": "2.14.7",
+    "version": "2.14.8",
     "t3_versions": [
       10,
       11
     ],
     "description": "Advanced versions at ttproducts.de. Documented in the E-Book \"Der TYPO3-Webshop\" - Shop with listing in multiple languages, with order tracking, product variants, support for transactor extension, bill, creditpoint and voucher system.",
-    "hash": "sha256-Va8DGbP4s+ZfZ17YY93PRwNdM56cM+E4N+xGmiuTiPo="
+    "hash": "sha256-pSy8/TOLAWFzQ+YBhqWENdI1p/2hpb68rR4S4ABqUwc="
   },
   "tt_products_foundby": {
     "version": "0.1.4",
