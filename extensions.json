@@ -3443,6 +3443,14 @@
     "description": "Display a portfolio of elements. Each element belongs to a category.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "ayacoo_soundcloud": {
+    "version": "1.0.0",
+    "t3_versions": [
+      11
+    ],
+    "description": "",
+    "hash": "sha256-Iu0nGhCCGZiIutfHKMuc+YmDalfJ9kZ1mgYnFHMuVWY="
+  },
   "azurestorage": {
     "version": "0.3.4",
     "t3_versions": [
@@ -18707,13 +18715,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "feuserextrafields": {
-    "version": "5.2.1",
+    "version": "5.2.2",
     "t3_versions": [
       10,
       11
     ],
     "description": "This TYPO3 extension adds additional common fields to FE users and provides Extbase models for this.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-+eRmAU+vpeasP17kdp4Nsr1lJWLPKrttyRAS0wUVoUU="
   },
   "feuserfeediting": {
     "version": "0.0.2",
@@ -28295,12 +28303,10 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "kdstotop": {
-    "version": "11.0.3",
-    "t3_versions": [
-      11
-    ],
+    "version": "12.0.0",
+    "t3_versions": [],
     "description": "Insert a scroll to top plugin",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-CcqQg2GEFRWQywd3A57Mf77QYZq12zuxOisQ39OWWik="
   },
   "ke_contacts": {
     "version": "1.1.1",
@@ -39090,13 +39096,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "oelib": {
-    "version": "5.0.1",
+    "version": "5.0.2",
     "t3_versions": [
       10,
       11
     ],
     "description": "Useful stuff for TYPO3 extension development: helper functions for unit testing, templating and automatic configuration checks.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-2ZInXr1XxghozCpmOgRSmHqHQALed6GgC/w7MjrKvhc="
   },
   "oembed": {
     "version": "0.1.1",
@@ -39367,13 +39373,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "onetimeaccount": {
-    "version": "6.1.0",
+    "version": "6.1.1",
     "t3_versions": [
       10,
       11
     ],
     "description": "Allow users to create a one-time FE account to which they will be automatically logged in (without having to enter a user name or password).",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-/sTTF9YWb5CyeSczul5bvcpQdRUUf7JTIZSZ3KwlXrw="
   },
   "onetimesecret": {
     "version": "1.2.1",
@@ -62205,12 +62211,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ws_scss": {
-    "version": "11.0.1",
+    "version": "11.0.2",
     "t3_versions": [
       11
     ],
     "description": "Compiles scss files to CSS files.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-JBqjEaVyVydnh69WbZpLl04PLaGw3FtvA7I9yoDcnww="
   },
   "ws_sitemap": {
     "version": "0.4.8",
