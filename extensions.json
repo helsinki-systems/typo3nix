@@ -24034,112 +24034,139 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "iconpack": {
-    "version": "0.1.3",
+    "version": "0.2.0",
     "t3_versions": [
       10,
       11
     ],
     "description": "Provides an iconpack-registry for various iconpacks.",
-    "hash": "sha256-hjeaaCcWPPcjzYcZ0LxrfnRK+sR9OzW7UIJb7JSRwgM="
+    "hash": "sha256-8j6pV6TN1FvrqvkcwVpHNdGZyATYh1PgX6JVsNc+ky0="
   },
   "iconpack_bootstrap": {
-    "version": "1.0.2",
+    "version": "1.1.1",
     "t3_versions": [
       10,
       11
     ],
-    "description": "This Extension registers an Iconpack-Provider for `EXT:iconpack` which allows you to use the \"Bootstrap Icons\" in TYPO3.",
-    "hash": "sha256-NAvNNKRylsJRunydG5NsAv2xnBaFoTfgeTw6LWlROcw="
+    "description": "This Extension registers an Iconpack-Provider for EXT:iconpack which allows you to use the \"Bootstrap Icons\" in TYPO3.",
+    "hash": "sha256-8vY5yDEkfb8gIQ9jilkfP5ByRkwDTd64dKkb1cORLtQ="
   },
   "iconpack_boxicons": {
-    "version": "0.1.0",
+    "version": "0.1.2",
     "t3_versions": [
       10,
       11
     ],
-    "description": "This Extension registers an Iconpack-Provider for `EXT:iconpack` which allows you to use the \"Boxicons\" in TYPO3.",
-    "hash": "sha256-z3+EYtMPj8JXs1kvjFMkxGm6OP6WAYSbU8FuGuMGQck="
+    "description": "This Extension registers an Iconpack-Provider for EXT:iconpack which allows you to use the \"Boxicons\" in TYPO3.",
+    "hash": "sha256-YHnnGDPdWdSGL4OWDRZJgNUZSazRTCJA13oHbxfBpdQ="
   },
   "iconpack_dripicons": {
-    "version": "1.0.2",
+    "version": "1.0.4",
     "t3_versions": [
       10,
       11
     ],
-    "description": "This Extension registers an Iconpack-Provider for `EXT:iconpack` which allows you to use the \"Dripicons Icons\" in TYPO3.",
-    "hash": "sha256-kB89cT/ixMO3ont2YfEITy/znp9CbPn6+lZbsbhq978="
+    "description": "This Extension registers an Iconpack-Provider for EXT:iconpack which allows you to use the \"Dripicons Icons\" in TYPO3.",
+    "hash": "sha256-FR72NFklEdDdJkyq1jmrNIva4cKetPsiu2gsXZPDg6M="
   },
   "iconpack_elegant": {
-    "version": "1.0.2",
+    "version": "1.0.4",
     "t3_versions": [
       10,
       11
     ],
-    "description": "This Extension registers an Iconpack-Provider for `EXT:iconpack` which allows you to use the \"Elegant Icons\" in TYPO3.",
-    "hash": "sha256-6n0f84oQmiAke3muaT6Q/nR6ekEFn6H5QC6I2o5vGA0="
+    "description": "This Extension registers an Iconpack-Provider for EXT:iconpack which allows you to use the \"Elegant Icons\" in TYPO3.",
+    "hash": "sha256-7a399fie+CK0935rK7dJxXllzqTGm7i1PSFyo6JLJ6U="
   },
   "iconpack_feather": {
-    "version": "1.0.2",
+    "version": "1.0.4",
     "t3_versions": [
       10,
       11
     ],
-    "description": "This Extension registers an Iconpack-Provider for `EXT:iconpack` which allows you to use the \"Feather Icons\" in TYPO3.",
-    "hash": "sha256-TRq/L1qq5m1cdwdmXBqNZfkSkLXVBNhUnjASjuL8wfQ="
+    "description": "This Extension registers an Iconpack-Provider for EXT:iconpack which allows you to use the \"Feather Icons\" in TYPO3.",
+    "hash": "sha256-bD0iFX/EJqTkJ/dqV7mIv61d358555HLkcAhrR+KIXg="
   },
   "iconpack_fontawesome": {
-    "version": "0.1.3",
+    "version": "0.2.1",
     "t3_versions": [
       10,
       11
     ],
-    "description": "This Extension registers an Iconpack-Provider for `EXT:iconpack` which allows you to use the \"Font Awesome Icons\" in TYPO3.",
-    "hash": "sha256-+VZOiRTn93Wjdwe+1kbIkOG4hdBEb/ApvdvqKq48N/g="
+    "description": "This Extension registers an Iconpack-Provider for EXT:iconpack which allows you to use the \"Font Awesome Icons\" in TYPO3.",
+    "hash": "sha256-BxkBy24WlMTALHWiNhOT1M3hQIeQw2oga1JGmO2GKRU="
   },
   "iconpack_helium": {
-    "version": "1.0.2",
+    "version": "1.0.4",
     "t3_versions": [
       10,
       11
     ],
-    "description": "This Extension registers an Iconpack-Provider for `EXT:iconpack` which allows you to use the \"Helium Icons\" in TYPO3.",
-    "hash": "sha256-SrKjaVCzf+3Nnyqg9QRgOSbKWkdpOCI1sZ5qNcmz59k="
+    "description": "This Extension registers an Iconpack-Provider for EXT:iconpack which allows you to use the \"Helium Icons\" in TYPO3.",
+    "hash": "sha256-LraagDf9leTPoktTJw0DhcIaBQRcac5UXzAUyVxQI3A="
+  },
+  "iconpack_ikons": {
+    "version": "1.0.1",
+    "t3_versions": [
+      10,
+      11
+    ],
+    "description": "This Extension registers an Iconpack-Provider for EXT:iconpack which allows you to use the \"Ikons vector icons\" in TYPO3.",
+    "hash": "sha256-0gL41IFa0GpYv71W6yAZuT1oz8UikeJL6vD5MHTpcEA="
+  },
+  "iconpack_ionicons": {
+    "version": "1.0.1",
+    "t3_versions": [
+      10,
+      11
+    ],
+    "description": "This Extension registers an Iconpack-Provider for EXT:iconpack which allows you to use the \"Ionicons\" in TYPO3.",
+    "hash": "sha256-dlYDYZdShH5rqi9GcHB8B7YE0bxrBZlIah7GVEZp26k="
   },
   "iconpack_linea": {
-    "version": "1.0.2",
+    "version": "1.0.4",
     "t3_versions": [
       10,
       11
     ],
-    "description": "This Extension registers an Iconpack-Provider for `EXT:iconpack` which allows you to use the \"Linea Icons\" in TYPO3.",
-    "hash": "sha256-q+pUcuHE3HmR72SXMPhVkhi7D3/A9+UjQ7nOTLMsfHs="
+    "description": "This Extension registers an Iconpack-Provider for EXT:iconpack which allows you to use the \"Linea Icons\" in TYPO3.",
+    "hash": "sha256-Ok7kCOCq3BbCtubcJtoqcBtTZhTogiwAcqYVhx959H8="
   },
   "iconpack_linearicons": {
-    "version": "1.0.2",
+    "version": "1.0.4",
     "t3_versions": [
       10,
       11
     ],
-    "description": "This Extension registers an Iconpack-Provider for `EXT:iconpack` which allows you to use the \"Linearicons\" in TYPO3.",
-    "hash": "sha256-o/042aTmXLjcMDnGR6RhZOMzPo6VPndbDXtnupEcG/I="
+    "description": "This Extension registers an Iconpack-Provider for EXT:iconpack which allows you to use the \"Linearicons\" in TYPO3.",
+    "hash": "sha256-26TNzK7tmMGieBUfLn3Azlxsaq5zWPT+YCwRkHAG+PU="
   },
   "iconpack_lineicons": {
-    "version": "1.0.2",
+    "version": "1.0.4",
     "t3_versions": [
       10,
       11
     ],
-    "description": "This Extension registers an Iconpack-Provider for `EXT:iconpack` which allows you to use the \"LineIcons\" in TYPO3.",
-    "hash": "sha256-/oO5tqX0uURn8tgjwU9fkZ8foQv8+l21IsbsYkifCuA="
+    "description": "This Extension registers an Iconpack-Provider for EXT:iconpack which allows you to use the \"LineIcons\" in TYPO3.",
+    "hash": "sha256-RaqHBXz37vqJS01ZyF82paJ8sb5aa2BryoyPAWNomjg="
+  },
+  "iconpack_octicons": {
+    "version": "1.0.1",
+    "t3_versions": [
+      10,
+      11
+    ],
+    "description": "This Extension registers an Iconpack-Provider for EXT:iconpack which allows you to use the \"Octicons\" in TYPO3.",
+    "hash": "sha256-pXU9B/XYZQlL1lNDoXU8l5WUjsizO3PsN08hr6NmIt4="
   },
   "iconpack_themify": {
-    "version": "1.0.2",
+    "version": "1.0.4",
     "t3_versions": [
       10,
       11
     ],
-    "description": "This Extension registers an Iconpack-Provider for `EXT:iconpack` which allows you to use the \"Themify Icons\" in TYPO3.",
-    "hash": "sha256-eBhomwFa3UPqI6DdU0k25NnVdgxldqGqscr4/7Jrh6k="
+    "description": "This Extension registers an Iconpack-Provider for EXT:iconpack which allows you to use the \"Themify Icons\" in TYPO3.",
+    "hash": "sha256-zVcnk5QFvMG+ZHUgsnMTCkVHiVNvNmx+etQaSO0gvaM="
   },
   "icons": {
     "version": "1.0.1",
@@ -30686,12 +30713,12 @@
     "hash": "sha256-s4pMYBG9wjWK780sdTKy8g5GO2lC9V9EbvbUYthRCkY="
   },
   "luxletter": {
-    "version": "18.0.0",
+    "version": "19.0.0",
     "t3_versions": [
       11
     ],
     "description": "Free newsletter extension for TYPO3 for an individual email marketing. A lot of analytics and modern concepts. Works with and without EXT:lux.",
-    "hash": "sha256-0czeqfiQTHTlqnR8pOP8HhPPcBcvSTiqbXVoIpA8ya4="
+    "hash": "sha256-kVnO8Tn6PebS0lZCfESDACJA2dBI80UfvOP16/GVKmQ="
   },
   "lvcleantemp": {
     "version": "1.0.4",
@@ -44547,12 +44574,10 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "redirect_tab": {
-    "version": "2.1.0",
-    "t3_versions": [
-      11
-    ],
+    "version": "3.0.1",
+    "t3_versions": [],
     "description": "Show TYPO3 redirects in the page properties",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-tJ3g4hyyJOXEcZTbnZh/dZOFq++D2H7Yx16auPzz37Y="
   },
   "redirection": {
     "version": "1.1.0",
@@ -48031,13 +48056,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "seminars": {
-    "version": "4.4.0",
+    "version": "5.1.0",
     "t3_versions": [
-      9,
-      10
+      10,
+      11
     ],
     "description": "Allows you to create and manage a list of seminars, workshops, lectures, theater performances and other events, allowing front-end users to sign up. FE users also can create and edit events.",
-    "hash": "sha256-TK5mdXR4k9eHZmkmhuuzc7dtUSlSnLSBMUUTwcjqy64="
+    "hash": "sha256-8BQjd8pO4JM47k5QE/rxlumyzlYzkOR7ZOSI263VnmY="
   },
   "seminarscalredirect": {
     "version": "1.0.0",
