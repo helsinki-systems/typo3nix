@@ -18715,13 +18715,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "feuserextrafields": {
-    "version": "5.2.2",
+    "version": "5.3.0",
     "t3_versions": [
       10,
       11
     ],
     "description": "This TYPO3 extension adds additional common fields to FE users and provides Extbase models for this.",
-    "hash": "sha256-+eRmAU+vpeasP17kdp4Nsr1lJWLPKrttyRAS0wUVoUU="
+    "hash": "sha256-YBt64WpNSJwKCWNJAAAFuEF9qtyAZsbR/P8vAcp9Mi4="
   },
   "feuserfeediting": {
     "version": "0.0.2",
@@ -30421,13 +30421,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "logs": {
-    "version": "3.2.4",
+    "version": "4.0.1",
     "t3_versions": [
-      9,
-      10
+      11
     ],
     "description": "Log Reader with a backend module and API to read, filter and delete logs from the TYPO3 Logging API",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-/Tr114ZxIR/VGzlHQdJ9RxczTjmXnrWyUcTNw1vk8ec="
   },
   "loki": {
     "version": "1.1.0",
@@ -38157,7 +38156,7 @@
     "hash": "sha256-L9m6tCmzf1/MUkVs71K7CvMVJB7gR66xw+rcl9bSfic="
   },
   "ns_news_advancedsearch": {
-    "version": "2.0.2",
+    "version": "2.0.3",
     "t3_versions": [
       6,
       7,
@@ -38166,8 +38165,8 @@
       10,
       11
     ],
-    "description": "Do you want more rich search features into your favourite EXT:news? By installing this extension, you can search by category, title, teaser etc. Know  more in manual. Live-Demo: https://demo.t3terminal.com//t3t-extensions/news-advancedsearch You can download PRO version for more-features & free-support at https://t3terminal.com/advanced-search-typo3-news-extension",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "description": "Do you want more rich search features into your favourite EXT:news? By installing this extension, you can search by category, title, teaser etc. Know  more in manual. Live-Demo: https://demo.t3planet.com//t3t-extensions/news-advancedsearch You can download PRO version for more-features & free-support at https://t3planet.com/advanced-search-typo3-news-extension",
+    "hash": "sha256-iWHitRcr6fYmoV35TOOhkRF0qj0LPBfi+8uRi41r37M="
   },
   "ns_news_comments": {
     "version": "5.0.6",
@@ -39123,13 +39122,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "oelib": {
-    "version": "5.0.2",
+    "version": "5.1.0",
     "t3_versions": [
       10,
       11
     ],
     "description": "Useful stuff for TYPO3 extension development: helper functions for unit testing, templating and automatic configuration checks.",
-    "hash": "sha256-2ZInXr1XxghozCpmOgRSmHqHQALed6GgC/w7MjrKvhc="
+    "hash": "sha256-o1Vfj8loJId2N37s+R8Wj3Wr6FDEP55L51FYRtRXyHc="
   },
   "oembed": {
     "version": "0.1.1",
@@ -43619,13 +43618,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "pxa_social_feed": {
-    "version": "3.1.6",
+    "version": "3.1.7",
     "t3_versions": [
       10,
       11
     ],
     "description": "Add Facebook, Instagram, and Twitter feeds to your site.",
-    "hash": "sha256-9k4zqXVGriH9jXA+LQ5LlkgXpOg2nFIT4zocxBcpknU="
+    "hash": "sha256-r6i+QGNQIQxlK4rkyaPBkGGOxMGCqlwPEyTkDcQBbrw="
   },
   "pxa_survey": {
     "version": "2.0.0",
@@ -51268,13 +51267,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "solr_file_indexer": {
-    "version": "2.5.2",
+    "version": "2.5.3",
     "t3_versions": [
       10,
       11
     ],
     "description": "This extension gives you the capability to index individual documents using Solr.",
-    "hash": "sha256-UQOLOVviRYIl3MwHAkYZe+C8gycRV5hJVh+5UfZw2UM="
+    "hash": "sha256-lMsE1e/DCdvVJ2hoG34vUmg6n896E0GRO0MvR3Khoug="
   },
   "solradmin": {
     "version": "2.0.0",
@@ -59384,12 +59383,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "typo3_console": {
-    "version": "7.1.2",
+    "version": "7.1.4",
     "t3_versions": [
       11
     ],
     "description": "A reliable and powerful command line interface for TYPO3 CMS",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-1qq92GzDBtJCyz9pwQXhl3AqC8zgHqVjZt0sfSh9PwI="
   },
   "typo3_console_cleartempfiles": {
     "version": "1.0.0",
