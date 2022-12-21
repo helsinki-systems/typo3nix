@@ -1475,12 +1475,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "aimeos": {
-    "version": "22.10.3",
+    "version": "22.10.4",
     "t3_versions": [
       11
     ],
     "description": "Professional, full-featured and ultra-fast TYPO3 e-commerce extension for online shops, complex B2B applications and #gigacommerce. Turns TYPO3 into the best platform for content commerce and your e-commerce requirements (also available as TYPO3 distribution)",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-iXhOyyj6bwioC8ex0W8jPmVYXhnY1igFYPO84t/zzYU="
   },
   "aimeos_dist": {
     "version": "22.10.1",
@@ -17456,12 +17456,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "extension_builder": {
-    "version": "11.0.8",
+    "version": "11.0.9",
     "t3_versions": [
       11
     ],
     "description": "The Extension Builder helps you to develop a TYPO3 extension based on the domain-driven MVC framework Extbase and the templating engine Fluid.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-g43xYTWT7fFVd7PUFfhrP+C0ylepDlu9301KSCWMagc="
   },
   "extension_compatibility_check": {
     "version": "1.0.2",
@@ -27245,12 +27245,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "jpfaq": {
-    "version": "11.5.1",
+    "version": "11.6.0",
     "t3_versions": [
       11
     ],
     "description": "Frequently Asked Questions (FAQ) plugin. With categories, on-the-fly search, customer helpfulness tracking and comments.",
-    "hash": "sha256-0AcMqdG0WItabt1VxQr48OHpTGP5u+mr4HNJaD1uGwI="
+    "hash": "sha256-JFhW+2syp/OoCzWoKfjmPSGDCDXVoFfq6cgrXxvkQLc="
   },
   "jpgraph": {
     "version": "0.3.11",
@@ -32374,12 +32374,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "media2click": {
-    "version": "3.1.0",
+    "version": "3.1.1",
     "t3_versions": [
       11
     ],
     "description": "Render external content like videos and iframes with privacy in mind: User has to click on placeholder to load the actual content.",
-    "hash": "sha256-Gti7/5QM7uG3h/0NzjwwJLGca66lYgixP47Tlf2KiTc="
+    "hash": "sha256-cp8yTT95OeSp4DdGw/59eYMrrmfD3ovTT12iXeC19Eg="
   },
   "media_center": {
     "version": "1.0.3",
@@ -39399,13 +39399,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "onetimeaccount": {
-    "version": "6.1.1",
+    "version": "6.1.2",
     "t3_versions": [
       10,
       11
     ],
     "description": "Allow users to create a one-time FE account to which they will be automatically logged in (without having to enter a user name or password).",
-    "hash": "sha256-/sTTF9YWb5CyeSczul5bvcpQdRUUf7JTIZSZ3KwlXrw="
+    "hash": "sha256-rsYQZk244ISTMGl8dT1B8XqG3WAwUXrgWWgPHOUT9Kc="
   },
   "onetimesecret": {
     "version": "1.2.1",
@@ -45851,12 +45851,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "rollovercollection4": {
-    "version": "5.0.2",
+    "version": "6.0.0",
     "t3_versions": [
       11
     ],
-    "description": "cool multicolumn rendering with seven boxes layouts for cType textmedia, media, textpic and images; bootstrap package needed. Useful for menu, gallery, other. Highly customizable.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "description": "only 4 bootstrap5 + boostrap package v12+ - cool multicolumn rendering with seven boxes layouts for cType textmedia, media, textpic and images; bootstrap package needed. Useful for menu, gallery, other. Highly customizable.",
+    "hash": "sha256-j/wasUwzz9IdcOEt56oAswESodNMSg5pltGw2fWIzZM="
   },
   "root_meltwater": {
     "version": "1.0.1",
@@ -48299,12 +48299,10 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sf_event_mgt": {
-    "version": "6.3.1",
-    "t3_versions": [
-      11
-    ],
+    "version": "7.0.0",
+    "t3_versions": [],
     "description": "Configurable event management and registration extension based on ExtBase and Fluid",
-    "hash": "sha256-FMmXQApHtScHtN5ISrbxyYCbmBpgyxC3py0mcJZfgIo="
+    "hash": "sha256-rTl3AYU2D8MuP/9FjYqL4DKMM7bqmwzBbjP9SazpEeI="
   },
   "sf_event_mgt_indexer": {
     "version": "3.0.1",
@@ -54245,7 +54243,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "t3monitor": {
-    "version": "1.2.13",
+    "version": "1.2.14",
     "t3_versions": [
       4,
       6,
@@ -54256,7 +54254,7 @@
       11
     ],
     "description": "Monitors TYPO3 installation for updates and security issues (Requires an account on www.t3monitor.de)",
-    "hash": "sha256-mENvLyhO3V7H2tzg6SOyDJ2Lap7Z9Ub5LNA31k3Ozb8="
+    "hash": "sha256-21i1oN+6UqKUIOWlrK7dPEjARoA6kOpaomOacRQkxms="
   },
   "t3monitoragent": {
     "version": "0.1.0",
@@ -55229,13 +55227,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "taxajax": {
-    "version": "0.7.2",
+    "version": "0.8.0",
     "t3_versions": [
       10,
       11
     ],
     "description": "Enhancement to the xajax extension with TYPO3 specific code.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-lYcI2EtKhuEK9LsMWG61ZlMCbbrzThyydT3wJfA8w30="
   },
   "taywa_ccemailfield": {
     "version": "0.0.2",
