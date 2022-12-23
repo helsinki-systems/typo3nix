@@ -3746,14 +3746,14 @@
     "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
   },
   "base_zip": {
-    "version": "0.0.1",
+    "version": "0.1.0",
     "t3_versions": [
       9,
       10,
       11
     ],
-    "description": "A library to download ZIP files. ZipStream-PHP 2.2.0",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "description": "A library to download ZIP files. ZipStream-PHP",
+    "hash": "sha256-5pCtfPfhdiMte3PLvIr2B4oloGGYeHgpeDiH0zsb/nI="
   },
   "baseorg": {
     "version": "6.0.2",
@@ -27162,13 +27162,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "jobrouter_data": {
-    "version": "1.1.1",
+    "version": "1.1.2",
     "t3_versions": [
       10,
       11
     ],
     "description": "Connect JobRouter® JobData tables with TYPO3",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-bUXERkIkkcBqi12nSi3tv1puni+EVFqcMfP4dCmYB0Y="
   },
   "jobrouter_process": {
     "version": "1.2.0",
@@ -31623,13 +31623,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "masi": {
-    "version": "2.0.0",
+    "version": "2.0.1",
     "t3_versions": [
       10,
       11
     ],
     "description": "Adds convenient features for excluding pages when generating URLs.",
-    "hash": "sha256-FshGW73uVcTSjpvWH9d3XmRiaRyM+7h9M007d1Jg9G0="
+    "hash": "sha256-9icVfbpWRdwfhVV5qgBZON8aWV4cjI93VUnPrunIWFQ="
   },
   "masi_csconv": {
     "version": "0.1.0",
@@ -39399,13 +39399,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "onetimeaccount": {
-    "version": "6.1.2",
+    "version": "6.2.0",
     "t3_versions": [
       10,
       11
     ],
     "description": "Allow users to create a one-time FE account to which they will be automatically logged in (without having to enter a user name or password).",
-    "hash": "sha256-rsYQZk244ISTMGl8dT1B8XqG3WAwUXrgWWgPHOUT9Kc="
+    "hash": "sha256-IZ0+5k2hIJnajv4cKXSr33xRZ1PFPGr4vBSALeZEPxY="
   },
   "onetimesecret": {
     "version": "1.2.1",
@@ -43618,13 +43618,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "pxa_social_feed": {
-    "version": "3.1.8",
+    "version": "3.1.9",
     "t3_versions": [
       10,
       11
     ],
     "description": "Add Facebook, Instagram, and Twitter feeds to your site.",
-    "hash": "sha256-lXIIcLK6ZOXnGMjUPxYAw3faqL9IQqk7WkFhCovGE5Y="
+    "hash": "sha256-Miy/QbVVSZLLsxR9HPkCX5WocC4h1U2zOPRHLwnz1k0="
   },
   "pxa_survey": {
     "version": "2.0.0",
@@ -51244,12 +51244,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "solr": {
-    "version": "11.5.0",
+    "version": "11.5.1",
     "t3_versions": [
       11
     ],
     "description": "Apache Solr for TYPO3 is the enterprise search server you were looking for with special features such as Faceted Search or Synonym Support and incredibly fast response times of results within milliseconds.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-DdioK/VPdBwg4JKUTBiOYtDMIxepe0RGnN4uTkTJdM8="
   },
   "solr_boutique": {
     "version": "1.0.0",
