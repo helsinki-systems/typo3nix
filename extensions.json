@@ -45835,20 +45835,20 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "rollovercollection2": {
-    "version": "6.0.0",
+    "version": "6.0.1",
     "t3_versions": [
       11
     ],
     "description": "CIRCLE rollover effetcts from tympanus for cType textmedia, media, images, textpic - Only for bootstrap package 12+ with Bootstrap 5.x (SCSS) (bootstrap_package) library",
-    "hash": "sha256-67kmODK4TZkAepi8dkleAKHJnJUV+0jNvbaYooU7lNw="
+    "hash": "sha256-ogGYSQGLUc32aTUDkPFYFwDLkIYmSv+2lPD/q08/kuY="
   },
   "rollovercollection3": {
-    "version": "6.0.0",
+    "version": "6.0.1",
     "t3_versions": [
       11
     ],
     "description": "ORIGINAL HOVER EFFECTS  - cType supported: textmedia, media and images (https://tympanus.net/Tutorials/OriginalHoverEffects/index.html) -  Only for Bootstrap Package 12 +  Bootstrap 5.x (SCSS) (bootstrap_package)",
-    "hash": "sha256-V2bmYkhGA2973xwbDgus8M1nMRye3vzLna3vjeZKEoA="
+    "hash": "sha256-tZoFvvCZNpr1xvG96O1XSupzap7TqqsK4Lh2WPmfv98="
   },
   "rollovercollection4": {
     "version": "6.0.0",
