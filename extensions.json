@@ -37944,7 +37944,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ns_basetheme": {
-    "version": "11.5.5",
+    "version": "11.5.6",
     "t3_versions": [
       8,
       9,
@@ -37952,7 +37952,7 @@
       11
     ],
     "description": "The architecture of parent/child TYPO3 theme concept. Explore https://t3terminal.com and https://nitsantech.com",
-    "hash": "sha256-6DaD5MOwJ5OZs4AEPrVU6HApqxkZLozAJZ/6+eRN79w="
+    "hash": "sha256-GcxeUFSXDoKlFv4s5yLcjkABzi1PxwwbF3nwwVLyAyg="
   },
   "ns_cache_webhook": {
     "version": "1.0.0",
