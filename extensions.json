@@ -26221,12 +26221,12 @@
     "hash": "sha256-xZ8Y8s4H4hArPNknM1B5poT37ub8Pe0pzG6EGbpmZNE="
   },
   "jar_dataflow": {
-    "version": "1.0.14",
+    "version": "1.0.16",
     "t3_versions": [
       10
     ],
     "description": "Extends content elements with a query builder to output data from arbitrary list elements",
-    "hash": "sha256-8ocKoWkHS7lzw0VFdyLTY5JIk3wCBvACs4RYs6utdPs="
+    "hash": "sha256-bLw1p/filX6y4iV/9Wzl4A4j8qodGYTDxPrNeg8igY4="
   },
   "jar_pretty_preview": {
     "version": "1.0.16",
@@ -45843,12 +45843,12 @@
     "hash": "sha256-ogGYSQGLUc32aTUDkPFYFwDLkIYmSv+2lPD/q08/kuY="
   },
   "rollovercollection3": {
-    "version": "6.0.1",
+    "version": "6.0.2",
     "t3_versions": [
       11
     ],
     "description": "ORIGINAL HOVER EFFECTS  - cType supported: textmedia, media and images (https://tympanus.net/Tutorials/OriginalHoverEffects/index.html) -  Only for Bootstrap Package 12 +  Bootstrap 5.x (SCSS) (bootstrap_package)",
-    "hash": "sha256-tZoFvvCZNpr1xvG96O1XSupzap7TqqsK4Lh2WPmfv98="
+    "hash": "sha256-lcyZv5X1vWJtodbyPztPPLNJo+8SmMl4IJcIex1V4Ro="
   },
   "rollovercollection4": {
     "version": "6.0.0",
