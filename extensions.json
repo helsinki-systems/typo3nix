@@ -3444,12 +3444,10 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ayacoo_soundcloud": {
-    "version": "1.0.0",
-    "t3_versions": [
-      11
-    ],
+    "version": "2.0.0",
+    "t3_versions": [],
     "description": "",
-    "hash": "sha256-Iu0nGhCCGZiIutfHKMuc+YmDalfJ9kZ1mgYnFHMuVWY="
+    "hash": "sha256-9zCIvXjhKoHSTXe+EHYmJeGDuoBbNiNesNKmKy1Pgus="
   },
   "azurestorage": {
     "version": "0.3.4",
@@ -19003,13 +19001,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "filefill": {
-    "version": "4.1.1",
+    "version": "4.2.0",
     "t3_versions": [
       10,
       11
     ],
     "description": "Find and fetch missing local files from different remotes",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-ry+l1Shigo0VICmZbdZbgSi/dWpSH34usphy8KO5554="
   },
   "filelinks": {
     "version": "0.0.11",
@@ -19980,13 +19978,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "focuspoint": {
-    "version": "5.0.1",
+    "version": "5.1.0",
     "t3_versions": [
       10,
       11
     ],
     "description": "Focuspoint integrate the focal point method to crop images in the frontend of the web page. Use the jQuery-focuspoint plugin (https://github.com/jonom/jquery-focuspoint example http://jonom.github.io/jquery-focuspoint/demos/helper/index.html) to crop the images. Use the function as wizard in the file list view and directly in the content element.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-04wG+6oU8PUVP0jOcLL2yuMozReboUdbj9QdrxTY+oc="
   },
   "folder": {
     "version": "0.0.7",
@@ -26221,12 +26219,12 @@
     "hash": "sha256-xZ8Y8s4H4hArPNknM1B5poT37ub8Pe0pzG6EGbpmZNE="
   },
   "jar_dataflow": {
-    "version": "1.0.16",
+    "version": "1.0.17",
     "t3_versions": [
       10
     ],
     "description": "Extends content elements with a query builder to output data from arbitrary list elements",
-    "hash": "sha256-bLw1p/filX6y4iV/9Wzl4A4j8qodGYTDxPrNeg8igY4="
+    "hash": "sha256-fo4C3b9mujBu6yb4+e9A1uhLNdAk8zRRB7Lg/HsnHAc="
   },
   "jar_pretty_preview": {
     "version": "1.0.16",
@@ -37676,16 +37674,16 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "nnhelpers": {
-    "version": "2.0.1",
+    "version": "2.0.2",
     "t3_versions": [],
     "description": "Drastically speed up your extension development with this huge collection of very smart 'oneliners'. Make updating to new TYPO3 versions simple. Packed with things you've spent hours searching on the internet for. Everything accessible with one click via a convenient backend module. No mess and no conflicts. Use whatever method makes you happy – or simple grab the source-code and paste it in your own extension.",
-    "hash": "sha256-yiIZM5/94fzPQtSwz94boTiKfHx6j5NpIDrGDj+wlao="
+    "hash": "sha256-LLD4HGij/Uhdhsrpc+ICcW9DiI0Fdp9rAEBjJ5tJVI4="
   },
   "nnrestapi": {
-    "version": "2.0.1",
+    "version": "2.0.2",
     "t3_versions": [],
     "description": "Build a REST Api for your TYPO3 project. Equipped with everything you need: Routing with annotations. User authentication. Fileupload and FAL conversion. Testbed and automatic documentation of your API. The backend module comes with a \"Kickstarter\" to get your RESTful API up and running in minutes.",
-    "hash": "sha256-41S8PJzQAgcciDy5aPx9e838aVXdZk2qvJkkt/+56oU="
+    "hash": "sha256-jT0o9WEts+SeHrOLcl6DNxPbK4jlHLkiHbLFPlLY5d8="
   },
   "no_opcode_cache_check": {
     "version": "1.0.2",
@@ -53233,45 +53231,44 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "svconnector": {
-    "version": "4.0.0",
+    "version": "5.0.0",
     "t3_versions": [
-      10
+      11
     ],
     "description": "This family of services is used to connect to external data sources and fetch data from them. This is just a base class which cannot be used by itself. Implementations are done for specific subtypes.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-wpaIwHgDXpFuCLgory+CePL2RezbMKRN/IPqheUDZVA="
   },
   "svconnector_csv": {
-    "version": "3.0.0",
+    "version": "4.0.0",
     "t3_versions": [
-      10
+      11
     ],
     "description": "Connector service for reading a CSV or similar flat file",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-C1wmcCrdMLbCY4ZLpM1fVhMwIwhwgMlR2nxdA8xiUZY="
   },
   "svconnector_feed": {
-    "version": "3.0.0",
+    "version": "4.0.0",
     "t3_versions": [
-      10
+      11
     ],
     "description": "Connector service for XML files or RSS feeds",
-    "hash": "sha256-NBTxJ2BOJCv3PMjcFg5jPNEU+ZefiL4BZ0yHity2R5w="
+    "hash": "sha256-fJRNG0viO/S6xFfm74Shp2i9roOS7vy2M/OoPZP76CA="
   },
   "svconnector_json": {
-    "version": "3.0.0",
+    "version": "4.0.0",
     "t3_versions": [
-      10
+      11
     ],
     "description": "Connector service for JSON data",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-NlsmURfzbCZOkKRGGyIBZCsfC11brDI+luQfemE0d7I="
   },
   "svconnector_sql": {
-    "version": "3.1.0",
+    "version": "4.0.0",
     "t3_versions": [
-      10,
       11
     ],
     "description": "Connector service for any SQL-based database via Doctrine DBAL.",
-    "hash": "sha256-yoPPQA6FPz4c9PXr0u5qeZxhNItu3qEme1fNkH0HPmE="
+    "hash": "sha256-iYvjXyREp7en8TUN/e03ej0mpgDTmJ+cFjQ0o0gpZxg="
   },
   "svconnector_xls": {
     "version": "2.0.2",
@@ -56482,13 +56479,10 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "tiktok": {
-    "version": "1.0.0",
-    "t3_versions": [
-      10,
-      11
-    ],
+    "version": "2.0.0",
+    "t3_versions": [],
     "description": "",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-5NqpZ94zk5PBXFoIoLDfKxHbLMZdF4gPWuTsdJOtloA="
   },
   "tile": {
     "version": "0.9.5",
@@ -59299,12 +59293,10 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "twitch": {
-    "version": "1.0.0",
-    "t3_versions": [
-      11
-    ],
+    "version": "2.0.0",
+    "t3_versions": [],
     "description": "",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-n5rMcWDMmhkixXuf0WmD3oivTshYsaR8la+W/H3p+ZQ="
   },
   "twitter": {
     "version": "0.0.2",
