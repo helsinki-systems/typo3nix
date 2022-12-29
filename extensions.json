@@ -2153,13 +2153,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ameos_filemanager": {
-    "version": "2.0.3",
+    "version": "2.0.4",
     "t3_versions": [
       10,
       11
     ],
     "description": "This will allow you to fully handle file upload in FE context",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-MqggT5Em7UGwYDEqPhoQvW8KDDD19d1sIVlpIPRZGRk="
   },
   "ameos_form": {
     "version": "1.4.12",
@@ -26245,13 +26245,13 @@
     "hash": "sha256-Z2BN9IPCDqGzBNbVFDkPDx0NU6NfCM8yYXjemW1bYzQ="
   },
   "jar_utilities": {
-    "version": "1.0.39",
+    "version": "1.0.40",
     "t3_versions": [
       10,
       11
     ],
     "description": "Utility classes that simplify TYPO3 development.",
-    "hash": "sha256-qDZeaIN8X5QywYfJ2MBXAQTOyxZZdYlJHxoTiXfcBkY="
+    "hash": "sha256-0ao2Mb52uSb9o/G+J3mgIlqnU9AI0dgCHAOOQYRiA3I="
   },
   "jasmine": {
     "version": "0.1.0",
@@ -48932,12 +48932,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "shop": {
-    "version": "3.2.0",
+    "version": "3.2.1",
     "t3_versions": [
       11
     ],
     "description": "Simple Shop for TYPO3 incl. PayPal, PayPal-Plus, Klarna, Stripe, Bookmarks, UPS-API, Invoice generation, backend module, compare feature, graduated prices and many more - note there is a Pro version as well!",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-DCRxX75PNFyQha3Icmy0GQyuE2yGp2kbOUEU6Uhoqmg="
   },
   "shop3ox": {
     "version": "0.0.3",
@@ -49092,13 +49092,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sic_address": {
-    "version": "3.2.0",
+    "version": "4.0.0",
     "t3_versions": [
-      9,
-      10
+      11
     ],
     "description": "Address Extension that can either enhance or replace tt_address. You can add required fields dynamically like mask/powermail. Originally it was written in 2016 to replace extensions like nicos_directory, wt_directory or sp_directory and grew from there.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-7FDn8XkD29PSwxbvuTLNCupWz+D4l230219tOoxHRfQ="
   },
   "sici_core": {
     "version": "2.0.0",
