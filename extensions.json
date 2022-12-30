@@ -7747,6 +7747,14 @@
     "description": "Define your own css rule-sets for the TYPO3 CMS backend.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "cf_cookiemanager": {
+    "version": "1.0.0",
+    "t3_versions": [
+      11
+    ],
+    "description": "This extension gives you the possibility to Manage the Cookie Consent Modal on your Website",
+    "hash": "sha256-1GxD0nsG/SmoTFp5omoo2AwG8qcRdUemKgWTtIy3ybE="
+  },
   "cf_google_authenticator": {
     "version": "1.2.4",
     "t3_versions": [
@@ -26245,13 +26253,13 @@
     "hash": "sha256-Z2BN9IPCDqGzBNbVFDkPDx0NU6NfCM8yYXjemW1bYzQ="
   },
   "jar_utilities": {
-    "version": "1.0.40",
+    "version": "1.0.43",
     "t3_versions": [
       10,
       11
     ],
     "description": "Utility classes that simplify TYPO3 development.",
-    "hash": "sha256-0ao2Mb52uSb9o/G+J3mgIlqnU9AI0dgCHAOOQYRiA3I="
+    "hash": "sha256-35QJTWOqNtNjs5iA5/OGr1iNq8Jfs9+z3ZW1Mq6VqBE="
   },
   "jasmine": {
     "version": "0.1.0",
@@ -58487,13 +58495,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "tsparser": {
-    "version": "0.9.0",
+    "version": "0.10.0",
     "t3_versions": [
       10,
       11
     ],
     "description": "This extension adds more types to the Constants Editor. This is a patch for TYPO3.",
-    "hash": "sha256-T/1wF3MjxbRDxTKgiFlGGyasbM1n5hoJshHAt7xcqfg="
+    "hash": "sha256-jabICp2F9aAtzU04f1qHt/1Olzq7rnBM2wj2tGIuXJk="
   },
   "tstemplate_analyzer": {
     "version": "0.0.4",
@@ -62872,14 +62880,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "xblog": {
-    "version": "0.46.17",
+    "version": "0.46.20",
     "t3_versions": [
       8,
       9,
       10
     ],
     "description": "Quickly assemble a TYPO3 frontend! Publish the data from the tables pages, tt_content and from any other database! No need to set up typoscript.",
-    "hash": "sha256-gLNBGBFPkbamQDPiYcr+fpzRiBnJyWYAOSte9G0kTEI="
+    "hash": "sha256-aE646EpO4O4AnHPEzHnCbKPCz4e97Z0daJCm1znMv3I="
   },
   "xdbmysql": {
     "version": "3.0.18",
