@@ -32873,12 +32873,10 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mfa_yubikey": {
-    "version": "1.0.0",
-    "t3_versions": [
-      11
-    ],
+    "version": "2.0.0",
+    "t3_versions": [],
     "description": "YubiKey OTP MFA provider for the TYPO3 backend login.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-aZt60hf6SEyaii9SvenlrIJxtM2tZYZWSzEO0yMWHhA="
   },
   "mfc_author": {
     "version": "2.0.0",
@@ -36933,6 +36931,12 @@
     ],
     "description": "Tracks the most viewed articles for tx_news. Allows you to filter the news items based on time and categories.",
     "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
+  },
+  "news_redirect_slug_change": {
+    "version": "1.1.0",
+    "t3_versions": [],
+    "description": "Generate a redirect if the slug of a news article changes",
+    "hash": "sha256-OPq7GwXEwMNJNSLJcFX+AQmhVxEtyO3OHqLAebHIarw="
   },
   "news_related": {
     "version": "1.1.0",
@@ -56539,12 +56543,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "timer": {
-    "version": "11.1.8",
+    "version": "11.2.1",
     "t3_versions": [
       11
     ],
     "description": "The extension allow the usage of periodical timer for files, content-elements, pages and own content-elements. It can be extended by own timing-definitions i.e. fullmoontimer. The extension provide a viewhelper and a sheduler for the controllking of timemanagement. It contain a simple modell for event-presentation.",
-    "hash": "sha256-4Ra3JtJRZtStZtK8Ury0jiO+cRP92jM9JVuumFDQugs="
+    "hash": "sha256-6wysw3Pm5fFyjCrG/fSTZ5web7h1oTrwiDRyalVE4rE="
   },
   "timezones": {
     "version": "3.1.0",
