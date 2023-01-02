@@ -18,13 +18,13 @@
     "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
   },
   "a11y_me_video": {
-    "version": "1.0.7",
+    "version": "1.0.9",
     "t3_versions": [
       10,
       11
     ],
     "description": "Accessible video player based on MediaElement.js and A11y Plugin and Fluid. The new content elements support mp4, webm, subtitles, sign language video, audio description, poster image, text alternative, etc.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-k6n+pY/Hrd+3nRGv8/YxDcrPZkHJuiiBV9MkGx3M4no="
   },
   "a1_teasermenu": {
     "version": "0.1.0",
@@ -17206,12 +17206,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ext_bibsonomy_csl": {
-    "version": "3.2.0",
+    "version": "3.3.0",
     "t3_versions": [
-      10
+      10,
+      11
     ],
     "description": "TYPO3 extension for PUMA and BibSonomy using CSL",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-IjeL0tJvNNSewkQ10Xk0d4DMi0j0Iiglqu43KxcuZ4Q="
   },
   "ext_configuration": {
     "version": "1.0.3",
@@ -22391,13 +22392,13 @@
     "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
   },
   "gpsnose": {
-    "version": "2.2.3",
+    "version": "2.2.4",
     "t3_versions": [
       10,
       11
     ],
     "description": "Extension to integrate GpsNose into TYPO3 - GpsNose connects anonymous people to the real world using the web and mobiles",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-IvWWSSGtC3CBBTYt1pzgROsf8HVz/eA960suo/eatq8="
   },
   "gra_multislide": {
     "version": "1.0.5",
@@ -38352,15 +38353,15 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ns_whatsapp": {
-    "version": "2.1.0",
+    "version": "2.2.0",
     "t3_versions": [
       8,
       9,
       10,
       11
     ],
-    "description": "TYPO3 WhatsApp Chat allows your visitors to start a WhatsApp conversation, share messages or join a group from your website with a single click. Live-Demo: https://demo.t3terminal.com/t3t-extensions/social-networking/whats-app You can download PRO version for more-features & free-support at https://t3terminal.com/typo3-whatsapp-chat-extension",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "description": "TYPO3 WhatsApp Chat allows your visitors to start a WhatsApp conversation, share messages or join a group from your website with a single click. Live-Demo: https://demo.t3planet.com/t3t-extensions/social-networking/whats-app You can download PRO version for more-features & free-support at https://t3planet.com/typo3-whatsapp-chat-extension",
+    "hash": "sha256-hMOkoLkGUg9NO7c52jlzolk8EtlsY5dCqxkS0PJd4Ms="
   },
   "ns_youtube": {
     "version": "2.1.0",
@@ -61199,6 +61200,14 @@
     "description": "Generate PDF files using WebKit rendering engine.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "webm": {
+    "version": "1.0.0",
+    "t3_versions": [
+      11
+    ],
+    "description": "Creates WebM copies of videos",
+    "hash": "sha256-7gorwTARQ009k5QO63BQtrKeIs/EBU+CIixDNtn54IA="
+  },
   "webp": {
     "version": "4.2.0",
     "t3_versions": [
@@ -62056,12 +62065,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "wp_mailqueue": {
-    "version": "2.0.0",
+    "version": "2.1.0",
     "t3_versions": [
-      10
+      11
     ],
     "description": "",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-omQ8We7b0N+TMD4lPCwwmDOo3lyLTtwFJJ26BD47FUQ="
   },
   "wp_origindetection": {
     "version": "1.1.0",
