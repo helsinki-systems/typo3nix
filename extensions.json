@@ -3134,13 +3134,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "autoloader": {
-    "version": "7.3.9",
+    "version": "7.4.0",
     "t3_versions": [
       10,
       11
     ],
     "description": "Automatic components loading of ExtBase extensions to get more time for coffee in the company ;) This ext is not a PHP SPL autoloader or class loader - it is better! Loads CommandController, Xclass, Hooks, FlexForms, Slots, TypoScript, TypeConverter, BackendLayouts and take care of createing needed templates, TCA configuration or translations at the right location.",
-    "hash": "sha256-N/Fp3nuJPc++lAQlD1YcrHAw+Tdi3Ov9mLFw/H0RIgU="
+    "hash": "sha256-rzZPuZBH/j4DmJQaxRpOpksVs6nYUkQUExRC8OhvkIE="
   },
   "autologin": {
     "version": "1.0.1",
@@ -6556,13 +6556,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "calendarize": {
-    "version": "12.4.2",
+    "version": "12.4.3",
     "t3_versions": [
       10,
       11
     ],
     "description": "Create a structure for timely controlled tables (e.g. events) and one plugin for the different output of calendar views (list, detail, month, year, day, week...). The extension is shipped with one default event table, but you can also \"calendarize\" your own table/model. It is completely independent and configurable! Use your own models as event items in this calender. Development on https://github.com/lochmueller/calendarize",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-O1RlNPU3f9STKjW/DvUoSlGEdrjehDNdhqsIH0TkqWs="
   },
   "calendarize_address": {
     "version": "4.0.0",
@@ -6572,6 +6572,15 @@
     ],
     "description": "Extends EXT:calendarize events with location and organizer records based on EXT:tt_address records and provides corresponding location and organizer views.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "calendarize_content": {
+    "version": "0.1.1",
+    "t3_versions": [
+      10,
+      11
+    ],
+    "description": "Add content to EXT:calendarize",
+    "hash": "sha256-ZJRjyoRyTdvLyU3j8Nr5SJARjDjQmo4NP+fkt7dJ4CY="
   },
   "calendarize_news": {
     "version": "7.0.0",
@@ -9465,13 +9474,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "container_elements": {
-    "version": "4.0.1",
+    "version": "4.0.2",
     "t3_versions": [
       10,
       11
     ],
     "description": "Provides content elements powered by container and bootstrap. Available elements: container, columns, grid, tabs, accordion, tile unit, card and randomizer.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-FEHl2HsR4mEfLvoJ1kqjxEoBzvczjdlIjwF3/vLmpxU="
   },
   "container_example": {
     "version": "1.0.0",
@@ -19493,13 +19502,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "flexible_pages": {
-    "version": "2.2.0",
+    "version": "2.2.1",
     "t3_versions": [
       10,
       11
     ],
     "description": "Supports the setup and management of custom page types.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-wwDqMFD6o+mJTGwzvw7Nfq30Ekvg6JMrCTIA7ljzwYY="
   },
   "flexiblecomments": {
     "version": "0.0.2",
@@ -22974,13 +22983,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "handlebars": {
-    "version": "0.7.18",
+    "version": "0.7.20",
     "t3_versions": [
       10,
       11
     ],
     "description": "A TYPO3 extension that provides an entire rendering environment for Handlebars templates. It is seamlessly integrated into TYPO3 and offers extensive configuration options to get all the power out of your templates.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-RVCWn2RlCdRRrtqgDvP8qmkCpZZc2e1oCdoF8y0XQp4="
   },
   "handlescript_2checkout": {
     "version": "1.0.0",
@@ -26254,13 +26263,13 @@
     "hash": "sha256-Z2BN9IPCDqGzBNbVFDkPDx0NU6NfCM8yYXjemW1bYzQ="
   },
   "jar_utilities": {
-    "version": "1.0.43",
+    "version": "1.0.44",
     "t3_versions": [
       10,
       11
     ],
     "description": "Utility classes that simplify TYPO3 development.",
-    "hash": "sha256-35QJTWOqNtNjs5iA5/OGr1iNq8Jfs9+z3ZW1Mq6VqBE="
+    "hash": "sha256-QoP9hedgh6TgxgqEXkzGsknyDPsD7Fuy0pq9ZG6osQo="
   },
   "jasmine": {
     "version": "0.1.0",
@@ -33389,13 +33398,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mindshape_cookie_consent": {
-    "version": "2.2.4",
+    "version": "2.2.5",
     "t3_versions": [
       10,
       11
     ],
     "description": "This extension provides functionality to create  a customizable cookie consent for your website. It is developed for flexibility to be customized in accordance to your data security guidelines.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-t977yeoBFLHCv1hB4PEbzqzbiL2BReY7CJc3wV0QWmo="
   },
   "mindshape_cookie_hint": {
     "version": "1.1.0",
@@ -38156,7 +38165,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ns_license": {
-    "version": "1.8.2",
+    "version": "1.8.4",
     "t3_versions": [
       8,
       9,
@@ -38164,7 +38173,7 @@
       11
     ],
     "description": "Manage License(s) of your purchased T3Planet's premium TYPO3 products. Know more at documentation https://docs.t3planet.com/en/latest/License/LicenseActivation/Index.html",
-    "hash": "sha256-L9m6tCmzf1/MUkVs71K7CvMVJB7gR66xw+rcl9bSfic="
+    "hash": "sha256-59EKS3KYEodfW4Ehh1f8npyNkgptOnmx+edX5Daqo3M="
   },
   "ns_news_advancedsearch": {
     "version": "2.0.3",
