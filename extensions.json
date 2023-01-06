@@ -5149,12 +5149,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "brofix": {
-    "version": "4.1.4",
+    "version": "4.1.5",
     "t3_versions": [
       11
     ],
     "description": "Check for broken links and fix them via a backend module (forked from core linkvalidator)",
-    "hash": "sha256-BySfgkwPdIw4k1x3cGt4dAttc28mQHCgEW9WQer6VlQ="
+    "hash": "sha256-lF/OjbZANY36HxRXPtYMq2Hyw9zUqTHFW4TBp5XV4eE="
   },
   "browser": {
     "version": "10.0.3",
@@ -17511,13 +17511,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "external_import": {
-    "version": "6.2.0",
+    "version": "6.2.1",
     "t3_versions": [
       10,
       11
     ],
     "description": "Tool for importing data from external sources into the TYPO3 CMS database, using an extended TCA syntax. Provides a BE module, a Scheduler task, a command-line tool and an API.",
-    "hash": "sha256-6Vq62wVly1aDnAPNpUqXrwSz3d5Ypb4dx7FmB59RyCk="
+    "hash": "sha256-cd8nPk9DtigU1DGjsCwLRUrRjgpOhXUOaS+94CUY/ik="
   },
   "external_import_tt_products": {
     "version": "0.0.1",
@@ -22214,12 +22214,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "google_tag_manager": {
-    "version": "11.0.9",
+    "version": "11.0.10",
     "t3_versions": [
       11
     ],
     "description": "Create a interface for Google Tag Manager",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-Byh0rrSMvI8c0a0kfAqFfuI6WHxMnGTSaNxKeo5IWMM="
   },
   "google_translate": {
     "version": "0.0.3",
@@ -28415,13 +28415,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ke_search": {
-    "version": "4.5.1",
+    "version": "4.6.0",
     "t3_versions": [
       10,
       11
     ],
     "description": "Faceted fulltext search for TYPO3. Fast, flexible and easy to install and use. Indexes content directly from the databases. Features faceting / filtering, file indexing, images in result lists and respects access restrictions.",
-    "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
+    "hash": "sha256-meOdgmAZxR1I2xw6/ngsiUP5dt/hpMN7ADtGZ+fOOu4="
   },
   "ke_search_dam_tags": {
     "version": "0.0.1",
@@ -33693,13 +33693,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mkforms": {
-    "version": "10.1.3",
+    "version": "10.1.4",
     "t3_versions": [
       9,
       10
     ],
     "description": "Making HTML forms for TYPO3",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-OC0HjNJ1AMZzPL4z+FUfKofBrg2hnYT81zCCr3iqnms="
   },
   "mkit_wetter": {
     "version": "1.1.0",
@@ -40553,6 +40553,14 @@
     ],
     "description": "This implements the patch for bug1822 which is shipped since TYPO3 4.4. So this extension is wont be needed any more.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "patch_install_tool": {
+    "version": "0.1.0",
+    "t3_versions": [
+      11
+    ],
+    "description": "Collection of patches for the Backend Layout",
+    "hash": "sha256-J633fNOgmoSAiV6+RmfiSaEXDJ/Gh9+xUh9OOhJH+Gg="
   },
   "patch_tce": {
     "version": "0.0.3",
