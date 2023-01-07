@@ -31800,12 +31800,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "matomo_widgets": {
-    "version": "2.0.0",
+    "version": "2.1.0",
     "t3_versions": [
       11
     ],
     "description": "Dashboard widgets with Matomo reports",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-Jadfg/Py/qMnKc5vtdUjh2Fbz6Mx8Iu2TSy/TGjkt2s="
   },
   "matomoapi": {
     "version": "1.0.1",
@@ -45478,12 +45478,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "rh_majordomo": {
-    "version": "1.1.0",
+    "version": "1.1.1",
     "t3_versions": [
       10
     ],
     "description": "A Typo3 plugin that allows a FE user to add himself to a Majordomo email list.",
-    "hash": "sha256-t3vARXjNP4PnLr5nfX4/E/V/9zbgiNALLzp1dWHDl7Y="
+    "hash": "sha256-BuX8GU3dS6T57lKcbquMUa5n4OxqxIGSOK7hLB5nqSQ="
   },
   "rh_recaptcha": {
     "version": "1.1.1",
@@ -60290,7 +60290,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "vhs": {
-    "version": "6.1.2",
+    "version": "6.1.3",
     "t3_versions": [
       8,
       9,
@@ -60298,7 +60298,7 @@
       11
     ],
     "description": "A collection of ViewHelpers for performing rendering tasks that are not natively provided by the Fluid templating engine.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-5PAvF/a13pDLp/yiZPMeQuv4AEO3YU8t/xDWLQ2V09U="
   },
   "vhs_scss": {
     "version": "2.0.3",
