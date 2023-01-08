@@ -11190,12 +11190,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ctype_manager": {
-    "version": "11.5.0",
+    "version": "11.6.0",
     "t3_versions": [
       11
     ],
     "description": "This TYPO3 extension implements a backend module through which available content and plugin types can be configured on page level.",
-    "hash": "sha256-Vt5mRMY+005kiAIP0kq39WnzpEt6sXciUXBXZOYlejo="
+    "hash": "sha256-xObMKmO5t4XdqhyxgohD7WhKpZdSZU0ki/TM47NuFuY="
   },
   "cundd_composer": {
     "version": "4.1.0",
@@ -56576,12 +56576,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "timer": {
-    "version": "11.2.1",
+    "version": "11.2.2",
     "t3_versions": [
       11
     ],
     "description": "The extension allow the usage of periodical timer for files, content-elements, pages and own content-elements. It can be extended by own timing-definitions i.e. fullmoontimer. The extension provide a viewhelper and a sheduler for the controllking of timemanagement. It contain a simple modell for event-presentation.",
-    "hash": "sha256-6wysw3Pm5fFyjCrG/fSTZ5web7h1oTrwiDRyalVE4rE="
+    "hash": "sha256-JhdIaJ0/QRGSBYlzD6b7dBtwDSKUUyhTsaYYq/Elxl4="
   },
   "timezones": {
     "version": "3.1.0",
