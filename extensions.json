@@ -1014,13 +1014,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "additional_tca": {
-    "version": "1.11.0",
+    "version": "1.11.1",
     "t3_versions": [
       10,
       11
     ],
     "description": "Additional TCA fields and tools",
-    "hash": "sha256-pPB73n+05tccKgwwCuPT0Gz28snGWzd9QWaKkkn7EpU="
+    "hash": "sha256-Uavr22kKGfotG9YlntktFC95jPzRefe4g44biCPzq1Y="
   },
   "addlinkheader": {
     "version": "0.0.4",
@@ -1055,13 +1055,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "address_manager": {
-    "version": "3.1.1",
+    "version": "3.1.2",
     "t3_versions": [
       10,
       11
     ],
     "description": "Manages and displays address and person records. Comes with three kinds of categories (groups, organisations and positions) with frontend filtering and fulltext search. Includes Google Maps and SEO support. There is also a pro version available. (Personenverzeichnis, Personendatenbank, Mitarbeiterverzeichnis, Filialfinder, Umkreissuche, Standortuebersicht, radial search, radius search)",
-    "hash": "sha256-eOe65aGyLAT6zb/Ke7zw7qnCJBU/a8hQBmpSc3zGZLY="
+    "hash": "sha256-XaSl5dkk8ydqqXAXbhDZ+PfCQFWm6lXD+ntP5CH+R2Q="
   },
   "addressgroups": {
     "version": "1.4.0",
@@ -4305,14 +4305,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "belogin_images": {
-    "version": "3.1.4",
+    "version": "4.0.1",
     "t3_versions": [
       9,
       10,
       11
     ],
     "description": "Display random Background Images from different sources at your TYPO3 BackendLogin Page.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-tdz8GaciYVzDMsiIy2dOuTTt8bdwnYiBrSupjbObKqg="
   },
   "bepagination": {
     "version": "0.1.0",
@@ -11322,12 +11322,28 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cute_mailing": {
-    "version": "1.0.2",
+    "version": "2.0.0",
     "t3_versions": [
       11
     ],
-    "description": "Send TYPO3 pages as emails (newsletter) to nmany recipients.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "description": "Send TYPO3 pages as emails (newsletter) to many recipients. Can be used as replacement for direct_mail.",
+    "hash": "sha256-ykd40rwAMt73sR2D/+mFKpBm5BoLpbePKPY4dnaRWf0="
+  },
+  "cute_mailing_registeraddress": {
+    "version": "1.0.0",
+    "t3_versions": [
+      11
+    ],
+    "description": "A TYPO3 extension that connects registeraddress and cute-mailing.",
+    "hash": "sha256-MjDyrdYMDGt0Uf9OAWZcFhn+1mvA8TOSv68jKJQFMn8="
+  },
+  "cute_mailing_ttaddress": {
+    "version": "1.0.0",
+    "t3_versions": [
+      11
+    ],
+    "description": "A TYPO3 extension that connects tt_address and cute-mailing.",
+    "hash": "sha256-govHbqFNoKwE5S13SKVFrXKqqRR/PscjvHbAGIojo6s="
   },
   "cv_merge_flexform": {
     "version": "0.1.0",
@@ -25189,12 +25205,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "in2studyfinder": {
-    "version": "9.0.1",
+    "version": "9.0.3",
     "t3_versions": [
       11
     ],
     "description": "List of master's and bachelor's degree programs for colleges and universities",
-    "hash": "sha256-fSTsuK8Ny53pVyMgYfqhzWNpQIKImJ2JR2YWnFg5z2Q="
+    "hash": "sha256-WjlnO0qY/gNWycW2/DSrsS+1jK+bxEfOI5dJT2RzBvQ="
   },
   "in_gallery_flickr": {
     "version": "2.0.12",
@@ -26271,13 +26287,13 @@
     "hash": "sha256-Z2BN9IPCDqGzBNbVFDkPDx0NU6NfCM8yYXjemW1bYzQ="
   },
   "jar_utilities": {
-    "version": "1.0.44",
+    "version": "1.0.45",
     "t3_versions": [
       10,
       11
     ],
     "description": "Utility classes that simplify TYPO3 development.",
-    "hash": "sha256-QoP9hedgh6TgxgqEXkzGsknyDPsD7Fuy0pq9ZG6osQo="
+    "hash": "sha256-BhvmiTWC2+71AjkTPF9mGMCxXKBzp7xgfPXu3IhFyVg="
   },
   "jasmine": {
     "version": "0.1.0",
@@ -34331,13 +34347,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "modules": {
-    "version": "5.5.0",
+    "version": "5.6.0",
     "t3_versions": [
       10,
       11
     ],
     "description": "Modules - Little helper for creating frontend and backend modules in TYPO3",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-09rbYzijdjcbfJ4iJrD2c2Q5ekT9vUG6iocaNdoYF3U="
   },
   "modulis_animated_gif": {
     "version": "0.0.4",
@@ -37267,13 +37283,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "newt4news": {
-    "version": "2.2.0",
+    "version": "2.2.1",
     "t3_versions": [
       10,
       11
     ],
     "description": "Extension with the Newt-Provider for News",
-    "hash": "sha256-COz2LzQpFStXOLf2IciTWkrW0ToXyz61pnhBd1TzZS8="
+    "hash": "sha256-G68OyPhTKtyfRY6usAaln2wZwYlEsDzOcQlMGlxuvtk="
   },
   "nextprevious": {
     "version": "1.0.0",
@@ -43164,12 +43180,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "psb_foundation": {
-    "version": "1.2.3",
+    "version": "1.2.4",
     "t3_versions": [
       11
     ],
     "description": "Configuration framework for TYPO3 extension development",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-q8eZtrZ7fKk9ikM4ao/zNJVZEiXGE4bkGcnUB0IjElc="
   },
   "psb_view_helpers": {
     "version": "1.1.1",
@@ -54284,7 +54300,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "t3monitor": {
-    "version": "1.2.14",
+    "version": "1.2.15",
     "t3_versions": [
       4,
       6,
@@ -54295,7 +54311,7 @@
       11
     ],
     "description": "Monitors TYPO3 installation for updates and security issues (Requires an account on www.t3monitor.de)",
-    "hash": "sha256-21i1oN+6UqKUIOWlrK7dPEjARoA6kOpaomOacRQkxms="
+    "hash": "sha256-JorRGVXQ3LOopVc/R7nj7Ka5hkGiQynb6LlV2c4wJZE="
   },
   "t3monitoragent": {
     "version": "0.1.0",
@@ -59417,12 +59433,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "typo3_console": {
-    "version": "7.1.4",
+    "version": "7.1.5",
     "t3_versions": [
       11
     ],
     "description": "A reliable and powerful command line interface for TYPO3 CMS",
-    "hash": "sha256-1qq92GzDBtJCyz9pwQXhl3AqC8zgHqVjZt0sfSh9PwI="
+    "hash": "sha256-Xh6NmlvhqHU/8GG4s9Md1wo6WWWtix6/zWWmCqo5o+g="
   },
   "typo3_console_cleartempfiles": {
     "version": "1.0.0",
@@ -60380,6 +60396,14 @@
     ],
     "description": "Another content element for Youtube, Vimeo and Dailymotion videos.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "videos": {
+    "version": "11.0.1",
+    "t3_versions": [
+      11
+    ],
+    "description": "Video player for playlists with cue points, preview image and subtitles",
+    "hash": "sha256-XNdyPbwAkn+itm2bY1PeQxpog1y1Ma+JFU6aU3rIG4M="
   },
   "videoswitcher": {
     "version": "0.0.4",
