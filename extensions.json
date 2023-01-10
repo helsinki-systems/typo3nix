@@ -5604,12 +5604,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "bulma_package": {
-    "version": "2.0.2",
+    "version": "2.0.4",
     "t3_versions": [
       11
     ],
     "description": "Bulma Package delivers a full configured frontend theme for TYPO3, based on the Bulma CSS Framework.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-PgCRsDV78gfCGL2qEPonbq/A2sT3GPt0DOl4NBlnhHI="
   },
   "burmeesmenu": {
     "version": "0.1.10",
@@ -8108,13 +8108,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "checkfaluploads": {
-    "version": "3.0.0",
+    "version": "3.0.2",
     "t3_versions": [
       10,
       11
     ],
     "description": "Displays a checkbox that must be checked to upload files in backend",
-    "hash": "sha256-Rg/ec1TBNGfFgCteR1tEVCPvHR5bHY7EXSViGfR4dLY="
+    "hash": "sha256-V7rypf5l45gwCC0k4X5DC5/oLJTFHrMjOlFi3NSHeHw="
   },
   "checkmysite": {
     "version": "3.1.0",
@@ -9960,12 +9960,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cookieman": {
-    "version": "2.12.1",
+    "version": "2.13.3",
     "t3_versions": [
       11
     ],
     "description": "Provides a user consent popup. It asks for approval to include tracking objects (cookies, images or any HTML) and includes the objects when consented. It also removes cookies after the consent has been revoked.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-9lGbCEjUCQ2DSFVBOBp7eDf40CkcQ8fD8ltYN1qdTV8="
   },
   "cookiepro": {
     "version": "1.0.3",
@@ -11322,12 +11322,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cute_mailing": {
-    "version": "2.0.0",
+    "version": "2.0.1",
     "t3_versions": [
       11
     ],
     "description": "Send TYPO3 pages as emails (newsletter) to many recipients. Can be used as replacement for direct_mail.",
-    "hash": "sha256-ykd40rwAMt73sR2D/+mFKpBm5BoLpbePKPY4dnaRWf0="
+    "hash": "sha256-J4J41V00d6y634Xv/Vmfe7YmmQY2TBUyFWpn73N/GK4="
   },
   "cute_mailing_registeraddress": {
     "version": "1.0.0",
@@ -27879,13 +27879,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "jwtools2": {
-    "version": "6.0.3",
+    "version": "6.0.5",
     "t3_versions": [
       10,
       11
     ],
     "description": "Jwtools2 contains a scheduler task for Solr to index multiple Pagetrees and a task to execute ",
-    "hash": "sha256-txQJYhRKeVMwfuPFwfA0e759Dv/h9XS6obEAI71A1N4="
+    "hash": "sha256-huiHnL7ZkqiTNTqBDcaj7EDOj1rJSpz0ioghNsoot1M="
   },
   "k20events": {
     "version": "1.0.3",
@@ -31136,6 +31136,14 @@
     ],
     "description": "Implements a new content element \"Magazine Images\" with very nice looking automatic image layouts for up to eight images.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "mail": {
+    "version": "1.0.16",
+    "t3_versions": [
+      11
+    ],
+    "description": "Mail System for TYPO3",
+    "hash": "sha256-jolTa7UtE0j/zjGYzhvWHtoTrvsLD8PvENrQLNuGWCk="
   },
   "mail2news": {
     "version": "2.0.3",
@@ -36009,13 +36017,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mysqlreport": {
-    "version": "2.0.3",
+    "version": "2.0.4",
     "t3_versions": [
       10,
       11
     ],
     "description": "Analyze and profile your TYPO3 databases queries",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-zmlQJvXljRA7e7vYHNNookJjGwmJTTDTOGUqeTnZ7a0="
   },
   "mytemplate1": {
     "version": "0.0.2",
@@ -55924,6 +55932,15 @@
     "t3_versions": [],
     "description": "",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "testing": {
+    "version": "1.0.6",
+    "t3_versions": [
+      10,
+      11
+    ],
+    "description": "Testing playground",
+    "hash": "sha256-zSKMKBsI9Z7W6uDl1xuwBpL0O7khmua1ToL+5fBz7fw="
   },
   "testocagtmpl": {
     "version": "0.0.8",
