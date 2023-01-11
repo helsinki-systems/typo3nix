@@ -3134,13 +3134,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "autoloader": {
-    "version": "7.4.3",
+    "version": "7.4.4",
     "t3_versions": [
       10,
       11
     ],
     "description": "Automatic components loading of ExtBase extensions to get more time for coffee in the company ;) This ext is not a PHP SPL autoloader or class loader - it is better! Loads CommandController, Xclass, Hooks, FlexForms, Slots, TypoScript, TypeConverter, BackendLayouts and take care of createing needed templates, TCA configuration or translations at the right location.",
-    "hash": "sha256-jF4G+WoOASJQJNXGMihFQvCU0hhFhOeJG21YPwEd44U="
+    "hash": "sha256-tsrJkEJ6w5tX9IFAAIJdACReBeTENJHISZjZayDS59o="
   },
   "autologin": {
     "version": "1.0.1",
@@ -26287,13 +26287,13 @@
     "hash": "sha256-Z2BN9IPCDqGzBNbVFDkPDx0NU6NfCM8yYXjemW1bYzQ="
   },
   "jar_utilities": {
-    "version": "1.0.45",
+    "version": "1.0.46",
     "t3_versions": [
       10,
       11
     ],
     "description": "Utility classes that simplify TYPO3 development.",
-    "hash": "sha256-BhvmiTWC2+71AjkTPF9mGMCxXKBzp7xgfPXu3IhFyVg="
+    "hash": "sha256-DDN2UDLu+SYnZxCj9L8wyvh3gSwEEHhO9t8aNhrzyvI="
   },
   "jasmine": {
     "version": "0.1.0",
@@ -33456,13 +33456,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mindshape_seo": {
-    "version": "2.0.1",
+    "version": "2.0.2",
     "t3_versions": [
       9,
       10
     ],
     "description": "Extension to manage the SEO of your site",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-6D4Zv9D/NDznuB08P2RYbyfd8Q8o+WMcgmBy51auuFU="
   },
   "minicleaner": {
     "version": "2.3.0",
@@ -33780,13 +33780,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mklog": {
-    "version": "11.0.4",
+    "version": "11.0.6",
     "t3_versions": [
       10,
       11
     ],
     "description": "Keep track of developer logs. Provides automatic email notification about important errors.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-CE5RTo7UYhd84HiAyAUEpqxP5OtR8XSCM0zpjMMkeVY="
   },
   "mkmailer": {
     "version": "9.0.0",
@@ -33837,13 +33837,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mksanitizedparameters": {
-    "version": "11.0.1",
+    "version": "11.0.2",
     "t3_versions": [
       10,
       11
     ],
     "description": "Sanitize $_REQUEST, $_POST and $_GET before the processing of TYPO3 in backend or frontend starts. Take a look into the documentation how to add your own rules or see which one exist.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-u7yLXakslCa9dqPrM+XcIvG2aFmsIAFWx1ZWIPSzBvY="
   },
   "mksearch": {
     "version": "10.1.7",
@@ -33855,13 +33855,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mktools": {
-    "version": "11.0.0",
+    "version": "11.0.1",
     "t3_versions": [
       10,
       11
     ],
     "description": "Collection of some useful tools",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-/4jsScbWeSH2luIIo0NJrPTxlw1T2NkfwgaZSsNaeMA="
   },
   "mkvarnish": {
     "version": "10.0.6",
@@ -39794,13 +39794,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "osm": {
-    "version": "3.0.0",
+    "version": "3.1.0",
     "t3_versions": [
       10,
       11
     ],
     "description": "A smart OpenStreetMap solution in TYPO3",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-/WieDdqMtNFxUFBYq/iuY4klCzhCAc+k6jrTOy4sWis="
   },
   "osmplus": {
     "version": "0.0.1",
@@ -43668,13 +43668,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "pxa_product_manager": {
-    "version": "11.0.8",
+    "version": "11.0.9",
     "t3_versions": [
       10,
       11
     ],
     "description": "Create and list products on a site.",
-    "hash": "sha256-uhChK/B0oCxNXkN9EIby3xU4vcoG9tCI0Wnn8NLELzo="
+    "hash": "sha256-7IqNw1KvH+MmxUI3JrlO+z0UXhSitb3ebKO1oVduau4="
   },
   "pxa_siteimprove": {
     "version": "4.0.6",
@@ -58695,13 +58695,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "tt_products": {
-    "version": "2.14.9",
+    "version": "2.14.10",
     "t3_versions": [
       10,
       11
     ],
     "description": "Advanced versions at ttproducts.de. Documented in the E-Book \"Der TYPO3-Webshop\" - Shop with listing in multiple languages, with order tracking, product variants, support for transactor extension, bill, creditpoint and voucher system.",
-    "hash": "sha256-hIEOxp0FCP9nUJU7BuxJhs/z2FjVs5xNFDYZiJwsxog="
+    "hash": "sha256-NFSYkJzosk2KPii/NzsRcK7MmW5IQXETlzlTSzqf35Y="
   },
   "tt_products_foundby": {
     "version": "0.1.4",
@@ -61331,6 +61331,14 @@
     ],
     "description": "Display a portfolio of websites you have created. Each site has an image, description, used techniques and links.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "websocket_provider": {
+    "version": "0.2.0",
+    "t3_versions": [
+      10
+    ],
+    "description": "Run a websocket server within the TYPO3 context with extensible server logic.",
+    "hash": "sha256-b+6N/x9eRlbRmEk1OwCa1zZhuY5j5Rm13XsAoOPTL1E="
   },
   "websockets": {
     "version": "2.3.0",
