@@ -1055,13 +1055,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "address_manager": {
-    "version": "3.1.2",
+    "version": "3.1.3",
     "t3_versions": [
       10,
       11
     ],
     "description": "Manages and displays address and person records. Comes with three kinds of categories (groups, organisations and positions) with frontend filtering and fulltext search. Includes Google Maps and SEO support. There is also a pro version available. (Personenverzeichnis, Personendatenbank, Mitarbeiterverzeichnis, Filialfinder, Umkreissuche, Standortuebersicht, radial search, radius search)",
-    "hash": "sha256-XaSl5dkk8ydqqXAXbhDZ+PfCQFWm6lXD+ntP5CH+R2Q="
+    "hash": "sha256-kpIahkGDZck6slCFaQ+0zNsibkuGnVEYjwn4lYWVBjA="
   },
   "addressgroups": {
     "version": "1.4.0",
@@ -9407,14 +9407,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "consentmanager_v2": {
-    "version": "1.1.0",
+    "version": "1.3.0",
     "t3_versions": [
       9,
       10,
       11
     ],
     "description": "Consent Manager is a GDPR / CCPA consent management solution (SaaS, Software as a Service). In simple words a “cookie banner”. This tool allows to ask website visitors for consent and/or enable opt-out from data processing, cookies, sale of personal information and so on. This helps our clients to fulfil their legal requirements under GDPR, CCPA and other legislations.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-1MtZoNP69ZEf1FMIg820iugrwQDYSyu0xxBNmQTBHCM="
   },
   "constant_editor": {
     "version": "0.1.4",
@@ -27879,13 +27879,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "jwtools2": {
-    "version": "6.0.5",
+    "version": "6.0.6",
     "t3_versions": [
       10,
       11
     ],
     "description": "Jwtools2 contains a scheduler task for Solr to index multiple Pagetrees and a task to execute ",
-    "hash": "sha256-huiHnL7ZkqiTNTqBDcaj7EDOj1rJSpz0ioghNsoot1M="
+    "hash": "sha256-pUSe8zTYCVjiDhmYI+Gj3cutZoVKty8i0iVHVrHDyAE="
   },
   "k20events": {
     "version": "1.0.3",
@@ -31138,12 +31138,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mail": {
-    "version": "1.0.16",
+    "version": "1.0.18",
     "t3_versions": [
       11
     ],
     "description": "Mail System for TYPO3",
-    "hash": "sha256-jolTa7UtE0j/zjGYzhvWHtoTrvsLD8PvENrQLNuGWCk="
+    "hash": "sha256-STYHOMVEHXWDpAUZpQnYeUnElb7Oo9Ft9mSeXwz3ehQ="
   },
   "mail2news": {
     "version": "2.0.3",
@@ -55660,6 +55660,15 @@
     "description": "Simple list for telefonlogging. Based on veguestbook (Udo von Eyern)",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "telephonedirectory": {
+    "version": "4.0.0",
+    "t3_versions": [
+      10,
+      11
+    ],
+    "description": "Telephone Directory",
+    "hash": "sha256-k0GdC/LF/vaO+UM6Ki5mW58WxQ+SghP+Sww+fo/Xijo="
+  },
   "template_basics_doc": {
     "version": "0.0.3",
     "t3_versions": [],
@@ -59450,12 +59459,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "typo3_console": {
-    "version": "7.1.5",
+    "version": "7.1.6",
     "t3_versions": [
       11
     ],
     "description": "A reliable and powerful command line interface for TYPO3 CMS",
-    "hash": "sha256-Xh6NmlvhqHU/8GG4s9Md1wo6WWWtix6/zWWmCqo5o+g="
+    "hash": "sha256-M4eeZWJaIEZ6lWejsjAF17pg7shKwv7Y6z7GII6rwQg="
   },
   "typo3_console_cleartempfiles": {
     "version": "1.0.0",
@@ -61274,12 +61283,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "webm": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "t3_versions": [
       11
     ],
-    "description": "Creates WebM copies of videos",
-    "hash": "sha256-7gorwTARQ009k5QO63BQtrKeIs/EBU+CIixDNtn54IA="
+    "description": "Creates a WebM file for every configured (and supported) video format. Either via Symfony command or hook (can be configured).",
+    "hash": "sha256-N+69G2ovHTDCeg8w5o/pUbZm9ZK3E/ygSo4OFuWuImg="
   },
   "webp": {
     "version": "4.2.0",
