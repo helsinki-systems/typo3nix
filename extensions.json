@@ -560,13 +560,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "access_keys": {
-    "version": "1.0.5",
+    "version": "1.0.6",
     "t3_versions": [
       10,
       11
     ],
     "description": "",
-    "hash": "sha256-yGK4baBkbEyyZzo8n5IKsjbmrqRLO7eea3ukDH7xeJk="
+    "hash": "sha256-tGIqtyovlTOpV5XhUiUYUuidcYGj2AsK2bboguq0X8k="
   },
   "access_restriction": {
     "version": "2.0.1",
@@ -5769,14 +5769,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "bw_icons": {
-    "version": "1.4.0",
+    "version": "2.0.2",
     "t3_versions": [
-      9,
       10,
       11
     ],
     "description": "Form element for icon selection. Generates a browsable gallery of your icon fonts and SVGs - just link your stylesheet or image directory that you use in the frontend! Works with FontAwesome, Bootstrap, Icomoon.. Optionally adds icon field to pages and tt_content.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-+XRjOyNnxAaCiUaaiJakXNKoJQJm/7cyp6u3DMrHoFk="
   },
   "bw_jobs": {
     "version": "2.2.4",
@@ -19617,13 +19616,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fluid_components": {
-    "version": "3.4.1",
+    "version": "3.4.2",
     "t3_versions": [
       10,
       11
     ],
     "description": "Encapsulated frontend components with Fluid's ViewHelper syntax",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-h+itW/GIWFfNrFMIEGakbwG7eRjGc+1uOMK6JmxHMFM="
   },
   "fluid_contentelements": {
     "version": "1.0.0",
@@ -20334,12 +20333,12 @@
     "hash": "sha256-Ubo9FZSWnwHXI/j2or+ezokzEw5vYE0M8suy0PJKfbo="
   },
   "form_country_select": {
-    "version": "2.0.0",
+    "version": "2.0.1",
     "t3_versions": [
       11
     ],
     "description": "Form element for selecting a country from a localised list",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-/XaNYWXN/XXZvTUphsKs+VAOxu7Iuvr3QDLG7flWCB8="
   },
   "form_crshield": {
     "version": "1.2.2",
@@ -20445,6 +20444,14 @@
     ],
     "description": "Form finisher to write form data into pre-existing PDF file",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "form_rate_limit": {
+    "version": "1.0.0",
+    "t3_versions": [
+      11
+    ],
+    "description": "TYPO3 form finisher for rate limiting when sending a form",
+    "hash": "sha256-/+bcyp1Tbvw7JwHx0MQKDzdOfAkZJr2U2fPJw+AmLKQ="
   },
   "form_search": {
     "version": "1.1.0",
@@ -23804,12 +23811,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "httpmonitoring": {
-    "version": "1.0.3",
+    "version": "1.0.4",
     "t3_versions": [
       11
     ],
     "description": "An extension for the TYPO3 CMS which adds a backend module for monitoring the HTTP status code given out by sites.",
-    "hash": "sha256-cHLiprsfAkDyfAAJ/YOjJw7ArlmR+Mdy9nORk+Q1dpM="
+    "hash": "sha256-a/b7CLTq7F15TST7RCW1RFcWPWT/+VQmJsRvAh8Em44="
   },
   "https": {
     "version": "1.4.0",
@@ -26261,12 +26268,13 @@
     "hash": "sha256-xZ8Y8s4H4hArPNknM1B5poT37ub8Pe0pzG6EGbpmZNE="
   },
   "jar_dataflow": {
-    "version": "1.0.17",
+    "version": "1.0.19",
     "t3_versions": [
-      10
+      10,
+      11
     ],
     "description": "Extends content elements with a query builder to output data from arbitrary list elements",
-    "hash": "sha256-fo4C3b9mujBu6yb4+e9A1uhLNdAk8zRRB7Lg/HsnHAc="
+    "hash": "sha256-8Myc3VBu8qNwS659AfPuYEzhWx2T24JPszUh9OqN8Ug="
   },
   "jar_pretty_preview": {
     "version": "1.0.16",
@@ -28431,13 +28439,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ke_search": {
-    "version": "4.6.0",
+    "version": "4.6.2",
     "t3_versions": [
       10,
       11
     ],
     "description": "Faceted fulltext search for TYPO3. Fast, flexible and easy to install and use. Indexes content directly from the databases. Features faceting / filtering, file indexing, images in result lists and respects access restrictions.",
-    "hash": "sha256-meOdgmAZxR1I2xw6/ngsiUP5dt/hpMN7ADtGZ+fOOu4="
+    "hash": "sha256-sZ903heBKUbBCGXr0RTiV3gKFPk9Q+plpo9p6/eaMvY="
   },
   "ke_search_dam_tags": {
     "version": "0.0.1",
@@ -33780,13 +33788,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mklog": {
-    "version": "11.0.6",
+    "version": "11.0.7",
     "t3_versions": [
       10,
       11
     ],
     "description": "Keep track of developer logs. Provides automatic email notification about important errors.",
-    "hash": "sha256-CE5RTo7UYhd84HiAyAUEpqxP5OtR8XSCM0zpjMMkeVY="
+    "hash": "sha256-FY6WYmsqSTC6fG9Giq7n8DNyolp8rHg0MWZQiacj6pg="
   },
   "mkmailer": {
     "version": "9.0.0",
@@ -37736,16 +37744,16 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "nnhelpers": {
-    "version": "2.0.2",
+    "version": "2.0.3",
     "t3_versions": [],
     "description": "Drastically speed up your extension development with this huge collection of very smart 'oneliners'. Make updating to new TYPO3 versions simple. Packed with things you've spent hours searching on the internet for. Everything accessible with one click via a convenient backend module. No mess and no conflicts. Use whatever method makes you happy – or simple grab the source-code and paste it in your own extension.",
-    "hash": "sha256-LLD4HGij/Uhdhsrpc+ICcW9DiI0Fdp9rAEBjJ5tJVI4="
+    "hash": "sha256-Bv5bPrH1xa48yNEq97FRaBgBBOb+3rR+bUx6/XYrPUw="
   },
   "nnrestapi": {
-    "version": "2.0.2",
+    "version": "2.0.3",
     "t3_versions": [],
     "description": "Build a REST Api for your TYPO3 project. Equipped with everything you need: Routing with annotations. User authentication. Fileupload and FAL conversion. Testbed and automatic documentation of your API. The backend module comes with a \"Kickstarter\" to get your RESTful API up and running in minutes.",
-    "hash": "sha256-jT0o9WEts+SeHrOLcl6DNxPbK4jlHLkiHbLFPlLY5d8="
+    "hash": "sha256-tdcfmophcUT6xiLzIrfuqNaJ+NDz8ghcKl2SAkc13po="
   },
   "no_opcode_cache_check": {
     "version": "1.0.2",
@@ -45818,14 +45826,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "rn_base": {
-    "version": "1.15.3",
+    "version": "1.15.4",
     "t3_versions": [
       8,
       9,
       10
     ],
     "description": "TYPO3 plugins based on rn_base can use MVC design principles and domain driven development. This extension also provides an abstraction layer for TYPO3 API to support LTS version since 6.2.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-sCvMvAMaAH/bRyeL/ollH8jtwRhwQm5tiRejZPp+v+8="
   },
   "rn_memento": {
     "version": "0.0.1",
@@ -54456,6 +54464,17 @@
     "description": "The italian version of T3Registration manual",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "t3rest": {
+    "version": "10.1.1",
+    "t3_versions": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "description": "Provides a REST interface for TYPO3.",
+    "hash": "sha256-/VG4h9YaXHhbOSUjvl+QEdhD5fxG0wR2VNciE4h5a5Q="
+  },
   "t3rnd": {
     "version": "0.0.1",
     "t3_versions": [
@@ -61171,12 +61190,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "web2pdf": {
-    "version": "3.0.0",
+    "version": "3.0.1",
     "t3_versions": [
       11
     ],
     "description": "This Extension renders the pagecontent to a PDF file. It supports css and uses the library mPDF.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-TXuqEJJxEcs7FBEQByg+Xga4t3/qqN8Bqmqwp3JMDcI="
   },
   "web_list_filter": {
     "version": "1.0.0",
