@@ -22457,12 +22457,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "graphql3": {
-    "version": "1.5.0",
+    "version": "1.6.0",
     "t3_versions": [
       11
     ],
     "description": "A graphql extension for TYPO3",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-/m/1DE7E1xcfdjVMBVPlJ/nok/NSq5NDxldJSga9XXE="
   },
   "gravatar": {
     "version": "2.0.1",
@@ -25249,7 +25249,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "includekrexx": {
-    "version": "4.1.7",
+    "version": "4.1.8",
     "t3_versions": [
       7,
       8,
@@ -25258,7 +25258,7 @@
       11
     ],
     "description": "Fluid and PHP debugger with backend access to logfiles, code generation to reach the displayed values and much more. We added some special stuff for Aimeos.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-n0KThD0Y1Add6uXecinarurpOscNAwSt517rl7MUdIU="
   },
   "incore_twitter": {
     "version": "1.2.2",
