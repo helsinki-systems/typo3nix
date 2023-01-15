@@ -5769,13 +5769,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "bw_icons": {
-    "version": "2.0.2",
+    "version": "2.0.3",
     "t3_versions": [
       10,
       11
     ],
     "description": "Form element for icon selection. Generates a browsable gallery of your icon fonts and SVGs - just link your stylesheet or image directory that you use in the frontend! Works with FontAwesome, Bootstrap, Icomoon.. Optionally adds icon field to pages and tt_content.",
-    "hash": "sha256-+XRjOyNnxAaCiUaaiJakXNKoJQJm/7cyp6u3DMrHoFk="
+    "hash": "sha256-8l0thKySht5RI8ZP54430ugHdzhUFNk+42OG8o5kIxQ="
   },
   "bw_jobs": {
     "version": "2.2.4",
@@ -7777,6 +7777,14 @@
     "t3_versions": [],
     "description": "Easy setting of cache lifetime for pagesection cache (and rootline cache in Typo3 6.x). No XCLASSes or Hooks used anymore. \r",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "cf_phpinclude": {
+    "version": "1.0.4",
+    "t3_versions": [
+      11
+    ],
+    "description": "Includes a Custom PHP Script in Typo3 Context",
+    "hash": "sha256-As9zI9uGCzol3z/94APRcL3hXszXkCj3Y7QJwkYhB+U="
   },
   "cfa_globalweatherws": {
     "version": "0.1.0",
@@ -40386,12 +40394,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "paginatedprocessors": {
-    "version": "1.4.0",
+    "version": "1.4.2",
     "t3_versions": [
       11
     ],
     "description": "Data processors with pagination",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-4AqVZifJUIPBAsezizdDDZdf0yHL+FBKfh6HKO6zU94="
   },
   "pandorabot_include": {
     "version": "0.1.0",
@@ -41270,14 +41278,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "pdfviewhelpers": {
-    "version": "2.4.1",
+    "version": "2.5.0",
     "t3_versions": [
       9,
       10,
       11
     ],
     "description": "Provides various Fluid ViewHelpers to create PDF documents. Under the hood pdfviewhelpers uses TCPDF and FPDI.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-7wa/ZQM96GLL5R7g+euRpIxizCI0M7GBdHBSdi+C+Xg="
   },
   "pdmt3": {
     "version": "0.1.0",
