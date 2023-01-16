@@ -9472,13 +9472,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "container": {
-    "version": "2.1.1",
+    "version": "2.1.2",
     "t3_versions": [
       10,
       11
     ],
     "description": "Create Custom Container Content Elements for TYPO3",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-Z+DaDsyPDBa3Qk1wiD8jyqOBgdI2s+dlZ08++JfSaQY="
   },
   "container_elements": {
     "version": "4.0.2",
@@ -20385,6 +20385,14 @@
     "description": "Adds a new form element which allows the editor to create a checkbox with a linked label text.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "form_extended": {
+    "version": "11.0.0",
+    "t3_versions": [
+      11
+    ],
+    "description": "",
+    "hash": "sha256-usIHYHb2/UesUz2CTFq1CpXmQVp5oCOXw7G0mhnbCEo="
+  },
   "form_extension_tut": {
     "version": "0.0.1",
     "t3_versions": [],
@@ -21328,12 +21336,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "gallerycontent": {
-    "version": "1.5.0",
+    "version": "1.5.1",
     "t3_versions": [
       11
     ],
     "description": "Content element for image gallery with preset crop ratios and pagination",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-GkAJeCjqpL2fVLHg0jhmGdDsmSKZ7Aga2kmA4eAfvhA="
   },
   "galtlang": {
     "version": "2.1.0",
@@ -23148,13 +23156,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "hh_accordion": {
-    "version": "0.3.3",
+    "version": "0.3.4",
     "t3_versions": [
       10,
       11
     ],
     "description": "",
-    "hash": "sha256-xePcx6OhncHRmewOQPwwHCV2FtZV375MTM208o0Ooss="
+    "hash": "sha256-r2us9wI9cXyZoyUYxCysTm497GfIhClEAsLJHc44MUM="
   },
   "hh_add_statuscode": {
     "version": "0.1.21",
@@ -23188,23 +23196,32 @@
     "hash": "sha256-+cLlJOhfe1Dx9KE2mH2KfABhKoCrA8zh5B0SQI/pwp8="
   },
   "hh_seo": {
-    "version": "0.4.6",
+    "version": "0.4.7",
     "t3_versions": [
       10,
       11
     ],
     "description": "Hauer-Heinrich - SEO - Meta-Tag - ViewHelpers",
-    "hash": "sha256-88TMRu+PTPOaS1JBt3DV5dZ4Tszmjm8zP44xR8h76Ls="
+    "hash": "sha256-dAYBlrGFZUBOV+YvI9y1vn0byoOpg93jx7eLXiQXXSU="
   },
   "hh_slider": {
-    "version": "0.2.6",
+    "version": "0.2.7",
     "t3_versions": [
       9,
       10,
       11
     ],
     "description": "Hauer-Heinrich - Image and Content Slider",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-TbPYIrseQObplTBa5/gOqnb7c+P7kOV9+mJfQCGKj5A="
+  },
+  "hh_test": {
+    "version": "0.1.2",
+    "t3_versions": [
+      10,
+      11
+    ],
+    "description": "Hauer-Heinrich - Test",
+    "hash": "sha256-TDWIb713UWi71SH3o42CnKhE85ql8IuJ/hnjsECEcrs="
   },
   "hh_video_extender": {
     "version": "0.1.64",
@@ -24867,6 +24884,14 @@
     "description": "grabs images dynamically from other pages",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "imagelazyload": {
+    "version": "1.0.1",
+    "t3_versions": [
+      11
+    ],
+    "description": "Images lazy load control for pagelist, personnel, gallerycontent, and custom elements.",
+    "hash": "sha256-amftBCM0ukDTLju0IIw773tMEiH7KUnDoWqFhg/YZmo="
+  },
   "imagelist": {
     "version": "0.0.6",
     "t3_versions": [],
@@ -25610,14 +25635,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "interest": {
-    "version": "1.1.4",
+    "version": "1.1.5",
     "t3_versions": [
       9,
       10,
       11
     ],
     "description": "REST and CLI API for adding, updating, and deleting records in TYPO3. Tracks relations so records can be inserted in any order. Uses remote ID mapping so you don't have to keep track of what UID a record has gotten after import. Data is inserted using backend APIs as if a real human did it, so you can can inspect the record history and undo actions.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-D8vLrvT3uUyGsYnrpRu3ql0K9/YxCttj0KAYVkX4H00="
   },
   "internal_notes": {
     "version": "1.2.0",
@@ -40239,12 +40264,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "pagelist": {
-    "version": "3.5.2",
+    "version": "3.5.4",
     "t3_versions": [
       11
     ],
     "description": "Create page lists/teasers and add page types for news, events, products and vacancies.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-wGoCOu6HQjh+cvuLlbeXPBYbnGL5eURmkATh8j7YPsM="
   },
   "pagemanager": {
     "version": "0.7.1",
@@ -41414,12 +41439,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "personnel": {
-    "version": "3.4.0",
+    "version": "3.4.1",
     "t3_versions": [
       11
     ],
     "description": "Personnel lists with vCard download.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-OtpcONWB7KqUZ6RKKyzgzjLQKzvhelEzAiCjD7xvRHc="
   },
   "persons": {
     "version": "1.0.0",
@@ -62362,12 +62387,10 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ws_scss": {
-    "version": "11.0.2",
-    "t3_versions": [
-      11
-    ],
+    "version": "12.0.0",
+    "t3_versions": [],
     "description": "Compiles scss files to CSS files.",
-    "hash": "sha256-JBqjEaVyVydnh69WbZpLl04PLaGw3FtvA7I9yoDcnww="
+    "hash": "sha256-vuvVke8DM+3a07NQnvKj0wQE9H/4R3gyxXZpgwkqsvw="
   },
   "ws_sitemap": {
     "version": "0.4.8",
