@@ -19650,13 +19650,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fluid_form": {
-    "version": "3.0.0",
+    "version": "3.1.0",
     "t3_versions": [
       10,
       11
     ],
     "description": "Forms configured only by TypoScript",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-xyhI9fbEpKIgGsG6pLRFCl33zhaemshUGuu1XfYowvM="
   },
   "fluid_form_elements": {
     "version": "1.0.0",
@@ -23156,30 +23156,30 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "hh_accordion": {
-    "version": "0.3.4",
+    "version": "0.3.5",
     "t3_versions": [
       10,
       11
     ],
     "description": "",
-    "hash": "sha256-r2us9wI9cXyZoyUYxCysTm497GfIhClEAsLJHc44MUM="
+    "hash": "sha256-H7xGBToxYYtuKjoLP0NIDkIdQ1ZUFeBJu56OT12mBXo="
   },
   "hh_add_statuscode": {
-    "version": "0.1.21",
+    "version": "0.1.22",
     "t3_versions": [
       10
     ],
     "description": "Hauer-Heinrich - add statuscode select box for page type redirect/shortcut",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-V9T6KYVEGIOtyxBAnNWfscHj+VGv5vO3NlPStDfRs64="
   },
   "hh_ckeditor_custom": {
-    "version": "0.1.7",
+    "version": "0.1.8",
     "t3_versions": [
       10,
       11
     ],
     "description": "RTE ck_editor custom config with example data",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-mNoV+xn4ysih1Z9VZeEE121Q7WX3OKSuuilIJTHtS8I="
   },
   "hh_multipageform_example": {
     "version": "0.0.1",
@@ -23188,50 +23188,49 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "hh_openstreetmap": {
-    "version": "0.2.2",
+    "version": "0.2.6",
     "t3_versions": [
       11
     ],
     "description": "Simple OpenStreetMap",
-    "hash": "sha256-+cLlJOhfe1Dx9KE2mH2KfABhKoCrA8zh5B0SQI/pwp8="
+    "hash": "sha256-2LN+Y2kjb5tDtAIq9Ad/8O4MzdOPNpdXIE/VtPy3mlU="
   },
   "hh_seo": {
-    "version": "0.4.7",
+    "version": "0.4.8",
     "t3_versions": [
       10,
       11
     ],
     "description": "Hauer-Heinrich - SEO - Meta-Tag - ViewHelpers",
-    "hash": "sha256-dAYBlrGFZUBOV+YvI9y1vn0byoOpg93jx7eLXiQXXSU="
+    "hash": "sha256-1Jour4anrmTN3LcFZDOEmctxw4N6YC1F2jxMLu0SIvg="
   },
   "hh_slider": {
-    "version": "0.2.7",
+    "version": "0.2.8",
     "t3_versions": [
       9,
       10,
       11
     ],
     "description": "Hauer-Heinrich - Image and Content Slider",
-    "hash": "sha256-TbPYIrseQObplTBa5/gOqnb7c+P7kOV9+mJfQCGKj5A="
+    "hash": "sha256-jWfm/FmBq+Z5Cg3oS+ekFwXy/xr7MDFfekiZk0G0CEw="
   },
   "hh_test": {
-    "version": "0.1.2",
+    "version": "0.2.15",
     "t3_versions": [
       10,
       11
     ],
     "description": "Hauer-Heinrich - Test",
-    "hash": "sha256-TDWIb713UWi71SH3o42CnKhE85ql8IuJ/hnjsECEcrs="
+    "hash": "sha256-/jR61A4Ct78lkWaI1fgVll8PuUruNlnBE2E98U97j/s="
   },
   "hh_video_extender": {
-    "version": "0.1.64",
+    "version": "0.1.74",
     "t3_versions": [
-      9,
       10,
       11
     ],
     "description": "Hauer-Heinrich - Extends sys_file_reference video/media. Added attributes to select in content element (eg textmedia) like: muted, loop, controls, previewImage and so on.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-kVeiqOeTPo0/LVFQgBQ760RbvTWyODRgpyUoDiGjD0g="
   },
   "hhcanonical": {
     "version": "1.0.0",
@@ -25565,6 +25564,14 @@
     ],
     "description": "This extension let you to create gallery instagram simple or with pagination and refresh the Access Token Key for instagram by a scheduler task you can planified",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "instagramm4you": {
+    "version": "1.0.0",
+    "t3_versions": [
+      11
+    ],
+    "description": "Lädt Instagram Beiträge anhand eines Acces Tokens",
+    "hash": "sha256-G/l0KPFjquc4IFcULmqcvh8xhGPWDcSTChIJuMdB0RM="
   },
   "int_ajaxloginbox": {
     "version": "3.0.0",
@@ -33878,13 +33885,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mksanitizedparameters": {
-    "version": "11.0.2",
+    "version": "11.0.4",
     "t3_versions": [
       10,
       11
     ],
     "description": "Sanitize $_REQUEST, $_POST and $_GET before the processing of TYPO3 in backend or frontend starts. Take a look into the documentation how to add your own rules or see which one exist.",
-    "hash": "sha256-u7yLXakslCa9dqPrM+XcIvG2aFmsIAFWx1ZWIPSzBvY="
+    "hash": "sha256-xhsAromwu9LwZmjhmgRdzX9xjSeJU009hqTeTUp09NQ="
   },
   "mksearch": {
     "version": "10.1.7",
@@ -36058,13 +36065,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mysqlreport": {
-    "version": "2.0.4",
+    "version": "2.1.0",
     "t3_versions": [
       10,
       11
     ],
     "description": "Analyze and profile your TYPO3 databases queries",
-    "hash": "sha256-zmlQJvXljRA7e7vYHNNookJjGwmJTTDTOGUqeTnZ7a0="
+    "hash": "sha256-CEEUp99Prf806jVOtZXxKbm4e040hTuP+zjWHp3wOn4="
   },
   "mytemplate1": {
     "version": "0.0.2",
@@ -39038,13 +39045,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ods_osm": {
-    "version": "4.1.0",
+    "version": "4.1.1",
     "t3_versions": [
       10,
       11
     ],
     "description": "Add an interactive OpenStreetMap map to your website. Can also show other OpenLayers compatible maps.",
-    "hash": "sha256-68Cclqd7GaEnQ2oclO5JSGskIZtBaSwLcW5YwB50xfk="
+    "hash": "sha256-u3dYgCTGEVTGCFXZeJQdngOABHHpRhqVVSt4twAtji0="
   },
   "ods_osm_cal": {
     "version": "1.0.0",
@@ -48286,13 +48293,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "server_timing": {
-    "version": "1.0.9",
+    "version": "1.1.1",
     "t3_versions": [
       10,
       11
     ],
     "description": "",
-    "hash": "sha256-+HKbNm2SUrv3mc/bpeYvpAypaSApBtKJHPkdp+x75pw="
+    "hash": "sha256-2GFv6x4NFOQ933dcYopdAgfoNjhq9uLcphBwp5iZXpo="
   },
   "service_bw2": {
     "version": "5.0.4",
@@ -60532,13 +60539,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "view_statistics": {
-    "version": "4.0.0",
+    "version": "4.0.1",
     "t3_versions": [
       10,
       11
     ],
     "description": "Logs frontend actions and display them in a backend module. Track page views, News, Downloads and custom objects. Optionally tracks frontend user logins and login durations. Alternative extension for Google-Analytics, Matomo, Piwik - this extension does not use any cookies! By default it does not track any personal data like IP address or even the user agent (though this can be activated optionally).",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-foPupJ9Gk873Gfj54Bep7o4H2CaV4tePPa+P6reWtfA="
   },
   "vimeovideo": {
     "version": "0.8.0",
