@@ -569,13 +569,13 @@
     "hash": "sha256-tGIqtyovlTOpV5XhUiUYUuidcYGj2AsK2bboguq0X8k="
   },
   "access_restriction": {
-    "version": "2.0.1",
+    "version": "3.0.0",
     "t3_versions": [
-      9,
-      10
+      10,
+      11
     ],
     "description": "Extension to register additional user access restrictions (IP, etc.)",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-/OnW5XKXLs6VA8rZ3O82Ft0kH8ivbaPNx5a/+IolZBE="
   },
   "accessibility_check": {
     "version": "0.1.0",
@@ -58769,13 +58769,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "tt_products": {
-    "version": "2.14.11",
+    "version": "2.14.12",
     "t3_versions": [
       10,
       11
     ],
     "description": "Advanced versions at ttproducts.de. Documented in the E-Book \"Der TYPO3-Webshop\" - Shop with listing in multiple languages, with order tracking, product variants, support for transactor extension, bill, creditpoint and voucher system.",
-    "hash": "sha256-b29T6ZpQV1m3rTEBzpqEgkvWRv7ffSZPUe4DbH1hpjA="
+    "hash": "sha256-EC036JyWHYgmsHThnjX4TwaOZdxp/zQPncSkYYAJ0Uw="
   },
   "tt_products_foundby": {
     "version": "0.1.4",
