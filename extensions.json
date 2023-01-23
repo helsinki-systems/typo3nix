@@ -20392,6 +20392,14 @@
     "description": "Adds a new form element which allows the editor to create a checkbox with a linked label text.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "form_email_contentblocks": {
+    "version": "1.0.0",
+    "t3_versions": [
+      11
+    ],
+    "description": "Allows to add a content element at the beginning (introductory text) and/or at the end (email signature) of the email templates. Also, the background color and logo of the fluid email template can be edited.",
+    "hash": "sha256-iEkjh9qJ5ERwHLnMz6I/E8ywgl56l1C9UO46ODAKolE="
+  },
   "form_extended": {
     "version": "11.0.0",
     "t3_versions": [
@@ -43741,13 +43749,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "pxa_social_feed": {
-    "version": "3.1.9",
+    "version": "3.1.10",
     "t3_versions": [
       10,
       11
     ],
     "description": "Add Facebook, Instagram, and Twitter feeds to your site.",
-    "hash": "sha256-Miy/QbVVSZLLsxR9HPkCX5WocC4h1U2zOPRHLwnz1k0="
+    "hash": "sha256-nEc6mD0iAiXGkZs/+M5KRTM4X8+oG7WcwtY53dTwZ+4="
   },
   "pxa_survey": {
     "version": "2.0.0",
