@@ -2233,7 +2233,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ameos_tarteaucitron": {
-    "version": "1.3.0",
+    "version": "1.3.2",
     "t3_versions": [
       8,
       9,
@@ -2241,7 +2241,7 @@
       11
     ],
     "description": "Integrates tarteaucitron.js in TYPO3 (see : https://tarteaucitron.io )",
-    "hash": "sha256-oolDyFrhpo981Kvo0YlC5RIZicGAe+ikQtq6sTFxAAI="
+    "hash": "sha256-lPDCHRI4+Db3esAsXT3mSr1WePKTAvT7msY+Bz6b7Qc="
   },
   "ameos_typo3_vulnerabilities": {
     "version": "1.0.0",
@@ -9974,12 +9974,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cookieman": {
-    "version": "2.13.3",
+    "version": "2.14.3",
     "t3_versions": [
       11
     ],
     "description": "Provides a user consent popup. It asks for approval to include tracking objects (cookies, images or any HTML) and includes the objects when consented. It also removes cookies after the consent has been revoked.",
-    "hash": "sha256-9lGbCEjUCQ2DSFVBOBp7eDf40CkcQ8fD8ltYN1qdTV8="
+    "hash": "sha256-EPNvNNaMlGAUxn8ZvqztEc8ZUlaSGoApRGzJQMJVFQ8="
   },
   "cookiepro": {
     "version": "1.0.3",
@@ -24120,13 +24120,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "iconpack": {
-    "version": "0.2.0",
+    "version": "0.2.1",
     "t3_versions": [
       10,
       11
     ],
     "description": "Provides an iconpack-registry for various iconpacks.",
-    "hash": "sha256-8j6pV6TN1FvrqvkcwVpHNdGZyATYh1PgX6JVsNc+ky0="
+    "hash": "sha256-IYCUUVkHvhRjHrHZ37MkR9T8Q0zD7XpeqfXIQ1f3WDE="
   },
   "iconpack_bootstrap": {
     "version": "1.1.1",
@@ -33900,13 +33900,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mksanitizedparameters": {
-    "version": "11.0.4",
+    "version": "11.0.5",
     "t3_versions": [
       10,
       11
     ],
     "description": "Sanitize $_REQUEST, $_POST and $_GET before the processing of TYPO3 in backend or frontend starts. Take a look into the documentation how to add your own rules or see which one exist.",
-    "hash": "sha256-xhsAromwu9LwZmjhmgRdzX9xjSeJU009hqTeTUp09NQ="
+    "hash": "sha256-LYLaird5xN9EiDiJ23crgAdszzu0OwI4Xf7bd380o0M="
   },
   "mksearch": {
     "version": "10.1.7",
@@ -51394,13 +51394,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "solr_file_indexer": {
-    "version": "2.5.3",
+    "version": "2.5.4",
     "t3_versions": [
       10,
       11
     ],
     "description": "This extension gives you the capability to index individual documents using Solr.",
-    "hash": "sha256-lMsE1e/DCdvVJ2hoG34vUmg6n896E0GRO0MvR3Khoug="
+    "hash": "sha256-2TSupZrRj8h7IEs2fvQyolwhF08wiFHQkNUhrRSI2rk="
   },
   "solradmin": {
     "version": "2.0.0",
@@ -54062,6 +54062,14 @@
     ],
     "description": "An extension for easy usage / integration of cufon fonts.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "t3customroutes": {
+    "version": "0.0.1",
+    "t3_versions": [
+      11
+    ],
+    "description": "TYPO3 extension used to register custom api endpoints",
+    "hash": "sha256-c1F/2HQeFZkbOg+0iTuJbIfqd77kbWaRCwWmrWyMuIU="
   },
   "t3cv_export": {
     "version": "0.1.0",
@@ -59655,14 +59663,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "typo3db_legacy": {
-    "version": "1.1.6",
+    "version": "1.1.7",
     "t3_versions": [
       9,
       10,
       11
     ],
     "description": "Provides $GLOBALS['TYPO3_DB'] as backward compatibility with legacy functionality of extensions that are not yet fully migrated to doctrine.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-CRok34cgrFwYMgD88Mvoq1BEV539++6J34zU50emw2Y="
   },
   "typo3mind": {
     "version": "1.2.0",
