@@ -3516,13 +3516,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "backendtools": {
-    "version": "4.2.0",
+    "version": "4.3.1",
     "t3_versions": [
       10,
       11
     ],
     "description": "8 admin tools: extension-list, recent pages & elements, backend layouts, redirects import & check, file-deletion, images with no alt or title and link-list.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-33LlgYGBgb0mJQjy+J7jJxyxZ/iY4Bc/jcIEFf7gJ9A="
   },
   "backendwiki": {
     "version": "0.1.1",
@@ -9596,12 +9596,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "content_information": {
-    "version": "0.1.3",
+    "version": "0.1.9",
     "t3_versions": [
       11
     ],
     "description": "This extension provides useful information based on the content in your TYPO3 CMS installation.",
-    "hash": "sha256-vCv1hhed3wDZNRxhwE4olwoKLdyKqdN4wiDZoYERHD0="
+    "hash": "sha256-ehXH9Yem02EdAG4daa2KJLShYuReNxBHkSZJNj49LD4="
   },
   "content_overview": {
     "version": "0.3.1",
@@ -17833,14 +17833,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fal_protect": {
-    "version": "1.3.0",
+    "version": "1.4.0",
     "t3_versions": [
       9,
       10,
       11
     ],
     "description": "Protect everything within /fileadmin/ based on associated folder and file restrictions (visibility, user groups and dates of publication).",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-08m1+xTm/+6r/0xFQ5IWqBdjLFv9RHLGasRqwpclG9M="
   },
   "fal_quota": {
     "version": "1.7.2",
@@ -20422,6 +20422,14 @@
     "description": "Extends ext:form by adding the field \"name\" to all form fields.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "form_footnote": {
+    "version": "1.2.3",
+    "t3_versions": [
+      11
+    ],
+    "description": "Footnotes for EXT:form",
+    "hash": "sha256-vP+ruB5DUBs2huaskvswR5pP7THiwRYwYwBVUnsHOWk="
+  },
   "form_frontend_validation": {
     "version": "1.0.0",
     "t3_versions": [
@@ -20827,31 +20835,31 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fp_fractionslider": {
-    "version": "1.3.0",
+    "version": "1.3.2",
     "t3_versions": [
       10,
       11
     ],
     "description": "Can be used with the \"jQuery-FractionSlider\", the \"Professional jQuery Content Slider Plugin - Slider Pro\" or the \"Slider revolution\".",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-LmVj4/4A+z46sotYj/wob+h7t4Efcxn7ICh7d9o9gaI="
   },
   "fp_masterquiz": {
-    "version": "3.5.2",
+    "version": "3.5.5",
     "t3_versions": [
       10,
       11
     ],
     "description": "A modern extension that offers quiz, polls and tests. Ajax support. The result can be displayed as a chart too. Supports 8 question modes.",
-    "hash": "sha256-01SfRcCUhArsYdHy9CHuddD3k5kKd3zTIETjVx6scKc="
+    "hash": "sha256-CYtI5oHu/46JRE6+2CktqHs8yNob1dIaHJvuVJI/Axc="
   },
   "fp_newsletter": {
-    "version": "4.0.0",
+    "version": "4.0.3",
     "t3_versions": [
       10,
       11
     ],
     "description": "Plugin for newsletter subscription and unsubscription with double opt in (and double opt out). For: direct_mail or luxletter / tt_address or fe_users. A log is written.",
-    "hash": "sha256-qxaOHsuEC7shsWVG7F4zsrXm2MNp3i21OX4cYbrUqW8="
+    "hash": "sha256-5SPHTBX4X6KQOuaRQFimpfTnY9IE/6AVF5UictCLcJw="
   },
   "fp_product_features": {
     "version": "0.2.0",
@@ -23021,14 +23029,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "hairu": {
-    "version": "3.1.2",
+    "version": "3.1.3",
     "t3_versions": [
-      8,
       9,
       10
     ],
     "description": "Flexible login/logout form based on Extbase/Fluid",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-0cqf1lnTrBJkjrm4Y2xrWE4z5OhnpWW+7HhGZVhRdgU="
   },
   "haltsoft_addtoany": {
     "version": "1.1.0",
@@ -23084,13 +23091,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "hcaptcha": {
-    "version": "2.0.4",
+    "version": "2.1.0",
     "t3_versions": [
       10,
       11
     ],
     "description": "TYPO3 Extension to add hCaptcha to EXT:form - The privacy friendly captcha alternative.",
-    "hash": "sha256-XSZl8wGzMxAE4oCzR6ZnFCog06A7xtPZD3BZxySmjR0="
+    "hash": "sha256-NppfGuAirZSkcFYtVvr4WcKiDAky1Xz0YpK8r/Q5YS0="
   },
   "hd_displayimage": {
     "version": "0.1.7",
@@ -38314,6 +38321,17 @@
     ],
     "description": "Do you want cool sliders for most popular TYPO3 EXT:news? This extension includes nivo-slider, owlcarousel, royal-slider, slidejs, slick-slider etc. Demo: https://demo.t3terminal.com/t3t-extensions/news-slider/ You can download PRO version for more-features & free-support at https://t3terminal.com/news-slider-typo3-extension",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "ns_open_streetmap": {
+    "version": "1.0.1",
+    "t3_versions": [
+      8,
+      9,
+      10,
+      11
+    ],
+    "description": "This extension can easily integrate of powerful features of OpenStreet map like find-places, find-direction between locations etc. Live-Demo: https://demo.t3planet.com/t3-extensions/openstreet-map You can download PRO version for more-features & free-support at https://t3planet.com/typo3-openstreetmap-extension",
+    "hash": "sha256-H3Oz49R3uSPVTZPsn/9eg/zHSsGEoDvKJzIm1EFssbo="
   },
   "ns_protect_site": {
     "version": "2.0.4",
