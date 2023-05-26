@@ -939,6 +939,12 @@
     "description": "Enlarge the box height to select User Groups, allows sorting of those contents in the List module",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "add_pwd_policy": {
+    "version": "1.0.0",
+    "t3_versions": [],
+    "description": "Additional password validators for usage in TYPO3 password policies",
+    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
   "add_tags": {
     "version": "0.0.1",
     "t3_versions": [],
@@ -1014,13 +1020,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "additional_tca": {
-    "version": "1.11.1",
+    "version": "1.12.4",
     "t3_versions": [
       10,
       11
     ],
     "description": "Additional TCA fields and tools",
-    "hash": "sha256-Uavr22kKGfotG9YlntktFC95jPzRefe4g44biCPzq1Y="
+    "hash": "sha256-SpujdIF6RZNzBmrxe7Q2yDn+IQulWPnjDZhSoTdi73g="
   },
   "addlinkheader": {
     "version": "0.0.4",
@@ -1029,14 +1035,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "addons_em": {
-    "version": "0.7.0",
+    "version": "0.8.1",
     "t3_versions": [
-      9,
-      10,
       11
     ],
     "description": "Enhancements to the Extension Manager (em].",
-    "hash": "sha256-VpLY4QJxtYNce5nfsp4lMrvnIcNutShA/u4YxH4THGQ="
+    "hash": "sha256-rhD2zMYsxN7IWIOIEGls2GjvGoOK3JD6WGnf3OlFlJw="
   },
   "addons_tt_products": {
     "version": "0.9.1",
@@ -1185,12 +1189,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "advancedtitle": {
-    "version": "1.1.0",
+    "version": "1.2.1",
     "t3_versions": [
       11
     ],
     "description": "Adds page title prefix and suffix to SEO tab.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-ADYC4bttxqUwhD5GAsG3oYT8e9q8IVO5uWgNUZ+jA/c="
   },
   "advertising": {
     "version": "0.18.24",
@@ -1474,13 +1478,21 @@
     "description": "Closes the gap between the standard functions of the Office Line and things, that might be handled different by the owner or presents functions that might not be enclosed with the Office Line at all.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
-  "aimeos": {
-    "version": "22.10.4",
+  "ai_seo_helper": {
+    "version": "0.5.1",
     "t3_versions": [
-      11
+      10,
+      11,
+      12
     ],
+    "description": "Generates SEO metadata based on page content using AI.",
+    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "aimeos": {
+    "version": "23.4.2",
+    "t3_versions": [],
     "description": "Professional, full-featured and ultra-fast TYPO3 e-commerce extension for online shops, complex B2B applications and #gigacommerce. Turns TYPO3 into the best platform for content commerce and your e-commerce requirements (also available as TYPO3 distribution)",
-    "hash": "sha256-iXhOyyj6bwioC8ex0W8jPmVYXhnY1igFYPO84t/zzYU="
+    "hash": "sha256-lbUZ+Vy/QmhGP3nzgAEH2g+BIqF/y9RhMlb1Jn4/QiM="
   },
   "aimeos_dist": {
     "version": "22.10.1",
@@ -2233,7 +2245,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ameos_tarteaucitron": {
-    "version": "1.3.2",
+    "version": "1.4.0",
     "t3_versions": [
       8,
       9,
@@ -2241,7 +2253,7 @@
       11
     ],
     "description": "Integrates tarteaucitron.js in TYPO3 (see : https://tarteaucitron.io )",
-    "hash": "sha256-lPDCHRI4+Db3esAsXT3mSr1WePKTAvT7msY+Bz6b7Qc="
+    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ameos_typo3_vulnerabilities": {
     "version": "1.0.0",
@@ -3450,13 +3462,16 @@
     "hash": "sha256-9zCIvXjhKoHSTXe+EHYmJeGDuoBbNiNesNKmKy1Pgus="
   },
   "azurestorage": {
-    "version": "0.3.4",
+    "version": "0.6.1",
     "t3_versions": [
       7,
-      8
+      8,
+      9,
+      10,
+      11
     ],
     "description": "Microsoft Azure Blob Storage for TYPO3",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-/LbrSU4S1RlwUT1/pFvZc5aOQBCFpBgivASwaG0JCUU="
   },
   "ba_company": {
     "version": "0.0.1",
@@ -3621,23 +3636,22 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "base_cache": {
-    "version": "3.0.0",
+    "version": "3.0.1",
     "t3_versions": [
       10,
       11
     ],
     "description": "Common interfaces for simple caching psr/simple-cache.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-hrjq6aqTuqljkTQlorSWkjq+6StcIxGK5PvJhb/ibBM="
   },
   "base_complex": {
-    "version": "0.0.1",
+    "version": "3.0.2",
     "t3_versions": [
-      9,
       10,
       11
     ],
     "description": "A library to deal with complex numbers. (PHPComplex)",
-    "hash": "sha256-uu7/TfNIYI2KduNUP7n4CK09BpqhPhwSwPbagk9WlQs="
+    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "base_css": {
     "version": "0.0.3",
@@ -3650,44 +3664,49 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "base_enum": {
-    "version": "0.0.2",
+    "version": "3.0.2",
     "t3_versions": [
-      9,
       10,
       11
     ],
-    "description": "A library to make the PHP enum operator possible.",
+    "description": "A library to deal with complex numbers. (PHPComplex)",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "base_excel": {
-    "version": "0.3.0",
+    "version": "1.28.0",
     "t3_versions": [
-      9,
       10,
       11
     ],
-    "description": "This provides the PhpSpreadsheet library, formerly phpExcel from phpOffice. Version 1.24.1",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "description": "This provides the PhpSpreadsheet library, formerly phpExcel from phpOffice. Version 1.28.0",
+    "hash": "sha256-tBlqfYq707pD9X6wbmDJ8scYF/F7/sNmBYsIUvLQZnk="
   },
   "base_font": {
-    "version": "0.5.4",
+    "version": "0.5.5",
     "t3_versions": [
-      9,
       10,
       11
     ],
-    "description": "This provides the PHP Font Lib (php-font-lib].",
+    "description": "This provides the dompdf PHP Font Lib (php-font-lib].",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "base_html": {
-    "version": "0.0.1",
+    "version": "4.15.0",
     "t3_versions": [
-      9,
       10,
       11
     ],
     "description": "Standards compliant HTML filter written in PHP (htmlpurifier)",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "base_htmlparser": {
+    "version": "2.8.0",
+    "t3_versions": [
+      10,
+      11
+    ],
+    "description": "Standards compliant HTML5 parser and serializer written in PHP (html5-php)",
+    "hash": "sha256-PtlgCZMDwx8smTL5ehFHg3E+FkNZX30BBsdVPZZljRQ="
   },
   "base_jobmarket": {
     "version": "1.3.3",
@@ -3696,9 +3715,8 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "base_matrix": {
-    "version": "0.0.1",
+    "version": "3.0.1",
     "t3_versions": [
-      9,
       10,
       11
     ],
@@ -3706,14 +3724,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "base_pdf": {
-    "version": "0.2.1",
+    "version": "2.0.5",
     "t3_versions": [
-      9,
       10,
       11
     ],
     "description": "This provides the DOMPDF library. It also includes the libraries html5lib, php-css-parser, php-font-lib and php-svg-lib.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-Jwf+aodsLBwy8/4Hh4mirsEMZqGg7Iio8CbDLIa0KBM="
   },
   "base_quickshop": {
     "version": "6.1.1",
@@ -3725,33 +3742,32 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "base_svg": {
-    "version": "0.1.1",
+    "version": "0.5.0",
     "t3_versions": [
-      9,
       10,
       11
     ],
     "description": "A library to read, parse and export to PDF SVG files.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-qAbps0jRpikNC3eDoyRcW8cS64jIr71CnUlvUAhRbTc="
   },
   "base_word": {
-    "version": "0.0.1",
+    "version": "1.0.0",
     "t3_versions": [
       10,
       11
     ],
     "description": "This provides the PHPWord library from phpOffice.",
-    "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
+    "hash": "sha256-urvrBWsab06p8pgm8bNq1ZRVsidDeJLfNo0Gg5Ev9k8="
   },
   "base_zip": {
-    "version": "0.1.0",
+    "version": "3.0.2",
     "t3_versions": [
-      9,
       10,
-      11
+      11,
+      12
     ],
     "description": "A library to download ZIP files. ZipStream-PHP",
-    "hash": "sha256-5pCtfPfhdiMte3PLvIr2B4oloGGYeHgpeDiH0zsb/nI="
+    "hash": "sha256-swo1woKPegw1iBxSpUCerJcZVGxl2ojxZiJsNAEsDBE="
   },
   "baseorg": {
     "version": "6.0.2",
@@ -4305,14 +4321,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "belogin_images": {
-    "version": "4.0.1",
+    "version": "4.0.2",
     "t3_versions": [
       9,
       10,
       11
     ],
     "description": "Display random Background Images from different sources at your TYPO3 BackendLogin Page.",
-    "hash": "sha256-tdz8GaciYVzDMsiIy2dOuTTt8bdwnYiBrSupjbObKqg="
+    "hash": "sha256-dLvkxPsfjTLwrqQALZLR/FdjHZQgsX5X+jGULACwKgs="
   },
   "bepagination": {
     "version": "0.1.0",
@@ -4738,13 +4754,13 @@
     "hash": "sha256-ri5KkgZAoUCpjo27Z1tieNLrjm5ybj5QszyIP2E8sVA="
   },
   "blog": {
-    "version": "11.0.2",
+    "version": "12.0.0",
     "t3_versions": [
-      10,
-      11
+      11,
+      12
     ],
     "description": "This blog extension uses TYPO3s core concepts and elements to provide a full-blown blog that users of TYPO3 can instantly understand and use.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-8zb6vxc2TxmGksZoBn4w9QusmY87aV7GVFL05KCouEg="
   },
   "blog_example": {
     "version": "12.0.2",
@@ -4998,12 +5014,12 @@
     "hash": "sha256-B8oTmmLJpv5PacBLjpC0pcaxIQqSxhvTPhc9ZuIIw1Y="
   },
   "booking": {
-    "version": "2.0.6",
+    "version": "2.1.2",
     "t3_versions": [
       11
     ],
     "description": "Booking extension for FE users",
-    "hash": "sha256-S4kvKP3dmyQgoY4Sxofx4ej5xGBmPUfgp5mxSG8MWKc="
+    "hash": "sha256-VMylXhI/Qp5IRie6/VJKQpSfL0jiJ5G1tifryrkGO38="
   },
   "bookmark_pages": {
     "version": "2.0.1",
@@ -5049,12 +5065,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "bootstrap_package": {
-    "version": "13.0.1",
+    "version": "13.0.2",
     "t3_versions": [
       11
     ],
     "description": "Bootstrap Package delivers a full configured frontend theme for TYPO3, based on the Bootstrap CSS Framework.",
-    "hash": "sha256-srXTeRy4rF3N5J9sz6x3VwTIZ8ZnoIFud7mnqSPY/YY="
+    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "bootstrapicons": {
     "version": "0.0.1",
@@ -5149,12 +5165,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "brofix": {
-    "version": "4.1.5",
+    "version": "4.3.1",
     "t3_versions": [
       11
     ],
     "description": "Check for broken links and fix them via a backend module (forked from core linkvalidator)",
-    "hash": "sha256-lF/OjbZANY36HxRXPtYMq2Hyw9zUqTHFW4TBp5XV4eE="
+    "hash": "sha256-H/eL7GYMpAMbtbScpxoiklXEl9EhWQ2nte8u9mQgOxk="
   },
   "browser": {
     "version": "10.0.3",
@@ -5698,13 +5714,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "bw_captcha": {
-    "version": "2.0.3",
+    "version": "3.0.0",
     "t3_versions": [
       10,
       11
     ],
     "description": "Captcha element for the TYPO3 form component. The captcha generation uses Gregwar/Captcha, no Google or 3rd party includes.",
-    "hash": "sha256-4/LkepJNa3DkAhAIesBlYxs2zVGQoMUy3F3emh9oS58="
+    "hash": "sha256-MRhFeGwSCjegzWg3v/KVTNf1pNrwIavggWmPi9CMjHw="
   },
   "bw_covid_numbers": {
     "version": "1.2.0",
@@ -5759,23 +5775,23 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "bw_focuspoint_images": {
-    "version": "3.0.1",
+    "version": "3.0.4",
     "t3_versions": [
       9,
       10,
       11
     ],
     "description": "Image Editor for adding focus points to images",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-eCO14noia15o3GX7iCADCNMS4udfMp9xc4F9J9KUzbY="
   },
   "bw_icons": {
-    "version": "2.0.3",
+    "version": "2.1.2",
     "t3_versions": [
       10,
       11
     ],
     "description": "Form element for icon selection. Generates a browsable gallery of your icon fonts and SVGs - just link your stylesheet or image directory that you use in the frontend! Works with FontAwesome, Bootstrap, Icomoon.. Optionally adds icon field to pages and tt_content.",
-    "hash": "sha256-8l0thKySht5RI8ZP54430ugHdzhUFNk+42OG8o5kIxQ="
+    "hash": "sha256-rU/AUrWQnIiyP+cCyqt1sOmMKFDRGz25UTCBidaLVdk="
   },
   "bw_jobs": {
     "version": "2.2.4",
@@ -5820,15 +5836,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "bw_static_template": {
-    "version": "2.0.0",
+    "version": "3.0.0",
     "t3_versions": [
-      8,
-      9,
-      10,
       11
     ],
     "description": "Frontend plugin that renders fluid templates. Inject JSON data or FAL files into the templates. Perfect for fast template development with example data.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-WsIWRNrc0BO9G9LQGuNSWcPyRviExtbQe+Hv10YM/iU="
   },
   "bwrk_address": {
     "version": "1.3.4",
@@ -6041,16 +6054,15 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "c1_adaptive_images": {
-    "version": "0.4.0",
+    "version": "1.0.2",
     "t3_versions": [
-      9,
-      10
+      11
     ],
     "description": "ViewHelpers for adaptive images in fluid_styled_content.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "c1_svg_viewhelpers": {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "t3_versions": [
       11
     ],
@@ -6228,11 +6240,10 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cache": {
-    "version": "0.0.1",
+    "version": "11.0.1",
     "t3_versions": [
-      8,
-      9,
-      10
+      10,
+      11
     ],
     "description": "Simple caching framework: three lines of code and your extension records will be cached.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
@@ -6564,13 +6575,13 @@
     "hash": "sha256-09O01tzxvAXkBNAyg0yB/LRbEihB/9vKRpe5DJC0YKo="
   },
   "calendarize_address": {
-    "version": "4.0.0",
+    "version": "4.1.0",
     "t3_versions": [
       10,
       11
     ],
     "description": "Extends EXT:calendarize events with location and organizer records based on EXT:tt_address records and provides corresponding location and organizer views.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-aORanAPakU7qePvyYeP6MVIiYziY6gCJ6Yh3ybhlbC4="
   },
   "calendarize_content": {
     "version": "0.1.1",
@@ -6662,22 +6673,22 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "campus_events_connector": {
-    "version": "3.0.6",
+    "version": "3.0.7",
     "t3_versions": [
       10,
       11
     ],
     "description": "Connecting the event software campus events with TYPO3, to import the event data into TYPO3 as data records. Get further information about Campus Events: www.campus-events.com",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-KLFLMLI3A1qboiE47iuxMwtQQXOMxA2hHkZgEjGIp/c="
   },
   "campus_events_convert2news": {
-    "version": "3.0.2",
+    "version": "3.0.3",
     "t3_versions": [
       10,
       11
     ],
     "description": "",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-HMnMvUmqROatgY0b4KRvXAsF2ZqK0GCZK9fexVUQtw8="
   },
   "campus_events_convert2ttnews": {
     "version": "1.0.1",
@@ -6690,7 +6701,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "campus_events_frontend": {
-    "version": "3.0.2",
+    "version": "3.0.3",
     "t3_versions": [
       10,
       11
@@ -6705,12 +6716,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "canto_extension": {
-    "version": "1.3.3",
+    "version": "1.3.7",
     "t3_versions": [
-      10
+      10,
+      11
     ],
     "description": "Connect canto flight to get resource",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-t//G838zKO/weCCRQKPYMhF0EMkehpfx4lII+uOQeRs="
   },
   "cap_flattr_news": {
     "version": "1.4.0",
@@ -7756,12 +7768,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cf_cookiemanager": {
-    "version": "1.0.0",
+    "version": "1.0.9",
     "t3_versions": [
-      11
+      11,
+      12
     ],
     "description": "This extension gives you the possibility to Manage the Cookie Consent Modal on your Website",
-    "hash": "sha256-1GxD0nsG/SmoTFp5omoo2AwG8qcRdUemKgWTtIy3ybE="
+    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cf_google_authenticator": {
     "version": "1.2.4",
@@ -8115,23 +8128,22 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "checkfaluploads": {
-    "version": "3.0.2",
+    "version": "3.0.4",
     "t3_versions": [
       10,
       11
     ],
     "description": "Displays a checkbox that must be checked to upload files in backend",
-    "hash": "sha256-V7rypf5l45gwCC0k4X5DC5/oLJTFHrMjOlFi3NSHeHw="
+    "hash": "sha256-XEdTFhaFsVomw41hNCkKf57+9UMOgR8EgUdCDWg1kCM="
   },
   "checkmysite": {
-    "version": "3.1.0",
+    "version": "4.0.0",
     "t3_versions": [
-      6,
-      7,
-      8
+      11,
+      12
     ],
     "description": "Check index.php for suspicious modifications",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-26EGzCnoxpuk5rVJpvfbwae5viCstjmTQGjhRQFogyc="
   },
   "cherries": {
     "version": "0.0.6",
@@ -8599,12 +8611,21 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "clubdirectory": {
-    "version": "5.3.0",
+    "version": "6.0.1",
     "t3_versions": [
-      10
+      10,
+      11
     ],
     "description": "Manage and display clubs",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-1hFuqLB1dXRWm1a878NTOR2tD/VR4UnDSP+S4emghR4="
+  },
+  "clubmanager": {
+    "version": "1.0.2",
+    "t3_versions": [
+      11
+    ],
+    "description": "The TYPO3 module for managing clubs, foundations and associations. With Clubmanager, you get the tool to manage the organization AND public relations of your club or association in a cost-saving and effective way.",
+    "hash": "sha256-RIfzRpNdwuw/3vpne/tSHboGOxhA4IMzgs0WZvpZAbo="
   },
   "cm_ajax": {
     "version": "0.6.0",
@@ -8850,14 +8871,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "codehighlight": {
-    "version": "2.12.1",
+    "version": "3.1.1",
     "t3_versions": [
-      9,
-      10,
       11
     ],
     "description": "Code highlighter for various programming, markup and configuration languages based on PrismJS",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-yVAJCnON72bF6xi0OYdvMDSCvmGdxU9rd9ZSIXmooG4="
   },
   "codersquad_libs": {
     "version": "1.0.1",
@@ -9472,22 +9491,22 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "container": {
-    "version": "2.1.2",
+    "version": "2.2.2",
     "t3_versions": [
       10,
-      11
+      11,
+      12
     ],
     "description": "Create Custom Container Content Elements for TYPO3",
-    "hash": "sha256-Z+DaDsyPDBa3Qk1wiD8jyqOBgdI2s+dlZ08++JfSaQY="
+    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "container_elements": {
-    "version": "4.0.2",
+    "version": "5.0.1",
     "t3_versions": [
-      10,
       11
     ],
     "description": "Provides content elements powered by container and bootstrap. Available elements: container, columns, grid, tabs, accordion, tile unit, card and randomizer.",
-    "hash": "sha256-FEHl2HsR4mEfLvoJ1kqjxEoBzvczjdlIjwF3/vLmpxU="
+    "hash": "sha256-4VPexgKR8+sorb/eypDfm9R/3oFiC6D/MjoTLglMFps="
   },
   "container_example": {
     "version": "1.0.0",
@@ -9506,13 +9525,13 @@
     "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
   },
   "containeritems": {
-    "version": "4.0.0",
+    "version": "4.2.1",
     "t3_versions": [
       10,
       11
     ],
     "description": "EXT:container layouts for columns, accordions, carousels, content sections and boxes. Demo at: https://microtemplate.t3brightside.com",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-lnAnGKr2XjKXYJgHGMpKhfw0R3CjMP9DS7qvHxzxZxc="
   },
   "content2rss": {
     "version": "0.2.0",
@@ -9527,15 +9546,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "content_animations": {
-    "version": "2.3.3",
+    "version": "2.4.0",
     "t3_versions": [
-      8,
-      9,
       10,
       11
     ],
     "description": "This extension allows you to set nice animations to your content elements if they are scrolled into the browsers viewport. To install it include the static typoscript of content_animations to your template and you're good to go. Have fun! :-)",
-    "hash": "sha256-17zXLX0/K3xLpUR7b+r1+znFIXrltFIupUktYdQqmkk="
+    "hash": "sha256-Doy3Em095KM4cXmIcw0U63fvlG5K7Dpa4JPVKJmbff8="
   },
   "content_consent": {
     "version": "1.0.2",
@@ -9546,14 +9563,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "content_defender": {
-    "version": "3.2.3",
+    "version": "3.3.0",
     "t3_versions": [
       9,
       10,
       11
     ],
     "description": "Define allowed or denied content element types in your backend layouts",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-mCXBE2T24+jms8QBb1rkJKyrFqGALSE6MpuZEOvjDj0="
   },
   "content_designer": {
     "version": "3.0.7",
@@ -9596,12 +9613,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "content_information": {
-    "version": "0.1.9",
+    "version": "0.2.2",
     "t3_versions": [
       11
     ],
     "description": "This extension provides useful information based on the content in your TYPO3 CMS installation.",
-    "hash": "sha256-ehXH9Yem02EdAG4daa2KJLShYuReNxBHkSZJNj49LD4="
+    "hash": "sha256-/SyC8QlxhBRVICMgx4rrgrDlkae99SHTPaV/YasJfKw="
   },
   "content_overview": {
     "version": "0.3.1",
@@ -9646,12 +9663,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "content_slug": {
-    "version": "2.1.0",
+    "version": "3.0.2",
     "t3_versions": [
-      10
+      11
     ],
     "description": "Adds a slug field for human-readable anchors (\"domain.com/page/#my-section\") to TYPO3 content elements. By default, this anchor is rendered as the header's id attribute.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-kdwXrXvy7SuAa84/TWI0krC2DVVhlEQ3AEJEKJ9d/n8="
   },
   "content_uneraser": {
     "version": "0.2.0",
@@ -9660,13 +9677,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "contentblocks_reg_api": {
-    "version": "3.0.4",
+    "version": "3.0.5",
     "t3_versions": [
       10,
       11
     ],
     "description": "This API provides an easy and reliable way to register content blocks as standalone packages.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-6R0bAcJQ/5sbrV8mlw3cNxYxRSkpNsHo5OJotINA2bs="
   },
   "contentcategory": {
     "version": "1.0.3",
@@ -9760,11 +9777,9 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "contexts": {
-    "version": "1.0.0",
+    "version": "3.0.0",
     "t3_versions": [
-      6,
-      7,
-      8
+      11
     ],
     "description": "Contexts for TYPO3 - can be used to modify page behaviour in the frontend based on several conditions",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
@@ -9801,10 +9816,10 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "contributory_calculator": {
-    "version": "3.0.0",
+    "version": "5.0.1",
     "t3_versions": [
-      9,
-      10
+      10,
+      11
     ],
     "description": "Extension to calculate contributories in the frontend.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
@@ -10102,14 +10117,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "copyright": {
-    "version": "1.0.3",
+    "version": "11.0.2",
     "t3_versions": [
-      8,
-      9,
-      10
+      10,
+      11
     ],
     "description": "Obligate copyright for images",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-DCvKiO52hfkV4m7w1U8gjidOCZdAJWoAZ8mvqsoINWA="
   },
   "core_permalogin": {
     "version": "0.0.1",
@@ -10731,12 +10745,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cs_powermail_gdpr": {
-    "version": "2.0.1",
+    "version": "3.1.4",
     "t3_versions": [
-      10
+      11
     ],
     "description": "",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-LH354sZTj719ycnrrk88Bw/uqlq4rNpUpDieWn/mUa4="
   },
   "cs_powermail_limit": {
     "version": "1.0.3",
@@ -10762,12 +10776,10 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cs_seo": {
-    "version": "7.3.1",
-    "t3_versions": [
-      11
-    ],
+    "version": "8.0.0",
+    "t3_versions": [],
     "description": "SEO Extension: Enables important onpage features for search engine optimization (SEO). Expands",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-LLhZIT0sqEZRul4ogN3RflHMcQRKN0o9pKbfedeCUw8="
   },
   "cs_static_hide": {
     "version": "1.0.1",
@@ -11142,10 +11154,11 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "csv_labels": {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "t3_versions": [
       9,
-      10
+      10,
+      11
     ],
     "description": "Use CSV files to provide translation labels to TYPO3",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
@@ -11204,12 +11217,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ctype_manager": {
-    "version": "11.6.0",
+    "version": "12.0.0",
     "t3_versions": [
       11
     ],
     "description": "This TYPO3 extension implements a backend module through which available content and plugin types can be configured on page level.",
-    "hash": "sha256-xObMKmO5t4XdqhyxgohD7WhKpZdSZU0ki/TM47NuFuY="
+    "hash": "sha256-KQcEV+yslEjv7Be5sUwOnlqV4fmG/cZzb3jsOhbfIEE="
   },
   "cundd_composer": {
     "version": "4.1.0",
@@ -11336,28 +11349,28 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cute_mailing": {
-    "version": "2.0.1",
+    "version": "3.0.0",
     "t3_versions": [
       11
     ],
     "description": "Send TYPO3 pages as emails (newsletter) to many recipients. Can be used as replacement for direct_mail.",
-    "hash": "sha256-J4J41V00d6y634Xv/Vmfe7YmmQY2TBUyFWpn73N/GK4="
+    "hash": "sha256-QXCcB5lt0KXrysGKURHl/547Ga0pud4+6PojW9qhpjs="
   },
   "cute_mailing_registeraddress": {
-    "version": "1.0.0",
+    "version": "2.0.0",
     "t3_versions": [
       11
     ],
     "description": "A TYPO3 extension that connects registeraddress and cute-mailing.",
-    "hash": "sha256-MjDyrdYMDGt0Uf9OAWZcFhn+1mvA8TOSv68jKJQFMn8="
+    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cute_mailing_ttaddress": {
-    "version": "1.0.0",
+    "version": "2.0.0",
     "t3_versions": [
       11
     ],
     "description": "A TYPO3 extension that connects tt_address and cute-mailing.",
-    "hash": "sha256-govHbqFNoKwE5S13SKVFrXKqqRR/PscjvHbAGIojo6s="
+    "hash": "sha256-35G1zxdn+ffK5KHoBMFagmTceNWNWrsTeKDFCnrzgfM="
   },
   "cv_merge_flexform": {
     "version": "0.1.0",
@@ -11588,6 +11601,22 @@
     "t3_versions": [],
     "description": "krpano integration into TYPO3. At the moment integration is limited to panoramas of the type \"CYLINDER\", though other types can be integrated by directly putting the XML into the template. Licence required!",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "cy_newsletter": {
+    "version": "1.0.6",
+    "t3_versions": [
+      11
+    ],
+    "description": "This plugin contains a small service to send a newsletter for frontend user (based on the news extension).",
+    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "cy_send_mails": {
+    "version": "1.0.1",
+    "t3_versions": [
+      11
+    ],
+    "description": "This extension allows frontend users to write emails to other ",
+    "hash": "sha256-01sbIFSwAabD7YbdY9cescew+2O96t16iOSbX7UUfAQ="
   },
   "cy_twitter": {
     "version": "0.0.2",
@@ -12428,10 +12457,10 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "daycarecenters": {
-    "version": "4.0.3",
+    "version": "5.0.0",
     "t3_versions": [
-      9,
-      10
+      10,
+      11
     ],
     "description": "This extensions lets create and show you records of day care centers",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
@@ -12564,14 +12593,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "dce": {
-    "version": "2.9.3",
+    "version": "2.9.4",
     "t3_versions": [
       9,
       10,
       11
     ],
     "description": "Best flexform based content elements since 2012. With TCA mapping feature, simple backend view and much more features which makes it super easy to create own content element types.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-2iJMaGWE07DxAG640pYDw0hk1gmXNDUiuNvQgtCtnu8="
   },
   "dcformcreator": {
     "version": "0.0.3",
@@ -12817,14 +12846,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "debug_mysql_db": {
-    "version": "1.1.3",
+    "version": "1.2.0",
     "t3_versions": [
-      9,
       10,
       11
     ],
     "description": "Extends \\TYPO3\\CMS\\Core\\Database\\DatabaseConnection and \\TYPO3\\CMS\\Core\\Database\\Connection to show Errors and Debug-Messages. Debugging of sql-queries by debug and FileWriter.",
-    "hash": "sha256-jef+vM2ZSw8wInsMKqApBW8w+kaHfDH31dTiANxNPoo="
+    "hash": "sha256-NpdrtFFCZGQfA0suUS/MavVaJIUX0tW5ljevYAzsYeM="
   },
   "debug_settings_task": {
     "version": "2.2.1",
@@ -13711,13 +13739,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "div2007": {
-    "version": "1.15.2",
+    "version": "1.16.4",
     "t3_versions": [
       10,
       11
     ],
     "description": "This library offers classes and functions to other TYPO3 extensions. It provides a modified t3lib_div of TYPO3 4.7.10. Replacement for tslib_pibase methods and t3skin images.",
-    "hash": "sha256-e3HBzn4EgFWR64cKSauqjgS+jfCqes64e4TND4k3jLE="
+    "hash": "sha256-X9pUVuDVhY/7HtKi+71DzxmjvnuB6em0+K721UMMBCs="
   },
   "diva": {
     "version": "8.7.1",
@@ -14942,13 +14970,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "domaincheck": {
-    "version": "1.3.3",
+    "version": "1.4.0",
     "t3_versions": [
       10,
       11
     ],
     "description": "Frontend plugin to check domains.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-tIOQJRAJlF2R5plLQR0vnNr6EL+uJyLCn6wbsJUAtd0="
   },
   "domb_fussballde_js": {
     "version": "1.0.3",
@@ -15036,13 +15064,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "dp_cookieconsent": {
-    "version": "11.6.3",
+    "version": "12.0.3",
     "t3_versions": [
-      10,
       11
     ],
     "description": "Enable a cookie consent box. Let you visitors control the usage of cookies and load script or content after a consent. (ePrivacy, TTDSG)",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-/Vlll6suOESsBeOoNzcPQEEoSwbwHt/wLgMBN6MtGnE="
   },
   "dp_editpanel": {
     "version": "0.0.2",
@@ -15083,13 +15110,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "dpn_glossary": {
-    "version": "4.1.0",
+    "version": "5.0.1",
     "t3_versions": [
-      10,
-      11
+      11,
+      12
     ],
     "description": "Glossary extension with page parser",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-Z5ALbcp8Q7wpCRXx+WhmmS/RD1xLF572wzb4XU/E0kY="
   },
   "dr_blob": {
     "version": "2.3.2",
@@ -15322,13 +15349,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "dropbox": {
-    "version": "4.2.4",
+    "version": "4.3.0",
     "t3_versions": [
       10,
       11
     ],
     "description": "Provides a Dropbox driver for TYPO3 File Abstraction Layer.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-xcfPU11x/FsEkJrMS7dHMsKEEH7A1EYALnvp9qGsySg="
   },
   "dropbox_sync": {
     "version": "0.9.5",
@@ -15789,12 +15816,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "easy_accesskeys": {
-    "version": "0.1.4",
+    "version": "0.2.0",
     "t3_versions": [
-      10
+      10,
+      11
     ],
     "description": "Easy Accesskeys",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-SNqK/xSZOwSNYvsraQeYyFzDLoOtNDk65SsdqAOqdtg="
   },
   "easy_googlemap": {
     "version": "3.0.2",
@@ -15806,13 +15834,15 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "easy_navigation": {
-    "version": "2.0.0",
+    "version": "2.2.0",
     "t3_versions": [
       9,
-      10
+      10,
+      11,
+      12
     ],
     "description": "An extension that makes it easy to flag a TYPO3 page record as an entry point of a menu",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-jnMJvJpPy2O6bB0EB2tCymIgfWSFDuNQig8A/OtWVGs="
   },
   "easycal": {
     "version": "0.1.0",
@@ -15830,22 +15860,18 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "easyconf": {
-    "version": "1.4.0",
+    "version": "2.0.0",
+    "t3_versions": [],
+    "description": "Provides a module to easily configure main aspects from a website.",
+    "hash": "sha256-A99IR8axxrjMt05Pww0rqWy/dp9259yr2iuWdnjgGPA="
+  },
+  "easydb": {
+    "version": "2.0.0",
     "t3_versions": [
       11
     ],
-    "description": "Provides a module to easily configure main aspects from a website.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
-  },
-  "easydb": {
-    "version": "1.5.0",
-    "t3_versions": [
-      8,
-      9,
-      10
-    ],
     "description": "Integration of easydb asset management in TYPO3 CMS",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-NdAMTAZemroXEI3PfCf6YSlso8FqrUKBTqx/bW0S46U="
   },
   "easyforms": {
     "version": "0.9.5",
@@ -16457,6 +16483,14 @@
     "description": "Replaces the default email address spam protection with a better one. The email obfuscation is more randomized, safer and more user friendly for the website visitor.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "embedassets": {
+    "version": "1.2.0",
+    "t3_versions": [
+      11
+    ],
+    "description": "Fluid viewhelpers for embed and minified CSS/JS",
+    "hash": "sha256-r+/vWE0ZqhZh0VaubwEvfrKDl1YcAVjIkLhB4uOBKeg="
+  },
   "embettyvideo4typo3": {
     "version": "1.0.2",
     "t3_versions": [
@@ -16512,6 +16546,14 @@
     "t3_versions": [],
     "description": "When using TCEMAIN.clearCacheCmd in TSConfig the cache of ALL single views is cleared when ONE record gets changed, because all single views have the same page id.",
     "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
+  },
+  "enhanced_backend": {
+    "version": "0.1.0",
+    "t3_versions": [
+      11
+    ],
+    "description": "Improves the user experience (UI/UX), provides customization options for editors and enhances the look and feel of TYPO3 backend.",
+    "hash": "sha256-ArF7+o1jz+FFkcDVsfd+MYfCLkUBvvf86UdtZmF64YU="
   },
   "enomaly_laszlo": {
     "version": "0.0.2",
@@ -16671,13 +16713,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "escaper": {
-    "version": "2.10.0",
+    "version": "2.12.0",
     "t3_versions": [
       10,
-      11
+      11,
+      12
     ],
     "description": "This provides the Laminas Escaper XSS prevention library.",
-    "hash": "sha256-srRVWaLDLrc1O7d2z4T39eQgrzqKleZdKiC1MGSwlF0="
+    "hash": "sha256-77EGp8RCwwDMQS02wfIgTF4jcijrNoD+fG2d1CxEHQY="
   },
   "esf_multistepmailform": {
     "version": "0.0.1",
@@ -16913,13 +16956,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "evangtermine": {
-    "version": "2.2.1",
+    "version": "2.2.3",
     "t3_versions": [
       10,
       11
     ],
     "description": "Anzeige des Terminkalenders der Vernetzten Kirche in der Ev.-Luth. Kirche in Bayern und weiteren teilnehmenden evangelischen Landeskirchen.",
-    "hash": "sha256-psq343/dJ3Jyl60BI07IEOemDkXFdx65ZKG5obmrfss="
+    "hash": "sha256-erMT3ynHNETGyDX+MfIo8GkyHHvES/j7tiusncJiY78="
   },
   "evcontext": {
     "version": "0.0.1",
@@ -16975,21 +17018,21 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "eventplanner": {
-    "version": "2.0.3",
+    "version": "2.0.4",
     "t3_versions": [
       11
     ],
     "description": "You can organize helper for your event. Plan places of work and the front end users can register for it.",
-    "hash": "sha256-9C+5+VEAR9Gek+NUlHcDxPLjJydDvZuAnUs/o8at0TQ="
+    "hash": "sha256-7LR7o5M4/6hkrt7UpflpJfJPcSMK5Aavk9Ph49gXphs="
   },
   "events2": {
-    "version": "8.1.5",
+    "version": "8.1.6",
     "t3_versions": [
       10,
       11
     ],
     "description": "Create single and recurring events",
-    "hash": "sha256-s0j8tgF9uIaq+1mJ1ghxZ7h5qqKA40cIeI/mTb1uZYg="
+    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "evgallery": {
     "version": "2.9.0",
@@ -17245,13 +17288,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ext_bibsonomy_csl": {
-    "version": "3.3.0",
+    "version": "3.3.1",
     "t3_versions": [
       10,
       11
     ],
     "description": "TYPO3 extension for PUMA and BibSonomy using CSL",
-    "hash": "sha256-IjeL0tJvNNSewkQ10Xk0d4DMi0j0Iiglqu43KxcuZ4Q="
+    "hash": "sha256-W6mR7YRvljJww1R0nkGi+qMxPrfZaQSO6QzJlAbjLv8="
   },
   "ext_configuration": {
     "version": "1.0.3",
@@ -17541,13 +17584,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "external_import": {
-    "version": "6.3.0",
+    "version": "7.0.0",
     "t3_versions": [
-      10,
       11
     ],
     "description": "Tool for importing data from external sources into the TYPO3 CMS database, using an extended TCA syntax. Provides a BE module, a Scheduler task, a command-line tool and an API.",
-    "hash": "sha256-PNLVeIkYVlc5H82uN0i5b2RLVJmIfb/YrWcFo0x7Sqo="
+    "hash": "sha256-bJDnrTF+pvsu+u7fYEWMYfdjKLIf2W8LlqwF3e2fg4M="
   },
   "external_import_tt_products": {
     "version": "0.0.1",
@@ -17577,13 +17619,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "externalimport_tut": {
-    "version": "4.0.0",
+    "version": "5.0.0",
     "t3_versions": [
-      10,
       11
     ],
     "description": "Tutorial for the External Import extension. Contains the manual and the necessary files.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-pW1tQBdAddXFiN1bcLIZlwyZetn97GvyAgSc8JWSzS0="
   },
   "extfileupload": {
     "version": "0.0.1",
@@ -17613,7 +17654,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "extractor": {
-    "version": "2.2.0",
+    "version": "2.3.0",
     "t3_versions": [
       8,
       9,
@@ -17621,7 +17662,7 @@
       11
     ],
     "description": "This extension detects and extracts metadata (EXIF / IPTC / XMP / ...) from potentially thousand different file types (such as MS Word/Powerpoint/Excel documents, PDF and images) and bring them automatically and natively to TYPO3 when uploading assets. Works with built-in PHP functions but takes advantage of Apache Tika and other external tools for enhanced metadata extraction.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-+pyrdH5d83cxlpvg63gRvVjYPdj7AnFQJh8zGF1tMSk="
   },
   "extrasalt": {
     "version": "0.1.7",
@@ -17833,14 +17874,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fal_protect": {
-    "version": "1.4.0",
+    "version": "1.4.1",
     "t3_versions": [
       9,
       10,
       11
     ],
     "description": "Protect everything within /fileadmin/ based on associated folder and file restrictions (visibility, user groups and dates of publication).",
-    "hash": "sha256-08m1+xTm/+6r/0xFQ5IWqBdjLFv9RHLGasRqwpclG9M="
+    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fal_quota": {
     "version": "1.7.2",
@@ -18258,12 +18299,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fe_change_pwd": {
-    "version": "3.0.3",
+    "version": "4.0.1",
     "t3_versions": [
-      11
+      12
     ],
-    "description": "Plugin to enable password change for frontend users. Contains configurable password ",
-    "hash": "sha256-UlTmBCNAswiooLfspt1Cnh27iz00CpQPonzgpuwUle0="
+    "description": "Plugin to enable password change for frontend users. Contains configurable password",
+    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fe_changelog": {
     "version": "3.1.0",
@@ -18326,10 +18367,10 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fe_login_mode": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "t3_versions": [],
     "description": "Provides the frontend user login mode functionality for TYPO3",
-    "hash": "sha256-Yn9BNEpKDKs5CBJt5rgv6Sv+5ll9hYde1Qow4+9hTE8="
+    "hash": "sha256-6CPvSgUmHQ9wwnd63rFd7MGlHOwTffNBkFb/jPw1jT4="
   },
   "fe_mp3player": {
     "version": "0.2.4",
@@ -18462,12 +18503,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "feed_display": {
-    "version": "1.2.0",
+    "version": "1.3.1",
     "t3_versions": [
       11
     ],
     "description": "Fetches and parses RSS and Atom web feeds with the SimplePie library and prepares them for frontend display",
-    "hash": "sha256-a5PLwvCUvD5vXUkWSSXt2Ye0KDKXQrUdg2zX0Rl+SBk="
+    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "feed_generator": {
     "version": "0.6.0",
@@ -18593,12 +18634,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "femanager": {
-    "version": "7.1.0",
+    "version": "7.1.1",
     "t3_versions": [
       11
     ],
     "description": "TYPO3 Frontend User Registration and Management based on",
-    "hash": "sha256-FiCbVBMHMgnBtA2pxThuqza39ac0XqpuBKHML0nzH3g="
+    "hash": "sha256-Hk28+n2daIIoCecZ6eRVn4RyA3Fn3+6KjjimvkuyYR0="
   },
   "femanager_cleverreach": {
     "version": "2.0.0",
@@ -18609,10 +18650,9 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "femanager_dmail_subscribe": {
-    "version": "2.1.3",
+    "version": "3.0.0",
     "t3_versions": [
-      7,
-      8
+      11
     ],
     "description": "Adds direct mail fields to femanager",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
@@ -18623,6 +18663,14 @@
       8
     ],
     "description": "Expand the search function of femanager to be able to filter by user groups",
+    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "femanager_mail_subscribe": {
+    "version": "1.2.0",
+    "t3_versions": [
+      11
+    ],
+    "description": "Adds newsletter subscription fields for mail extension to femanager",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "femanager_mailchimp": {
@@ -18884,13 +18932,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fh_debug": {
-    "version": "0.12.1",
+    "version": "0.14.0",
     "t3_versions": [
-      10,
-      11
+      11,
+      12
     ],
     "description": "This generates a PHP debug output file. FileWriter into debug",
-    "hash": "sha256-zjxycuFT+lStbro2Xkxw2GFCmVQl+wmIWTdW8t9is9s="
+    "hash": "sha256-0kHY9qcgI1FKN6rXvHE0hlVIaU64jJDboXHhe06MCOs="
   },
   "fh_library": {
     "version": "0.0.20",
@@ -19016,14 +19064,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "file_list": {
-    "version": "2.5.0",
+    "version": "2.6.0",
     "t3_versions": [
-      8,
       9,
-      10
+      10,
+      11
     ],
     "description": "This extension provides a frontend plugin which shows a list of files and folders in a specified directory on the file system (comparable to Apache directory listing) or using more advanced FAL selectors (categories, collection of files, ...). This extension may also be used for creating image galleries. Default templates are Bootstrap-ready.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-Y7RBjmHUi6stlMoPbXp8fVJDxaR1gKwPSSw/QwkxPuk="
   },
   "file_ref_list": {
     "version": "0.1.1",
@@ -19056,6 +19104,17 @@
     ],
     "description": "Find and fetch missing local files from different remotes",
     "hash": "sha256-ry+l1Shigo0VICmZbdZbgSi/dWpSH34usphy8KO5554="
+  },
+  "filefill_payload": {
+    "version": "0.6.0",
+    "t3_versions": [
+      8,
+      9,
+      10,
+      11
+    ],
+    "description": "Supplying working binary files for EXT:filefill",
+    "hash": "sha256-Y8Ugipwwbn4GLLU3YF0PAOGf/7nU85PSus0E0h2zmEI="
   },
   "filelinks": {
     "version": "0.0.11",
@@ -19236,6 +19295,16 @@
     ],
     "description": "upify enables you to administrate all your installations at one place.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "fitweb_leads": {
+    "version": "1.2.1",
+    "t3_versions": [
+      8,
+      9,
+      10
+    ],
+    "description": "Alles was man für die Leadsammlung benötigt",
+    "hash": "sha256-oX8KVnDPlHSqho2Oq4W8VpoZNQIwNN7fow+8OCeU2bE="
   },
   "fitweb_template": {
     "version": "5.1.2",
@@ -19631,13 +19700,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fluid_components": {
-    "version": "3.4.3",
+    "version": "3.5.1",
     "t3_versions": [
       10,
       11
     ],
     "description": "Encapsulated frontend components with Fluid's ViewHelper syntax",
-    "hash": "sha256-gm/AKRfgc83nvyrZjFDH35CJDpuPYeYpmV1FFpW4RxI="
+    "hash": "sha256-U5nNSQ7zoej+QhwU6jYLfjM/Zi39BIHJsmq5soXuzx4="
   },
   "fluid_contentelements": {
     "version": "1.0.0",
@@ -19696,13 +19765,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fluid_page_cache": {
-    "version": "2.0.0",
+    "version": "2.0.1",
     "t3_versions": [
       10,
       11
     ],
     "description": "Creates automatically tags for TYPO3's page cache, based on used variables in rendered Fluid templates on current page.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-YBdjH/7srLxkrb94MRONzXRwiBstK79/IIOsCn2JvGg="
   },
   "fluid_recommendation": {
     "version": "1.3.0",
@@ -19903,12 +19972,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "flush_language_cache": {
-    "version": "4.0.0",
+    "version": "4.0.1",
     "t3_versions": [
       11
     ],
     "description": "Adds an item to the flush cache menu to clear just the language (l10n) cache. Also provides a command-line tool for that.",
-    "hash": "sha256-yNu2kk59lIzcYs1t+UE2K01htukJZjSRro74t2Qn+FA="
+    "hash": "sha256-he4hDMN/tiAEANpUt8BteUsPUlpsO+LL5RTgO6t2Y2Q="
   },
   "flux": {
     "version": "9.7.2",
@@ -19938,13 +20007,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "flux_kesearch_indexer": {
-    "version": "2.0.1",
+    "version": "3.0.1",
     "t3_versions": [
-      9,
-      10
+      11
     ],
     "description": "ke_search Indexer For Flux Elements",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-FxxBOoTMsk/n7ux8D8wR7ppakDWDxINqi7hzGDTCCbc="
   },
   "fluxtemplating": {
     "version": "0.0.1",
@@ -20081,12 +20149,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fontawesome_provider": {
-    "version": "1.0.0",
+    "version": "1.0.3",
     "t3_versions": [
       11
     ],
     "description": "Integrates legacy FontawesomeIconProvider and FontAwesome 4.7",
-    "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
+    "hash": "sha256-I8bn4xDX29aabJhFn0l+/7+r5CkJh2ZlnlfA7uEZLGM="
   },
   "fontresize": {
     "version": "1.0.1",
@@ -20148,6 +20216,14 @@
     ],
     "description": "",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "form2salesforce": {
+    "version": "1.0.0",
+    "t3_versions": [
+      11
+    ],
+    "description": "Send data of form to salesforce API endpoint",
+    "hash": "sha256-97SLOv0S0q1xnTwdz5Z1kvTOHCW5y8bbhPKN53kwwMQ="
   },
   "form4_ajax": {
     "version": "0.2.1",
@@ -20348,21 +20424,19 @@
     "hash": "sha256-Ubo9FZSWnwHXI/j2or+ezokzEw5vYE0M8suy0PJKfbo="
   },
   "form_country_select": {
-    "version": "2.0.1",
-    "t3_versions": [
-      11
-    ],
+    "version": "3.0.0",
+    "t3_versions": [],
     "description": "Form element for selecting a country from a localised list",
-    "hash": "sha256-/XaNYWXN/XXZvTUphsKs+VAOxu7Iuvr3QDLG7flWCB8="
+    "hash": "sha256-xHMUmUruf2U8HfHh1n+Hwg1F4FBnYhvxxRYQdSlrBAc="
   },
   "form_crshield": {
-    "version": "1.2.2",
+    "version": "1.3.0",
     "t3_versions": [
       10,
       11
     ],
-    "description": "Challenge/response spam protection for ext:form",
-    "hash": "sha256-ej8+nEWK2WukMhT42ADBfa1SqkziRtPCuDNfhz41b3o="
+    "description": "Challenge/response spambot protection for ext:form",
+    "hash": "sha256-OVWB7d9HWzZ79yLTMd2lJ1dAJ9RtKW8IzHsrJ73BVUc="
   },
   "form_doubleoptin": {
     "version": "1.1.1",
@@ -20393,12 +20467,10 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "form_email_contentblocks": {
-    "version": "1.0.0",
-    "t3_versions": [
-      11
-    ],
+    "version": "2.1.0",
+    "t3_versions": [],
     "description": "Allows to add a content element at the beginning (introductory text) and/or at the end (email signature) of the email templates. Also, the background color and logo of the fluid email template can be edited.",
-    "hash": "sha256-iEkjh9qJ5ERwHLnMz6I/E8ywgl56l1C9UO46ODAKolE="
+    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "form_extended": {
     "version": "11.0.0",
@@ -20431,14 +20503,14 @@
     "hash": "sha256-vP+ruB5DUBs2huaskvswR5pP7THiwRYwYwBVUnsHOWk="
   },
   "form_frontend_validation": {
-    "version": "1.0.0",
+    "version": "1.1.2",
     "t3_versions": [
       9,
       10,
       11
     ],
     "description": "Frontend validation for the TYPO3 form framework.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-fQYyj/QUleHMCxv0UiTgiArcaRQpvHj0rz76FybhwFs="
   },
   "form_legacy": {
     "version": "8.7.0",
@@ -20485,12 +20557,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "form_rate_limit": {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "t3_versions": [
       11
     ],
     "description": "TYPO3 form finisher for rate limiting when sending a form",
-    "hash": "sha256-/+bcyp1Tbvw7JwHx0MQKDzdOfAkZJr2U2fPJw+AmLKQ="
+    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "form_search": {
     "version": "1.1.0",
@@ -20553,14 +20625,10 @@
     "hash": "sha256-RvWJOu0SZhoTXoYxeQSoceqW4kcWDWjfXRLKLu3/NCk="
   },
   "format_t3tools": {
-    "version": "2.2.5",
-    "t3_versions": [
-      9,
-      10,
-      11
-    ],
+    "version": "3.0.1",
+    "t3_versions": [],
     "description": "This TYPO3 extension checks the size of all database tables and/or the size of all log files at regular intervals. If a certain size is exceeded, a mail can be sent. There is a separate scheduler task for each check.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-4fGSunUGrPRnMid2lg7LP1d4Ipr5fhHxr/0gT1lnzbA="
   },
   "formbuilder": {
     "version": "0.1.0",
@@ -20844,22 +20912,22 @@
     "hash": "sha256-LmVj4/4A+z46sotYj/wob+h7t4Efcxn7ICh7d9o9gaI="
   },
   "fp_masterquiz": {
-    "version": "3.5.5",
+    "version": "3.7.1",
     "t3_versions": [
       10,
       11
     ],
     "description": "A modern extension that offers quiz, polls and tests. Ajax support. The result can be displayed as a chart too. Supports 8 question modes.",
-    "hash": "sha256-CYtI5oHu/46JRE6+2CktqHs8yNob1dIaHJvuVJI/Axc="
+    "hash": "sha256-XPHuPwMoM3WTEcxnGMcduX+TLlfTVKlDo24WFbZQk2k="
   },
   "fp_newsletter": {
-    "version": "4.0.3",
+    "version": "4.1.0",
     "t3_versions": [
       10,
       11
     ],
     "description": "Plugin for newsletter subscription and unsubscription with double opt in (and double opt out). For: direct_mail or luxletter / tt_address or fe_users. A log is written.",
-    "hash": "sha256-5SPHTBX4X6KQOuaRQFimpfTnY9IE/6AVF5UictCLcJw="
+    "hash": "sha256-0MZwBevNGoD0/OTzbHiiAx4gL6y6JUzLFunXZwVUMxM="
   },
   "fp_product_features": {
     "version": "0.2.0",
@@ -21066,12 +21134,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "frp_form_answers": {
-    "version": "3.1.0",
+    "version": "4.0.2",
     "t3_versions": [
-      10
+      11
     ],
     "description": "Adds the possibility, as a finisher, to save and export the form entries from customers",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-Hyk87C8TfeahEs/G1+L9T4R9cqYvaTSpDTULZQ6dBeg="
   },
   "frp_simpledownloads": {
     "version": "0.0.1",
@@ -21359,12 +21427,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "gallerycontent": {
-    "version": "1.5.1",
+    "version": "1.8.1",
     "t3_versions": [
       11
     ],
     "description": "Content element for image gallery with preset crop ratios and pagination",
-    "hash": "sha256-GkAJeCjqpL2fVLHg0jhmGdDsmSKZ7Aga2kmA4eAfvhA="
+    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "galtlang": {
     "version": "2.1.0",
@@ -21820,10 +21888,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "giphy": {
-    "version": "1.0.0",
+    "version": "12.4.1",
     "t3_versions": [
       9,
-      10
+      10,
+      11,
+      12
     ],
     "description": "Giphy for the masses.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
@@ -22095,12 +22165,12 @@
     "hash": "sha256-uQN+HX6vMTkGkweBQrtWt2lSIN/Kv5ry0mm2KQvK2zc="
   },
   "go_maps_ext": {
-    "version": "5.1.0",
+    "version": "6.0.0",
     "t3_versions": [
       11
     ],
-    "description": "Google Maps Extension. Simply insert a google map Version 3 inc. jQuery, calculate a route,",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "description": "Google Maps Extension. Simply insert a Google Map Version 3 without jQuery, calculate a route,",
+    "hash": "sha256-2GnAQXY/1LKZNv44+z1sl0qWgnoKENmfZv2gR+nlspc="
   },
   "gobernalia_change_style_shee": {
     "version": "0.0.0",
@@ -22588,13 +22658,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "grid_for_container": {
-    "version": "2.0.0",
+    "version": "2.1.1",
     "t3_versions": [
       10,
       11
     ],
     "description": "Add an easy to use grid element for Container. It's Framework independent. Prepared for Bootstrap (3, 4, 5).",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-4I/iLNQuone5jegN8CjdqPnpHr4pKkGciUA/iFkZU0A="
   },
   "grid_for_gridelements": {
     "version": "2.2.0",
@@ -22614,12 +22684,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "gridelements": {
-    "version": "10.4.3",
+    "version": "11.0.0",
     "t3_versions": [
-      10
+      10,
+      11
     ],
-    "description": "This extension integrates the grid layout concept also to regular content elements - the grid elements.",
-    "hash": "sha256-xffutq8lftWNSklEnZECVoxz1u95yynKGgRMjpk561o="
+    "description": "This extension extends the grid-based concept known from the backend layout of pages to regular content elements - the grid elements.",
+    "hash": "sha256-NI56HS4KYjuum6f9B8Rx59TfljytF0LviPc4uRAwkw4="
   },
   "gridelements_bootstrap": {
     "version": "1.0.0",
@@ -22667,7 +22738,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "gridtocontainer": {
-    "version": "12.0.2",
+    "version": "12.0.6",
     "t3_versions": [],
     "description": "EXT:gridtocontainer is a small migration extension with backend module for those who want to switch from EXT:gridelements to EXT:container.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
@@ -23044,13 +23115,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "handlebars": {
-    "version": "0.7.20",
+    "version": "0.7.22",
     "t3_versions": [
       10,
       11
     ],
     "description": "A TYPO3 extension that provides an entire rendering environment for Handlebars templates. It is seamlessly integrated into TYPO3 and offers extensive configuration options to get all the power out of your templates.",
-    "hash": "sha256-RVCWn2RlCdRRrtqgDvP8qmkCpZZc2e1oCdoF8y0XQp4="
+    "hash": "sha256-orPnCQ+mZCAe+ODf+fLI3Rpccf75uZGzgE4HojOAMM8="
   },
   "handlescript_2checkout": {
     "version": "1.0.0",
@@ -23105,6 +23176,15 @@
     "description": "Display images in different categories. 2 different vote functions, Teaser template and easy config with the constants-editor",
     "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
   },
+  "hd_translator": {
+    "version": "0.1.0",
+    "t3_versions": [
+      10,
+      11
+    ],
+    "description": "",
+    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
   "header_flashexample": {
     "version": "0.1.2",
     "t3_versions": [],
@@ -23127,11 +23207,9 @@
     "hash": "sha256-qsVb91W381Ah5wL7o6z9RqpRGdTMCJ/CKYGdCc3xWoI="
   },
   "headless": {
-    "version": "3.2.2",
-    "t3_versions": [
-      11
-    ],
-    "description": "This extension provides way to output content from TYPO3 in JSON format.",
+    "version": "4.0.0",
+    "t3_versions": [],
+    "description": "Makes TYPO3 a headless CMS. Content and pages available in JSON format. Supports multilanguage, multidomain, forms, frontend login, workspaces and more. For JS frontend app see nuxt-typo3 package",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "headless_gridelements": {
@@ -23210,21 +23288,21 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "hh_openstreetmap": {
-    "version": "0.2.6",
+    "version": "0.2.7",
     "t3_versions": [
       11
     ],
     "description": "Simple OpenStreetMap",
-    "hash": "sha256-2LN+Y2kjb5tDtAIq9Ad/8O4MzdOPNpdXIE/VtPy3mlU="
+    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "hh_seo": {
-    "version": "0.4.8",
+    "version": "0.5.1",
     "t3_versions": [
       10,
       11
     ],
     "description": "Hauer-Heinrich - SEO - Meta-Tag - ViewHelpers",
-    "hash": "sha256-1Jour4anrmTN3LcFZDOEmctxw4N6YC1F2jxMLu0SIvg="
+    "hash": "sha256-y+DhCLkzs+YjnH0TNoIPNqZzLV5KLZEJQd6HlawuTBQ="
   },
   "hh_slider": {
     "version": "0.2.8",
@@ -23725,12 +23803,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "html5mediakit": {
-    "version": "10.0.0",
+    "version": "11.0.0",
     "t3_versions": [
-      10
+      11
     ],
     "description": "Allows easy embedding of HTML5 video and audio elements.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-VlPOd/ZaStPcJ0gC0eGMnMOr4JURTR20CLNnXUxApmo="
   },
   "html5meta_t3lib_pagerenderer": {
     "version": "0.1.0",
@@ -23802,16 +23880,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "http2": {
-    "version": "1.1.1",
+    "version": "2.0.0",
     "t3_versions": [
-      7,
-      8,
-      9,
       10,
-      11
+      11,
+      12
     ],
     "description": "",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-AP81PEF9YwTNHtxTBW4W+WCAfH0OmTNdnayOY1mPOks="
   },
   "http2_push": {
     "version": "0.3.4",
@@ -23835,7 +23911,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "httpbasicauth": {
-    "version": "2.0.0",
+    "version": "2.0.1",
     "t3_versions": [
       9,
       10,
@@ -23857,12 +23933,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "httpmonitoring": {
-    "version": "1.0.4",
+    "version": "1.0.5",
     "t3_versions": [
       11
     ],
     "description": "An extension for the TYPO3 CMS which adds a backend module for monitoring the HTTP status code given out by sites.",
-    "hash": "sha256-a/b7CLTq7F15TST7RCW1RFcWPWT/+VQmJsRvAh8Em44="
+    "hash": "sha256-jPKtSwdaocLcCBmDBqkDvrCAuWuhiQdfcDRz/tfZahg="
   },
   "https": {
     "version": "1.4.0",
@@ -23918,6 +23994,15 @@
       10
     ],
     "description": "Hubspot integration",
+    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "humhub": {
+    "version": "12.4.4",
+    "t3_versions": [
+      11,
+      12
+    ],
+    "description": "Synchronization fe users from TYPO3 CMS into HumHub and sso to humhub",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "hvk_sdschoolmgr": {
@@ -23996,10 +24081,10 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "hyphen_dictionary": {
-    "version": "0.2.2",
+    "version": "1.0.0",
     "t3_versions": [
-      9,
-      10
+      10,
+      11
     ],
     "description": "Adds server-side hyphen for defined words.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
@@ -24597,12 +24682,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ifab_realestate": {
-    "version": "3.0.1",
+    "version": "3.0.2",
     "t3_versions": [
       11
     ],
     "description": "This extension offers the possibility to create publications of real estate such as apartments, houses, garages etc. It provides numerous object properties for definition, all of which can be displayed in the FrontEnd. Using an Ajax search, the real estate objects can be displayed and sorted. An integration of the objects via an automatic OpenImmo import is also possible since the extension is based on the OpenImmo structure.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-hMkLnTZ1XHBGD01eVPpZGSBPKDse8omRaI6GBSiUCIo="
   },
   "iflowadfair": {
     "version": "0.0.1",
@@ -24621,6 +24706,15 @@
     "t3_versions": [],
     "description": "Better iFrame-Handling. Allows for setting width,height, border and scrollbars. Improved browser-compatibility.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "iframecache": {
+    "version": "1.0.0",
+    "t3_versions": [
+      10,
+      11
+    ],
+    "description": "This extension loads the content of an iFrame and cached it. All links, images and sources will be overridden.",
+    "hash": "sha256-1PgsE5EHFl6pivpF4BSk0bFZTBwAHYdxmZazVaC8RD8="
   },
   "iframeflexform": {
     "version": "1.0.0",
@@ -24826,13 +24920,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "image_copyright": {
-    "version": "11.5.2",
+    "version": "12.4.1",
     "t3_versions": [
       10,
-      11
+      11,
+      12
     ],
     "description": "Image based copyrights",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-xaW7DsL4kyvrMlz7xkXS5896OJY1GOgWq1+6L2ilTN4="
   },
   "image_crop": {
     "version": "1.3.1",
@@ -25303,7 +25398,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "includekrexx": {
-    "version": "4.1.8",
+    "version": "4.1.9",
     "t3_versions": [
       7,
       8,
@@ -25312,7 +25407,7 @@
       11
     ],
     "description": "Fluid and PHP debugger with backend access to logfiles, code generation to reach the displayed values and much more. We added some special stuff for Aimeos.",
-    "hash": "sha256-n0KThD0Y1Add6uXecinarurpOscNAwSt517rl7MUdIU="
+    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "incore_twitter": {
     "version": "1.2.2",
@@ -25415,13 +25510,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "infinitescrolling": {
-    "version": "3.2.1",
+    "version": "3.3.0",
     "t3_versions": [
       9,
-      10
+      10,
+      11
     ],
     "description": "With this extension you can read nearly every paginator and realize infinite scrolling",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-ch6kTd5AHT3F4srcGaPrumy4nfmuufpuHUlg7hzWZEo="
   },
   "info_subpages": {
     "version": "1.0.0",
@@ -25718,10 +25814,10 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "introduction": {
-    "version": "4.4.1",
+    "version": "4.6.1",
     "t3_versions": [],
     "description": "This package delivers a new website (page tree) and shows all out-of-the-box features of TYPO3, and includes a theme based on Twitter Bootstrap 3, and a style editor to customize the design. Sample backend groups are added",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-MmuKmvtBZb2vzCtcZYoq8vxUiyRPZK7Fk8H746eKDEo="
   },
   "introductionplus": {
     "version": "1.2.0",
@@ -25976,13 +26072,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "itmedia2": {
-    "version": "3.0.12",
+    "version": "3.2.0",
     "t3_versions": [
-      9,
-      10
+      10,
+      11
     ],
     "description": "With this extension you can build your own industry directory for IT and Media",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-MU2LYimY9CgdhXAkWY++DAG+5widZLn2IGr2rvxO6Jc="
   },
   "its_addmark_tt_products": {
     "version": "0.0.2",
@@ -26297,13 +26393,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "janolawservice": {
-    "version": "2.1.2",
+    "version": "3.0.2",
     "t3_versions": [
-      10,
-      11
+      11,
+      12
     ],
     "description": "Integriert janolaw Service",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-Jwr50qGORhZtwE3TZvQCIn3C2roizSkHIflAwYxGySo="
   },
   "jansass_upload": {
     "version": "3.0.5",
@@ -26673,14 +26769,12 @@
     "hash": "sha256-7wijbRIl3TjoeylIbrlX4A/8w4vQta7m/RrMe7exJhY="
   },
   "jfmulticontent": {
-    "version": "2.13.0",
+    "version": "2.14.0",
     "t3_versions": [
-      9,
-      10,
       11
     ],
     "description": "It arranges multiple contents into one content element with multiple columns, accordions, tabs, slider, slidedeck, easyAccordion or Booklet. This extension will also extend tt_news with two new lists.",
-    "hash": "sha256-WOHc2+8uvXxox+N6TgRlqqP4b74ORbLurjcP6E0SSXA="
+    "hash": "sha256-7hYkB/LrmQ4jfYYxaGJ2yaoXy535ek1w12nHiAAN/Vw="
   },
   "jfmulticontent_viewdemo": {
     "version": "0.1.2",
@@ -27146,14 +27240,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "jn_lighterbox": {
-    "version": "1.2.5",
+    "version": "1.2.7",
     "t3_versions": [
       9,
       10,
       11
     ],
     "description": "A very lightweight Lightbox extension for click-enlarging content element images using lightbox2 or any other library of your choice.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-z4ASci/qExz5U5uEiv3Ro5GVEGEHpsGVVdxPX4e5zEw="
   },
   "jn_phpcontentelement": {
     "version": "1.2.1",
@@ -27201,6 +27295,15 @@
     ],
     "description": "This extension enables you to manage job postings, provides you with an application form and a backend module to manage incoming applications.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "jobcenter": {
+    "version": "3.2.1",
+    "t3_versions": [
+      10,
+      11
+    ],
+    "description": "Recommend employer contacts based on conditions",
+    "hash": "sha256-1l2qnR24Uj66g8z4HM++GDYa0K/F5ArBSCIH/9vQruo="
   },
   "jobfair": {
     "version": "4.0.4",
@@ -27355,12 +27458,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "jpfaq": {
-    "version": "11.6.0",
+    "version": "11.6.2",
     "t3_versions": [
       11
     ],
     "description": "Frequently Asked Questions (FAQ) plugin. With categories, on-the-fly search, customer helpfulness tracking and comments.",
-    "hash": "sha256-JFhW+2syp/OoCzWoKfjmPSGDCDXVoFfq6cgrXxvkQLc="
+    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "jpgraph": {
     "version": "0.3.11",
@@ -27782,14 +27885,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "jumpurl": {
-    "version": "8.0.3",
+    "version": "8.1.0",
     "t3_versions": [
       9,
       10,
       11
     ],
     "description": "Allows to modify links to create Jump URLs created in the frontend of the TYPO3 Core.",
-    "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
+    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "jup_teaser": {
     "version": "2.0.0",
@@ -27813,13 +27916,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "just_news": {
-    "version": "1.2.4",
+    "version": "3.0.0",
     "t3_versions": [
-      9,
-      10
+      11,
+      12
     ],
     "description": "Easy, flexible and lightweight news extension. No extra tables needed, using pages for news articles.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-+1+COzZDPO5E2BizseT2Xr7P+HYxCvHsghtvSXk1mYE="
   },
   "just_realurl": {
     "version": "0.0.1",
@@ -27908,13 +28011,13 @@
     "hash": "sha256-HRE89CaohHypAtaDD++V3lBYg7zyd6JhRmW1KJMT/g0="
   },
   "jw_shell_exec": {
-    "version": "1.0.0",
+    "version": "3.0.1",
     "t3_versions": [
-      8,
-      9
+      11,
+      12
     ],
-    "description": "With this extension you can execute exactly one defined Shell command as long as only one editor",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "description": "With this extension you can execute exactly one defined Shell command as long as only one editor is logged into backend",
+    "hash": "sha256-8znu1clBfWtPR7jC8/TWYMajpLPHIg3eI4Oe3lnqfzk="
   },
   "jw_watermark": {
     "version": "0.9.0",
@@ -27927,13 +28030,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "jwauth": {
-    "version": "3.0.0",
+    "version": "4.0.0",
     "t3_versions": [
-      10,
-      11
+      11,
+      12
     ],
-    "description": "Login to TYPO3 backend with your static IP address",
-    "hash": "sha256-GuY/a5k3yhZiiWJsjwewZ6J1zWd9pOM7WwYytS5BB5E="
+    "description": "Login to TYPO3 frontend with your static IP address",
+    "hash": "sha256-FyZmnUaf/DhvXwFqAKKmfk44aBjn6TPaTgVeJ2wwVpk="
   },
   "jwplayer": {
     "version": "1.2.9",
@@ -28501,13 +28604,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ke_search": {
-    "version": "4.6.2",
+    "version": "5.0.0",
     "t3_versions": [
-      10,
-      11
+      11,
+      12
     ],
     "description": "Faceted fulltext search for TYPO3. Fast, flexible and easy to install and use. Indexes content directly from the databases. Features faceting / filtering, file indexing, images in result lists and respects access restrictions.",
-    "hash": "sha256-sZ903heBKUbBCGXr0RTiV3gKFPk9Q+plpo9p6/eaMvY="
+    "hash": "sha256-91SzxoCT1Liv521QeWEwOWLdJLC05MAmuPO2XLyL7w8="
   },
   "ke_search_dam_tags": {
     "version": "0.0.1",
@@ -28655,7 +28758,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "kf_backend_mod": {
-    "version": "1.4.6",
+    "version": "1.4.7",
     "t3_versions": [
       6,
       7,
@@ -28665,7 +28768,7 @@
       11
     ],
     "description": "Modify TYPO3 Backend: smaller Icons, Save icons without text, Save & Close BTN",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-d5YxMyO79GtVVzcst+E5+uCu5cmsjRvaN68mwaB/19A="
   },
   "kf_categoryfilter": {
     "version": "1.3.1",
@@ -29285,12 +29388,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "l10nmgr": {
-    "version": "10.2.1",
+    "version": "11.0.0",
     "t3_versions": [
-      10
+      10,
+      11
     ],
     "description": "Module for managing localization import and export",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-LNoxPpMC62AqMqrtnk3xVl7Cm7an+hqPsBUu7K6JKwo="
   },
   "l10nmgr_grid": {
     "version": "0.2.2",
@@ -29514,14 +29618,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "launchstartgreen": {
-    "version": "10.2.2",
+    "version": "10.2.3",
     "t3_versions": [
       8,
       9,
       10
     ],
     "description": "Launches a ready-to-use website for BUENDNIS 90/DIE GRUENEN! Website is responsive. It contains a calendar-modul and a news-modul, sample layouts and sample content. You can be rid of the green corporate design by removing one TypoScript template.",
-    "hash": "sha256-ibcRYluZWLK+kuJJ/FSl+/qFWk2cgB8Mnes0utmaiv0="
+    "hash": "sha256-rfvMP1xMVZXZqR/2BmXDXbYRiHhw0xIodtEb/A7BHwE="
   },
   "layerslider": {
     "version": "5.6.2",
@@ -30009,6 +30113,15 @@
     "description": "[PREVIEW VERSION - Not finished yet, and still a lot of work to do. Please contact me for suggestions / comments] A smooth and light skin for Typo3 3.7 and later. This is not an adaptation of an existing skin, but a complete redesign of the Typo3 backend,",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "like_it": {
+    "version": "2.0.1",
+    "t3_versions": [
+      10,
+      11
+    ],
+    "description": "Like nearly any frontend content thanks to a custom view helper. No login required.",
+    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
   "lilURL": {
     "version": "1.1.0",
     "t3_versions": [],
@@ -30249,6 +30362,15 @@
     "description": "Backendmodul zum Import von Dateien des Liga-Manager-Online in die Extension Liga Management.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "lms3bigbluebutton": {
+    "version": "1.0.1",
+    "t3_versions": [
+      10,
+      11
+    ],
+    "description": "This plugin integrates BigBlueButton into TYPO3.",
+    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
   "lms3h5p": {
     "version": "2.0.0",
     "t3_versions": [
@@ -30311,12 +30433,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "localizer": {
-    "version": "10.4.6",
+    "version": "11.0.0",
     "t3_versions": [
-      10
+      10,
+      11
     ],
     "description": "This extension provides a fully automated workflow and a graphical user interface for the well known Localization Manager (l10nmgr). While the L10nmgr still provides exports and imports of records and files, the Localizer will take care of all the necessary steps in between. Editors responsible for translations won't have to deal with any L10nmgr configurations anymore and as an administrator you create just one configuration per Localizer Project.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-/qPpXEgsUya4/NdGHNesbUXF+pqK6QdZRSzQdzh+UKc="
   },
   "localizer_beebox": {
     "version": "10.2.0",
@@ -30431,14 +30554,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "logformatter": {
-    "version": "1.4.3",
+    "version": "1.5.0",
     "t3_versions": [
-      9,
       10,
       11
     ],
     "description": "A CLI tool to format and search TYPO3 Logfiles",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-1qfN6OXFYsPdScCYiQdCafzR5/JHnhgBIsPD7KIyLvc="
   },
   "logging": {
     "version": "1.0.0",
@@ -30457,6 +30579,15 @@
     ],
     "description": "A form that makes it possible to evaluate user values in an easy way",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "login_link": {
+    "version": "1.0.0",
+    "t3_versions": [
+      11,
+      12
+    ],
+    "description": "Fast way to login as different backend or frontenduser by generating a link including a one-time token within the backend.",
+    "hash": "sha256-HmxMZF5Q01OaOXdMFrLx1iFZax0qIW5QNiNLg26aCaE="
   },
   "loginbox_macmade": {
     "version": "0.3.5",
@@ -30511,12 +30642,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "loginviaemail": {
-    "version": "3.0.0",
+    "version": "3.0.1",
     "t3_versions": [
       11
     ],
     "description": "EN:",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-zVgIIQ6zClXR228riFNCv3hiDGdy83SEB/afc/aAP0g="
   },
   "logmail": {
     "version": "0.1.0",
@@ -30707,12 +30838,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ls_security_headers": {
-    "version": "1.0.0",
+    "version": "1.3.0",
     "t3_versions": [
       11
     ],
     "description": "Configures security headers like content security policy",
-    "hash": "sha256-IJ+rG2W7R9gRLRi0kH99hLILakTJL+a1hBde2qfqqrQ="
+    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "lscache": {
     "version": "1.2.0",
@@ -30821,21 +30952,22 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "lux": {
-    "version": "26.4.0",
+    "version": "31.0.0",
     "t3_versions": [
-      10,
-      11
+      11,
+      12
     ],
     "description": "Living User Experience - LUX - the Marketing Automation tool for TYPO3.",
-    "hash": "sha256-s4pMYBG9wjWK780sdTKy8g5GO2lC9V9EbvbUYthRCkY="
+    "hash": "sha256-+6/UC8IvKZaje5AQM1vrWCaBXCo3xYlmNUgdMf1c3AA="
   },
   "luxletter": {
-    "version": "19.0.0",
+    "version": "21.0.0",
     "t3_versions": [
-      11
+      11,
+      12
     ],
     "description": "Free newsletter extension for TYPO3 for an individual email marketing. A lot of analytics and modern concepts. Works with and without EXT:lux.",
-    "hash": "sha256-kVnO8Tn6PebS0lZCfESDACJA2dBI80UfvOP16/GVKmQ="
+    "hash": "sha256-gGqjpZehbnRUN5pC06ZhL6+4rLbA6ErI141oS2EcS8o="
   },
   "lvcleantemp": {
     "version": "1.0.4",
@@ -31208,12 +31340,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mail": {
-    "version": "1.1.0",
+    "version": "1.12.0",
     "t3_versions": [
       11
     ],
-    "description": "Mail System for TYPO3",
-    "hash": "sha256-4fhNCFq8gSXgM/JfzLI3jFkKhjmYYYoGSpCuTmf6C/Y="
+    "description": "Powerful newsletter system for TYPO3",
+    "hash": "sha256-QLp40T2nY5k+lE6M2jmgwVJu/y9ArO20FnfgDR9tHOo="
   },
   "mail2news": {
     "version": "2.0.3",
@@ -31788,12 +31920,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mask": {
-    "version": "8.0.5",
+    "version": "8.1.3",
     "t3_versions": [
-      11
+      11,
+      12
     ],
     "description": "Create your own content elements and page templates. Easy to use, even without programming skills because of the comfortable drag and drop system. Stored in structured database tables. Style your frontend with Fluid tags. Ideal, if you want to switch from Templavoila.",
-    "hash": "sha256-in3imKCGD83FoHTO2W0qwup3UG9fSdgRrVqTcja7Uao="
+    "hash": "sha256-MyWwrAJNZ2EfYXYK6/XFYTid95aPHzZih/pgyuefNQo="
   },
   "mask_export": {
     "version": "4.0.2",
@@ -31814,14 +31947,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mask_permissions": {
-    "version": "2.0.5",
+    "version": "3.0.2",
     "t3_versions": [
-      9,
-      10,
       11
     ],
     "description": "Never configure mask permissions for editors manually ever again!",
-    "hash": "sha256-GuYCHzp7bToU7hu4PG55nyxxI11MTRsUFytNUAJ3ijY="
+    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "massquotes": {
     "version": "0.1.0",
@@ -31876,10 +32007,11 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "matomo_integration": {
-    "version": "1.5.0",
+    "version": "1.6.0",
     "t3_versions": [
       10,
-      11
+      11,
+      12
     ],
     "description": "Matomo integration for TYPO3",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
@@ -31894,12 +32026,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "matomo_widgets": {
-    "version": "2.1.0",
+    "version": "2.2.0",
     "t3_versions": [
-      11
+      11,
+      12
     ],
     "description": "Dashboard widgets with Matomo reports",
-    "hash": "sha256-Jadfg/Py/qMnKc5vtdUjh2Fbz6Mx8Iu2TSy/TGjkt2s="
+    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "matomoapi": {
     "version": "1.0.1",
@@ -32020,14 +32153,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mbi_products_categories": {
-    "version": "0.7.15",
+    "version": "0.8.0",
     "t3_versions": [
-      9,
       10,
-      11
+      11,
+      12
     ],
     "description": "Hierarchical categories for tt_products. Works with tt_products and other tables.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-cwgpxKYr8FW6zJ/lja8I0zlBEKSCq0kSI+iY3Xqma4I="
   },
   "mbi_products_orders": {
     "version": "0.1.1",
@@ -32039,6 +32172,14 @@
     "version": "1.0.0",
     "t3_versions": [],
     "description": "This extension is meant for all the people who do not like IE6 :)",
+    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "mbit_effairs": {
+    "version": "1.0.1",
+    "t3_versions": [
+      11
+    ],
+    "description": "",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mbit_gallery": {
@@ -32500,17 +32641,25 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "media2click": {
-    "version": "3.1.1",
+    "version": "3.2.0",
     "t3_versions": [
       11
     ],
     "description": "Render external content like videos and iframes with privacy in mind: User has to click on placeholder to load the actual content.",
-    "hash": "sha256-cp8yTT95OeSp4DdGw/59eYMrrmfD3ovTT12iXeC19Eg="
+    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "media_center": {
     "version": "1.0.3",
     "t3_versions": [],
     "description": "Flash based Media Center using the JW FLV Player to display multiple media files with an integrated playlist. Supports several video, audio and image files (flv, youtube, mp3, jpg, png, gif). Fully configurable, multiple plugins on one page, uses swfobjec",
+    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "media_processing": {
+    "version": "0.3.0",
+    "t3_versions": [
+      12
+    ],
+    "description": "Integrates various image processing libraries and SaaS cloud services into TYPO3 by leveraging their APIs to process images.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "media_upload": {
@@ -32587,15 +32736,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mediaoembed": {
-    "version": "2.0.0",
+    "version": "12.0.0",
     "t3_versions": [
-      7,
-      8,
-      9,
-      10
+      12
     ],
     "description": "External media (YouTube, Flickr, ...) content elements using the http://oembed.com/ standard.",
-    "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
+    "hash": "sha256-qL9lwZZQ63YUOVNBU7CWDRCERL/eAOFmWKoRJYXyrTo="
   },
   "mediaplayerstatistics": {
     "version": "2.0.0",
@@ -32972,6 +33118,14 @@
     "description": "This little plugin includes the JavaScript-Code from typekit.com by using your  personal Typekit ID into your page header, easily configurable via TypoScript.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "mfa_email": {
+    "version": "1.0.0",
+    "t3_versions": [
+      11
+    ],
+    "description": "Provides a multi-factor authentication via E-Mail for TYPO3",
+    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
   "mfa_hotp": {
     "version": "1.1.0",
     "t3_versions": [
@@ -32987,16 +33141,20 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mfa_webauthn": {
-    "version": "1.0.0",
-    "t3_versions": [],
+    "version": "1.2.0",
+    "t3_versions": [
+      11
+    ],
     "description": "WebAuthn Provider for TYPO3 Multi Factor Authentication",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-dYzGQX9bHYL+mhquZTd7KIDERuug3YZiKZhiq+prr84="
   },
   "mfa_yubikey": {
-    "version": "2.0.0",
-    "t3_versions": [],
+    "version": "2.0.1",
+    "t3_versions": [
+      12
+    ],
     "description": "YubiKey OTP MFA provider for the TYPO3 backend login.",
-    "hash": "sha256-aZt60hf6SEyaii9SvenlrIJxtM2tZYZWSzEO0yMWHhA="
+    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mfc_author": {
     "version": "2.0.0",
@@ -33385,12 +33543,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "microtemplate": {
-    "version": "3.3.3",
+    "version": "4.0.7",
     "t3_versions": [
       11
     ],
     "description": "One page template with sections and lightbox like sub pages. Demo at: https://microtemplate.t3brightside.com",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-OQiY0kNAYHB/owN0UZe2EJQFGIiimxxqxRwxzO8tW9M="
   },
   "miflowplayer": {
     "version": "0.1.9",
@@ -33473,6 +33631,14 @@
     "description": "TYPO3 DB Migrator",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "mime_converter": {
+    "version": "1.0.0",
+    "t3_versions": [
+      11
+    ],
+    "description": "File converter based on mime-type to file extension comparison. Serves image converter by default and registry for self written converter providers.",
+    "hash": "sha256-NaHVPb4gddUkZHnQMpY3uNF054L3SdkbktjzdulC/4I="
+  },
   "mimetex": {
     "version": "0.0.1",
     "t3_versions": [],
@@ -33480,7 +33646,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "min": {
-    "version": "2.1.1",
+    "version": "2.1.2",
     "t3_versions": [
       10,
       11
@@ -33776,6 +33942,15 @@
       8
     ],
     "description": "A/B Testing of content elements",
+    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "mkcontentai": {
+    "version": "12.0.1",
+    "t3_versions": [
+      11,
+      12
+    ],
+    "description": "MK Content AI Extension - OpenAI API",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mkdam2fal": {
@@ -34184,7 +34359,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mmc_directmail_subscription": {
-    "version": "2.1.3",
+    "version": "2.2.2",
     "t3_versions": [
       9,
       10
@@ -34361,20 +34536,20 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mocean_api_broadcast": {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "t3_versions": [
       10
     ],
-    "description": "MoceanAPI Broadcast module allows sending of text messages in bulk to frontend users",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "description": "MoceanAPI Broadcast module allows you to Send Bulk SMS text messages or broadcast SMS text messages to your users in your website. Get Free Trial credits on sign up",
+    "hash": "sha256-optlMCu85crYV2NDq5OzpDPm64KQSSkKHLem4+39/As="
   },
   "mocean_sms_login": {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "t3_versions": [
       10
     ],
-    "description": "MoceanAPI 2FA Login Typo3 Extension allows frontend users to opt in to SMS 2FA verification for login. This extension requires static templates(Bootstrap Package: Full Package and Typoscript Form) to function. ",
-    "hash": "sha256-+mdYETN51c5b/7xW4EopE0cCKLyKu7p0JeFrIq1tBTA="
+    "description": "MoceanAPI Two Factor Authentication (2FA) Login Typo3 Extension allows frontend users to opt in to SMS 2FA verification for login. You can send OTP via SMS text message to your users. This extension requires static templates(Bootstrap Package: Full Package and Typoscript Form) to function. ",
+    "hash": "sha256-i40Ium5jLy15CaFKz8iisOCENsY31ejCWis7uF9Q4Ow="
   },
   "modals": {
     "version": "1.0.0",
@@ -35108,12 +35283,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mst_contentfallback": {
-    "version": "0.0.8",
+    "version": "0.0.9",
     "t3_versions": [
       11
     ],
     "description": "try to load translated content on fallback rules",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-fz5yKaJ8sfzU76uqK1ufpjPGnufLC7LLDW1D1R6DY40="
   },
   "msw_shoutbox": {
     "version": "1.0.0",
@@ -35855,12 +36030,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mw_matomo_widget": {
-    "version": "2.0.0",
+    "version": "2.0.1",
     "t3_versions": [
       11
     ],
     "description": "Dashboard widget that displays the visitor data of your Matomo instance",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-hUUK3KJBv2knk+FHKZXnFbWYYM9lKCVfa+NvKJKUKn0="
   },
   "mw_shell": {
     "version": "1.0.6",
@@ -35989,12 +36164,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "myflat": {
-    "version": "1.0.3",
+    "version": "1.0.4",
     "t3_versions": [
-      11
+      11,
+      12
     ],
     "description": "Flat manager, shows bookings of holiday flats in calendars, availability check included.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-TAwJUQp9BcPDVa8iR5tVyf3cs+tMrLMGHaRXEHeCbNw="
   },
   "mygeshi": {
     "version": "1.0.0",
@@ -36003,20 +36179,21 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "myleaflet": {
-    "version": "1.6.2",
+    "version": "1.7.0",
     "t3_versions": [
       11
     ],
     "description": "Leaflet / OpenStreetMap for tt_address data with radial search and categories. No registration and no API-keys necessary.",
-    "hash": "sha256-ekIWqGgTXSM4J1f3kSvXJUdJLWp4kabhlp8Ddge4UKs="
+    "hash": "sha256-8IM6Cu0VlNtrMzr7IfvV32q1ltEn69bmMw4SgID8/c4="
   },
   "mymap": {
-    "version": "1.5.6",
+    "version": "1.6.4",
     "t3_versions": [
-      11
+      11,
+      12
     ],
     "description": "Google maps with radial search and hierarchic categories (category tree). Show the results in responsive Google maps, traffic- and bicycling layer included and can be activated via constant editor.",
-    "hash": "sha256-liWt/C8cNxExpkznM34W1fz6vbZFZOiBRkWDv1j9OI4="
+    "hash": "sha256-RFk/x6nEOwnuyWmcRN0i9Cb8QTTH7s9KHJN77fThrvM="
   },
   "mypuzz_ftp": {
     "version": "1.1.1",
@@ -36087,13 +36264,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mysqlreport": {
-    "version": "2.1.0",
+    "version": "3.0.1",
     "t3_versions": [
-      10,
       11
     ],
-    "description": "Analyze and profile your TYPO3 databases queries",
-    "hash": "sha256-CEEUp99Prf806jVOtZXxKbm4e040hTuP+zjWHp3wOn4="
+    "description": "Analyze and profile your TYPO3 database queries",
+    "hash": "sha256-Uom+2hROUb9iTekEFahhpCcqjBwfr6gj5Z4CN2i9IHs="
   },
   "mytemplate1": {
     "version": "0.0.2",
@@ -36108,12 +36284,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "myttaddressmap": {
-    "version": "2.0.8",
+    "version": "2.1.7",
     "t3_versions": [
       11
     ],
     "description": "Google maps for tt_address with radial search and categories",
-    "hash": "sha256-9mztEqrG53ZdYKQN7cJ76FmdTqZpXafE3YWtwCbHOr8="
+    "hash": "sha256-ODp0XVPYCIGbuvgi7o0YS33RriYHqdMNrKBmR7sX4aQ="
   },
   "mytypo3": {
     "version": "0.1.1",
@@ -36229,13 +36405,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "nagios": {
-    "version": "3.0.1",
+    "version": "4.0.1",
     "t3_versions": [
-      9,
-      10
+      11
     ],
     "description": "Monitors TYPO3 instances and warns about insecure extensions, old TYPO3 versions,",
-    "hash": "sha256-X4+1XU9clVbkUlq/gSeJ6oyG+MpQdJRXjhBo/K6+LJY="
+    "hash": "sha256-FAKj0R4/scPC5tULlIn/Dog5sseqTAe0DIPNNpYPpXI="
   },
   "namespaces": {
     "version": "1.0.0",
@@ -36372,6 +36547,14 @@
       8
     ],
     "description": "A modern, flexible extension for creating and managing urls and redirects in the TYPO3 CMS.",
+    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "nb_default": {
+    "version": "0.0.1",
+    "t3_versions": [
+      11
+    ],
+    "description": "TYPO3 TER",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "nb_iptocountry": {
@@ -36879,13 +37062,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "news": {
-    "version": "10.0.3",
+    "version": "11.0.0",
     "t3_versions": [
-      10,
       11
     ],
     "description": "Versatile news system based on Extbase & Fluid and using the latest technologies provided by TYPO3 CMS.",
-    "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
+    "hash": "sha256-kmwO2St46/pDEWTTYW1GxdMZKnDqSi1BS54/9O3hqqA="
   },
   "news2facebook": {
     "version": "1.1.0",
@@ -37095,6 +37277,12 @@
       11
     ],
     "description": "Let editors create tags quickly while editing a news record",
+    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "news_tldr": {
+    "version": "1.0.0",
+    "t3_versions": [],
+    "description": "Creates a short summary for news via ChatGPT",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "news_ttnewsimport": {
@@ -37310,15 +37498,15 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "newsslider": {
-    "version": "5.0.3",
+    "version": "5.1.0",
     "t3_versions": [
       11
     ],
     "description": "jQuery and vanilla slider-plugins for versatile news extension (tx_news).",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-N2P8pX0i5yWh7izrZVSC8BzlA2vo0CpxkhDzC/SmslQ="
   },
   "newsstylist": {
-    "version": "2.0.2",
+    "version": "2.0.3",
     "t3_versions": [
       11
     ],
@@ -37343,31 +37531,31 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "newt": {
-    "version": "2.2.0",
+    "version": "2.2.2",
     "t3_versions": [
       10,
       11
     ],
     "description": "Backend-Extension to manage the Newt-Access",
-    "hash": "sha256-9GhRXswcAEG/2f9T+VErVWBrrwkHHuhe6iF2ztOAWQU="
+    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "newt4dce": {
-    "version": "1.2.2",
+    "version": "1.2.3",
     "t3_versions": [
       10,
       11
     ],
     "description": "Extension with the Newt-Provider for Dce",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-uZ6OwU8vuQzSsI8+thveDO+BBr1DBG8uUYN0O7rqj2k="
   },
   "newt4news": {
-    "version": "2.2.1",
+    "version": "2.2.3",
     "t3_versions": [
       10,
       11
     ],
     "description": "Extension with the Newt-Provider for News",
-    "hash": "sha256-G68OyPhTKtyfRY6usAaln2wZwYlEsDzOcQlMGlxuvtk="
+    "hash": "sha256-Z6006VVMHo0Ykad57iwYdaO3mkE69kyKFmLLlBQoE9Y="
   },
   "nextprevious": {
     "version": "1.0.0",
@@ -38074,7 +38262,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ns_basetheme": {
-    "version": "11.5.6",
+    "version": "11.5.7",
     "t3_versions": [
       8,
       9,
@@ -38082,7 +38270,7 @@
       11
     ],
     "description": "The architecture of parent/child TYPO3 theme concept. Explore https://t3terminal.com and https://nitsantech.com",
-    "hash": "sha256-GcxeUFSXDoKlFv4s5yLcjkABzi1PxwwbF3nwwVLyAyg="
+    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ns_cache_webhook": {
     "version": "1.0.0",
@@ -38168,15 +38356,15 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ns_faq": {
-    "version": "2.1.0",
+    "version": "2.2.0",
     "t3_versions": [
       8,
       9,
       10,
       11
     ],
-    "description": "One of the only feature-rich TYPO3 FAQ extension-ever. Live-Demo: https://demo.t3terminal.com/t3t-extensions/faq/ You can download PRO version for more-features & free-support at https://t3terminal.com/ns-faq-typo3-extension",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "description": "One of the only feature-rich TYPO3 FAQ extension-ever. Live-Demo: https://demo.t3planet.com/t3t-extensions/faq/ You can download PRO version for more-features & free-support at https://t3planet.com/ns-faq-typo3-extension",
+    "hash": "sha256-wsYKRFGKo+P+1PA1YrqDCR7Putq3VAr03ew14Cm9t1g="
   },
   "ns_feedback": {
     "version": "2.1.0",
@@ -38187,6 +38375,16 @@
       11
     ],
     "description": "One of the only feature-rich TYPO3 feedback extension-ever! Live-Demo: https://demo.t3terminal.com/t3t-extensions/feedback/ You can download PRO version for more-features & free-support at https://t3terminal.com/ns-feedback-typo3-extension",
+    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "ns_friendlycaptcha": {
+    "version": "1.2.0",
+    "t3_versions": [
+      9,
+      10,
+      11
+    ],
+    "description": "Integrate official friendlycaptcha.com (Europe's most leading Captcha solution) to the TYPO3 core EXT:form extension. Live Demo: https://demo.t3planet.com/t3t-extensions/friendly-captcha Premium Support: https://t3planet.com/typo3-friendly-captcha-extension",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ns_gallery": {
@@ -38213,13 +38411,23 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ns_googledocs": {
-    "version": "1.1.3",
+    "version": "2.0.0",
     "t3_versions": [
       8,
       9,
-      10
+      10,
+      11
     ],
-    "description": "First-ever feature-rich TYPO3 solution to one-click import your Google Docs to your TYPO3 pages, news and blog. Demo: https://demo.t3terminal.com/t3t-extensions/ns-google-docs PRO: http://t3terminal.com/ns-google-docs-typo3-extension",
+    "description": "First-ever feature-rich TYPO3 solution to one-click import your Google Docs to your TYPO3 pages, news and blog. Demo: https://demo.t3planet.com/t3t-extensions/ns-google-docs PRO: http://t3planet.com/ns-google-docs-typo3-extension",
+    "hash": "sha256-Jhk1L9Xe5Ao3pDN2j1TMR9nqX9kAwyVEtTRDFUr6CnM="
+  },
+  "ns_gridtocontainer": {
+    "version": "1.0.0",
+    "t3_versions": [
+      10,
+      11
+    ],
+    "description": "Easily migrate from EXT:gridelements to EXT:container; Get premium support at https://t3planet.com/typo3-gridelements-container",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ns_guestbook": {
@@ -38236,14 +38444,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ns_helpdesk": {
-    "version": "2.1.0",
+    "version": "2.2.0",
     "t3_versions": [
       8,
       9,
       10,
       11
     ],
-    "description": "An all-in-one TYPO3 Help Desk extension that helps you balance everything your customers need to be happy. Demo: https://demo.t3terminal.com/t3t-extensions/helpdesk You can download PRO version for more-features & free-support at https://t3terminal.com/ns-helpdesk-typo3-extension",
+    "description": "An all-in-one TYPO3 Help Desk extension that helps you balance everything your customers need to be happy. Demo: https://demo.t3planet.com/t3t-extensions/helpdesk You can download PRO version for more-features & free-support at https://t3planet.com/ns-helpdesk-typo3-extension",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ns_instagram": {
@@ -38275,7 +38483,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ns_license": {
-    "version": "1.8.5",
+    "version": "1.8.6",
     "t3_versions": [
       8,
       9,
@@ -38283,10 +38491,10 @@
       11
     ],
     "description": "Manage License(s) of your purchased T3Planet's premium TYPO3 products. Know more at documentation https://docs.t3planet.com/en/latest/License/LicenseActivation/Index.html",
-    "hash": "sha256-u1MByV8xsXYdoRq5yA6fnQr3EpJbO+ktdexZLIRhAt0="
+    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ns_news_advancedsearch": {
-    "version": "2.0.3",
+    "version": "2.0.4",
     "t3_versions": [
       6,
       7,
@@ -38296,10 +38504,10 @@
       11
     ],
     "description": "Do you want more rich search features into your favourite EXT:news? By installing this extension, you can search by category, title, teaser etc. Know  more in manual. Live-Demo: https://demo.t3planet.com//t3t-extensions/news-advancedsearch You can download PRO version for more-features & free-support at https://t3planet.com/advanced-search-typo3-news-extension",
-    "hash": "sha256-iWHitRcr6fYmoV35TOOhkRF0qj0LPBfi+8uRi41r37M="
+    "hash": "sha256-LvHNn5jfPHrDX10XQGyjTNjz2MNVfGWghxKBg/F4Y0A="
   },
   "ns_news_comments": {
-    "version": "5.0.6",
+    "version": "5.1.0",
     "t3_versions": [
       8,
       9,
@@ -38307,7 +38515,7 @@
       11
     ],
     "description": "Do you want to smoothly integrate comment features in your favourite News extension? This extension includes powerful features like post comment, reply to comment, multi-level comment thread, moderation etc., Demo: https://demo.t3planet.com/t3t-extensions/news-comments/ You can download PRO version for more-features & free-support at https://t3planet.com/news-comment-typo3-extension/",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-72DmAfUo7/irsWi8C1YsqtBZ13tOcpQ4tt+qJg7RvPo="
   },
   "ns_news_slider": {
     "version": "4.1.0",
@@ -38404,13 +38612,13 @@
     "hash": "sha256-QkqNMjDLtwJ8aj6DPAR7SwcOQvTu+kEehc8Oc9ATkbU="
   },
   "ns_theme_cleanblog": {
-    "version": "3.0.5",
+    "version": "3.0.6",
     "t3_versions": [
       10,
       11
     ],
     "description": "T3 Clean Blog Free TYPO3 Template is a premium TYPO3 theme for personal or company blog with minimal & clean design, super easy settings, light, and ultra-fast page speed. Live-Demo: https://demo.t3terminal.com/?theme=t3t-cleanblog PRO version: https://t3planet.com/t3-clean-blog-free-typo3-template",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-9qXJUS8A2xbgEVM/I6A8kOdcJdSoOTkj7EuKhqvIDvQ="
   },
   "ns_theme_comingsoon": {
     "version": "11.1.2",
@@ -38494,7 +38702,7 @@
     "hash": "sha256-hMOkoLkGUg9NO7c52jlzolk8EtlsY5dCqxkS0PJd4Ms="
   },
   "ns_youtube": {
-    "version": "2.1.0",
+    "version": "2.1.1",
     "t3_versions": [
       6,
       7,
@@ -38504,7 +38712,7 @@
       11
     ],
     "description": "One of the only TYPO3 extension which provides to integrate all the features of Youtube.com like Simple Video, Channel, Playlist and Live-stream to your TYPO3 site. Live-Demo: https://demo.t3planet.com/t3t-extensions/youtube/ You can download PRO version for more-features & free-support at https://t3planet.com/typo3-youtube-extension",
-    "hash": "sha256-CvIPL4e2VUkrodSZ9NljU6jQQ6fV8gBHAzhuV5na0n8="
+    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ns_zoho_crm": {
     "version": "3.0.0",
@@ -38716,6 +38924,17 @@
     "description": "OAuth2 server for TYPO3 based on PHP League's OAuth2 Server.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "oauth_openid_single_sign_on": {
+    "version": "1.0.3",
+    "t3_versions": [
+      8,
+      9,
+      10,
+      11
+    ],
+    "description": "Typo3 OAuth / OpenID Connect Single Sign-On SSO extension by miniOrange allows login (Single Sign-On) into Typo3 with Azure AD, Azure B2C, AWS Cognito, Office 365, WSO2, Okta, Salesforce, Discord, Keycloak, Amazon, Twitch, LinkedIn, Invision Community, Slack, Discord, PingFederate, OneLogin or other custom OAuth 2.0 providers. Typo3 OAuth / OIDC extension can be used for authorization and authentication purposes with any OAuth / OIDC Provider that conforms to the OAuth 2.0 and OpenID Connect (OIDC) standards.\r",
+    "hash": "sha256-6B+nLufFIZ8Ef0Abzfx5b/ynW0A9Qi6P3IedRsoaEF8="
+  },
   "objmgr": {
     "version": "1.0.0",
     "t3_versions": [],
@@ -38795,11 +39014,11 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "oclock": {
-    "version": "0.0.9",
+    "version": "0.0.10",
     "t3_versions": [
-      9,
       10,
-      11
+      11,
+      12
     ],
     "description": "This extension provides a clock in the TYPO3 Backend and gives a few neat functions",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
@@ -39370,11 +39589,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "oidc": {
-    "version": "1.1.0",
+    "version": "1.2.0",
     "t3_versions": [
       8,
       9,
-      10
+      10,
+      11
     ],
     "description": "This extension uses OpenID Connect to authenticate users.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
@@ -39540,13 +39760,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "onetimeaccount": {
-    "version": "6.2.0",
+    "version": "6.2.1",
     "t3_versions": [
       10,
       11
     ],
     "description": "Allow users to create a one-time FE account to which they will be automatically logged in (without having to enter a user name or password).",
-    "hash": "sha256-IZ0+5k2hIJnajv4cKXSr33xRZ1PFPGr4vBSALeZEPxY="
+    "hash": "sha256-/s3CGn0yymb0zJiNuU+/DoDHkcRtGucPXINYpC9IWkQ="
   },
   "onetimesecret": {
     "version": "1.2.1",
@@ -39798,14 +40018,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "org": {
-    "version": "10.5.8",
+    "version": "11.0.1",
     "t3_versions": [
-      8,
-      9,
-      10
+      10,
+      11
     ],
     "description": "The Organiser is a blog databse for the lobby. It provides a lot of tables like boards, calendar, contacts, events, jobs, locations, news, organisers, staff, seminars and services.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-OEN51dFhorblRSnMiiV2G7yi6ooxwAJyAMI3fIFw2A4="
   },
   "org_installer": {
     "version": "8.0.22",
@@ -39817,14 +40036,12 @@
     "hash": "sha256-yE54gNRSacnDlRh5g2SA+6xNLHGxHOBzx0EQ2jD32VM="
   },
   "org_repertoire": {
-    "version": "8.7.6",
+    "version": "10.4.2",
     "t3_versions": [
-      6,
-      7,
-      8
+      10
     ],
     "description": "Extend the Organiser with a repertoire database!",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-rgPdfyLkZsFAnYr/BlzhCE42/ylEgdhkEnzcfM8Ar0I="
   },
   "org_workshops": {
     "version": "1.0.0",
@@ -39901,6 +40118,22 @@
     "version": "1.0.0",
     "t3_versions": [],
     "description": "Benutzerhandbuch fr die Redakteure des OSZ Lotis",
+    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "ot_cefluidtemplates": {
+    "version": "2.0.2",
+    "t3_versions": [
+      11
+    ],
+    "description": "",
+    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "ot_faq": {
+    "version": "2.0.5",
+    "t3_versions": [
+      11
+    ],
+    "description": "FAQ extension with output of structured data in JSON format.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ot_gfxheader": {
@@ -40239,7 +40472,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "pageclasses": {
-    "version": "11.0.3",
+    "version": "11.0.4",
     "t3_versions": [
       9,
       10,
@@ -40304,12 +40537,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "pagelist": {
-    "version": "3.5.4",
+    "version": "3.7.0",
     "t3_versions": [
       11
     ],
-    "description": "Create page lists/teasers and add page types for news, events, products and vacancies.",
-    "hash": "sha256-wGoCOu6HQjh+cvuLlbeXPBYbnGL5eURmkATh8j7YPsM="
+    "description": "Create news, events, products and vacancies or just page lists.",
+    "hash": "sha256-8jMIRz1wXLMZdAasWeHdRz/kDujyRqqmkOBkpWK8sY4="
   },
   "pagemanager": {
     "version": "0.7.1",
@@ -40393,12 +40626,10 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "pagetreefilter": {
-    "version": "1.5.1",
-    "t3_versions": [
-      11
-    ],
+    "version": "2.0.0",
+    "t3_versions": [],
     "description": "It adds a wizard like the new content element wizard that helps finding content elements and records in the page tree. With a few clicks you know where they are used. You can also see what elements are not used.",
-    "hash": "sha256-/NWjyTpzcc8wLcaJb7QH1Ux3CUm+brmBFD2YYfDO9s4="
+    "hash": "sha256-w68wcAJOIjuf9dlap1sRH126nG0i6bMXR8fmkYJhsJY="
   },
   "pagetreehighlight": {
     "version": "2.0.0",
@@ -40459,12 +40690,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "paginatedprocessors": {
-    "version": "1.4.2",
+    "version": "1.5.1",
     "t3_versions": [
       11
     ],
     "description": "Data processors with pagination",
-    "hash": "sha256-4AqVZifJUIPBAsezizdDDZdf0yHL+FBKfh6HKO6zU94="
+    "hash": "sha256-IYhwmpbrnKFFPAomotjklaQUXeno7es+ykKaSWw0SRw="
   },
   "pandorabot_include": {
     "version": "0.1.0",
@@ -40473,9 +40704,11 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "panopto": {
-    "version": "2.0.2",
+    "version": "3.0.2",
     "t3_versions": [
-      10
+      10,
+      11,
+      12
     ],
     "description": "Adds a content element for the end-to-end-video-content-management-system panopto",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
@@ -40634,12 +40867,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "paste_reference": {
-    "version": "2.0.2",
+    "version": "2.0.4",
     "t3_versions": [
       11
     ],
     "description": "Paste reference instead of copy for content elements",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-tsvdodXWtcq0CxSbkoAB0LFchD0SFxfmf6PrwJUov48="
   },
   "patch10011": {
     "version": "0.5.0",
@@ -40709,14 +40942,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "patchlayout": {
-    "version": "0.1.4",
+    "version": "0.1.5",
     "t3_versions": [
       9,
       10,
       11
     ],
     "description": "Collection of patches for the Backend Layout",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-xEsIsbB74ZsmUN82zkmAbShYvNENaRcYxtwhV+tpHIs="
   },
   "paymentlib": {
     "version": "0.3.2",
@@ -40954,9 +41187,9 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "pb_fileinfo": {
-    "version": "10.4.0",
+    "version": "11.5.3",
     "t3_versions": [
-      10
+      11
     ],
     "description": "Adds infos to linked files in your website (filetype and -size).",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
@@ -40989,12 +41222,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "pb_news_jobs": {
-    "version": "10.4.0",
+    "version": "11.5.1",
     "t3_versions": [
-      10
+      11
     ],
     "description": "Extends the Extension news with additional fields for jobs offers.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-1A5hiWUodD465q3e3UMr+quwHxIH9aaipQULhYhxqBw="
   },
   "pb_notifications": {
     "version": "11.5.1",
@@ -41013,12 +41246,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "pb_rel_nofollow": {
-    "version": "10.4.0",
+    "version": "11.5.1",
     "t3_versions": [
-      10
+      11
     ],
     "description": "Adds a rel-nofollow-attribute to extern links. You can exclude URLs by typoscript.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-r/YJurfrOQSJxTO4OK4C6HBzbgmh4DtdDIGqLMMQISQ="
   },
   "pb_rsslaufschrift": {
     "version": "1.0.1",
@@ -41478,13 +41711,22 @@
     "description": "",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
-  "personnel": {
-    "version": "3.4.1",
+  "personio_jobs": {
+    "version": "0.5.0",
     "t3_versions": [
       11
     ],
+    "description": "Extension to integrate jobs from Personio Recruiting API",
+    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "personnel": {
+    "version": "3.8.2",
+    "t3_versions": [
+      11,
+      12
+    ],
     "description": "Personnel lists with vCard download.",
-    "hash": "sha256-OtpcONWB7KqUZ6RKKyzgzjLQKzvhelEzAiCjD7xvRHc="
+    "hash": "sha256-JKkG4yonG7XlhpCliMUcwuS6jxjimrfwUyMImXUWLkY="
   },
   "persons": {
     "version": "1.0.0",
@@ -41529,12 +41771,13 @@
     "hash": "sha256-GO2e9tfQY0Do6l3/HPoMOk/nc/3TTKRmMWq2ESOnx/0="
   },
   "pfprojects": {
-    "version": "5.0.4",
+    "version": "6.0.0",
     "t3_versions": [
-      10
+      10,
+      11
     ],
     "description": "This extension shows a list of projects and can be connected with service_bw2.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-OQG5aZfJndKrSpeCVR/cgpZukUwGTArH00Ns4oN1dg4="
   },
   "pg_events": {
     "version": "0.1.2",
@@ -42089,13 +42332,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "piwik_consent_manager": {
-    "version": "0.2.2",
+    "version": "0.2.4",
     "t3_versions": [
       10,
       11
     ],
     "description": "",
-    "hash": "sha256-BICaRPdTrpvR/rbQ30aCgxOvDmVZFj/Raynlpz4/Kuc="
+    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "piwikintegration": {
     "version": "4.5.0",
@@ -42131,30 +42374,28 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "pixxio_extension": {
-    "version": "1.0.2",
+    "version": "1.0.5",
     "t3_versions": [
       10,
       11
     ],
     "description": "Integrate pixx.io DAM Digital Asset Management into TYPO3. Use files from your pixx.io media pool with TYPO3 easily and without any detour. Use the search field to search through your pixx.io media library and find the right picture in a flash.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-E92yLToa6LD+s/zIMGpYAwTZWLW7qGO6BwC5lZd8wE0="
   },
   "pizpalue": {
-    "version": "14.2.1",
+    "version": "15.1.0",
     "t3_versions": [
-      10,
-      11
+      11,
+      12
     ],
     "description": "Extension to create websites using bootstrap. It builds upon the bootstrap_package from Benjamin Kott and increases functionality by supporting the following extensions:  container_elements, news, eventnews, tt_address",
-    "hash": "sha256-EL8YuF+egJIhaHpMxv1i/uVgQMSxOXdodPvqPP5A8Kc="
+    "hash": "sha256-cd8l8evMC5nGNMwR2vTAn/HsfAUWyhp5xVkeGtV6IiM="
   },
   "pizpalue_distribution": {
-    "version": "5.1.0",
-    "t3_versions": [
-      11
-    ],
+    "version": "6.0.0",
+    "t3_versions": [],
     "description": "This distribution provides a sample website using bootstrap and the extensions pizpalue and container_elements. The distribution tailors Swiss market featuring German as default language and additional translations to French, English and Finnish.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-wlaenT1bTQQ25t4PSb4lvqdJT5jfGctAx5LvEbtj+cg="
   },
   "pk_banner": {
     "version": "0.0.1",
@@ -42224,9 +42465,9 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "plain_faq": {
-    "version": "3.1.1",
+    "version": "4.0.0",
     "t3_versions": [
-      11
+      12
     ],
     "description": "Plain FAQ extension with list and detail view. Migration commands to migrate data and plugin settings from ext:irfaq",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
@@ -42244,13 +42485,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "plausible_analytics": {
-    "version": "1.2.0",
+    "version": "2.0.0",
     "t3_versions": [
-      10,
       11
     ],
     "description": "Integrate Plausible analytics into TYPO3",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-D1dNdPBC4a6QHrZ6KdNbEMY21qC8O4TkpJVFlasql/c="
   },
   "plausibleio": {
     "version": "2.1.0",
@@ -42705,6 +42945,14 @@
     "description": "Dynamically attach and modify documents to mail which is send either to the sender or the recipient. Filename can be change dynamically also a variety of fileformats is supported. E.g.: Csv, Docx, Fluid, Htm, Html, Odg, Ods, Odt, Pdf, Pptx, Rtf, Txt, Xlsx, Xml",
     "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
   },
+  "powermail2salesforce": {
+    "version": "1.0.3",
+    "t3_versions": [
+      8
+    ],
+    "description": "Auto maps fields to if fields have the same names",
+    "hash": "sha256-YNZ0H3gt747N6Loj4vDC0Kyzgsl8ol6xdzkbfK6NZoY="
+  },
   "powermail4dev": {
     "version": "3.3.2",
     "t3_versions": [
@@ -42830,14 +43078,22 @@
     "description": "",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "powermailautocomplete": {
+    "version": "2.0.0",
+    "t3_versions": [
+      11
+    ],
+    "description": "Add autocomplete tokens to powermail fields",
+    "hash": "sha256-KC5aZ+vCjR6VTPvBgzfgILjYaKNJn0YURA+V/rjvzb8="
+  },
   "powermailcaptcha": {
-    "version": "1.0.2",
+    "version": "1.1.0",
     "t3_versions": [
       10,
       11
     ],
     "description": "Captcha Extension for Powermail",
-    "hash": "sha256-Pec1Q8DmlAf00I4QDlwKkMg7tHGAZ3Pi3PWomGx2DHs="
+    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "powermailcustomcss": {
     "version": "1.1.0",
@@ -42863,12 +43119,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "powermailrecaptcha": {
-    "version": "5.0.3",
+    "version": "5.1.0",
     "t3_versions": [
-      10
+      10,
+      11
     ],
     "description": "Google recaptcha extension for powermail",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-dXJCuhgygIADDcHoBeLV/M2CYPNaJZbcMjhWYBCwD5U="
   },
   "powersearch": {
     "version": "1.0.2",
@@ -43576,13 +43833,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "pvh": {
-    "version": "1.1.1",
+    "version": "2.0.0",
     "t3_versions": [
-      10,
       11
     ],
     "description": "A collection of view helpers used by pizpalue. Contains copies from vhs view helpers by Claus Due.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-NZFCriIWjTKaYNjxVvSMUEosW64QnfCbwLkilKqRZoE="
   },
   "pw_comments": {
     "version": "5.2.0",
@@ -43618,17 +43874,25 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "pwd_security_check": {
-    "version": "3.0.3",
+    "version": "4.0.0",
     "t3_versions": [
-      11
+      12
     ],
     "description": "Symfony Command and System Report to check BE and FE user passwords against a list of popular passwords",
-    "hash": "sha256-cmpOPP9E0iCSfIdKenK0+OJ/XT9IZ47Mca/iv9/DRRA="
+    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "pwo_roundabout": {
     "version": "1.0.0",
     "t3_versions": [],
     "description": "Adds a cool javascript widget with sliding boxes on the page: http://fredhq.com/projects/roundabout. You can add both selected content elements or retrieve all images from a selected directory.",
+    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "px_dbsequencer": {
+    "version": "0.11.0",
+    "t3_versions": [
+      11
+    ],
+    "description": "With this extension you can ensure different unique keys for the configured tables (e.g.: pages, pages_language_overlay, tt_content)",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "px_direct_mail_smtp": {
@@ -43847,17 +44111,25 @@
     "description": "Allows to set custom bg color by domain",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "qc_be_pagelanguage": {
+    "version": "1.0.1",
+    "t3_versions": [
+      11
+    ],
+    "description": "This extension brings back the behaviour from TYPO3 v10 that language selection is kept while browsing the Pagetree in Page module with option Languages instead of Column.",
+    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
   "qc_info_rights": {
-    "version": "1.2.6",
+    "version": "1.2.7",
     "t3_versions": [
       10,
       11
     ],
     "description": "Gives editors a view of BE users and group rights like the Access module but in read-only. Also provides BE users and BE User Groups list with CSV export.",
-    "hash": "sha256-WMt+ksNtpSoDanU63Jh0/bYP8HavxxCa3SmmMVBPR9M="
+    "hash": "sha256-VVOKoOZ6wO2URPT/0Uet68iFY8yW/lbMyguTaipOKBA="
   },
   "qc_redirects": {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "t3_versions": [
       10,
       11
@@ -43884,7 +44156,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "qc_ws_preview_lang": {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "t3_versions": [
       10,
       11
@@ -44416,12 +44688,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "readspeaker_services": {
-    "version": "0.9.3",
+    "version": "1.0.2",
     "t3_versions": [
-      10
+      11
     ],
     "description": "A Typo3 extension for easily integrating ReadSpeaker webReader and docReader into your website. Please note that you need a valid ReadSpeaker license in order to use this extension. Learn more on www.readspeaker.com.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-ILgp9IrHXZhi/bBG8iCvZk6YHMzK3FBcgEZ3m+GybwQ="
   },
   "readurl": {
     "version": "0.0.2",
@@ -44619,12 +44891,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "recent_content_widget": {
-    "version": "1.1.0",
+    "version": "1.1.2",
     "t3_versions": [
-      10
+      10,
+      11
     ],
     "description": "A widget for the dashboard to display new and recently updated content elements.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-jRjeLem53xn802a+AHg5jUtMvXKwU6jPO6NoIZ70EOc="
   },
   "recentcontent": {
     "version": "1.2.1",
@@ -44992,12 +45265,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "repeatable_form_elements": {
-    "version": "3.1.0",
+    "version": "3.1.1",
     "t3_versions": [
       11
     ],
     "description": "Adds a new form element which allows the editor to create new container elements with any type fields in them. In the frontend, a user can create any number of new containers. This is an extension for TYPO3 CMS.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-EhIcUQy32AMlIOO27e/raZ9C0bleZcnyWLPubBNhFCk="
   },
   "replacecontent": {
     "version": "2.0.4",
@@ -45039,13 +45312,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "reserve": {
-    "version": "2.0.2",
+    "version": "2.1.0",
     "t3_versions": [
       10,
       11
     ],
     "description": "This extension allows you to reserve tickets for one or more persons using a period table and a form. Each reservation has it’s own QR Code that can be scanned at the event.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-dD+g1elFJHZ8QxxuuAbWeyAlMQgAB3JdrIEGGAi/Ero="
   },
   "resizable_modals": {
     "version": "1.0.1",
@@ -45078,7 +45351,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "responsive_images": {
-    "version": "3.1.0",
+    "version": "3.1.2",
     "t3_versions": [
       10,
       11
@@ -45583,12 +45856,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "rh_majordomo": {
-    "version": "1.1.1",
+    "version": "1.2.1",
     "t3_versions": [
-      10
+      10,
+      11
     ],
     "description": "A Typo3 plugin that allows a FE user to add himself to a Majordomo email list.",
-    "hash": "sha256-BuX8GU3dS6T57lKcbquMUa5n4OxqxIGSOK7hLB5nqSQ="
+    "hash": "sha256-b+EiBOJYEwfzlEl7P70tFuNrTWntf3bdcVNdpxRoMHM="
   },
   "rh_recaptcha": {
     "version": "1.1.1",
@@ -46258,6 +46532,14 @@
     "description": "Supports full options of Google Analytics with new ga.js (within Domains, FilesLinks, External URLs e.g.)",
     "hash": "sha256-V5TgHbs79GOA0qTZnrcqekpJ5nvwvyBed+Wykf0ef20="
   },
+  "rsmoembed": {
+    "version": "1.0.2",
+    "t3_versions": [
+      11
+    ],
+    "description": "A simple content element to embed elements like facebook, youtube, soundcloud, ...",
+    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
   "rsp_flvplayer": {
     "version": "0.1.6",
     "t3_versions": [],
@@ -46499,12 +46781,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "rte_ckeditor_image": {
-    "version": "11.0.6",
+    "version": "11.0.8",
     "t3_versions": [
       11
     ],
     "description": "Adds FAL image support to CKEditor for TYPO3.",
-    "hash": "sha256-IGnikN7D1wQrUlDVV5c8vyuCkploEpKTMalwUiaOajw="
+    "hash": "sha256-PY3tBNHebDckSW3SH/nfkxSEsF1XqL0XyYuwmfE0iDU="
   },
   "rte_ckeditor_microdata": {
     "version": "10.1.0",
@@ -46946,13 +47228,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "rx_shariff": {
-    "version": "14.0.2",
+    "version": "15.0.3",
     "t3_versions": [
-      10,
       11
     ],
     "description": "Shariff implementation for TYPO3 CMS including the backend module, a viewhelper and a plugin.",
-    "hash": "sha256-130nRJ19Qezr6En7+c6kCfLe0vEvX3jhbDwDLzIzDHc="
+    "hash": "sha256-va2OYNi6tHrzmddQl3RovPvhUi04ypOox+aQJc523T4="
   },
   "rx_unrollsavebuttons": {
     "version": "1.1.1",
@@ -47474,13 +47755,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sav_library_mvc": {
-    "version": "9.5.0",
+    "version": "11.5.0",
     "t3_versions": [
-      8,
-      9
+      10,
+      11
     ],
-    "description": "The SAV Library Mvc is a library, based on fluid and extbase for the SAV Library Kickstarter. It is used to create extensions without any PHP coding. Multiple views of the data including forms with Front End editing facilities can be generated.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "description": "The SAV Library Mvc is a library, based on Fluid and Extbase for the SAV Library Kickstarter. It is used to create extensions without any PHP coding. Multiple views of the data including forms with Front End editing facilities can be generated.",
+    "hash": "sha256-lH4b9ZfAsoectP9OZdUaaty/QLim+THPz4yieaY1z84="
   },
   "sav_library_plus": {
     "version": "11.5.0",
@@ -47493,13 +47774,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sav_librarymvc_example0": {
-    "version": "9.5.0",
+    "version": "11.5.0",
     "t3_versions": [
-      8,
-      9
+      9,
+      10,
+      11
     ],
     "description": "An extension to illustrate the SAV Library Mvc",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-hFaFbAL6ZoagaZfap+i8Z3cF3GjbdleJLOFVZzbYSRc="
   },
   "sav_meetings": {
     "version": "9.5.0",
@@ -47786,13 +48068,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "schema": {
-    "version": "2.6.4",
+    "version": "2.8.0",
     "t3_versions": [
       10,
-      11
+      11,
+      12
     ],
     "description": "API and view helpers for schema.org markup",
-    "hash": "sha256-SNE6nyseQBFpA6VLsBYG3RDeboMMrkmIzQNTeT4hLOU="
+    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "schema_auto": {
     "version": "1.3.0",
@@ -47804,22 +48087,24 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "schema_bib": {
-    "version": "1.2.1",
+    "version": "1.3.0",
     "t3_versions": [
       10,
-      11
+      11,
+      12
     ],
     "description": "Extend the schema extension with bibliographic-related terms",
-    "hash": "sha256-J7qKM/tIVJVrAy2oT6pTX0bHPsgTaJd8bz+o5I8RmV8="
+    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "schema_health": {
-    "version": "1.3.1",
+    "version": "1.4.0",
     "t3_versions": [
       10,
-      11
+      11,
+      12
     ],
     "description": "Extend the schema extension with health-related terms",
-    "hash": "sha256-2l8V+CkR7SGIfabtDcwXAQh21e8tdOETbKx8YJoIPPE="
+    "hash": "sha256-NoUAojgLSinyRZ7/5nLSe8HC5wS75oqlRyqbHw0FK1Q="
   },
   "schema_injector": {
     "version": "1.0.1",
@@ -47840,10 +48125,11 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "schema_pending": {
-    "version": "1.3.0",
+    "version": "1.4.0",
     "t3_versions": [
       10,
-      11
+      11,
+      12
     ],
     "description": "Extend the schema extension with pending terms",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
@@ -47866,12 +48152,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "schooldirectory": {
-    "version": "5.1.6",
+    "version": "6.0.0",
     "t3_versions": [
-      10
+      10,
+      11
     ],
     "description": "This is a TYPO3 extension to manage schools",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-AObhlY7o8EfSP27M0unN52psnjPMchD0p8of2v/HuAE="
   },
   "scoopit": {
     "version": "0.0.4",
@@ -48071,13 +48358,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "secure_downloads": {
-    "version": "4.1.6",
+    "version": "5.0.1",
     "t3_versions": [
-      9,
-      10
+      10,
+      11
     ],
     "description": "\"Secure Download\": Apply TYPO3 access rights to ALL file assets (PDFs, TGZs or JPGs etc. - configurable) - protect them from direct access.",
-    "hash": "sha256-+6TbdsGQW2LuniTniACwCFX94lW41noLGWfpW8b96q4="
+    "hash": "sha256-Yh0z3c+M43UPPe4PwgLZZw8t598wZKUYGeF10kx5w+M="
   },
   "secure_login": {
     "version": "1.0.0",
@@ -48204,13 +48491,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "seminars": {
-    "version": "5.1.0",
+    "version": "5.3.0",
     "t3_versions": [
       10,
       11
     ],
     "description": "Allows you to create and manage a list of seminars, workshops, lectures, theater performances and other events, allowing front-end users to sign up. FE users also can create and edit events.",
-    "hash": "sha256-8BQjd8pO4JM47k5QE/rxlumyzlYzkOR7ZOSI263VnmY="
+    "hash": "sha256-lWVxh9ygTnst2zTpZabqdBPC4cKML9bfVJhpxSGE7/k="
   },
   "seminarscalredirect": {
     "version": "1.0.0",
@@ -48335,12 +48622,13 @@
     "hash": "sha256-2GFv6x4NFOQ933dcYopdAgfoNjhq9uLcphBwp5iZXpo="
   },
   "service_bw2": {
-    "version": "5.0.4",
+    "version": "6.0.3",
     "t3_versions": [
-      10
+      10,
+      11
     ],
     "description": "With this extension you can access interface of service BW",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-vKkUWHWAWHbMpNRWuMtZFN2D9pHStJSQcn/4uwwD+eA="
   },
   "ses_mailer": {
     "version": "1.0.0",
@@ -48434,12 +48722,10 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sf_banners": {
-    "version": "6.0.2",
-    "t3_versions": [
-      11
-    ],
-    "description": "Banner-Management Extension based on Extbase and Fluid. Loads banners asynchronously using jQuery.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "version": "7.0.1",
+    "t3_versions": [],
+    "description": "Banner-Management Extension based on Extbase and Fluid. Loads banners asynchronously using JavaScript.",
+    "hash": "sha256-mAju6KT6q5sarthn2/Ii5iKg3v0EAwtu12TIAr6xcuU="
   },
   "sf_books": {
     "version": "7.0.1",
@@ -48448,18 +48734,20 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sf_event_mgt": {
-    "version": "7.0.0",
-    "t3_versions": [],
+    "version": "7.1.1",
+    "t3_versions": [
+      12
+    ],
     "description": "Configurable event management and registration extension based on ExtBase and Fluid",
-    "hash": "sha256-rTl3AYU2D8MuP/9FjYqL4DKMM7bqmwzBbjP9SazpEeI="
+    "hash": "sha256-CmE56/xVCUGMaXZKpKlnRQwhoXr/NT02Zpep2ozSj4o="
   },
   "sf_event_mgt_indexer": {
-    "version": "3.0.1",
+    "version": "3.0.2",
     "t3_versions": [
       11
     ],
     "description": "Indexer for ke_search which indexed sf_event_mgt records",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-PEeekTR7HJUTR+yQCj+4cYMYZVAvlKmA2QdSAzGXgJE="
   },
   "sf_filecollection_gallery": {
     "version": "1.5.0",
@@ -48532,12 +48820,10 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sf_yubikey": {
-    "version": "4.0.3",
-    "t3_versions": [
-      11
-    ],
+    "version": "5.0.0",
+    "t3_versions": [],
     "description": "An authentication service for TYPO3 which extends the backend/frontend login by YubiKey OTP two-factor authentication.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-jnw6UkUFyvx1et8R17MsZOqIANPB9LuRc/jXwzYaSBs="
   },
   "sfdbutf8": {
     "version": "2.1.0",
@@ -48688,14 +48974,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sg_cookie_optin": {
-    "version": "5.0.0",
+    "version": "5.1.0",
     "t3_versions": [
       9,
       10,
       11
     ],
     "description": "",
-    "hash": "sha256-b3LbzUBqnMq1dbtzg3Qz9TL7lPuG2SwtWVdrgjHweQ0="
+    "hash": "sha256-BLOHNHS41GqFCMMV0tx9Np/3+JRmGTdTNu6TENCO0QY="
   },
   "sg_cropscale": {
     "version": "0.5.0",
@@ -49002,12 +49288,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sh_scoutnet_kalender": {
-    "version": "5.0.2",
+    "version": "6.0.0",
     "t3_versions": [
-      10
+      10,
+      11
     ],
     "description": "Official Typo3 plugin to display scoutnet.de calendar",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-ZiXuAdhSSYO1XSjp/ULOSXqmuhOq+BDjV1E0sGP6wQU="
   },
   "sh_scoutnet_webservice": {
     "version": "5.0.0",
@@ -49129,7 +49416,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "shortcodes": {
-    "version": "1.3.0",
+    "version": "1.5.0",
     "t3_versions": [
       9,
       10,
@@ -49242,12 +49529,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sic_address": {
-    "version": "4.0.0",
+    "version": "4.1.0",
     "t3_versions": [
       11
     ],
     "description": "Address Extension that can either enhance or replace tt_address. You can add required fields dynamically like mask/powermail. Originally it was written in 2016 to replace extensions like nicos_directory, wt_directory or sp_directory and grew from there.",
-    "hash": "sha256-7FDn8XkD29PSwxbvuTLNCupWz+D4l230219tOoxHRfQ="
+    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sici_core": {
     "version": "2.0.0",
@@ -49479,6 +49766,15 @@
     "t3_versions": [],
     "description": "A simple extension that provides a multiple choice quiz. Multiple correct answers are possible.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "simplereference": {
+    "version": "1.0.0",
+    "t3_versions": [
+      10,
+      11
+    ],
+    "description": "Create a simple reference element.",
+    "hash": "sha256-tyeJ4mRTgwx+wxoS8KWQ+AC4uGoS4ctA3u5q7+bphec="
   },
   "simpleshare": {
     "version": "1.0.2",
@@ -49789,6 +50085,20 @@
     "description": "Copy all the files and database to a new site with some handy transformations along the way.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "siteconfiggitsync": {
+    "version": "1.0.1",
+    "t3_versions": [
+      11
+    ],
+    "description": "This extension will push changes to the site config yaml files back to your gitlab repository by creating a branch for the changes along with a merge-request. It is targeted towards automated CI/CD installations or sites in general where the site-config is git versioned. No local git binary or .git directory is needed. Requires EXT:siteconfigurationevents",
+    "hash": "sha256-Y+Ea0b9bzeHItI1Th4pVvRnFXaEEvwiuNwy6edn9vn4="
+  },
+  "siteconfigurationevents": {
+    "version": "1.1.0",
+    "t3_versions": [],
+    "description": "This extension will provide PSR-14 events for the SiteConfiguration Class methods write, rename and delete. This way 3rd party extensions can attach to these events when a site configuration has been created or updated",
+    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
   "sitecopy": {
     "version": "0.0.1",
     "t3_versions": [],
@@ -49796,7 +50106,7 @@
     "hash": "sha256-8jDClz4QubojAP3tWXx4v+RhuBJfpgjURsD8N04DDnQ="
   },
   "sitecrawler": {
-    "version": "2.0.0",
+    "version": "2.0.1",
     "t3_versions": [
       10,
       11
@@ -50357,13 +50667,10 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "skjsonlylightbox": {
-    "version": "0.1.0",
-    "t3_versions": [
-      9,
-      10
-    ],
+    "version": "0.3.0",
+    "t3_versions": [],
     "description": "Provides the pure Javascript GLightbox for text with image and tx_news. Based on jn_lighterbox",
-    "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
+    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "skm_locallang_js": {
     "version": "1.0.0",
@@ -50407,13 +50714,10 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "skvideo": {
-    "version": "1.4.4",
-    "t3_versions": [
-      10,
-      11
-    ],
+    "version": "2.0.0",
+    "t3_versions": [],
     "description": "TYPO3 content element to cache thumbnails of Youtube & Vimeo videos and play them after user confirmation. Options to remember user decision via cookie. Responsive display. Works with and without fluid_styled_content. No other dependencies.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-ocQK2M8769loFQOZoeP9ynk4TKv7R1PPb5y2Pabb/SU="
   },
   "skwportfolio": {
     "version": "0.5.1",
@@ -51060,14 +51364,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sms_responsive_images": {
-    "version": "2.1.3",
+    "version": "3.0.0",
     "t3_versions": [
-      9,
       10,
       11
     ],
     "description": "Provides ViewHelpers and configuration to render valid responsive images based on TYPO3's image cropping tool.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-90ty25LA3JgSJyalRF8cTPr3ut7YN5PdpJ0EY7Xol8Q="
   },
   "sms_xlsexporttask": {
     "version": "1.0.1",
@@ -51340,13 +51643,13 @@
     "hash": "sha256-ZNgfeC/3yiCVrN1dl/cCwutSQVIIgN9J7GUMeV8aNzE="
   },
   "socialservices": {
-    "version": "3.0.7",
+    "version": "5.0.0",
     "t3_versions": [
-      9,
-      10
+      10,
+      11
     ],
     "description": "Manage social services to list them in frontend with a glossary and filter options.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-pwhDGzCCYeNFdenPtHZqsFJibUSl1aYJshs3MEZAhOQ="
   },
   "socialshareprivacy": {
     "version": "2.0.2",
@@ -51391,12 +51694,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "solr": {
-    "version": "11.5.1",
+    "version": "11.5.2",
     "t3_versions": [
       11
     ],
     "description": "Apache Solr for TYPO3 is the enterprise search server you were looking for with special features such as Faceted Search or Synonym Support and incredibly fast response times of results within milliseconds.",
-    "hash": "sha256-DdioK/VPdBwg4JKUTBiOYtDMIxepe0RGnN4uTkTJdM8="
+    "hash": "sha256-tQrd8pWFUrd6RYWlr6tLngbfGi5VsSsXe3rkQyrCYXY="
   },
   "solr_boutique": {
     "version": "1.0.0",
@@ -51419,6 +51722,14 @@
     ],
     "description": "This extension gives you the capability to index individual documents using Solr.",
     "hash": "sha256-2TSupZrRj8h7IEs2fvQyolwhF08wiFHQkNUhrRSI2rk="
+  },
+  "solr_tools": {
+    "version": "1.2.0",
+    "t3_versions": [
+      11
+    ],
+    "description": "This Extension provides CLI Tools to initialize the EXT:solr index queues from the command line, and to scan for file-references in the content to add the corresponding sites to the sys_file metadata where a file is being used.",
+    "hash": "sha256-HyYWOyMBsFpvjzkRuJrGdkn47F4rk6r7N95ZUlr8UwM="
   },
   "solradmin": {
     "version": "2.0.0",
@@ -51467,6 +51778,14 @@
     "version": "0.0.1",
     "t3_versions": [],
     "description": "Booking Engine for Holyday Homes and Hotels",
+    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "solver": {
+    "version": "0.2.2",
+    "t3_versions": [
+      11
+    ],
+    "description": "Extends TYPO3's exception handling with AI generated solutions. Problems can also be solved from command line. Several OpenAI parameters are configurable and prompts and solution providers can be customized as desired.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sorp": {
@@ -51708,13 +52027,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sponsoring": {
-    "version": "3.0.6",
+    "version": "5.0.2",
     "t3_versions": [
-      9,
       10
     ],
     "description": "Display and manage sponsoring projects like competitions",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-Bsn/hWAc6EUlyt9szlwbejvMADt+2ziF8pQ9lPEpxzo="
   },
   "sponsoring404": {
     "version": "1.3.1",
@@ -51859,6 +52177,14 @@
     "version": "4.0.0",
     "t3_versions": [],
     "description": "Extension to manage social media widgets.",
+    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "spt_storelocator": {
+    "version": "1.0.1",
+    "t3_versions": [
+      11
+    ],
+    "description": "The Store Locator extension will help to add some basic store information in the backend and display it as a list or map view in the frontend.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "spt_typo3audit": {
@@ -52365,12 +52691,12 @@
     "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
   },
   "start": {
-    "version": "10.1.4",
+    "version": "10.1.8",
     "t3_versions": [
       10
     ],
     "description": "Start extends TYPO3 with the responsive framework Foundation (Zurb), a dozen responsive Backend Layouts and some responsive Gridelements. It enables editors, to create responsive nested layouts within a few minutes. It extends some backend forms for controlling the display of content elements depending on devices like smartphones, tablets and desktops. It extends TYPO3 content elements and menus with some helpful responsive Foundation features. A template for a responsive newsletter is included.",
-    "hash": "sha256-ZQOYu0LReCaGMuTiPf5iYTLE7AfaLNAhKdv+PjP+pWs="
+    "hash": "sha256-A/35vP7pS3rge9fkVKAJIyBBtFBix6+yIOSmNq1hnqg="
   },
   "startcustomer": {
     "version": "5.1.10",
@@ -52393,14 +52719,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "startgreen": {
-    "version": "10.0.0",
+    "version": "10.0.3",
     "t3_versions": [
       8,
       9,
       10
     ],
     "description": "TYPO3 für BÜNDNIS 90/DIE GRÜNEN. TYPO3 GRUENE ist ein Template und liefert eine Website im Design von BÜNDNIS 90/DIE GRÜNEN. Es ist responsive, optimiert für Smartphone, Tablet und Desktop. Mit Launch TYPO3 GRUENE! kannst Du eine schlüsselfertige GRÜNE Website in Betrieb nehmen. Bürgerinitiativen, Verbände und Vereine können mit wenigen Handgriffen das Grüne Design entfernen. Website: https://typo3-gruene.de/",
-    "hash": "sha256-cbsUMjZjnQXdvh7JQNmU2k+FDQSnz4PmJ8OdY5kMFxM="
+    "hash": "sha256-fJLtyv2JRwAgr/5powsb98XuxKKnOsytBq6D/jfRdbk="
   },
   "starthansekontor": {
     "version": "0.0.4",
@@ -52539,31 +52865,31 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "static_info_tables_da": {
-    "version": "6.7.13",
+    "version": "6.9.1",
     "t3_versions": [
       10,
       11
     ],
     "description": "Danish (da) language pack for the Static Info Tables providing localized names for countries, currencies and so on.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-uVkqtDwLl1p+Da//8zj1zorlEaQmec5yg7TRiZeiHiQ="
   },
   "static_info_tables_de": {
-    "version": "6.7.13",
+    "version": "6.9.1",
     "t3_versions": [
       10,
       11
     ],
     "description": "German (de) language pack for the Static Info Tables providing localized names for countries, currencies and so on.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-YicY195HPFtkbYWaUfG658vA5tOxudY64Z3WByvXt5I="
   },
   "static_info_tables_es": {
-    "version": "6.7.9",
+    "version": "6.9.1",
     "t3_versions": [
       10,
       11
     ],
     "description": "Spanish (es) language pack for the Static Info Tables providing localized names for countries, currencies and so on.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-G/ROS3OdfuUekxnqQ9CaAWWZwXbI7HpL/bohEoSMlXE="
   },
   "static_info_tables_extbase": {
     "version": "1.2.0",
@@ -52653,13 +52979,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "static_info_tables_it": {
-    "version": "6.7.8",
+    "version": "6.9.1",
     "t3_versions": [
       10,
       11
     ],
     "description": "Italian (it) language pack for the Static Info Tables providing localized names for countries, currencies and so on.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-LUT0Pcqcn/YEynZ2AbNggvtQRQHtwPKYzA3L4oGGN7w="
   },
   "static_info_tables_it_621": {
     "version": "6.2.1",
@@ -53378,44 +53704,44 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "svconnector": {
-    "version": "5.0.0",
+    "version": "5.0.1",
     "t3_versions": [
       11
     ],
     "description": "This family of services is used to connect to external data sources and fetch data from them. This is just a base class which cannot be used by itself. Implementations are done for specific subtypes.",
-    "hash": "sha256-wpaIwHgDXpFuCLgory+CePL2RezbMKRN/IPqheUDZVA="
+    "hash": "sha256-LH2QLBAUiBeAzMN8nHKfOlLRL77NOSemu78qq+HQKas="
   },
   "svconnector_csv": {
-    "version": "4.0.0",
+    "version": "4.0.1",
     "t3_versions": [
       11
     ],
     "description": "Connector service for reading a CSV or similar flat file",
-    "hash": "sha256-C1wmcCrdMLbCY4ZLpM1fVhMwIwhwgMlR2nxdA8xiUZY="
+    "hash": "sha256-sVUx9CyXveqCpJOWTFiVk3G/bQx+TCBxaL30j2bZHaU="
   },
   "svconnector_feed": {
-    "version": "4.0.0",
+    "version": "4.0.1",
     "t3_versions": [
       11
     ],
     "description": "Connector service for XML files or RSS feeds",
-    "hash": "sha256-fJRNG0viO/S6xFfm74Shp2i9roOS7vy2M/OoPZP76CA="
+    "hash": "sha256-zOAhgkNMkhKHUSVetg9YkxzxmCMGcsiBxm0nt0P+eUY="
   },
   "svconnector_json": {
-    "version": "4.0.0",
+    "version": "4.0.1",
     "t3_versions": [
       11
     ],
     "description": "Connector service for JSON data",
-    "hash": "sha256-NlsmURfzbCZOkKRGGyIBZCsfC11brDI+luQfemE0d7I="
+    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "svconnector_sql": {
-    "version": "4.0.0",
+    "version": "4.0.1",
     "t3_versions": [
       11
     ],
     "description": "Connector service for any SQL-based database via Doctrine DBAL.",
-    "hash": "sha256-iYvjXyREp7en8TUN/e03ej0mpgDTmJ+cFjQ0o0gpZxg="
+    "hash": "sha256-vWnVGeHaJveTRMgrWSdRixafSHm0dvEnAJF/XtVvMK0="
   },
   "svconnector_xls": {
     "version": "2.0.3",
@@ -53569,13 +53895,12 @@
     "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
   },
   "sync_crop_areas": {
-    "version": "2.2.1",
+    "version": "3.0.0",
     "t3_versions": [
-      10,
       11
     ],
     "description": "Sync first found crop area to all other CropVariants",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-vz+p5vpjtM2aDlubcg+HBjkMUhK3X43cPsv2N+/hwgw="
   },
   "synchronize": {
     "version": "0.9.0",
@@ -53704,13 +54029,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "syssy": {
-    "version": "2.0.2",
+    "version": "2.0.4",
     "t3_versions": [
       10,
       11
     ],
     "description": "Connects TYPO3 with SYSSY",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-8qBudU3EPbYkRWLJb2iy2OqZUYL1CHdBQZ/wOLHjDnI="
   },
   "system_control": {
     "version": "0.0.8",
@@ -53812,6 +54137,16 @@
     "description": "If you are not skinning your TYPO3,  get back the sys folders icons on typo3 3.8!",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "t3_cowriter": {
+    "version": "1.2.1",
+    "t3_versions": [
+      9,
+      10,
+      11
+    ],
+    "description": "With the help of ai you can now work on a page together with a cowriter - a digital assistant that helps you to write your content.",
+    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
   "t3_fpdi": {
     "version": "0.0.1",
     "t3_versions": [
@@ -53875,15 +54210,16 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "t3_tcpdf": {
-    "version": "5.1.1",
+    "version": "6.0.1",
     "t3_versions": [
       7,
       8,
       9,
-      10
+      10,
+      11
     ],
     "description": "Make TCPDF library (www.tcpdf.org) available within TYPO3.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-eM3Ob4FeldZADwDASpmazUS1T71gCIxAz/iTZHvMcwo="
   },
   "t3_translator": {
     "version": "1.0.2",
@@ -53910,22 +54246,21 @@
     "hash": "sha256-sCoAzw5ZLfgcfEqX4cSKmz+Z+FTi3n1dcBjVpPw0xfQ="
   },
   "t3am": {
-    "version": "3.0.1",
+    "version": "4.0.2",
     "t3_versions": [
-      9,
-      10
+      11
     ],
     "description": "T3AM - TYPO3 Authentication Manager",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-bk3lyVSsUIo6fe55pOMGnQRm4vt8qw/tNqP4JPjHXOs="
   },
   "t3am_server": {
-    "version": "3.0.0",
+    "version": "3.0.2",
     "t3_versions": [
       9,
       10
     ],
     "description": "T3AM Server - TYPO3 Authentication Manager Server",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-1sVO90DqRum2QMl7PXb4mz7TW6K54nlEiX4NGfwtupA="
   },
   "t3api": {
     "version": "2.0.0",
@@ -53992,6 +54327,18 @@
     ],
     "description": "Calendar",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "t3campus_example": {
+    "version": "1.0.0",
+    "t3_versions": [],
+    "description": "This is just a example extension of T3 Campus for educational reasons.",
+    "hash": "sha256-zSL14yZ1AB3zvRmGX8Zgd7n8znJrxGvBJT5dAUfauUQ="
+  },
+  "t3campus_example2": {
+    "version": "1.0.0",
+    "t3_versions": [],
+    "description": "This is just a example extension of T3 Campus for educational reasons.",
+    "hash": "sha256-pow//ZHZ8JwVXU05rO4io4hQ91nG718pb1hyBNJQOVQ="
   },
   "t3chimp": {
     "version": "2.5.1",
@@ -54082,12 +54429,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "t3customroutes": {
-    "version": "0.0.1",
+    "version": "0.0.2",
     "t3_versions": [
       11
     ],
-    "description": "TYPO3 extension used to register custom api endpoints",
-    "hash": "sha256-c1F/2HQeFZkbOg+0iTuJbIfqd77kbWaRCwWmrWyMuIU="
+    "description": "TYPO3 extension used to register custom api endpoints, via YAML file configuration using Symfony Routing package",
+    "hash": "sha256-SMkUaEDmVNJj2tM3UPr+o/FYK/srg18o9sx0v7rTr9o="
   },
   "t3cv_export": {
     "version": "0.1.0",
@@ -54193,13 +54540,10 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "t3extensions_widget": {
-    "version": "1.2.0",
-    "t3_versions": [
-      10,
-      11
-    ],
+    "version": "2.0.2",
+    "t3_versions": [],
     "description": "Dashboard widget that displays the most recent TYPO3 extensions published/updated at the TER",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-vm6PPTgqNKA3tUd0IpAdtsbo20LQxjXXXmi3TqVMtjg="
   },
   "t3f_rating_tool": {
     "version": "0.1.1",
@@ -54230,12 +54574,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "t3foundation": {
-    "version": "7.0.1",
+    "version": "7.0.6",
     "t3_versions": [
       10
     ],
     "description": "Integration of Zurb Foundation CSS Framework for TYPO3 websites. This extension is optimised for Start TYPO3 Responsive.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-DH2a2H6ovHUPZX6WFOPO61LvMRQ7M9ie9OJaHjYh0Wg="
   },
   "t3getid3": {
     "version": "1.1.1",
@@ -54660,13 +55004,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "t3sbootstrap": {
-    "version": "5.2.8",
+    "version": "5.2.13",
     "t3_versions": [
-      10,
       11
     ],
     "description": "Startup extension to use bootstrap 5 classes, components and more out of the box. Example and info: www.t3sbootstrap.de",
-    "hash": "sha256-QbhSH9OunIKlkCtHgRgZmKDsN+uJ5FOuUwr36DGV1AY="
+    "hash": "sha256-UATqloxEyAKtSiodbtpVGoT/DFX8MGL+VtyXDRWVEt0="
   },
   "t3sbootstrap_grid": {
     "version": "2.0.1",
@@ -55001,6 +55344,17 @@
     "description": "Integration of TYPO3 [clickstorm] SEO into TemplaVoilà! Plus PageLayout Modul",
     "hash": "sha256-YQRRdhRAt+oI1nmkaUWwJmoVvznXDINVP0tMoAHKWWY="
   },
+  "t3voila_tvplus_linkvalidator": {
+    "version": "1.0.1",
+    "t3_versions": [
+      8,
+      9,
+      10,
+      11
+    ],
+    "description": "Allows the Link Validator to check links inside TemplaVoilà! Plus elements",
+    "hash": "sha256-pTtTAkjRyPqrU1OTqji4Jw05msBvczk6gSHAHoo+sMk="
+  },
   "t3voila_tvplus_yoast": {
     "version": "1.0.0",
     "t3_versions": [
@@ -55012,13 +55366,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "t3voila_uikit": {
-    "version": "0.1.0",
+    "version": "0.2.0",
     "t3_versions": [
-      10,
       11
     ],
     "description": "Theme for TemplaVoilà! Plus using fluid",
-    "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
+    "hash": "sha256-4u6S1fXXW3DDF/ibpFyx5CLaU4sBmRI/fI/NR8baKtg="
   },
   "t3w_getrootlinefield": {
     "version": "0.0.1",
@@ -55100,6 +55453,14 @@
     ],
     "description": "Replaces keywords in your content with a tooltip text taken from database. You can also grab keywords replacement from any other table e.g. sg_glossary or mr_glossary.",
     "hash": "sha256-03kws4QYWThdiF7DS6RyY2pM9G+ATTH5v2UhBv6nUxU="
+  },
+  "t5_sal_animation": {
+    "version": "1.1.5",
+    "t3_versions": [
+      11
+    ],
+    "description": "Animate content elements on page scrolling with sal.js",
+    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "t_banner": {
     "version": "0.1.3",
@@ -55187,13 +55548,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "table": {
-    "version": "0.11.0",
+    "version": "0.12.1",
     "t3_versions": [
       10,
-      11
+      11,
+      12
     ],
-    "description": "This contains a base class which you can use to make your extensions independant from any specific table. And it can be used to make multiple language support with a separate language overlay table.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "description": "This contains a base class which you can use to make your extensions independant from any specific table. And it can be used to make multiple language support with a separate language overlay table or by a CSV file.",
+    "hash": "sha256-J+jkp7ECEvOZad1u++zkR6IboXJmPcoC/1RA1+UPHng="
   },
   "tablecleaner": {
     "version": "2.5.0",
@@ -55382,21 +55744,21 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "taskqueue": {
-    "version": "8.0.6",
+    "version": "8.0.7",
     "t3_versions": [
       11
     ],
     "description": "Provides a task queue for other extensions to use.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-3lkYnjiVyTjjOBv3SKNt/M4+fwNAdvz4UPRBFKxjXV8="
   },
   "taxajax": {
-    "version": "0.8.0",
+    "version": "0.8.2",
     "t3_versions": [
       10,
       11
     ],
     "description": "Enhancement to the xajax extension with TYPO3 specific code.",
-    "hash": "sha256-lYcI2EtKhuEK9LsMWG61ZlMCbbrzThyydT3wJfA8w30="
+    "hash": "sha256-1GtKoswf8wlzutcDVpenTVRxZwtqSHPqeZ0U11e1kCo="
   },
   "taywa_ccemailfield": {
     "version": "0.0.2",
@@ -55898,15 +56260,24 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "templavoilaplus": {
-    "version": "8.1.2",
+    "version": "8.1.3",
     "t3_versions": [
       8,
       9,
       10,
       11
     ],
-    "description": "Building kit for custom  pages and content elements with individual fields, containers and backend layouts. Supporting drag'n'drop and multiple references.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "description": "Building kit for custom pages and content elements with individual fields, containers and backend layouts. Supporting drag'n'drop and multiple references.",
+    "hash": "sha256-OrsxddMPHBky0vfnn3CS2EoFvShXuQE5Y1u+/+PCIOY="
+  },
+  "tender": {
+    "version": "2.0.2",
+    "t3_versions": [
+      9,
+      10
+    ],
+    "description": "tender management",
+    "hash": "sha256-EFVRmG205qT86LQbcDBUXze0uCU80ys0h56MKVV0RR4="
   },
   "ter": {
     "version": "2.0.8",
@@ -56199,12 +56570,13 @@
     "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
   },
   "tgm_copyright": {
-    "version": "3.2.0",
+    "version": "3.2.2",
     "t3_versions": [
+      10,
       11
     ],
     "description": "This extension will add a copyright field on every image palette and can show it below each image. All pictures with a copyright can be listed with a plugin. An Image Sitemap XML for Google of ALL used images can be generated by this extension.",
-    "hash": "sha256-HDRB/+T8miBYID5YF6y7CMtyexWx4fHwNw1f0zP5SXo="
+    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "tgm_customerservice": {
     "version": "1.0.1",
@@ -56662,10 +57034,10 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "tiktok": {
-    "version": "2.0.0",
+    "version": "2.0.1",
     "t3_versions": [],
     "description": "",
-    "hash": "sha256-5NqpZ94zk5PBXFoIoLDfKxHbLMZdF4gPWuTsdJOtloA="
+    "hash": "sha256-TSggKrGQW5Dv03PxsXoyU2SyJbihbE1/pks9kJsgweA="
   },
   "tile": {
     "version": "0.9.5",
@@ -56674,6 +57046,15 @@
       9
     ],
     "description": "E-commerce ticketing solution for organisers and theaters. Site plans with seats, surfaces or any other object. With GUI. Sell tickets online!",
+    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "tile_proxy": {
+    "version": "1.1.8",
+    "t3_versions": [
+      11,
+      12
+    ],
+    "description": "With Tile Proxy you can integrate OpenStreetMap maps GDPR in a compliant way without any third party requests from the client. For a given area, the data is loaded from OpenStreetMap and cached, therefore you do not need a cookie banner or blocker to use OpenStreetMap cookie banner or blocker to use OpenStreetMap.\tA proxy is also provided for geocoding nominatim.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "timecollect": {
@@ -56715,12 +57096,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "timer": {
-    "version": "11.2.2",
+    "version": "12.0.0",
     "t3_versions": [
       11
     ],
     "description": "The extension allow the usage of periodical timer for files, content-elements, pages and own content-elements. It can be extended by own timing-definitions i.e. fullmoontimer. The extension provide a viewhelper and a sheduler for the controllking of timemanagement. It contain a simple modell for event-presentation.",
-    "hash": "sha256-JhdIaJ0/QRGSBYlzD6b7dBtwDSKUUyhTsaYYq/Elxl4="
+    "hash": "sha256-qiIApV6P88bXihdoE8W1cP3/qsZjy4ggopTUvaIjWcQ="
   },
   "timezones": {
     "version": "3.1.0",
@@ -56966,12 +57347,12 @@
     "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
   },
   "tinyurls": {
-    "version": "10.0.1",
+    "version": "12.1.0",
     "t3_versions": [
-      10
+      12
     ],
     "description": "This extensions allows you to cut down long URLs. It basically works like bitly or TinyURL.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-dzlfILy94bQU6vutwtwRAUNszHrLjD2dnIDW2vyz00s="
   },
   "tipafriend": {
     "version": "1.2.4",
@@ -57717,21 +58098,21 @@
     "hash": "sha256-uvLYZfQ0gOjezTT5s5DhCWTw1AGV4eo1o3w7LxbTjWQ="
   },
   "tobserver": {
-    "version": "3.0.2",
+    "version": "3.1.0",
     "t3_versions": [
       10,
       11
     ],
     "description": "Extension to send TYPO3 instance data to tObserver Monitoring Service",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-VgjERA3XSpwnr2EFBI+gLhd8P6VcRMCtlvLmDqkcQgU="
   },
   "toc": {
-    "version": "0.8.0",
+    "version": "0.9.0",
     "t3_versions": [
-      10
+      11
     ],
     "description": "Enables a Table of Contents (TOC) know from Websites like Wikipedia as a plugin for each page which has headlines.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-wUf3NhmkBG1YPQBZCZ85m3rM2jOvPH4sxxrCSCT3nYk="
   },
   "toc_macmade": {
     "version": "0.1.1",
@@ -58176,12 +58557,12 @@
     "hash": "sha256-BNgXT/XaxE7ArnrnrjouR7FBMMFTVYNUNIITm0MRQ38="
   },
   "translate_locallang": {
-    "version": "2.8.4",
+    "version": "2.8.5",
     "t3_versions": [
       11
     ],
     "description": "Backend Module for creating and editing of language files (locallang.xlf).",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-wiZFBvFTyaxetrg1r6lT1V7cyftyJ5XYgqiVcESMfH4="
   },
   "translatelabels": {
     "version": "2.2.1",
@@ -58351,6 +58732,15 @@
     "description": "Simple extension for displaying where a user actually is",
     "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
   },
+  "treehide": {
+    "version": "0.10.0",
+    "t3_versions": [
+      10,
+      11
+    ],
+    "description": "Adds context menu items to hide and unhide pages recursive",
+    "hash": "sha256-z1XTbQTNVlTwrpdWHXJXkam2eBCafCzO4ZQZguA7DqI="
+  },
   "trees": {
     "version": "0.1.0",
     "t3_versions": [],
@@ -58404,6 +58794,12 @@
     "version": "0.0.1",
     "t3_versions": [],
     "description": "A class to handle Paypal Functionality",
+    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "trix": {
+    "version": "12.0.3",
+    "t3_versions": [],
+    "description": "A Trix Rich Text Editor Integration for TYPO3 CMS",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "tro_yui_tabs": {
@@ -58590,14 +58986,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "tsconf": {
-    "version": "10.0.4",
+    "version": "11.0.0",
     "t3_versions": [
-      8,
-      9,
-      10
+      10,
+      11
     ],
     "description": "The Backend Simplifier offers the configuration of the eight most commonly used porperties for simplifying the TYPO3 backend by a mouse cklick. User interface is the extension manager. Enable pagetree uids, use TYPO3 icons or indvidual icons for the pagetree, activate the extended view and the clipboard and the admin panel for all users.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-+uNcOmbizKj3lbGKct06OAqK3F1wXdFa6tzF8SKEZIk="
   },
   "tsdisqus": {
     "version": "2.1.0",
@@ -58631,14 +59026,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "tslib_fetce": {
-    "version": "0.5.6",
+    "version": "0.6.1",
     "t3_versions": [
-      9,
-      10,
       11
     ],
     "description": "It brings the deprecated TYPO3 4.x class tslib_feTCE and the processScript FEData setup with new features partly back into TYPO3 10+. This is needed by extensions based on the former TYPO3 FORM like tt_board and tt_guest. Only form MAIL and form wizards additionally require code provided by the extension compatibility6.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-xElVuwaxJyKul/l1TYVhuo65/XFwqJBeFnsPyNrnU8w="
   },
   "tslib_patcher": {
     "version": "0.1.4",
@@ -58671,13 +59064,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "tsparser": {
-    "version": "0.10.0",
+    "version": "0.11.0",
     "t3_versions": [
-      10,
       11
     ],
     "description": "This extension adds more types to the Constants Editor. This is a patch for TYPO3.",
-    "hash": "sha256-jabICp2F9aAtzU04f1qHt/1Olzq7rnBM2wj2tGIuXJk="
+    "hash": "sha256-DKTgAqzV05ZDJmu49ECx9evH7baPyA40xm41ZU0jIOI="
   },
   "tstemplate_analyzer": {
     "version": "0.0.4",
@@ -58747,22 +59139,20 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "tt_address": {
-    "version": "7.0.0",
+    "version": "7.1.0",
     "t3_versions": [
       11
     ],
     "description": "Displays a list of addresses from an address table on the page.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-sSGgY1po2vITLI8uA+cRGKuTcd8omp6UXDoieML+YsQ="
   },
   "tt_board": {
-    "version": "1.11.5",
+    "version": "1.12.3",
     "t3_versions": [
-      9,
-      10,
       11
     ],
     "description": "Simple threaded (tree) or list message board (forum).",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-LWEovWZTFsnqLkfd9ADhMVUjurohRTF4fBKIU8wZ6Uw="
   },
   "tt_calender": {
     "version": "1.0.5",
@@ -58801,13 +59191,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "tt_products": {
-    "version": "2.14.12",
+    "version": "2.14.16",
     "t3_versions": [
       10,
       11
     ],
     "description": "Advanced versions at ttproducts.de. Documented in the E-Book \"Der TYPO3-Webshop\" - Shop with listing in multiple languages, with order tracking, product variants, support for transactor extension, bill, creditpoint and voucher system.",
-    "hash": "sha256-EC036JyWHYgmsHThnjX4TwaOZdxp/zQPncSkYYAJ0Uw="
+    "hash": "sha256-zdwUO+NbyFLSG8P3mBWiJj/NgyvDFabG6IJM2lXXuxA="
   },
   "tt_products_foundby": {
     "version": "0.1.4",
@@ -59539,6 +59929,22 @@
     "description": "DOMPDF wrapper for TYPO3",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "typo3_ai": {
+    "version": "1.1.1",
+    "t3_versions": [
+      11
+    ],
+    "description": "TYPO3 AI is extension which utilizes ChatGPT to accelerate the translation process in TYPO3 CMS by leveraging Artificial Intelligence powerful natural language processing capabilities.",
+    "hash": "sha256-v2OwGWzKTI4u5HdwFkL91nUdcDKJJHhAxnnAiHTxyHg="
+  },
+  "typo3_antispam": {
+    "version": "1.0.1",
+    "t3_versions": [
+      11
+    ],
+    "description": "CleanTalk adds anti-spam protection that is invisible to users, without the use of captcha/reCaptcha.",
+    "hash": "sha256-zVd2ZN5XYHFAC28ybtUVs316L38LGKPbhmr+uk5zXx4="
+  },
   "typo3_blog": {
     "version": "1.2.0",
     "t3_versions": [
@@ -59556,12 +59962,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "typo3_console": {
-    "version": "7.1.6",
+    "version": "8.0.2",
     "t3_versions": [
       11
     ],
     "description": "A reliable and powerful command line interface for TYPO3 CMS",
-    "hash": "sha256-M4eeZWJaIEZ6lWejsjAF17pg7shKwv7Y6z7GII6rwQg="
+    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "typo3_console_cleartempfiles": {
     "version": "1.0.0",
@@ -59578,6 +59984,14 @@
       8
     ],
     "description": "Utilizes the PHP Debugbar to provide information of the system health to the frontend.",
+    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "typo3_docchecklogin": {
+    "version": "1.0.1",
+    "t3_versions": [
+      11
+    ],
+    "description": "Integrate DocCheck Login with your Project",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "typo3_dummy_extension": {
@@ -59635,6 +60049,15 @@
     "version": "0.0.9",
     "t3_versions": [],
     "description": "Typo3 Last Test",
+    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "typo3_maileon_integration": {
+    "version": "3.1.0",
+    "t3_versions": [
+      11,
+      12
+    ],
+    "description": "Add double-opt-in newsletter subscription form connected with Maileon to your Typo3 sites",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "typo3_phone": {
@@ -59851,6 +60274,14 @@
     "description": "extension contains scheduler-task to update refindex of TYPO3",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "updatetrustedhostfromsites": {
+    "version": "1.1.0",
+    "t3_versions": [
+      11
+    ],
+    "description": "This extension will update the $GLOBALS['TYPO3_CONF_VARS']['SYS']['trustedHostsPattern'] based on the available Sites. Requires EXT:siteconfigurationevents",
+    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
   "uploadcare": {
     "version": "1.0.2",
     "t3_versions": [
@@ -60003,12 +60434,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "usertools": {
-    "version": "2.1.2",
+    "version": "2.2.1",
     "t3_versions": [
       11
     ],
-    "description": "Collection of user tools: ",
-    "hash": "sha256-t7BCNR8YySGNB6TPuzn7Z8ZNVnSnOft5Y60dJgpiUDc="
+    "description": "Collection of user tools:  ",
+    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "uuid": {
     "version": "0.2.2",
@@ -60116,13 +60547,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "varnish": {
-    "version": "5.0.2",
+    "version": "6.0.0",
     "t3_versions": [
-      10,
       11
     ],
-    "description": "Make your TYPO3 website blazing fast and stable for loads of simultaneous visitors. Seamless integration of TYPO3 cached pages into Varnish.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "description": "Seamless integration of TYPO3 cached pages into Varnish. Blazing fast response times for loads of simultaneous visitors.",
+    "hash": "sha256-+RRsXAUQwc2qhBeNAn59u2zAwNQDczrEwagmvYaN0oA="
   },
   "varnishcache": {
     "version": "3.0.0",
@@ -60487,20 +60917,16 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "video_shariff": {
-    "version": "2.0.2",
+    "version": "3.0.0",
     "t3_versions": [
-      10,
       11
     ],
     "description": "This extension provides more privacy when embedding videos in frontend.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-8ksUWzUbQLy0UVKLQzsGRaZpohaZvrxUo4iLvnuyrvc="
   },
   "video_validator": {
-    "version": "2.0.1",
-    "t3_versions": [
-      10,
-      11
-    ],
+    "version": "3.0.1",
+    "t3_versions": [],
     "description": "Checks online videos in TYPO3 for availability",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
@@ -60661,14 +61087,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "visitor_analytics": {
-    "version": "1.0.6",
+    "version": "1.0.8",
     "t3_versions": [
       7,
       8,
       9
     ],
-    "description": "Install an analytics tool that you’ll actually use!",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "description": "The Website Intelligence Platform. ",
+    "hash": "sha256-VzkpbebJ0IgXBHm5Pq0hnKRVLqYCVDeK6LmpdquWUHs="
   },
   "visitorlist": {
     "version": "0.2.0",
@@ -60682,6 +61108,12 @@
     ],
     "description": "Displays a list of FE users that have recently visited the site.",
     "hash": "sha256-jWR/gqSKGzy0yv3fdtX0Dp3GycnE25dhtg/sCI8t/hI="
+  },
+  "vite_asset_collector": {
+    "version": "1.0.0",
+    "t3_versions": [],
+    "description": "Use AssetCollector to embed frontend assets generated by vite",
+    "hash": "sha256-KyEbll2U9QtoXt7iRa/VGPyJ172vFsDp3wr3d9+IGKU="
   },
   "vjchat": {
     "version": "0.3.4",
@@ -60845,7 +61277,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "w4_cacheautoclear": {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "t3_versions": [
       11
     ],
@@ -60869,12 +61301,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "w4_cookiebar": {
-    "version": "1.0.1",
+    "version": "1.0.4",
     "t3_versions": [
       11
     ],
     "description": "W4 extension to provide a GDPR (DE: \"DSGVO\") cookie banner.",
-    "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
+    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "w4_ext_geolocator": {
     "version": "0.0.3",
@@ -61002,13 +61434,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "wacon_cookie_management": {
-    "version": "3.4.0",
+    "version": "3.5.0",
     "t3_versions": [
       10,
       11
     ],
     "description": "WCM is a typo3 extension that enables website visitors to control and manage the usage of cookies on the website (commonly known as \"cookie consent box\"). Thus it helps website owner to be in line with the rules of the General Data Protection Regulation (GDPR) which took effect on 25 May 2018.",
-    "hash": "sha256-wr77wr4Zs7yzy+aHtB5hTBrx1c1j8X4eDNtVNC+sBUU="
+    "hash": "sha256-1HPrbjV2sdFOWE0skz47fJJKynRfkTleuZwmNaaERPo="
   },
   "wacon_csv2html": {
     "version": "2.0.0",
@@ -61047,13 +61479,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "warming": {
-    "version": "0.4.8",
+    "version": "0.5.2",
     "t3_versions": [
       10,
       11
     ],
     "description": "Warms up Frontend caches based on an XML sitemap. Cache warmup can be triggered via TYPO3 backend or using a console command. Supports multiple languages and custom crawler implementations.",
-    "hash": "sha256-A7DUhPGM6/t+MlOgNeN9G/2cB5bMbUQAPCtiCNTPbE4="
+    "hash": "sha256-/u5jmO7oNv4sj7mn2U5Wm/z3gbgHOPJWXTt7v3nT3rI="
   },
   "warmup": {
     "version": "1.3.1",
@@ -61066,13 +61498,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "watchwords": {
-    "version": "2.0.2",
+    "version": "2.1.3",
     "t3_versions": [
-      10,
       11
     ],
     "description": "This extension adds a new content element which will get a new Christian Watchword (bible verse) every day.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-GhC7Fmo9lX2jw0oq3Ow8g9rpqjSYzyas+eaxRNK+3pI="
   },
   "way2enjoy": {
     "version": "1.3.5",
@@ -61250,13 +61681,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "weather2": {
-    "version": "4.0.1",
+    "version": "4.0.4",
     "t3_versions": [
       10,
       11
     ],
     "description": "Display weather forecasts and weather alerts using various Weather APIs. Default APIs: OpenWeatherMap and Deutscher Wetterdienst",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-7iRSm2aCq1d/eoUO1VbqsTg1OoEMW5E/m0PiKsQxm3k="
   },
   "weather_widget": {
     "version": "1.1.2",
@@ -61318,15 +61749,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "webcare": {
-    "version": "1.4.0",
+    "version": "2.0.0",
     "t3_versions": [
-      8,
-      9,
       10,
       11
     ],
     "description": "",
-    "hash": "sha256-F8CebZyybGosSN78ffPvEFT3iqTj79X5Aot+qnp7FNY="
+    "hash": "sha256-mjZ7Sn6TYSE+J1EQPwAQl0Y0SLY4BULMX/ESQSXblx4="
   },
   "webcon_ftptransfer": {
     "version": "1.0.0",
@@ -61380,21 +61809,16 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "webm": {
-    "version": "1.0.1",
-    "t3_versions": [
-      11
-    ],
+    "version": "2.1.0",
+    "t3_versions": [],
     "description": "Creates a WebM file for every configured (and supported) video format. Either via Symfony command or hook (can be configured).",
-    "hash": "sha256-N+69G2ovHTDCeg8w5o/pUbZm9ZK3E/ygSo4OFuWuImg="
+    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "webp": {
-    "version": "4.2.0",
-    "t3_versions": [
-      10,
-      11
-    ],
+    "version": "5.0.1",
+    "t3_versions": [],
     "description": "Creates WebP copies of all jpeg and png images",
-    "hash": "sha256-aNsXCTK/GH3GZ4OXOspSHMuhuezRb8zQzJ0vMbyqsT8="
+    "hash": "sha256-5z+SmliZzwX7uMjXr3mDruf7PsCyVMkdovzOobOrz70="
   },
   "webparser": {
     "version": "0.1.0",
@@ -61829,13 +62253,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "whatchado": {
-    "version": "1.1.3",
+    "version": "2.0.0",
     "t3_versions": [
-      10,
-      11
+      12
     ],
     "description": "Embed whatchado videos",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-TzT4QlFNHZjWMwdhb2IBDxTUclRc4U0OC6UTjxYuAEM="
   },
   "whatsnew": {
     "version": "0.0.3",
@@ -62259,6 +62682,14 @@
     "description": "",
     "hash": "sha256-omQ8We7b0N+TMD4lPCwwmDOo3lyLTtwFJJ26BD47FUQ="
   },
+  "wp_mailworkflow": {
+    "version": "1.0.0",
+    "t3_versions": [
+      11
+    ],
+    "description": "Create a set of mails with a timeline to send for each user",
+    "hash": "sha256-oSJd/T/OBREkXOaSw8YUz2p9Zif11EgmkfPPyQnXz3Y="
+  },
   "wp_origindetection": {
     "version": "1.1.0",
     "t3_versions": [
@@ -62432,10 +62863,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ws_scss": {
-    "version": "12.0.0",
-    "t3_versions": [],
+    "version": "12.0.2",
+    "t3_versions": [
+      12
+    ],
     "description": "Compiles scss files to CSS files.",
-    "hash": "sha256-vuvVke8DM+3a07NQnvKj0wQE9H/4R3gyxXZpgwkqsvw="
+    "hash": "sha256-qnsAKvdQllDWbCFpfRA6Q9xb/mlgci4RbVXMkLpomaw="
   },
   "ws_sitemap": {
     "version": "0.4.8",
@@ -62447,13 +62880,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ws_slider": {
-    "version": "0.9.12",
+    "version": "12.0.1",
     "t3_versions": [
-      10,
-      11
+      12
     ],
     "description": "Universal slider carousel for Owl slider, flexslider, ... ",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-Vs51BORFFQyRV05XE7bkjIfYS0UeuzUrUEELxc2d2vU="
   },
   "ws_stats": {
     "version": "0.2.0",
@@ -62507,6 +62939,15 @@
       10
     ],
     "description": "Provides access to the pagetree over Web Services",
+    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "wsm_form_spamshield": {
+    "version": "1.2.0",
+    "t3_versions": [
+      10,
+      11
+    ],
+    "description": "Adds a bot detection via JavaScript and a Validator to EXT:form, GDPR compliant without a captcha.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "wspowermail": {
@@ -62907,13 +63348,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "wv_deepltranslate": {
-    "version": "2.2.1",
+    "version": "3.0.4",
     "t3_versions": [
       9,
       10,
       11
     ],
-    "description": "Fork of deepltranslate from pitsolutions.This extension provides option to translate content element, and tca record texts to Deepl and Google supported languages.",
+    "description": "This extension provides option to translate content element, and TCA record texts to DeepL and Google supported languages.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "wv_file_cleanup": {
@@ -63078,14 +63519,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "xblog": {
-    "version": "10.0.0",
+    "version": "11.0.5",
     "t3_versions": [
-      8,
-      9,
-      10
+      10,
+      11
     ],
     "description": "Quickly assemble a TYPO3 frontend! Publish the data from the tables pages, tt_content and from any other database! No need to set up typoscript.",
-    "hash": "sha256-kUTMOW34IlIgMPfUeHROqzKL3ne5zxLgoERplNUxnBs="
+    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "xdbmysql": {
     "version": "3.0.18",
@@ -63211,6 +63651,16 @@
     "description": "Change the a name\"{$uid}\"/a to span id\"ce_{$uid}\"/span",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "xima_typo3_mailcatcher": {
+    "version": "1.1.0",
+    "t3_versions": [
+      10,
+      11,
+      12
+    ],
+    "description": "Display mails that were send to log file",
+    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
   "xing": {
     "version": "1.0.3",
     "t3_versions": [
@@ -63253,7 +63703,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "xlsexport": {
-    "version": "3.0.5",
+    "version": "3.1.2",
     "t3_versions": [
       11
     ],
@@ -63261,23 +63711,22 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "xlsimport": {
-    "version": "3.0.0",
+    "version": "4.0.0",
     "t3_versions": [
-      10,
       11
     ],
     "description": "A simple importer to import data into the database",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-Kpyan/ZpzmlmlxSO7aYW7U15JoohJr1EnkBTLV4iHLc="
   },
   "xm_formcycle": {
-    "version": "8.0.0",
+    "version": "8.0.1",
     "t3_versions": [
       9,
       10,
       11
     ],
     "description": "form management with professional form designer, process management, inbox and more features.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-BAzZqjBNdVPpyRdcWngKT+K0fhOYDXdZn6ItjTyJ+IY="
   },
   "xm_goaccess": {
     "version": "11.0.2",
@@ -63660,13 +64109,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "yawave_publications": {
-    "version": "2.4.3",
+    "version": "2.4.8",
     "t3_versions": [
       10,
       11
     ],
     "description": "Publish your yawave publication into typo3",
-    "hash": "sha256-mT5rgyeO2RZMEHeKAp56CZphSDWTLB5yBLQkkaQS7PA="
+    "hash": "sha256-ZEJJTAE2ughJhcJcxOffs1GqJvQMpD3mm62sUVxzwFw="
   },
   "yejj_swfobject": {
     "version": "1.0.5",
@@ -63748,12 +64197,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "youtube_gdprembed": {
-    "version": "1.0.1",
+    "version": "2.0.1",
     "t3_versions": [
-      9
+      11
     ],
     "description": "User has to click before any content from youtube is loaded",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-oMr7/4MgGimpTGiCGnYMIIFK3grFEjMfHrpKCVJfVf8="
   },
   "youtube_playlist": {
     "version": "1.0.13",
@@ -63787,12 +64236,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "youtubevideo": {
-    "version": "2.2.3",
+    "version": "2.4.0",
     "t3_versions": [
       11
     ],
     "description": "YouTube videos with custom cover images, gallery layout, pagination, GDPR options and backend previews.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-wiTl2eq2g+qa6swEwFti6NT9zQNkhjNmQrJIrIlItBI="
   },
   "yuieditor": {
     "version": "0.0.5",
@@ -63852,13 +64301,10 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "z7_semantilizer": {
-    "version": "3.0.1",
-    "t3_versions": [
-      10,
-      11
-    ],
+    "version": "4.0.0",
+    "t3_versions": [],
     "description": "Simplify your semantic heading structure.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-PFFzCFrSDHgKQKU/JjoffcHr+7fgBQUs6dX0hJlXYOE="
   },
   "zabbix_client": {
     "version": "0.2.13",
