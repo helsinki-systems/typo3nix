@@ -22566,12 +22566,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "graphql3": {
-    "version": "1.6.0",
+    "version": "1.6.1",
     "t3_versions": [
-      11
+      11,
+      12
     ],
     "description": "A graphql extension for TYPO3",
-    "hash": "sha256-/m/1DE7E1xcfdjVMBVPlJ/nok/NSq5NDxldJSga9XXE="
+    "hash": "sha256-jtwXFZb9w4zWCjcfloMHLHZ/VPMllKUL3t0U+ZXI7O0="
   },
   "gravatar": {
     "version": "2.0.1",
