@@ -21100,12 +21100,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "frontend_editing": {
-    "version": "3.0.29",
+    "version": "3.1.1",
     "t3_versions": [
       11
     ],
     "description": "Enable editors to work with the content in the most intuitive way possible",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-y10O68mwpWM8dB/c9BIUz5J0hifrh1m0adjPk//wbAU="
   },
   "frontend_user": {
     "version": "1.1.1",
@@ -25761,14 +25761,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "interest": {
-    "version": "1.1.5",
+    "version": "1.2.0",
     "t3_versions": [
       9,
       10,
       11
     ],
     "description": "REST and CLI API for adding, updating, and deleting records in TYPO3. Tracks relations so records can be inserted in any order. Uses remote ID mapping so you don't have to keep track of what UID a record has gotten after import. Data is inserted using backend APIs as if a real human did it, so you can can inspect the record history and undo actions.",
-    "hash": "sha256-D8vLrvT3uUyGsYnrpRu3ql0K9/YxCttj0KAYVkX4H00="
+    "hash": "sha256-2XaMiEB0NeSJYay/3udkoT2HrN2YMA2m8H8+sjMyQxU="
   },
   "internal_notes": {
     "version": "1.2.0",
@@ -32656,12 +32656,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "media_processing": {
-    "version": "0.3.0",
+    "version": "0.3.1",
     "t3_versions": [
       12
     ],
     "description": "Integrates various image processing libraries and SaaS cloud services into TYPO3 by leveraging their APIs to process images.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-4UDa2tNBLiJDOBlE1lp+++4xnzG/GzP9a08LyZ1RUDU="
   },
   "media_upload": {
     "version": "2.0.0",
@@ -37281,10 +37281,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "news_tldr": {
-    "version": "1.0.0",
-    "t3_versions": [],
+    "version": "1.0.1",
+    "t3_versions": [
+      12
+    ],
     "description": "Creates a short summary for news via ChatGPT",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-MOofLHmYc2Tu4VH68RjonsVjwR8bCbDyWWdvxNsdbpU="
   },
   "news_ttnewsimport": {
     "version": "2.0.0",
@@ -44032,13 +44034,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "pxa_social_feed": {
-    "version": "3.1.10",
+    "version": "3.6.0",
     "t3_versions": [
       10,
       11
     ],
     "description": "Add Facebook, Instagram, and Twitter feeds to your site.",
-    "hash": "sha256-nEc6mD0iAiXGkZs/+M5KRTM4X8+oG7WcwtY53dTwZ+4="
+    "hash": "sha256-Rr6xX/Uhkqw955s5h7Su++I6HAi+lUO0AqA2Pe8E6zg="
   },
   "pxa_survey": {
     "version": "2.0.0",
@@ -48735,20 +48737,21 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sf_event_mgt": {
-    "version": "7.1.1",
+    "version": "7.1.2",
     "t3_versions": [
       12
     ],
     "description": "Configurable event management and registration extension based on ExtBase and Fluid",
-    "hash": "sha256-CmE56/xVCUGMaXZKpKlnRQwhoXr/NT02Zpep2ozSj4o="
+    "hash": "sha256-jcVgNv1brlC/q7KWYa15fzekmNUH1YevRz84Bf9+dhE="
   },
   "sf_event_mgt_indexer": {
-    "version": "3.0.2",
+    "version": "4.0.0",
     "t3_versions": [
-      11
+      11,
+      12
     ],
     "description": "Indexer for ke_search which indexed sf_event_mgt records",
-    "hash": "sha256-PEeekTR7HJUTR+yQCj+4cYMYZVAvlKmA2QdSAzGXgJE="
+    "hash": "sha256-FxErE2rDr4NzxqVDUosg4X7yLbiaUN9DdqTm3tt0vjw="
   },
   "sf_filecollection_gallery": {
     "version": "1.5.0",
