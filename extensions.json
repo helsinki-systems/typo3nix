@@ -3531,13 +3531,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "backendtools": {
-    "version": "4.3.1",
+    "version": "5.0.0",
     "t3_versions": [
-      10,
-      11
+      12
     ],
     "description": "8 admin tools: extension-list, recent pages & elements, backend layouts, redirects import & check, file-deletion, images with no alt or title and link-list.",
-    "hash": "sha256-33LlgYGBgb0mJQjy+J7jJxyxZ/iY4Bc/jcIEFf7gJ9A="
+    "hash": "sha256-jY1tJvYi3kN4Jn4A1FxSmsgoPiwWFsSViHgDfbmQm/E="
   },
   "backendwiki": {
     "version": "0.1.1",
@@ -17288,13 +17287,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ext_bibsonomy_csl": {
-    "version": "3.3.1",
+    "version": "3.3.2",
     "t3_versions": [
       10,
       11
     ],
     "description": "TYPO3 extension for PUMA and BibSonomy using CSL",
-    "hash": "sha256-W6mR7YRvljJww1R0nkGi+qMxPrfZaQSO6QzJlAbjLv8="
+    "hash": "sha256-+IOsLLEkea0NDWshBdUI9z7NlfklDIxIrHIvfDfvX4Y="
   },
   "ext_configuration": {
     "version": "1.0.3",
@@ -31364,13 +31363,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mail_css_inliner": {
-    "version": "3.0.1",
+    "version": "3.0.2",
     "t3_versions": [
       10,
       11
     ],
     "description": "Inlines CSS in all outgoing TYPO3 mails.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-qEnuXsTZVgqV14+LIuC6Qf+Lame68AdiueEYqeWLM8c="
   },
   "mail_logger": {
     "version": "3.0.8",
@@ -44033,13 +44032,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "pxa_social_feed": {
-    "version": "3.6.0",
+    "version": "3.6.2",
     "t3_versions": [
       10,
       11
     ],
     "description": "Add Facebook, Instagram, and Twitter feeds to your site.",
-    "hash": "sha256-Rr6xX/Uhkqw955s5h7Su++I6HAi+lUO0AqA2Pe8E6zg="
+    "hash": "sha256-6pbjEnhiFCVDZBu0vljl1rzXHaBHdTDgZt1Vweam/ho="
   },
   "pxa_survey": {
     "version": "2.0.0",
@@ -44131,13 +44130,13 @@
     "hash": "sha256-VVOKoOZ6wO2URPT/0Uet68iFY8yW/lbMyguTaipOKBA="
   },
   "qc_redirects": {
-    "version": "1.1.0",
+    "version": "1.1.1",
     "t3_versions": [
       10,
       11
     ],
     "description": "Extends Core's Redirects Module with a Title column, showing creation and modification date and more sorting and filtering options. Also add an import redirects functionality.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-+JDn4K36uh2U68FG9FKUJUJWKW435IWrmHDbPlNytAE="
   },
   "qc_references": {
     "version": "1.0.1",
@@ -48744,13 +48743,13 @@
     "hash": "sha256-jcVgNv1brlC/q7KWYa15fzekmNUH1YevRz84Bf9+dhE="
   },
   "sf_event_mgt_indexer": {
-    "version": "4.0.0",
+    "version": "4.0.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Indexer for ke_search which indexed sf_event_mgt records",
-    "hash": "sha256-FxErE2rDr4NzxqVDUosg4X7yLbiaUN9DdqTm3tt0vjw="
+    "hash": "sha256-DpxiEN0HGphIelYtuzYK5fbsOpWrJJfQx0iExiDtv+E="
   },
   "sf_filecollection_gallery": {
     "version": "1.5.0",
@@ -60108,14 +60107,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "typo3db_legacy": {
-    "version": "1.1.7",
+    "version": "1.2.0",
     "t3_versions": [
-      9,
       10,
-      11
+      11,
+      12
     ],
     "description": "Provides $GLOBALS['TYPO3_DB'] as backward compatibility with legacy functionality of extensions that are not yet fully migrated to doctrine.",
-    "hash": "sha256-CRok34cgrFwYMgD88Mvoq1BEV539++6J34zU50emw2Y="
+    "hash": "sha256-NanCXHkZRzi6ZxcND2pc4wctBp5MF3hRLYepBE11Sjs="
   },
   "typo3mind": {
     "version": "1.2.0",
@@ -61300,12 +61299,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "w4_communitynet": {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "t3_versions": [
       11
     ],
     "description": "W4 Basic Extension for CommunityNet websites.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-BxQXkaUfG1AzWsFmSfGS912DmiP3qnbUDISELkdY3S8="
   },
   "w4_cookiebar": {
     "version": "1.0.4",
@@ -61355,12 +61354,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "w4_organization_list": {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "t3_versions": [
       11
     ],
     "description": "W4 list of organizations.",
-    "hash": "sha256-akhsjGnQBFIgOGv/MeZSVEC1GzsI/IaUayvM8Z+h6ak="
+    "hash": "sha256-tFGHpD6cJaCsa9c2Pqy/AX3NyCx7LamZkJVRX3ZYeeM="
   },
   "w4_payrexx": {
     "version": "1.0.1",
