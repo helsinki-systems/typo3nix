@@ -9554,12 +9554,12 @@
     "hash": "sha256-Doy3Em095KM4cXmIcw0U63fvlG5K7Dpa4JPVKJmbff8="
   },
   "content_consent": {
-    "version": "1.0.2",
+    "version": "2.0.0",
     "t3_versions": [
-      11
+      12
     ],
     "description": "Provides a content consent plugin to load any content elements and custom plugins by ajax without jQuery! So you can include Google Maps or YouTube videos GDPR/DSGVO compliant. Best used with Bootstrap 5",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-vNZTcu/mSUd+GOShwUjpnPgz2tpFZpkua7zNft637VM="
   },
   "content_defender": {
     "version": "3.3.0",
@@ -20759,13 +20759,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "formlog": {
-    "version": "2.1.2",
+    "version": "2.2.0",
     "t3_versions": [
-      10,
-      11
+      11,
+      12
     ],
     "description": "Form log for TYPO3",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-y95saUZ4lb5x5sMBXDFptV35suN6XCDTiaKYXQFgOXw="
   },
   "formmaker": {
     "version": "1.3.8",
@@ -23997,13 +23997,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "humhub": {
-    "version": "12.4.4",
+    "version": "12.4.6",
     "t3_versions": [
       11,
       12
     ],
     "description": "Synchronization fe users from TYPO3 CMS into HumHub and sso to humhub",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-ke4+cwdeeiX9LcBJ5Cko7HP8nO+O9qVNrZzlntnsQ+k="
   },
   "hvk_sdschoolmgr": {
     "version": "0.0.0",
@@ -27357,13 +27357,13 @@
     "hash": "sha256-jxSbZTh7Vjb4WmXhg3RSZKMQxtYwEtZX9lxVOVAKoZM="
   },
   "jobrouter_base": {
-    "version": "1.3.0",
+    "version": "2.0.0",
     "t3_versions": [
-      10,
-      11
+      11,
+      12
     ],
     "description": "Base extension for the TYPO3 JobRouter® extensions",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-hPb56zzMBtXgaoV8qVbfHlvLm9rXcxstYZqYzfIPxMA="
   },
   "jobrouter_connector": {
     "version": "1.2.0",
@@ -27375,22 +27375,22 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "jobrouter_data": {
-    "version": "1.1.2",
+    "version": "2.0.0",
     "t3_versions": [
-      10,
-      11
+      11,
+      12
     ],
     "description": "Connect JobRouter® JobData tables with TYPO3",
-    "hash": "sha256-bUXERkIkkcBqi12nSi3tv1puni+EVFqcMfP4dCmYB0Y="
+    "hash": "sha256-Sw1+0g77+wyqcaecZJtxYpWCLxlyqgfudo9BTPc0mqY="
   },
   "jobrouter_process": {
-    "version": "1.2.0",
+    "version": "2.0.0",
     "t3_versions": [
-      10,
-      11
+      11,
+      12
     ],
     "description": "Connect JobRouter® processes with TYPO3",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-LhbQXrssfCtFDxrxbAoXzdmerLRGr4zyLjxCzdeXnMI="
   },
   "jobrouter_rss_widgets": {
     "version": "1.3.1",
@@ -31919,13 +31919,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mask": {
-    "version": "8.1.3",
+    "version": "8.1.5",
     "t3_versions": [
       11,
       12
     ],
     "description": "Create your own content elements and page templates. Easy to use, even without programming skills because of the comfortable drag and drop system. Stored in structured database tables. Style your frontend with Fluid tags. Ideal, if you want to switch from Templavoila.",
-    "hash": "sha256-MyWwrAJNZ2EfYXYK6/XFYTid95aPHzZih/pgyuefNQo="
+    "hash": "sha256-ie0D9BkHudDfbBTGGPJUFsMwpPlNpvmLlEMDEUUwwRI="
   },
   "mask_export": {
     "version": "4.0.2",
@@ -33753,13 +33753,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "miniorange_saml": {
-    "version": "2.0.1",
+    "version": "2.0.2",
     "t3_versions": [
       10,
       11
     ],
-    "description": "Miniorange Saml (SSO) provides SSO/Login to your TYPO3 site with any SAML compliant Identity Provider (ACTIVE SUPPORT for IdP config). It allows users residing at SAML 2.0 capable Identity Provider to login to your TYPO3 website. We support all known IdPs – Google Apps, ADFS, Azure AD, Okta, Salesforce, Shibboleth, SimpleSAMLphp, OpenAM, Centrify, Ping, RSA, IBM, Oracle, OneLogin, Bitium, WSO2, NetIQ etc.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "description": "Typo3 SAML Single Sign-On (SSO) extension allows your users to login to your Typo3 site by authenticating with their SAML 2.0 IdP (Identity Providers). \r",
+    "hash": "sha256-gBIihLYw7XsaIHq6udycAk8eTNXUYSnMF8DkNEZS9ww="
   },
   "miniredirect": {
     "version": "3.0.1",
@@ -38456,7 +38456,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ns_instagram": {
-    "version": "3.0.3",
+    "version": "3.0.4",
     "t3_versions": [
       8,
       9,
@@ -38464,7 +38464,7 @@
       11
     ],
     "description": "Plugin to display gallery, feeds and phototile with clean, customizable and responsive feeds from multiple Instagram accounts. Demo: https://demo.t3planet.com/t3t-extensions/ You can download PRO version for more-features & free-support at https://t3planet.com/typo3-instagram-extension",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-/gBQYME7s2M9q3CuWgaFhSs/qoiFIidxS4PKlGPD888="
   },
   "ns_langtmplsel": {
     "version": "0.0.3",
@@ -41713,12 +41713,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "personio_jobs": {
-    "version": "0.5.0",
+    "version": "0.5.1",
     "t3_versions": [
-      11
+      11,
+      12
     ],
     "description": "Extension to integrate jobs from Personio Recruiting API",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-4vJYtQ5/PR9/y9nOq29P2q/9CiAbi4qJ1bWaVqsN6d0="
   },
   "personnel": {
     "version": "3.8.2",
@@ -48976,14 +48977,15 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sg_cookie_optin": {
-    "version": "5.1.0",
+    "version": "5.2.1",
     "t3_versions": [
       9,
       10,
-      11
+      11,
+      12
     ],
     "description": "",
-    "hash": "sha256-BLOHNHS41GqFCMMV0tx9Np/3+JRmGTdTNu6TENCO0QY="
+    "hash": "sha256-SZxaRc5FO0F70pTx7uFNMnjBUTRs5VWrM2yhSgRwuhs="
   },
   "sg_cropscale": {
     "version": "0.5.0",
@@ -59965,12 +59967,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "typo3_console": {
-    "version": "8.0.2",
+    "version": "8.0.3",
     "t3_versions": [
-      11
+      11,
+      12
     ],
     "description": "A reliable and powerful command line interface for TYPO3 CMS",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-1tWjkK5c4F7LCH+eHYtHRaPZRq8qzAMMZvEpApaUrRY="
   },
   "typo3_console_cleartempfiles": {
     "version": "1.0.0",
@@ -60222,6 +60225,15 @@
     ],
     "description": "",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "umami": {
+    "version": "1.2.0",
+    "t3_versions": [
+      10,
+      11
+    ],
+    "description": "Umami Tracking for your TYPO3 site",
+    "hash": "sha256-1Y/IzOvHvzKkZtifd98qiHBiDH1EbW4IyJTlvulQbs4="
   },
   "uncache": {
     "version": "1.1.0",
@@ -60950,12 +60962,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "videos": {
-    "version": "11.0.1",
+    "version": "12.0.1",
     "t3_versions": [
-      11
+      12
     ],
-    "description": "Video player for playlists with cue points, preview image and subtitles",
-    "hash": "sha256-XNdyPbwAkn+itm2bY1PeQxpog1y1Ma+JFU6aU3rIG4M="
+    "description": "Extends video file properties and provides a player for playlists, cue points and subtitles",
+    "hash": "sha256-O0bBvjb2e1uq+iUR9AOnIB3DYGucF4R12PdLhvo4oD8="
   },
   "videoswitcher": {
     "version": "0.0.4",
