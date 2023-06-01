@@ -20600,13 +20600,13 @@
     "hash": "sha256-nRiD/AljE5SM/urU6qinnzjC0LkIpa+Ttwfx1vCt8RQ="
   },
   "form_translator": {
-    "version": "1.1.0",
+    "version": "2.0.1",
     "t3_versions": [
-      10,
-      11
+      11,
+      12
     ],
     "description": "Provides a backend module and cli for translating forms.",
-    "hash": "sha256-R/aXNgnLRuJa4tSGJ4lEal5lgOYOKXy5ek3bfeye1IA="
+    "hash": "sha256-sLtRND/xRCuTXfGUdMjj81O+Zp+zTF9OsFq/ZAIyhTE="
   },
   "form_typolink_checkbox": {
     "version": "1.0.1",
@@ -27366,13 +27366,13 @@
     "hash": "sha256-hPb56zzMBtXgaoV8qVbfHlvLm9rXcxstYZqYzfIPxMA="
   },
   "jobrouter_connector": {
-    "version": "1.2.0",
+    "version": "2.0.0",
     "t3_versions": [
-      10,
-      11
+      11,
+      12
     ],
     "description": "Connect TYPO3 with the JobRouter® digitalisation platform",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-3/RSNXCSIZ5sIh0jvAchhgQnJwT2OjrfZOIoPKD2sH4="
   },
   "jobrouter_data": {
     "version": "2.0.0",
@@ -32654,12 +32654,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "media_processing": {
-    "version": "0.3.2",
+    "version": "0.3.3",
     "t3_versions": [
       12
     ],
     "description": "Integrates various image processing libraries and SaaS cloud services into TYPO3 by leveraging their APIs to process images.",
-    "hash": "sha256-of0XIAE3nY4ZgEUaaFc/W2fY9YEeg1/dNEkHBjevMQI="
+    "hash": "sha256-ksvnOpPnjypJc3UgQtF7ZNmLprMz6JIcHyZKTBWpJl0="
   },
   "media_upload": {
     "version": "2.0.0",
@@ -37499,12 +37499,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "newsslider": {
-    "version": "5.1.0",
+    "version": "6.0.0",
     "t3_versions": [
-      11
+      12
     ],
-    "description": "jQuery and vanilla slider-plugins for versatile news extension (tx_news).",
-    "hash": "sha256-N2P8pX0i5yWh7izrZVSC8BzlA2vo0CpxkhDzC/SmslQ="
+    "description": "Slider Template-Layout for versatile news extension (tx_news).",
+    "hash": "sha256-iD9jAi+rq4UU0OlntNFmij+iMuJyobxEFLSzMmY+5ls="
   },
   "newsstylist": {
     "version": "2.0.3",
@@ -38918,12 +38918,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "oauth2_server": {
-    "version": "1.1.1",
+    "version": "1.3.0",
     "t3_versions": [
-      10
+      10,
+      11
     ],
     "description": "OAuth2 server for TYPO3 based on PHP League's OAuth2 Server.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-0pzTktp5/f+gWAxI+2VHYTTOG9tZdoDp3URho34EYpo="
   },
   "oauth_openid_single_sign_on": {
     "version": "1.0.3",
@@ -39601,12 +39602,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "oidc_server": {
-    "version": "1.0.0",
+    "version": "1.1.1",
     "t3_versions": [
-      10
+      10,
+      11
     ],
     "description": "OpenID Connect Server.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-K/P/DecwHkA4wPEkCss5SmiAM8xp8FtK8eNDQZB2ln4="
   },
   "ol_donationmeter": {
     "version": "1.1.1",
@@ -39886,6 +39888,16 @@
     "t3_versions": [],
     "description": "Displays Openads tags based on zones and selection string.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "openagenda": {
+    "version": "1.0.0",
+    "t3_versions": [
+      10,
+      11,
+      12
+    ],
+    "description": "Display calendars from https://openagenda.com on your site.",
+    "hash": "sha256-/6gNhIHtq9Hre8i+vaTHD99FGcYWQOTivFIsuOVHim8="
   },
   "opendigital_rss_reader": {
     "version": "0.2.0",
@@ -53427,10 +53439,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "store_finder": {
-    "version": "6.0.0",
-    "t3_versions": [],
+    "version": "7.0.2",
+    "t3_versions": [
+      12
+    ],
     "description": "Manage store locations, search by distance and show Google maps.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-NFRsOWYPvhiiKU6smOXPHhTLgfgpw22gY5S4IkflBBQ="
   },
   "store_hours": {
     "version": "0.1.1",
@@ -61027,12 +61041,13 @@
     "hash": "sha256-foPupJ9Gk873Gfj54Bep7o4H2CaV4tePPa+P6reWtfA="
   },
   "vimeovideo": {
-    "version": "0.8.0",
+    "version": "1.0.0",
     "t3_versions": [
-      10
+      11,
+      12
     ],
-    "description": "Easy to use Vimeo video content element. Pure CSS responsive template.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "description": "Vimeo videos with custom cover images, gallery layout, pagination, GDPR options, and backend previews.",
+    "hash": "sha256-BjpIoyyCgxPOnHZdCATwlhKltArJ9oRViS7rNb2HSVc="
   },
   "vinou_connector": {
     "version": "5.7.2",
