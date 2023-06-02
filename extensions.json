@@ -20502,14 +20502,14 @@
     "hash": "sha256-vP+ruB5DUBs2huaskvswR5pP7THiwRYwYwBVUnsHOWk="
   },
   "form_frontend_validation": {
-    "version": "1.1.2",
+    "version": "2.0.0",
     "t3_versions": [
-      9,
       10,
-      11
+      11,
+      12
     ],
     "description": "Frontend validation for the TYPO3 form framework.",
-    "hash": "sha256-fQYyj/QUleHMCxv0UiTgiArcaRQpvHj0rz76FybhwFs="
+    "hash": "sha256-PoWMNDjbG9aBDSo+hu0KyIEisY9tShAn9wUR7F4kn0c="
   },
   "form_legacy": {
     "version": "8.7.0",
@@ -23324,13 +23324,13 @@
     "hash": "sha256-/jR61A4Ct78lkWaI1fgVll8PuUruNlnBE2E98U97j/s="
   },
   "hh_video_extender": {
-    "version": "0.1.74",
+    "version": "0.2.1",
     "t3_versions": [
-      10,
-      11
+      11,
+      12
     ],
     "description": "Hauer-Heinrich - Extends sys_file_reference video/media. Added attributes to select in content element (eg textmedia) like: muted, loop, controls, previewImage and so on.",
-    "hash": "sha256-kVeiqOeTPo0/LVFQgBQ760RbvTWyODRgpyUoDiGjD0g="
+    "hash": "sha256-m2DRCD7SsLntjCCibae85Tq6ujBQ2xdavwEzId5y6io="
   },
   "hhcanonical": {
     "version": "1.0.0",
@@ -28604,13 +28604,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ke_search": {
-    "version": "5.0.0",
+    "version": "5.0.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Faceted fulltext search for TYPO3. Fast, flexible and easy to install and use. Indexes content directly from the databases. Features faceting / filtering, file indexing, images in result lists and respects access restrictions.",
-    "hash": "sha256-91SzxoCT1Liv521QeWEwOWLdJLC05MAmuPO2XLyL7w8="
+    "hash": "sha256-kp8+70UNDGT+iSHqsKKmb1/7CpOfHeKmXJFHelPhm+U="
   },
   "ke_search_dam_tags": {
     "version": "0.0.1",
@@ -43101,13 +43101,12 @@
     "hash": "sha256-KC5aZ+vCjR6VTPvBgzfgILjYaKNJn0YURA+V/rjvzb8="
   },
   "powermailcaptcha": {
-    "version": "1.1.0",
+    "version": "1.2.1",
     "t3_versions": [
-      10,
       11
     ],
     "description": "Captcha Extension for Powermail",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-lRhKwxjKXPJtqsXZMqAvfGnY7hKqtRPOs2crBj8Wdvw="
   },
   "powermailcustomcss": {
     "version": "1.1.0",
@@ -46187,14 +46186,15 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "rn_base": {
-    "version": "1.15.4",
+    "version": "1.16.12",
     "t3_versions": [
       8,
       9,
-      10
+      10,
+      11
     ],
     "description": "TYPO3 plugins based on rn_base can use MVC design principles and domain driven development. This extension also provides an abstraction layer for TYPO3 API to support LTS version since 6.2.",
-    "hash": "sha256-sCvMvAMaAH/bRyeL/ollH8jtwRhwQm5tiRejZPp+v+8="
+    "hash": "sha256-jorrYyDGrHQeY53NKUNenVkHpFul8LBDDXcvi7yReXw="
   },
   "rn_memento": {
     "version": "0.0.1",
@@ -48082,14 +48082,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "schema": {
-    "version": "2.8.0",
+    "version": "2.9.0",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "API and view helpers for schema.org markup",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-k3pAB/RPofLywB3SvcIwnjyVIOfNqctSsopHsOD3dtU="
   },
   "schema_auto": {
     "version": "1.3.0",
@@ -48139,14 +48139,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "schema_pending": {
-    "version": "1.4.0",
+    "version": "1.5.0",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Extend the schema extension with pending terms",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-YF+6rCCjRIv/jOFngxDQ0wJ6bylHyJq2+bqugNuFiqc="
   },
   "schema_virtuallocation": {
     "version": "1.3.0",
@@ -49432,14 +49432,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "shortcodes": {
-    "version": "1.5.0",
+    "version": "1.6.0",
     "t3_versions": [
       9,
       10,
       11
     ],
     "description": "Wordpress-style shortcodes for TYPO3",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-Jp+K8f9o1wrnWNMqVcMDsmUCab8h9mIkeT1RKWoGu+k="
   },
   "shortcut_redirect": {
     "version": "0.0.2",
