@@ -9432,14 +9432,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "consentmanager_v2": {
-    "version": "1.3.0",
+    "version": "1.4.0",
     "t3_versions": [
       9,
       10,
       11
     ],
     "description": "Consent Manager is a GDPR / CCPA consent management solution (SaaS, Software as a Service). In simple words a “cookie banner”. This tool allows to ask website visitors for consent and/or enable opt-out from data processing, cookies, sale of personal information and so on. This helps our clients to fulfil their legal requirements under GDPR, CCPA and other legislations.",
-    "hash": "sha256-1MtZoNP69ZEf1FMIg820iugrwQDYSyu0xxBNmQTBHCM="
+    "hash": "sha256-yc1ziSRm9x+jV46rod4O58zLnSFRU4B204UZ5z2Xjtw="
   },
   "constant_editor": {
     "version": "0.1.4",
@@ -48748,12 +48748,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sf_event_mgt": {
-    "version": "7.1.2",
+    "version": "7.1.3",
     "t3_versions": [
       12
     ],
     "description": "Configurable event management and registration extension based on ExtBase and Fluid",
-    "hash": "sha256-jcVgNv1brlC/q7KWYa15fzekmNUH1YevRz84Bf9+dhE="
+    "hash": "sha256-7R4YUTOY97lLdks97NYtnmUvcoyFX1sEU2Mr/qWiSHg="
   },
   "sf_event_mgt_indexer": {
     "version": "4.0.1",
