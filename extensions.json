@@ -1479,14 +1479,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ai_seo_helper": {
-    "version": "0.5.1",
+    "version": "0.5.2",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Generates SEO metadata based on page content using AI.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-XGvTDfIwchXZ0waO2dC1WXSH9tvqDH6Vnih/tMxOfwk="
   },
   "aimeos": {
     "version": "23.4.2",
@@ -43099,12 +43099,12 @@
     "hash": "sha256-KC5aZ+vCjR6VTPvBgzfgILjYaKNJn0YURA+V/rjvzb8="
   },
   "powermailcaptcha": {
-    "version": "1.2.1",
+    "version": "1.3.0",
     "t3_versions": [
       11
     ],
     "description": "Captcha Extension for Powermail",
-    "hash": "sha256-lRhKwxjKXPJtqsXZMqAvfGnY7hKqtRPOs2crBj8Wdvw="
+    "hash": "sha256-R0p48BuK4wX9MuJ6OHt5i/qD15wt0QNlopROjGhn7xE="
   },
   "powermailcustomcss": {
     "version": "1.1.0",
@@ -53437,12 +53437,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "store_finder": {
-    "version": "7.0.2",
+    "version": "7.0.7",
     "t3_versions": [
       12
     ],
     "description": "Manage store locations, search by distance and show Google maps.",
-    "hash": "sha256-NFRsOWYPvhiiKU6smOXPHhTLgfgpw22gY5S4IkflBBQ="
+    "hash": "sha256-5KdExGA8pCQXBmn1JfAZ+0XoKZl6+iuNXuN8vbaitrU="
   },
   "store_hours": {
     "version": "0.1.1",
@@ -53505,12 +53505,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "styleguide": {
-    "version": "11.5.4",
+    "version": "12.0.1",
     "t3_versions": [
-      11
+      12
     ],
     "description": "Presents most supported styles for TYPO3 backend modules. Mocks typography, tables, forms, buttons, flash messages and helpers. More at https://github.com/TYPO3/styleguide",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-hGJWxLtabGfrLMvHfbIHmk7vk+jwNSMy5Y+1r306ppI="
   },
   "stylestoinline": {
     "version": "1.0.1",
@@ -60557,7 +60557,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "vardumper": {
-    "version": "5.4.17",
+    "version": "5.4.24",
     "t3_versions": [
       8,
       9,
@@ -60565,7 +60565,7 @@
       11
     ],
     "description": "Symfony VarDumper",
-    "hash": "sha256-mcQdvBV3q9Lp4gPqQBlJeV9QxDb1mu5lS7w5ppZjE9I="
+    "hash": "sha256-DbZV4DvnVlcdQrHDD20ngX7x6rE/1R3Ld03ftCIqpOU="
   },
   "varfeform": {
     "version": "1.2.0",
