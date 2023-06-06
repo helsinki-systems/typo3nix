@@ -1043,14 +1043,14 @@
     "hash": "sha256-rhD2zMYsxN7IWIOIEGls2GjvGoOK3JD6WGnf3OlFlJw="
   },
   "addons_tt_products": {
-    "version": "0.9.1",
+    "version": "0.10.0",
     "t3_versions": [
-      9,
       10,
-      11
+      11,
+      12
     ],
     "description": "Many translations of standard texts for shops. Additional example templates and icons for the tt_products shop system version 2.14 and later.",
-    "hash": "sha256-7Q0e1fiB4D/W0YSAoFGnkr1Yeo/T5dtObG0+7OSomn8="
+    "hash": "sha256-Np6u1RrJQMOOdJA4PmasUzFnIaMUYLNZMkmwNkWifi4="
   },
   "address": {
     "version": "0.1.0",
@@ -13239,13 +13239,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "df_tabs": {
-    "version": "8.1.1",
+    "version": "8.1.4",
     "t3_versions": [
       10,
       11
     ],
     "description": "Create tab based content elements and pages easily and flexible with configurable mouseover handling, animations and autoplay features! It requires jquery.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-qsL8xR+sRZJUWVBmhqNFdtSGqzDaRbf0T9TNh7zeKio="
   },
   "df_titleclass": {
     "version": "0.0.2",
@@ -22736,10 +22736,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "gridtocontainer": {
-    "version": "12.0.6",
-    "t3_versions": [],
+    "version": "12.0.8",
+    "t3_versions": [
+      12
+    ],
     "description": "EXT:gridtocontainer is a small migration extension with backend module for those who want to switch from EXT:gridelements to EXT:container.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-eBWFHmFkQcU6r2NMzw5WbYU75QdCAI/UbBarcI3ToM4="
   },
   "group_mngr": {
     "version": "0.1.0",
@@ -24918,14 +24920,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "image_copyright": {
-    "version": "12.4.1",
+    "version": "12.4.5",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Image based copyrights",
-    "hash": "sha256-xaW7DsL4kyvrMlz7xkXS5896OJY1GOgWq1+6L2ilTN4="
+    "hash": "sha256-SElhCL0qCYTthngP0AeijWEOfDEsZglVm6ZOcuYSJmI="
   },
   "image_crop": {
     "version": "1.3.1",
@@ -27956,13 +27958,15 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "justincase": {
-    "version": "1.1.0",
+    "version": "1.3.0",
     "t3_versions": [
       9,
-      10
+      10,
+      11,
+      12
     ],
     "description": "With incoming URLs, it does not matter if they are upper/lowercase, they just work.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-+XWxOJgDQ7RAmGedXOZaNdVurohHkugE72i9gR3jv7k="
   },
   "jv_add2group": {
     "version": "11.5.12",
@@ -33671,13 +33675,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mindshape_cookie_consent": {
-    "version": "2.2.5",
+    "version": "3.0.0",
     "t3_versions": [
-      10,
-      11
+      11,
+      12
     ],
     "description": "This extension provides functionality to create  a customizable cookie consent for your website. It is developed for flexibility to be customized in accordance to your data security guidelines.",
-    "hash": "sha256-t977yeoBFLHCv1hB4PEbzqzbiL2BReY7CJc3wV0QWmo="
+    "hash": "sha256-GFKtazepy/kBeccNkVvUIoDF55nlOIwpxRNe1XUKEgQ="
   },
   "mindshape_cookie_hint": {
     "version": "1.1.0",
@@ -33959,13 +33963,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mkforms": {
-    "version": "10.1.4",
+    "version": "11.0.7",
     "t3_versions": [
-      9,
-      10
+      10,
+      11
     ],
     "description": "Making HTML forms for TYPO3",
-    "hash": "sha256-OC0HjNJ1AMZzPL4z+FUfKofBrg2hnYT81zCCr3iqnms="
+    "hash": "sha256-mN13xdkYDaZvK+NtorpS19GBbsLpWspW4/6WYIKAkMU="
   },
   "mkit_wetter": {
     "version": "1.1.0",
@@ -48080,14 +48084,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "schema": {
-    "version": "2.9.0",
+    "version": "2.9.1",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "API and view helpers for schema.org markup",
-    "hash": "sha256-k3pAB/RPofLywB3SvcIwnjyVIOfNqctSsopHsOD3dtU="
+    "hash": "sha256-DfxM/pCYudbUxdttghG8yiqgXKJoGBHtvscQGHOhHYI="
   },
   "schema_auto": {
     "version": "1.3.0",
@@ -52123,13 +52127,13 @@
     "hash": "sha256-No1JK3KFYUaqRS+mR2FRmLw40WGYz4eLCKQ7BFq8Ha0="
   },
   "spreadsheets": {
-    "version": "3.3.0",
+    "version": "4.0.0",
     "t3_versions": [
-      10,
-      11
+      11,
+      12
     ],
     "description": "Extension to add field definition and plugin to show and select information from spreadsheets",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-t/GgTXMjpA5rKylnVaU/J++yHpdxk1INrgv2tyUQ6AA="
   },
   "spreadshop": {
     "version": "1.0.2",
@@ -61465,13 +61469,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "wacon_cookie_management": {
-    "version": "3.5.0",
+    "version": "4.0.1",
     "t3_versions": [
-      10,
-      11
+      11,
+      12
     ],
     "description": "WCM is a typo3 extension that enables website visitors to control and manage the usage of cookies on the website (commonly known as \"cookie consent box\"). Thus it helps website owner to be in line with the rules of the General Data Protection Regulation (GDPR) which took effect on 25 May 2018.",
-    "hash": "sha256-1HPrbjV2sdFOWE0skz47fJJKynRfkTleuZwmNaaERPo="
+    "hash": "sha256-MmHtxDFXtiiycG77gZCXV6a7rUGa/TdWoYj2T+We1zw="
   },
   "wacon_csv2html": {
     "version": "2.0.0",
