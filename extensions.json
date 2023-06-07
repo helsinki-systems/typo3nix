@@ -23803,12 +23803,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "html5mediakit": {
-    "version": "11.0.0",
+    "version": "12.0.0",
     "t3_versions": [
-      11
+      12
     ],
     "description": "Allows easy embedding of HTML5 video and audio elements.",
-    "hash": "sha256-VlPOd/ZaStPcJ0gC0eGMnMOr4JURTR20CLNnXUxApmo="
+    "hash": "sha256-o/WibdAEPDrk1816vOV70hFBEKl6uTI3qN7pb6768sM="
   },
   "html5meta_t3lib_pagerenderer": {
     "version": "0.1.0",
@@ -24920,14 +24920,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "image_copyright": {
-    "version": "12.4.5",
+    "version": "12.5.1",
     "t3_versions": [
-      10,
       11,
       12
     ],
     "description": "Image based copyrights",
-    "hash": "sha256-SElhCL0qCYTthngP0AeijWEOfDEsZglVm6ZOcuYSJmI="
+    "hash": "sha256-aMxHoma6VoKqAhizWEuAPu3oXt3G+GCd/gQdCfEuh8s="
   },
   "image_crop": {
     "version": "1.3.1",
@@ -38381,14 +38380,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ns_friendlycaptcha": {
-    "version": "1.3.0",
+    "version": "1.3.2",
     "t3_versions": [
       9,
       10,
       11
     ],
     "description": "Integrate official friendlycaptcha.com (Europe's most leading Captcha solution) to the TYPO3 core EXT:form extension. Live Demo: https://demo.t3planet.com/t3t-extensions/friendly-captcha Premium Support: https://t3planet.com/typo3-friendly-captcha-extension",
-    "hash": "sha256-/+2tCW1lG7skZ8kdI2/1HCXJIvpk02oEGJRkdywidqQ="
+    "hash": "sha256-lFJg+JRjKK0c2hNndicwBvFuH8QUCo5rNUPI6A200CA="
   },
   "ns_gallery": {
     "version": "2.1.1",
@@ -41727,13 +41726,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "personio_jobs": {
-    "version": "0.5.1",
+    "version": "0.5.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "Extension to integrate jobs from Personio Recruiting API",
-    "hash": "sha256-4vJYtQ5/PR9/y9nOq29P2q/9CiAbi4qJ1bWaVqsN6d0="
+    "hash": "sha256-fJjJaYJ8Z484FpxH82+84cgZSd2UyR2ZnfaGsm6LiFo="
   },
   "personnel": {
     "version": "3.8.2",
@@ -44046,13 +44045,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "pxa_social_feed": {
-    "version": "3.6.2",
+    "version": "3.7.0",
     "t3_versions": [
       10,
       11
     ],
     "description": "Add Facebook, Instagram, and Twitter feeds to your site.",
-    "hash": "sha256-6pbjEnhiFCVDZBu0vljl1rzXHaBHdTDgZt1Vweam/ho="
+    "hash": "sha256-A9gUjvAKlS1ZGpcHGNWEMMvqGBPyWC+k9jjBnLOmb7s="
   },
   "pxa_survey": {
     "version": "2.0.0",
@@ -51799,13 +51798,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "solver": {
-    "version": "0.2.3",
+    "version": "0.2.4",
     "t3_versions": [
       11,
       12
     ],
     "description": "Extends TYPO3's exception handling with AI generated solutions. Problems can also be solved from command line. Several OpenAI parameters are configurable and prompts and solution providers can be customized as desired.",
-    "hash": "sha256-6TQqjE81Z9HMUqVH+U9RFx4wPU8pxk2qirGf98MDTrU="
+    "hash": "sha256-bFBhcKU8VyEvAIsqdMg7+oMzQkH9sZpD8AKlZa7XlJE="
   },
   "sorp": {
     "version": "0.1.0",
@@ -52823,12 +52822,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "static_info_tables": {
-    "version": "11.5.3",
+    "version": "11.5.4",
     "t3_versions": [
       11
     ],
     "description": "Data and API for countries, languages and currencies for use in TYPO3 CMS.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-8U8GHvMd5md8y7+7IX8Rt2RJxZb8x+F8XIh6Q0BFTKc="
   },
   "static_info_tables_airports": {
     "version": "0.1.0",
@@ -59160,12 +59159,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "tt_address": {
-    "version": "7.1.0",
+    "version": "8.0.0",
     "t3_versions": [
-      11
+      11,
+      12
     ],
     "description": "Displays a list of addresses from an address table on the page.",
-    "hash": "sha256-sSGgY1po2vITLI8uA+cRGKuTcd8omp6UXDoieML+YsQ="
+    "hash": "sha256-R+hGLa+hDZ+jCD1nx4/G+FSau0a7Ey+/r21puE0D//0="
   },
   "tt_board": {
     "version": "1.12.3",
@@ -62898,12 +62898,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ws_scss": {
-    "version": "12.0.2",
+    "version": "12.0.3",
     "t3_versions": [
       12
     ],
     "description": "Compiles scss files to CSS files.",
-    "hash": "sha256-qnsAKvdQllDWbCFpfRA6Q9xb/mlgci4RbVXMkLpomaw="
+    "hash": "sha256-39bHwM8TwixL8G5qQowfwQCXr+L1+Ua+1Y1lD8Om58I="
   },
   "ws_sitemap": {
     "version": "0.4.8",
