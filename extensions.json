@@ -19699,13 +19699,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fluid_components": {
-    "version": "3.5.1",
+    "version": "3.6.0",
     "t3_versions": [
-      10,
-      11
+      11,
+      12
     ],
     "description": "Encapsulated frontend components with Fluid's ViewHelper syntax",
-    "hash": "sha256-U5nNSQ7zoej+QhwU6jYLfjM/Zi39BIHJsmq5soXuzx4="
+    "hash": "sha256-VkQ+oJGg/0UhQd+gQ5Bw+lZAcdzQjdKIyjOXbKWZGpE="
   },
   "fluid_contentelements": {
     "version": "1.0.0",
@@ -31920,13 +31920,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mask": {
-    "version": "8.1.5",
+    "version": "8.1.6",
     "t3_versions": [
       11,
       12
     ],
     "description": "Create your own content elements and page templates. Easy to use, even without programming skills because of the comfortable drag and drop system. Stored in structured database tables. Style your frontend with Fluid tags. Ideal, if you want to switch from Templavoila.",
-    "hash": "sha256-ie0D9BkHudDfbBTGGPJUFsMwpPlNpvmLlEMDEUUwwRI="
+    "hash": "sha256-qWhJ7KENwh4hK1mAP2W76fP4hVd8JXkDUdshicX3Fzs="
   },
   "mask_export": {
     "version": "4.0.2",
@@ -38928,7 +38928,7 @@
     "hash": "sha256-0pzTktp5/f+gWAxI+2VHYTTOG9tZdoDp3URho34EYpo="
   },
   "oauth_openid_single_sign_on": {
-    "version": "1.0.3",
+    "version": "1.0.4",
     "t3_versions": [
       8,
       9,
@@ -38936,7 +38936,7 @@
       11
     ],
     "description": "Typo3 OAuth / OpenID Connect Single Sign-On SSO extension by miniOrange allows login (Single Sign-On) into Typo3 with Azure AD, Azure B2C, AWS Cognito, Office 365, WSO2, Okta, Salesforce, Discord, Keycloak, Amazon, Twitch, LinkedIn, Invision Community, Slack, Discord, PingFederate, OneLogin or other custom OAuth 2.0 providers. Typo3 OAuth / OIDC extension can be used for authorization and authentication purposes with any OAuth / OIDC Provider that conforms to the OAuth 2.0 and OpenID Connect (OIDC) standards.\r",
-    "hash": "sha256-6B+nLufFIZ8Ef0Abzfx5b/ynW0A9Qi6P3IedRsoaEF8="
+    "hash": "sha256-J9CadQUffRa6WcCMmGai4yDU2uhIjDg/dryph1ZJUV4="
   },
   "objmgr": {
     "version": "1.0.0",
@@ -58500,17 +58500,24 @@
     "description": "By default when doing translation and coping default content element to new language (i.e. localization on copy) EMPTY headers and bodytexts are filled with [Translate to xx]. This extension allow to prevent that.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
-  "transactor": {
-    "version": "0.9.2",
+  "transactional_data_handler": {
+    "version": "1.0.0",
     "t3_versions": [
-      7,
-      8,
-      9,
+      11,
+      12
+    ],
+    "description": "Wrap TYPO3 CMS DataHandler processing inside database transaction",
+    "hash": "sha256-WS/PMoXSVuKI7RQw6Ga/CJXVDaT6na2DVI7xjx770HI="
+  },
+  "transactor": {
+    "version": "0.10.1",
+    "t3_versions": [
       10,
-      11
+      11,
+      12
     ],
     "description": "This is a basic API to develop extensions which connect to different payment transaction gateways.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-e0290ZseJRziszIQCQrKmkcL4DaypkNbLaGk7Wt9MAw="
   },
   "transactor_concardis": {
     "version": "0.2.0",
