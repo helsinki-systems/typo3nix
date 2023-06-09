@@ -10775,10 +10775,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cs_seo": {
-    "version": "8.0.0",
-    "t3_versions": [],
+    "version": "8.1.0",
+    "t3_versions": [
+      12
+    ],
     "description": "SEO Extension: Enables important onpage features for search engine optimization (SEO). Expands",
-    "hash": "sha256-LLhZIT0sqEZRul4ogN3RflHMcQRKN0o9pKbfedeCUw8="
+    "hash": "sha256-Isg2oW2cu34ZRj1MZtYrywMWvmuE0jU0IZk9FDKElIo="
   },
   "cs_static_hide": {
     "version": "1.0.1",
@@ -16139,6 +16141,15 @@
     ],
     "description": "EdgeCDN is a plugin that allows edge clients to clear their browser cache from the TYPO3 Backend.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "edia_readability": {
+    "version": "0.1.0",
+    "t3_versions": [
+      10,
+      11
+    ],
+    "description": "Analyze text using Edia readability scanner API",
+    "hash": "sha256-/QyLQsNolADKW9spOTVzZ0IZW4vcwRvCH/l0dMaiK7o="
   },
   "edit_iac_mailformplus_hook": {
     "version": "1.0.2",
@@ -27239,14 +27250,15 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "jn_lighterbox": {
-    "version": "1.2.7",
+    "version": "1.2.8",
     "t3_versions": [
       9,
       10,
-      11
+      11,
+      12
     ],
     "description": "A very lightweight Lightbox extension for click-enlarging content element images using lightbox2 or any other library of your choice.",
-    "hash": "sha256-z4ASci/qExz5U5uEiv3Ro5GVEGEHpsGVVdxPX4e5zEw="
+    "hash": "sha256-yX0DZUgbxiaXuwOERrh7XDc35JInq0d3f72o7g3C4ac="
   },
   "jn_phpcontentelement": {
     "version": "1.2.1",
@@ -32235,12 +32247,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mbox": {
-    "version": "1.0.0",
+    "version": "2.0.0",
     "t3_versions": [
-      11
+      11,
+      12
     ],
     "description": "TYPO3 CMS backend module to view mbox file contents, like an email client.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-dhh0qB3qSyTpeFonp3tgNmpPrZb3/3L+tYTyMDUgRXA="
   },
   "mbox_userimport": {
     "version": "0.0.1",
@@ -59166,13 +59179,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "tt_address": {
-    "version": "8.0.0",
+    "version": "8.0.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Displays a list of addresses from an address table on the page.",
-    "hash": "sha256-R+hGLa+hDZ+jCD1nx4/G+FSau0a7Ey+/r21puE0D//0="
+    "hash": "sha256-udl+wmwghQAn/h/tYmjt8otT8KICsBOHMF+9Ksf6wPU="
   },
   "tt_board": {
     "version": "1.12.3",
