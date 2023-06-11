@@ -5164,12 +5164,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "brofix": {
-    "version": "4.3.1",
+    "version": "4.4.1",
     "t3_versions": [
       11
     ],
     "description": "Check for broken links and fix them via a backend module (forked from core linkvalidator)",
-    "hash": "sha256-H/eL7GYMpAMbtbScpxoiklXEl9EhWQ2nte8u9mQgOxk="
+    "hash": "sha256-kOQB8rKDktDkNpJVHB7ZPkzbH469hib7xl0KNYJ6SNA="
   },
   "browser": {
     "version": "10.0.3",
@@ -10137,6 +10137,14 @@
     ],
     "description": "Run upgrade wizards for multiple TYPO3 versions at once",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "core_upgrader2": {
+    "version": "12.0.0",
+    "t3_versions": [
+      12
+    ],
+    "description": "Run upgrade wizards for multiple TYPO3 versions at once",
+    "hash": "sha256-l+2LnAjrG74bh0SXFKX98sJKco15LNZcwnTzTaioDqQ="
   },
   "coreapi": {
     "version": "1.3.0",
