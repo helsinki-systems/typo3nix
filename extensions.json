@@ -20937,13 +20937,12 @@
     "hash": "sha256-XPHuPwMoM3WTEcxnGMcduX+TLlfTVKlDo24WFbZQk2k="
   },
   "fp_newsletter": {
-    "version": "4.1.0",
+    "version": "5.0.2",
     "t3_versions": [
-      10,
-      11
+      12
     ],
     "description": "Plugin for newsletter subscription and unsubscription with double opt in (and double opt out). For: direct_mail or luxletter / tt_address or fe_users. A log is written.",
-    "hash": "sha256-0MZwBevNGoD0/OTzbHiiAx4gL6y6JUzLFunXZwVUMxM="
+    "hash": "sha256-wHR65EsAuFOQ4wbGkmnsmF+ikjaUO75w6jueOypkYoo="
   },
   "fp_product_features": {
     "version": "0.2.0",
@@ -23232,12 +23231,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "headless_gridelements": {
-    "version": "2.1.0",
+    "version": "3.0.0",
     "t3_versions": [
-      10
+      11
     ],
     "description": "Grid Elements json output for EXT:headless",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-iVJ1lCiB2stj/zaDv6lD0ESTqxPt2pHTwsi9XzaMNM0="
   },
   "heatmap_pro": {
     "version": "0.1.1",
@@ -25911,12 +25910,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ipandlanguageredirect": {
-    "version": "5.1.0",
+    "version": "5.1.2",
     "t3_versions": [
       11
     ],
     "description": "TYPO3 extension to redirect a user based on location and browser language.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-ngSeW8m5pkWLe3NomEg/QgL++aGRbIAREPB5T03SBQ0="
   },
   "ipayment": {
     "version": "0.0.1",
@@ -31940,13 +31939,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mask": {
-    "version": "8.1.6",
+    "version": "8.2.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Create your own content elements and page templates. Easy to use, even without programming skills because of the comfortable drag and drop system. Stored in structured database tables. Style your frontend with Fluid tags. Ideal, if you want to switch from Templavoila.",
-    "hash": "sha256-qWhJ7KENwh4hK1mAP2W76fP4hVd8JXkDUdshicX3Fzs="
+    "hash": "sha256-oM55t7l6fK7XfccyvfPkm7NJQUnxhhABnzHPrcBi2xM="
   },
   "mask_export": {
     "version": "4.0.2",
@@ -34612,13 +34611,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "module_data_listing": {
-    "version": "0.6.0",
+    "version": "1.0.0",
     "t3_versions": [
-      9,
-      10
+      11
     ],
     "description": "Filterable, searchable and sortable datatables for the TYPO3 backend. Fe_users comes as default.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-QsqXRZxkvXzC0H/uAcXLLO2Ppw/h7HCRGVgFzUelPDI="
   },
   "modules": {
     "version": "5.6.0",
@@ -40404,12 +40402,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "page_callouts": {
-    "version": "3.0.0",
+    "version": "3.0.1",
     "t3_versions": [
       11
     ],
     "description": "Add callouts to page module in TYPO3 backend",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-QJHzapbNSUsYEjQS6joY1EeGFKUpb2N1LZRhUXfjPHI="
   },
   "page_creator": {
     "version": "1.0.1",
@@ -45515,13 +45513,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "restler": {
-    "version": "11.0.3",
+    "version": "11.0.4",
     "t3_versions": [
-      10,
       11
     ],
     "description": "This extension integrates the REST-API-framework \"restler\" in TYPO3",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-mTVz8eiWMhCF2/rw60w5SRygm1l+Qf623fVcJ3AKd94="
   },
   "restler_examples": {
     "version": "10.1.1",
@@ -51732,12 +51729,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "solr": {
-    "version": "11.5.2",
+    "version": "11.5.3",
     "t3_versions": [
       11
     ],
     "description": "Apache Solr for TYPO3 is the enterprise search server you were looking for with special features such as Faceted Search or Synonym Support and incredibly fast response times of results within milliseconds.",
-    "hash": "sha256-tQrd8pWFUrd6RYWlr6tLngbfGi5VsSsXe3rkQyrCYXY="
+    "hash": "sha256-QuseHcqCLDAFlDnHiWu4v7edBEKpSq/3tJKePHe35fU="
   },
   "solr_boutique": {
     "version": "1.0.0",
@@ -53461,12 +53458,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "store_finder": {
-    "version": "7.0.7",
+    "version": "7.0.8",
     "t3_versions": [
       12
     ],
     "description": "Manage store locations, search by distance and show Google maps.",
-    "hash": "sha256-5KdExGA8pCQXBmn1JfAZ+0XoKZl6+iuNXuN8vbaitrU="
+    "hash": "sha256-fdJZ2e18B3q/jZpV+NckLtSXqV1N5M4SxmQqg75m5NM="
   },
   "store_hours": {
     "version": "0.1.1",
@@ -54765,6 +54762,14 @@
     "t3_versions": [],
     "description": "",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "t3maker": {
+    "version": "0.0.1",
+    "t3_versions": [
+      11
+    ],
+    "description": "TYPO3 Maker helps you create empty tca, models and more so you can forget about writing boilerplate code.",
+    "hash": "sha256-xHRjmeVqOxRBz0uP0fDIDRK7BwRUs7w21NQ7NkbdrAI="
   },
   "t3manager": {
     "version": "2.6.0",
@@ -64235,14 +64240,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "yoast_seo": {
-    "version": "8.3.1",
+    "version": "9.0.0",
     "t3_versions": [
-      9,
       10,
-      11
+      11,
+      12
     ],
     "description": "Optimise your website for search engines with Yoast SEO for TYPO3. With this extension you get all the technical SEO stuff you need and will help editors to write high quality content.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-omWj1Eumnx7hrSV3U8MvqL8PYqFE80eZvahCkqS98No="
   },
   "yoo_blockimage": {
     "version": "1.0.0",
