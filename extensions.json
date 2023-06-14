@@ -2393,13 +2393,13 @@
     "hash": "sha256-cp8ketccIrkv+g3FtK4J/JTZa/5bClKVRgploTOYADg="
   },
   "aoe_dbsequenzer": {
-    "version": "10.0.0",
+    "version": "10.0.1",
     "t3_versions": [
       10,
       11
     ],
     "description": "With this extension you can ensure different unique keys for the configured tables",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-8K9+On8MHIZSpbsS1kwjVxShwpCdUePPY2S1U0XDMCU="
   },
   "aoe_ipauth": {
     "version": "3.0.0",
@@ -5164,12 +5164,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "brofix": {
-    "version": "4.4.1",
+    "version": "4.4.2",
     "t3_versions": [
       11
     ],
     "description": "Check for broken links and fix them via a backend module (forked from core linkvalidator)",
-    "hash": "sha256-kOQB8rKDktDkNpJVHB7ZPkzbH469hib7xl0KNYJ6SNA="
+    "hash": "sha256-4Tk2UgZfKc8bXeBUaCGuS+sdE+cvCNBAowYYlwOIlsM="
   },
   "browser": {
     "version": "10.0.3",
@@ -9481,14 +9481,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "container": {
-    "version": "2.2.2",
+    "version": "2.2.3",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Create Custom Container Content Elements for TYPO3",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-KUXQevg13FImuRZQDUTJbhnHxoMAMJqwgKqDCFQc+EQ="
   },
   "container_elements": {
     "version": "5.0.1",
@@ -11349,12 +11349,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cute_mailing": {
-    "version": "3.0.0",
+    "version": "3.0.1",
     "t3_versions": [
       11
     ],
     "description": "Send TYPO3 pages as emails (newsletter) to many recipients. Can be used as replacement for direct_mail.",
-    "hash": "sha256-QXCcB5lt0KXrysGKURHl/547Ga0pud4+6PojW9qhpjs="
+    "hash": "sha256-vugfaOhdwDXp/Iq2VxdzrpVH9EgIRh5/i/RpfWrpxdA="
   },
   "cute_mailing_registeraddress": {
     "version": "2.0.0",
@@ -24015,13 +24015,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "humhub": {
-    "version": "12.4.6",
+    "version": "12.4.7",
     "t3_versions": [
       11,
       12
     ],
     "description": "Synchronization fe users from TYPO3 CMS into HumHub and sso to humhub",
-    "hash": "sha256-ke4+cwdeeiX9LcBJ5Cko7HP8nO+O9qVNrZzlntnsQ+k="
+    "hash": "sha256-Lz2p18fbmJwEI5XUQp0D/uPt0QNkNQdYrHDuvqD5ZWA="
   },
   "hvk_sdschoolmgr": {
     "version": "0.0.0",
@@ -25682,13 +25682,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "instagram": {
-    "version": "7.1.0",
+    "version": "7.2.0",
     "t3_versions": [
       10,
       11
     ],
     "description": "Show images and posts from instagram profiles",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-VBpTkKJFwPtL8CcTaESxdXKRCP1cICtTVDpniZsUir0="
   },
   "instagramapi": {
     "version": "1.0.1",
@@ -31939,13 +31939,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mask": {
-    "version": "8.2.0",
+    "version": "8.2.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Create your own content elements and page templates. Easy to use, even without programming skills because of the comfortable drag and drop system. Stored in structured database tables. Style your frontend with Fluid tags. Ideal, if you want to switch from Templavoila.",
-    "hash": "sha256-oM55t7l6fK7XfccyvfPkm7NJQUnxhhABnzHPrcBi2xM="
+    "hash": "sha256-SR6KKCJi2O5QSA5cKXBLgLOjAwdx314VTl4NjpdOFC4="
   },
   "mask_export": {
     "version": "4.0.2",
@@ -32935,13 +32935,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "menus": {
-    "version": "1.0.0",
+    "version": "1.0.2",
     "t3_versions": [
       10,
-      11
+      11,
+      12
     ],
     "description": "Various Menu functionality for TYPO3 Frontend",
-    "hash": "sha256-oHjYIWlbEpCaKAMA6mEn65gMQcptR8KZuPCuoXMDFuk="
+    "hash": "sha256-4Fl/U5fyzNRD5Vf8JKMIHTjlPeW0G4iis55Fe7a7rK4="
   },
   "menustop": {
     "version": "0.0.2",
@@ -64364,13 +64365,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "z7_countries": {
-    "version": "2.3.0",
+    "version": "2.3.2",
     "t3_versions": [
       10,
       11
     ],
     "description": "This TYPO3 extension offers the possibility of a flexible country configuration for single tree content.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-yS2rOaWidFTYYhBvnMRYjT5ez+J7UVsLdRl3E9pl9+w="
   },
   "z7_flashbanner": {
     "version": "2.1.0",
