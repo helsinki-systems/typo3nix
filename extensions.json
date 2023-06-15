@@ -17035,13 +17035,13 @@
     "hash": "sha256-7LR7o5M4/6hkrt7UpflpJfJPcSMK5Aavk9Ph49gXphs="
   },
   "events2": {
-    "version": "8.1.6",
+    "version": "8.2.0",
     "t3_versions": [
       10,
       11
     ],
     "description": "Create single and recurring events",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-1lywPpUwHkDWCF+QjuMO5yK7pRyTyNmpuO7HKBBkO90="
   },
   "evgallery": {
     "version": "2.9.0",
@@ -22127,13 +22127,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "glossary2": {
-    "version": "5.0.9",
+    "version": "5.1.0",
     "t3_versions": [
       10,
       11
     ],
     "description": "This TYPO3 extension creates a glossary with A-Z links for you",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-VZnqaA68xfHln9JuWKGnlMsjR/crpggvod2nZzXjQRw="
   },
   "glossary_one": {
     "version": "1.0.4",
@@ -24015,13 +24015,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "humhub": {
-    "version": "12.4.7",
+    "version": "12.4.8",
     "t3_versions": [
       11,
       12
     ],
     "description": "Synchronization fe users from TYPO3 CMS into HumHub and sso to humhub",
-    "hash": "sha256-Lz2p18fbmJwEI5XUQp0D/uPt0QNkNQdYrHDuvqD5ZWA="
+    "hash": "sha256-QEuL5ZCS+iLmx8vgUyRFOwr+MBko2cRe3VM4o+44g1I="
   },
   "hvk_sdschoolmgr": {
     "version": "0.0.0",
@@ -33564,12 +33564,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "microtemplate": {
-    "version": "4.0.7",
+    "version": "4.1.0",
     "t3_versions": [
-      11
+      11,
+      12
     ],
     "description": "One page template with sections and lightbox like sub pages. Demo at: https://microtemplate.t3brightside.com",
-    "hash": "sha256-OQiY0kNAYHB/owN0UZe2EJQFGIiimxxqxRwxzO8tW9M="
+    "hash": "sha256-WU54oVN3gduAyx9qh6dTg1lEw4VAvGVJ3On1kbxcHkI="
   },
   "miflowplayer": {
     "version": "0.1.9",
@@ -53469,12 +53470,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "store_finder": {
-    "version": "7.0.8",
+    "version": "7.0.9",
     "t3_versions": [
       12
     ],
     "description": "Manage store locations, search by distance and show Google maps.",
-    "hash": "sha256-fdJZ2e18B3q/jZpV+NckLtSXqV1N5M4SxmQqg75m5NM="
+    "hash": "sha256-zpSSJbxk4JdW/J1ycoDadN43m2TmOWEwAE2orMRXG8M="
   },
   "store_hours": {
     "version": "0.1.1",
@@ -64203,13 +64204,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "yellowpages2": {
-    "version": "6.0.0",
+    "version": "6.1.0",
     "t3_versions": [
       10,
       11
     ],
     "description": "With this extension you can build your own industry directory",
-    "hash": "sha256-/ENTzj6lmg9OEQzbJe2lSX1p4F3g0yjyFIJ9c8ah09g="
+    "hash": "sha256-1q2171pl61TEyU9yxkOvC6FX984Y9kLVrXUHDZomiZ4="
   },
   "yellowpay2commerce": {
     "version": "1.0.0",
@@ -64365,13 +64366,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "z7_countries": {
-    "version": "2.3.2",
+    "version": "2.3.3",
     "t3_versions": [
       10,
       11
     ],
     "description": "This TYPO3 extension offers the possibility of a flexible country configuration for single tree content.",
-    "hash": "sha256-yS2rOaWidFTYYhBvnMRYjT5ez+J7UVsLdRl3E9pl9+w="
+    "hash": "sha256-EOvDTEq1RTppgxxnKf+s679FCADNjkXkLRWnsE9Qx7A="
   },
   "z7_flashbanner": {
     "version": "2.1.0",
@@ -64386,15 +64387,12 @@
     "hash": "sha256-PFFzCFrSDHgKQKU/JjoffcHr+7fgBQUs6dX0hJlXYOE="
   },
   "zabbix_client": {
-    "version": "0.2.13",
+    "version": "12.2.0",
     "t3_versions": [
-      8,
-      9,
-      10,
-      11
+      12
     ],
     "description": "Client for zabbix monitoring system. Secure up your TYPO3 Systems and detect errors and performance killers.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-NXr8NyosTFWY5jkej3bfRXIFBt+DYcXHNineOZzZWkU="
   },
   "zadi_masterconfig": {
     "version": "0.0.7",
