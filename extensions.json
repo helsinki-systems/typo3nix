@@ -7758,13 +7758,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cf_cookiemanager": {
-    "version": "1.1.0",
+    "version": "1.1.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "This extension gives you the possibility to Manage the Cookie Consent Modal on your Website",
-    "hash": "sha256-VbgdmncCbKnTKXp+f+rRCIgviPJAm2eF3sNFu0QfhAk="
+    "hash": "sha256-HvlTZaow6RHAIXET7g3DEua3AacfxTuJqnIg2xDZ850="
   },
   "cf_google_authenticator": {
     "version": "1.2.4",
@@ -7782,12 +7782,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cf_phpinclude": {
-    "version": "1.0.4",
+    "version": "1.0.5",
     "t3_versions": [
-      11
+      11,
+      12
     ],
     "description": "Includes a Custom PHP Script in Typo3 Context",
-    "hash": "sha256-As9zI9uGCzol3z/94APRcL3hXszXkCj3Y7QJwkYhB+U="
+    "hash": "sha256-3Hs0RLwJbeGI86a5wktcgi505pjXkAUCs+7m/f8xSs0="
   },
   "cfa_globalweatherws": {
     "version": "0.1.0",
@@ -31939,13 +31940,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mask": {
-    "version": "8.2.1",
+    "version": "8.2.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "Create your own content elements and page templates. Easy to use, even without programming skills because of the comfortable drag and drop system. Stored in structured database tables. Style your frontend with Fluid tags. Ideal, if you want to switch from Templavoila.",
-    "hash": "sha256-SR6KKCJi2O5QSA5cKXBLgLOjAwdx314VTl4NjpdOFC4="
+    "hash": "sha256-vy8CvHwrulGgmrLG4+s37A7cYcKFOpcKUifhye0xdn8="
   },
   "mask_export": {
     "version": "4.0.2",
@@ -47273,12 +47274,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "rx_shariff": {
-    "version": "15.0.3",
+    "version": "15.0.4",
     "t3_versions": [
-      11
+      11,
+      12
     ],
     "description": "Shariff implementation for TYPO3 CMS including the backend module, a viewhelper and a plugin.",
-    "hash": "sha256-va2OYNi6tHrzmddQl3RovPvhUi04ypOox+aQJc523T4="
+    "hash": "sha256-AoqSbgLJzYOfR5n4FoYrXsIfTQ7SQmL+pz0AqL+cn7c="
   },
   "rx_unrollsavebuttons": {
     "version": "1.1.1",
@@ -49020,7 +49022,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sg_cookie_optin": {
-    "version": "5.2.2",
+    "version": "5.2.4",
     "t3_versions": [
       9,
       10,
@@ -49028,7 +49030,7 @@
       12
     ],
     "description": "",
-    "hash": "sha256-cXt5/F0NegN8Xszhs7+sRcphSnkOR0xm1DOs479myAQ="
+    "hash": "sha256-qeJ47p2CuC1g7MCmQSBGtm4zLJYHX/nSoMZTZ8DGQAo="
   },
   "sg_cropscale": {
     "version": "0.5.0",
