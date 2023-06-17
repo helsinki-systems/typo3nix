@@ -9492,12 +9492,13 @@
     "hash": "sha256-KUXQevg13FImuRZQDUTJbhnHxoMAMJqwgKqDCFQc+EQ="
   },
   "container_elements": {
-    "version": "5.0.1",
+    "version": "5.1.0",
     "t3_versions": [
-      11
+      11,
+      12
     ],
     "description": "Provides content elements powered by container and bootstrap. Available elements: container, columns, grid, tabs, accordion, tile unit, card and randomizer.",
-    "hash": "sha256-4VPexgKR8+sorb/eypDfm9R/3oFiC6D/MjoTLglMFps="
+    "hash": "sha256-RXsy3yAMjw/eJAwQWrqQTMxBLWs06BTR59irNBTFOSo="
   },
   "container_example": {
     "version": "1.0.0",
@@ -15861,10 +15862,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "easyconf": {
-    "version": "2.0.0",
-    "t3_versions": [],
+    "version": "2.1.0",
+    "t3_versions": [
+      12
+    ],
     "description": "Provides a module to easily configure main aspects from a website.",
-    "hash": "sha256-A99IR8axxrjMt05Pww0rqWy/dp9259yr2iuWdnjgGPA="
+    "hash": "sha256-xQF/Itq13eH+f+FvxDeon1Sw9ZMzwzcBsSXXK1lZnR0="
   },
   "easydb": {
     "version": "2.0.0",
@@ -38295,15 +38298,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ns_basetheme": {
-    "version": "11.5.7",
+    "version": "12.0.0",
     "t3_versions": [
-      8,
-      9,
-      10,
-      11
+      12
     ],
-    "description": "The architecture of parent/child TYPO3 theme concept. Explore https://t3terminal.com and https://nitsantech.com",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "description": "The architecture of parent/child TYPO3 theme concept. Explore https://t3planet.com and https://nitsantech.com",
+    "hash": "sha256-93JKUdl5x1bCOFESbLKeu5S5eJUFfYc5/ghGia0ci7c="
   },
   "ns_cache_webhook": {
     "version": "1.0.0",
@@ -38516,15 +38516,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ns_license": {
-    "version": "1.8.6",
+    "version": "12.0.0",
     "t3_versions": [
-      8,
-      9,
-      10,
-      11
+      12
     ],
     "description": "Manage License(s) of your purchased T3Planet's premium TYPO3 products. Know more at documentation https://docs.t3planet.com/en/latest/License/LicenseActivation/Index.html",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-q8jRJuIr5Uq8Zq+1hWOKglUXAR95e2ZhoA4r7iJoYfs="
   },
   "ns_news_advancedsearch": {
     "version": "2.0.4",
@@ -48787,6 +48784,14 @@
     ],
     "description": "Configurable event management and registration extension based on ExtBase and Fluid",
     "hash": "sha256-7R4YUTOY97lLdks97NYtnmUvcoyFX1sEU2Mr/qWiSHg="
+  },
+  "sf_event_mgt_contentelements": {
+    "version": "2.0.0",
+    "t3_versions": [
+      12
+    ],
+    "description": "Adds a relation field for content elements to events",
+    "hash": "sha256-o4y7GsYgyXwrefKy18yPIkfPuXzS3qRt7edIPVrI+LI="
   },
   "sf_event_mgt_indexer": {
     "version": "4.0.1",
