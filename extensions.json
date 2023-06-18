@@ -15112,13 +15112,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "dpn_glossary": {
-    "version": "5.0.1",
+    "version": "5.0.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "Glossary extension with page parser",
-    "hash": "sha256-Z5ALbcp8Q7wpCRXx+WhmmS/RD1xLF572wzb4XU/E0kY="
+    "hash": "sha256-JddpB7yAXMuyrtK+cA+uCHgZCKSTI4wyAfJJukdfxLg="
   },
   "dr_blob": {
     "version": "2.3.2",
@@ -61030,12 +61030,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "videos": {
-    "version": "12.0.1",
+    "version": "12.0.2",
     "t3_versions": [
       12
     ],
     "description": "Extends video file properties and provides a player for playlists, cue points and subtitles",
-    "hash": "sha256-O0bBvjb2e1uq+iUR9AOnIB3DYGucF4R12PdLhvo4oD8="
+    "hash": "sha256-d/xuUAtNtS+s9L/MMnWlRyOdzHDI09hhrcJU0IkEUV0="
   },
   "videoswitcher": {
     "version": "0.0.4",
