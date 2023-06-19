@@ -9555,14 +9555,14 @@
     "hash": "sha256-vNZTcu/mSUd+GOShwUjpnPgz2tpFZpkua7zNft637VM="
   },
   "content_defender": {
-    "version": "3.3.0",
+    "version": "3.4.0",
     "t3_versions": [
-      9,
       10,
-      11
+      11,
+      12
     ],
     "description": "Define allowed or denied content element types in your backend layouts",
-    "hash": "sha256-mCXBE2T24+jms8QBb1rkJKyrFqGALSE6MpuZEOvjDj0="
+    "hash": "sha256-qecsXTTqJgvPnOWVrw+VNQ8Lh8cbTvyWJJd9GY9IJFM="
   },
   "content_designer": {
     "version": "3.0.7",
@@ -19110,13 +19110,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "filefill": {
-    "version": "4.2.0",
+    "version": "4.3.0",
     "t3_versions": [
       10,
-      11
+      11,
+      12
     ],
     "description": "Find and fetch missing local files from different remotes",
-    "hash": "sha256-ry+l1Shigo0VICmZbdZbgSi/dWpSH34usphy8KO5554="
+    "hash": "sha256-TJVUhK6av8XYwwN8E0NIw873b2Vra4xgiCi0IFKDTpc="
   },
   "filefill_payload": {
     "version": "0.6.0",
@@ -23278,13 +23279,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "hh_accordion": {
-    "version": "0.3.5",
+    "version": "0.4.0",
     "t3_versions": [
-      10,
-      11
+      11,
+      12
     ],
     "description": "",
-    "hash": "sha256-H7xGBToxYYtuKjoLP0NIDkIdQ1ZUFeBJu56OT12mBXo="
+    "hash": "sha256-u6DbdGFTfq7v9AKSrLtMZwhIl9u0EOojHs2Kq3Eh+IU="
   },
   "hh_add_statuscode": {
     "version": "0.1.22",
@@ -23318,23 +23319,21 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "hh_seo": {
-    "version": "0.5.1",
+    "version": "0.7.0",
     "t3_versions": [
-      10,
-      11
+      11,
+      12
     ],
     "description": "Hauer-Heinrich - SEO - Meta-Tag - ViewHelpers",
-    "hash": "sha256-y+DhCLkzs+YjnH0TNoIPNqZzLV5KLZEJQd6HlawuTBQ="
+    "hash": "sha256-wOrDlw/CNOn6n7UO0tCgZAndi8wCc72F2zf6xp38NBo="
   },
   "hh_slider": {
-    "version": "0.2.8",
+    "version": "0.4.2",
     "t3_versions": [
-      9,
-      10,
-      11
+      12
     ],
     "description": "Hauer-Heinrich - Image and Content Slider",
-    "hash": "sha256-jWfm/FmBq+Z5Cg3oS+ekFwXy/xr7MDFfekiZk0G0CEw="
+    "hash": "sha256-zRpLtbv8IiFijAS8qr5uIQ22J+HEYcR3X2oHmMKk4sw="
   },
   "hh_test": {
     "version": "0.2.15",
@@ -39919,14 +39918,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "openagenda": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Display calendars from https://openagenda.com on your site.",
-    "hash": "sha256-/6gNhIHtq9Hre8i+vaTHD99FGcYWQOTivFIsuOVHim8="
+    "hash": "sha256-6ohq7/JDEQOaB1GEBcwXQL7DdQJ/xwP76tYz5/uhtxY="
   },
   "opendigital_rss_reader": {
     "version": "0.2.0",
@@ -44007,12 +44006,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "pxa_dealers": {
-    "version": "4.2.2",
+    "version": "4.2.5",
     "t3_versions": [
       10
     ],
     "description": "Extension to display searchable dealers/shops or other points of interests on Google maps",
-    "hash": "sha256-E3qG32zLJmr+ynj7itwwcq3TcJNQ31QVIJlZ/fd25aI="
+    "hash": "sha256-pNtWM59Pnu4CwV4b+FVe5y2mxh5XUV50z8wfONYzXng="
   },
   "pxa_form_enhancement": {
     "version": "3.4.0",
@@ -52326,12 +52325,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sr_freecap": {
-    "version": "11.5.2",
+    "version": "11.5.4",
     "t3_versions": [
       11
     ],
     "description": "A TYPO3 integration of freeCap CAPTCHA.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-ukUO/ApvvtxKJIsOWLR9ZbKo/8+NjLNnTUrB5c4vPj0="
   },
   "sr_guestbook": {
     "version": "2.0.0",
@@ -54161,12 +54160,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "t23_inline_container": {
-    "version": "0.0.8",
+    "version": "0.0.12",
     "t3_versions": [
-      11
+      11,
+      12
     ],
     "description": "An extension to manage content elements inline in b13/container similar like possible in gridelementsteam/gridelements before.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-UbniEQPjwKT4Ibn6mq8O5bxxEsFwPJvRAXsQggN2uK8="
   },
   "t2_captcha": {
     "version": "1.0.1",
@@ -61030,12 +61030,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "videos": {
-    "version": "12.0.2",
+    "version": "12.0.3",
     "t3_versions": [
       12
     ],
     "description": "Extends video file properties and provides a player for playlists, cue points and subtitles",
-    "hash": "sha256-d/xuUAtNtS+s9L/MMnWlRyOdzHDI09hhrcJU0IkEUV0="
+    "hash": "sha256-UDrriVwgvTcJhBTa/AWavTppvi3d/4xJ7zawBZl4H+o="
   },
   "videoswitcher": {
     "version": "0.0.4",
