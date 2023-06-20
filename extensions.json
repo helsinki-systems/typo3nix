@@ -15112,13 +15112,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "dpn_glossary": {
-    "version": "5.0.2",
+    "version": "5.0.3",
     "t3_versions": [
       11,
       12
     ],
     "description": "Glossary extension with page parser",
-    "hash": "sha256-JddpB7yAXMuyrtK+cA+uCHgZCKSTI4wyAfJJukdfxLg="
+    "hash": "sha256-+eelqu19X+p+L99Qoixm0frJ7LuZ4LbhbljzUXHWMqk="
   },
   "dr_blob": {
     "version": "2.3.2",
@@ -23230,10 +23230,12 @@
     "hash": "sha256-qsVb91W381Ah5wL7o6z9RqpRGdTMCJ/CKYGdCc3xWoI="
   },
   "headless": {
-    "version": "4.0.0",
-    "t3_versions": [],
+    "version": "4.1.0",
+    "t3_versions": [
+      12
+    ],
     "description": "Makes TYPO3 a headless CMS. Content and pages available in JSON format. Supports multilanguage, multidomain, forms, frontend login, workspaces and more. For JS frontend app see nuxt-typo3 package",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-GxpuRiQqShOubDpF2q2vljJh3ND0RmqNWkvzeStHmCI="
   },
   "headless_gridelements": {
     "version": "3.0.0",
@@ -31942,13 +31944,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mask": {
-    "version": "8.2.2",
+    "version": "8.2.3",
     "t3_versions": [
       11,
       12
     ],
     "description": "Create your own content elements and page templates. Easy to use, even without programming skills because of the comfortable drag and drop system. Stored in structured database tables. Style your frontend with Fluid tags. Ideal, if you want to switch from Templavoila.",
-    "hash": "sha256-vy8CvHwrulGgmrLG4+s37A7cYcKFOpcKUifhye0xdn8="
+    "hash": "sha256-GzKQkgvl4UnLVNb3bsNxj4tkxh2xJ7gnZ7s/jyqzfA0="
   },
   "mask_export": {
     "version": "4.0.2",
@@ -35322,6 +35324,15 @@
     ],
     "description": "try to load translated content on fallback rules",
     "hash": "sha256-fz5yKaJ8sfzU76uqK1ufpjPGnufLC7LLDW1D1R6DY40="
+  },
+  "mst_reloadtrigger": {
+    "version": "0.1.4",
+    "t3_versions": [
+      11,
+      12
+    ],
+    "description": "add a trigger that can be watched by browsersync",
+    "hash": "sha256-p5jzP1Pn1ebRix3oALTtd2pwvh/NE1kQz/nfeC7EfqA="
   },
   "msw_shoutbox": {
     "version": "1.0.0",
@@ -38946,13 +38957,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "oauth2_server": {
-    "version": "1.3.0",
+    "version": "1.4.0",
     "t3_versions": [
       10,
       11
     ],
     "description": "OAuth2 server for TYPO3 based on PHP League's OAuth2 Server.",
-    "hash": "sha256-0pzTktp5/f+gWAxI+2VHYTTOG9tZdoDp3URho34EYpo="
+    "hash": "sha256-7aO9JbOWoCTQo3tTr0S2YgJHQRPIh/y+JaA5fsJP2Lc="
   },
   "oauth_openid_single_sign_on": {
     "version": "1.0.4",
@@ -42417,13 +42428,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "pixxio_extension": {
-    "version": "1.0.5",
+    "version": "2.0.0",
     "t3_versions": [
       10,
-      11
+      11,
+      12
     ],
     "description": "Integrate pixx.io DAM Digital Asset Management into TYPO3. Use files from your pixx.io media pool with TYPO3 easily and without any detour. Use the search field to search through your pixx.io media library and find the right picture in a flash.",
-    "hash": "sha256-E92yLToa6LD+s/zIMGpYAwTZWLW7qGO6BwC5lZd8wE0="
+    "hash": "sha256-FFQnat6FcZg7nu8nKh8pdfYFSKiuWgmWzFbTtECtb0E="
   },
   "pizpalue": {
     "version": "15.1.0",
@@ -47868,6 +47880,14 @@
     "description": "Adds the possibility to use the keyboard shortcut CTRL+S to save in TYPO3 CMS backend.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "save_and_close": {
+    "version": "12.0.2",
+    "t3_versions": [
+      12
+    ],
+    "description": "Adds save and close button to all the content elements",
+    "hash": "sha256-L+Mdb8BEHG2nFTaZv8OdI+sovw8yVUU45Sp4WKvSVfI="
+  },
   "save_close_ce": {
     "version": "1.0.4",
     "t3_versions": [
@@ -52325,12 +52345,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sr_freecap": {
-    "version": "11.5.4",
+    "version": "11.5.5",
     "t3_versions": [
       11
     ],
     "description": "A TYPO3 integration of freeCap CAPTCHA.",
-    "hash": "sha256-ukUO/ApvvtxKJIsOWLR9ZbKo/8+NjLNnTUrB5c4vPj0="
+    "hash": "sha256-3kymJW67JFLrNVcwd1c0B/8ZFVAicBB8VYAxnAX2bEo="
   },
   "sr_guestbook": {
     "version": "2.0.0",
@@ -61030,12 +61050,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "videos": {
-    "version": "12.0.3",
+    "version": "12.0.4",
     "t3_versions": [
       12
     ],
     "description": "Extends video file properties and provides a player for playlists, cue points and subtitles",
-    "hash": "sha256-UDrriVwgvTcJhBTa/AWavTppvi3d/4xJ7zawBZl4H+o="
+    "hash": "sha256-ivXOUhtOnyPkFwsTBw0kRyj6kj4OH4bFyq6+fGerAtc="
   },
   "videoswitcher": {
     "version": "0.0.4",
