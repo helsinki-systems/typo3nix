@@ -2245,15 +2245,16 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ameos_tarteaucitron": {
-    "version": "1.4.0",
+    "version": "2.0.0",
     "t3_versions": [
       8,
       9,
       10,
-      11
+      11,
+      12
     ],
     "description": "Integrates tarteaucitron.js in TYPO3 (see : https://tarteaucitron.io )",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-cc2rrCi3A6t651WqQHH/j9i+1ck3hqT2Rr7xozHpBf4="
   },
   "ameos_typo3_vulnerabilities": {
     "version": "1.0.0",
@@ -23330,12 +23331,12 @@
     "hash": "sha256-wOrDlw/CNOn6n7UO0tCgZAndi8wCc72F2zf6xp38NBo="
   },
   "hh_slider": {
-    "version": "0.4.2",
+    "version": "0.4.3",
     "t3_versions": [
       12
     ],
     "description": "Hauer-Heinrich - Image and Content Slider",
-    "hash": "sha256-zRpLtbv8IiFijAS8qr5uIQ22J+HEYcR3X2oHmMKk4sw="
+    "hash": "sha256-XE+OewErgtkfR7ZN6l+FJ7fE+nQHR5nc7BfdZstSH+M="
   },
   "hh_test": {
     "version": "0.2.15",
@@ -35326,13 +35327,13 @@
     "hash": "sha256-fz5yKaJ8sfzU76uqK1ufpjPGnufLC7LLDW1D1R6DY40="
   },
   "mst_reloadtrigger": {
-    "version": "0.1.4",
+    "version": "0.1.5",
     "t3_versions": [
       11,
       12
     ],
     "description": "add a trigger that can be watched by browsersync",
-    "hash": "sha256-p5jzP1Pn1ebRix3oALTtd2pwvh/NE1kQz/nfeC7EfqA="
+    "hash": "sha256-FjSWSYwWDeKIzMmZmFVnHuXRd/7y8HGqzhNmRkTa0HA="
   },
   "msw_shoutbox": {
     "version": "1.0.0",
@@ -38308,12 +38309,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ns_basetheme": {
-    "version": "12.0.0",
+    "version": "12.0.1",
     "t3_versions": [
       12
     ],
     "description": "The architecture of parent/child TYPO3 theme concept. Explore https://t3planet.com and https://nitsantech.com",
-    "hash": "sha256-93JKUdl5x1bCOFESbLKeu5S5eJUFfYc5/ghGia0ci7c="
+    "hash": "sha256-c9rihX8NpMzNJ3l8bqiBzj8ny1Gmtm6N/soIP7RLUPA="
   },
   "ns_cache_webhook": {
     "version": "1.0.0",
@@ -38526,12 +38527,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ns_license": {
-    "version": "12.0.0",
+    "version": "12.0.1",
     "t3_versions": [
       12
     ],
     "description": "Manage License(s) of your purchased T3Planet's premium TYPO3 products. Know more at documentation https://docs.t3planet.com/en/latest/License/LicenseActivation/Index.html",
-    "hash": "sha256-q8jRJuIr5Uq8Zq+1hWOKglUXAR95e2ZhoA4r7iJoYfs="
+    "hash": "sha256-nrjngdJc8m4E8nOEF0IvTafWvPoxlYPZeJkRJT3WNKQ="
   },
   "ns_news_advancedsearch": {
     "version": "2.0.4",
@@ -41884,12 +41885,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "phipfels_watchword": {
-    "version": "11.0.0",
+    "version": "11.0.1",
     "t3_versions": [
       11
     ],
     "description": "Contains the current watchword from the Herrnhuter Brüdergemeine / Losungen",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-ua0hylceS8Ia/Oy5omYU3abPNMDgxsmEDwgR0eJlFds="
   },
   "phonegap": {
     "version": "0.1.1",
