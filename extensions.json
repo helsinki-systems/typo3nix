@@ -5065,12 +5065,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "bootstrap_package": {
-    "version": "13.0.2",
+    "version": "14.0.0",
     "t3_versions": [
-      11
+      11,
+      12
     ],
     "description": "Bootstrap Package delivers a full configured frontend theme for TYPO3, based on the Bootstrap CSS Framework.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-T2sREorEspCFq2Ajmz11XsTbXs3Zipf+GlmNaO6Gd7Q="
   },
   "bootstrapicons": {
     "version": "0.0.1",
@@ -8061,13 +8062,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "charts": {
-    "version": "2.0.6",
+    "version": "3.0.0",
     "t3_versions": [
-      10,
-      11
+      11,
+      12
     ],
     "description": "Extension to create datasets and show them as line, bar, pie or doughnut chart in frontend",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-bQw2by05zcOmM2yiokyMq+zxdoKzMGtof3y4i60ERfg="
   },
   "chartum": {
     "version": "1.1.1",
@@ -25341,13 +25342,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "in2help": {
-    "version": "3.1.2",
+    "version": "7.0.0",
     "t3_versions": [
-      8,
-      9
+      12
     ],
     "description": "Provides a Backend Help Modul, to display any page of the frontend in the backend. So you can use this module as an entry point for editors documentation.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-1BtHqdHxMgqWSvwa9lEB9dgde/Cg811PY1DMDC7F9sQ="
   },
   "in2publish_core": {
     "version": "12.1.0",
