@@ -5786,13 +5786,13 @@
     "hash": "sha256-eCO14noia15o3GX7iCADCNMS4udfMp9xc4F9J9KUzbY="
   },
   "bw_icons": {
-    "version": "2.1.2",
+    "version": "2.1.4",
     "t3_versions": [
       10,
       11
     ],
     "description": "Form element for icon selection. Generates a browsable gallery of your icon fonts and SVGs - just link your stylesheet or image directory that you use in the frontend! Works with FontAwesome, Bootstrap, Icomoon.. Optionally adds icon field to pages and tt_content.",
-    "hash": "sha256-rU/AUrWQnIiyP+cCyqt1sOmMKFDRGz25UTCBidaLVdk="
+    "hash": "sha256-l7Ke7OXseSTX2PdTSMy7XU4cPLjfa8LHl7q3AEDziHM="
   },
   "bw_jobs": {
     "version": "2.2.4",
@@ -27482,12 +27482,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "jpfaq": {
-    "version": "11.6.2",
+    "version": "12.4.0",
     "t3_versions": [
-      11
+      12
     ],
     "description": "Frequently Asked Questions (FAQ) plugin. With categories, on-the-fly search, customer helpfulness tracking and comments.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-VtW9hSE71mmH7tr7V6Tk2WNFSKCFfsRXf0lXt0LYQTo="
   },
   "jpgraph": {
     "version": "0.3.11",
