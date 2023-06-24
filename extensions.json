@@ -8916,6 +8916,14 @@
     "description": "Displays images in a columnar layout.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "collapse": {
+    "version": "1.0.0",
+    "t3_versions": [
+      11
+    ],
+    "description": "Collapse large content element previews in TYPO3's Page Module.",
+    "hash": "sha256-8AIycNcErSf37iVsfaQcYPgWZGx0stHK91ZLZh2nB+g="
+  },
   "colloquium": {
     "version": "0.1.6",
     "t3_versions": [],
@@ -41885,12 +41893,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "phipfels_watchword": {
-    "version": "11.0.1",
+    "version": "12.0.0",
     "t3_versions": [
-      11
+      12
     ],
     "description": "Contains the current watchword from the Herrnhuter Brüdergemeine / Losungen",
-    "hash": "sha256-ua0hylceS8Ia/Oy5omYU3abPNMDgxsmEDwgR0eJlFds="
+    "hash": "sha256-AUTHzVeek/O36f1zomVEZCAYMy3GySsTJZ09GCCaVGM="
   },
   "phonegap": {
     "version": "0.1.1",
@@ -52879,12 +52887,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "static_info_tables": {
-    "version": "11.5.4",
+    "version": "11.5.5",
     "t3_versions": [
       11
     ],
     "description": "Data and API for countries, languages and currencies for use in TYPO3 CMS.",
-    "hash": "sha256-8U8GHvMd5md8y7+7IX8Rt2RJxZb8x+F8XIh6Q0BFTKc="
+    "hash": "sha256-hq5aFBReWtaliLPIlMSXSeWRzocTYVvybASccyM6xRI="
   },
   "static_info_tables_airports": {
     "version": "0.1.0",
@@ -59285,13 +59293,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "tt_products": {
-    "version": "2.14.16",
+    "version": "2.14.17",
     "t3_versions": [
       10,
       11
     ],
     "description": "Advanced versions at ttproducts.de. Documented in the E-Book \"Der TYPO3-Webshop\" - Shop with listing in multiple languages, with order tracking, product variants, support for transactor extension, bill, creditpoint and voucher system.",
-    "hash": "sha256-zdwUO+NbyFLSG8P3mBWiJj/NgyvDFabG6IJM2lXXuxA="
+    "hash": "sha256-/Wvd+fdlrlEydQhA/uEzKh6DkAGn2Pm0TGSCYLcOLPY="
   },
   "tt_products_foundby": {
     "version": "0.1.4",
