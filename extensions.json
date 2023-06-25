@@ -13751,13 +13751,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "div2007": {
-    "version": "1.16.4",
+    "version": "1.16.5",
     "t3_versions": [
       10,
-      11
+      11,
+      12
     ],
     "description": "This library offers classes and functions to other TYPO3 extensions. It provides a modified t3lib_div of TYPO3 4.7.10. Replacement for tslib_pibase methods and t3skin images.",
-    "hash": "sha256-X9pUVuDVhY/7HtKi+71DzxmjvnuB6em0+K721UMMBCs="
+    "hash": "sha256-amZrVr6vyPlVUTLclifnnyjXayMMcdjdt9+PLJnDw7s="
   },
   "diva": {
     "version": "8.7.1",
@@ -41893,12 +41894,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "phipfels_watchword": {
-    "version": "12.0.0",
+    "version": "12.0.1",
     "t3_versions": [
       12
     ],
     "description": "Contains the current watchword from the Herrnhuter Brüdergemeine / Losungen",
-    "hash": "sha256-AUTHzVeek/O36f1zomVEZCAYMy3GySsTJZ09GCCaVGM="
+    "hash": "sha256-NW4L6zUYNMD/BQXvP9PHOc1SXoR+qpkktUb9E9KO7Z0="
   },
   "phonegap": {
     "version": "0.1.1",
