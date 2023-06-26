@@ -5065,13 +5065,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "bootstrap_package": {
-    "version": "14.0.0",
+    "version": "14.0.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Bootstrap Package delivers a full configured frontend theme for TYPO3, based on the Bootstrap CSS Framework.",
-    "hash": "sha256-T2sREorEspCFq2Ajmz11XsTbXs3Zipf+GlmNaO6Gd7Q="
+    "hash": "sha256-2CrjAArraiSfdgd67RigMTd9LRbGnpjpQC+MXPvvP7Q="
   },
   "bootstrapicons": {
     "version": "0.0.1",
@@ -24386,6 +24386,24 @@
     "description": "Centralised repository of various icons for use in both, frontend and backend extensions. Provides automated file existence checking, programmatic selection between gif and png files, response caching. Based on Mark Jamess FamFamFam Silk Icons and Jan Po",
     "hash": "sha256-gSnrZPXXrp7HcHfVYSnCUBZnxwGa/geAoB6EJ44zXOw="
   },
+  "iconset_bootstrap": {
+    "version": "1.0.0",
+    "t3_versions": [
+      11,
+      12
+    ],
+    "description": "",
+    "hash": "sha256-g6YMxca2y3RgYczAZaq2XLMCgVdQZxn/2gmLWLZD+XM="
+  },
+  "iconset_typo3": {
+    "version": "1.0.0",
+    "t3_versions": [
+      11,
+      12
+    ],
+    "description": "TYPO3 Iconset for the Boostrap Package",
+    "hash": "sha256-pbAap3yNyVaPTJ3sPqxiKS6dniQOUUW4At0ce726OkA="
+  },
   "icr_bandof": {
     "version": "0.1.2",
     "t3_versions": [],
@@ -38318,12 +38336,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ns_basetheme": {
-    "version": "12.0.1",
+    "version": "12.0.2",
     "t3_versions": [
       12
     ],
     "description": "The architecture of parent/child TYPO3 theme concept. Explore https://t3planet.com and https://nitsantech.com",
-    "hash": "sha256-c9rihX8NpMzNJ3l8bqiBzj8ny1Gmtm6N/soIP7RLUPA="
+    "hash": "sha256-XLOUouaKkouY2aIryMeZeyFsfHqnlfzjY9p4VjQ1JK4="
   },
   "ns_cache_webhook": {
     "version": "1.0.0",
@@ -53506,12 +53524,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "store_finder": {
-    "version": "7.0.9",
+    "version": "7.0.10",
     "t3_versions": [
       12
     ],
     "description": "Manage store locations, search by distance and show Google maps.",
-    "hash": "sha256-zpSSJbxk4JdW/J1ycoDadN43m2TmOWEwAE2orMRXG8M="
+    "hash": "sha256-8aQCMZmH538TCod9zKMJt6VhWWllIe84bqdnPZIBc/o="
   },
   "store_hours": {
     "version": "0.1.1",
@@ -57144,13 +57162,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "tile_proxy": {
-    "version": "1.1.8",
+    "version": "1.1.9",
     "t3_versions": [
       11,
       12
     ],
     "description": "With Tile Proxy you can integrate OpenStreetMap maps GDPR in a compliant way without any third party requests from the client. For a given area, the data is loaded from OpenStreetMap and cached, therefore you do not need a cookie banner or blocker to use OpenStreetMap cookie banner or blocker to use OpenStreetMap.\tA proxy is also provided for geocoding nominatim.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-82SjW7jDNVLsNaM7rQiGv88qdqEitGTL26i5+NEjbGU="
   },
   "timecollect": {
     "version": "0.0.1",
@@ -61060,12 +61078,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "videos": {
-    "version": "12.0.4",
+    "version": "12.0.5",
     "t3_versions": [
       12
     ],
     "description": "Extends video file properties and provides a player for playlists, cue points and subtitles",
-    "hash": "sha256-ivXOUhtOnyPkFwsTBw0kRyj6kj4OH4bFyq6+fGerAtc="
+    "hash": "sha256-q4bYAfTkYHw8qU+JRAuzqPH2a61HD3aO41Dn0+YU85k="
   },
   "videoswitcher": {
     "version": "0.0.4",
