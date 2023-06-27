@@ -993,13 +993,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "additional_reports": {
-    "version": "3.4.3",
+    "version": "3.4.4",
     "t3_versions": [
       10,
       11
     ],
     "description": "Useful information in the reports module: xclass, ajax, cliKeys, eID, general status of the system (encoding, DB, php vars...), hooks, compare local and TER extension (diff), used content type, used plugins, ExtDirect... It can really help you during migration or new existing project (to have global reports of the system).",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-WBf0xKG/ESrmVUTYKiiTLsfupS7uQ/uCwiBY42FiJp8="
   },
   "additional_scheduler": {
     "version": "1.5.9",
@@ -5795,12 +5795,12 @@
     "hash": "sha256-l7Ke7OXseSTX2PdTSMy7XU4cPLjfa8LHl7q3AEDziHM="
   },
   "bw_jobs": {
-    "version": "2.2.4",
+    "version": "2.3.3",
     "t3_versions": [
       11
     ],
     "description": "A job board extension for TYPO3 CMS.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-PLFomnjs8nCavhXyKK9X07BNC8YN18qDiLjRAIZD8iQ="
   },
   "bw_json_ld": {
     "version": "0.0.1",
@@ -22338,6 +22338,14 @@
     "description": "Render Google for Jobs structured data.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "google_indexer": {
+    "version": "1.0.0",
+    "t3_versions": [
+      12
+    ],
+    "description": "Google Indexer",
+    "hash": "sha256-KQswa2IoNFldoy5Kg3OdQkXLYD5yAVKVasvculq9yKE="
+  },
   "google_jsapi": {
     "version": "1.0.1",
     "t3_versions": [],
@@ -25481,13 +25489,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "indexed_search_gc": {
-    "version": "2.0.0",
+    "version": "3.0.0",
     "t3_versions": [
       9,
-      10
+      10,
+      11
     ],
     "description": "Provides a configurable Scheduler Task to Cleanup old IndexedSearch Entries",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-/G8yxvaAe3a7KVZjq8HjXjX0Vz+fTACVhaivcUPle4Q="
   },
   "indexed_search_mysql": {
     "version": "0.0.1",
@@ -31004,13 +31013,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "lux": {
-    "version": "31.0.0",
+    "version": "32.0.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Living User Experience - LUX - the Marketing Automation tool for TYPO3.",
-    "hash": "sha256-+6/UC8IvKZaje5AQM1vrWCaBXCo3xYlmNUgdMf1c3AA="
+    "hash": "sha256-rGRpxPIZaRChNngWHWWLjn4uAhWZRoifoyiBRsUYRJY="
   },
   "luxletter": {
     "version": "21.0.0",
@@ -38427,26 +38436,20 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ns_faq": {
-    "version": "2.2.0",
+    "version": "12.0.0",
     "t3_versions": [
-      8,
-      9,
-      10,
-      11
+      12
     ],
     "description": "One of the only feature-rich TYPO3 FAQ extension-ever. Live-Demo: https://demo.t3planet.com/t3t-extensions/faq/ You can download PRO version for more-features & free-support at https://t3planet.com/ns-faq-typo3-extension",
-    "hash": "sha256-wsYKRFGKo+P+1PA1YrqDCR7Putq3VAr03ew14Cm9t1g="
+    "hash": "sha256-jGOXG6ocBoH+azZHtvMF5cyFLs42GJBuFx4QOIUf1Is="
   },
   "ns_feedback": {
-    "version": "2.1.0",
+    "version": "12.0.0",
     "t3_versions": [
-      8,
-      9,
-      10,
-      11
+      12
     ],
-    "description": "One of the only feature-rich TYPO3 feedback extension-ever! Live-Demo: https://demo.t3terminal.com/t3t-extensions/feedback/ You can download PRO version for more-features & free-support at https://t3terminal.com/ns-feedback-typo3-extension",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "description": "One of the only feature-rich TYPO3 feedback extension-ever! Live-Demo: https://demo.t3planet.com/t3t-extensions/feedback/ You can download PRO version for more-features & free-support at https://t3planet.com/ns-feedback-typo3-extension",
+    "hash": "sha256-fx9WwV0my8azXzRtn4U0h/9epVTnh3DGKZYJX1xBA5s="
   },
   "ns_friendlycaptcha": {
     "version": "1.3.2",
@@ -38736,15 +38739,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ns_timeline": {
-    "version": "2.1.0",
+    "version": "12.0.0",
     "t3_versions": [
-      8,
-      9,
-      10,
-      11
+      12
     ],
     "description": "All In One Timeline TYPO3 Extension lets you create stories, timelines, history, roadmap, and what not with unlimited possibilities and 18 unique styles and layouts. Live-Demo: https://demo.t3planet.com//t3t-extensions/timeline You can download PRO version for more-features & free-support at https://t3planet.com/ns-timeline-typo3-extension",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-yWn/0pkM5b6RWZ7dTGxTzfr9jQC0w/6dRa6oY9HNK7o="
   },
   "ns_twitter": {
     "version": "3.1.0",
@@ -45097,13 +45097,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "redirectmissingsite": {
-    "version": "1.0.1",
+    "version": "1.0.9",
     "t3_versions": [
       10,
       11
     ],
     "description": "Allow 404 handling for unconfigured domains/sites",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-iKBBqgXEiWIRA4lVTcOrVooZ7wMw9CouFS4gIqYfbAk="
   },
   "redirectsmgr": {
     "version": "1.0.0",
@@ -46863,12 +46863,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "rte_ckeditor_image": {
-    "version": "11.0.8",
+    "version": "11.0.11",
     "t3_versions": [
       11
     ],
     "description": "Adds FAL image support to CKEditor for TYPO3.",
-    "hash": "sha256-PY3tBNHebDckSW3SH/nfkxSEsF1XqL0XyYuwmfE0iDU="
+    "hash": "sha256-DVuaFIiUl0ZoLuPlQsHr1MqJjEd5Qx3Hz9t+4vkQq4s="
   },
   "rte_ckeditor_microdata": {
     "version": "10.1.0",
@@ -54025,13 +54025,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "syntax": {
-    "version": "2.0.1",
+    "version": "3.0.0",
     "t3_versions": [
-      10,
-      11
+      11,
+      12
     ],
     "description": "Lightweight, robust, elegant syntax highlighting based on PrismJS",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-ngBgDtb6HBfYK6R5G1loccbFfgRcRQJbi9MM02MkLtA="
   },
   "syntaxhighlight": {
     "version": "1.0.0",
@@ -54133,13 +54133,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "syssy": {
-    "version": "2.0.4",
+    "version": "2.0.5",
     "t3_versions": [
       10,
       11
     ],
     "description": "Connects TYPO3 with SYSSY",
-    "hash": "sha256-8qBudU3EPbYkRWLJb2iy2OqZUYL1CHdBQZ/wOLHjDnI="
+    "hash": "sha256-jbqODYpgdqi0B4yzksYUBPhdCScS0AZFiuwGqA/A85s="
   },
   "system_control": {
     "version": "0.0.8",
@@ -61134,13 +61134,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "view_statistics": {
-    "version": "4.0.1",
+    "version": "4.0.2",
     "t3_versions": [
       10,
       11
     ],
     "description": "Logs frontend actions and display them in a backend module. Track page views, News, Downloads and custom objects. Optionally tracks frontend user logins and login durations. Alternative extension for Google-Analytics, Matomo, Piwik - this extension does not use any cookies! By default it does not track any personal data like IP address or even the user agent (though this can be activated optionally).",
-    "hash": "sha256-foPupJ9Gk873Gfj54Bep7o4H2CaV4tePPa+P6reWtfA="
+    "hash": "sha256-VvTMOeYIzaI5oT5rR1/3EJTgLZ9dyDnjcf04VyNSrIw="
   },
   "vimeovideo": {
     "version": "1.0.0",
@@ -61816,13 +61816,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "weather2": {
-    "version": "4.0.4",
+    "version": "4.1.0",
     "t3_versions": [
       10,
       11
     ],
     "description": "Display weather forecasts and weather alerts using various Weather APIs. Default APIs: OpenWeatherMap and Deutscher Wetterdienst",
-    "hash": "sha256-7iRSm2aCq1d/eoUO1VbqsTg1OoEMW5E/m0PiKsQxm3k="
+    "hash": "sha256-2SRqv8jq93lZpaFsLc+y/TIa/UQbfHeD8ocaDSqcu/Y="
   },
   "weather_widget": {
     "version": "1.1.2",
