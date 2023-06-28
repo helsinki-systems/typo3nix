@@ -3321,17 +3321,18 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "avalex": {
-    "version": "7.0.2",
+    "version": "8.0.2",
     "t3_versions": [
       6,
       7,
       8,
       9,
       10,
-      11
+      11,
+      12
     ],
     "description": "The avalex extension allows to display an automatically generated and updated \"Data Privacy Statement\", \"Imprint\", \"Cancellation Policy\" and \"Terms and conditions\" within a TYPO3 web site.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-Me4/aFBOpQBHvZw0nQ8+anPiUEb1RJgjd94tb+anNR4="
   },
   "avgf_feat_content": {
     "version": "0.0.1",
@@ -5072,6 +5073,15 @@
     ],
     "description": "Bootstrap Package delivers a full configured frontend theme for TYPO3, based on the Bootstrap CSS Framework.",
     "hash": "sha256-2CrjAArraiSfdgd67RigMTd9LRbGnpjpQC+MXPvvP7Q="
+  },
+  "bootstrap_package_iconpack": {
+    "version": "0.1.1",
+    "t3_versions": [
+      10,
+      11
+    ],
+    "description": "Replaces the icons in bootstrap_package with iconpacks.",
+    "hash": "sha256-J92aLACyouTZo9YZD+8ybWObPURhvamnpH2IqlA6ak4="
   },
   "bootstrapicons": {
     "version": "0.0.1",
@@ -11361,28 +11371,31 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cute_mailing": {
-    "version": "3.0.1",
+    "version": "3.1.0",
     "t3_versions": [
-      11
+      11,
+      12
     ],
     "description": "Send TYPO3 pages as emails (newsletter) to many recipients. Can be used as replacement for direct_mail.",
-    "hash": "sha256-vugfaOhdwDXp/Iq2VxdzrpVH9EgIRh5/i/RpfWrpxdA="
+    "hash": "sha256-zLRBO/eepigXcX1HnCZNnJOF8w7RSvJwka9etckyo9Q="
   },
   "cute_mailing_registeraddress": {
-    "version": "2.0.0",
+    "version": "2.1.0",
     "t3_versions": [
-      11
+      11,
+      12
     ],
     "description": "A TYPO3 extension that connects registeraddress and cute-mailing.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-OlVDSmDPTMDeoJV02JFvV89kt8FeRH0Y8eL5QZP6iOY="
   },
   "cute_mailing_ttaddress": {
-    "version": "2.0.0",
+    "version": "2.1.0",
     "t3_versions": [
-      11
+      11,
+      12
     ],
     "description": "A TYPO3 extension that connects tt_address and cute-mailing.",
-    "hash": "sha256-35G1zxdn+ffK5KHoBMFagmTceNWNWrsTeKDFCnrzgfM="
+    "hash": "sha256-CPR0rzvEzyO+X82+gasD1ri24Uxx3M3h2Qr9JRHP2xM="
   },
   "cv_merge_flexform": {
     "version": "0.1.0",
@@ -22339,12 +22352,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "google_indexer": {
-    "version": "1.0.0",
+    "version": "2.0.0",
     "t3_versions": [
       12
     ],
-    "description": "Google Indexer",
-    "hash": "sha256-KQswa2IoNFldoy5Kg3OdQkXLYD5yAVKVasvculq9yKE="
+    "description": "Notify google when you create new pages directly from TYPO3. Supported options: Update, remove and check status",
+    "hash": "sha256-H6kl5FnkdAx5pKZ0D5fM8uNNy6uQSFViT/gcuk5M36o="
   },
   "google_jsapi": {
     "version": "1.0.1",
@@ -24254,13 +24267,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "iconpack": {
-    "version": "0.2.1",
+    "version": "0.3.0",
     "t3_versions": [
       10,
       11
     ],
     "description": "Provides an iconpack-registry for various iconpacks.",
-    "hash": "sha256-IYCUUVkHvhRjHrHZ37MkR9T8Q0zD7XpeqfXIQ1f3WDE="
+    "hash": "sha256-cKF0p/8yAdx2nfVUgoLz1Oswl/L0lu2DBxaUQdE7F7w="
   },
   "iconpack_bootstrap": {
     "version": "1.1.1",
@@ -28707,12 +28720,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ke_search_orgcal_xblog": {
-    "version": "2.0.2",
+    "version": "10.0.1",
     "t3_versions": [
-      8
+      10,
+      11
     ],
     "description": "Faceted Search Indexer for the Organiser table calendar. Page for the detail view must have a xBlog plugin.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-ooK16VZTg2fAZ+ghgviG4edr9MY8GUFxLh4ZTSTA7eo="
   },
   "ke_search_orgnews_browser": {
     "version": "2.0.2",
@@ -28723,12 +28737,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ke_search_orgnews_xblog": {
-    "version": "2.0.2",
+    "version": "10.0.1",
     "t3_versions": [
-      8
+      10,
+      11
     ],
     "description": "Faceted Search Indexer for the Organiser table news. Page for the detail view must have a xBlog plugin.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-IRJZgVwDdKgdkWkWI/9RrVKPXUTtKWRxp3eqRPnIv6I="
   },
   "ke_showproducts": {
     "version": "1.0.2",
@@ -38271,6 +38286,14 @@
     "description": "Show SQL statistics for frontend rendering directly in the frontend.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "nr_saml_auth": {
+    "version": "10.0.9",
+    "t3_versions": [
+      10
+    ],
+    "description": "TYPO3 Saml Authentication for frontend",
+    "hash": "sha256-Vki2GZy6XEyn1ONo7v4w1uTBopSO8qPBWQHAtKkARJo="
+  },
   "nr_semantic_templates": {
     "version": "0.3.0",
     "t3_versions": [],
@@ -38334,15 +38357,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ns_backup": {
-    "version": "2.1.0",
+    "version": "12.0.0",
     "t3_versions": [
-      8,
-      9,
-      10,
-      11
+      12
     ],
     "description": "First-ever feature-rich TYPO3 backup solution with manual and scheduled backup. Easy to use and configure. Backup your TYPO3 code, assets, database etc to your favourite backup clouds/servers. Demo-Screecasts: http://demo.t3planet.com/t3t-extensions/backup/ You can buy PRO-version to get more features and free-support at https://t3planet.com/ns-backup-typo3-extension",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-36GUDqEqYAO87zocn+nbtwoRyBd1KNbOzd6qR/EdsrE="
   },
   "ns_basetheme": {
     "version": "12.0.2",
@@ -38362,15 +38382,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ns_comments": {
-    "version": "2.1.0",
+    "version": "12.0.0",
     "t3_versions": [
-      8,
-      9,
-      10,
-      11
+      12
     ],
-    "description": "Plug-n-play TYPO3 extension to integrate feature-rich comments features anywhere to your TYPO3 site. This extension includes features like post comment, reply to comment, multi-level comment thread, admin moderation etc., Live-Demo: https://demo.t3terminal.com/t3t-extensions/comments You can download PRO version for more-features & free-support at https://t3terminal.com/typo3-comment-extension-typo3-pages-pro",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "description": "Plug-n-play TYPO3 extension to integrate feature-rich comments features anywhere to your TYPO3 site. This extension includes features like post comment, reply to comment, multi-level comment thread, admin moderation etc., Live-Demo: https://demo.t3planet.com/t3t-extensions/comments You can download PRO version for more-features & free-support at https://t3planet.com/typo3-comment-extension-typo3-pages-pro",
+    "hash": "sha256-RQE9lZUXHgi2V2+RRsLBKpsZTSvzWolFXSM+YZz/Sgw="
   },
   "ns_cookiebot": {
     "version": "2.0.2",
@@ -39591,13 +39608,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "official_cleverreach": {
-    "version": "2.0.4",
+    "version": "2.0.5",
     "t3_versions": [
       10,
       11
     ],
     "description": "Are your clients already fans of your business? The perfect email newsletter software for your TYPO3 content management system: test CleverReach® now!",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-G3spYRCx0080Z7yNWYZFM8FEu3LBZ58AyOIPnwHcyds="
   },
   "og_base": {
     "version": "0.0.3",
@@ -42456,14 +42473,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "pixxio_extension": {
-    "version": "2.0.0",
+    "version": "2.0.1",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Integrate pixx.io DAM Digital Asset Management into TYPO3. Use files from your pixx.io media pool with TYPO3 easily and without any detour. Use the search field to search through your pixx.io media library and find the right picture in a flash.",
-    "hash": "sha256-FFQnat6FcZg7nu8nKh8pdfYFSKiuWgmWzFbTtECtb0E="
+    "hash": "sha256-F1fTpC4GLqKGaW9A+fmQZeEl6Q/Twwo8TgCD3NA2rHg="
   },
   "pizpalue": {
     "version": "15.1.0",
@@ -55857,12 +55874,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "taskqueue": {
-    "version": "8.0.7",
+    "version": "9.0.0",
     "t3_versions": [
-      11
+      12
     ],
     "description": "Provides a task queue for other extensions to use.",
-    "hash": "sha256-3lkYnjiVyTjjOBv3SKNt/M4+fwNAdvz4UPRBFKxjXV8="
+    "hash": "sha256-KSQpHIOAQYOx544MrdGAB1BgWotbC1IITezWSUmbyfc="
   },
   "taxajax": {
     "version": "0.8.2",
@@ -63787,14 +63804,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "xima_typo3_mailcatcher": {
-    "version": "1.1.0",
+    "version": "1.2.0",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Display mails that were send to log file",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-UA1TpFyub9dfhVAEOYXIzfrZhxth7nzUwQWqMUsdbTY="
   },
   "xing": {
     "version": "1.0.3",
