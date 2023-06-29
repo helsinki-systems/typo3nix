@@ -12907,13 +12907,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "default_upload_folder": {
-    "version": "1.2.6",
+    "version": "1.3.0",
     "t3_versions": [
       10,
       11
     ],
     "description": "Make it possible to configure the default upload folder for a certain TCA column",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-/h6BD1VBckZqfa8xSzCpiEvXe+QlCsFV8qSU/HkLHsE="
   },
   "defaultcontent": {
     "version": "1.0.0",
@@ -20965,12 +20965,12 @@
     "hash": "sha256-XPHuPwMoM3WTEcxnGMcduX+TLlfTVKlDo24WFbZQk2k="
   },
   "fp_newsletter": {
-    "version": "5.0.2",
+    "version": "5.1.1",
     "t3_versions": [
       12
     ],
     "description": "Plugin for newsletter subscription and unsubscription with double opt in (and double opt out). For: direct_mail or luxletter / tt_address or fe_users. A log is written.",
-    "hash": "sha256-wHR65EsAuFOQ4wbGkmnsmF+ikjaUO75w6jueOypkYoo="
+    "hash": "sha256-R0So51c+D22hBKSchuwugQWODe/gDcIAsOpVDsGoKb4="
   },
   "fp_product_features": {
     "version": "0.2.0",
@@ -38344,17 +38344,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ns_all_sliders": {
-    "version": "6.1.0",
+    "version": "12.0.0",
     "t3_versions": [
-      6,
-      7,
-      8,
-      9,
-      10,
-      11
+      12
     ],
-    "description": "One of the only TYPO3 extension which provides to use most popular jQuery slider plugins at your website. This TYPO3 extension provides to configure sliders eg., Nivo Slider, Royal Slider, Owlcarousel, Sliderjs Slider & more. Demo: https://demo.t3terminal.com/t3t-extensions/sliders/ You can download PRO version for more-features & free-support at https://t3terminal.com/all-in-one-slider-pro/",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "description": "One of the only TYPO3 extension which provides to use most popular jQuery slider plugins at your website. This TYPO3 extension provides to configure sliders eg., Nivo Slider, Royal Slider, Owlcarousel, Sliderjs Slider & more. Demo: https://demo.t3planet.com/t3t-extensions/sliders/ You can download PRO version for more-features & free-support at https://t3planet.com/all-in-one-slider-pro/",
+    "hash": "sha256-SAP9VawOt8EeKwL3Npy2Z/KvnbUT2MlP1nFzT8wk+Pg="
   },
   "ns_backup": {
     "version": "12.0.0",
@@ -39002,13 +38997,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "oauth2_server": {
-    "version": "1.4.0",
+    "version": "1.5.0",
     "t3_versions": [
       10,
       11
     ],
     "description": "OAuth2 server for TYPO3 based on PHP League's OAuth2 Server.",
-    "hash": "sha256-7aO9JbOWoCTQo3tTr0S2YgJHQRPIh/y+JaA5fsJP2Lc="
+    "hash": "sha256-t4U0UDygwuXfod2tfoq24f+8/Wmw930jUZhkI4RPZjw="
   },
   "oauth_openid_single_sign_on": {
     "version": "1.0.4",
@@ -48284,13 +48279,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "scriptmerger": {
-    "version": "8.0.3",
+    "version": "8.1.0",
     "t3_versions": [
       10,
       11
     ],
     "description": "This extension minimizes the http requests by concatenating your css and javascript. Furthermore the result can be minified and compressed. This whole process is highly configurable and is partly based on the \"minify\", \"jsminplus\" and \"jsmin\" projects.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-5KIlGmoaZ90+ai2kj7HcbW0C4GzavW/Wg6BDNk+ZjwQ="
   },
   "scriptmergerbless": {
     "version": "0.0.1",
@@ -48850,12 +48845,12 @@
     "hash": "sha256-7R4YUTOY97lLdks97NYtnmUvcoyFX1sEU2Mr/qWiSHg="
   },
   "sf_event_mgt_contentelements": {
-    "version": "2.0.0",
+    "version": "2.0.1",
     "t3_versions": [
       12
     ],
     "description": "Adds a relation field for content elements to events",
-    "hash": "sha256-o4y7GsYgyXwrefKy18yPIkfPuXzS3qRt7edIPVrI+LI="
+    "hash": "sha256-zodPLTQF+LEwwI+7LjI5f2WxZ+82UOELt7aLAm9+CMs="
   },
   "sf_event_mgt_indexer": {
     "version": "4.0.1",
@@ -54696,12 +54691,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "t3foundation": {
-    "version": "7.0.6",
+    "version": "7.0.8",
     "t3_versions": [
       10
     ],
     "description": "Integration of Zurb Foundation CSS Framework for TYPO3 websites. This extension is optimised for Start TYPO3 Responsive.",
-    "hash": "sha256-DH2a2H6ovHUPZX6WFOPO61LvMRQ7M9ie9OJaHjYh0Wg="
+    "hash": "sha256-NZUAjzpEHb+vm/HoY+iIjB0pI41znRec3f8QwSleE5w="
   },
   "t3getid3": {
     "version": "1.1.1",
