@@ -16993,13 +16993,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "evangtermine": {
-    "version": "2.2.3",
+    "version": "2.2.6",
     "t3_versions": [
       10,
       11
     ],
     "description": "Anzeige des Terminkalenders der Vernetzten Kirche in der Ev.-Luth. Kirche in Bayern und weiteren teilnehmenden evangelischen Landeskirchen.",
-    "hash": "sha256-erMT3ynHNETGyDX+MfIo8GkyHHvES/j7tiusncJiY78="
+    "hash": "sha256-QubsREIV+b73tKdFAYQlcryVL+KIJMLPgTIalDPLcVs="
   },
   "evcontext": {
     "version": "0.0.1",
@@ -38360,12 +38360,12 @@
     "hash": "sha256-36GUDqEqYAO87zocn+nbtwoRyBd1KNbOzd6qR/EdsrE="
   },
   "ns_basetheme": {
-    "version": "12.0.2",
+    "version": "12.0.3",
     "t3_versions": [
       12
     ],
     "description": "The architecture of parent/child TYPO3 theme concept. Explore https://t3planet.com and https://nitsantech.com",
-    "hash": "sha256-XLOUouaKkouY2aIryMeZeyFsfHqnlfzjY9p4VjQ1JK4="
+    "hash": "sha256-UYNsx6wd5KJ5uyr+hh6SWEfTY78uuYAH4lcQu+0eG4k="
   },
   "ns_cache_webhook": {
     "version": "1.0.0",
@@ -40111,13 +40111,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "org": {
-    "version": "11.0.1",
+    "version": "11.0.3",
     "t3_versions": [
       10,
       11
     ],
     "description": "The Organiser is a blog databse for the lobby. It provides a lot of tables like boards, calendar, contacts, events, jobs, locations, news, organisers, staff, seminars and services.",
-    "hash": "sha256-OEN51dFhorblRSnMiiV2G7yi6ooxwAJyAMI3fIFw2A4="
+    "hash": "sha256-QoCnYTHmue+9kM884HCP0pv2UvKRTr/ZZPWo0UNaH4s="
   },
   "org_installer": {
     "version": "8.0.22",
@@ -48933,10 +48933,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sf_yubikey": {
-    "version": "5.0.0",
-    "t3_versions": [],
+    "version": "5.0.2",
+    "t3_versions": [
+      12
+    ],
     "description": "An authentication service for TYPO3 which extends the backend/frontend login by YubiKey OTP two-factor authentication.",
-    "hash": "sha256-jnw6UkUFyvx1et8R17MsZOqIANPB9LuRc/jXwzYaSBs="
+    "hash": "sha256-AoG6dDk/6cN/UtwzQcVlfRFTQ0zASd5KcX6ZlWASjMk="
   },
   "sfdbutf8": {
     "version": "2.1.0",
@@ -54328,7 +54330,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "t3_tcpdf": {
-    "version": "6.0.1",
+    "version": "6.0.2",
     "t3_versions": [
       7,
       8,
@@ -54337,7 +54339,7 @@
       11
     ],
     "description": "Make TCPDF library (www.tcpdf.org) available within TYPO3.",
-    "hash": "sha256-eM3Ob4FeldZADwDASpmazUS1T71gCIxAz/iTZHvMcwo="
+    "hash": "sha256-VGsWu6yWYMatb5Tgj0HgJhvFTsWDnxm6nFCrDvfO2lg="
   },
   "t3_translator": {
     "version": "1.0.2",
