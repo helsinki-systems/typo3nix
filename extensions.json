@@ -7770,13 +7770,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cf_cookiemanager": {
-    "version": "1.1.2",
+    "version": "1.1.6",
     "t3_versions": [
       11,
       12
     ],
     "description": "This extension gives you the possibility to Manage the Cookie Consent Modal on your Website",
-    "hash": "sha256-HvlTZaow6RHAIXET7g3DEua3AacfxTuJqnIg2xDZ850="
+    "hash": "sha256-4Hlox/oU5RKaQeF5ktVuHP/nvnGqrqd2zr0K9sRAwSE="
   },
   "cf_google_authenticator": {
     "version": "1.2.4",
@@ -20468,13 +20468,14 @@
     "hash": "sha256-xHMUmUruf2U8HfHh1n+Hwg1F4FBnYhvxxRYQdSlrBAc="
   },
   "form_crshield": {
-    "version": "1.3.0",
+    "version": "1.3.1",
     "t3_versions": [
       10,
-      11
+      11,
+      12
     ],
     "description": "Challenge/response spambot protection for ext:form",
-    "hash": "sha256-OVWB7d9HWzZ79yLTMd2lJ1dAJ9RtKW8IzHsrJ73BVUc="
+    "hash": "sha256-0M3ZTOqcbBmfIlbU0m4qVN/JV8oVjEGzk1oLLyYb1VU="
   },
   "form_doubleoptin": {
     "version": "1.1.1",
@@ -27530,12 +27531,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "jpfaq": {
-    "version": "12.4.0",
+    "version": "12.4.2",
     "t3_versions": [
       12
     ],
     "description": "Frequently Asked Questions (FAQ) plugin. With categories, on-the-fly search, customer helpfulness tracking and comments.",
-    "hash": "sha256-VtW9hSE71mmH7tr7V6Tk2WNFSKCFfsRXf0lXt0LYQTo="
+    "hash": "sha256-eQ7L+e9jwyfM+VdyWQESxQJIApZVQVBqcNN8uSEq92g="
   },
   "jpgraph": {
     "version": "0.3.11",
@@ -51897,13 +51898,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "solver": {
-    "version": "0.2.4",
+    "version": "0.2.5",
     "t3_versions": [
       11,
       12
     ],
     "description": "Extends TYPO3's exception handling with AI generated solutions. Problems can also be solved from command line. Several OpenAI parameters are configurable and prompts and solution providers can be customized as desired.",
-    "hash": "sha256-bFBhcKU8VyEvAIsqdMg7+oMzQkH9sZpD8AKlZa7XlJE="
+    "hash": "sha256-WSUDHZ/U2+Ud8e11GrXeYMfCcNGB6gts7wJJVD5hOzw="
   },
   "sorp": {
     "version": "0.1.0",
@@ -61388,13 +61389,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "vuejs": {
-    "version": "1.1.0",
+    "version": "1.1.1",
     "t3_versions": [
       10,
       11
     ],
     "description": "Vue.js Framework for TYPO3 Backend Modules",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-a+PYVKnvpDBt+KI1wRf5ChVSjOap4+m2zHtZj5HcQHI="
   },
   "vx_damcatassetsorting": {
     "version": "1.0.1",
@@ -61935,13 +61936,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "webfonts": {
-    "version": "0.3.2",
+    "version": "0.4.0",
     "t3_versions": [
-      10,
-      11
+      12
     ],
     "description": "Easy way to use self-hosted webfonts on your website.",
-    "hash": "sha256-4gGFvoP06+cnkfZTIIEEik203oaSyKE4GGRrV0jVAII="
+    "hash": "sha256-4hrmOcQHabrefzjNUTF+F8mnwBdlJTJQYdB7lOYToS0="
   },
   "webhelp": {
     "version": "11.0.0",
