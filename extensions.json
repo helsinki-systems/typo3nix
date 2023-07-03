@@ -11271,12 +11271,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "custom_dashboard_widgets": {
-    "version": "1.2.1",
+    "version": "1.3.0",
     "t3_versions": [
-      10
+      12
     ],
     "description": "Set of custom widgets for the new dashboard module. Let's start creating your own!",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-pYW1Z776/J78ZRY4aAP+BbntwijtuZAAx/44Xg9B73o="
   },
   "custom_error_page": {
     "version": "1.3.0",
@@ -12530,6 +12530,15 @@
     "t3_versions": [],
     "description": "Gives The ability to delete pages and their content according to information stored in the Pages Typo3 Table",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "db_rector": {
+    "version": "12.0.0",
+    "t3_versions": [
+      11,
+      12
+    ],
+    "description": "This TYPO3 extension is an typo3-rector adapter with backend module to refactor sys_template.config data.",
+    "hash": "sha256-o/rjVrbf3cEJQbBb7IWZ/JmS1bcVZls1ePhdfGXGXwk="
   },
   "dbal": {
     "version": "8.4.1",
@@ -33612,13 +33621,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "microtango": {
-    "version": "1.0.0",
+    "version": "1.5.2",
     "t3_versions": [
       10,
       11
     ],
     "description": "Microtango Typo3 integration. Requires subscription from DMS. Will include the Microtango REST API to show your cloud data.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-AQZF9Hqa+uAIOlKaAsL3mUQYmZRntXWjaMfFxQiFsMU="
   },
   "microtemplate": {
     "version": "4.1.0",
@@ -34179,13 +34188,13 @@
     "hash": "sha256-LYLaird5xN9EiDiJ23crgAdszzu0OwI4Xf7bd380o0M="
   },
   "mksearch": {
-    "version": "10.1.7",
+    "version": "11.0.7",
     "t3_versions": [
-      9,
-      10
+      10,
+      11
     ],
     "description": "Generic highly adjustable and extendable search engine framework, using Zend Lucene, Apache Solr or ElasticSearch. But support for other search engines can be provided easily.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-I3jN81vy+1WTIXWRHQs2aN4DZ9jahr4l30BLF1adClk="
   },
   "mktools": {
     "version": "11.0.1",
@@ -37859,17 +37868,12 @@
     "hash": "sha256-T6S+H/Bau4+7nkgmqF8RqaGYCIUunRHut63M2Gq3RNg="
   },
   "nitsan_maintenance": {
-    "version": "5.1.0",
+    "version": "12.0.0",
     "t3_versions": [
-      6,
-      7,
-      8,
-      9,
-      10,
-      11
+      12
     ],
-    "description": "Do you want to make your site temporary offline like coming soon and maintenance mode? This extension will help you with simple plug & play to your TYPO3 instance. Demo: https://demo.t3terminal.com/t3t-extensions/maintenance-mode/ You can download PRO version for more-features & free-support at https://t3terminal.com/nitsan-maintenance-pro/",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "description": "Do you want to make your site temporary offline like coming soon and maintenance mode? This extension will help you with simple plug & play to your TYPO3 instance. Demo: https://demo.t3terminal.com/t3t-extensions/maintenance-mode/ You can download PRO version for more-features & free-support at https://t3planet.com/typo3-maintenance-mode-extension",
+    "hash": "sha256-QxkyjHD9OF6DHZUFOCn5K7W4zNizwYlU7JsLfiP0528="
   },
   "nittygritty": {
     "version": "2.0.0",
@@ -38333,16 +38337,17 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ns_all_lightbox": {
-    "version": "5.0.5",
+    "version": "12.0.0",
     "t3_versions": [
       7,
       8,
       9,
       10,
-      11
+      11,
+      12
     ],
-    "description": "One of the only TYPO3 extension which provides to use most popular jQuery Lightbox/Modalbox at TYPO3 content elements. This TYPO3 extension provides to configure many jQuery plugins eg., lightbox2, fancybox2, colorbox, prettyphoto, darkbox, magnific-popup. Live-Demo: https://demo.t3terminal.com/t3t-extensions/lightbox/default-lightbox/ You can download PRO version for more-features & free-support at https://t3terminal.com/ns-all-in-one-lightbox-free/",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "description": "One of the only TYPO3 extension which provides to use most popular jQuery Lightbox/Modalbox at TYPO3 content elements. This TYPO3 extension provides to configure many jQuery plugins eg., lightbox2, fancybox2, colorbox, prettyphoto, darkbox, magnific-popup. Live-Demo: https://demo.t3planet.com/t3t-extensions/lightbox/default-lightbox/ You can download PRO version for more-features & free-support at https://t3planet.com/typo3-lightbox-extension",
+    "hash": "sha256-aX/MPEFpFQRGYDieT8OrTpIJ2FtgxAaX7HTv/3MADg0="
   },
   "ns_all_sliders": {
     "version": "12.0.0",
@@ -38592,15 +38597,12 @@
     "hash": "sha256-LvHNn5jfPHrDX10XQGyjTNjz2MNVfGWghxKBg/F4Y0A="
   },
   "ns_news_comments": {
-    "version": "5.1.0",
+    "version": "12.0.0",
     "t3_versions": [
-      8,
-      9,
-      10,
-      11
+      12
     ],
     "description": "Do you want to smoothly integrate comment features in your favourite News extension? This extension includes powerful features like post comment, reply to comment, multi-level comment thread, moderation etc., Demo: https://demo.t3planet.com/t3t-extensions/news-comments/ You can download PRO version for more-features & free-support at https://t3planet.com/news-comment-typo3-extension/",
-    "hash": "sha256-72DmAfUo7/irsWi8C1YsqtBZ13tOcpQ4tt+qJg7RvPo="
+    "hash": "sha256-2xKvyrqEqiJ9RHvM4lCaiK+hjhlRpwa2N+uwrWBWXAQ="
   },
   "ns_news_slider": {
     "version": "4.1.0",
@@ -38616,15 +38618,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ns_open_streetmap": {
-    "version": "1.0.1",
+    "version": "12.0.0",
     "t3_versions": [
-      8,
-      9,
-      10,
-      11
+      12
     ],
     "description": "This extension can easily integrate of powerful features of OpenStreet map like find-places, find-direction between locations etc. Live-Demo: https://demo.t3planet.com/t3-extensions/openstreet-map You can download PRO version for more-features & free-support at https://t3planet.com/typo3-openstreetmap-extension",
-    "hash": "sha256-H3Oz49R3uSPVTZPsn/9eg/zHSsGEoDvKJzIm1EFssbo="
+    "hash": "sha256-dNvxcsLt2LU6RnG+fswXbIsmMkmYDefTGDKDL5iIjdM="
   },
   "ns_protect_site": {
     "version": "2.0.4",
@@ -43176,20 +43175,22 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "powermailautocomplete": {
-    "version": "2.0.0",
+    "version": "2.1.0",
     "t3_versions": [
-      11
+      11,
+      12
     ],
     "description": "Add autocomplete tokens to powermail fields",
-    "hash": "sha256-KC5aZ+vCjR6VTPvBgzfgILjYaKNJn0YURA+V/rjvzb8="
+    "hash": "sha256-zF1hP6Fzzj1GbUCgHDhYjGdCKcItfICrqNAShog2TI8="
   },
   "powermailcaptcha": {
-    "version": "1.3.0",
+    "version": "1.4.0",
     "t3_versions": [
-      11
+      11,
+      12
     ],
     "description": "Captcha Extension for Powermail",
-    "hash": "sha256-R0p48BuK4wX9MuJ6OHt5i/qD15wt0QNlopROjGhn7xE="
+    "hash": "sha256-IrKt9lJOkt48QDk9uuAHIzWob1C6uShg5znnaUpH1F8="
   },
   "powermailcustomcss": {
     "version": "1.1.0",
@@ -45576,12 +45577,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "restler": {
-    "version": "11.0.5",
+    "version": "11.0.6",
     "t3_versions": [
       11
     ],
     "description": "This extension integrates the REST-API-framework \"restler\" in TYPO3",
-    "hash": "sha256-bqb5op63yiaa7oliHgbDca+57+gPKXPFLH8BZ/ZRNHE="
+    "hash": "sha256-ZeTrqhJFu4x6J3AX20Jm8dJWUVpfvTTRl04bTovIdE8="
   },
   "restler_examples": {
     "version": "10.1.1",
@@ -47912,15 +47913,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "save": {
-    "version": "1.2.0",
+    "version": "2.0.0",
     "t3_versions": [
-      8,
-      9,
-      10,
-      11
+      12
     ],
     "description": "Adds the possibility to use the keyboard shortcut CTRL+S to save in TYPO3 CMS backend.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-xb7tVsa5GvkEuAr617fRsaEY3RUN1yDE+RO5F+Jy0Kg="
   },
   "save_and_close": {
     "version": "12.0.2",
