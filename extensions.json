@@ -2245,7 +2245,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ameos_tarteaucitron": {
-    "version": "2.0.0",
+    "version": "2.1.0",
     "t3_versions": [
       8,
       9,
@@ -2254,7 +2254,7 @@
       12
     ],
     "description": "Integrates tarteaucitron.js in TYPO3 (see : https://tarteaucitron.io )",
-    "hash": "sha256-cc2rrCi3A6t651WqQHH/j9i+1ck3hqT2Rr7xozHpBf4="
+    "hash": "sha256-4kWwLR1DrppB6qpJX283JboSLC1wzj6h5rY+Svze4Sw="
   },
   "ameos_typo3_vulnerabilities": {
     "version": "1.0.0",
@@ -4322,14 +4322,15 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "belogin_images": {
-    "version": "4.0.2",
+    "version": "4.0.3",
     "t3_versions": [
       9,
       10,
-      11
+      11,
+      12
     ],
     "description": "Display random Background Images from different sources at your TYPO3 BackendLogin Page.",
-    "hash": "sha256-dLvkxPsfjTLwrqQALZLR/FdjHZQgsX5X+jGULACwKgs="
+    "hash": "sha256-H5dCN10QvgADVbizT7xIZu7DPyGQRp8PImofyhD1F1g="
   },
   "bepagination": {
     "version": "0.1.0",
@@ -23867,12 +23868,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "html5mediakit": {
-    "version": "12.0.0",
+    "version": "12.1.0",
     "t3_versions": [
       12
     ],
     "description": "Allows easy embedding of HTML5 video and audio elements.",
-    "hash": "sha256-o/WibdAEPDrk1816vOV70hFBEKl6uTI3qN7pb6768sM="
+    "hash": "sha256-lwJXzsw4iNuzKaPm2ZP7WZPeMHUgYVYTgXIH2xh01MA="
   },
   "html5meta_t3lib_pagerenderer": {
     "version": "0.1.0",
@@ -37742,15 +37743,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "nginx_cache": {
-    "version": "2.2.3",
+    "version": "3.0.0",
     "t3_versions": [
-      7,
-      8,
-      9,
-      10
+      12
     ],
     "description": "Add cache control header and purge nginx cache",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-+mwbj6O2e8WEDQeDqu1PgsSfkPi83d3bUqhbgaBvMQU="
   },
   "nginx_connector": {
     "version": "1.0.2",
@@ -38324,17 +38322,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ns_all_chat": {
-    "version": "3.0.4",
+    "version": "12.0.0",
     "t3_versions": [
-      6,
-      7,
-      8,
-      9,
-      10,
-      11
+      12
     ],
-    "description": "One of the only TYPO3 extension which provides to use most popular chat tool at your website. This TYPO3 extension provides to configure many live chat tools eg., zopim.com, livechatinc.com, purechat.com, livezilla.net, clickdesk.com, tidiochat.com, visitlead.com, onwebchat.com, userlike.com, hipchat.com etc. Live-Demo: https://demo.t3terminal.com/t3t-extensions/ You can download PRO version for more-features & free-support at https://t3planet.com/typo3-chat-extension",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "description": "One of the only TYPO3 extension which provides to use most popular chat tool at your website. This TYPO3 extension provides to configure many live chat tools eg., zopim.com, livechatinc.com, purechat.com, livezilla.net, clickdesk.com, tidiochat.com, visitlead.com, onwebchat.com, userlike.com, hipchat.com etc. Live-Demo: https://demo.t3planet.com/t3t-extensions/ You can download PRO version for more-features & free-support at https://t3planet.com/typo3-chat-extension",
+    "hash": "sha256-uZzPVE7Ght3Cg4G0SzaqeZwo7GhYVvbhHvSyiN74gbI="
   },
   "ns_all_lightbox": {
     "version": "12.0.0",
@@ -38416,17 +38409,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ns_disqus_comments": {
-    "version": "2.0.2",
+    "version": "12.0.0",
     "t3_versions": [
-      6,
-      7,
-      8,
-      9,
-      10,
-      11
+      12
     ],
-    "description": "Easily configure Disqus.com plugin to your TYPO3 pages, news, blogs etc., Disqus is world one of the most popular comment system. LIVE Demo: https://demo.t3terminal.com/t3t-extensions/disqus-comment/ PRO version: https://t3terminal.com/typo3-disqus-comment-extension",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "description": "Easily configure Disqus.com plugin to your TYPO3 pages, news, blogs etc., Disqus is world one of the most popular comment system. LIVE Demo: https://demo.t3terminal.com/t3t-extensions/disqus-comment/ PRO version: https://t3planet.com/typo3-disqus-comment-extension",
+    "hash": "sha256-Tpe3yFTPNX0sjr8gz29BqMKetju+hX7RPnmUS7CQyxU="
   },
   "ns_ext_compatibility": {
     "version": "5.1.1",
@@ -38661,17 +38649,12 @@
     "hash": "sha256-yBzjBmR8f3S/wX6XuriW2jW7NdCncmPTQKkB5Lq9lV4="
   },
   "ns_snow": {
-    "version": "2.1.0",
+    "version": "12.0.0",
     "t3_versions": [
-      6,
-      7,
-      8,
-      9,
-      10,
-      11
+      12
     ],
     "description": "Christmas Snow spreads the cheer of Christmas by adding beautiful snowflakes and snow-fall animation to your TYPO3 website with our little addon ns_snow and all the pages will show falling flakes of snow! LIVE Demo: https://demo.t3planet.com/t3t-extensions/snow/ PRO version: https://t3planet.com/snowfall-typo3-extension-free",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-9G+Xr27b8h0H0oI1LQG7JFEinIno99/IVq/LMMG5QdI="
   },
   "ns_statcounter": {
     "version": "3.0.2",
@@ -39970,14 +39953,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "openagenda": {
-    "version": "1.0.1",
+    "version": "1.1.0",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Display calendars from https://openagenda.com on your site.",
-    "hash": "sha256-6ohq7/JDEQOaB1GEBcwXQL7DdQJ/xwP76tYz5/uhtxY="
+    "hash": "sha256-lPT4yP5sgph+3pQvYrc2vxjOk4QFimb6UoApeIiFoqo="
   },
   "opendigital_rss_reader": {
     "version": "0.2.0",
@@ -52871,14 +52854,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "startt3managed": {
-    "version": "0.1.0",
+    "version": "0.1.3",
     "t3_versions": [
-      6,
-      7,
-      8
+      10,
+      11
     ],
     "description": "Backend style for a managed TYPO3 with CI of Die Netzmacher. Maybe a useful draft for your CI extension.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-5NfWVRyDVE6nV1VUN0IxyB9i3tJ/NsgzyitRrYviM7c="
   },
   "stash": {
     "version": "0.2.0",
@@ -57153,12 +57135,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "tika": {
-    "version": "11.0.0",
+    "version": "11.0.1",
     "t3_versions": [
       11
     ],
     "description": "Provides Tika services for TYPO3 to detect a document's language, extract meta data, and extract content from files. Can either use a stand alone Tika executable or Tika integrated in a Solr server with an activated extracting request handler.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-IYxO/Z6nGekycvXM3mo/ACCh2PD2wttgSoiA50QaoaE="
   },
   "tiktok": {
     "version": "2.0.1",
