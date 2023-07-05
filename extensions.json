@@ -18979,13 +18979,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fh_debug": {
-    "version": "0.14.0",
+    "version": "0.15.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "This generates a PHP debug output file. FileWriter into debug",
-    "hash": "sha256-0kHY9qcgI1FKN6rXvHE0hlVIaU64jJDboXHhe06MCOs="
+    "hash": "sha256-vCZHJk0plD0XonTHJntH+E4oYJRJa0tO7XOSXfq2G7A="
   },
   "fh_library": {
     "version": "0.0.20",
@@ -33229,12 +33229,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mfa_webauthn": {
-    "version": "1.2.0",
+    "version": "1.2.2",
     "t3_versions": [
-      11
+      11,
+      12
     ],
     "description": "WebAuthn Provider for TYPO3 Multi Factor Authentication",
-    "hash": "sha256-dYzGQX9bHYL+mhquZTd7KIDERuug3YZiKZhiq+prr84="
+    "hash": "sha256-cXqqFMVGgMITXpBgJq1/XOFQvMYXPJaW0CgPehgMMq0="
   },
   "mfa_yubikey": {
     "version": "2.0.1",
@@ -37733,14 +37734,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ng_fastyoutube": {
-    "version": "0.4.0",
+    "version": "1.5.0",
     "t3_versions": [
-      8,
-      9,
-      10
+      10,
+      11
     ],
     "description": "TYPO3 Plugin that displays YouTube-videos faster by loading the video-player on demand while displaying a cacheable preview picture.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-qbyVJsT9CxkqjimQqPDEToxSKQ/aF+E2vlrZu3FrUa8="
   },
   "nginx_cache": {
     "version": "3.0.0",
@@ -38625,15 +38625,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ns_revolution_slider": {
-    "version": "1.2.1",
+    "version": "12.0.0",
     "t3_versions": [
-      8,
-      9,
-      10,
-      11
+      12
     ],
-    "description": "World's most popular WordPress slider revolution is now available in TYPO3. We recommend to try our premium version, which includes backend slider revolution mdoule https://t3terminal.com/revolution-slider-typo3-extension",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "description": "World's most popular WordPress slider revolution is now available in TYPO3. We recommend to try our premium version, which includes backend slider revolution mdoule https://t3planet.com/revolution-slider-typo3-extension",
+    "hash": "sha256-Gy1PwW6weyXEkA8417ziuMb+xswL07fvAHI9nC+MxYs="
   },
   "ns_sharethis": {
     "version": "3.0.2",
@@ -42346,12 +42343,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "pits_downloadcenter": {
-    "version": "5.0.0",
+    "version": "5.0.1",
     "t3_versions": [
       11
     ],
     "description": "Download Center Sponsored by TNT-Graphics AG",
-    "hash": "sha256-G1W0d8F2HWMQGckMvfKA4sErzhWP/fSp2hal0azHZm0="
+    "hash": "sha256-A/4dV0iabVOV0oeepp/uv8nx0IXgro9sF+qzE22fXRg="
   },
   "pits_googlecse": {
     "version": "1.0.1",
@@ -44209,13 +44206,13 @@
     "hash": "sha256-VVOKoOZ6wO2URPT/0Uet68iFY8yW/lbMyguTaipOKBA="
   },
   "qc_redirects": {
-    "version": "1.1.1",
+    "version": "1.1.2",
     "t3_versions": [
       10,
       11
     ],
     "description": "Extends Core's Redirects Module with a Title column, showing creation and modification date and more sorting and filtering options. Also add an import redirects functionality.",
-    "hash": "sha256-+JDn4K36uh2U68FG9FKUJUJWKW435IWrmHDbPlNytAE="
+    "hash": "sha256-WCu0o4om2XL7FjEmtyyFg+xeu+/WTbNx1tBuduitid0="
   },
   "qc_references": {
     "version": "1.0.1",
@@ -58895,6 +58892,16 @@
     "description": "",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "treupo_sys_note_widgets": {
+    "version": "1.2.1",
+    "t3_versions": [
+      10,
+      11,
+      12
+    ],
+    "description": "A collection of widgets which shows a list of sys_notes",
+    "hash": "sha256-1QNCOtipkbIvc3apTwZDktlA52yrpSczT2D0ca0ja00="
+  },
   "tripadvisor": {
     "version": "0.0.1",
     "t3_versions": [
@@ -64302,14 +64309,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "yoast_seo": {
-    "version": "9.0.0",
+    "version": "9.0.1",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Optimise your website for search engines with Yoast SEO for TYPO3. With this extension you get all the technical SEO stuff you need and will help editors to write high quality content.",
-    "hash": "sha256-omWj1Eumnx7hrSV3U8MvqL8PYqFE80eZvahCkqS98No="
+    "hash": "sha256-5/bL6ZckAyJ7S8fH/Atsugx/ohvD3sWGGUjMvCjMRYw="
   },
   "yoo_blockimage": {
     "version": "1.0.0",
