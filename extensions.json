@@ -18979,13 +18979,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fh_debug": {
-    "version": "0.15.0",
+    "version": "0.15.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "This generates a PHP debug output file. FileWriter into debug",
-    "hash": "sha256-vCZHJk0plD0XonTHJntH+E4oYJRJa0tO7XOSXfq2G7A="
+    "hash": "sha256-hQXaOmF209I5NozAX0XBlfAqyETr8odNqPV1xPhhNZI="
   },
   "fh_library": {
     "version": "0.0.20",
@@ -38480,16 +38480,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ns_google_map": {
-    "version": "3.1.2",
+    "version": "12.0.0",
     "t3_versions": [
-      7,
-      8,
-      9,
-      10,
-      11
+      12
     ],
     "description": "This extension can easily integrate of powerful features of Google map like find-places, find-direction between locations etc. Live-Demo: https://demo.t3planet.com//t3t-extensions/google-map You can download PRO version for more-features & free-support at https://t3planet.com/typo3-google-map-typo3-extension-pro",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-250y/itqcPB6c0ETkRynCQ8KviPXGDYxWfikd0Ci3Xk="
   },
   "ns_googledocs": {
     "version": "2.0.0",
@@ -42459,19 +42455,21 @@
     "hash": "sha256-F1fTpC4GLqKGaW9A+fmQZeEl6Q/Twwo8TgCD3NA2rHg="
   },
   "pizpalue": {
-    "version": "15.1.0",
+    "version": "15.2.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Extension to create websites using bootstrap. It builds upon the bootstrap_package from Benjamin Kott and increases functionality by supporting the following extensions:  container_elements, news, eventnews, tt_address",
-    "hash": "sha256-cd8l8evMC5nGNMwR2vTAn/HsfAUWyhp5xVkeGtV6IiM="
+    "hash": "sha256-kG3n98+XmVLzVJ+4EsQkFArObM3XGBl2yO+eUWjZmY8="
   },
   "pizpalue_distribution": {
-    "version": "6.0.0",
-    "t3_versions": [],
+    "version": "6.1.0",
+    "t3_versions": [
+      12
+    ],
     "description": "This distribution provides a sample website using bootstrap and the extensions pizpalue and container_elements. The distribution tailors Swiss market featuring German as default language and additional translations to French, English and Finnish.",
-    "hash": "sha256-wlaenT1bTQQ25t4PSb4lvqdJT5jfGctAx5LvEbtj+cg="
+    "hash": "sha256-sXoG+/5+p8yhavjRx+VaoGANfmkQdfVffLIAZHJZ/UU="
   },
   "pk_banner": {
     "version": "0.0.1",
@@ -60112,12 +60110,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "typo3_docchecklogin": {
-    "version": "1.0.1",
+    "version": "2.0.5",
     "t3_versions": [
-      11
+      11,
+      12
     ],
     "description": "Integrate DocCheck Login with your Project",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-SB5c4suBUVsu43+C6Nk6AcOnnXq8P3Dldfbr0eFoL48="
   },
   "typo3_dummy_extension": {
     "version": "1.1.0",
