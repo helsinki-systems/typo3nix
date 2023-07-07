@@ -5177,12 +5177,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "brofix": {
-    "version": "4.4.2",
+    "version": "4.4.3",
     "t3_versions": [
       11
     ],
     "description": "Check for broken links and fix them via a backend module (forked from core linkvalidator)",
-    "hash": "sha256-4Tk2UgZfKc8bXeBUaCGuS+sdE+cvCNBAowYYlwOIlsM="
+    "hash": "sha256-BXG14o9KFEzXirpVgdpjCI1GjRNjAoLTtwrRczT/myo="
   },
   "browser": {
     "version": "10.0.3",
@@ -9770,6 +9770,15 @@
     ],
     "description": "Displays a little message on the top of the Backend about the current context along with some useful info as tooltip.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "context_indicator": {
+    "version": "1.0.0",
+    "t3_versions": [
+      11,
+      12
+    ],
+    "description": "Makes the application context more prominent in the backend.",
+    "hash": "sha256-aifpi1jkR6uQw68IQcunZEUAE7cZuW2f6HevVtAbe2g="
   },
   "context_loader": {
     "version": "1.0.0",
@@ -19111,14 +19120,15 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "file_list": {
-    "version": "2.6.0",
+    "version": "2.7.0",
     "t3_versions": [
       9,
       10,
-      11
+      11,
+      12
     ],
     "description": "This extension provides a frontend plugin which shows a list of files and folders in a specified directory on the file system (comparable to Apache directory listing) or using more advanced FAL selectors (categories, collection of files, ...). This extension may also be used for creating image galleries. Default templates are Bootstrap-ready.",
-    "hash": "sha256-Y7RBjmHUi6stlMoPbXp8fVJDxaR1gKwPSSw/QwkxPuk="
+    "hash": "sha256-oLx+mMkLATYuWeMxJdT1+IbdGGOuTx5icR0+Uddg22I="
   },
   "file_ref_list": {
     "version": "0.1.1",
@@ -38469,15 +38479,12 @@
     "hash": "sha256-IHYjDoPyoixEKI1RWKiNG2h60QAxGtKp7KZIgIb2j0s="
   },
   "ns_gallery": {
-    "version": "2.1.1",
+    "version": "12.0.0",
     "t3_versions": [
-      8,
-      9,
-      10,
-      11
+      12
     ],
     "description": "Do you want to integrate feature-rich gallery solution to your TYPO3 site? The extension includes wide-range of gallery album variations. Demo: https://demo.t3planet.com/t3t-extensions/gallery You can download PRO version for more-features & free-support at https://t3planet.com/ns-gallery-typo3-extension",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-zCSykQbswLgBXSb3fQ3Cag60S5XZBHnFOZLjWQ0DqTE="
   },
   "ns_google_map": {
     "version": "12.0.0",
@@ -38629,17 +38636,12 @@
     "hash": "sha256-Gy1PwW6weyXEkA8417ziuMb+xswL07fvAHI9nC+MxYs="
   },
   "ns_sharethis": {
-    "version": "3.0.2",
+    "version": "12.0.0",
     "t3_versions": [
-      6,
-      7,
-      8,
-      9,
-      10,
-      11
+      12
     ],
-    "description": "Easy to configure socially-share your TYPO3 site using www.Sharethis.com which is one of the most popular third-party social media platform! Live-Demo: https://demo.t3terminal.com/t3t-extensions/ You can download PRO version for more-features & free-support at https://t3terminal.com/typo3-sharethis-plugin-free/",
-    "hash": "sha256-yBzjBmR8f3S/wX6XuriW2jW7NdCncmPTQKkB5Lq9lV4="
+    "description": "Easy to configure socially-share your TYPO3 site using www.Sharethis.com which is one of the most popular third-party social media platform! Live-Demo: https://demo.t3planet.com/t3t-extensions/ You can download PRO version for more-features & free-support at https://t3planet.com/typo3-sharethis-extension",
+    "hash": "sha256-Gq5f97M42dqRNDRKJMLT4MRrlI4y6mAy9sN1F0F+7TY="
   },
   "ns_snow": {
     "version": "12.0.0",
@@ -38663,22 +38665,20 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ns_theme_agency": {
-    "version": "4.0.5",
+    "version": "12.0.0",
     "t3_versions": [
-      10,
-      11
+      12
     ],
-    "description": "Agency TYPO3 template is an ultimate tool to kickstart your project, either a software development company, or a product startup or any new business. Live-Demo: https://demo.t3planet.com/?theme=t3t-agency PRO version: https://t3planet.com/t3-agency-free-business-typo3-template",
-    "hash": "sha256-QkqNMjDLtwJ8aj6DPAR7SwcOQvTu+kEehc8Oc9ATkbU="
+    "description": "Agency TYPO3 template is the ultimate tool to kickstart your project, either a software development company or a product startup or any new business. Live-Demo: https://demo.t3planet.com/?theme=t3t-agency PRO version: https://t3planet.com/t3-agency-free-business-typo3-template",
+    "hash": "sha256-Iyxc+LKptf4UBYTpYWwK/sGbbJA3S3wR9M7bHkVUIQw="
   },
   "ns_theme_cleanblog": {
-    "version": "3.0.6",
+    "version": "12.0.0",
     "t3_versions": [
-      10,
-      11
+      12
     ],
     "description": "T3 Clean Blog Free TYPO3 Template is a premium TYPO3 theme for personal or company blog with minimal & clean design, super easy settings, light, and ultra-fast page speed. Live-Demo: https://demo.t3terminal.com/?theme=t3t-cleanblog PRO version: https://t3planet.com/t3-clean-blog-free-typo3-template",
-    "hash": "sha256-9qXJUS8A2xbgEVM/I6A8kOdcJdSoOTkj7EuKhqvIDvQ="
+    "hash": "sha256-vKqymNjP7bY8Nq/xVQDO0zQk7g6l97ni1djeCJaWv98="
   },
   "ns_theme_comingsoon": {
     "version": "11.1.2",
@@ -38701,22 +38701,20 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ns_theme_freelancer": {
-    "version": "3.1.2",
+    "version": "12.0.0",
     "t3_versions": [
-      10,
-      11
+      12
     ],
     "description": "Every freelancer dream just came true, as we have ve made T3 freelancer, Free TYPO3 Portfolio Template! Live-Demo: https://demo.t3terminal.com/?theme=t3t-freelancer PRO-version: https://t3terminal.com/t3-freelancer-free-typo3-portfolio-template",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-Zs2n74V6Q39qlPdBYXuWI4i43MTG7PrAMRbc1d653Kw="
   },
   "ns_theme_newage": {
-    "version": "4.0.3",
+    "version": "12.0.0",
     "t3_versions": [
-      10,
-      11
+      12
     ],
-    "description": "T3 New Age Landing TYPO3 Template is a Bootstrap minimal app landing page. This template has been designed for any need to showcase app or website, app landing page. Built it with twitter bootstrap 3, HTML5, CSS3 and SASS. Live-Demo: https://demo.t3terminal.com/?theme=t3t-newage Pro-Version & Support: https://t3terminal.com/t3-new-age-landing-typo3-template",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "description": "T3 New Age Landing TYPO3 Template is a Bootstrap minimal app landing page. This template has been designed for any need to showcase app or website, app landing page. Built it with twitter bootstrap 3, HTML5, CSS3 and SASS. Live-Demo: https://demo.t3planet.com/?theme=t3t-newage Pro-Version & Support: https://t3planet.com/t3-new-age-landing-typo3-template",
+    "hash": "sha256-Qjxh3K+0GT1c/BXp29lldSrx2UAMntKD+RI3Vm1GVM0="
   },
   "ns_theme_t3nitsan": {
     "version": "1.0.0",
@@ -63655,13 +63653,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "xblog": {
-    "version": "11.0.5",
+    "version": "11.0.7",
     "t3_versions": [
       10,
       11
     ],
     "description": "Quickly assemble a TYPO3 frontend! Publish the data from the tables pages, tt_content and from any other database! No need to set up typoscript.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-rml2w8MrocZNygnvZIr0E5yS8mehg4kecutocpeUxnk="
   },
   "xdbmysql": {
     "version": "3.0.18",
