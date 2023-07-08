@@ -12542,13 +12542,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "db_rector": {
-    "version": "12.0.0",
+    "version": "12.1.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "This TYPO3 extension is an typo3-rector adapter with backend module to refactor sys_template.config data.",
-    "hash": "sha256-o/rjVrbf3cEJQbBb7IWZ/JmS1bcVZls1ePhdfGXGXwk="
+    "hash": "sha256-WYhfrIcf2FX/PQ5RK5PeK3FCNsxkv4M++LmaGsQHZEE="
   },
   "dbal": {
     "version": "8.4.1",
