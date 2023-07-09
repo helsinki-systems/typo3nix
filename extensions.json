@@ -52354,13 +52354,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sr_feuser_register": {
-    "version": "11.5.4",
+    "version": "11.5.5",
     "t3_versions": [
       10,
       11
     ],
     "description": "A self-registration variant of Kasper Skårhøj's Front End User Admin extension for TYPO3 CMS.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-tEpA+KWnL4APMxN/CxQCPRzddfrpHNSsHCg1Lf+NfhA="
   },
   "sr_freecap": {
     "version": "11.5.5",
