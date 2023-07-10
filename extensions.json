@@ -5067,13 +5067,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "bootstrap_package": {
-    "version": "14.0.2",
+    "version": "14.0.3",
     "t3_versions": [
       11,
       12
     ],
     "description": "Bootstrap Package delivers a full configured frontend theme for TYPO3, based on the Bootstrap CSS Framework.",
-    "hash": "sha256-OmkjG6vfyZm3vVqbv8+USJHaYwkv0/PbWKX1k0za2D4="
+    "hash": "sha256-fxgvtGW0AIYal4EpiBkUmXGzknYY0Ais9cqaQvKd1ro="
   },
   "bootstrap_package_iconpack": {
     "version": "0.1.1",
@@ -16663,14 +16663,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "er24_rechtstexte": {
-    "version": "1.0.18",
+    "version": "2.0.0",
     "t3_versions": [
-      9,
-      10,
-      11
+      11,
+      12
     ],
     "description": "This extension allows the easy integration of imprint and privacy policy of eRecht24.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-esY5w8O8h4hnnWgkCHHi6YQGbUNbZ5pOsTivYpmD8QY="
   },
   "erdal_googlemap": {
     "version": "0.1.2",
@@ -20038,7 +20037,7 @@
     "hash": "sha256-he4hDMN/tiAEANpUt8BteUsPUlpsO+LL5RTgO6t2Y2Q="
   },
   "flux": {
-    "version": "9.7.2",
+    "version": "9.7.3",
     "t3_versions": [
       8,
       9,
@@ -20046,7 +20045,7 @@
       11
     ],
     "description": "Drop-in page and content templates with nested content feature. Provides multiple condensed integration APIs to use advanced TYPO3 features with little effort.",
-    "hash": "sha256-Vx3EoV5XjTaX+Y7qEXfcjEq1RCO2gOVx3CygcK5rfsY="
+    "hash": "sha256-Axmpe25YHOWXEnzZq3+2JiSOgwVgUtXJIafgW6vPQGY="
   },
   "flux_elements": {
     "version": "1.4.1",
@@ -23382,12 +23381,12 @@
     "hash": "sha256-wOrDlw/CNOn6n7UO0tCgZAndi8wCc72F2zf6xp38NBo="
   },
   "hh_slider": {
-    "version": "0.4.3",
+    "version": "0.4.4",
     "t3_versions": [
       12
     ],
     "description": "Hauer-Heinrich - Image and Content Slider",
-    "hash": "sha256-XE+OewErgtkfR7ZN6l+FJ7fE+nQHR5nc7BfdZstSH+M="
+    "hash": "sha256-j98kXja5VlcU3rFzz6KjEUpPD9cJeONxk7qtYMHrX/c="
   },
   "hh_test": {
     "version": "0.2.15",
@@ -25933,12 +25932,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "invisiblerecaptcha": {
-    "version": "5.1.1",
+    "version": "6.0.0",
     "t3_versions": [
-      10
+      11
     ],
     "description": "Google invisible recaptcha TYPO3 extension for powermail",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-P0dKf2hEnrnqmhWXxZBeEh9c+A1JLgnllScEcnk4LMY="
   },
   "inxmail_content": {
     "version": "1.0.6",
@@ -50792,6 +50791,14 @@
     "description": "",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "skt_allinoneaccessibility": {
+    "version": "1.0.8",
+    "t3_versions": [
+      11
+    ],
+    "description": "",
+    "hash": "sha256-6qeeh8htxf3mapSGrz+ubdfndXbI5ktZ/HfyagwsnZ0="
+  },
   "skt_contenttabs": {
     "version": "0.0.2",
     "t3_versions": [],
@@ -61816,13 +61823,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "weather2": {
-    "version": "4.1.0",
+    "version": "4.1.1",
     "t3_versions": [
       10,
       11
     ],
     "description": "Display weather forecasts and weather alerts using various Weather APIs. Default APIs: OpenWeatherMap and Deutscher Wetterdienst",
-    "hash": "sha256-2SRqv8jq93lZpaFsLc+y/TIa/UQbfHeD8ocaDSqcu/Y="
+    "hash": "sha256-fsZUZ+miAuev+loMufCyZAeMgXbzzRiDNf5XU3aOt9Q="
   },
   "weather_widget": {
     "version": "1.1.2",
