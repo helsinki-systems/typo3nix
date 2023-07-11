@@ -9559,21 +9559,22 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "content_animations": {
-    "version": "2.4.0",
+    "version": "2.4.1",
     "t3_versions": [
       10,
-      11
+      11,
+      12
     ],
     "description": "This extension allows you to set nice animations to your content elements if they are scrolled into the browsers viewport. To install it include the static typoscript of content_animations to your template and you're good to go. Have fun! :-)",
-    "hash": "sha256-Doy3Em095KM4cXmIcw0U63fvlG5K7Dpa4JPVKJmbff8="
+    "hash": "sha256-XewrsX2po9mpfE0u0+uQT3BDr/Ncqqje1/YhHlbeLWY="
   },
   "content_consent": {
-    "version": "2.0.0",
+    "version": "2.0.1",
     "t3_versions": [
       12
     ],
-    "description": "Provides a content consent plugin to load any content elements and custom plugins by ajax without jQuery! So you can include Google Maps or YouTube videos GDPR/DSGVO compliant. Best used with Bootstrap 5",
-    "hash": "sha256-vNZTcu/mSUd+GOShwUjpnPgz2tpFZpkua7zNft637VM="
+    "description": "Provides a content consent plugin to load any content elements and custom plugins by ajax without jQuery! So you can include Google Maps, YouTube- or Vimeo videos GDPR/DSGVO compliant. Best used with Bootstrap 5",
+    "hash": "sha256-OvZM209O44nQzYJ4PcR8mv4rbngTejlVjukw8LcfF8M="
   },
   "content_defender": {
     "version": "3.4.0",
@@ -16604,12 +16605,12 @@
     "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
   },
   "enhanced_backend": {
-    "version": "0.1.0",
+    "version": "0.1.1",
     "t3_versions": [
       11
     ],
     "description": "Improves the user experience (UI/UX), provides customization options for editors and enhances the look and feel of TYPO3 backend.",
-    "hash": "sha256-ArF7+o1jz+FFkcDVsfd+MYfCLkUBvvf86UdtZmF64YU="
+    "hash": "sha256-o14fktfKBjtNerKQmPyimKDt7oR2o+HZgfOtvvbbaQ0="
   },
   "enomaly_laszlo": {
     "version": "0.0.2",
@@ -20586,13 +20587,14 @@
     "hash": "sha256-UOLvZAmdrImJlknw6xHe/IlNUjhE/JQ1MaS1I+GKou4="
   },
   "form_mailtext": {
-    "version": "2.1.2",
+    "version": "2.1.4",
     "t3_versions": [
       10,
-      11
+      11,
+      12
     ],
     "description": "This extension enhances the Email finishers of EXT:form by a new field \"Mail text\" (message) that allows the editor to define the mail text within the form plugin in the backend.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-1LFYemvwy3xOd6b5SQs7eOxJvCQGGkl2qIbEKN2geLE="
   },
   "form_newsletter": {
     "version": "1.4.0",
@@ -20823,13 +20825,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "formlog": {
-    "version": "2.2.0",
+    "version": "2.2.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Form log for TYPO3",
-    "hash": "sha256-y95saUZ4lb5x5sMBXDFptV35suN6XCDTiaKYXQFgOXw="
+    "hash": "sha256-POwunthhYam/oXQgT5m0S5WwgYZFYVnObUveeFb07FY="
   },
   "formmaker": {
     "version": "1.3.8",
@@ -25851,14 +25853,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "interest": {
-    "version": "1.2.0",
+    "version": "1.2.2",
     "t3_versions": [
       9,
       10,
       11
     ],
     "description": "REST and CLI API for adding, updating, and deleting records in TYPO3. Tracks relations so records can be inserted in any order. Uses remote ID mapping so you don't have to keep track of what UID a record has gotten after import. Data is inserted using backend APIs as if a real human did it, so you can can inspect the record history and undo actions.",
-    "hash": "sha256-2XaMiEB0NeSJYay/3udkoT2HrN2YMA2m8H8+sjMyQxU="
+    "hash": "sha256-ONiZ943LwiKcDNlVWnGaLRLVxWcBPELqgjYw3OT3YMs="
   },
   "internal_notes": {
     "version": "1.2.0",
@@ -38514,17 +38516,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ns_guestbook": {
-    "version": "3.2.2",
+    "version": "12.0.0",
     "t3_versions": [
-      6,
-      7,
-      8,
-      9,
-      10,
-      11
+      12
     ],
     "description": "One of the only TYPO3 extension which provides to integrate all the features of Guestbook like review form with send mail, list of guest. Demo: https://demo.t3planet.com/t3t-extensions/guestbook/ You can download PRO version for more-features & free-support at https://t3planet.com/typo3-guestbook-extension/",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-UaGY6mlGY12FOVc09+OtqrnvIKb+31BiuL1fYD8lsAE="
   },
   "ns_helpdesk": {
     "version": "2.2.0",
@@ -38756,17 +38753,12 @@
     "hash": "sha256-hMOkoLkGUg9NO7c52jlzolk8EtlsY5dCqxkS0PJd4Ms="
   },
   "ns_youtube": {
-    "version": "2.1.1",
+    "version": "12.0.0",
     "t3_versions": [
-      6,
-      7,
-      8,
-      9,
-      10,
-      11
+      12
     ],
     "description": "One of the only TYPO3 extension which provides to integrate all the features of Youtube.com like Simple Video, Channel, Playlist and Live-stream to your TYPO3 site. Live-Demo: https://demo.t3planet.com/t3t-extensions/youtube/ You can download PRO version for more-features & free-support at https://t3planet.com/typo3-youtube-extension",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-6jr8dAw21puqbaGVWP6Cc94bCYHhv+IzZIvQ/GGxtUk="
   },
   "ns_zoho_crm": {
     "version": "3.0.0",
@@ -55113,12 +55105,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "t3sbootstrap": {
-    "version": "5.2.13",
+    "version": "5.3.0",
     "t3_versions": [
-      11
+      12
     ],
     "description": "Startup extension to use bootstrap 5 classes, components and more out of the box. Example and info: www.t3sbootstrap.de",
-    "hash": "sha256-UATqloxEyAKtSiodbtpVGoT/DFX8MGL+VtyXDRWVEt0="
+    "hash": "sha256-BVsmpqEOWVPLoxxWThzTP4d/9BBqsx2GktfWLtkyQRQ="
   },
   "t3sbootstrap_grid": {
     "version": "2.0.1",
@@ -63660,13 +63652,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "xblog": {
-    "version": "11.0.7",
+    "version": "11.0.8",
     "t3_versions": [
       10,
       11
     ],
     "description": "Quickly assemble a TYPO3 frontend! Publish the data from the tables pages, tt_content and from any other database! No need to set up typoscript.",
-    "hash": "sha256-rml2w8MrocZNygnvZIr0E5yS8mehg4kecutocpeUxnk="
+    "hash": "sha256-sAWDBn63Gx3jHS8ry4vyw7/t3y/O37jLqd3zUO0LzKU="
   },
   "xdbmysql": {
     "version": "3.0.18",
