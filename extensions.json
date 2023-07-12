@@ -5067,13 +5067,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "bootstrap_package": {
-    "version": "14.0.3",
+    "version": "14.0.4",
     "t3_versions": [
       11,
       12
     ],
     "description": "Bootstrap Package delivers a full configured frontend theme for TYPO3, based on the Bootstrap CSS Framework.",
-    "hash": "sha256-fxgvtGW0AIYal4EpiBkUmXGzknYY0Ais9cqaQvKd1ro="
+    "hash": "sha256-Vbfx2Wbfe6KwgN66r1Y4hgF+65ofOmFxaHnocGsyfwM="
   },
   "bootstrap_package_iconpack": {
     "version": "0.1.1",
@@ -9503,14 +9503,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "container": {
-    "version": "2.2.3",
+    "version": "2.2.4",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Create Custom Container Content Elements for TYPO3",
-    "hash": "sha256-KUXQevg13FImuRZQDUTJbhnHxoMAMJqwgKqDCFQc+EQ="
+    "hash": "sha256-r0EZ65OWBTFRWnaUAPNANZpP1tkvOCzNckwJdaaFluI="
   },
   "container_elements": {
     "version": "5.1.0",
@@ -18447,6 +18447,16 @@
     "description": "This Ext. will give you some nice Functions and Layout for the Frontend Admin-Panel. Will adding ClickMenu(ContextMenu) for Editing Elements.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "fe_passwordless": {
+    "version": "1.0.0",
+    "t3_versions": [
+      10,
+      11,
+      12
+    ],
+    "description": "This extension allows to log in with any frontend user by providing the username and previously defined password.",
+    "hash": "sha256-KKZZ8t1sbQKdtG8BOz0GVOyk6zxxC1LBlcfnEfHE+1Q="
+  },
   "fe_performance": {
     "version": "2.1.0",
     "t3_versions": [
@@ -20152,13 +20162,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "focuspoint": {
-    "version": "5.1.0",
+    "version": "6.0.1",
     "t3_versions": [
-      10,
-      11
+      12
     ],
     "description": "Focuspoint integrate the focal point method to crop images in the frontend of the web page. Use the jQuery-focuspoint plugin (https://github.com/jonom/jquery-focuspoint example http://jonom.github.io/jquery-focuspoint/demos/helper/index.html) to crop the images. Use the function as wizard in the file list view and directly in the content element.",
-    "hash": "sha256-04wG+6oU8PUVP0jOcLL2yuMozReboUdbj9QdrxTY+oc="
+    "hash": "sha256-2KJ6l0axAj4V6aYTbKOJFy0FM8BReaIt8pWEuFZMb7w="
   },
   "folder": {
     "version": "0.0.7",
@@ -23334,13 +23343,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "hh_accordion": {
-    "version": "0.4.0",
+    "version": "0.4.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "",
-    "hash": "sha256-u6DbdGFTfq7v9AKSrLtMZwhIl9u0EOojHs2Kq3Eh+IU="
+    "hash": "sha256-IXSKkcFpBA911CnC5WSVHwHJTOwa1OImhOj8jjmmR5s="
   },
   "hh_add_statuscode": {
     "version": "0.1.22",
@@ -38592,17 +38601,12 @@
     "hash": "sha256-2xKvyrqEqiJ9RHvM4lCaiK+hjhlRpwa2N+uwrWBWXAQ="
   },
   "ns_news_slider": {
-    "version": "4.1.0",
+    "version": "12.0.0",
     "t3_versions": [
-      6,
-      7,
-      8,
-      9,
-      10,
-      11
+      12
     ],
-    "description": "Do you want cool sliders for most popular TYPO3 EXT:news? This extension includes nivo-slider, owlcarousel, royal-slider, slidejs, slick-slider etc. Demo: https://demo.t3terminal.com/t3t-extensions/news-slider/ You can download PRO version for more-features & free-support at https://t3terminal.com/news-slider-typo3-extension",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "description": "Do you want cool sliders for most popular TYPO3 EXT:news? This extension includes nivo-slider, owlcarousel, royal-slider, slidejs, slick-slider etc. Demo: https://demo.t3planet.com/t3t-extensions/news-slider/ You can download PRO version for more-features & free-support at https://t3planet.com/news-slider-typo3-extension",
+    "hash": "sha256-nVF4zMHU5dXd4i4WGhNc+6iPfYbXc3a325OlXZOC8D8="
   },
   "ns_open_streetmap": {
     "version": "12.0.0",
