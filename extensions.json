@@ -1035,12 +1035,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "addons_em": {
-    "version": "0.8.1",
+    "version": "0.8.2",
     "t3_versions": [
-      11
+      11,
+      12
     ],
     "description": "Enhancements to the Extension Manager (em].",
-    "hash": "sha256-rhD2zMYsxN7IWIOIEGls2GjvGoOK3JD6WGnf3OlFlJw="
+    "hash": "sha256-ws4p9ZwubKUSwVdHXfQjHAEbBFiGpGahQod75poXZgg="
   },
   "addons_tt_products": {
     "version": "0.10.0",
@@ -1489,10 +1490,13 @@
     "hash": "sha256-2eJFEDrxpLteuVm9svYFuoeD2vE4l7L8K3AlzMIDnQU="
   },
   "aimeos": {
-    "version": "23.4.2",
-    "t3_versions": [],
+    "version": "23.7.1",
+    "t3_versions": [
+      11,
+      12
+    ],
     "description": "Professional, full-featured and ultra-fast TYPO3 e-commerce extension for online shops, complex B2B applications and #gigacommerce. Turns TYPO3 into the best platform for content commerce and your e-commerce requirements (also available as TYPO3 distribution)",
-    "hash": "sha256-lbUZ+Vy/QmhGP3nzgAEH2g+BIqF/y9RhMlb1Jn4/QiM="
+    "hash": "sha256-EuohkzvK00IH3ywL/Sek6U2soMvIjcoxRSMdR0DLkyI="
   },
   "aimeos_dist": {
     "version": "22.10.1",
@@ -1854,6 +1858,14 @@
     ],
     "description": "Blacklist aliases so they cannot be defined for any page in the backend",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "allinoneaccessibility": {
+    "version": "1.0.8",
+    "t3_versions": [
+      11
+    ],
+    "description": "",
+    "hash": "sha256-2LSzkW+D1S4r4DlmMpeQ1UtVESQph9vV6C2sFtut5dM="
   },
   "allnews": {
     "version": "0.2.6",
@@ -12576,12 +12588,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "dbdoctor": {
-    "version": "0.4.0",
+    "version": "0.5.0",
     "t3_versions": [
-      11
+      11,
+      12
     ],
     "description": "Find and fix TYPO3 database inconsistencies",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-1gw//JqLad/L04L7ga1qBchY8VQ4PuOp6XMKpiXpiKI="
   },
   "dbdownloadtracker": {
     "version": "2.0.0",
@@ -18808,15 +18821,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fetchurl": {
-    "version": "4.5.2",
+    "version": "5.0.0",
     "t3_versions": [
-      7,
-      8,
-      9,
-      10
+      11,
+      12
     ],
     "description": "Fetch an url and show the content in frontend. Inline or iframe display possible",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-FI4WEmL/68JIxvkxim1u33rWmUY/3QSIo6rkl1UDnXM="
   },
   "fete": {
     "version": "0.0.1",
@@ -20162,12 +20173,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "focuspoint": {
-    "version": "6.0.1",
+    "version": "6.0.2",
     "t3_versions": [
       12
     ],
     "description": "Focuspoint integrate the focal point method to crop images in the frontend of the web page. Use the jQuery-focuspoint plugin (https://github.com/jonom/jquery-focuspoint example http://jonom.github.io/jquery-focuspoint/demos/helper/index.html) to crop the images. Use the function as wizard in the file list view and directly in the content element.",
-    "hash": "sha256-2KJ6l0axAj4V6aYTbKOJFy0FM8BReaIt8pWEuFZMb7w="
+    "hash": "sha256-FC0Bki7ZZ41RTc9gUzOtMizKE8URkc+uh8gMA4QDlrw="
   },
   "folder": {
     "version": "0.0.7",
@@ -32856,6 +32867,15 @@
     "description": "Media player statistics for advanced FLV Player & Media player Gallery (bddb_flvvideogallery)",
     "hash": "sha256-82mXAmiJ4hic+hBTUO2nG9u+hxVzjEs5fj/o82tA0uE="
   },
+  "mediapool": {
+    "version": "3.0.0",
+    "t3_versions": [
+      10,
+      11
+    ],
+    "description": "Embed your favorite YouTube Videos and Playlists. Import description, title and more by just pasting the YouTube link.",
+    "hash": "sha256-0prIWTqNzOd8eUwJiuz0B0wI/VGunAYGsDABH6qITk8="
+  },
   "mediasmile": {
     "version": "1.1.0",
     "t3_versions": [],
@@ -38379,12 +38399,12 @@
     "hash": "sha256-36GUDqEqYAO87zocn+nbtwoRyBd1KNbOzd6qR/EdsrE="
   },
   "ns_basetheme": {
-    "version": "12.0.3",
+    "version": "12.0.4",
     "t3_versions": [
       12
     ],
     "description": "The architecture of parent/child TYPO3 theme concept. Explore https://t3planet.com and https://nitsantech.com",
-    "hash": "sha256-UYNsx6wd5KJ5uyr+hh6SWEfTY78uuYAH4lcQu+0eG4k="
+    "hash": "sha256-4acbMtd/Mo30CVMv9RxpmWgeocFRE0KZp8V3R6yVyzE="
   },
   "ns_cache_webhook": {
     "version": "1.0.0",
@@ -38479,14 +38499,12 @@
     "hash": "sha256-fx9WwV0my8azXzRtn4U0h/9epVTnh3DGKZYJX1xBA5s="
   },
   "ns_friendlycaptcha": {
-    "version": "1.3.3",
+    "version": "12.0.0",
     "t3_versions": [
-      9,
-      10,
-      11
+      12
     ],
     "description": "Integrate official friendlycaptcha.com (Europe's most leading Captcha solution) to the TYPO3 core EXT:form extension. Live Demo: https://demo.t3planet.com/t3t-extensions/friendly-captcha Premium Support: https://t3planet.com/typo3-friendly-captcha-extension",
-    "hash": "sha256-IHYjDoPyoixEKI1RWKiNG2h60QAxGtKp7KZIgIb2j0s="
+    "hash": "sha256-+TFNX5gfRlC0Dj4AGCEiM5s7TDi5HZW6HSqgGocKACs="
   },
   "ns_gallery": {
     "version": "12.0.0",
@@ -47296,13 +47314,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "rx_shariff": {
-    "version": "15.0.4",
+    "version": "15.0.5",
     "t3_versions": [
       11,
       12
     ],
     "description": "Shariff implementation for TYPO3 CMS including the backend module, a viewhelper and a plugin.",
-    "hash": "sha256-AoqSbgLJzYOfR5n4FoYrXsIfTQ7SQmL+pz0AqL+cn7c="
+    "hash": "sha256-xwD4QIHz0gnIo+CaWDeh/i1qx8vq3mx7aONycuEXlIg="
   },
   "rx_unrollsavebuttons": {
     "version": "1.1.1",
