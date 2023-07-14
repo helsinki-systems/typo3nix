@@ -6680,13 +6680,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "camaliga": {
-    "version": "11.3.0",
+    "version": "12.0.1",
     "t3_versions": [
-      10,
-      11
+      12
     ],
     "description": "A carousel/gallery/map/list extension that can use the TYPO3 categories and different jQuery-plugins like Slick. Bootstrap support. Indexer for ke_search.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-388aM1L4pTMnKK0hwgmGvc/iviTWihDWs+SDSpyp/ds="
   },
   "campaignmonitor": {
     "version": "2.0.0",
@@ -7783,13 +7782,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cf_cookiemanager": {
-    "version": "1.1.6",
+    "version": "1.2.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "This extension gives you the possibility to Manage the Cookie Consent Modal on your Website",
-    "hash": "sha256-4Hlox/oU5RKaQeF5ktVuHP/nvnGqrqd2zr0K9sRAwSE="
+    "hash": "sha256-Pa02WuU1CxK7KvgpMt8CiJG+d8V5a/K3sVS+e6e8n8I="
   },
   "cf_google_authenticator": {
     "version": "1.2.4",
@@ -8610,13 +8609,13 @@
     "hash": "sha256-gF55Oa9X81SK/JprdpNGnEo5lViuqyHVqm+Y4bCk3gc="
   },
   "cloudflare": {
-    "version": "2.4.1",
+    "version": "2.5.0",
     "t3_versions": [
-      9,
-      10
+      10,
+      11
     ],
     "description": "The Cloudflare TYPO3 extension ensures your TYPO3 website is running optimally on the Cloudflare platform.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-zmT0PboJZ8cZAQmPGsRDZ3u9eD2aXqGzbsZPIzDccsI="
   },
   "clubcms": {
     "version": "0.2.2",
@@ -20997,13 +20996,12 @@
     "hash": "sha256-LmVj4/4A+z46sotYj/wob+h7t4Efcxn7ICh7d9o9gaI="
   },
   "fp_masterquiz": {
-    "version": "3.7.1",
+    "version": "4.0.3",
     "t3_versions": [
-      10,
-      11
+      12
     ],
     "description": "A modern extension that offers quiz, polls and tests. Ajax support. The result can be displayed as a chart too. Supports 8 question modes.",
-    "hash": "sha256-XPHuPwMoM3WTEcxnGMcduX+TLlfTVKlDo24WFbZQk2k="
+    "hash": "sha256-K/9dv25Uof8nrQK0okP4687AWkcZPsNd4DSHVADKvdM="
   },
   "fp_newsletter": {
     "version": "5.1.1",
@@ -37209,12 +37207,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "news": {
-    "version": "11.0.0",
+    "version": "11.1.2",
     "t3_versions": [
-      11
+      11,
+      12
     ],
     "description": "Versatile news system based on Extbase & Fluid and using the latest technologies provided by TYPO3 CMS.",
-    "hash": "sha256-kmwO2St46/pDEWTTYW1GxdMZKnDqSi1BS54/9O3hqqA="
+    "hash": "sha256-v41rY4cek18q7w1lZKKVFqSQDbwHWRdW7UqZHONumiA="
   },
   "news2facebook": {
     "version": "1.1.0",
@@ -38551,15 +38550,12 @@
     "hash": "sha256-UaGY6mlGY12FOVc09+OtqrnvIKb+31BiuL1fYD8lsAE="
   },
   "ns_helpdesk": {
-    "version": "2.2.0",
+    "version": "12.0.0",
     "t3_versions": [
-      8,
-      9,
-      10,
-      11
+      12
     ],
     "description": "An all-in-one TYPO3 Help Desk extension that helps you balance everything your customers need to be happy. Demo: https://demo.t3planet.com/t3t-extensions/helpdesk You can download PRO version for more-features & free-support at https://t3planet.com/ns-helpdesk-typo3-extension",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-V1A7Zwq9nJQ+oAxdoFraXjkkEBMYPr7ENYnNJYMxBbE="
   },
   "ns_instagram": {
     "version": "3.0.4",
@@ -38598,17 +38594,12 @@
     "hash": "sha256-nrjngdJc8m4E8nOEF0IvTafWvPoxlYPZeJkRJT3WNKQ="
   },
   "ns_news_advancedsearch": {
-    "version": "2.0.4",
+    "version": "12.0.0",
     "t3_versions": [
-      6,
-      7,
-      8,
-      9,
-      10,
-      11
+      12
     ],
     "description": "Do you want more rich search features into your favourite EXT:news? By installing this extension, you can search by category, title, teaser etc. Know  more in manual. Live-Demo: https://demo.t3planet.com//t3t-extensions/news-advancedsearch You can download PRO version for more-features & free-support at https://t3planet.com/advanced-search-typo3-news-extension",
-    "hash": "sha256-LvHNn5jfPHrDX10XQGyjTNjz2MNVfGWghxKBg/F4Y0A="
+    "hash": "sha256-GeLXSgS5wqOWFLoNcdX9SuMEq81+AY1CvBgZhCM/7c0="
   },
   "ns_news_comments": {
     "version": "12.0.0",
@@ -38764,15 +38755,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ns_whatsapp": {
-    "version": "2.2.0",
+    "version": "12.0.0",
     "t3_versions": [
-      8,
-      9,
-      10,
-      11
+      12
     ],
     "description": "TYPO3 WhatsApp Chat allows your visitors to start a WhatsApp conversation, share messages or join a group from your website with a single click. Live-Demo: https://demo.t3planet.com/t3t-extensions/social-networking/whats-app You can download PRO version for more-features & free-support at https://t3planet.com/typo3-whatsapp-chat-extension",
-    "hash": "sha256-hMOkoLkGUg9NO7c52jlzolk8EtlsY5dCqxkS0PJd4Ms="
+    "hash": "sha256-Ph9TeDAsfElOkxFRCIAtidYitcBgQpUQagH9yNyx018="
   },
   "ns_youtube": {
     "version": "12.0.0",
@@ -49473,12 +49461,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "shop": {
-    "version": "3.2.1",
+    "version": "3.2.5",
     "t3_versions": [
       11
     ],
     "description": "Simple Shop for TYPO3 incl. PayPal, PayPal-Plus, Klarna, Stripe, Bookmarks, UPS-API, Invoice generation, backend module, compare feature, graduated prices and many more - note there is a Pro version as well!",
-    "hash": "sha256-DCRxX75PNFyQha3Icmy0GQyuE2yGp2kbOUEU6Uhoqmg="
+    "hash": "sha256-yEym0K/+9G/vSaokN+uaDP6WZ+Ax/a+jFUC82LX+hhQ="
   },
   "shop3ox": {
     "version": "0.0.3",
@@ -61626,13 +61614,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "walls_io_proxy": {
-    "version": "5.2.0",
+    "version": "6.0.0",
     "t3_versions": [
-      9,
-      10
+      10,
+      11
     ],
     "description": "Cache and Proxy for walls.io, so no Cookie will be set on Client",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-iiWYdagbP9r7uhKQF1GyUIsJ4mB4o9kg8JZ7Y2b6Qwo="
   },
   "warming": {
     "version": "0.5.2",
@@ -63097,13 +63085,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "wsm_form_spamshield": {
-    "version": "1.2.0",
+    "version": "1.3.1",
     "t3_versions": [
       10,
-      11
+      11,
+      12
     ],
     "description": "Adds a bot detection via JavaScript and a Validator to EXT:form, GDPR compliant without a captcha.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-kcTN8tr3eOa4bgrHcFhX/JyLFkTD74jtff9GaK8OInw="
   },
   "wspowermail": {
     "version": "1.1.1",
