@@ -20058,7 +20058,7 @@
     "hash": "sha256-he4hDMN/tiAEANpUt8BteUsPUlpsO+LL5RTgO6t2Y2Q="
   },
   "flux": {
-    "version": "9.7.3",
+    "version": "9.7.4",
     "t3_versions": [
       8,
       9,
@@ -20066,7 +20066,7 @@
       11
     ],
     "description": "Drop-in page and content templates with nested content feature. Provides multiple condensed integration APIs to use advanced TYPO3 features with little effort.",
-    "hash": "sha256-Axmpe25YHOWXEnzZq3+2JiSOgwVgUtXJIafgW6vPQGY="
+    "hash": "sha256-8LCE23cr61vQl9xt7pnc2y3r10tVUnDYmwq5gLTQUFs="
   },
   "flux_elements": {
     "version": "1.4.1",
@@ -48814,12 +48814,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sf_event_mgt": {
-    "version": "7.1.3",
+    "version": "7.2.0",
     "t3_versions": [
       12
     ],
     "description": "Configurable event management and registration extension based on ExtBase and Fluid",
-    "hash": "sha256-7R4YUTOY97lLdks97NYtnmUvcoyFX1sEU2Mr/qWiSHg="
+    "hash": "sha256-CZtvq+1ot/w/qYZZIb2dL0BeT5xP82zao7W7Kgcx1ZM="
   },
   "sf_event_mgt_contentelements": {
     "version": "2.0.1",
@@ -49299,6 +49299,26 @@
     ],
     "description": "Front End User Registration. Enables Creation And/Or Editing of Userdata for FE Users. Extends fe_users by some Fields e.g. for Bank-Account, Newsletter-Subscription, Autologin etc.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "sg_vimeo": {
+    "version": "3.0.0",
+    "t3_versions": [
+      10,
+      11,
+      12
+    ],
+    "description": "Embed Vimeo Videos of a Channel or Playlist",
+    "hash": "sha256-K8GleO0RKsndKx3JzN28s9gZzPYAhm5MPFOCuqOu5+0="
+  },
+  "sg_youtube": {
+    "version": "6.0.0",
+    "t3_versions": [
+      10,
+      11,
+      12
+    ],
+    "description": "Embed YouTube Videos of a Channel or Playlist",
+    "hash": "sha256-zmlhLKWzwefazvaUxXG0NfvQOoqmPnH3LVSnNTeE860="
   },
   "sg_zfeeditlib": {
     "version": "0.8.12",
