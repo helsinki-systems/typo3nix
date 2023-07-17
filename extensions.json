@@ -4102,12 +4102,12 @@
     "hash": "sha256-4NHVxyDRQPEPh9cqJS6qEsyW+3IPE9RzCPnM+VuVEdU="
   },
   "be_secure_pw": {
-    "version": "10.1.3",
+    "version": "10.2.0",
     "t3_versions": [
       11
     ],
     "description": "You can set password conventions to force secure passwords for BE users.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-zWqke3mVX7gCJE8nEtJa6JOZu8TwSL0wEQi4gKF7D5c="
   },
   "be_tablefilter": {
     "version": "0.0.1",
@@ -5079,13 +5079,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "bootstrap_package": {
-    "version": "14.0.4",
+    "version": "14.0.6",
     "t3_versions": [
       11,
       12
     ],
     "description": "Bootstrap Package delivers a full configured frontend theme for TYPO3, based on the Bootstrap CSS Framework.",
-    "hash": "sha256-Vbfx2Wbfe6KwgN66r1Y4hgF+65ofOmFxaHnocGsyfwM="
+    "hash": "sha256-n8I6IqUsRd6mrmQ3Otl8OVdWvtEqLTdOCBxiuficeNU="
   },
   "bootstrap_package_iconpack": {
     "version": "0.1.1",
@@ -18712,12 +18712,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "femanager": {
-    "version": "7.1.1",
+    "version": "7.2.0",
     "t3_versions": [
       11
     ],
     "description": "TYPO3 Frontend User Registration and Management based on",
-    "hash": "sha256-Hk28+n2daIIoCecZ6eRVn4RyA3Fn3+6KjjimvkuyYR0="
+    "hash": "sha256-+Jcjk5xYDIOqAeLgH4Gi+Gh6Txy8NZUQt9lSUJd32CA="
   },
   "femanager_cleverreach": {
     "version": "2.0.0",
@@ -31455,12 +31455,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mail": {
-    "version": "1.12.0",
+    "version": "1.13.0",
     "t3_versions": [
       11
     ],
     "description": "Powerful newsletter system for TYPO3",
-    "hash": "sha256-QLp40T2nY5k+lE6M2jmgwVJu/y9ArO20FnfgDR9tHOo="
+    "hash": "sha256-3S0mxFqlRMk7g17Yj32nm6ZweLteKQEa2jJ610/qIuU="
   },
   "mail2news": {
     "version": "2.0.3",
@@ -36550,12 +36550,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "nagios": {
-    "version": "4.0.1",
+    "version": "4.1.0",
     "t3_versions": [
-      11
+      11,
+      12
     ],
     "description": "Monitors TYPO3 instances and warns about insecure extensions, old TYPO3 versions,",
-    "hash": "sha256-FAKj0R4/scPC5tULlIn/Dog5sseqTAe0DIPNNpYPpXI="
+    "hash": "sha256-q3C4zlNeNrMgtUhgzzGls1K8JhaS1gAxeGyfP5701g8="
   },
   "namespaces": {
     "version": "1.0.0",
@@ -55964,10 +55965,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "tcabuilder": {
-    "version": "3.0.0",
-    "t3_versions": [],
+    "version": "3.1.0",
+    "t3_versions": [
+      11,
+      12
+    ],
     "description": "Utility to easily maintain and create your TCA forms",
-    "hash": "sha256-qVXAjtXiI+HPAsptsHA/ypfkKZREFK4gvLuhVNiw8GM="
+    "hash": "sha256-eNXHpZVFIz/LHSMtcvs7O+2p7emy5+zwRejJmF58Skg="
   },
   "tcamanipulate": {
     "version": "0.1.7",
