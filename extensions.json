@@ -12901,13 +12901,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "debug_mysql_db": {
-    "version": "1.3.0",
+    "version": "1.3.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Extends \\TYPO3\\CMS\\Core\\Database\\DatabaseConnection and \\TYPO3\\CMS\\Core\\Database\\Connection to show Errors and Debug-Messages. Debugging of sql-queries by debug and FileWriter.",
-    "hash": "sha256-a+ZPmVu1ULSZ+ftjicgENPnxHPMH8iBdk7pn7RSaBOY="
+    "hash": "sha256-w5KYi6XWMPA3Md26COGcsTqrvcGTEdKck4O2lepRBsA="
   },
   "debug_settings_task": {
     "version": "2.2.1",
@@ -20535,14 +20535,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "form_element_linked_checkbox": {
-    "version": "3.0.0",
+    "version": "4.0.0",
     "t3_versions": [
-      9,
-      10,
-      11
+      11,
+      12
     ],
     "description": "Adds a new form element which allows the editor to create a checkbox with a linked label text.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-UmASge4oj+7axF2QsmMGU5O/Mo5zWqEJLRNCCB6Wdvc="
   },
   "form_email_contentblocks": {
     "version": "2.1.0",
@@ -49302,24 +49301,24 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sg_vimeo": {
-    "version": "3.0.0",
+    "version": "3.0.2",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Embed Vimeo Videos of a Channel or Playlist",
-    "hash": "sha256-K8GleO0RKsndKx3JzN28s9gZzPYAhm5MPFOCuqOu5+0="
+    "hash": "sha256-3WIJWWvU4qub6hy3lPE8Pw104KNdMzX+KkBmm9ZnCwo="
   },
   "sg_youtube": {
-    "version": "6.0.0",
+    "version": "6.0.1",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Embed YouTube Videos of a Channel or Playlist",
-    "hash": "sha256-zmlhLKWzwefazvaUxXG0NfvQOoqmPnH3LVSnNTeE860="
+    "hash": "sha256-/14KL7K8Ft1joFBMTkkaxcCsEUbiB7YFyYGifyYecic="
   },
   "sg_zfeeditlib": {
     "version": "0.8.12",
@@ -50910,13 +50909,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "slick": {
-    "version": "10.0.0",
+    "version": "11.0.0",
     "t3_versions": [
       10,
-      11
+      11,
+      12
     ],
     "description": "Manage content elements, file collections and images with this responsive slider! Based on the slick carousel slider by Ken Wheeler. Scales with its container. Separate settings per breakpoint. Swipe, desktop mouse dragging, infinite looping, randomized order among others. Users can setup more than 50 properties by the plugin.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-xyoAzsuKf3KCfdNkf8VMXHRRc+zzUH4hl8nKg3w35sI="
   },
   "slickcarousel": {
     "version": "4.1.0",
@@ -52813,12 +52813,12 @@
     "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
   },
   "start": {
-    "version": "10.1.8",
+    "version": "10.1.11",
     "t3_versions": [
       10
     ],
     "description": "Start extends TYPO3 with the responsive framework Foundation (Zurb), a dozen responsive Backend Layouts and some responsive Gridelements. It enables editors, to create responsive nested layouts within a few minutes. It extends some backend forms for controlling the display of content elements depending on devices like smartphones, tablets and desktops. It extends TYPO3 content elements and menus with some helpful responsive Foundation features. A template for a responsive newsletter is included.",
-    "hash": "sha256-A/35vP7pS3rge9fkVKAJIyBBtFBix6+yIOSmNq1hnqg="
+    "hash": "sha256-v6pAuNQt5mDwFmpgxpN+2OnH3QwuhBGqcynhvjRMQKs="
   },
   "startcustomer": {
     "version": "5.1.10",
@@ -52841,14 +52841,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "startgreen": {
-    "version": "10.0.3",
+    "version": "10.0.6",
     "t3_versions": [
       8,
       9,
       10
     ],
     "description": "TYPO3 für BÜNDNIS 90/DIE GRÜNEN. TYPO3 GRUENE ist ein Template und liefert eine Website im Design von BÜNDNIS 90/DIE GRÜNEN. Es ist responsive, optimiert für Smartphone, Tablet und Desktop. Mit Launch TYPO3 GRUENE! kannst Du eine schlüsselfertige GRÜNE Website in Betrieb nehmen. Bürgerinitiativen, Verbände und Vereine können mit wenigen Handgriffen das Grüne Design entfernen. Website: https://typo3-gruene.de/",
-    "hash": "sha256-fJLtyv2JRwAgr/5powsb98XuxKKnOsytBq6D/jfRdbk="
+    "hash": "sha256-b3zdzcEzddo2OkR2XogkEb5CG2Y/0cqilzmHAU2mKT8="
   },
   "starthansekontor": {
     "version": "0.0.4",
@@ -53543,12 +53543,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "store_finder": {
-    "version": "7.0.10",
+    "version": "7.0.11",
     "t3_versions": [
       12
     ],
     "description": "Manage store locations, search by distance and show Google maps.",
-    "hash": "sha256-8aQCMZmH538TCod9zKMJt6VhWWllIe84bqdnPZIBc/o="
+    "hash": "sha256-WbnwC+88l/qHFCeI+99+e5WhIyh2zY6C0SW8ObhwPpo="
   },
   "store_hours": {
     "version": "0.1.1",
@@ -54698,12 +54698,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "t3foundation": {
-    "version": "7.0.8",
+    "version": "7.0.9",
     "t3_versions": [
       10
     ],
     "description": "Integration of Zurb Foundation CSS Framework for TYPO3 websites. This extension is optimised for Start TYPO3 Responsive.",
-    "hash": "sha256-NZUAjzpEHb+vm/HoY+iIjB0pI41znRec3f8QwSleE5w="
+    "hash": "sha256-216IDOafkDkrWDaldBIlOsjFtSbWLtu6Y23sfZoNSik="
   },
   "t3getid3": {
     "version": "1.1.1",
