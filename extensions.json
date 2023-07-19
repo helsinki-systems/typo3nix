@@ -1020,13 +1020,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "additional_tca": {
-    "version": "1.12.4",
+    "version": "1.13.1",
     "t3_versions": [
-      10,
-      11
+      11,
+      12
     ],
     "description": "Additional TCA fields and tools",
-    "hash": "sha256-SpujdIF6RZNzBmrxe7Q2yDn+IQulWPnjDZhSoTdi73g="
+    "hash": "sha256-7QJskX6MP8Wv8LhKQKp5tP44W9z2Vbz2ePAVVoONd70="
   },
   "addlinkheader": {
     "version": "0.0.4",
