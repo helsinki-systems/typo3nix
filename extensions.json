@@ -993,22 +993,22 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "additional_reports": {
-    "version": "3.4.4",
+    "version": "3.4.5",
     "t3_versions": [
-      10,
-      11
+      11,
+      12
     ],
     "description": "Useful information in the reports module: xclass, ajax, cliKeys, eID, general status of the system (encoding, DB, php vars...), hooks, compare local and TER extension (diff), used content type, used plugins, ExtDirect... It can really help you during migration or new existing project (to have global reports of the system).",
-    "hash": "sha256-WBf0xKG/ESrmVUTYKiiTLsfupS7uQ/uCwiBY42FiJp8="
+    "hash": "sha256-4vbffBbneTcMc+Oy35TYKJSqiat/irmM5aCDE0GHJHE="
   },
   "additional_scheduler": {
-    "version": "1.5.9",
+    "version": "1.6.0",
     "t3_versions": [
-      10,
-      11
+      11,
+      12
     ],
     "description": "Useful tasks in the scheduler module : full backup, send query result in mail, exec SH script with reports...",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-PY8Wfmc557LdIy9YTfq3jCQZXWT4bcIWWFy5XpL0ecs="
   },
   "additional_site_conditions": {
     "version": "0.2.2",
@@ -1480,14 +1480,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ai_seo_helper": {
-    "version": "0.5.3",
+    "version": "0.6.0",
     "t3_versions": [
       10,
       11,
       12
     ],
-    "description": "Generates SEO metadata based on page content using AI.",
-    "hash": "sha256-2eJFEDrxpLteuVm9svYFuoeD2vE4l7L8K3AlzMIDnQU="
+    "description": "Generates SEO metadata based on content using AI. Currently several metadata for pages and articles of EXT:news can be generated using an additional button next to the corresponding input fields.",
+    "hash": "sha256-YRT/3l/Ncbk0TyShJjW9uJQjAdd8rYzNaQkyW+hH4ug="
   },
   "aimeos": {
     "version": "23.7.1",
@@ -1499,12 +1499,12 @@
     "hash": "sha256-EuohkzvK00IH3ywL/Sek6U2soMvIjcoxRSMdR0DLkyI="
   },
   "aimeos_dist": {
-    "version": "22.10.1",
+    "version": "23.7.1",
     "t3_versions": [
-      11
+      12
     ],
     "description": "Professional, full-featured and ultra-fast TYPO3 e-commerce distribution for online shops, complex B2B applications and #gigacommerce. Turns TYPO3 into the best platform for content commerce and your e-commerce requirements",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-l+WdlIn4vPIzSAX9zZRDPVi+z0MiFDwqMMio8iE0Tb8="
   },
   "aimeos_migrate": {
     "version": "16.2.0",
@@ -4768,13 +4768,13 @@
     "hash": "sha256-ri5KkgZAoUCpjo27Z1tieNLrjm5ybj5QszyIP2E8sVA="
   },
   "blog": {
-    "version": "12.0.0",
+    "version": "12.0.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "This blog extension uses TYPO3s core concepts and elements to provide a full-blown blog that users of TYPO3 can instantly understand and use.",
-    "hash": "sha256-8zb6vxc2TxmGksZoBn4w9QusmY87aV7GVFL05KCouEg="
+    "hash": "sha256-PKc28E4uDAfESIvQ+8ht+p319NFfEvKjh6Ofa6XTTkc="
   },
   "blog_example": {
     "version": "12.0.2",
@@ -23300,12 +23300,12 @@
     "hash": "sha256-qsVb91W381Ah5wL7o6z9RqpRGdTMCJ/CKYGdCc3xWoI="
   },
   "headless": {
-    "version": "4.1.0",
+    "version": "4.1.1",
     "t3_versions": [
       12
     ],
     "description": "Makes TYPO3 a headless CMS. Content and pages available in JSON format. Supports multilanguage, multidomain, forms, frontend login, workspaces and more. For JS frontend app see nuxt-typo3 package",
-    "hash": "sha256-GxpuRiQqShOubDpF2q2vljJh3ND0RmqNWkvzeStHmCI="
+    "hash": "sha256-bzuwvP8OFWFBiTlQUKTF5clVxTTf418qilM3gEl+GlA="
   },
   "headless_gridelements": {
     "version": "3.0.0",
@@ -24314,130 +24314,130 @@
     "hash": "sha256-cKF0p/8yAdx2nfVUgoLz1Oswl/L0lu2DBxaUQdE7F7w="
   },
   "iconpack_bootstrap": {
-    "version": "1.1.1",
+    "version": "1.1.2",
     "t3_versions": [
       10,
       11
     ],
     "description": "This Extension registers an Iconpack-Provider for EXT:iconpack which allows you to use the \"Bootstrap Icons\" in TYPO3.",
-    "hash": "sha256-8vY5yDEkfb8gIQ9jilkfP5ByRkwDTd64dKkb1cORLtQ="
+    "hash": "sha256-2lHZy5lSTgvkHcFMKBfW2egWnri/imCudVy913/wsbg="
   },
   "iconpack_boxicons": {
-    "version": "0.1.2",
+    "version": "0.1.3",
     "t3_versions": [
       10,
       11
     ],
     "description": "This Extension registers an Iconpack-Provider for EXT:iconpack which allows you to use the \"Boxicons\" in TYPO3.",
-    "hash": "sha256-YHnnGDPdWdSGL4OWDRZJgNUZSazRTCJA13oHbxfBpdQ="
+    "hash": "sha256-pI59m+Yw5NSgfGmFqwAc2EHYwTts1l0ah6gF8+yv4rY="
   },
   "iconpack_dripicons": {
-    "version": "1.0.4",
+    "version": "1.0.5",
     "t3_versions": [
       10,
       11
     ],
     "description": "This Extension registers an Iconpack-Provider for EXT:iconpack which allows you to use the \"Dripicons Icons\" in TYPO3.",
-    "hash": "sha256-FR72NFklEdDdJkyq1jmrNIva4cKetPsiu2gsXZPDg6M="
+    "hash": "sha256-/7Nj03XskPSM7mIu9ql1Io3eohdXU2nE1gBQlZpTm4w="
   },
   "iconpack_elegant": {
-    "version": "1.0.4",
+    "version": "1.0.5",
     "t3_versions": [
       10,
       11
     ],
     "description": "This Extension registers an Iconpack-Provider for EXT:iconpack which allows you to use the \"Elegant Icons\" in TYPO3.",
-    "hash": "sha256-7a399fie+CK0935rK7dJxXllzqTGm7i1PSFyo6JLJ6U="
+    "hash": "sha256-N+5Sr4XvXPAxTQVupLFdJ7FUip/5H8YY6mJXk4ZXfLo="
   },
   "iconpack_feather": {
-    "version": "1.0.4",
+    "version": "1.0.5",
     "t3_versions": [
       10,
       11
     ],
     "description": "This Extension registers an Iconpack-Provider for EXT:iconpack which allows you to use the \"Feather Icons\" in TYPO3.",
-    "hash": "sha256-bD0iFX/EJqTkJ/dqV7mIv61d358555HLkcAhrR+KIXg="
+    "hash": "sha256-ksl6XYLqs1hxq3NE6rzhOVcK2SuiTfI/I7ELqf5UCu0="
   },
   "iconpack_fontawesome": {
-    "version": "0.2.1",
+    "version": "0.2.2",
     "t3_versions": [
       10,
       11
     ],
     "description": "This Extension registers an Iconpack-Provider for EXT:iconpack which allows you to use the \"Font Awesome Icons\" in TYPO3.",
-    "hash": "sha256-BxkBy24WlMTALHWiNhOT1M3hQIeQw2oga1JGmO2GKRU="
+    "hash": "sha256-/a8Z7jPBkJcgVOA2pGBs9lQ8St5Ry36g7LxY+uDCBRY="
   },
   "iconpack_helium": {
-    "version": "1.0.4",
+    "version": "1.0.5",
     "t3_versions": [
       10,
       11
     ],
     "description": "This Extension registers an Iconpack-Provider for EXT:iconpack which allows you to use the \"Helium Icons\" in TYPO3.",
-    "hash": "sha256-LraagDf9leTPoktTJw0DhcIaBQRcac5UXzAUyVxQI3A="
+    "hash": "sha256-LysQdDna2J5NzniCFmIj8obbpBAsuzdiwhFdeGrwSgo="
   },
   "iconpack_ikons": {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "t3_versions": [
       10,
       11
     ],
     "description": "This Extension registers an Iconpack-Provider for EXT:iconpack which allows you to use the \"Ikons vector icons\" in TYPO3.",
-    "hash": "sha256-0gL41IFa0GpYv71W6yAZuT1oz8UikeJL6vD5MHTpcEA="
+    "hash": "sha256-6Q4gjcvUEE4sJh56jXAIc+91+QYec6UXOUueG9kRLNk="
   },
   "iconpack_ionicons": {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "t3_versions": [
       10,
       11
     ],
     "description": "This Extension registers an Iconpack-Provider for EXT:iconpack which allows you to use the \"Ionicons\" in TYPO3.",
-    "hash": "sha256-dlYDYZdShH5rqi9GcHB8B7YE0bxrBZlIah7GVEZp26k="
+    "hash": "sha256-6XJDaZeZuTro9qDtIEeTECaoZ49hggrGlLrPl6dH8Js="
   },
   "iconpack_linea": {
-    "version": "1.0.4",
+    "version": "1.0.5",
     "t3_versions": [
       10,
       11
     ],
     "description": "This Extension registers an Iconpack-Provider for EXT:iconpack which allows you to use the \"Linea Icons\" in TYPO3.",
-    "hash": "sha256-Ok7kCOCq3BbCtubcJtoqcBtTZhTogiwAcqYVhx959H8="
+    "hash": "sha256-vT/nEH9n7I9iXiJ8z0KzlCqjBSKpim3d3OKUKRrTEB0="
   },
   "iconpack_linearicons": {
-    "version": "1.0.4",
+    "version": "1.0.5",
     "t3_versions": [
       10,
       11
     ],
     "description": "This Extension registers an Iconpack-Provider for EXT:iconpack which allows you to use the \"Linearicons\" in TYPO3.",
-    "hash": "sha256-26TNzK7tmMGieBUfLn3Azlxsaq5zWPT+YCwRkHAG+PU="
+    "hash": "sha256-r/dnAplt/CZdEmNep++0B3jflooqHMgVIkjAw2zKn7M="
   },
   "iconpack_lineicons": {
-    "version": "1.0.4",
+    "version": "1.0.5",
     "t3_versions": [
       10,
       11
     ],
     "description": "This Extension registers an Iconpack-Provider for EXT:iconpack which allows you to use the \"LineIcons\" in TYPO3.",
-    "hash": "sha256-RaqHBXz37vqJS01ZyF82paJ8sb5aa2BryoyPAWNomjg="
+    "hash": "sha256-SHDNx1FTsKzid1abV3MJXje6BjqCk56k1D70IdSKw68="
   },
   "iconpack_octicons": {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "t3_versions": [
       10,
       11
     ],
     "description": "This Extension registers an Iconpack-Provider for EXT:iconpack which allows you to use the \"Octicons\" in TYPO3.",
-    "hash": "sha256-pXU9B/XYZQlL1lNDoXU8l5WUjsizO3PsN08hr6NmIt4="
+    "hash": "sha256-UPzJ1eOC+D3Rh5p2C6nJ8UweI3xSvZefF9j5XIm4Pos="
   },
   "iconpack_themify": {
-    "version": "1.0.4",
+    "version": "1.0.5",
     "t3_versions": [
       10,
       11
     ],
     "description": "This Extension registers an Iconpack-Provider for EXT:iconpack which allows you to use the \"Themify Icons\" in TYPO3.",
-    "hash": "sha256-zVcnk5QFvMG+ZHUgsnMTCkVHiVNvNmx+etQaSO0gvaM="
+    "hash": "sha256-SGsiOMVTfp3/tvRvk8sz+vij+J9jW8TvVZagK6SOoMk="
   },
   "icons": {
     "version": "1.0.1",
@@ -38398,12 +38398,12 @@
     "hash": "sha256-36GUDqEqYAO87zocn+nbtwoRyBd1KNbOzd6qR/EdsrE="
   },
   "ns_basetheme": {
-    "version": "12.0.4",
+    "version": "12.0.5",
     "t3_versions": [
       12
     ],
     "description": "The architecture of parent/child TYPO3 theme concept. Explore https://t3planet.com and https://nitsantech.com",
-    "hash": "sha256-4acbMtd/Mo30CVMv9RxpmWgeocFRE0KZp8V3R6yVyzE="
+    "hash": "sha256-bfjJ9DI0GNBZgH96JIJ3GYKmNPnh31Z5guc71cqgVH0="
   },
   "ns_cache_webhook": {
     "version": "1.0.0",
@@ -38586,12 +38586,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ns_license": {
-    "version": "12.0.1",
+    "version": "12.0.2",
     "t3_versions": [
       12
     ],
     "description": "Manage License(s) of your purchased T3Planet's premium TYPO3 products. Know more at documentation https://docs.t3planet.com/en/latest/License/LicenseActivation/Index.html",
-    "hash": "sha256-nrjngdJc8m4E8nOEF0IvTafWvPoxlYPZeJkRJT3WNKQ="
+    "hash": "sha256-lwX2kXNtFXBs+noCiMAO/XvnLeeDMtsE7OvjHVaSBU0="
   },
   "ns_news_advancedsearch": {
     "version": "12.0.0",
