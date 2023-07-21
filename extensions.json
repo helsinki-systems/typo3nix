@@ -7782,13 +7782,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cf_cookiemanager": {
-    "version": "1.2.0",
+    "version": "1.2.1",
     "t3_versions": [
       11,
       12
     ],
-    "description": "This extension gives you the possibility to Manage the Cookie Consent Modal on your Website",
-    "hash": "sha256-Pa02WuU1CxK7KvgpMt8CiJG+d8V5a/K3sVS+e6e8n8I="
+    "description": "Unlock the full potential of your Typo3 website with CodingFreaks Typo3 Cookie Manager. Effortlessly manage and customize your website's services, cookies and scripts with our comprehensive extension. Streamline your workflow, enhance user experience, and ensure GDPR compliance with this powerful tool. Take control of your cookie management today and unleash the true potential of your Typo3 installation.",
+    "hash": "sha256-lX5bWfMkqeisroVBal1M97RBkxcjPf1JD0yG9FNUGAE="
   },
   "cf_google_authenticator": {
     "version": "1.2.4",
@@ -7876,24 +7876,28 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cfc_league": {
-    "version": "1.8.2",
+    "version": "1.11.1",
     "t3_versions": [
       8,
       9,
-      10
+      10,
+      11,
+      12
     ],
     "description": "Umfangreiche Extension zur Verwaltung von Sportvereinen und -wettbewerben. Extensive extension to manage sports clubs and competitions. https://github.com/digedag/cfc_league",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-NggXCgj5k2OLsTQIHb04yE4TqyNP0temOZbABHoImx0="
   },
   "cfc_league_fe": {
-    "version": "1.8.2",
+    "version": "1.11.0",
     "t3_versions": [
       8,
       9,
-      10
+      10,
+      11,
+      12
     ],
     "description": "FE-Plugins von T3sports. Liefert u.a. die Views Spielplan, Spielbericht, Tabellen, Team- und Spieleransicht. FE plugins for T3sports. Contains views for matchtable, leaguetable, matchreport, team and player reports and many more. Requires PHP5!",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-+b9rVKm+AC65zhLOKGPnICbIVT4XY2r8gqmthi4G4DA="
   },
   "cfloat": {
     "version": "0.1.5",
@@ -16615,12 +16619,12 @@
     "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
   },
   "enhanced_backend": {
-    "version": "0.1.1",
+    "version": "0.1.5",
     "t3_versions": [
       11
     ],
     "description": "Improves the user experience (UI/UX), provides customization options for editors and enhances the look and feel of TYPO3 backend.",
-    "hash": "sha256-o14fktfKBjtNerKQmPyimKDt7oR2o+HZgfOtvvbbaQ0="
+    "hash": "sha256-4Q7nF62ybdWwo+PINlBz3QJAqHP4avoEIBoX5FJD4OM="
   },
   "enomaly_laszlo": {
     "version": "0.0.2",
@@ -21181,12 +21185,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "frontend_editing": {
-    "version": "3.1.1",
+    "version": "3.1.2",
     "t3_versions": [
       11
     ],
     "description": "Enable editors to work with the content in the most intuitive way possible",
-    "hash": "sha256-y10O68mwpWM8dB/c9BIUz5J0hifrh1m0adjPk//wbAU="
+    "hash": "sha256-WOHmtaFSMrYGRioNtLa6IeGBESUNeGW3I7lQgEkk+8k="
   },
   "frontend_user": {
     "version": "1.1.1",
@@ -31066,13 +31070,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "lux": {
-    "version": "32.0.0",
+    "version": "32.2.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Living User Experience - LUX - the Marketing Automation tool for TYPO3.",
-    "hash": "sha256-rGRpxPIZaRChNngWHWWLjn4uAhWZRoifoyiBRsUYRJY="
+    "hash": "sha256-NJsDV22ECoUunMITp435mXfFVeJagmsesSJ2RW6sUG8="
   },
   "luxletter": {
     "version": "22.1.1",
@@ -32140,13 +32144,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "matomo_widgets": {
-    "version": "2.2.0",
+    "version": "2.2.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Dashboard widgets with Matomo reports",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-/neFpM5UEGsvSzfCNqwVnw4b7iB5LnKSJvIMKL1UP3I="
   },
   "matomoapi": {
     "version": "1.0.1",
@@ -34513,13 +34517,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mmc_guestbook": {
-    "version": "2.0.4",
+    "version": "3.0.1",
     "t3_versions": [
-      9,
-      10
+      11
     ],
     "description": "A guestbook plugin providing several mechanisms for spam prevention",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-i1Azi7Nea8Azlz/g30U2SR+IxjPseStxpz6eyfvmtRk="
   },
   "mmc_slideshow": {
     "version": "2.0.4",
@@ -38586,12 +38589,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ns_license": {
-    "version": "12.0.2",
+    "version": "12.0.3",
     "t3_versions": [
       12
     ],
     "description": "Manage License(s) of your purchased T3Planet's premium TYPO3 products. Know more at documentation https://docs.t3planet.com/en/latest/License/LicenseActivation/Index.html",
-    "hash": "sha256-lwX2kXNtFXBs+noCiMAO/XvnLeeDMtsE7OvjHVaSBU0="
+    "hash": "sha256-QARZOm9wXC6tDwBzNQfUrd6PGRu4HfgA+LQfWNU5ERI="
   },
   "ns_news_advancedsearch": {
     "version": "12.0.0",
@@ -38973,13 +38976,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "oauth2_server": {
-    "version": "1.5.0",
+    "version": "1.5.1",
     "t3_versions": [
       10,
       11
     ],
     "description": "OAuth2 server for TYPO3 based on PHP League's OAuth2 Server.",
-    "hash": "sha256-t4U0UDygwuXfod2tfoq24f+8/Wmw930jUZhkI4RPZjw="
+    "hash": "sha256-kNXY8tk+QOOYMMmjwcNG7w7YNT1ACaeWNtiBDtMfMrg="
   },
   "oauth_openid_single_sign_on": {
     "version": "1.0.4",
@@ -46246,15 +46249,16 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "rn_base": {
-    "version": "1.16.12",
+    "version": "1.17.1",
     "t3_versions": [
       8,
       9,
       10,
-      11
+      11,
+      12
     ],
     "description": "TYPO3 plugins based on rn_base can use MVC design principles and domain driven development. This extension also provides an abstraction layer for TYPO3 API to support LTS version since 6.2.",
-    "hash": "sha256-jorrYyDGrHQeY53NKUNenVkHpFul8LBDDXcvi7yReXw="
+    "hash": "sha256-E99We8q5AzsoqaqrWq+gjqplXJDhA3Z+a7QEkG38JXs="
   },
   "rn_memento": {
     "version": "0.0.1",
@@ -48148,14 +48152,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "schema": {
-    "version": "2.9.1",
+    "version": "2.10.0",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "API and view helpers for schema.org markup",
-    "hash": "sha256-DfxM/pCYudbUxdttghG8yiqgXKJoGBHtvscQGHOhHYI="
+    "hash": "sha256-8eI2PRAPta/mMNhKtCQJx3GlHIvQZnpWzyHdtqGBw3k="
   },
   "schema_auto": {
     "version": "1.3.0",
@@ -48205,14 +48209,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "schema_pending": {
-    "version": "1.5.0",
+    "version": "1.6.0",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Extend the schema extension with pending terms",
-    "hash": "sha256-YF+6rCCjRIv/jOFngxDQ0wJ6bylHyJq2+bqugNuFiqc="
+    "hash": "sha256-EJOJZamZe51abfGEgnq6OZpXLf3gGPN5t4Z5yXu+6xM="
   },
   "schema_virtuallocation": {
     "version": "1.3.0",
@@ -58922,14 +58926,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "treupo_sys_note_widgets": {
-    "version": "1.2.1",
+    "version": "1.2.2",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "A collection of widgets which shows a list of sys_notes",
-    "hash": "sha256-1QNCOtipkbIvc3apTwZDktlA52yrpSczT2D0ca0ja00="
+    "hash": "sha256-Sqyv9P4jjPRdRbZCWIvyglrHSofMtnKPfKzpO77gEUI="
   },
   "tripadvisor": {
     "version": "0.0.1",
