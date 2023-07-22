@@ -1860,12 +1860,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "allinoneaccessibility": {
-    "version": "1.0.8",
+    "version": "1.0.10",
     "t3_versions": [
       11
     ],
     "description": "",
-    "hash": "sha256-2LSzkW+D1S4r4DlmMpeQ1UtVESQph9vV6C2sFtut5dM="
+    "hash": "sha256-OqF2/nEKuqh44gB3PQ7tL3y+qQOkzoo2vhrJwWh/l7U="
   },
   "allnews": {
     "version": "0.2.6",
@@ -24309,13 +24309,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "iconpack": {
-    "version": "0.3.0",
+    "version": "0.3.1",
     "t3_versions": [
       10,
       11
     ],
     "description": "Provides an iconpack-registry for various iconpacks.",
-    "hash": "sha256-cKF0p/8yAdx2nfVUgoLz1Oswl/L0lu2DBxaUQdE7F7w="
+    "hash": "sha256-Bn80zh1+lySv4kUF98nUoHAtpTf/DP5bNq0G1COYUd4="
   },
   "iconpack_bootstrap": {
     "version": "1.1.2",
@@ -25511,16 +25511,17 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "includekrexx": {
-    "version": "4.1.9",
+    "version": "4.1.10",
     "t3_versions": [
       7,
       8,
       9,
       10,
-      11
+      11,
+      12
     ],
     "description": "Fluid and PHP debugger with backend access to logfiles, code generation to reach the displayed values and much more. We added some special stuff for Aimeos.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-2r+kXvwDLDk4qIUlhT49hV5DYeiUTuTVwdxHOHLQ6N0="
   },
   "incore_twitter": {
     "version": "1.2.2",
