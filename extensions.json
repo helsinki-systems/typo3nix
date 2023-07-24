@@ -1020,13 +1020,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "additional_tca": {
-    "version": "1.13.1",
+    "version": "1.14.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Additional TCA fields and tools",
-    "hash": "sha256-7QJskX6MP8Wv8LhKQKp5tP44W9z2Vbz2ePAVVoONd70="
+    "hash": "sha256-DgxtZNxlzulOMf1N1gx4OwYedwd3blG/+/8+zxVJkXc="
   },
   "addlinkheader": {
     "version": "0.0.4",
@@ -1860,12 +1860,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "allinoneaccessibility": {
-    "version": "1.0.10",
+    "version": "2.0.1",
     "t3_versions": [
-      11
+      12
     ],
-    "description": "",
-    "hash": "sha256-OqF2/nEKuqh44gB3PQ7tL3y+qQOkzoo2vhrJwWh/l7U="
+    "description": "All in One Accessibility widget improves Typo3 website ADA compliance and browser experience for ADA, WCAG 2.1, Section 508, Australian DDA, European EAA EN 301 549, UK Equality Act (EA), Israeli Standard 5568, California Unruh, Ontario AODA, Canada ACA, German BITV, and France RGAA standards.",
+    "hash": "sha256-7W9A1y6VZ8slnozwTO3okjUOTtfOi/wlL34nE7KSLe8="
   },
   "allnews": {
     "version": "0.2.6",
@@ -19012,13 +19012,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fh_debug": {
-    "version": "0.15.1",
+    "version": "0.15.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "This generates a PHP debug output file. FileWriter into debug",
-    "hash": "sha256-hQXaOmF209I5NozAX0XBlfAqyETr8odNqPV1xPhhNZI="
+    "hash": "sha256-ooI6oyeqhk8qxgHfb7gINT23ubEwNGIhpMxEs1hFVi8="
   },
   "fh_library": {
     "version": "0.0.20",
@@ -31071,13 +31071,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "lux": {
-    "version": "32.2.0",
+    "version": "32.2.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Living User Experience - LUX - the Marketing Automation tool for TYPO3.",
-    "hash": "sha256-NJsDV22ECoUunMITp435mXfFVeJagmsesSJ2RW6sUG8="
+    "hash": "sha256-nn8p2qz0BBGkuzpQiN+HZpjsQxggUwXbi2xGAmNunI8="
   },
   "luxletter": {
     "version": "22.1.1",
@@ -32039,13 +32039,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mask": {
-    "version": "8.2.3",
+    "version": "8.2.5",
     "t3_versions": [
       11,
       12
     ],
     "description": "Create your own content elements and page templates. Easy to use, even without programming skills because of the comfortable drag and drop system. Stored in structured database tables. Style your frontend with Fluid tags. Ideal, if you want to switch from Templavoila.",
-    "hash": "sha256-GzKQkgvl4UnLVNb3bsNxj4tkxh2xJ7gnZ7s/jyqzfA0="
+    "hash": "sha256-4CQkSL9TJQ+hGSeuC2HO1jZBM9mLCleNbZCevIwUBJE="
   },
   "mask_export": {
     "version": "4.0.2",
@@ -40514,6 +40514,14 @@
     ],
     "description": "Improve your TYPO3 page speed by using common best practices and other shenanigans :).",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "pagebased": {
+    "version": "0.17.2",
+    "t3_versions": [
+      11
+    ],
+    "description": "The ultimate tool to create page based extensions",
+    "hash": "sha256-pJnnCWQCexIRazqBeT28pYKRH7O96f2ZPU9W2qJn70E="
   },
   "pagebreadcrumb": {
     "version": "3.0.1",
@@ -49533,14 +49541,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "shortcodes": {
-    "version": "1.6.0",
+    "version": "1.7.0",
     "t3_versions": [
       9,
       10,
       11
     ],
     "description": "Wordpress-style shortcodes for TYPO3",
-    "hash": "sha256-Jp+K8f9o1wrnWNMqVcMDsmUCab8h9mIkeT1RKWoGu+k="
+    "hash": "sha256-3XWPEOHXmvuKlTXamHs5x4aRcA8q8/LtwHVEX3/9PM8="
   },
   "shortcut_redirect": {
     "version": "0.0.2",
@@ -61653,12 +61661,12 @@
     "hash": "sha256-iiWYdagbP9r7uhKQF1GyUIsJ4mB4o9kg8JZ7Y2b6Qwo="
   },
   "warming": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "t3_versions": [
       12
     ],
     "description": "Warms up Frontend caches based on an XML sitemap. Cache warmup can be triggered via TYPO3 backend or using a console command. Supports multiple languages and custom crawler implementations.",
-    "hash": "sha256-gwa1FXyKZXrdnQSssiXpWaSGe+EPU1Zbmf95vD8UeQo="
+    "hash": "sha256-ZPNU4kCM5nLGbl6L12lJ3vWObaba9uCaes1l8NMqsFs="
   },
   "warmup": {
     "version": "1.3.1",
@@ -63692,13 +63700,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "xblog": {
-    "version": "11.0.8",
+    "version": "11.1.1",
     "t3_versions": [
       10,
       11
     ],
     "description": "Quickly assemble a TYPO3 frontend! Publish the data from the tables pages, tt_content and from any other database! No need to set up typoscript.",
-    "hash": "sha256-sAWDBn63Gx3jHS8ry4vyw7/t3y/O37jLqd3zUO0LzKU="
+    "hash": "sha256-u89qRDs9rpOeqVMgpqHpl7VlHOagNROdz/2DmxY+soU="
   },
   "xdbmysql": {
     "version": "3.0.18",
