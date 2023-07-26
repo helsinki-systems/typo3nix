@@ -1860,12 +1860,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "allinoneaccessibility": {
-    "version": "2.0.1",
+    "version": "2.0.2",
     "t3_versions": [
       12
     ],
     "description": "All in One Accessibility widget improves Typo3 website ADA compliance and browser experience for ADA, WCAG 2.1, Section 508, Australian DDA, European EAA EN 301 549, UK Equality Act (EA), Israeli Standard 5568, California Unruh, Ontario AODA, Canada ACA, German BITV, and France RGAA standards.",
-    "hash": "sha256-7W9A1y6VZ8slnozwTO3okjUOTtfOi/wlL34nE7KSLe8="
+    "hash": "sha256-LvyBb1Jse58T6Q/0P4pJNWBhqQio9RhCsXl0bLTA3qw="
   },
   "allnews": {
     "version": "0.2.6",
@@ -3062,6 +3062,14 @@
     ],
     "description": "Generate URLs that grant access to hidden languages without a backend login",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "authtoken": {
+    "version": "1.0.1",
+    "t3_versions": [
+      11
+    ],
+    "description": "",
+    "hash": "sha256-Xzlks6MYdZb1ktSqgsATIOS+KmhjyzyBZ0HgpcOOmt0="
   },
   "auto404": {
     "version": "1.1.2",
@@ -9580,14 +9588,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "content_animations": {
-    "version": "2.4.1",
+    "version": "2.4.2",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "This extension allows you to set nice animations to your content elements if they are scrolled into the browsers viewport. To install it include the static typoscript of content_animations to your template and you're good to go. Have fun! :-)",
-    "hash": "sha256-XewrsX2po9mpfE0u0+uQT3BDr/Ncqqje1/YhHlbeLWY="
+    "hash": "sha256-zIEstPFHttAq2bRVbuXskLWhPbkZ++m4mcc7E46IM6s="
   },
   "content_consent": {
     "version": "2.0.1",
@@ -20556,10 +20564,12 @@
     "hash": "sha256-UmASge4oj+7axF2QsmMGU5O/Mo5zWqEJLRNCCB6Wdvc="
   },
   "form_email_contentblocks": {
-    "version": "2.1.0",
-    "t3_versions": [],
+    "version": "2.1.1",
+    "t3_versions": [
+      12
+    ],
     "description": "Allows to add a content element at the beginning (introductory text) and/or at the end (email signature) of the email templates. Also, the background color and logo of the fluid email template can be edited.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-WKSlS7a4Q+ETpeW/Z6LIKNz3T46BXIGWZUg7zieogjs="
   },
   "form_extended": {
     "version": "11.0.7",
@@ -22142,13 +22152,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "global_password": {
-    "version": "1.0.0",
+    "version": "2.0.1",
     "t3_versions": [
       9,
-      10
+      10,
+      11
     ],
     "description": "Password protection for a complete TYPO3 frontend. Useful for development and staging servers.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-uNWTL2LVd4bMpUKjL/hCVhT1PTeHe+IQqbeWw3jEv0o="
   },
   "globalcontent": {
     "version": "2.2.2",
@@ -48843,12 +48854,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sf_event_mgt": {
-    "version": "7.2.0",
+    "version": "7.3.0",
     "t3_versions": [
       12
     ],
     "description": "Configurable event management and registration extension based on ExtBase and Fluid",
-    "hash": "sha256-CZtvq+1ot/w/qYZZIb2dL0BeT5xP82zao7W7Kgcx1ZM="
+    "hash": "sha256-ZmObPBA+9elxQAbLJr0rivqAovklnGHpLK7QVxFR3yk="
   },
   "sf_event_mgt_contentelements": {
     "version": "2.0.1",
@@ -63718,13 +63729,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "xblog": {
-    "version": "11.1.2",
+    "version": "11.1.3",
     "t3_versions": [
       10,
       11
     ],
     "description": "Quickly assemble a TYPO3 frontend! Publish the data from the tables pages, tt_content and from any other database! No need to set up typoscript.",
-    "hash": "sha256-Hia6RbkJLr2b7IrQR9SPocRwP2M7Fl19gvMGeTf5u6E="
+    "hash": "sha256-Xi2igvQXnSZDzDRDxTtamgQzJ3icQzjt/J3e1XMLjXA="
   },
   "xdbmysql": {
     "version": "3.0.18",
