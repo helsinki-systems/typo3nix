@@ -4462,12 +4462,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "bexio": {
-    "version": "1.0.0",
+    "version": "2.0.0",
     "t3_versions": [
-      11
+      12
     ],
     "description": "Provides console commands and an API to interact with Bexio resources and emits events when invoices get paid.",
-    "hash": "sha256-QdIVEs0ofPeOzxl+6IyhFYBwj0WorqudSLIstt0iUXo="
+    "hash": "sha256-BH8/uHLcQPyivAop28g4YiqEha8Q/NvVDbWsKWJg+Wc="
   },
   "bf_teaser": {
     "version": "0.2.0",
@@ -13814,14 +13814,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "div2007": {
-    "version": "1.16.5",
+    "version": "1.16.6",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "This library offers classes and functions to other TYPO3 extensions. It provides a modified t3lib_div of TYPO3 4.7.10. Replacement for tslib_pibase methods and t3skin images.",
-    "hash": "sha256-amZrVr6vyPlVUTLclifnnyjXayMMcdjdt9+PLJnDw7s="
+    "hash": "sha256-3SH/H93i0BDx41zBFdn1SHMHyvYxElQVt1YOye4SqEQ="
   },
   "diva": {
     "version": "8.7.1",
@@ -15936,12 +15936,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "easyconf": {
-    "version": "2.1.0",
+    "version": "2.1.1",
     "t3_versions": [
       12
     ],
     "description": "Provides a module to easily configure main aspects from a website.",
-    "hash": "sha256-xQF/Itq13eH+f+FvxDeon1Sw9ZMzwzcBsSXXK1lZnR0="
+    "hash": "sha256-IURLA09rFCcs7/s8u2XiHi6X43OK4/RBYXs1T5hp5xU="
   },
   "easydb": {
     "version": "2.0.0",
@@ -21203,12 +21203,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "frontend_editing": {
-    "version": "3.1.3",
+    "version": "3.1.5",
     "t3_versions": [
       11
     ],
     "description": "Enable editors to work with the content in the most intuitive way possible",
-    "hash": "sha256-8nrkPbgdH4Mh6FxWthaJx4QnCxaaxP4TnJBMU1/UQn0="
+    "hash": "sha256-g/HIj1gs0B8s7TKB+ybuG12b6dYD9rNk8xQTBCiGIlU="
   },
   "frontend_user": {
     "version": "1.1.1",
@@ -29147,13 +29147,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "km_timeline": {
-    "version": "0.3.0",
+    "version": "0.3.1",
     "t3_versions": [
       9,
       10
     ],
     "description": "Creates a timeline of a chronicle.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-rjZNG2rxmKW5NAY1LvbDOqGBa4L/bM7hh9Pfyu7K/xg="
   },
   "km_ttaddress_extension": {
     "version": "4.2.0",
@@ -38421,12 +38421,12 @@
     "hash": "sha256-36GUDqEqYAO87zocn+nbtwoRyBd1KNbOzd6qR/EdsrE="
   },
   "ns_basetheme": {
-    "version": "12.0.5",
+    "version": "12.0.6",
     "t3_versions": [
       12
     ],
     "description": "The architecture of parent/child TYPO3 theme concept. Explore https://t3planet.com and https://nitsantech.com",
-    "hash": "sha256-bfjJ9DI0GNBZgH96JIJ3GYKmNPnh31Z5guc71cqgVH0="
+    "hash": "sha256-Si+U63NWqli1jS6q8C6Xr8o6shyaYTjVp9X9Ebr3yco="
   },
   "ns_cache_webhook": {
     "version": "1.0.0",
@@ -38609,12 +38609,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ns_license": {
-    "version": "12.0.3",
+    "version": "12.0.4",
     "t3_versions": [
       12
     ],
     "description": "Manage License(s) of your purchased T3Planet's premium TYPO3 products. Know more at documentation https://docs.t3planet.com/en/latest/License/LicenseActivation/Index.html",
-    "hash": "sha256-QARZOm9wXC6tDwBzNQfUrd6PGRu4HfgA+LQfWNU5ERI="
+    "hash": "sha256-Tz815e6v4Mi2tyAd2m11Hd3nC4ld+CWdIpSo7/K6Wr8="
   },
   "ns_news_advancedsearch": {
     "version": "12.0.0",
@@ -38870,13 +38870,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "nws_municipal_statutes": {
-    "version": "0.3.0",
+    "version": "0.4.2",
     "t3_versions": [
       9,
-      10
+      10,
+      11
     ],
     "description": "Reads all available municipal statutes from the TSA FullRest interface.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-7B3TKvvj1hBtzL4iCUwp8TOZ0OWDQ4crXIXWk/n0GEk="
   },
   "nwt_base": {
     "version": "0.1.0",
@@ -40460,12 +40461,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "page_callouts": {
-    "version": "3.0.1",
+    "version": "3.0.2",
     "t3_versions": [
       11
     ],
     "description": "Add callouts to page module in TYPO3 backend",
-    "hash": "sha256-QJHzapbNSUsYEjQS6joY1EeGFKUpb2N1LZRhUXfjPHI="
+    "hash": "sha256-has6iJ9TraBvF0lfBtHVtaTSI4ungNUADDbLBV33Q/k="
   },
   "page_creator": {
     "version": "1.0.1",
@@ -40535,20 +40536,21 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "pagebased": {
-    "version": "0.17.2",
+    "version": "1.0.0",
     "t3_versions": [
       11
     ],
     "description": "The ultimate tool to create page based extensions",
-    "hash": "sha256-pJnnCWQCexIRazqBeT28pYKRH7O96f2ZPU9W2qJn70E="
+    "hash": "sha256-FQOWP0nc1CtllreYfftyQkWvWmNPnAdOfFXHZuOI/as="
   },
   "pagebased_blog": {
-    "version": "0.1.2",
+    "version": "1.0.0",
     "t3_versions": [
-      11
+      11,
+      12
     ],
     "description": "A page based blog extension.",
-    "hash": "sha256-0rf6mUvLMcXftOI1kOMqcsIM81wyKx2w3BwF+KLdrsI="
+    "hash": "sha256-IE1DUmSsHl3PVHO1awCU4V5/ZBjAjmeHKGE9G8JaU8M="
   },
   "pagebreadcrumb": {
     "version": "3.0.1",
@@ -45448,6 +45450,16 @@
     "description": "Resource Manager",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "resourcehints": {
+    "version": "1.0.0",
+    "t3_versions": [
+      10,
+      11,
+      12
+    ],
+    "description": "Adds external hosts to the HTML-header for DNS-refetching.",
+    "hash": "sha256-QUEp/t5gyeHd2b7MI47OxUATDhi0baNTZz+mHij3F/Y="
+  },
   "responsible": {
     "version": "1.0.3",
     "t3_versions": [],
@@ -48611,13 +48623,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "seminars": {
-    "version": "5.3.0",
+    "version": "5.3.1",
     "t3_versions": [
       10,
       11
     ],
     "description": "Allows you to create and manage a list of seminars, workshops, lectures, theater performances and other events, allowing front-end users to sign up. FE users also can create and edit events.",
-    "hash": "sha256-lWVxh9ygTnst2zTpZabqdBPC4cKML9bfVJhpxSGE7/k="
+    "hash": "sha256-+UyKnZpjEKbKHS3mAYgDUCOjjnfN8wvdd0khhGuXg3M="
   },
   "seminarscalredirect": {
     "version": "1.0.0",
@@ -53369,6 +53381,14 @@
     ],
     "description": "Transparent static file cache solution using mod_rewrite and mod_expires. Increase performance for static pages by a factor of 230!!",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "staticpathrouteresolver": {
+    "version": "1.0.0",
+    "t3_versions": [
+      11
+    ],
+    "description": "Site config static routes which support EXT: path prefix to e.g. allow per-site favicon with cms-composer-installers >=4",
+    "hash": "sha256-0U/wmP0Y4vRkTCC4/b2nYXqWM5l/Uhq3B67MtaNmTFg="
   },
   "staticpub": {
     "version": "1.3.4",
