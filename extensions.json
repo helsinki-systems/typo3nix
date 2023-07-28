@@ -30161,16 +30161,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "lib_jquery": {
-    "version": "3.0.0",
+    "version": "4.0.1",
     "t3_versions": [
-      6,
-      7,
-      8,
-      9,
-      10
+      10,
+      11,
+      12
     ],
     "description": "Integrates the jQuery-library from CDN with a local fallback if requested library is not available. All relevant versions of jQuery (including minified and gzipped-versions) are shipped with this extension.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-QaXyO/KZQoSNrqyFprQ0JAU1gVGfl51kfihm2/hy0vc="
   },
   "lib_jquery_colorbox": {
     "version": "0.0.3",
@@ -38609,12 +38607,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ns_license": {
-    "version": "12.0.4",
+    "version": "12.0.5",
     "t3_versions": [
       12
     ],
     "description": "Manage License(s) of your purchased T3Planet's premium TYPO3 products. Know more at documentation https://docs.t3planet.com/en/latest/License/LicenseActivation/Index.html",
-    "hash": "sha256-Tz815e6v4Mi2tyAd2m11Hd3nC4ld+CWdIpSo7/K6Wr8="
+    "hash": "sha256-/t7s1i4WYSvf1X8iaUuLRYPqE+KsY/hIXcUFP0HpePU="
   },
   "ns_news_advancedsearch": {
     "version": "12.0.0",
@@ -45451,14 +45449,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "resourcehints": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Adds external hosts to the HTML-header for DNS-refetching.",
-    "hash": "sha256-QUEp/t5gyeHd2b7MI47OxUATDhi0baNTZz+mHij3F/Y="
+    "hash": "sha256-u/LwPk4/lU9eC4KygaNGbRGNHtcibN9iugFrvCNRHqs="
   },
   "responsible": {
     "version": "1.0.3",
@@ -56120,13 +56118,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "tcpdfbill_tt_products": {
-    "version": "0.2.0",
+    "version": "0.3.0",
     "t3_versions": [
-      9,
-      10
+      10,
+      11,
+      12
     ],
-    "description": "tt_products Extension with automatic PDF bill generation using the TCPDF library. Works with tt_products 2.8.1-3.2.99",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "description": "tt_products Extension with automatic PDF bill generation using the TCPDF library. Works with tt_products 2.14.3-3.4.99",
+    "hash": "sha256-LTo5MeSjKJ0r3KTnB9T4lCXnhHsHXyHGUgK0VdvOR3g="
   },
   "td_calendar": {
     "version": "0.4.0",
