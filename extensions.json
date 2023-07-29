@@ -3064,12 +3064,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "authtoken": {
-    "version": "1.0.1",
+    "version": "1.0.4",
     "t3_versions": [
       11
     ],
-    "description": "",
-    "hash": "sha256-Xzlks6MYdZb1ktSqgsATIOS+KmhjyzyBZ0HgpcOOmt0="
+    "description": "Once installed you can create authentication tokens for frontend users in the backend. You can then retrieve protected pages by submitting this token as an \"X-User-Token\" with the header.",
+    "hash": "sha256-bBZvpk6Sm1EKrcavtKac+XirDWnIyCZygj3Xxhoa3ak="
   },
   "auto404": {
     "version": "1.1.2",
@@ -7051,12 +7051,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "category_treebuilder": {
-    "version": "1.0.2",
+    "version": "2.0.1",
     "t3_versions": [
-      11
+      12
     ],
-    "description": "Build you're category tree with a built-in text editor and more.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "description": "Build and manage easily your category tree.",
+    "hash": "sha256-fXQ2gSywT4WhRrrB514JlUloO79yUUcEgVnLdUZHMJI="
   },
   "catwalk": {
     "version": "0.11.4",
@@ -7798,13 +7798,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cf_cookiemanager": {
-    "version": "1.2.1",
+    "version": "1.2.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "Unlock the full potential of your Typo3 website with CodingFreaks Typo3 Cookie Manager. Effortlessly manage and customize your website's services, cookies and scripts with our comprehensive extension. Streamline your workflow, enhance user experience, and ensure GDPR compliance with this powerful tool. Take control of your cookie management today and unleash the true potential of your Typo3 installation.",
-    "hash": "sha256-lX5bWfMkqeisroVBal1M97RBkxcjPf1JD0yG9FNUGAE="
+    "hash": "sha256-PFLJ9W9QEKFb5SHEli+n9AfqgMxPTc+0ltIDHckWNak="
   },
   "cf_google_authenticator": {
     "version": "1.2.4",
@@ -9706,12 +9706,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "content_slug": {
-    "version": "3.0.2",
+    "version": "3.1.0",
     "t3_versions": [
-      11
+      11,
+      12
     ],
     "description": "Adds a slug field for human-readable anchors (\"domain.com/page/#my-section\") to TYPO3 content elements. By default, this anchor is rendered as the header's id attribute.",
-    "hash": "sha256-kdwXrXvy7SuAa84/TWI0krC2DVVhlEQ3AEJEKJ9d/n8="
+    "hash": "sha256-E6uvfoqK31EiR8B3fWSkXFXo4ec1okKnfSmyomLSgA8="
   },
   "content_uneraser": {
     "version": "0.2.0",
@@ -21203,12 +21204,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "frontend_editing": {
-    "version": "3.1.5",
+    "version": "3.2.0",
     "t3_versions": [
       11
     ],
     "description": "Enable editors to work with the content in the most intuitive way possible",
-    "hash": "sha256-g/HIj1gs0B8s7TKB+ybuG12b6dYD9rNk8xQTBCiGIlU="
+    "hash": "sha256-lIcLuLs9gtdEOnsl1rm8SxoGabebDfcjTXbDSAILwoI="
   },
   "frontend_user": {
     "version": "1.1.1",
@@ -38868,14 +38869,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "nws_municipal_statutes": {
-    "version": "0.4.2",
+    "version": "0.4.3",
     "t3_versions": [
       9,
       10,
       11
     ],
     "description": "Reads all available municipal statutes from the TSA FullRest interface.",
-    "hash": "sha256-7B3TKvvj1hBtzL4iCUwp8TOZ0OWDQ4crXIXWk/n0GEk="
+    "hash": "sha256-zMAM5oszkp2kbiCitx/GgRwxQVkscr2x6MMFvV3K26A="
   },
   "nwt_base": {
     "version": "0.1.0",
@@ -50959,14 +50960,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "slick": {
-    "version": "11.0.0",
+    "version": "12.0.1",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Manage content elements, file collections and images with this responsive slider! Based on the slick carousel slider by Ken Wheeler. Scales with its container. Separate settings per breakpoint. Swipe, desktop mouse dragging, infinite looping, randomized order among others. Users can setup more than 50 properties by the plugin.",
-    "hash": "sha256-xyoAzsuKf3KCfdNkf8VMXHRRc+zzUH4hl8nKg3w35sI="
+    "hash": "sha256-pX9v0Kn9z8WuHEPfN5HT7j35NhZm8Y9xzh8Ue1tBO8I="
   },
   "slickcarousel": {
     "version": "4.1.0",
