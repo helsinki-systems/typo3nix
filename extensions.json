@@ -3064,12 +3064,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "authtoken": {
-    "version": "1.0.4",
+    "version": "2.0.0",
     "t3_versions": [
-      11
+      12
     ],
     "description": "Once installed you can create authentication tokens for frontend users in the backend. You can then retrieve protected pages by submitting this token as an \"X-User-Token\" with the header.",
-    "hash": "sha256-bBZvpk6Sm1EKrcavtKac+XirDWnIyCZygj3Xxhoa3ak="
+    "hash": "sha256-o1E9PmGCcOCD+MAEExxhftWkHurbI37QSmVzXfS2MAc="
   },
   "auto404": {
     "version": "1.1.2",
@@ -12669,14 +12669,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "dce": {
-    "version": "2.9.4",
+    "version": "2.9.5",
     "t3_versions": [
       9,
       10,
       11
     ],
     "description": "Best flexform based content elements since 2012. With TCA mapping feature, simple backend view and much more features which makes it super easy to create own content element types.",
-    "hash": "sha256-2iJMaGWE07DxAG640pYDw0hk1gmXNDUiuNvQgtCtnu8="
+    "hash": "sha256-PZSI1AaxnpHkLNySj5CrALcDAmjTlOklV8f8TwYZBp4="
   },
   "dcformcreator": {
     "version": "0.0.3",
@@ -48859,10 +48859,12 @@
     "hash": "sha256-mAju6KT6q5sarthn2/Ii5iKg3v0EAwtu12TIAr6xcuU="
   },
   "sf_books": {
-    "version": "7.0.1",
-    "t3_versions": [],
+    "version": "8.0.0",
+    "t3_versions": [
+      12
+    ],
     "description": "Managing lots of books is not easy without a good tool.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-YkZKrMTUerUy8yJmBkOYHP9WIEzgaGqMZkNqGeA4VIY="
   },
   "sf_event_mgt": {
     "version": "7.3.0",
@@ -58760,12 +58762,13 @@
     "hash": "sha256-BNgXT/XaxE7ArnrnrjouR7FBMMFTVYNUNIITm0MRQ38="
   },
   "translate_locallang": {
-    "version": "2.8.5",
+    "version": "2.9.0",
     "t3_versions": [
-      11
+      11,
+      12
     ],
     "description": "Backend Module for creating and editing of language files (locallang.xlf).",
-    "hash": "sha256-wiZFBvFTyaxetrg1r6lT1V7cyftyJ5XYgqiVcESMfH4="
+    "hash": "sha256-Qc/9Z893V6BRMqUmIZuhRn0iUyNgtAPzU+IBANgmxWA="
   },
   "translatelabels": {
     "version": "2.2.1",
