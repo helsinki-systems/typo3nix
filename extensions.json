@@ -21204,12 +21204,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "frontend_editing": {
-    "version": "3.2.3",
+    "version": "3.2.4",
     "t3_versions": [
       11
     ],
     "description": "Enable editors to work with the content in the most intuitive way possible",
-    "hash": "sha256-QiLXd+eLXAxqApqIUC6BFP2EnPH27Xrlr7SawmRLK50="
+    "hash": "sha256-cfVQtD6YU4U4bEn4gIisZ8hqOFTdWah1nfv9egmFSVs="
   },
   "frontend_user": {
     "version": "1.1.1",
@@ -28021,14 +28021,15 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "jumpurl": {
-    "version": "8.1.0",
+    "version": "8.2.0",
     "t3_versions": [
       9,
       10,
-      11
+      11,
+      12
     ],
     "description": "Allows to modify links to create Jump URLs created in the frontend of the TYPO3 Core.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-1xCdmrmjqOSos/C2MZvAm9pM7WOMUob97JS6dQwqJtw="
   },
   "jup_teaser": {
     "version": "2.0.0",
@@ -31477,12 +31478,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mail": {
-    "version": "1.13.0",
+    "version": "2.1.0",
     "t3_versions": [
-      11
+      11,
+      12
     ],
     "description": "Powerful newsletter system for TYPO3",
-    "hash": "sha256-3S0mxFqlRMk7g17Yj32nm6ZweLteKQEa2jJ610/qIuU="
+    "hash": "sha256-ZeviXV4CwySBX//D55Z7Y1ZJ9GadyDpxzYRpOfKoLRw="
   },
   "mail2news": {
     "version": "2.0.3",
