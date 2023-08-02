@@ -6754,6 +6754,15 @@
     "description": "Avoid duplicate content if you are using mountpoints, \"Show content of this page\" and backPid of tt_news by using the canonical tag, for Google, Microsoft & Yahoo",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "canto_extension": {
+    "version": "1.3.8",
+    "t3_versions": [
+      10,
+      11
+    ],
+    "description": "Connect canto flight to get resource",
+    "hash": "sha256-7/rGaMVyfyBjDTWG98pq1gbxKOF01yv/sZpOedz8Law="
+  },
   "cap_flattr_news": {
     "version": "1.4.0",
     "t3_versions": [],
@@ -13815,14 +13824,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "div2007": {
-    "version": "1.16.6",
+    "version": "1.16.7",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "This library offers classes and functions to other TYPO3 extensions. It provides a modified t3lib_div of TYPO3 4.7.10. Replacement for tslib_pibase methods and t3skin images.",
-    "hash": "sha256-3SH/H93i0BDx41zBFdn1SHMHyvYxElQVt1YOye4SqEQ="
+    "hash": "sha256-f3toOzC5OYPp3u+8RgE6zPgF0+uPzVyihup2DbLNX0U="
   },
   "diva": {
     "version": "8.7.1",
@@ -21204,12 +21213,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "frontend_editing": {
-    "version": "3.2.4",
+    "version": "3.2.5",
     "t3_versions": [
       11
     ],
     "description": "Enable editors to work with the content in the most intuitive way possible",
-    "hash": "sha256-cfVQtD6YU4U4bEn4gIisZ8hqOFTdWah1nfv9egmFSVs="
+    "hash": "sha256-/UpWSilb6o91OA4XEf/BKgaO/p0oeLV5iXPMMttiAgk="
   },
   "frontend_user": {
     "version": "1.1.1",
@@ -22799,13 +22808,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "gridelements": {
-    "version": "11.0.0",
+    "version": "11.1.0",
     "t3_versions": [
       10,
       11
     ],
     "description": "This extension extends the grid-based concept known from the backend layout of pages to regular content elements - the grid elements.",
-    "hash": "sha256-NI56HS4KYjuum6f9B8Rx59TfljytF0LviPc4uRAwkw4="
+    "hash": "sha256-dpGJ3yCvLWjlKFy0gww02w4pepOV6O4LAai/MgV05Zk="
   },
   "gridelements_bootstrap": {
     "version": "1.0.0",
@@ -23375,13 +23384,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "hh_accordion": {
-    "version": "0.4.1",
+    "version": "0.4.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "",
-    "hash": "sha256-IXSKkcFpBA911CnC5WSVHwHJTOwa1OImhOj8jjmmR5s="
+    "hash": "sha256-4+y9EhVF5yOjcpg33Sdm+FjglxEZ3jzwbIrdzIOYKaE="
   },
   "hh_add_statuscode": {
     "version": "0.1.22",
@@ -29529,13 +29538,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "l10nmgr": {
-    "version": "11.0.0",
+    "version": "11.1.0",
     "t3_versions": [
       10,
       11
     ],
     "description": "Module for managing localization import and export",
-    "hash": "sha256-LNoxPpMC62AqMqrtnk3xVl7Cm7an+hqPsBUu7K6JKwo="
+    "hash": "sha256-NRNdqkOdDCNGwZwf4pSEUMdgirmxmHubAcAHJTWHOSM="
   },
   "l10nmgr_grid": {
     "version": "0.2.2",
@@ -30125,13 +30134,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "lfeditor": {
-    "version": "7.1.10",
+    "version": "7.2.0",
     "t3_versions": [
       10,
       11
     ],
     "description": "This module serves several functions for editing of language files.",
-    "hash": "sha256-zbH3X+Zlr62u/7zZYr8KPt8z64qnlKCnh7+6Jh1G2dI="
+    "hash": "sha256-MIppb0NtJz3uyb91BZWx9scvElMxkBhP3LtCNrteMLY="
   },
   "lfeditor_impexp": {
     "version": "2.0.0",
@@ -30571,13 +30580,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "localizer": {
-    "version": "11.0.0",
+    "version": "11.1.0",
     "t3_versions": [
       10,
       11
     ],
     "description": "This extension provides a fully automated workflow and a graphical user interface for the well known Localization Manager (l10nmgr). While the L10nmgr still provides exports and imports of records and files, the Localizer will take care of all the necessary steps in between. Editors responsible for translations won't have to deal with any L10nmgr configurations anymore and as an administrator you create just one configuration per Localizer Project.",
-    "hash": "sha256-/qPpXEgsUya4/NdGHNesbUXF+pqK6QdZRSzQdzh+UKc="
+    "hash": "sha256-iZlScziBMl7XLn42/wzI1m6B033a/UmDZtuOWy5tkCo="
   },
   "localizer_beebox": {
     "version": "10.2.0",
@@ -31478,13 +31487,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mail": {
-    "version": "2.1.0",
+    "version": "2.2.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Powerful newsletter system for TYPO3",
-    "hash": "sha256-ZeviXV4CwySBX//D55Z7Y1ZJ9GadyDpxzYRpOfKoLRw="
+    "hash": "sha256-uGosuQ6G8UlFSgpPBhFVTu2iuw5g+DhJRf63z0U5eCg="
   },
   "mail2news": {
     "version": "2.0.3",
@@ -31512,13 +31521,13 @@
     "hash": "sha256-qEnuXsTZVgqV14+LIuC6Qf+Lame68AdiueEYqeWLM8c="
   },
   "mail_logger": {
-    "version": "3.0.8",
+    "version": "3.0.9",
     "t3_versions": [
       10,
       11
     ],
     "description": "This extension logs all your outgoing mails and provides email templates and debugging tools",
-    "hash": "sha256-oXNAEQXNAoly3Fzi+h/+GabRXIvZbu7eXj/p2rvOk+U="
+    "hash": "sha256-8Ek8eFJ5v6nz2v5QljWgnKDuJPwpZI2Z2se+CxX2US0="
   },
   "mail_spool": {
     "version": "1.2.0",
@@ -53385,12 +53394,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "staticpathrouteresolver": {
-    "version": "1.0.0",
+    "version": "1.3.0",
     "t3_versions": [
-      11
+      11,
+      12
     ],
     "description": "Site config static routes which support EXT: path prefix to e.g. allow per-site favicon with cms-composer-installers >=4",
-    "hash": "sha256-0U/wmP0Y4vRkTCC4/b2nYXqWM5l/Uhq3B67MtaNmTFg="
+    "hash": "sha256-HRD8iuaAEr0kvYroaBaDpH1vfT7OS1v/Pcpoct7DiJk="
   },
   "staticpub": {
     "version": "1.3.4",
@@ -55649,12 +55659,13 @@
     "hash": "sha256-03kws4QYWThdiF7DS6RyY2pM9G+ATTH5v2UhBv6nUxU="
   },
   "t5_sal_animation": {
-    "version": "1.1.5",
+    "version": "1.1.9",
     "t3_versions": [
-      11
+      11,
+      12
     ],
     "description": "Animate content elements on page scrolling with sal.js",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-PBdZ2zmuX0wV9odEFXIfISVtNUNbYWgXVPGoXFQ9FVQ="
   },
   "t_banner": {
     "version": "0.1.3",
@@ -61711,12 +61722,12 @@
     "hash": "sha256-iiWYdagbP9r7uhKQF1GyUIsJ4mB4o9kg8JZ7Y2b6Qwo="
   },
   "warming": {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "t3_versions": [
       12
     ],
     "description": "Warms up Frontend caches based on an XML sitemap. Cache warmup can be triggered via TYPO3 backend or using a console command. Supports multiple languages and custom crawler implementations.",
-    "hash": "sha256-ZPNU4kCM5nLGbl6L12lJ3vWObaba9uCaes1l8NMqsFs="
+    "hash": "sha256-T9xMrXFHwqnRfA42Uj/kz7g9ESB3PjMzJ69+NfJxvhg="
   },
   "warmup": {
     "version": "1.3.1",
