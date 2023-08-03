@@ -1860,12 +1860,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "allinoneaccessibility": {
-    "version": "2.0.2",
+    "version": "2.0.3",
     "t3_versions": [
       12
     ],
     "description": "All in One Accessibility widget improves Typo3 website ADA compliance and browser experience for ADA, WCAG 2.1, Section 508, Australian DDA, European EAA EN 301 549, UK Equality Act (EA), Israeli Standard 5568, California Unruh, Ontario AODA, Canada ACA, German BITV, and France RGAA standards.",
-    "hash": "sha256-LvyBb1Jse58T6Q/0P4pJNWBhqQio9RhCsXl0bLTA3qw="
+    "hash": "sha256-QgG9saBv2PWqelG/tAK2wwo/DtUvhR/mV5DE6e4hQtk="
   },
   "allnews": {
     "version": "0.2.6",
@@ -17386,13 +17386,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ext_bibsonomy_csl": {
-    "version": "3.3.2",
+    "version": "3.3.3",
     "t3_versions": [
       10,
       11
     ],
     "description": "TYPO3 extension for PUMA and BibSonomy using CSL",
-    "hash": "sha256-+IOsLLEkea0NDWshBdUI9z7NlfklDIxIrHIvfDfvX4Y="
+    "hash": "sha256-xmBsDhDRD97QPhG3E4M+dM8PFaSBA0UtlBmF2rnogFU="
   },
   "ext_configuration": {
     "version": "1.0.3",
@@ -32124,13 +32124,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mastertemplate": {
-    "version": "0.5.3",
+    "version": "0.6.0",
     "t3_versions": [
-      10,
-      11
+      11,
+      12
     ],
     "description": "This extension makes available the setup of the master template. Originally developed by the NRW user group.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-RL/ijlDjQe3WAHyWCf4+14FglEOm3e3hxcZ5GFOwHIw="
   },
   "material_design_lite": {
     "version": "3.0.0",
@@ -36441,12 +36441,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mysqlreport": {
-    "version": "3.0.1",
+    "version": "3.0.2",
     "t3_versions": [
-      11
+      11,
+      12
     ],
     "description": "Analyze and profile your TYPO3 database queries",
-    "hash": "sha256-Uom+2hROUb9iTekEFahhpCcqjBwfr6gj5Z4CN2i9IHs="
+    "hash": "sha256-zPXyA875jkeTFREcK/SYHHLPbaIrravRT5X39qtHb8Y="
   },
   "mytemplate1": {
     "version": "0.0.2",
@@ -38431,12 +38432,12 @@
     "hash": "sha256-36GUDqEqYAO87zocn+nbtwoRyBd1KNbOzd6qR/EdsrE="
   },
   "ns_basetheme": {
-    "version": "12.0.6",
+    "version": "12.0.7",
     "t3_versions": [
       12
     ],
     "description": "The architecture of parent/child TYPO3 theme concept. Explore https://t3planet.com and https://nitsantech.com",
-    "hash": "sha256-Si+U63NWqli1jS6q8C6Xr8o6shyaYTjVp9X9Ebr3yco="
+    "hash": "sha256-Ye2VMv4ONsHSKyatDsnsvKq0NxmiYpg340szZMz2UWs="
   },
   "ns_cache_webhook": {
     "version": "1.0.0",
@@ -44238,12 +44239,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "qc_be_pagelanguage": {
-    "version": "1.0.2",
+    "version": "1.0.3",
     "t3_versions": [
       11
     ],
     "description": "This extension brings back the behaviour from TYPO3 v10 that language selection is kept while browsing the Pagetree in Page module with option Languages instead of Column.",
-    "hash": "sha256-q5aOBhTUz9r8RhdMwEd8gfv04O2mtv7oT8F6xzDxHfM="
+    "hash": "sha256-Gtu5bnqJ8ycZyiZAIHogcEcYe9EKyCl6OH4RpSVBjbY="
   },
   "qc_info_rights": {
     "version": "1.2.7",
@@ -57258,13 +57259,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "tile_proxy": {
-    "version": "1.1.9",
+    "version": "1.2.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "With Tile Proxy you can integrate OpenStreetMap maps GDPR in a compliant way without any third party requests from the client. For a given area, the data is loaded from OpenStreetMap and cached, therefore you do not need a cookie banner or blocker to use OpenStreetMap cookie banner or blocker to use OpenStreetMap.\tA proxy is also provided for geocoding nominatim.",
-    "hash": "sha256-82SjW7jDNVLsNaM7rQiGv88qdqEitGTL26i5+NEjbGU="
+    "hash": "sha256-UNtV/9YTmz75nN/eEreaj2UBmQclGeFafHWLLBdzGrQ="
   },
   "timecollect": {
     "version": "0.0.1",
@@ -59253,12 +59254,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "tslib_fetce": {
-    "version": "0.6.1",
+    "version": "0.7.0",
     "t3_versions": [
-      11
+      11,
+      12
     ],
     "description": "It brings the deprecated TYPO3 4.x class tslib_feTCE and the processScript FEData setup with new features partly back into TYPO3 10+. This is needed by extensions based on the former TYPO3 FORM like tt_board and tt_guest. Only form MAIL and form wizards additionally require code provided by the extension compatibility6.",
-    "hash": "sha256-xElVuwaxJyKul/l1TYVhuo65/XFwqJBeFnsPyNrnU8w="
+    "hash": "sha256-iCMFk0wwsLRcG2kj9OsxJjcJ0WEb4mVoZy6vE+5pNrc="
   },
   "tslib_patcher": {
     "version": "0.1.4",
@@ -59375,12 +59377,13 @@
     "hash": "sha256-udl+wmwghQAn/h/tYmjt8otT8KICsBOHMF+9Ksf6wPU="
   },
   "tt_board": {
-    "version": "1.12.3",
+    "version": "1.13.0",
     "t3_versions": [
-      11
+      11,
+      12
     ],
     "description": "Simple threaded (tree) or list message board (forum).",
-    "hash": "sha256-LWEovWZTFsnqLkfd9ADhMVUjurohRTF4fBKIU8wZ6Uw="
+    "hash": "sha256-5xg54S/5eOKs7TZVBk67gsm9jwoqs+Us+2uyOeIxrsc="
   },
   "tt_calender": {
     "version": "1.0.5",
@@ -63592,14 +63595,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "wv_deepltranslate": {
-    "version": "3.0.4",
+    "version": "3.0.5",
     "t3_versions": [
       9,
       10,
       11
     ],
     "description": "This extension provides option to translate content element, and TCA record texts to DeepL and Google supported languages.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-I8lI6eH99XmjIEqjCKukyqCcmz1I4mbi9GaUlkMBDZA="
   },
   "wv_file_cleanup": {
     "version": "1.0.1",
