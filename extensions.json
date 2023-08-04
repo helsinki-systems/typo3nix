@@ -8638,13 +8638,13 @@
     "hash": "sha256-gF55Oa9X81SK/JprdpNGnEo5lViuqyHVqm+Y4bCk3gc="
   },
   "cloudflare": {
-    "version": "2.5.0",
+    "version": "2.5.1",
     "t3_versions": [
       10,
       11
     ],
     "description": "The Cloudflare TYPO3 extension ensures your TYPO3 website is running optimally on the Cloudflare platform.",
-    "hash": "sha256-zmT0PboJZ8cZAQmPGsRDZ3u9eD2aXqGzbsZPIzDccsI="
+    "hash": "sha256-r+2n8a5RIz7iMrmpnb/KnEokos/5G/xy0UUQMbB0lcw="
   },
   "clubcms": {
     "version": "0.2.2",
@@ -13824,14 +13824,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "div2007": {
-    "version": "1.16.7",
+    "version": "1.17.0",
     "t3_versions": [
       10,
       11,
       12
     ],
-    "description": "This library offers classes and functions to other TYPO3 extensions. It provides a modified t3lib_div of TYPO3 4.7.10. Replacement for tslib_pibase methods and t3skin images.",
-    "hash": "sha256-f3toOzC5OYPp3u+8RgE6zPgF0+uPzVyihup2DbLNX0U="
+    "description": "This library offers classes and functions to other TYPO3 extensions. It provides a modified t3lib_div of TYPO3 4.7.10. Replacement for tslib_pibase methods.",
+    "hash": "sha256-fcw1NhunP6GZk1lfEEemmf10NlLzcnRZQsFqyKebcgc="
   },
   "diva": {
     "version": "8.7.1",
@@ -21213,12 +21213,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "frontend_editing": {
-    "version": "3.2.5",
+    "version": "3.2.6",
     "t3_versions": [
       11
     ],
     "description": "Enable editors to work with the content in the most intuitive way possible",
-    "hash": "sha256-/UpWSilb6o91OA4XEf/BKgaO/p0oeLV5iXPMMttiAgk="
+    "hash": "sha256-jOdOq6eNeJmhgViUroK+rX2DMYPJ3oyrJGuN0LNVyeQ="
   },
   "frontend_user": {
     "version": "1.1.1",
@@ -46307,7 +46307,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "rn_base": {
-    "version": "1.17.1",
+    "version": "1.17.2",
     "t3_versions": [
       8,
       9,
@@ -46316,7 +46316,7 @@
       12
     ],
     "description": "TYPO3 plugins based on rn_base can use MVC design principles and domain driven development. This extension also provides an abstraction layer for TYPO3 API to support LTS version since 6.2.",
-    "hash": "sha256-E99We8q5AzsoqaqrWq+gjqplXJDhA3Z+a7QEkG38JXs="
+    "hash": "sha256-U2jQqPLd+O8P51itlkYP6IMHf8zJJpTloSn/UoBs+j4="
   },
   "rn_memento": {
     "version": "0.0.1",
@@ -48342,13 +48342,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "scroll": {
-    "version": "1.0.2",
+    "version": "2.0.0",
     "t3_versions": [
-      10,
-      11
+      12
     ],
     "description": "Prevents scroll jumps in TYPO3 CMS backend.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-rQEf9BJM8Nb8YuWGKc5LJRmQxtTJ/AqS8zqv37uMw3E="
   },
   "scroll2anchor_jquery": {
     "version": "1.0.3",
@@ -55305,6 +55304,16 @@
     "description": "The Frohling-Version of Typo3",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "t3skin_icons": {
+    "version": "1.0.0",
+    "t3_versions": [
+      10,
+      11,
+      12
+    ],
+    "description": "This library offers the t3skin icons.",
+    "hash": "sha256-PPwe+DN82EOkrc6vFX/HdrAsVACky2iotM55LDb7OOU="
+  },
   "t3skin_improved": {
     "version": "1.7.1",
     "t3_versions": [
@@ -59422,13 +59431,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "tt_products": {
-    "version": "2.14.17",
+    "version": "2.14.18",
     "t3_versions": [
       10,
       11
     ],
     "description": "Advanced versions at ttproducts.de. Documented in the E-Book \"Der TYPO3-Webshop\" - Shop with listing in multiple languages, with order tracking, product variants, support for transactor extension, bill, creditpoint and voucher system.",
-    "hash": "sha256-/Wvd+fdlrlEydQhA/uEzKh6DkAGn2Pm0TGSCYLcOLPY="
+    "hash": "sha256-5JoDejRRNSSNWY8uWhPZm3WcAEqoTG/8oqaiYR3KRS4="
   },
   "tt_products_foundby": {
     "version": "0.1.4",
