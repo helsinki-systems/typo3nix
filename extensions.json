@@ -37688,12 +37688,12 @@
     "hash": "sha256-iD9jAi+rq4UU0OlntNFmij+iMuJyobxEFLSzMmY+5ls="
   },
   "newsstylist": {
-    "version": "2.0.3",
+    "version": "2.0.5",
     "t3_versions": [
       11
     ],
     "description": "all in one: one-touch settings within news plugin - fast & cool way to change the output of news, List view 5 layouts (default, card, carousel, newsletter) and swiper slider with some effects",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-xSUeqlBoWEB9dFGYcHl5Ju/XRlvLKGDWCXGmwTy+/Ss="
   },
   "newssubmit": {
     "version": "1.0.0",
@@ -54770,12 +54770,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "t3foundation": {
-    "version": "7.0.9",
+    "version": "7.0.12",
     "t3_versions": [
       10
     ],
     "description": "Integration of Zurb Foundation CSS Framework for TYPO3 websites. This extension is optimised for Start TYPO3 Responsive.",
-    "hash": "sha256-216IDOafkDkrWDaldBIlOsjFtSbWLtu6Y23sfZoNSik="
+    "hash": "sha256-nqWHAOEi9oqUW9v4pCHvpeajNkCsa02Ch5lkp6BBtzA="
   },
   "t3getid3": {
     "version": "1.1.1",
@@ -63775,13 +63775,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "xblog": {
-    "version": "11.1.3",
+    "version": "11.1.4",
     "t3_versions": [
       10,
       11
     ],
     "description": "Quickly assemble a TYPO3 frontend! Publish the data from the tables pages, tt_content and from any other database! No need to set up typoscript.",
-    "hash": "sha256-Xi2igvQXnSZDzDRDxTtamgQzJ3icQzjt/J3e1XMLjXA="
+    "hash": "sha256-3paTNO0d00XFi+NIduUHxclxNhBoaFjOgP9ghFg/lCc="
   },
   "xdbmysql": {
     "version": "3.0.18",
