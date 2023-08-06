@@ -21213,12 +21213,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "frontend_editing": {
-    "version": "3.2.6",
+    "version": "3.3.0",
     "t3_versions": [
       11
     ],
     "description": "Enable editors to work with the content in the most intuitive way possible",
-    "hash": "sha256-jOdOq6eNeJmhgViUroK+rX2DMYPJ3oyrJGuN0LNVyeQ="
+    "hash": "sha256-mxbV9oOHpDw/xAkBrAdjH606vc5nPb8FeH0vt/Xqers="
   },
   "frontend_user": {
     "version": "1.1.1",
