@@ -1020,13 +1020,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "additional_tca": {
-    "version": "1.14.0",
+    "version": "1.14.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Additional TCA fields and tools",
-    "hash": "sha256-DgxtZNxlzulOMf1N1gx4OwYedwd3blG/+/8+zxVJkXc="
+    "hash": "sha256-Jqp3kUqaILij+vDRxMn7l4c9Mwi9RdVn7XUocWx4zLY="
   },
   "addlinkheader": {
     "version": "0.0.4",
@@ -4793,10 +4793,12 @@
     "hash": "sha256-PKc28E4uDAfESIvQ+8ht+p319NFfEvKjh6Ofa6XTTkc="
   },
   "blog_example": {
-    "version": "12.0.2",
-    "t3_versions": [],
+    "version": "12.0.3",
+    "t3_versions": [
+      12
+    ],
     "description": "This extension contains code examples used in TYPO3 explained to describe the use of Extbase",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-MkICiMLlUtfoRUnJBR1DmtV90hMxbfewPXdIqdslVLg="
   },
   "blog_template": {
     "version": "1.2.2",
@@ -7807,13 +7809,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cf_cookiemanager": {
-    "version": "1.2.2",
+    "version": "1.3.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Unlock the full potential of your Typo3 website with CodingFreaks Typo3 Cookie Manager. Effortlessly manage and customize your website's services, cookies and scripts with our comprehensive extension. Streamline your workflow, enhance user experience, and ensure GDPR compliance with this powerful tool. Take control of your cookie management today and unleash the true potential of your Typo3 installation.",
-    "hash": "sha256-PFLJ9W9QEKFb5SHEli+n9AfqgMxPTc+0ltIDHckWNak="
+    "hash": "sha256-i+5dukSOicOnI+NskQjltdEI2iU4o5JiVbD4pIId1mI="
   },
   "cf_google_authenticator": {
     "version": "1.2.4",
@@ -17682,12 +17684,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "external_import": {
-    "version": "7.0.0",
+    "version": "7.1.0",
     "t3_versions": [
-      11
+      11,
+      12
     ],
     "description": "Tool for importing data from external sources into the TYPO3 CMS database, using an extended TCA syntax. Provides a BE module, a Scheduler task, a command-line tool and an API.",
-    "hash": "sha256-bJDnrTF+pvsu+u7fYEWMYfdjKLIf2W8LlqwF3e2fg4M="
+    "hash": "sha256-v/MqBeogC+7jJq3jEUqTK5PdUn7Gzq5Haj2RicRVN5I="
   },
   "external_import_tt_products": {
     "version": "0.0.1",
@@ -17717,12 +17720,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "externalimport_tut": {
-    "version": "5.0.0",
+    "version": "5.1.0",
     "t3_versions": [
-      11
+      11,
+      12
     ],
     "description": "Tutorial for the External Import extension. Contains the manual and the necessary files.",
-    "hash": "sha256-pW1tQBdAddXFiN1bcLIZlwyZetn97GvyAgSc8JWSzS0="
+    "hash": "sha256-zneT6aH2v4NZvvkUucdbrfWraftcTgXrKznCnHPZfwI="
   },
   "extfileupload": {
     "version": "0.0.1",
@@ -20674,12 +20678,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "form_rate_limit": {
-    "version": "1.1.0",
+    "version": "1.2.0",
     "t3_versions": [
-      11
+      11,
+      12
     ],
     "description": "TYPO3 form finisher for rate limiting when sending a form",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-22GmbxBP29PCJIYIrE+keHvwRfP5rB0sPUTBaSAjAI0="
   },
   "form_search": {
     "version": "1.1.0",
@@ -21213,12 +21218,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "frontend_editing": {
-    "version": "3.3.0",
+    "version": "3.3.1",
     "t3_versions": [
       11
     ],
     "description": "Enable editors to work with the content in the most intuitive way possible",
-    "hash": "sha256-mxbV9oOHpDw/xAkBrAdjH606vc5nPb8FeH0vt/Xqers="
+    "hash": "sha256-cMx3d9nx8NXufeEYpXAgrCbsCXoxHqiMDTax6hFzQTM="
   },
   "frontend_user": {
     "version": "1.1.1",
@@ -23416,12 +23421,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "hh_openstreetmap": {
-    "version": "0.2.7",
+    "version": "0.3.0",
     "t3_versions": [
-      11
+      11,
+      12
     ],
     "description": "Simple OpenStreetMap",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-Tmn0PewhpoSaCORfaOCeI8qwGw4Klr32P6j2L1UlwfU="
   },
   "hh_seo": {
     "version": "0.7.0",
@@ -31099,13 +31105,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "lux": {
-    "version": "32.2.1",
+    "version": "32.2.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "Living User Experience - LUX - the Marketing Automation tool for TYPO3.",
-    "hash": "sha256-nn8p2qz0BBGkuzpQiN+HZpjsQxggUwXbi2xGAmNunI8="
+    "hash": "sha256-IF1z6xs3iWdhEzpuHz2IrQ7XYKCunmYGdwj25Wj6wFo="
   },
   "luxletter": {
     "version": "22.1.1",
@@ -53899,44 +53905,49 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "svconnector": {
-    "version": "5.0.1",
+    "version": "5.1.0",
     "t3_versions": [
-      11
+      11,
+      12
     ],
     "description": "This family of services is used to connect to external data sources and fetch data from them. This is just a base class which cannot be used by itself. Implementations are done for specific subtypes.",
-    "hash": "sha256-LH2QLBAUiBeAzMN8nHKfOlLRL77NOSemu78qq+HQKas="
+    "hash": "sha256-UgPILiSxeKlYKgtWVVyeqqReyRmSD93/LZoqfrYJpC0="
   },
   "svconnector_csv": {
-    "version": "4.0.1",
+    "version": "4.1.0",
     "t3_versions": [
-      11
+      11,
+      12
     ],
     "description": "Connector service for reading a CSV or similar flat file",
-    "hash": "sha256-sVUx9CyXveqCpJOWTFiVk3G/bQx+TCBxaL30j2bZHaU="
+    "hash": "sha256-/iAk8JlD5x24AWb/QLSPJdy9ZA10WWWQzL5wtxRZ1e4="
   },
   "svconnector_feed": {
-    "version": "4.0.1",
+    "version": "4.1.0",
     "t3_versions": [
-      11
+      11,
+      12
     ],
     "description": "Connector service for XML files or RSS feeds",
-    "hash": "sha256-zOAhgkNMkhKHUSVetg9YkxzxmCMGcsiBxm0nt0P+eUY="
+    "hash": "sha256-T9p0vAP9nq/j0i3hu7Q4kdzV2EoKMN+3w6lltZIjj3c="
   },
   "svconnector_json": {
-    "version": "4.0.1",
+    "version": "4.1.0",
     "t3_versions": [
-      11
+      11,
+      12
     ],
     "description": "Connector service for JSON data",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-7OM0jpYhofHgNOCVL8SY95Heslz7QOHWfkb1SqBV1aY="
   },
   "svconnector_sql": {
-    "version": "4.0.1",
+    "version": "4.1.0",
     "t3_versions": [
-      11
+      11,
+      12
     ],
     "description": "Connector service for any SQL-based database via Doctrine DBAL.",
-    "hash": "sha256-vWnVGeHaJveTRMgrWSdRixafSHm0dvEnAJF/XtVvMK0="
+    "hash": "sha256-brJuvt7gs8BOaPZS6Y8U+W1CzKexnAdh1c5bsG3yV0M="
   },
   "svconnector_xls": {
     "version": "2.0.3",
