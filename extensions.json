@@ -1020,13 +1020,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "additional_tca": {
-    "version": "1.14.1",
+    "version": "1.14.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "Additional TCA fields and tools",
-    "hash": "sha256-Jqp3kUqaILij+vDRxMn7l4c9Mwi9RdVn7XUocWx4zLY="
+    "hash": "sha256-VKfuRPoZFWw4krgL7BEer34R84615VSs6AkoACl96Wk="
   },
   "addlinkheader": {
     "version": "0.0.4",
@@ -9543,14 +9543,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "container": {
-    "version": "2.2.4",
+    "version": "2.2.5",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Create Custom Container Content Elements for TYPO3",
-    "hash": "sha256-r0EZ65OWBTFRWnaUAPNANZpP1tkvOCzNckwJdaaFluI="
+    "hash": "sha256-xhTzVtt8UxmfCKKotudf54e2/DooxW7GvI+iJoSNy5k="
   },
   "container_elements": {
     "version": "5.1.0",
@@ -18746,12 +18746,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "femanager": {
-    "version": "7.2.0",
+    "version": "7.2.1",
     "t3_versions": [
       11
     ],
     "description": "TYPO3 Frontend User Registration and Management based on",
-    "hash": "sha256-+Jcjk5xYDIOqAeLgH4Gi+Gh6Txy8NZUQt9lSUJd32CA="
+    "hash": "sha256-lCxSKCaDLlWIfMPtFiU2UprytUpxug1HubymO9agiP0="
   },
   "femanager_cleverreach": {
     "version": "2.0.0",
@@ -21218,12 +21218,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "frontend_editing": {
-    "version": "3.3.1",
+    "version": "3.3.2",
     "t3_versions": [
       11
     ],
     "description": "Enable editors to work with the content in the most intuitive way possible",
-    "hash": "sha256-cMx3d9nx8NXufeEYpXAgrCbsCXoxHqiMDTax6hFzQTM="
+    "hash": "sha256-AngvxlDR2/1H7d00BcruZohoWXXnkVTgSDYuNoxW4d0="
   },
   "frontend_user": {
     "version": "1.1.1",
@@ -23389,13 +23389,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "hh_accordion": {
-    "version": "0.4.2",
+    "version": "0.5.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "",
-    "hash": "sha256-4+y9EhVF5yOjcpg33Sdm+FjglxEZ3jzwbIrdzIOYKaE="
+    "hash": "sha256-7stZzkQZXgMn+iBMDuzDg9rw2XLo2k3vPu4EZfh0/rA="
   },
   "hh_add_statuscode": {
     "version": "0.1.22",
@@ -31493,13 +31493,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mail": {
-    "version": "2.2.0",
+    "version": "2.3.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Powerful newsletter system for TYPO3",
-    "hash": "sha256-uGosuQ6G8UlFSgpPBhFVTu2iuw5g+DhJRf63z0U5eCg="
+    "hash": "sha256-IPKSWy4qML0gLlf6EUOazPU5/C+adZUR9rFrP1mYQBs="
   },
   "mail2news": {
     "version": "2.0.3",
@@ -33079,14 +33079,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "menus": {
-    "version": "1.0.2",
+    "version": "1.0.3",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Various Menu functionality for TYPO3 Frontend",
-    "hash": "sha256-4Fl/U5fyzNRD5Vf8JKMIHTjlPeW0G4iis55Fe7a7rK4="
+    "hash": "sha256-0lU0QtkVjTB7jIj6VGuZJk9Rv/DXpo1CW0q6uurm9QU="
   },
   "menustop": {
     "version": "0.0.2",
@@ -36362,12 +36362,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "myleaflet": {
-    "version": "1.7.0",
+    "version": "1.8.3",
     "t3_versions": [
-      11
+      11,
+      12
     ],
     "description": "Leaflet / OpenStreetMap for tt_address data with radial search and categories. No registration and no API-keys necessary.",
-    "hash": "sha256-8IM6Cu0VlNtrMzr7IfvV32q1ltEn69bmMw4SgID8/c4="
+    "hash": "sha256-r1nKcoQZK2haucPDFlfdGK+GF/SRAm9TcIe/RZs5Pqg="
   },
   "mymap": {
     "version": "1.6.4",
@@ -36468,12 +36469,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "myttaddressmap": {
-    "version": "2.1.7",
+    "version": "2.1.9",
     "t3_versions": [
-      11
+      11,
+      12
     ],
     "description": "Google maps for tt_address with radial search and categories",
-    "hash": "sha256-ODp0XVPYCIGbuvgi7o0YS33RriYHqdMNrKBmR7sX4aQ="
+    "hash": "sha256-tX9e8TnX76ZrfIZxyP20cCr6dcnIEiYgRr8LKvcqy6M="
   },
   "mytypo3": {
     "version": "0.1.1",
@@ -38739,15 +38741,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ns_theme_extend": {
-    "version": "2.0.0",
+    "version": "12.0.0",
     "t3_versions": [
-      8,
-      9,
-      10,
-      11
+      12
     ],
     "description": "The child theme of EXT:ns_theme_child",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-4QT5PQ+kht4V+mGCSr+iyi4N3tL20NjF4azcHqcqVIA="
   },
   "ns_theme_freelancer": {
     "version": "12.0.0",
@@ -40916,13 +40915,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "parsedown_extra": {
-    "version": "2.3.2",
+    "version": "3.0.0",
     "t3_versions": [
-      10,
-      11
+      11,
+      12
     ],
     "description": "Provides a content element which displays markdown files. Parses email links with TYPO3 encryption. ViewHelper for parsing Markdown from individual sources. Defining abbreviations globally by using TypoScript. Code Highlighting.",
-    "hash": "sha256-kEDbWI3FNDGVVNV7WYqnEY2Ui87Usbo1JWknGMiBX6A="
+    "hash": "sha256-sjAGlbaRZlPJ3XKgiJBivObf4N5ww64zJxTjvdUCLUQ="
   },
   "partner": {
     "version": "0.5.21",
@@ -61955,13 +61954,12 @@
     "hash": "sha256-fsZUZ+miAuev+loMufCyZAeMgXbzzRiDNf5XU3aOt9Q="
   },
   "weather_widget": {
-    "version": "1.1.2",
+    "version": "2.0.0",
     "t3_versions": [
-      10,
-      11
+      12
     ],
     "description": "Weather by Wttr.in",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-Glzyi9SFxOIRY0I4riGTW+u3t75qnFamUtZCW7wq3fQ="
   },
   "web2pdf": {
     "version": "3.0.1",
