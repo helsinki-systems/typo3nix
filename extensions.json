@@ -31493,13 +31493,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mail": {
-    "version": "2.3.0",
+    "version": "2.4.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Powerful newsletter system for TYPO3",
-    "hash": "sha256-IPKSWy4qML0gLlf6EUOazPU5/C+adZUR9rFrP1mYQBs="
+    "hash": "sha256-A5kb9ecI9i0SDGwY+BnzKY84dpFCMJcX3yo8S7luB2w="
   },
   "mail2news": {
     "version": "2.0.3",
@@ -32074,13 +32074,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mask": {
-    "version": "8.2.6",
+    "version": "8.3.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Create your own content elements and page templates. Easy to use, even without programming skills because of the comfortable drag and drop system. Stored in structured database tables. Style your frontend with Fluid tags. Ideal, if you want to switch from Templavoila.",
-    "hash": "sha256-7DqGZPNusCfDmzBiGbWCWzoO6WCXQUlvbB7q//mRfE4="
+    "hash": "sha256-owf8jna9/Rk6EMv/lXrg7LQ3ljBivYiTiqluGBb5QlU="
   },
   "mask_export": {
     "version": "4.0.2",
@@ -32650,12 +32650,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "me_backend_security": {
-    "version": "3.0.1",
+    "version": "3.0.3",
     "t3_versions": [
       11
     ],
     "description": "Erweiterte Sicherheit für das TYPO3-Backend",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-Ben6UHPmtahVL4Nivp+C67adJQ940BdGbu7b/Mhit9s="
   },
   "me_bootstrap": {
     "version": "0.0.4",
@@ -34285,13 +34285,13 @@
     "hash": "sha256-/4jsScbWeSH2luIIo0NJrPTxlw1T2NkfwgaZSsNaeMA="
   },
   "mkvarnish": {
-    "version": "10.0.6",
+    "version": "11.0.1",
     "t3_versions": [
-      9,
-      10
+      10,
+      11
     ],
     "description": "This extension takes care of connecting TYPO3 to Varnish servers for proper caching.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-4QreWNybdHc7q731WukcAn36jxCA1fB4VFh/+EuT7pQ="
   },
   "ml_autoinstall_scheduler": {
     "version": "1.0.0",
@@ -36362,22 +36362,22 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "myleaflet": {
-    "version": "1.8.3",
+    "version": "1.8.5",
     "t3_versions": [
       11,
       12
     ],
     "description": "Leaflet / OpenStreetMap for tt_address data with radial search and categories. No registration and no API-keys necessary.",
-    "hash": "sha256-r1nKcoQZK2haucPDFlfdGK+GF/SRAm9TcIe/RZs5Pqg="
+    "hash": "sha256-XCQWBlqtUbsy6b9jVwOzfWRL2AFXQqkvECre3ODGRaQ="
   },
   "mymap": {
-    "version": "1.6.4",
+    "version": "1.7.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Google maps with radial search and hierarchic categories (category tree). Show the results in responsive Google maps, traffic- and bicycling layer included and can be activated via constant editor.",
-    "hash": "sha256-RFk/x6nEOwnuyWmcRN0i9Cb8QTTH7s9KHJN77fThrvM="
+    "hash": "sha256-oJ4rH70KimWVbMOVeR5Te6yYMe/HKYA4NOGV2GFV9dc="
   },
   "mypuzz_ftp": {
     "version": "1.1.1",
@@ -43143,6 +43143,14 @@
     "t3_versions": [],
     "description": "Full database plugin (List-, Detail-, Latestview) of powermail entries. Frontend edit possible. Extend powermail to an eventlist or a guestbook, e.g.",
     "hash": "sha256-Q06KDDhk5rbeYaX09KwVBnonhBfUIUl7GbCsUaEYnmA="
+  },
+  "powermail_limits": {
+    "version": "1.0.0",
+    "t3_versions": [
+      11
+    ],
+    "description": "Addition to EXT:powermail which allows limits for form submissions",
+    "hash": "sha256-aj3Km+Lg6JEMyEffYinLP//JjLmVHQhUbI3GAgY+ubA="
   },
   "powermail_mul": {
     "version": "1.0.3",
@@ -60105,6 +60113,15 @@
     ],
     "description": "Use the Twitter API to tweet about news items added in Georg Ringers EXT:news extension. Minimal configuration - no database storage used.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "twentythree": {
+    "version": "0.1.1",
+    "t3_versions": [
+      11,
+      12
+    ],
+    "description": "Provides an online media provider for the TwentyThree Video Marketing Platform",
+    "hash": "sha256-abm/YcUV96fowZw0MJ7ZTGevfq8Syjk5wcnIvX9qiVw="
   },
   "twig_for_typo3": {
     "version": "1.0.0",
