@@ -2257,7 +2257,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ameos_tarteaucitron": {
-    "version": "2.1.0",
+    "version": "2.2.0",
     "t3_versions": [
       8,
       9,
@@ -2266,7 +2266,7 @@
       12
     ],
     "description": "Integrates tarteaucitron.js in TYPO3 (see : https://tarteaucitron.io )",
-    "hash": "sha256-4kWwLR1DrppB6qpJX283JboSLC1wzj6h5rY+Svze4Sw="
+    "hash": "sha256-tsHaIP6nMjIcok1N6UIIH8Q7TXk/P62jAinx0bCdA18="
   },
   "ameos_typo3_vulnerabilities": {
     "version": "1.0.0",
@@ -21218,12 +21218,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "frontend_editing": {
-    "version": "3.3.2",
+    "version": "3.3.3",
     "t3_versions": [
       11
     ],
     "description": "Enable editors to work with the content in the most intuitive way possible",
-    "hash": "sha256-AngvxlDR2/1H7d00BcruZohoWXXnkVTgSDYuNoxW4d0="
+    "hash": "sha256-xbObFiia3Z7XXZeTvHchKDQ7smbQbQyt6BcCC/3KeqM="
   },
   "frontend_user": {
     "version": "1.1.1",
@@ -31105,13 +31105,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "lux": {
-    "version": "32.2.2",
+    "version": "32.2.3",
     "t3_versions": [
       11,
       12
     ],
     "description": "Living User Experience - LUX - the Marketing Automation tool for TYPO3.",
-    "hash": "sha256-IF1z6xs3iWdhEzpuHz2IrQ7XYKCunmYGdwj25Wj6wFo="
+    "hash": "sha256-TaqkEXogmbCDzBeewKS4l0h4Q6QxlvmSmt1vdnCSad8="
   },
   "luxletter": {
     "version": "22.1.1",
@@ -31850,13 +31850,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "make": {
-    "version": "0.1.5",
+    "version": "0.1.7",
     "t3_versions": [
       10,
-      11
+      11,
+      12
     ],
     "description": "Kickstarter CLI tool for various TYPO3 functionalities",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-vcKp8oj2KrTuSEaj2rxh2J73LI0gSp1BV64gFMgj+g4="
   },
   "make_printlink": {
     "version": "1.5.3",
@@ -34267,13 +34268,13 @@
     "hash": "sha256-LYLaird5xN9EiDiJ23crgAdszzu0OwI4Xf7bd380o0M="
   },
   "mksearch": {
-    "version": "11.0.7",
+    "version": "11.0.8",
     "t3_versions": [
       10,
       11
     ],
     "description": "Generic highly adjustable and extendable search engine framework, using Zend Lucene, Apache Solr or ElasticSearch. But support for other search engines can be provided easily.",
-    "hash": "sha256-I3jN81vy+1WTIXWRHQs2aN4DZ9jahr4l30BLF1adClk="
+    "hash": "sha256-VPNTo4lIU/9bvVAfwOriIllTM81WHE6CHBtNTO5pkTo="
   },
   "mktools": {
     "version": "11.0.1",
@@ -38488,6 +38489,20 @@
     ],
     "description": "Easily install and configure simple cookie-bar to make GDPR compliant your TYPO3 site. Live-Demo: https://demo.t3terminal.com//t3t-extensions/cookies You can download PRO version for more-features & free-support at https://t3terminal.com/simple-cookies-bar-typo3-extension",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "ns_cookieyes": {
+    "version": "1.0.0",
+    "t3_versions": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "description": "Quickly configure cookieyes.com to your TYPO3 site to helps make your use of cookies and online tracking GDPR and EPR compliant.",
+    "hash": "sha256-eCq0aoyPQhyK2VlLDz4GiDj0Z/JfQMCGJDCSmZ0v1Ks="
   },
   "ns_disqus_comments": {
     "version": "12.0.0",
@@ -49141,7 +49156,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sg_cookie_optin": {
-    "version": "5.2.4",
+    "version": "5.3.0",
     "t3_versions": [
       9,
       10,
@@ -49149,7 +49164,7 @@
       12
     ],
     "description": "",
-    "hash": "sha256-qeJ47p2CuC1g7MCmQSBGtm4zLJYHX/nSoMZTZ8DGQAo="
+    "hash": "sha256-k8mtCG+IN5kXwcCEyiyc1RQ0lgjS7ItsaJx/mVKVNh4="
   },
   "sg_cropscale": {
     "version": "0.5.0",
@@ -53760,13 +53775,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sudhaus7_gpgadmin": {
-    "version": "3.0.2",
+    "version": "4.0.1",
     "t3_versions": [
-      10,
-      11
+      12
     ],
     "description": "ext:form Finisher and Library to add OpenPGP support to TYPO3",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-9s+aco8CwaoM6dQ+6qLvA917NQkIRR6xLrWgmZJSie4="
   },
   "sudhaus7_viewhelpers": {
     "version": "1.0.40",
