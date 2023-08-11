@@ -3544,12 +3544,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "backend_roles": {
-    "version": "3.0.0",
+    "version": "3.0.2",
     "t3_versions": [
       12
     ],
     "description": "Backend user group role management for TYPO3",
-    "hash": "sha256-fGnAuPvnyc73ytUQOaCnyByl6H4+lmIPEPOoSg/OqVc="
+    "hash": "sha256-mV6t8iIV49TqufKtACdS9NOS3qydOt93TDcL09ao8MQ="
   },
   "backend_save_buttons": {
     "version": "1.0.1",
@@ -12584,13 +12584,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "db_rector": {
-    "version": "12.1.0",
+    "version": "12.2.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "This TYPO3 extension is an typo3-rector adapter with backend module to refactor sys_template.config data.",
-    "hash": "sha256-WYhfrIcf2FX/PQ5RK5PeK3FCNsxkv4M++LmaGsQHZEE="
+    "hash": "sha256-HK0S9yIOJg4Nag68DFWnKjuvqI3IUCnUfpUCj6jKzqk="
   },
   "dbal": {
     "version": "8.4.1",
@@ -27422,13 +27422,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "job_finder": {
-    "version": "3.0.1",
+    "version": "4.0.0",
     "t3_versions": [
-      10,
-      11
+      11,
+      12
     ],
     "description": "Job finder extension including job listing, details, application, microdata and more.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-8LKvN6JEXFmtKcTXwILwmuuN6QYMRf8h95TId9R+ZKc="
   },
   "job_market": {
     "version": "2.1.1",
@@ -34775,13 +34775,13 @@
     "hash": "sha256-QsqXRZxkvXzC0H/uAcXLLO2Ppw/h7HCRGVgFzUelPDI="
   },
   "modules": {
-    "version": "5.6.0",
+    "version": "6.0.0",
     "t3_versions": [
-      10,
-      11
+      11,
+      12
     ],
     "description": "Modules - Little helper for creating frontend and backend modules in TYPO3",
-    "hash": "sha256-09rbYzijdjcbfJ4iJrD2c2Q5ekT9vUG6iocaNdoYF3U="
+    "hash": "sha256-XqY+aeR3kD3865y+R80mOLtAm4fiPTG6AxDc2onzyiw="
   },
   "modulis_animated_gif": {
     "version": "0.0.4",
@@ -63237,14 +63237,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "wsm_form_spamshield": {
-    "version": "1.3.1",
+    "version": "1.3.2",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Adds a bot detection via JavaScript and a Validator to EXT:form, GDPR compliant without a captcha.",
-    "hash": "sha256-kcTN8tr3eOa4bgrHcFhX/JyLFkTD74jtff9GaK8OInw="
+    "hash": "sha256-rHRu16GXcY7nuOmZKuRGJMeRc7NHkVn589ylac58nOE="
   },
   "wspowermail": {
     "version": "1.1.1",
