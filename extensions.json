@@ -24011,6 +24011,14 @@
     "description": "",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "htmltables": {
+    "version": "0.9.0",
+    "t3_versions": [
+      12
+    ],
+    "description": "",
+    "hash": "sha256-oJ7z/xQCIh3Dw2aide+Ov7TUw7l/4BUoSWtoebiWZCM="
+  },
   "http2": {
     "version": "2.0.0",
     "t3_versions": [
@@ -36348,13 +36356,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "myflat": {
-    "version": "1.0.4",
+    "version": "1.1.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "Flat manager, shows bookings of holiday flats in calendars, availability check included.",
-    "hash": "sha256-TAwJUQp9BcPDVa8iR5tVyf3cs+tMrLMGHaRXEHeCbNw="
+    "hash": "sha256-MNxegodLG6+5/GNdyIrZe+wjASJQLBHiyrgOfmOoOxo="
   },
   "mygeshi": {
     "version": "1.0.0",
