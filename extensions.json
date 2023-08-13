@@ -20678,13 +20678,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "form_rate_limit": {
-    "version": "1.2.0",
+    "version": "1.3.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "TYPO3 form finisher for rate limiting when sending a form",
-    "hash": "sha256-22GmbxBP29PCJIYIrE+keHvwRfP5rB0sPUTBaSAjAI0="
+    "hash": "sha256-a/g3+gQ/fFgcGOxI9X7Gy2JlyZNClSsOgZGOzRo92RM="
   },
   "form_search": {
     "version": "1.1.0",
@@ -24012,12 +24012,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "htmltables": {
-    "version": "0.9.0",
+    "version": "0.9.3",
     "t3_versions": [
       12
     ],
-    "description": "",
-    "hash": "sha256-oJ7z/xQCIh3Dw2aide+Ov7TUw7l/4BUoSWtoebiWZCM="
+    "description": "This extension adds a new content type to create tables by IRRE/Inline",
+    "hash": "sha256-An4T0aEsRFjkI2bEbaiVp66xzqDn3Aas2iqfJt+P9qE="
   },
   "http2": {
     "version": "2.0.0",
@@ -55248,12 +55248,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "t3sbootstrap": {
-    "version": "5.3.0",
+    "version": "5.3.2",
     "t3_versions": [
       12
     ],
     "description": "Startup extension to use bootstrap 5 classes, components and more out of the box. Example and info: www.t3sbootstrap.de",
-    "hash": "sha256-BVsmpqEOWVPLoxxWThzTP4d/9BBqsx2GktfWLtkyQRQ="
+    "hash": "sha256-L2likgG62RTlGQxIVtSprBloGs8iphTQE95WDcRc5Ac="
   },
   "t3sbootstrap_grid": {
     "version": "3.0.0",
