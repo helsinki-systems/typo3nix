@@ -5097,13 +5097,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "bootstrap_package": {
-    "version": "14.0.6",
+    "version": "14.0.7",
     "t3_versions": [
       11,
       12
     ],
     "description": "Bootstrap Package delivers a full configured frontend theme for TYPO3, based on the Bootstrap CSS Framework.",
-    "hash": "sha256-n8I6IqUsRd6mrmQ3Otl8OVdWvtEqLTdOCBxiuficeNU="
+    "hash": "sha256-dzYVNfYpzPxQ+7WvFPo16g5T8jdM7Ptrmvu1JHm0kLI="
   },
   "bootstrap_package_iconpack": {
     "version": "0.1.1",
@@ -26551,13 +26551,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "janolawservice": {
-    "version": "3.0.2",
+    "version": "3.0.3",
     "t3_versions": [
       11,
       12
     ],
     "description": "Integriert janolaw Service",
-    "hash": "sha256-Jwr50qGORhZtwE3TZvQCIn3C2roizSkHIflAwYxGySo="
+    "hash": "sha256-nfqSNge0+286eVwDuJUwBRnc5LgM4XjUXcxhMMwc0mg="
   },
   "jansass_upload": {
     "version": "3.0.5",
@@ -31113,13 +31113,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "lux": {
-    "version": "32.2.3",
+    "version": "33.0.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Living User Experience - LUX - the Marketing Automation tool for TYPO3.",
-    "hash": "sha256-TaqkEXogmbCDzBeewKS4l0h4Q6QxlvmSmt1vdnCSad8="
+    "hash": "sha256-6T1axhW1JJK3w/HcId0Ei5lIokzyZ+J7ZyaNPrHKIF8="
   },
   "luxletter": {
     "version": "22.1.1",
@@ -42958,13 +42958,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "poll": {
-    "version": "3.0.3",
+    "version": "4.0.1",
     "t3_versions": [
-      10,
-      11
+      11,
+      12
     ],
     "description": "Create polls/surveys/Umfragen in TYPO3. Multiple question types and answer layouts. There is also a PRO version available which adds custom user answers and more. (Umfrage, Poll, Opinion, Vote, SimplePoll)",
-    "hash": "sha256-wCpuMGuzVCD584FdnmYRv4Tm+87OF+8LLq1tmoyancY="
+    "hash": "sha256-kJIYpBf56hdZUxeBd519DlFYu5k2/IiPf62+kjH4/+4="
   },
   "polyglot": {
     "version": "1.0.0",
@@ -49580,12 +49580,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "shop": {
-    "version": "3.2.5",
+    "version": "3.2.6",
     "t3_versions": [
       11
     ],
     "description": "Simple Shop for TYPO3 incl. PayPal, PayPal-Plus, Klarna, Stripe, Bookmarks, UPS-API, Invoice generation, backend module, compare feature, graduated prices and many more - note there is a Pro version as well!",
-    "hash": "sha256-yEym0K/+9G/vSaokN+uaDP6WZ+Ax/a+jFUC82LX+hhQ="
+    "hash": "sha256-cpr/JIRT3wSxdfpMKDWKDuN3W0I1EFFVuFt8vVKg64g="
   },
   "shop3ox": {
     "version": "0.0.3",
@@ -60137,13 +60137,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "twentythree": {
-    "version": "0.1.1",
+    "version": "0.1.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "Provides an online media provider for the TwentyThree Video Marketing Platform",
-    "hash": "sha256-abm/YcUV96fowZw0MJ7ZTGevfq8Syjk5wcnIvX9qiVw="
+    "hash": "sha256-VDa3NhuGBQgJfIUDKr5RsZtpE4DOPjEJmfsJ8dIGZ38="
   },
   "twig_for_typo3": {
     "version": "1.0.0",
