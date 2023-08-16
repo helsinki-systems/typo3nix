@@ -1020,13 +1020,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "additional_tca": {
-    "version": "1.14.3",
+    "version": "1.14.4",
     "t3_versions": [
       11,
       12
     ],
     "description": "Additional TCA fields and tools",
-    "hash": "sha256-Ss1E54KEnQ31TbjLAXFh+y8nPHTHXfki0+pHcqRWpRs="
+    "hash": "sha256-MIoJ3HJCJtkOeVORN7IB3KGcenmNYkA/+xJuXBhnvBQ="
   },
   "addlinkheader": {
     "version": "0.0.4",
@@ -23388,13 +23388,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "hh_accordion": {
-    "version": "0.5.0",
+    "version": "0.5.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "",
-    "hash": "sha256-7stZzkQZXgMn+iBMDuzDg9rw2XLo2k3vPu4EZfh0/rA="
+    "hash": "sha256-iloRN/K1MYnAfUFHljnawTOnYZFSrBS1l2bJMkzOa4Q="
   },
   "hh_add_statuscode": {
     "version": "0.1.22",
@@ -27429,13 +27429,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "job_finder": {
-    "version": "4.0.0",
+    "version": "4.0.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Job finder extension including job listing, details, application, microdata and more.",
-    "hash": "sha256-8LKvN6JEXFmtKcTXwILwmuuN6QYMRf8h95TId9R+ZKc="
+    "hash": "sha256-TjhnZK9PNccJBKDaZz5DAS5ZqGJOMXeP1p70Z1VJmb8="
   },
   "job_market": {
     "version": "2.1.1",
@@ -31121,13 +31121,13 @@
     "hash": "sha256-6T1axhW1JJK3w/HcId0Ei5lIokzyZ+J7ZyaNPrHKIF8="
   },
   "luxletter": {
-    "version": "22.1.1",
+    "version": "23.0.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Free newsletter extension for TYPO3 for an individual email marketing. A lot of analytics and modern concepts. Works with and without EXT:lux.",
-    "hash": "sha256-+ynPxb/OTGJZthaBSoncMgHEdt/JAue2dMVb7FtsDFA="
+    "hash": "sha256-WqeXvEB6GtoQKzAWm7MRuU99pyYrAXazterLfgI0/Nc="
   },
   "lvcleantemp": {
     "version": "1.0.4",
@@ -39026,13 +39026,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "oauth2_client": {
-    "version": "2.0.1",
+    "version": "2.1.1",
     "t3_versions": [
       10,
       11
     ],
     "description": "TYPO3 OAuth2 Login Client (backend and frontend)",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-3Qr9dpQ5dJf1Sr4y1JBIxIWQ0Nq8tGqns7ftIprGDCU="
   },
   "oauth2_server": {
     "version": "1.5.1",
@@ -40937,13 +40937,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "parsedown_extra": {
-    "version": "3.0.0",
+    "version": "3.0.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Provides a content element which displays markdown files. Parses email links with TYPO3 encryption. ViewHelper for parsing Markdown from individual sources. Defining abbreviations globally by using TypoScript. Code Highlighting.",
-    "hash": "sha256-sjAGlbaRZlPJ3XKgiJBivObf4N5ww64zJxTjvdUCLUQ="
+    "hash": "sha256-A4nqhINuuyA8+QyohfmavorKz0qkPOS9feLXRTvHgFQ="
   },
   "partner": {
     "version": "0.5.21",
@@ -41861,13 +41861,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "personio_jobs": {
-    "version": "0.5.2",
+    "version": "0.5.3",
     "t3_versions": [
       11,
       12
     ],
     "description": "Extension to integrate jobs from Personio Recruiting API",
-    "hash": "sha256-fJjJaYJ8Z484FpxH82+84cgZSd2UyR2ZnfaGsm6LiFo="
+    "hash": "sha256-t/A1XqP6bboig7hwTdE6bS57ChSpX/NbYFYeioEBOps="
   },
   "personnel": {
     "version": "3.8.2",
@@ -48789,13 +48789,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "server_timing": {
-    "version": "1.4.1",
+    "version": "1.5.0",
     "t3_versions": [
       11,
       12
     ],
-    "description": "",
-    "hash": "sha256-B9yTBoRsyAXlFG9RvNoj6dsQ6annRF1s+Xjb+CkYn+o="
+    "description": "Show timings of Database and HTTP Calls (send them to Sentry)",
+    "hash": "sha256-gL+Sw+K3y95pzJVszukxBK6VrFmpTRaQJWV4OZwhC4A="
   },
   "service_bw2": {
     "version": "6.0.3",
@@ -63822,13 +63822,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "xblog": {
-    "version": "11.1.4",
+    "version": "11.1.7",
     "t3_versions": [
       10,
       11
     ],
     "description": "Quickly assemble a TYPO3 frontend! Publish the data from the tables pages, tt_content and from any other database! No need to set up typoscript.",
-    "hash": "sha256-3paTNO0d00XFi+NIduUHxclxNhBoaFjOgP9ghFg/lCc="
+    "hash": "sha256-TsR6EkbIgdunWOI8CuPZSVQh597ZExagDv9Ufo7lDYc="
   },
   "xdbmysql": {
     "version": "3.0.18",
