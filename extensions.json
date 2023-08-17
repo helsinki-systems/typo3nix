@@ -18715,13 +18715,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "felogin_bruteforce_protection": {
-    "version": "10.0.0",
+    "version": "10.0.8",
     "t3_versions": [
       10,
       11
     ],
     "description": "Protects TYPO3 frontend authentication (e.g. fe_login) against brute force attacks.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-WyNmF4FWOnzTc+Z6mL1m/86NuwK4YZ9jR6x7YbNwM1I="
   },
   "felogin_redirect2current": {
     "version": "0.2.0",
@@ -19876,13 +19876,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fluid_page_cache": {
-    "version": "2.0.1",
+    "version": "3.0.0",
     "t3_versions": [
-      10,
-      11
+      12
     ],
     "description": "Creates automatically tags for TYPO3's page cache, based on used variables in rendered Fluid templates on current page.",
-    "hash": "sha256-YBdjH/7srLxkrb94MRONzXRwiBstK79/IIOsCn2JvGg="
+    "hash": "sha256-DiE5UgAFeEq3UHmNQg2lOvRlmIIEj29ELkb0ylk6/9M="
   },
   "fluid_recommendation": {
     "version": "1.3.0",
@@ -20091,15 +20090,14 @@
     "hash": "sha256-he4hDMN/tiAEANpUt8BteUsPUlpsO+LL5RTgO6t2Y2Q="
   },
   "flux": {
-    "version": "9.7.4",
+    "version": "10.0.0",
     "t3_versions": [
-      8,
-      9,
       10,
-      11
+      11,
+      12
     ],
     "description": "Drop-in page and content templates with nested content feature. Provides multiple condensed integration APIs to use advanced TYPO3 features with little effort.",
-    "hash": "sha256-8LCE23cr61vQl9xt7pnc2y3r10tVUnDYmwq5gLTQUFs="
+    "hash": "sha256-hwrze9NFKX82Z4CrGvJIopKnj0dSyK2HnoFjpwxgrqo="
   },
   "flux_elements": {
     "version": "1.4.1",
@@ -23292,13 +23290,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "hcaptcha": {
-    "version": "2.1.0",
+    "version": "2.1.3",
     "t3_versions": [
       10,
-      11
+      11,
+      12
     ],
     "description": "TYPO3 Extension to add hCaptcha to EXT:form - The privacy friendly captcha alternative.",
-    "hash": "sha256-NppfGuAirZSkcFYtVvr4WcKiDAky1Xz0YpK8r/Q5YS0="
+    "hash": "sha256-IUacac6TW4RMIqYnNB3ChJoyOhaabV/qzUc63qeDNQ8="
   },
   "hd_displayimage": {
     "version": "0.1.7",
@@ -24011,12 +24010,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "htmltables": {
-    "version": "0.9.3",
+    "version": "0.9.6",
     "t3_versions": [
+      11,
       12
     ],
-    "description": "This extension adds a new content type to create tables by IRRE/Inline",
-    "hash": "sha256-An4T0aEsRFjkI2bEbaiVp66xzqDn3Aas2iqfJt+P9qE="
+    "description": "Create sophisticated HTML tables easily using Inline Records (IRRE)",
+    "hash": "sha256-U01QmmsLWtlfrvI+RnB2d+bpwA5biLa/Arw/C09eGuc="
   },
   "http2": {
     "version": "2.0.0",
@@ -32101,12 +32101,12 @@
     "hash": "sha256-eQoHn25N35/Ie/9EEYyR++YApkIJpeoFuZA5bPr5Bfk="
   },
   "mask_kesearch_indexer": {
-    "version": "2.2.1",
+    "version": "3.0.2",
     "t3_versions": [
-      11
+      12
     ],
     "description": "Indexer for mask elements, both tt_content columns and tx_mask-tables.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-l8fxE8FQdA5I8LlsMyynHlNXEJMPIsErmzvvDGNvw/c="
   },
   "mask_permissions": {
     "version": "3.0.2",
@@ -33323,12 +33323,12 @@
     "hash": "sha256-cXqqFMVGgMITXpBgJq1/XOFQvMYXPJaW0CgPehgMMq0="
   },
   "mfa_yubikey": {
-    "version": "2.0.1",
+    "version": "2.0.2",
     "t3_versions": [
       12
     ],
     "description": "YubiKey OTP MFA provider for the TYPO3 backend login.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-Kz4L5pFtgW9htpG2H9WKjytTOLCdn+PuF3s5kunNLfE="
   },
   "mfc_author": {
     "version": "2.0.0",
@@ -34275,13 +34275,13 @@
     "hash": "sha256-LYLaird5xN9EiDiJ23crgAdszzu0OwI4Xf7bd380o0M="
   },
   "mksearch": {
-    "version": "11.0.8",
+    "version": "11.0.9",
     "t3_versions": [
       10,
       11
     ],
     "description": "Generic highly adjustable and extendable search engine framework, using Zend Lucene, Apache Solr or ElasticSearch. But support for other search engines can be provided easily.",
-    "hash": "sha256-VPNTo4lIU/9bvVAfwOriIllTM81WHE6CHBtNTO5pkTo="
+    "hash": "sha256-GfmD3xsbVARNHylTVqoMVL2buaWosIKnkZ6pND3RQow="
   },
   "mktools": {
     "version": "11.0.1",
@@ -38908,14 +38908,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "nws_municipal_statutes": {
-    "version": "0.4.3",
+    "version": "0.4.4",
     "t3_versions": [
       9,
       10,
       11
     ],
     "description": "Reads all available municipal statutes from the TSA FullRest interface.",
-    "hash": "sha256-zMAM5oszkp2kbiCitx/GgRwxQVkscr2x6MMFvV3K26A="
+    "hash": "sha256-Y+N0HbOinZCLgOI5DsD8Epl+vcFRIyO60bKNpI8j4dc="
   },
   "nwt_base": {
     "version": "0.1.0",
@@ -49007,12 +49007,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sf_yubikey": {
-    "version": "5.0.2",
+    "version": "5.0.3",
     "t3_versions": [
       12
     ],
     "description": "An authentication service for TYPO3 which extends the backend/frontend login by YubiKey OTP two-factor authentication.",
-    "hash": "sha256-AoG6dDk/6cN/UtwzQcVlfRFTQ0zASd5KcX6ZlWASjMk="
+    "hash": "sha256-SM0qfZyJEU3CHR7L0Bdnimjv6xix2b6e/s/DvYmV1wo="
   },
   "sfdbutf8": {
     "version": "2.1.0",
