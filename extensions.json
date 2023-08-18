@@ -1020,13 +1020,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "additional_tca": {
-    "version": "1.14.4",
+    "version": "1.14.5",
     "t3_versions": [
       11,
       12
     ],
     "description": "Additional TCA fields and tools",
-    "hash": "sha256-MIoJ3HJCJtkOeVORN7IB3KGcenmNYkA/+xJuXBhnvBQ="
+    "hash": "sha256-UPvh02h/N42kujOiCGbEvbuq8PA739+Nc4UQgqTc44o="
   },
   "addlinkheader": {
     "version": "0.0.4",
@@ -25094,6 +25094,16 @@
     "description": "Adds simple cropping options to CType \"textpic\" and \"image\"",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "image_jack": {
+    "version": "0.9.3",
+    "t3_versions": [
+      10,
+      11,
+      12
+    ],
+    "description": "Jack of all trades concerning image optimization. Also introduces the usage of next-gen-image-formats",
+    "hash": "sha256-/L6h/7GaNNgtkxMGJWPkIO7ykEH1yCm1hQW8M3YjRoQ="
+  },
   "image_slider": {
     "version": "1.0.2",
     "t3_versions": [
@@ -28765,13 +28775,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ke_search": {
-    "version": "5.0.2",
+    "version": "5.0.3",
     "t3_versions": [
       11,
       12
     ],
     "description": "Faceted fulltext search for TYPO3. Fast, flexible and easy to install and use. Indexes content directly from the databases. Features faceting / filtering, file indexing, images in result lists and respects access restrictions.",
-    "hash": "sha256-1Har7p1SsDamXRdhu9xxKF63GewmIjZ55WkQHS0P0qk="
+    "hash": "sha256-CWMfPDgQIOn3MqBPhWej6JQgJHDjwEjrVk/KlNQWtR4="
   },
   "ke_search_dam_tags": {
     "version": "0.0.1",
@@ -30631,13 +30641,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "locate": {
-    "version": "11.0.0",
+    "version": "12.0.0",
     "t3_versions": [
-      10,
-      11
+      12
     ],
     "description": "The users country, preferred language and other facts will be detected. Depending on configurable rules the user can be redirected to other languages or pages. Locate also provides geo blocking for configurable pages in configurable countries.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-pj27Xj8kbT6M5J5lLIZJNCFLwOoVhsvc15hC8ufv3bI="
   },
   "location_manager": {
     "version": "1.1.0",
@@ -34275,13 +34284,13 @@
     "hash": "sha256-LYLaird5xN9EiDiJ23crgAdszzu0OwI4Xf7bd380o0M="
   },
   "mksearch": {
-    "version": "11.0.9",
+    "version": "11.0.10",
     "t3_versions": [
       10,
       11
     ],
     "description": "Generic highly adjustable and extendable search engine framework, using Zend Lucene, Apache Solr or ElasticSearch. But support for other search engines can be provided easily.",
-    "hash": "sha256-GfmD3xsbVARNHylTVqoMVL2buaWosIKnkZ6pND3RQow="
+    "hash": "sha256-6DiCOSvrPBp+VAC7tls2Y5kOBSEE3h+5hXUppz+66aI="
   },
   "mktools": {
     "version": "11.0.1",
@@ -43083,12 +43092,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "powermail": {
-    "version": "10.7.0",
+    "version": "10.7.3",
     "t3_versions": [
       11
     ],
     "description": "Powermail is a well-known, editor-friendly, powerful",
-    "hash": "sha256-n8RleqTOXxWSa7qh4DrrTNClJptfMiZlIaJQmt63Q8s="
+    "hash": "sha256-yTOJlZNNg/ljfBz4qEPdn+YKZ3Cmtzmq5n/g8Or2R20="
   },
   "powermail2document": {
     "version": "1.6.1",
