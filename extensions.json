@@ -31120,13 +31120,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "lux": {
-    "version": "33.1.0",
+    "version": "33.2.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Living User Experience - LUX - the Marketing Automation tool for TYPO3.",
-    "hash": "sha256-+PUQMOv7NAnmT7VUBbR5T32O0p5LjTOfuQ95bt58J4s="
+    "hash": "sha256-m29kVX5EQv6qu9+XbDTtxhnWRD4m7DXUrpNjLzermM8="
   },
   "luxletter": {
     "version": "23.0.1",
@@ -35489,6 +35489,15 @@
     "description": "add a trigger that can be watched by browsersync",
     "hash": "sha256-FjSWSYwWDeKIzMmZmFVnHuXRd/7y8HGqzhNmRkTa0HA="
   },
+  "mst_yaml2tca": {
+    "version": "0.0.5",
+    "t3_versions": [
+      11,
+      12
+    ],
+    "description": "Load contentelements from yaml in register in new element wizard",
+    "hash": "sha256-hbV4WfdpNxpF9c15euiuGzB7OIgGtQXS217/wjwpau0="
+  },
   "msw_shoutbox": {
     "version": "1.0.0",
     "t3_versions": [],
@@ -36060,6 +36069,14 @@
     ],
     "description": "Optimizing TYPO3 for multisite operation",
     "hash": "sha256-KON3MkLTQO2l6ymxUOD5oeEKPuXQf4ZiKgihG56TgiY="
+  },
+  "multisite_belogin": {
+    "version": "12.0.0",
+    "t3_versions": [
+      12
+    ],
+    "description": "",
+    "hash": "sha256-OITd89iQWnPd/0ZtlIq60bPRg4WPvVnzOQv5zJAZILM="
   },
   "multivote": {
     "version": "0.0.4",
