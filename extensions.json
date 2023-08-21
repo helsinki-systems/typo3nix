@@ -12680,14 +12680,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "dce": {
-    "version": "2.9.5",
+    "version": "3.0.0",
     "t3_versions": [
-      9,
-      10,
-      11
+      12
     ],
     "description": "Best flexform based content elements since 2012. With TCA mapping feature, simple backend view and much more features which makes it super easy to create own content element types.",
-    "hash": "sha256-PZSI1AaxnpHkLNySj5CrALcDAmjTlOklV8f8TwYZBp4="
+    "hash": "sha256-qCXx1YOI1iNa0p+jlGKKj939sUyhSNx3tNEuzQZf3Og="
   },
   "dcformcreator": {
     "version": "0.0.3",
@@ -32090,13 +32088,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mask": {
-    "version": "8.3.0",
+    "version": "8.3.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Create your own content elements and page templates. Easy to use, even without programming skills because of the comfortable drag and drop system. Stored in structured database tables. Style your frontend with Fluid tags. Ideal, if you want to switch from Templavoila.",
-    "hash": "sha256-owf8jna9/Rk6EMv/lXrg7LQ3ljBivYiTiqluGBb5QlU="
+    "hash": "sha256-t1jD78A10PdoCA2dXmBxOK0UiPVr94EXitdkWrRuA3Q="
   },
   "mask_export": {
     "version": "4.0.2",
@@ -35490,13 +35488,13 @@
     "hash": "sha256-FjSWSYwWDeKIzMmZmFVnHuXRd/7y8HGqzhNmRkTa0HA="
   },
   "mst_yaml2tca": {
-    "version": "0.0.5",
+    "version": "0.0.7",
     "t3_versions": [
       11,
       12
     ],
     "description": "Load contentelements from yaml in register in new element wizard",
-    "hash": "sha256-hbV4WfdpNxpF9c15euiuGzB7OIgGtQXS217/wjwpau0="
+    "hash": "sha256-s8hfsok2FbD8rYlPGbR2tcgqZb36ZsYijRdtza1B8f4="
   },
   "msw_shoutbox": {
     "version": "1.0.0",
