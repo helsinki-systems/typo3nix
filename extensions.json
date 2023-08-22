@@ -31506,13 +31506,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mail": {
-    "version": "2.4.1",
+    "version": "2.5.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Powerful newsletter system for TYPO3",
-    "hash": "sha256-A5kb9ecI9i0SDGwY+BnzKY84dpFCMJcX3yo8S7luB2w="
+    "hash": "sha256-A5T5tv8v7Ai8WyDY1V1vSpA7iOOJgkpqLH+ujniyWFc="
   },
   "mail2news": {
     "version": "2.0.3",
@@ -36205,12 +36205,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mw_cache_widget": {
-    "version": "2.0.0",
+    "version": "3.0.0",
     "t3_versions": [
-      11
+      12
     ],
     "description": "Dashboard widget that displays the current memory usage of OpCodeCache or APCu",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-/pv7tDZVyFHrn8mJVwQCmcd78LYrJyl3BT4hFa+KL/U="
   },
   "mw_keywordlist": {
     "version": "3.5.4",
@@ -36244,12 +36244,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mw_matomo_widget": {
-    "version": "2.0.1",
+    "version": "3.0.0",
     "t3_versions": [
-      11
+      12
     ],
     "description": "Dashboard widget that displays the visitor data of your Matomo instance",
-    "hash": "sha256-hUUK3KJBv2knk+FHKZXnFbWYYM9lKCVfa+NvKJKUKn0="
+    "hash": "sha256-aS306zW0xF587NbfmZ2KrFRSUUFWev2VeyAs9j7KXIk="
   },
   "mw_shell": {
     "version": "1.0.6",
@@ -48812,13 +48812,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "server_timing": {
-    "version": "1.5.0",
+    "version": "1.6.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "Show timings of Database and HTTP Calls (send them to Sentry)",
-    "hash": "sha256-gL+Sw+K3y95pzJVszukxBK6VrFmpTRaQJWV4OZwhC4A="
+    "hash": "sha256-Tj6misfQiwpL1QhLLcRbH22GCIpjpt0+pQiPTdtwk4s="
   },
   "service_bw2": {
     "version": "6.0.3",
@@ -60385,12 +60385,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "typo3_sentry_client": {
-    "version": "1.5.1",
+    "version": "1.6.0",
     "t3_versions": [
       11
     ],
     "description": "Use Sentry to track errors in your TYPO3-installation",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-+af5NlTozjswE5jFLh2EVKyTSPMkC21YH1yT8FW3dIs="
   },
   "typo3_tut": {
     "version": "1.1.1",
@@ -60878,12 +60878,12 @@
     "hash": "sha256-+RRsXAUQwc2qhBeNAn59u2zAwNQDczrEwagmvYaN0oA="
   },
   "varnishcache": {
-    "version": "3.0.0",
+    "version": "4.0.0",
     "t3_versions": [
-      11
+      12
     ],
     "description": "This extension provides varnish functionality to TYPO3 instances. Use ESI-Tags and clear varnish cache from TYPO3.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-cF5AI17qiZhludGFIh03MzfymXnbmV0dQ8KjuimAeAE="
   },
   "vat_atctraining": {
     "version": "0.0.1",
@@ -62024,12 +62024,12 @@
     "hash": "sha256-Glzyi9SFxOIRY0I4riGTW+u3t75qnFamUtZCW7wq3fQ="
   },
   "web2pdf": {
-    "version": "3.0.1",
+    "version": "4.0.0",
     "t3_versions": [
-      11
+      12
     ],
     "description": "This Extension renders the pagecontent to a PDF file. It supports css and uses the library mPDF.",
-    "hash": "sha256-TXuqEJJxEcs7FBEQByg+Xga4t3/qqN8Bqmqwp3JMDcI="
+    "hash": "sha256-s+pS1cgi5jroY+tmu+UoOpwaGQkMA/EZ6t3rvOn4z98="
   },
   "web_list_filter": {
     "version": "1.0.0",
