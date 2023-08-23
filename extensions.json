@@ -15149,12 +15149,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "dp_cookieconsent": {
-    "version": "12.0.3",
+    "version": "12.0.4",
     "t3_versions": [
-      11
+      11,
+      12
     ],
     "description": "Enable a cookie consent box. Let you visitors control the usage of cookies and load script or content after a consent. (ePrivacy, TTDSG)",
-    "hash": "sha256-/Vlll6suOESsBeOoNzcPQEEoSwbwHt/wLgMBN6MtGnE="
+    "hash": "sha256-3C8QW67k3kF7tfWFDlR0bZ9C/OM7DXBsBHSFdXSmr74="
   },
   "dp_editpanel": {
     "version": "0.0.2",
@@ -20087,14 +20088,14 @@
     "hash": "sha256-he4hDMN/tiAEANpUt8BteUsPUlpsO+LL5RTgO6t2Y2Q="
   },
   "flux": {
-    "version": "10.0.0",
+    "version": "10.0.1",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Drop-in page and content templates with nested content feature. Provides multiple condensed integration APIs to use advanced TYPO3 features with little effort.",
-    "hash": "sha256-hwrze9NFKX82Z4CrGvJIopKnj0dSyK2HnoFjpwxgrqo="
+    "hash": "sha256-k7j1ZIKIDZqcI+qMsmuM5jEuhne/D57iqctE0djm+0w="
   },
   "flux_elements": {
     "version": "1.4.1",
@@ -25924,14 +25925,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "interest": {
-    "version": "1.2.2",
+    "version": "1.2.3",
     "t3_versions": [
       9,
       10,
       11
     ],
     "description": "REST and CLI API for adding, updating, and deleting records in TYPO3. Tracks relations so records can be inserted in any order. Uses remote ID mapping so you don't have to keep track of what UID a record has gotten after import. Data is inserted using backend APIs as if a real human did it, so you can can inspect the record history and undo actions.",
-    "hash": "sha256-ONiZ943LwiKcDNlVWnGaLRLVxWcBPELqgjYw3OT3YMs="
+    "hash": "sha256-m/tz8DtF7IL23ajqh6PJDZhrg95mCAlQ+14nY358UNg="
   },
   "internal_notes": {
     "version": "1.2.0",
@@ -40597,12 +40598,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "pagebased": {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "t3_versions": [
       11
     ],
     "description": "The ultimate tool to create page based extensions",
-    "hash": "sha256-FQOWP0nc1CtllreYfftyQkWvWmNPnAdOfFXHZuOI/as="
+    "hash": "sha256-/TCPhepWLldK7DpOZ4dhf4gF+C43HSEnOH5iM2Q1kNQ="
   },
   "pagebased_blog": {
     "version": "1.0.0",
@@ -43680,6 +43681,14 @@
     "t3_versions": [],
     "description": "this extension provides a simple frontend plugin to send / push messages from your website to an iPhone. You need an iPhone, a free prowl account and the iPhone app from the appstore.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "proxy": {
+    "version": "11.0.0",
+    "t3_versions": [
+      11
+    ],
+    "description": "Proxy extension for embedding external HTML sources",
+    "hash": "sha256-kQbi3oET4T0YBdxaBrd3vntRaNyPP1v1koDhDeY584E="
   },
   "proxycachemanager": {
     "version": "3.1.0",
@@ -63846,13 +63855,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "xblog": {
-    "version": "11.1.7",
+    "version": "11.1.8",
     "t3_versions": [
       10,
       11
     ],
     "description": "Quickly assemble a TYPO3 frontend! Publish the data from the tables pages, tt_content and from any other database! No need to set up typoscript.",
-    "hash": "sha256-TsR6EkbIgdunWOI8CuPZSVQh597ZExagDv9Ufo7lDYc="
+    "hash": "sha256-//y64WDyEfAgxRRJIGZ/VFvqc7ndqN5wtMdoS2TOka4="
   },
   "xdbmysql": {
     "version": "3.0.18",
