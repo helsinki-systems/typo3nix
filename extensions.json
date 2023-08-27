@@ -12680,12 +12680,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "dce": {
-    "version": "3.0.0",
+    "version": "3.0.1",
     "t3_versions": [
       12
     ],
     "description": "Best flexform based content elements since 2012. With TCA mapping feature, simple backend view and much more features which makes it super easy to create own content element types.",
-    "hash": "sha256-qCXx1YOI1iNa0p+jlGKKj939sUyhSNx3tNEuzQZf3Og="
+    "hash": "sha256-fH04o9zWVOVskY5IFzsVr5Syz37bV/QPRw8XhIYZDa8="
   },
   "dcformcreator": {
     "version": "0.0.3",
@@ -12713,6 +12713,14 @@
     "t3_versions": [],
     "description": "",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "dd_deepl": {
+    "version": "12.0.1",
+    "t3_versions": [
+      12
+    ],
+    "description": "Translates pages, content and records using DeeplL",
+    "hash": "sha256-W3J0jSB1VJKTkeLAp2hRqEEDdKHDYgYlHtop/2DTqo8="
   },
   "dd_download": {
     "version": "1.1.1",
@@ -20521,13 +20529,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "form_consent": {
-    "version": "0.7.1",
+    "version": "1.0.0",
     "t3_versions": [
-      10,
-      11
+      11,
+      12
     ],
     "description": "An extension for TYPO3 CMS that adds double opt-in functionality to EXT:form. It allows the dynamic adaptation of the entire double opt-in process using various events. In addition, the extension integrates seamlessly into TYPO3, for example to delete outdated consents in compliance with the GDPR.",
-    "hash": "sha256-Ubo9FZSWnwHXI/j2or+ezokzEw5vYE0M8suy0PJKfbo="
+    "hash": "sha256-TybQhxv7/e5ezWn6WeeQuxU6BYxwV95JB8ZYNhWWvnY="
   },
   "form_country_select": {
     "version": "3.0.0",
@@ -40124,12 +40132,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "operations": {
-    "version": "7.1.1",
+    "version": "8.0.0",
     "t3_versions": [
-      11
+      11,
+      12
     ],
-    "description": "TYPO3 extension to manage firefighter operations with detailed reports, images, used resources or vehicles, map view for locations. Use extension fire_department to build a complete website for fire departments.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "description": "TYPO3 extension to manage firefighter operations with detailed reports, images, used resources or vehicles, map view for locations.",
+    "hash": "sha256-VcNBGZ8f1DMcuQcRRPz2y9b19tvtH1E7H+/Dfccg3aE="
   },
   "opetraining": {
     "version": "0.0.1",
@@ -48944,12 +48953,12 @@
     "hash": "sha256-YkZKrMTUerUy8yJmBkOYHP9WIEzgaGqMZkNqGeA4VIY="
   },
   "sf_event_mgt": {
-    "version": "7.3.0",
+    "version": "7.3.1",
     "t3_versions": [
       12
     ],
     "description": "Configurable event management and registration extension based on ExtBase and Fluid",
-    "hash": "sha256-ZmObPBA+9elxQAbLJr0rivqAovklnGHpLK7QVxFR3yk="
+    "hash": "sha256-ARMwZkhD6QBYX1zthBBRkwTqtDWJNgds7Odr3I5cmyk="
   },
   "sf_event_mgt_contentelements": {
     "version": "2.0.1",
