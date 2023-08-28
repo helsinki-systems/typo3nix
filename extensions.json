@@ -10817,12 +10817,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cs_powermail_gdpr": {
-    "version": "3.1.4",
+    "version": "4.0.0",
     "t3_versions": [
-      11
+      12
     ],
     "description": "",
-    "hash": "sha256-LH354sZTj719ycnrrk88Bw/uqlq4rNpUpDieWn/mUa4="
+    "hash": "sha256-YUrIt3d2jxwWW7NYU+Vds8c9zGdOWu/QtiZYKMbcSZ0="
   },
   "cs_powermail_limit": {
     "version": "1.0.3",
@@ -19344,14 +19344,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fire_department": {
-    "version": "1.2.0",
+    "version": "1.3.0",
     "t3_versions": [
-      9,
-      10,
-      11
+      11,
+      12
     ],
     "description": "Complete TYPO3 site package (theme) to build a website for a fire department. With the extension \"operations\" you can show operations on the website. For latest news are templates for \"news\" extension prepared. The whole template is optimized for mobile devices too.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-8I7LZg842K3I8lAl2lDJ+mtgCO6KiwJ5Wr2jre86XhE="
   },
   "fire_devlog": {
     "version": "1.2.0",
@@ -20096,14 +20095,14 @@
     "hash": "sha256-he4hDMN/tiAEANpUt8BteUsPUlpsO+LL5RTgO6t2Y2Q="
   },
   "flux": {
-    "version": "10.0.2",
+    "version": "10.0.3",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Drop-in page and content templates with nested content feature. Provides multiple condensed integration APIs to use advanced TYPO3 features with little effort.",
-    "hash": "sha256-mw27fOCsnkphhngDsnZo40OVdjP8S5ZDVv8cQEOqzwI="
+    "hash": "sha256-ijF04r4O/idujjzYV07k0SPaMwfV8aGQTOAYVKjLtgE="
   },
   "flux_elements": {
     "version": "1.4.1",
@@ -21221,12 +21220,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "frontend_editing": {
-    "version": "3.3.3",
+    "version": "3.3.4",
     "t3_versions": [
       11
     ],
     "description": "Enable editors to work with the content in the most intuitive way possible",
-    "hash": "sha256-xbObFiia3Z7XXZeTvHchKDQ7smbQbQyt6BcCC/3KeqM="
+    "hash": "sha256-+t/DZnBSRqjZS7CQ/+1GTLqlcpZOfoM9FojLG2vFmF8="
   },
   "frontend_user": {
     "version": "1.1.1",
@@ -25074,13 +25073,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "image_autoresize": {
-    "version": "2.2.0",
+    "version": "2.2.1",
     "t3_versions": [
       10,
-      11
+      11,
+      12
     ],
     "description": "Simplify the way your editors may upload their images: no complex local procedure needed, let TYPO3 automatically resize down their huge images/pictures on-the-fly during upload (or using a scheduler task for batch processing) and according to your own business rules (directory/groups). This will highly reduce the footprint on your server and speed-up response time if lots of images are rendered (e.g., in a gallery). Features an EXIF/IPTC extractor to ensure metadata may be used by the FAL indexer even if not preserved upon resizing.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-l8jYWohnep3ORwbg/hNZrGotarJzeXZn+CkQDRj0DC8="
   },
   "image_copyright": {
     "version": "12.5.1",
@@ -60871,15 +60871,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "vardumper": {
-    "version": "5.4.24",
+    "version": "6.3.4",
     "t3_versions": [
-      8,
-      9,
-      10,
-      11
+      11,
+      12
     ],
     "description": "Symfony VarDumper",
-    "hash": "sha256-DbZV4DvnVlcdQrHDD20ngX7x6rE/1R3Ld03ftCIqpOU="
+    "hash": "sha256-DlDqiQCHCH4sRMFtuaX8p/Gy3y4iMsFerswnQiNifDQ="
   },
   "varfeform": {
     "version": "1.2.0",
