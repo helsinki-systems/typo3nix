@@ -2257,7 +2257,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ameos_tarteaucitron": {
-    "version": "2.2.0",
+    "version": "2.2.1",
     "t3_versions": [
       8,
       9,
@@ -2266,7 +2266,7 @@
       12
     ],
     "description": "Integrates tarteaucitron.js in TYPO3 (see : https://tarteaucitron.io )",
-    "hash": "sha256-tsHaIP6nMjIcok1N6UIIH8Q7TXk/P62jAinx0bCdA18="
+    "hash": "sha256-nZ8vd/ja20CSOsd5vew6t5WNLZnfHbWqrfm/sdMcw5s="
   },
   "ameos_typo3_vulnerabilities": {
     "version": "1.0.0",
@@ -6714,22 +6714,22 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "campus_events_connector": {
-    "version": "3.0.7",
+    "version": "4.0.0",
     "t3_versions": [
-      10,
-      11
+      11,
+      12
     ],
     "description": "Connecting the event software campus events with TYPO3, to import the event data into TYPO3 as data records. Get further information about Campus Events: www.campus-events.com",
-    "hash": "sha256-KLFLMLI3A1qboiE47iuxMwtQQXOMxA2hHkZgEjGIp/c="
+    "hash": "sha256-sgg+25X9opHgsHLpsWfupHvSvbEYE8b/LveqAiDs7b4="
   },
   "campus_events_convert2news": {
-    "version": "3.0.3",
+    "version": "4.0.0",
     "t3_versions": [
-      10,
-      11
+      11,
+      12
     ],
     "description": "",
-    "hash": "sha256-HMnMvUmqROatgY0b4KRvXAsF2ZqK0GCZK9fexVUQtw8="
+    "hash": "sha256-RmXA4ieMImaDDl+bfgO4exg3sHMTLvii+0PQlqSkt84="
   },
   "campus_events_convert2ttnews": {
     "version": "1.0.1",
@@ -6742,13 +6742,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "campus_events_frontend": {
-    "version": "3.0.3",
+    "version": "4.0.1",
     "t3_versions": [
-      10,
-      11
+      11,
+      12
     ],
     "description": "Frontend plugins for Campus Events",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-19ly2dsblYPdnuj13Km3S7xTlFrZ0sr/33QHQt7Czyo="
   },
   "canonical": {
     "version": "1.0.0",
@@ -19047,13 +19047,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fh_debug": {
-    "version": "0.15.2",
+    "version": "0.15.3",
     "t3_versions": [
+      10,
       11,
       12
     ],
     "description": "This generates a PHP debug output file. FileWriter into debug",
-    "hash": "sha256-ooI6oyeqhk8qxgHfb7gINT23ubEwNGIhpMxEs1hFVi8="
+    "hash": "sha256-85X1s/8dh0xfVV5qazW2eAlcxnyTzp4laKk4Yod7AYM="
   },
   "fh_library": {
     "version": "0.0.20",
@@ -31540,13 +31541,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mail_css_inliner": {
-    "version": "3.0.2",
+    "version": "3.1.0",
     "t3_versions": [
-      10,
-      11
+      11,
+      12
     ],
     "description": "Inlines CSS in all outgoing TYPO3 mails.",
-    "hash": "sha256-qEnuXsTZVgqV14+LIuC6Qf+Lame68AdiueEYqeWLM8c="
+    "hash": "sha256-5owmzl4HcgT8xylgmRr+/Qy441QHHMZaDVn2pDSekmU="
   },
   "mail_logger": {
     "version": "3.0.9",
@@ -44234,13 +44235,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "pxa_social_feed": {
-    "version": "3.7.0",
+    "version": "3.7.1",
     "t3_versions": [
       10,
       11
     ],
     "description": "Add Facebook, Instagram, and Twitter feeds to your site.",
-    "hash": "sha256-A9gUjvAKlS1ZGpcHGNWEMMvqGBPyWC+k9jjBnLOmb7s="
+    "hash": "sha256-9uPR/KYebDaM5zWSRq9Mrd3DeyAN3G99UiNT1LCgWlo="
   },
   "pxa_survey": {
     "version": "2.0.0",
@@ -55024,18 +55025,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "t3monitor": {
-    "version": "1.2.15",
+    "version": "2.0.0",
     "t3_versions": [
-      4,
-      6,
-      7,
-      8,
-      9,
       10,
-      11
+      11,
+      12
     ],
     "description": "Monitors TYPO3 installation for updates and security issues (Requires an account on www.t3monitor.de)",
-    "hash": "sha256-JorRGVXQ3LOopVc/R7nj7Ka5hkGiQynb6LlV2c4wJZE="
+    "hash": "sha256-GATy+djiDRLj+7/KiToY/ODvb+qUmTwerF+ZbjYYEWc="
   },
   "t3monitoragent": {
     "version": "0.1.0",
@@ -57387,13 +57384,12 @@
     "hash": "sha256-et5nYL55h8FRW0YP9sJWx7DG8fzevjlSp/ys9BgSd94="
   },
   "timelog": {
-    "version": "1.7.2",
+    "version": "2.0.0",
     "t3_versions": [
-      10,
-      11
+      12
     ],
     "description": "Increases the efficiency and transparency of work by continuously collecting work information and communicate it to customers.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-S8u1m0TDtFiTMavCrCo9DhLlpeJOhkG5uQc1R45OeXk="
   },
   "timer": {
     "version": "12.0.0",
@@ -61286,12 +61282,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "videos": {
-    "version": "12.0.5",
+    "version": "12.0.6",
     "t3_versions": [
       12
     ],
     "description": "Extends video file properties and provides a player for playlists, cue points and subtitles",
-    "hash": "sha256-q4bYAfTkYHw8qU+JRAuzqPH2a61HD3aO41Dn0+YU85k="
+    "hash": "sha256-JzPAeYmYHYq9Hh/ll1BWQbaHM+pSX8nwCoctEvAYjYk="
   },
   "videoswitcher": {
     "version": "0.0.4",
