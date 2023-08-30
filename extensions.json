@@ -17107,13 +17107,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "eventnews": {
-    "version": "5.0.2",
+    "version": "6.0.1",
     "t3_versions": [
-      10,
-      11
+      11,
+      12
     ],
     "description": "Events for news",
-    "hash": "sha256-MYJDw+fm9D0dU9yYes8M5YmEJigIFznzzGMA9N3pduQ="
+    "hash": "sha256-+q9InES96Amh+kyjtX+UvQXpYMq6R1/5/aqg8NWU5Cg="
   },
   "eventoni_banner": {
     "version": "1.0.0",
@@ -21186,6 +21186,15 @@
     "description": "Simple backend module for uploading an image.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "friendlycaptcha_official": {
+    "version": "0.0.1",
+    "t3_versions": [
+      11,
+      12
+    ],
+    "description": "FriendlyCaptcha Integration for EXT:powermail and EXT:form and your custom implementation",
+    "hash": "sha256-376h8RjLmsDs2WZtrR45I1Jji4c9urWxVMEVrf0op0s="
+  },
   "frm2_newpm": {
     "version": "2.0.3",
     "t3_versions": [
@@ -25202,13 +25211,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "imageoptimizer": {
-    "version": "3.1.1",
+    "version": "4.0.0",
     "t3_versions": [
-      10,
-      11
+      12
     ],
     "description": "Optimize uploaded/processed images with binaries of your choice",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-q/e60sNBY5vv/j8mjjHA1wZhCysON+mFSRF1sh88opQ="
   },
   "imagerotation": {
     "version": "0.1.1",
@@ -37290,13 +37298,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "news": {
-    "version": "11.1.2",
+    "version": "11.2.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Versatile news system based on Extbase & Fluid and using the latest technologies provided by TYPO3 CMS.",
-    "hash": "sha256-v41rY4cek18q7w1lZKKVFqSQDbwHWRdW7UqZHONumiA="
+    "hash": "sha256-Ef28yieW9ZgyrEfncXVdbGeJNAVVHTm6v+EOjmgYUEY="
   },
   "news2facebook": {
     "version": "1.1.0",
@@ -54297,6 +54305,15 @@
     ],
     "description": "Enables BE-Rating for news and FE-Output",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "sysinfo": {
+    "version": "1.0.7",
+    "t3_versions": [
+      10,
+      11
+    ],
+    "description": "Provides a backend module for showing which templates included where. This supports Typo3 migration.",
+    "hash": "sha256-twAwXCqRdLXGCnS07ShRVgIRarq3EvhOwjVRDY5fDzE="
   },
   "syslanguage_flags": {
     "version": "1.1.0",
