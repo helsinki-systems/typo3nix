@@ -993,13 +993,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "additional_reports": {
-    "version": "3.4.5",
+    "version": "3.4.6",
     "t3_versions": [
       11,
       12
     ],
     "description": "Useful information in the reports module: xclass, ajax, cliKeys, eID, general status of the system (encoding, DB, php vars...), hooks, compare local and TER extension (diff), used content type, used plugins, ExtDirect... It can really help you during migration or new existing project (to have global reports of the system).",
-    "hash": "sha256-4vbffBbneTcMc+Oy35TYKJSqiat/irmM5aCDE0GHJHE="
+    "hash": "sha256-HHx4iW/beLnrY+eo+Dszf4qBOqWM9kgeR8nwhQWQ4zs="
   },
   "additional_scheduler": {
     "version": "1.6.0",
@@ -12680,12 +12680,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "dce": {
-    "version": "3.0.1",
+    "version": "3.0.2",
     "t3_versions": [
       12
     ],
     "description": "Best flexform based content elements since 2012. With TCA mapping feature, simple backend view and much more features which makes it super easy to create own content element types.",
-    "hash": "sha256-fH04o9zWVOVskY5IFzsVr5Syz37bV/QPRw8XhIYZDa8="
+    "hash": "sha256-eLOjQ4LUl1zUpnYDbrvkzQrXLdyCVmak5ILBOhzCNbg="
   },
   "dcformcreator": {
     "version": "0.0.3",
@@ -23556,13 +23556,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "hide_used_content": {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "t3_versions": [
       9,
-      10
+      10,
+      11
     ],
     "description": "Removes used content elements with own colPos configuration from \"Unused\" column",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-P0Sn1rp+fDlR5/nst6V4QMvbjpFbfZ7W5SWEDTcUBNk="
   },
   "hidelisticons": {
     "version": "1.0.1",
@@ -27602,6 +27603,14 @@
     ],
     "description": "Search DB tables using a query wizard",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "jokettas_template": {
+    "version": "1.0.0",
+    "t3_versions": [
+      12
+    ],
+    "description": "A Fucking Template!",
+    "hash": "sha256-tF/I3+uHoMx9LORQU97OyhZXbp8dlMejMX2amkfWcPo="
   },
   "joliprint": {
     "version": "2.0.3",
@@ -32106,13 +32115,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mask": {
-    "version": "8.3.1",
+    "version": "8.3.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "Create your own content elements and page templates. Easy to use, even without programming skills because of the comfortable drag and drop system. Stored in structured database tables. Style your frontend with Fluid tags. Ideal, if you want to switch from Templavoila.",
-    "hash": "sha256-t1jD78A10PdoCA2dXmBxOK0UiPVr94EXitdkWrRuA3Q="
+    "hash": "sha256-ypNn4gm1DhGjIuLjKpmXdnHBgM+hY+MbP9Q76EaEpQ4="
   },
   "mask_export": {
     "version": "4.0.2",
@@ -34153,13 +34162,13 @@
     "hash": "sha256-phaMSdSTR3RiCwNg77ryf7f7sIbSlUEab2bbQIQe7yo="
   },
   "mkcontentai": {
-    "version": "12.0.1",
+    "version": "12.0.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "MK Content AI Extension - OpenAI API",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-ShE7eN0FGlIyjCePaN5ubv6eFQDhswV5Ml7llNpRjL4="
   },
   "mkdam2fal": {
     "version": "1.0.16",
@@ -36411,13 +36420,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "myleaflet": {
-    "version": "1.8.5",
+    "version": "1.8.6",
     "t3_versions": [
       11,
       12
     ],
     "description": "Leaflet / OpenStreetMap for tt_address data with radial search and categories. No registration and no API-keys necessary.",
-    "hash": "sha256-XCQWBlqtUbsy6b9jVwOzfWRL2AFXQqkvECre3ODGRaQ="
+    "hash": "sha256-AgYvjjZ1o6Fd2YlrLvAMPA0NoONRD2O9uyGzkmGLy4o="
   },
   "mymap": {
     "version": "1.7.0",
@@ -36518,13 +36527,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "myttaddressmap": {
-    "version": "2.1.9",
+    "version": "2.2.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Google maps for tt_address with radial search and categories",
-    "hash": "sha256-tX9e8TnX76ZrfIZxyP20cCr6dcnIEiYgRr8LKvcqy6M="
+    "hash": "sha256-aGI+wu1KajXsvB/ehT/ide1ovlC//dTgomYWThUUr7U="
   },
   "mytypo3": {
     "version": "0.1.1",
@@ -40675,6 +40684,22 @@
     "t3_versions": [],
     "description": "Cycles through a set of pages ",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "pagedoctor": {
+    "version": "0.5.0",
+    "t3_versions": [
+      12
+    ],
+    "description": "Rapidly build and deploy content elements for TYPO3 CMS without one line of code.",
+    "hash": "sha256-jmCVqQlf+4H3d9yRRoG+j3tP6bPSmV40riKsrNXgXrk="
+  },
+  "pagedoctor_starter": {
+    "version": "0.5.3",
+    "t3_versions": [
+      12
+    ],
+    "description": "Starter extension to get started with Pagedoctor in no time.",
+    "hash": "sha256-1r5dC8djl8deGoatL99OY4oZBl1VqQsb3eUY0DtnZ7A="
   },
   "pageflexform": {
     "version": "0.0.2",
@@ -45152,13 +45177,13 @@
     "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
   },
   "recordsmanager": {
-    "version": "1.6.7",
+    "version": "1.6.8",
     "t3_versions": [
-      10,
-      11
+      11,
+      12
     ],
     "description": "Add modules to easily manage your records (insert, edit & export in be/eId) in one place.",
-    "hash": "sha256-4DWlUjaTdFq20JD/k4Wu4bnY8AWOLCR6TRgzFpUFUfw="
+    "hash": "sha256-gLWyxttyCEdxm4xff413247d43AcHx6n3vxl5XWKTpg="
   },
   "recurr": {
     "version": "1.0.0",
@@ -48592,6 +48617,14 @@
     "description": "\"Secure Download\": Apply TYPO3 access rights to ALL file assets (PDFs, TGZs or JPGs etc. - configurable) - protect them from direct access.",
     "hash": "sha256-AUA38o5aw8LVsdEVms+nHwfrDrnrK0NT/ooIxbXPRKc="
   },
+  "secure_filemount": {
+    "version": "1.0.0",
+    "t3_versions": [
+      11
+    ],
+    "description": "Allows a secure (non public) filemount for accessing only through logged in fe_user",
+    "hash": "sha256-FQHi8FVxSaDwaipOyjHbI9x/hManpxzwO1KJQKDd5II="
+  },
   "secure_login": {
     "version": "1.0.0",
     "t3_versions": [
@@ -52001,13 +52034,13 @@
     "hash": "sha256-HyYWOyMBsFpvjzkRuJrGdkn47F4rk6r7N95ZUlr8UwM="
   },
   "solradmin": {
-    "version": "2.0.0",
+    "version": "2.0.1",
     "t3_versions": [
-      10,
-      11
+      11,
+      12
     ],
     "description": "With this module you can directly access your solr module, search records with an interface, delete some specifics records and do other operations (with multi core support)",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-A2xAmZbrb/thKObbvXEbajv8tlvNy+/6gY26KbcdiQ4="
   },
   "solrfluidgrouping": {
     "version": "11.0.0",
@@ -54028,13 +54061,12 @@
     "hash": "sha256-brJuvt7gs8BOaPZS6Y8U+W1CzKexnAdh1c5bsG3yV0M="
   },
   "svconnector_xls": {
-    "version": "2.0.3",
+    "version": "3.0.1",
     "t3_versions": [
-      10,
       11
     ],
     "description": "Connector service for reading a XLS(X) file",
-    "hash": "sha256-Cir9HPFxii0WUupib8X5bIGVQlUJM6Q4r/51nmY7P2Y="
+    "hash": "sha256-+Bvx4aL2uMTnOA3Unh/v7BIqKIJNOYC/YpG1O+04Jew="
   },
   "svg_embed": {
     "version": "0.10.0",
