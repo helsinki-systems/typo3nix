@@ -1044,14 +1044,14 @@
     "hash": "sha256-ws4p9ZwubKUSwVdHXfQjHAEbBFiGpGahQod75poXZgg="
   },
   "addons_tt_products": {
-    "version": "0.10.0",
+    "version": "0.11.0",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Many translations of standard texts for shops. Additional example templates and icons for the tt_products shop system version 2.14 and later.",
-    "hash": "sha256-Np6u1RrJQMOOdJA4PmasUzFnIaMUYLNZMkmwNkWifi4="
+    "hash": "sha256-eUO48cagld1zXQFOEH8ZWMI61vZjcYW50xbvYLJSrws="
   },
   "address": {
     "version": "0.1.0",
@@ -2257,7 +2257,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ameos_tarteaucitron": {
-    "version": "2.2.1",
+    "version": "2.2.2",
     "t3_versions": [
       8,
       9,
@@ -2266,7 +2266,7 @@
       12
     ],
     "description": "Integrates tarteaucitron.js in TYPO3 (see : https://tarteaucitron.io )",
-    "hash": "sha256-nZ8vd/ja20CSOsd5vew6t5WNLZnfHbWqrfm/sdMcw5s="
+    "hash": "sha256-kJvw0Z17T43qVnchDxuaf5w3jtezYCAP5j7MBgQ6qQ4="
   },
   "ameos_typo3_vulnerabilities": {
     "version": "1.0.0",
@@ -8666,12 +8666,12 @@
     "hash": "sha256-1hFuqLB1dXRWm1a878NTOR2tD/VR4UnDSP+S4emghR4="
   },
   "clubmanager": {
-    "version": "1.0.6",
+    "version": "1.0.8",
     "t3_versions": [
       11
     ],
     "description": "The TYPO3 module for managing clubs, foundations and associations. With Clubmanager, you get the tool to manage the organization AND public relations of your club or association in a cost-saving and effective way.",
-    "hash": "sha256-mNKLKspwhZWGKrUKo3CNEVAkQ7bQKpW0NGoz293UJX0="
+    "hash": "sha256-E/uC8Tyn7PtI9TzDl3BcEqDX+thOSCikNFVqY35r7Ik="
   },
   "cm_ajax": {
     "version": "0.6.0",
@@ -38628,12 +38628,12 @@
     "hash": "sha256-zCSykQbswLgBXSb3fQ3Cag60S5XZBHnFOZLjWQ0DqTE="
   },
   "ns_google_map": {
-    "version": "12.0.0",
+    "version": "12.0.1",
     "t3_versions": [
       12
     ],
     "description": "This extension can easily integrate of powerful features of Google map like find-places, find-direction between locations etc. Live-Demo: https://demo.t3planet.com//t3t-extensions/google-map You can download PRO version for more-features & free-support at https://t3planet.com/typo3-google-map-typo3-extension-pro",
-    "hash": "sha256-250y/itqcPB6c0ETkRynCQ8KviPXGDYxWfikd0Ci3Xk="
+    "hash": "sha256-np71T965w+9qljPHDPuHZVrMVR1OJm6qQwCMwuqrkX4="
   },
   "ns_googledocs": {
     "version": "2.0.0",
@@ -48750,13 +48750,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "seminars": {
-    "version": "5.3.1",
+    "version": "5.4.0",
     "t3_versions": [
       10,
       11
     ],
     "description": "Allows you to create and manage a list of seminars, workshops, lectures, theater performances and other events, allowing front-end users to sign up. FE users also can create and edit events.",
-    "hash": "sha256-+UyKnZpjEKbKHS3mAYgDUCOjjnfN8wvdd0khhGuXg3M="
+    "hash": "sha256-ffvzO5UVZFzjUHo12kVqL1GsWpPbmFOL0kn6R2xhbEI="
   },
   "seminarscalredirect": {
     "version": "1.0.0",
