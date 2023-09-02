@@ -23548,12 +23548,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "hide_sys_template": {
-    "version": "3.0.5",
+    "version": "4.0.0",
     "t3_versions": [
-      11
+      12
     ],
     "description": "Make sys_template records vanish everywhere (Prevents TYPO3 admins from using sys_template database records)",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-EcVp8AP07Im1x8fC2hS8iN+za3fR4Ij6Yiv3Zl238wM="
   },
   "hide_used_content": {
     "version": "1.1.0",
@@ -33854,13 +33854,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "min": {
-    "version": "2.1.2",
+    "version": "3.0.0",
     "t3_versions": [
-      10,
-      11
+      12
     ],
     "description": "Extends TYPO3's compressor for JS and CSS with minifier. This may save you up to 70% of default compressed file size. Also compresses HTML output of TYPO3. Full composer support.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-+/WMoox1obovT8OidhYEYdMDtD0Ux2/NI1gjTtwI1XI="
   },
   "mindmap_import": {
     "version": "0.0.2",
@@ -48750,13 +48749,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "seminars": {
-    "version": "5.4.0",
+    "version": "5.4.1",
     "t3_versions": [
       10,
       11
     ],
     "description": "Allows you to create and manage a list of seminars, workshops, lectures, theater performances and other events, allowing front-end users to sign up. FE users also can create and edit events.",
-    "hash": "sha256-ffvzO5UVZFzjUHo12kVqL1GsWpPbmFOL0kn6R2xhbEI="
+    "hash": "sha256-/5qTGC7ehFLGq5SkNHAHJIDHSKJTwnHzCpbTxgy4Hyw="
   },
   "seminarscalredirect": {
     "version": "1.0.0",
