@@ -3064,12 +3064,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "authtoken": {
-    "version": "2.0.0",
+    "version": "2.1.2",
     "t3_versions": [
       12
     ],
     "description": "Once installed you can create authentication tokens for frontend users in the backend. You can then retrieve protected pages by submitting this token as an \"X-User-Token\" with the header.",
-    "hash": "sha256-o1E9PmGCcOCD+MAEExxhftWkHurbI37QSmVzXfS2MAc="
+    "hash": "sha256-rVETlXonuiZD7EekjQit6wojyNVSKqMBxnfn7grZM2M="
   },
   "auto404": {
     "version": "1.1.2",
@@ -22673,13 +22673,13 @@
     "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
   },
   "gpsnose": {
-    "version": "2.2.4",
+    "version": "3.0.0",
     "t3_versions": [
-      10,
-      11
+      11,
+      12
     ],
     "description": "Extension to integrate GpsNose into TYPO3 - GpsNose connects anonymous people to the real world using the web and mobiles",
-    "hash": "sha256-IvWWSSGtC3CBBTYt1pzgROsf8HVz/eA960suo/eatq8="
+    "hash": "sha256-tdhc8RrMtCO/kFf3iZ6XLYQ6HXnPANPqDHb00wccz3Y="
   },
   "gra_multislide": {
     "version": "1.0.5",
@@ -41081,12 +41081,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "paste_reference": {
-    "version": "2.0.4",
+    "version": "2.0.5",
     "t3_versions": [
       11
     ],
     "description": "Paste reference instead of copy for content elements",
-    "hash": "sha256-tsvdodXWtcq0CxSbkoAB0LFchD0SFxfmf6PrwJUov48="
+    "hash": "sha256-0CqwsWemiqCWE/6qWFEr0B6oPVRDdIkQK6WUOisACw8="
   },
   "patch10011": {
     "version": "0.5.0",
@@ -44009,12 +44009,12 @@
     "hash": "sha256-9LWFkl8ndKM6xfqmX29kx08kV9Yut4cyf2RbAptzq+8="
   },
   "publish": {
-    "version": "0.0.10",
+    "version": "0.1.1",
     "t3_versions": [
       10
     ],
     "description": "Frontend editing by frontend users.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-9WnGr7qwiyx9rwv+5RPFS/iB2y6vvdIHmWMuS2xtGg8="
   },
   "publish_content": {
     "version": "0.0.2",
@@ -63906,13 +63906,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "xblog": {
-    "version": "11.1.8",
+    "version": "11.1.10",
     "t3_versions": [
       10,
       11
     ],
     "description": "Quickly assemble a TYPO3 frontend! Publish the data from the tables pages, tt_content and from any other database! No need to set up typoscript.",
-    "hash": "sha256-//y64WDyEfAgxRRJIGZ/VFvqc7ndqN5wtMdoS2TOka4="
+    "hash": "sha256-sK/WHtbn5e0/nMjcE3/gQiFG8aIqqV0P0qzlXC5e6iA="
   },
   "xdbmysql": {
     "version": "3.0.18",
