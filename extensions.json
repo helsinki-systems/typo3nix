@@ -1020,13 +1020,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "additional_tca": {
-    "version": "1.14.5",
+    "version": "1.14.8",
     "t3_versions": [
       11,
       12
     ],
     "description": "Additional TCA fields and tools",
-    "hash": "sha256-UPvh02h/N42kujOiCGbEvbuq8PA739+Nc4UQgqTc44o="
+    "hash": "sha256-Ah/dT5ibcWYbneecXP1U/CB07yyH7VrJv5VRvNSxWn8="
   },
   "addlinkheader": {
     "version": "0.0.4",
@@ -19860,13 +19860,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fluid_fpdf": {
-    "version": "2.3.6",
+    "version": "2.4.0",
     "t3_versions": [
-      10,
-      11
+      11,
+      12
     ],
     "description": "This extension provides you a complete set of ViewHelpers for dealing with FPDF by using Fluid. You can use the ViewHelpers easily in own Extensions just by defining the fpdf-Namespace. Additionally you are able to use the build in plugin, for displaying predefined PDF. This plugin offers you automatically all available PDFs.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-crUUMtW8hrEw7CEcbNm2rpgFag4jTnGPTrTFapbBq0I="
   },
   "fluid_info": {
     "version": "0.1.0",
@@ -27455,13 +27455,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "job_finder": {
-    "version": "4.0.1",
+    "version": "4.0.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "Job finder extension including job listing, details, application, microdata and more.",
-    "hash": "sha256-TjhnZK9PNccJBKDaZz5DAS5ZqGJOMXeP1p70Z1VJmb8="
+    "hash": "sha256-YIKTUfAE28b9djJ+txSM+9R+TDCLF3qfDEsmsZzU2gg="
   },
   "job_market": {
     "version": "2.1.1",
@@ -34814,13 +34814,13 @@
     "hash": "sha256-QsqXRZxkvXzC0H/uAcXLLO2Ppw/h7HCRGVgFzUelPDI="
   },
   "modules": {
-    "version": "6.0.0",
+    "version": "6.0.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Modules - Little helper for creating frontend and backend modules in TYPO3",
-    "hash": "sha256-XqY+aeR3kD3865y+R80mOLtAm4fiPTG6AxDc2onzyiw="
+    "hash": "sha256-mZSrgkGQBd4mQ2huesTxiheE2k9GrLKS4IUgrvkz1QY="
   },
   "modulis_animated_gif": {
     "version": "0.0.4",
@@ -36428,13 +36428,13 @@
     "hash": "sha256-AgYvjjZ1o6Fd2YlrLvAMPA0NoONRD2O9uyGzkmGLy4o="
   },
   "mymap": {
-    "version": "1.7.0",
+    "version": "1.7.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Google maps with radial search and hierarchic categories (category tree). Show the results in responsive Google maps, traffic- and bicycling layer included and can be activated via constant editor.",
-    "hash": "sha256-oJ4rH70KimWVbMOVeR5Te6yYMe/HKYA4NOGV2GFV9dc="
+    "hash": "sha256-Wy2forz+8RyVCnqULdt006SqpHM1Xj6q/tH70AwT27c="
   },
   "mypuzz_ftp": {
     "version": "1.1.1",
@@ -36526,13 +36526,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "myttaddressmap": {
-    "version": "2.2.0",
+    "version": "2.2.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Google maps for tt_address with radial search and categories",
-    "hash": "sha256-aGI+wu1KajXsvB/ehT/ide1ovlC//dTgomYWThUUr7U="
+    "hash": "sha256-m7maNykhitxqf+AXSL5CVhFa/oyVpjMSSNLoLqtjT1c="
   },
   "mytypo3": {
     "version": "0.1.1",
@@ -37778,31 +37778,31 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "newt": {
-    "version": "2.2.2",
+    "version": "3.0.0",
     "t3_versions": [
-      10,
-      11
+      11,
+      12
     ],
     "description": "Backend-Extension to manage the Newt-Access",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-PCGZN6hNtYsok8KgU2GtB6f++ci1XoFxhUViGMiQdwE="
   },
   "newt4dce": {
-    "version": "1.2.3",
+    "version": "2.0.0",
     "t3_versions": [
-      10,
-      11
+      11,
+      12
     ],
     "description": "Extension with the Newt-Provider for Dce",
-    "hash": "sha256-uZ6OwU8vuQzSsI8+thveDO+BBr1DBG8uUYN0O7rqj2k="
+    "hash": "sha256-EAlv6z/4Ak6AF9eMnu8p9vluocDnlsjfJt4cSCi6wa0="
   },
   "newt4news": {
-    "version": "2.2.3",
+    "version": "3.0.0",
     "t3_versions": [
-      10,
-      11
+      11,
+      12
     ],
     "description": "Extension with the Newt-Provider for News",
-    "hash": "sha256-Z6006VVMHo0Ykad57iwYdaO3mkE69kyKFmLLlBQoE9Y="
+    "hash": "sha256-ItiSgXtuo8MjNFaln2KbLQDSp2a4+h6853S4cBA1jUU="
   },
   "nextprevious": {
     "version": "1.0.0",
@@ -44585,13 +44585,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "questions": {
-    "version": "4.0.0",
+    "version": "4.0.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Questions is a frequently asked questions (FAQ) extension for TYPO3. It's compatible with following extensions: shop, ",
-    "hash": "sha256-KvJ/71mK1NVQ/v7jyy1GIR5Vva3AYttd+iZ8n6afQ3w="
+    "hash": "sha256-2E3zHGw8aToLCHmNrfAfdlZuWoWrN3ahB9JFb8xjyoU="
   },
   "quick_shop": {
     "version": "10.0.12",
@@ -48617,12 +48617,12 @@
     "hash": "sha256-AUA38o5aw8LVsdEVms+nHwfrDrnrK0NT/ooIxbXPRKc="
   },
   "secure_filemount": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "t3_versions": [
       11
     ],
     "description": "Allows a secure (non public) filemount for accessing only through logged in fe_user",
-    "hash": "sha256-FQHi8FVxSaDwaipOyjHbI9x/hManpxzwO1KJQKDd5II="
+    "hash": "sha256-EOHaxwwBZ+jEEDuiElBK5/Vxnlzh0plzkGA+BcIyQa0="
   },
   "secure_login": {
     "version": "1.0.0",
@@ -54353,13 +54353,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "syssy": {
-    "version": "2.0.5",
+    "version": "3.0.0",
     "t3_versions": [
-      10,
-      11
+      11,
+      12
     ],
     "description": "Connects TYPO3 with SYSSY",
-    "hash": "sha256-jbqODYpgdqi0B4yzksYUBPhdCScS0AZFiuwGqA/A85s="
+    "hash": "sha256-nnMHQu8ABOfG+wK0PwDDVnFmLMZEg5tQgOu8ACKskaA="
   },
   "system_control": {
     "version": "0.0.8",
@@ -54563,13 +54563,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "t3adminer": {
-    "version": "12.0.0",
+    "version": "12.0.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Database administration tool 'Adminer'",
-    "hash": "sha256-K8HDQK3xyL4w/N9uRvQ7f1zOvqLZvNr59op+febSV6w="
+    "hash": "sha256-v0jr7+ZjBssqYVB6ri+6xlT1x1BQMZYDmC09tV/Mz+c="
   },
   "t3am": {
     "version": "4.0.2",
