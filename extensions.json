@@ -31154,13 +31154,13 @@
     "hash": "sha256-m29kVX5EQv6qu9+XbDTtxhnWRD4m7DXUrpNjLzermM8="
   },
   "luxletter": {
-    "version": "23.0.1",
+    "version": "24.0.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Free newsletter extension for TYPO3 for an individual email marketing. A lot of analytics and modern concepts. Works with and without EXT:lux.",
-    "hash": "sha256-b++EP+vwcof5Os6WYPCFnLQVLCoc4/Lv5+V5yJF2LdI="
+    "hash": "sha256-FcaFhvQOQsUB5uPe3KnERY09pkySOQ3uWzhRD3wnvOM="
   },
   "lvcleantemp": {
     "version": "1.0.4",
@@ -35514,13 +35514,13 @@
     "hash": "sha256-FjSWSYwWDeKIzMmZmFVnHuXRd/7y8HGqzhNmRkTa0HA="
   },
   "mst_yaml2tca": {
-    "version": "0.0.7",
+    "version": "0.0.10",
     "t3_versions": [
       11,
       12
     ],
     "description": "Load contentelements from yaml in register in new element wizard",
-    "hash": "sha256-s8hfsok2FbD8rYlPGbR2tcgqZb36ZsYijRdtza1B8f4="
+    "hash": "sha256-6wrfyGEliAxDF+Boj8OijBK7NAvq/JxRW0Lv5vJJ6fk="
   },
   "msw_shoutbox": {
     "version": "1.0.0",
@@ -37778,13 +37778,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "newt": {
-    "version": "3.0.0",
+    "version": "3.0.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "Backend-Extension to manage the Newt-Access",
-    "hash": "sha256-PCGZN6hNtYsok8KgU2GtB6f++ci1XoFxhUViGMiQdwE="
+    "hash": "sha256-8EUTg0k6+DBwTUSQfKI4DwmECF6izSLsqH9VAGv8drI="
   },
   "newt4dce": {
     "version": "2.0.0",
@@ -42590,14 +42590,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "pixxio_extension": {
-    "version": "2.0.1",
+    "version": "2.0.2",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Integrate pixx.io DAM Digital Asset Management into TYPO3. Use files from your pixx.io media pool with TYPO3 easily and without any detour. Use the search field to search through your pixx.io media library and find the right picture in a flash.",
-    "hash": "sha256-F1fTpC4GLqKGaW9A+fmQZeEl6Q/Twwo8TgCD3NA2rHg="
+    "hash": "sha256-pbCBKRJXCate4ghw40jtdJDAW5gxfvABN2RXlsipHw0="
   },
   "pizpalue": {
     "version": "15.2.0",
@@ -49661,12 +49661,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "shop": {
-    "version": "3.2.6",
+    "version": "3.2.7",
     "t3_versions": [
       11
     ],
     "description": "Simple Shop for TYPO3 incl. PayPal, PayPal-Plus, Klarna, Stripe, Bookmarks, UPS-API, Invoice generation, backend module, compare feature, graduated prices and many more - note there is a Pro version as well!",
-    "hash": "sha256-cpr/JIRT3wSxdfpMKDWKDuN3W0I1EFFVuFt8vVKg64g="
+    "hash": "sha256-vwhAqdYhR+8rAmJiZwLaUg2AtoRuvgtbj9jp3BSpr8s="
   },
   "shop3ox": {
     "version": "0.0.3",
@@ -50920,13 +50920,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "skins": {
-    "version": "10.5.3",
+    "version": "11.1.4",
     "t3_versions": [
-      10,
-      11
+      12
     ],
     "description": "This extension adds a dark skin (dark theme) to the TYPO3 backend. The colors are customizable and can be changed to your favorite colors.",
-    "hash": "sha256-yjZLmfONyuwZQ0bg4xaWraTBblmCnapzPkk0NXWNMLs="
+    "hash": "sha256-jA8Td//resJi6bXYK1PJVgq15k1/2eF+8shxpqUbalU="
   },
   "skip_page_is_being_generated": {
     "version": "1.1.7",
@@ -52082,13 +52081,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "solver": {
-    "version": "0.2.5",
+    "version": "0.2.6",
     "t3_versions": [
       11,
       12
     ],
     "description": "Extends TYPO3's exception handling with AI generated solutions. Problems can also be solved from command line. Several OpenAI parameters are configurable and prompts and solution providers can be customized as desired.",
-    "hash": "sha256-WSUDHZ/U2+Ud8e11GrXeYMfCcNGB6gts7wJJVD5hOzw="
+    "hash": "sha256-HGLqhsv1rDR9klUZj0FMGY2nkMvB+kP5AEp5GNGI9Ak="
   },
   "sorp": {
     "version": "0.1.0",
