@@ -3011,13 +3011,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "auth0": {
-    "version": "3.4.3",
+    "version": "4.0.0",
     "t3_versions": [
-      9,
-      10
+      10,
+      11
     ],
     "description": "This extension allows you to log into a TYPO3 backend or frontend via Auth0. Auth0 is the solution you need for web, mobile, IoT, and internal applications. Loved by developers and trusted by enterprises.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-PH/aBTeMH4fS94ICy06yefguSOWTzZ8xGWWgWEwTRUM="
   },
   "auth_certificate": {
     "version": "0.2.0",
@@ -16712,13 +16712,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "er24_rechtstexte": {
-    "version": "2.0.0",
+    "version": "2.0.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "This extension allows the easy integration of imprint and privacy policy of eRecht24.",
-    "hash": "sha256-esY5w8O8h4hnnWgkCHHi6YQGbUNbZ5pOsTivYpmD8QY="
+    "hash": "sha256-6RmoyP12Vy9Z7ooyH+ykve6VlFUfCChJC4t4M2L0Wzw="
   },
   "erdal_googlemap": {
     "version": "0.1.2",
@@ -19843,13 +19843,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fluid_form": {
-    "version": "3.1.0",
+    "version": "4.0.0",
     "t3_versions": [
-      10,
-      11
+      11,
+      12
     ],
     "description": "Forms configured only by TypoScript",
-    "hash": "sha256-xyhI9fbEpKIgGsG6pLRFCl33zhaemshUGuu1XfYowvM="
+    "hash": "sha256-qgnr2NcizqkluhiKS9w5kIbwrZWwV3Jx3+TUA9kFnnw="
   },
   "fluid_form_elements": {
     "version": "1.0.0",
@@ -32115,13 +32115,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mask": {
-    "version": "8.3.2",
+    "version": "8.3.3",
     "t3_versions": [
       11,
       12
     ],
     "description": "Create your own content elements and page templates. Easy to use, even without programming skills because of the comfortable drag and drop system. Stored in structured database tables. Style your frontend with Fluid tags. Ideal, if you want to switch from Templavoila.",
-    "hash": "sha256-ypNn4gm1DhGjIuLjKpmXdnHBgM+hY+MbP9Q76EaEpQ4="
+    "hash": "sha256-Cq3hyr9X58cLV4eNqhqBmDxR8FrUTPLmiK00IE+aRvM="
   },
   "mask_export": {
     "version": "4.0.2",
@@ -36419,13 +36419,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "myleaflet": {
-    "version": "1.8.6",
+    "version": "1.8.7",
     "t3_versions": [
       11,
       12
     ],
     "description": "Leaflet / OpenStreetMap for tt_address data with radial search and categories. No registration and no API-keys necessary.",
-    "hash": "sha256-AgYvjjZ1o6Fd2YlrLvAMPA0NoONRD2O9uyGzkmGLy4o="
+    "hash": "sha256-0Nt4Ait6GshDKjH0PsyZW2k2Wb156c2ScE1KXgT1yZk="
   },
   "mymap": {
     "version": "1.7.1",
@@ -42412,6 +42412,15 @@
     "description": "Improved TYPO3 image ViewHelper creating picture elements with support for sizes, sources, additional image formats, etc.",
     "hash": "sha256-WiqKPghYVgWI6mDCsmI/LTSbDmFKyxfzahcBQurG52o="
   },
+  "piflexformupdate": {
+    "version": "0.0.3",
+    "t3_versions": [
+      10,
+      11
+    ],
+    "description": "Updates data in pi_flexform",
+    "hash": "sha256-70Bg48i4vHmHlqy26+PRhdI6PVDvHIh3Xl7yN/SAwW4="
+  },
   "pil_mailform": {
     "version": "3.0.4",
     "t3_versions": [],
@@ -43099,6 +43108,15 @@
     "t3_versions": [],
     "description": "TYPO3 integration for portal64.de.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "portfolios": {
+    "version": "4.0.0",
+    "t3_versions": [
+      11,
+      12
+    ],
+    "description": "Extension for displaying portfolios and references",
+    "hash": "sha256-OWjqroGvlxLpxVQi58E0K4ERDyHdVboQiBuvcLszNus="
   },
   "porto": {
     "version": "0.9.3",
@@ -49017,6 +49035,14 @@
     ],
     "description": "Indexer for ke_search which indexed sf_event_mgt records",
     "hash": "sha256-DpxiEN0HGphIelYtuzYK5fbsOpWrJJfQx0iExiDtv+E="
+  },
+  "sf_event_mgt_multidates": {
+    "version": "0.0.4",
+    "t3_versions": [
+      12
+    ],
+    "description": "Enables multiple dates for sf_event_mgt events. Calender view of sf_event_mgt is adapted to display those events.",
+    "hash": "sha256-tcSeI/IeoHzql8/ECiWMJR7mnwgfCy7zjAoaEY+Cy3k="
   },
   "sf_filecollection_gallery": {
     "version": "1.5.0",
