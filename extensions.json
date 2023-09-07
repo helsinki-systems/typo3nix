@@ -7741,12 +7741,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "celum_connect_fal": {
-    "version": "2.0.4",
+    "version": "2.0.5",
     "t3_versions": [
       11
     ],
     "description": "Provides a FAL driver for the CELUM DAM.",
-    "hash": "sha256-8+lD1ebWZi4Ql2Orz733SSttUV6yiDtJq9Z0Js0W9eE="
+    "hash": "sha256-fHJj/HlPliD0Im1c//pZeyRAokqqIcKSQbyPzQdxec0="
   },
   "cen_csvexport": {
     "version": "1.1.2",
@@ -13831,14 +13831,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "div2007": {
-    "version": "1.17.0",
+    "version": "1.17.1",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "This library offers classes and functions to other TYPO3 extensions. It provides a modified t3lib_div of TYPO3 4.7.10. Replacement for tslib_pibase methods.",
-    "hash": "sha256-fcw1NhunP6GZk1lfEEemmf10NlLzcnRZQsFqyKebcgc="
+    "hash": "sha256-+v/L1GbtyXhbDT2PNgtJy94Enuj8iYZzLt5wExQ9qp4="
   },
   "diva": {
     "version": "8.7.1",
@@ -20096,14 +20096,14 @@
     "hash": "sha256-he4hDMN/tiAEANpUt8BteUsPUlpsO+LL5RTgO6t2Y2Q="
   },
   "flux": {
-    "version": "10.0.3",
+    "version": "10.0.4",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Drop-in page and content templates with nested content feature. Provides multiple condensed integration APIs to use advanced TYPO3 features with little effort.",
-    "hash": "sha256-ijF04r4O/idujjzYV07k0SPaMwfV8aGQTOAYVKjLtgE="
+    "hash": "sha256-0Wac1FUxAZtgDaqH83B7gsLF757N/zVVFFr8/AgvgMU="
   },
   "flux_elements": {
     "version": "1.4.1",
@@ -29602,6 +29602,15 @@
     "description": "Extends the l10nmgr for Gridelements Individual FlexForm configuration. Now you can Translate Every Gridelemnts Field from Input-Text to tt_content.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "l10ntable_extended": {
+    "version": "0.1.0",
+    "t3_versions": [
+      11,
+      12
+    ],
+    "description": "With the assistance of this extension, the localization overview within the Info module gains an enhanced \"Edit all language overlay records\" button, featuring individually customizable fields. This empowers users to conveniently perform batch edits on configurable page fields on page translations.",
+    "hash": "sha256-CtHLkzmOMfTcWCFpUtt8Rn2f2jnJe4P7iKKz7MCu9mo="
+  },
   "la_form": {
     "version": "1.0.1",
     "t3_versions": [
@@ -31145,13 +31154,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "lux": {
-    "version": "33.2.1",
+    "version": "33.3.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Living User Experience - LUX - the Marketing Automation tool for TYPO3.",
-    "hash": "sha256-m29kVX5EQv6qu9+XbDTtxhnWRD4m7DXUrpNjLzermM8="
+    "hash": "sha256-BwXXuNioF67tyG+8y0r5ozuk62EoijPSlaGlolp/duk="
   },
   "luxletter": {
     "version": "24.0.0",
@@ -34161,13 +34170,13 @@
     "hash": "sha256-phaMSdSTR3RiCwNg77ryf7f7sIbSlUEab2bbQIQe7yo="
   },
   "mkcontentai": {
-    "version": "12.0.2",
+    "version": "12.0.3",
     "t3_versions": [
       11,
       12
     ],
     "description": "MK Content AI Extension - OpenAI API",
-    "hash": "sha256-ShE7eN0FGlIyjCePaN5ubv6eFQDhswV5Ml7llNpRjL4="
+    "hash": "sha256-DdyZ6uh6qg1eO7o42fL7G1ZYNomGP5G0qgTebPg4xNE="
   },
   "mkdam2fal": {
     "version": "1.0.16",
@@ -43032,13 +43041,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "poll": {
-    "version": "4.0.2",
+    "version": "4.0.4",
     "t3_versions": [
       11,
       12
     ],
     "description": "Create polls/surveys/Umfragen in TYPO3. Multiple question types and answer layouts. There is also a PRO version available which adds custom user answers and more. (Umfrage, Poll, Opinion, Vote, SimplePoll)",
-    "hash": "sha256-8WzE0M9ixKfGS9GUlvUqa6/CiBMy1QwtmRKh6iCWt0M="
+    "hash": "sha256-0Ax+VQUYxM2ciE03FdpwjNUvIZcM+rHqMDsZkWUePGI="
   },
   "polyglot": {
     "version": "1.0.0",
@@ -49687,12 +49696,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "shop": {
-    "version": "3.2.7",
+    "version": "3.2.8",
     "t3_versions": [
       11
     ],
     "description": "Simple Shop for TYPO3 incl. PayPal, PayPal-Plus, Klarna, Stripe, Bookmarks, UPS-API, Invoice generation, backend module, compare feature, graduated prices and many more - note there is a Pro version as well!",
-    "hash": "sha256-vwhAqdYhR+8rAmJiZwLaUg2AtoRuvgtbj9jp3BSpr8s="
+    "hash": "sha256-Fek/CYcSbNhQYZvyKLYBKn36FzQ/sJtpdv8XY+A2O/Q="
   },
   "shop3ox": {
     "version": "0.0.3",
@@ -53191,31 +53200,31 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "static_info_tables_da": {
-    "version": "6.9.1",
+    "version": "11.5.0",
     "t3_versions": [
-      10,
-      11
+      11,
+      12
     ],
     "description": "Danish (da) language pack for the Static Info Tables providing localized names for countries, currencies and so on.",
-    "hash": "sha256-uVkqtDwLl1p+Da//8zj1zorlEaQmec5yg7TRiZeiHiQ="
+    "hash": "sha256-PxTt6QRE3eLMtQaHGsRynv7o26xdwswsBhMh7F0FN5Q="
   },
   "static_info_tables_de": {
-    "version": "6.9.1",
+    "version": "11.5.0",
     "t3_versions": [
-      10,
-      11
+      11,
+      12
     ],
     "description": "German (de) language pack for the Static Info Tables providing localized names for countries, currencies and so on.",
-    "hash": "sha256-YicY195HPFtkbYWaUfG658vA5tOxudY64Z3WByvXt5I="
+    "hash": "sha256-GPKiqf8wOhabTz2k7E/HYNaW13G/B7jCjx6OTFA61c8="
   },
   "static_info_tables_es": {
-    "version": "6.9.1",
+    "version": "11.5.0",
     "t3_versions": [
-      10,
-      11
+      11,
+      12
     ],
     "description": "Spanish (es) language pack for the Static Info Tables providing localized names for countries, currencies and so on.",
-    "hash": "sha256-G/ROS3OdfuUekxnqQ9CaAWWZwXbI7HpL/bohEoSMlXE="
+    "hash": "sha256-kzAFgR3WjRYvzcJVy4jCnnHFh+YDe/HT61xQwKqlDf8="
   },
   "static_info_tables_extbase": {
     "version": "1.2.0",
@@ -53305,13 +53314,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "static_info_tables_it": {
-    "version": "6.9.1",
+    "version": "11.5.0",
     "t3_versions": [
-      10,
-      11
+      11,
+      12
     ],
     "description": "Italian (it) language pack for the Static Info Tables providing localized names for countries, currencies and so on.",
-    "hash": "sha256-LUT0Pcqcn/YEynZ2AbNggvtQRQHtwPKYzA3L4oGGN7w="
+    "hash": "sha256-iuC8kH2v6FC6zqBiXosxNl3CG6ZD41cAsSMQhvrsnCA="
   },
   "static_info_tables_it_621": {
     "version": "6.2.1",
@@ -54378,13 +54387,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "syssy": {
-    "version": "3.0.0",
+    "version": "3.0.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "Connects TYPO3 with SYSSY",
-    "hash": "sha256-nnMHQu8ABOfG+wK0PwDDVnFmLMZEg5tQgOu8ACKskaA="
+    "hash": "sha256-PcCd3jl2kjOaD7D2BMQ3lzf8t3h+rdwv97OXC9s2eQM="
   },
   "system_control": {
     "version": "0.0.8",
@@ -61267,15 +61276,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "vhs": {
-    "version": "6.1.3",
+    "version": "7.0.0",
     "t3_versions": [
-      8,
-      9,
       10,
-      11
+      11,
+      12
     ],
     "description": "A collection of ViewHelpers for performing rendering tasks that are not natively provided by the Fluid templating engine.",
-    "hash": "sha256-5PAvF/a13pDLp/yiZPMeQuv4AEO3YU8t/xDWLQ2V09U="
+    "hash": "sha256-FDwz7oh+pXLrrc08VR/94jLudqYXPcvjke8ZEE9MBPc="
   },
   "vhs_scss": {
     "version": "2.0.3",
