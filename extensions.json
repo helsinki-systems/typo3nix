@@ -560,13 +560,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "access_keys": {
-    "version": "1.0.6",
+    "version": "1.0.7",
     "t3_versions": [
       10,
       11
     ],
     "description": "",
-    "hash": "sha256-tGIqtyovlTOpV5XhUiUYUuidcYGj2AsK2bboguq0X8k="
+    "hash": "sha256-xck+w6YZzxqGGQeV+3GBeUW+7h5nPwiTs9yiBchwdsE="
   },
   "access_restriction": {
     "version": "3.0.0",
@@ -1060,13 +1060,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "address_manager": {
-    "version": "3.1.4",
+    "version": "3.1.5",
     "t3_versions": [
       10,
       11
     ],
     "description": "Manages and displays address and person records. Comes with three kinds of categories (groups, organisations and positions) with frontend filtering and fulltext search. Includes Google Maps and SEO support. There is also a pro version available. (Personenverzeichnis, Personendatenbank, Mitarbeiterverzeichnis, Filialfinder, Umkreissuche, Standortuebersicht, radial search, radius search)",
-    "hash": "sha256-YvEDmffxGiiUK+jMGU7ZNTj+etgDmXAl/uHp8TLq6yA="
+    "hash": "sha256-nJTH6I4n46jkzZ6FBAdj+mygnB2e6UIPXGmIhSmOhz0="
   },
   "addressgroups": {
     "version": "1.4.0",
@@ -2275,13 +2275,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "amp": {
-    "version": "2.0.4",
+    "version": "2.0.5",
     "t3_versions": [
       10,
       11
     ],
     "description": "TYPO3 - AMP (Accelerated Mobile Pages)",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-9QHXJ+fjwSZWQW+OYTthiI6GoR/W0bchIeK7Usb/p6Q="
   },
   "amt_feed_importer": {
     "version": "3.0.0",
@@ -9617,14 +9617,14 @@
     "hash": "sha256-OvZM209O44nQzYJ4PcR8mv4rbngTejlVjukw8LcfF8M="
   },
   "content_defender": {
-    "version": "3.4.0",
+    "version": "3.4.1",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Define allowed or denied content element types in your backend layouts",
-    "hash": "sha256-qecsXTTqJgvPnOWVrw+VNQ8Lh8cbTvyWJJd9GY9IJFM="
+    "hash": "sha256-6BfYXRQWN5DeJEt7SeRpD7/QR0QHp1jEDj5f2aeQ3Ak="
   },
   "content_designer": {
     "version": "3.0.7",
@@ -19843,13 +19843,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fluid_form": {
-    "version": "4.0.0",
+    "version": "4.0.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Forms configured only by TypoScript",
-    "hash": "sha256-qgnr2NcizqkluhiKS9w5kIbwrZWwV3Jx3+TUA9kFnnw="
+    "hash": "sha256-QlOfxCyJcIdp1J+eueznBy6SxDCXtSzIraIinR16RTc="
   },
   "fluid_form_elements": {
     "version": "1.0.0",
@@ -20096,14 +20096,14 @@
     "hash": "sha256-he4hDMN/tiAEANpUt8BteUsPUlpsO+LL5RTgO6t2Y2Q="
   },
   "flux": {
-    "version": "10.0.4",
+    "version": "10.0.5",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Drop-in page and content templates with nested content feature. Provides multiple condensed integration APIs to use advanced TYPO3 features with little effort.",
-    "hash": "sha256-0Wac1FUxAZtgDaqH83B7gsLF757N/zVVFFr8/AgvgMU="
+    "hash": "sha256-CoNyYxJ5XcNUqIRNgFcoJbXUgTmrS4rIhaoQa9WlMs8="
   },
   "flux_elements": {
     "version": "1.4.1",
@@ -21230,12 +21230,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "frontend_editing": {
-    "version": "3.3.4",
+    "version": "4.0.0",
     "t3_versions": [
       11
     ],
     "description": "Enable editors to work with the content in the most intuitive way possible",
-    "hash": "sha256-+t/DZnBSRqjZS7CQ/+1GTLqlcpZOfoM9FojLG2vFmF8="
+    "hash": "sha256-0HMLCgTTfA3kgjZDHbSmwPnViqtcyS26YYtPrJYUNUM="
   },
   "frontend_user": {
     "version": "1.1.1",
@@ -21754,12 +21754,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "geo_location": {
-    "version": "1.6.5",
+    "version": "1.6.6",
     "t3_versions": [
-      7
+      7,
+      8
     ],
     "description": "Converts Addresses into Geo-Locations by Google-Maps API. Saving this Geo-Locations in an own Database for prevent converting this again and again. Useful for extensions which needs such a Address to Geo-Coordinates service.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-v+CiJDvqHsSTrWl12GMt+rQTQCAIvPJ5yULk6ARfLW8="
   },
   "geocoding": {
     "version": "4.2.0",
@@ -27455,13 +27456,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "job_finder": {
-    "version": "4.0.2",
+    "version": "4.0.3",
     "t3_versions": [
       11,
       12
     ],
     "description": "Job finder extension including job listing, details, application, microdata and more.",
-    "hash": "sha256-YIKTUfAE28b9djJ+txSM+9R+TDCLF3qfDEsmsZzU2gg="
+    "hash": "sha256-jjJ62/O64U8ZzyFOgoZQ5DiB8eQ5SMsjPUU/77RaTgk="
   },
   "job_market": {
     "version": "2.1.1",
@@ -29603,13 +29604,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "l10ntable_extended": {
-    "version": "0.1.0",
+    "version": "0.2.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "With the assistance of this extension, the localization overview within the Info module gains an enhanced \"Edit all language overlay records\" button, featuring individually customizable fields. This empowers users to conveniently perform batch edits on configurable page fields on page translations.",
-    "hash": "sha256-CtHLkzmOMfTcWCFpUtt8Rn2f2jnJe4P7iKKz7MCu9mo="
+    "hash": "sha256-NFRThf4dpnNWrOFcuXXUPzoPGyYvztRz2eD/8R4rlMM="
   },
   "la_form": {
     "version": "1.0.1",
@@ -34170,13 +34171,13 @@
     "hash": "sha256-phaMSdSTR3RiCwNg77ryf7f7sIbSlUEab2bbQIQe7yo="
   },
   "mkcontentai": {
-    "version": "12.0.3",
+    "version": "12.0.4",
     "t3_versions": [
       11,
       12
     ],
     "description": "MK Content AI Extension - OpenAI API",
-    "hash": "sha256-DdyZ6uh6qg1eO7o42fL7G1ZYNomGP5G0qgTebPg4xNE="
+    "hash": "sha256-OHkSGa+sRFJ94I/8WfcXFPZlc8o0jcCprgvr1PZajmI="
   },
   "mkdam2fal": {
     "version": "1.0.16",
@@ -34241,22 +34242,22 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mklib": {
-    "version": "10.1.1",
+    "version": "11.0.2",
     "t3_versions": [
-      9,
-      10
+      10,
+      11
     ],
     "description": "Utilities for extensions",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-Y9BJhJLGHaf3one3PnpHMrntyMaB+UuCmE1zu4GcsXM="
   },
   "mklog": {
-    "version": "11.0.8",
+    "version": "11.0.13",
     "t3_versions": [
       10,
       11
     ],
     "description": "Keep track of developer logs. Provides automatic email notification about important errors.",
-    "hash": "sha256-wXkgaXvJJcc2kiiallTumTb1te0TaKjvvond1yNoRp8="
+    "hash": "sha256-SmKyCHSaIEveIRHo9ABvevk5bnP2uQh3ZYqt1bTDSRA="
   },
   "mkmailer": {
     "version": "9.0.0",
@@ -34307,40 +34308,40 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mksanitizedparameters": {
-    "version": "11.0.5",
+    "version": "11.0.8",
     "t3_versions": [
       10,
       11
     ],
     "description": "Sanitize $_REQUEST, $_POST and $_GET before the processing of TYPO3 in backend or frontend starts. Take a look into the documentation how to add your own rules or see which one exist.",
-    "hash": "sha256-LYLaird5xN9EiDiJ23crgAdszzu0OwI4Xf7bd380o0M="
+    "hash": "sha256-1w+Kwddqf7AOK76Y5UxEutY5ZRsDl12FnRpsz4YoywM="
   },
   "mksearch": {
-    "version": "11.0.10",
+    "version": "11.0.12",
     "t3_versions": [
       10,
       11
     ],
     "description": "Generic highly adjustable and extendable search engine framework, using Zend Lucene, Apache Solr or ElasticSearch. But support for other search engines can be provided easily.",
-    "hash": "sha256-6DiCOSvrPBp+VAC7tls2Y5kOBSEE3h+5hXUppz+66aI="
+    "hash": "sha256-p8kVBAh3yr36wX1B4LR23OQa1OPn7qe3L9HS0IC3f7g="
   },
   "mktools": {
-    "version": "11.0.1",
+    "version": "11.0.5",
     "t3_versions": [
       10,
       11
     ],
     "description": "Collection of some useful tools",
-    "hash": "sha256-/4jsScbWeSH2luIIo0NJrPTxlw1T2NkfwgaZSsNaeMA="
+    "hash": "sha256-C/tAi/YWoCUtgAVOWThHnUy8jqnA2pA6lu+pBaPDSso="
   },
   "mkvarnish": {
-    "version": "11.0.1",
+    "version": "11.0.2",
     "t3_versions": [
       10,
       11
     ],
     "description": "This extension takes care of connecting TYPO3 to Varnish servers for proper caching.",
-    "hash": "sha256-4QreWNybdHc7q731WukcAn36jxCA1fB4VFh/+EuT7pQ="
+    "hash": "sha256-vfAqFJO2KLSopIjWzLYDq2CV+JJY1g9KIuuiLBySTRc="
   },
   "ml_autoinstall_scheduler": {
     "version": "1.0.0",
@@ -49516,24 +49517,24 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sg_vimeo": {
-    "version": "3.0.2",
+    "version": "3.0.5",
     "t3_versions": [
       10,
       11,
       12
     ],
-    "description": "Embed Vimeo Videos of a Channel or Playlist",
-    "hash": "sha256-3WIJWWvU4qub6hy3lPE8Pw104KNdMzX+KkBmm9ZnCwo="
+    "description": "A solution for embedding Vimeo videos, playlists, or channels easily into TYPO3 pages.",
+    "hash": "sha256-Gjd7rfCkUeV+CTtSoINN23uq/kGMXoVuhC6Y6oVDC7E="
   },
   "sg_youtube": {
-    "version": "6.0.1",
+    "version": "6.0.3",
     "t3_versions": [
       10,
       11,
       12
     ],
-    "description": "Embed YouTube Videos of a Channel or Playlist",
-    "hash": "sha256-/14KL7K8Ft1joFBMTkkaxcCsEUbiB7YFyYGifyYecic="
+    "description": "A solution for embedding YouTube videos, playlists, or channels easily into TYPO3 pages.",
+    "hash": "sha256-GEVwbLPUv5F8pi9IkMA/ob+Qs6IsMOCtLK1kMZQ0YUQ="
   },
   "sg_zfeeditlib": {
     "version": "0.8.12",
@@ -53766,12 +53767,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "store_finder": {
-    "version": "7.0.11",
+    "version": "7.0.12",
     "t3_versions": [
       12
     ],
     "description": "Manage store locations, search by distance and show Google maps.",
-    "hash": "sha256-WbnwC+88l/qHFCeI+99+e5WhIyh2zY6C0SW8ObhwPpo="
+    "hash": "sha256-EHqoMlDfIRPx1sCBlu1yAk93mvfmxe4tQx1uuSlv1LQ="
   },
   "store_hours": {
     "version": "0.1.1",
