@@ -44037,12 +44037,13 @@
     "hash": "sha256-9LWFkl8ndKM6xfqmX29kx08kV9Yut4cyf2RbAptzq+8="
   },
   "publish": {
-    "version": "0.1.1",
+    "version": "11.0.2",
     "t3_versions": [
-      10
+      10,
+      11
     ],
     "description": "Frontend editing by frontend users.",
-    "hash": "sha256-9WnGr7qwiyx9rwv+5RPFS/iB2y6vvdIHmWMuS2xtGg8="
+    "hash": "sha256-DC36s3CeQ5jDIWZl/raGhnU0Cp0ZC4wK/Gkk6d96o4Y="
   },
   "publish_content": {
     "version": "0.0.2",
@@ -48479,12 +48480,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "scroll": {
-    "version": "2.0.0",
+    "version": "2.0.1",
     "t3_versions": [
       12
     ],
     "description": "Prevents scroll jumps in TYPO3 CMS backend.",
-    "hash": "sha256-rQEf9BJM8Nb8YuWGKc5LJRmQxtTJ/AqS8zqv37uMw3E="
+    "hash": "sha256-azCBUw9k3FVI+oxgPDwaRdRF5JmRWI9fxwY9wNcZHL4="
   },
   "scroll2anchor_jquery": {
     "version": "1.0.3",
@@ -49517,24 +49518,24 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sg_vimeo": {
-    "version": "3.0.5",
+    "version": "3.0.6",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "A solution for embedding Vimeo videos, playlists, or channels easily into TYPO3 pages.",
-    "hash": "sha256-Gjd7rfCkUeV+CTtSoINN23uq/kGMXoVuhC6Y6oVDC7E="
+    "hash": "sha256-b0khKmLBVcSJkbkKjBCE58NqEW3lUl2Bo5PO38zaY0g="
   },
   "sg_youtube": {
-    "version": "6.0.3",
+    "version": "6.0.4",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "A solution for embedding YouTube videos, playlists, or channels easily into TYPO3 pages.",
-    "hash": "sha256-GEVwbLPUv5F8pi9IkMA/ob+Qs6IsMOCtLK1kMZQ0YUQ="
+    "hash": "sha256-hniOatcpuKsxvoADiX2448XfwU9Bv43fRSGwgSyNZwM="
   },
   "sg_zfeeditlib": {
     "version": "0.8.12",
@@ -63940,13 +63941,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "xblog": {
-    "version": "11.1.10",
+    "version": "11.1.11",
     "t3_versions": [
       10,
       11
     ],
     "description": "Quickly assemble a TYPO3 frontend! Publish the data from the tables pages, tt_content and from any other database! No need to set up typoscript.",
-    "hash": "sha256-sK/WHtbn5e0/nMjcE3/gQiFG8aIqqV0P0qzlXC5e6iA="
+    "hash": "sha256-7InD2WaM3puuMa0zRSMJhgTuPw0wmTx9ujRlqCaeCKk="
   },
   "xdbmysql": {
     "version": "3.0.18",
