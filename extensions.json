@@ -18984,13 +18984,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "feusersmap": {
-    "version": "2.0.1",
+    "version": "2.0.3",
     "t3_versions": [
       11,
       12
     ],
     "description": "OpenstreetMap for fe_users",
-    "hash": "sha256-2NhuCOM55LCgHTJ0lK59HaGT6vvrD5dUIpfWUYbMSSM="
+    "hash": "sha256-mUyp5o4wFixr140pcW3O5yv6U6TkkfQ73akpAbcgDgk="
   },
   "fewishlist": {
     "version": "0.0.1",
