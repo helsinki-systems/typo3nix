@@ -8374,6 +8374,14 @@
     "description": "Fixes ckeditor styles selector in Chrome / Safari",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "ckeditor_wordbreak": {
+    "version": "1.0.0",
+    "t3_versions": [
+      12
+    ],
+    "description": "Adds the <wbr> HTML element to CKEditor 5 in TYPO3. If set in a long word, the browser may break a line (without adding a hyphen character). Useful e.g. for long URLs and file paths.",
+    "hash": "sha256-Dt2BbOE1UiIKKY6+pY6VUNY9yCJGW44rFBh0O3RDBUg="
+  },
   "cl_alphabeticalindex": {
     "version": "0.1.3",
     "t3_versions": [],
@@ -18723,13 +18731,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "felogin_bruteforce_protection": {
-    "version": "10.0.8",
+    "version": "10.0.9",
     "t3_versions": [
       10,
       11
     ],
     "description": "Protects TYPO3 frontend authentication (e.g. fe_login) against brute force attacks.",
-    "hash": "sha256-WyNmF4FWOnzTc+Z6mL1m/86NuwK4YZ9jR6x7YbNwM1I="
+    "hash": "sha256-+D4Sr7BM16qFi6M9DvZxgw93HIh829AVWc4pVetbkeQ="
   },
   "felogin_redirect2current": {
     "version": "0.2.0",
@@ -19844,13 +19852,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fluid_form": {
-    "version": "4.0.1",
+    "version": "4.0.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "Forms configured only by TypoScript",
-    "hash": "sha256-QlOfxCyJcIdp1J+eueznBy6SxDCXtSzIraIinR16RTc="
+    "hash": "sha256-Z9ZwCZBNtbMt6ta2WrFt4MbhSMcf/C0+oqSXTJgN6iQ="
   },
   "fluid_form_elements": {
     "version": "1.0.0",
@@ -19861,13 +19869,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fluid_fpdf": {
-    "version": "2.4.0",
+    "version": "2.4.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "This extension provides you a complete set of ViewHelpers for dealing with FPDF by using Fluid. You can use the ViewHelpers easily in own Extensions just by defining the fpdf-Namespace. Additionally you are able to use the build in plugin, for displaying predefined PDF. This plugin offers you automatically all available PDFs.",
-    "hash": "sha256-crUUMtW8hrEw7CEcbNm2rpgFag4jTnGPTrTFapbBq0I="
+    "hash": "sha256-Y5bkRAnjm+4pcMiao6iM4SitXEvd6Y5+ksi9DIcaKbQ="
   },
   "fluid_info": {
     "version": "0.1.0",
@@ -24369,22 +24377,22 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "iconpack": {
-    "version": "0.3.1",
+    "version": "0.3.2",
     "t3_versions": [
       10,
       11
     ],
     "description": "Provides an iconpack-registry for various iconpacks.",
-    "hash": "sha256-Bn80zh1+lySv4kUF98nUoHAtpTf/DP5bNq0G1COYUd4="
+    "hash": "sha256-CHFH0gufs2CVZt7iURHIiu2HFXGFTOuwNqR3o7XeZY0="
   },
   "iconpack_bootstrap": {
-    "version": "1.1.2",
+    "version": "1.2.0",
     "t3_versions": [
       10,
       11
     ],
     "description": "This Extension registers an Iconpack-Provider for EXT:iconpack which allows you to use the \"Bootstrap Icons\" in TYPO3.",
-    "hash": "sha256-2lHZy5lSTgvkHcFMKBfW2egWnri/imCudVy913/wsbg="
+    "hash": "sha256-H5I0K7vi7hDGt2/4VUE+3W7UeXGfshN5ZgxqNRGx4LU="
   },
   "iconpack_boxicons": {
     "version": "0.1.3",
@@ -24423,13 +24431,13 @@
     "hash": "sha256-ksl6XYLqs1hxq3NE6rzhOVcK2SuiTfI/I7ELqf5UCu0="
   },
   "iconpack_fontawesome": {
-    "version": "0.2.2",
+    "version": "0.2.3",
     "t3_versions": [
       10,
       11
     ],
     "description": "This Extension registers an Iconpack-Provider for EXT:iconpack which allows you to use the \"Font Awesome Icons\" in TYPO3.",
-    "hash": "sha256-/a8Z7jPBkJcgVOA2pGBs9lQ8St5Ry36g7LxY+uDCBRY="
+    "hash": "sha256-MV8f3F4owoTaqqHN1OL8nTxFsMxMVKiQh/nfkNn91uE="
   },
   "iconpack_helium": {
     "version": "1.0.5",
@@ -27475,12 +27483,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "jobapplications": {
-    "version": "2.1.0",
+    "version": "2.3.0",
     "t3_versions": [
       11
     ],
     "description": "This extension enables you to manage job postings, provides you with an application form and a backend module to manage incoming applications.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-ZzbPO4IyO2DFa6c+R5Hq9IWFoTXsiSajA2laBgehQ6g="
   },
   "jobcenter": {
     "version": "3.2.1",
@@ -30230,14 +30238,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "lib_jquery": {
-    "version": "4.0.1",
+    "version": "4.0.2",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Integrates the jQuery-library from CDN with a local fallback if requested library is not available. All relevant versions of jQuery (including minified and gzipped-versions) are shipped with this extension.",
-    "hash": "sha256-QaXyO/KZQoSNrqyFprQ0JAU1gVGfl51kfihm2/hy0vc="
+    "hash": "sha256-jRLzfyzODuAE3WH0hiulUv14bja1yb0iGVRfYqZ6FhU="
   },
   "lib_jquery_colorbox": {
     "version": "0.0.3",
@@ -32126,13 +32134,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mask": {
-    "version": "8.3.4",
+    "version": "8.3.5",
     "t3_versions": [
       11,
       12
     ],
     "description": "Create your own content elements and page templates. Easy to use, even without programming skills because of the comfortable drag and drop system. Stored in structured database tables. Style your frontend with Fluid tags. Ideal, if you want to switch from Templavoila.",
-    "hash": "sha256-UONer91rWKsBGoim4Tuc+4FaF1nsbfNj+47USdYwC/c="
+    "hash": "sha256-+tMPtwLZK4PrYADtQ9rB4wJIWrYrBS9CEwMiGgGTWFA="
   },
   "mask_export": {
     "version": "4.0.2",
@@ -43052,13 +43060,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "poll": {
-    "version": "4.0.5",
+    "version": "4.0.7",
     "t3_versions": [
       11,
       12
     ],
     "description": "Create polls/surveys/Umfragen in TYPO3. Multiple question types and answer layouts. There is also a PRO version available which adds custom user answers and more. (Umfrage, Poll, Opinion, Vote, SimplePoll)",
-    "hash": "sha256-RiTjUSJUbzeYPSqDYrMXUTR7nDsFgZjchc6DMvNvLBc="
+    "hash": "sha256-5Hr5tDGLDn7m9IycLa1Qf9j0O4lFLBY7Gw4mlhZeonc="
   },
   "polyglot": {
     "version": "1.0.0",
@@ -45555,14 +45563,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "replacer": {
-    "version": "2.1.1",
+    "version": "3.0.0",
     "t3_versions": [
-      9,
-      10,
-      11
+      11,
+      12
     ],
     "description": "Replaces string patterns from the page. You can use it to replace URLs for Content Delivery Network (CDN).",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-vTGP26xa5Nj+rEDd8or/7+OeYCvIeehOEbIQN9GV23E="
   },
   "reqmngmt": {
     "version": "0.0.1",
@@ -45763,12 +45770,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "restler": {
-    "version": "11.0.6",
+    "version": "11.0.7",
     "t3_versions": [
       11
     ],
     "description": "This extension integrates the REST-API-framework \"restler\" in TYPO3",
-    "hash": "sha256-ZeTrqhJFu4x6J3AX20Jm8dJWUVpfvTTRl04bTovIdE8="
+    "hash": "sha256-f4sYakEu9KfVw5hRVrP9IiqdoWhbUSQkYWIt7P0Xn+Q="
   },
   "restler_examples": {
     "version": "10.1.1",
@@ -54542,13 +54549,13 @@
     "hash": "sha256-WB3sb+u936HHKBz/8yLFtByX8GChf7iTh0Z4p4rx/TY="
   },
   "t3_linkfree": {
-    "version": "1.0.4",
+    "version": "1.0.5",
     "t3_versions": [
-      10,
-      11
+      11,
+      12
     ],
     "description": "Simple linktree alternative. Easy to use",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-hH9W/l8see5s6Pc/HQqYjyfdRM7eyYTjIgXI1ZQ+m0U="
   },
   "t3_locmanager": {
     "version": "0.3.1",
@@ -60817,6 +60824,14 @@
     ],
     "description": "Test if URLs and domainrecords can be accessed using the API getURL method, e.g. for testing proxy settings in $TYPO3_CONF_VARS[SYS][curlProxyServer] (4.5) or [HTTP][proxy_host] (6.2).",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "usebouncer": {
+    "version": "1.1.0",
+    "t3_versions": [
+      11
+    ],
+    "description": "Mail address validation via usebouncer.com (for powermail)",
+    "hash": "sha256-doLGexptl/25nCOMWEbmeoTcBbubGFq9GfVjEn4ZAOU="
   },
   "userbatch": {
     "version": "1.0.0",
