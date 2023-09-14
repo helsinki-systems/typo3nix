@@ -1128,14 +1128,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "admiral_cloud_connector": {
-    "version": "1.0.27",
+    "version": "1.0.28",
     "t3_versions": [
       9,
       10,
       11
     ],
-    "description": "Admiral cloud connector",
-    "hash": "sha256-YO9g/xqfwFsHOxOJkuVUN2OLEIP8fRVoIx3XF09sMsc="
+    "description": "AdmiralCloud Connector",
+    "hash": "sha256-wExw/ZXgBXC5JhwCZ1BN+dZISUTgHo2YSlyZDkQ3zoQ="
   },
   "adodb": {
     "version": "8.4.0",
@@ -1490,13 +1490,12 @@
     "hash": "sha256-YRT/3l/Ncbk0TyShJjW9uJQjAdd8rYzNaQkyW+hH4ug="
   },
   "aimeos": {
-    "version": "23.7.1",
+    "version": "23.7.2",
     "t3_versions": [
-      11,
       12
     ],
     "description": "Professional, full-featured and ultra-fast TYPO3 e-commerce extension for online shops, complex B2B applications and #gigacommerce. Turns TYPO3 into the best platform for content commerce and your e-commerce requirements (also available as TYPO3 distribution)",
-    "hash": "sha256-EuohkzvK00IH3ywL/Sek6U2soMvIjcoxRSMdR0DLkyI="
+    "hash": "sha256-vM13yde4sJU0uvNd71sDkH78qLEwj+HYnefMfHms7oA="
   },
   "aimeos_dist": {
     "version": "23.7.1",
@@ -8375,12 +8374,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ckeditor_wordbreak": {
-    "version": "1.0.0",
+    "version": "1.0.2",
     "t3_versions": [
       12
     ],
     "description": "Adds the <wbr> HTML element to CKEditor 5 in TYPO3. If set in a long word, the browser may break a line (without adding a hyphen character). Useful e.g. for long URLs and file paths.",
-    "hash": "sha256-Dt2BbOE1UiIKKY6+pY6VUNY9yCJGW44rFBh0O3RDBUg="
+    "hash": "sha256-cfDE5oruC4iGZELuvnOwaXddWrcxqE7Odk98h9EGvPQ="
   },
   "cl_alphabeticalindex": {
     "version": "0.1.3",
@@ -48917,13 +48916,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "server_timing": {
-    "version": "1.7.0",
+    "version": "1.7.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "Show timings of Database and HTTP Calls (send them to Sentry)",
-    "hash": "sha256-ry5pxo38NcNANmdXnkIsrdVNdj2a+Sf85N4f/7CRxCQ="
+    "hash": "sha256-fK3r0omBkAQw6aEFozM5iKv4hEU9/VhpEz6sOhrXcUk="
   },
   "service_bw2": {
     "version": "6.0.3",
@@ -49299,7 +49298,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sg_cookie_optin": {
-    "version": "5.3.0",
+    "version": "5.3.1",
     "t3_versions": [
       9,
       10,
@@ -49307,7 +49306,7 @@
       12
     ],
     "description": "",
-    "hash": "sha256-k8mtCG+IN5kXwcCEyiyc1RQ0lgjS7ItsaJx/mVKVNh4="
+    "hash": "sha256-D31yqDGFGiqWBNHD7BnxYKLOcHgmm6hmoKMCVSn5X7M="
   },
   "sg_cropscale": {
     "version": "0.5.0",
@@ -63327,12 +63326,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ws_slider": {
-    "version": "12.0.1",
+    "version": "12.0.2",
     "t3_versions": [
       12
     ],
     "description": "Universal slider carousel for Owl slider, flexslider, ... ",
-    "hash": "sha256-Vs51BORFFQyRV05XE7bkjIfYS0UeuzUrUEELxc2d2vU="
+    "hash": "sha256-tV6xx9FjdaJey/piZtZLjFi4uNwUz9czkgzbXhz5eqc="
   },
   "ws_stats": {
     "version": "0.2.0",
