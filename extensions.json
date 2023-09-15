@@ -8914,6 +8914,14 @@
     "description": "Integration of phpAdsNew banners using XML-RPC calls",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "code711_housekeeping": {
+    "version": "3.3.3",
+    "t3_versions": [
+      12
+    ],
+    "description": "Keep track of your TYPO3 versions by checking your git-repositories. You can then see the results on your TYPO3 Dashboard.",
+    "hash": "sha256-P+VwWP0Bp+u7ngtL2M1LupJUPbqRMXZUK++GIOEBqtU="
+  },
   "codeblock": {
     "version": "1.4.0",
     "t3_versions": [
@@ -19055,14 +19063,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fh_debug": {
-    "version": "0.15.3",
+    "version": "0.16.0",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "This generates a PHP debug output file. FileWriter into debug",
-    "hash": "sha256-85X1s/8dh0xfVV5qazW2eAlcxnyTzp4laKk4Yod7AYM="
+    "hash": "sha256-NVCPvEBqWUJ/tYr3ATromHsvePd+aBmtYYTPD7fnXD0="
   },
   "fh_library": {
     "version": "0.0.20",
@@ -20217,12 +20225,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "focuspoint": {
-    "version": "6.0.2",
+    "version": "6.0.3",
     "t3_versions": [
       12
     ],
     "description": "Focuspoint integrate the focal point method to crop images in the frontend of the web page. Use the jQuery-focuspoint plugin (https://github.com/jonom/jquery-focuspoint example http://jonom.github.io/jquery-focuspoint/demos/helper/index.html) to crop the images. Use the function as wizard in the file list view and directly in the content element.",
-    "hash": "sha256-FC0Bki7ZZ41RTc9gUzOtMizKE8URkc+uh8gMA4QDlrw="
+    "hash": "sha256-Cg+kGxah8vNONbBmoA3pTE78ETL0OFnw5mtdEjemmvg="
   },
   "folder": {
     "version": "0.0.7",
@@ -21238,12 +21246,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "frontend_editing": {
-    "version": "4.0.2",
+    "version": "4.0.3",
     "t3_versions": [
       11
     ],
     "description": "Enable editors to work with the content in the most intuitive way possible",
-    "hash": "sha256-5m/kNND8bCyIZ8RqH6srqwCZqC2xBxX17y6qK/4zi3I="
+    "hash": "sha256-YPiNGqVnSlNBlVnbK1VSnJnQtr0uF/3udzUcF9/EA7I="
   },
   "frontend_user": {
     "version": "1.1.1",
@@ -28808,13 +28816,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ke_search": {
-    "version": "5.0.3",
+    "version": "5.0.4",
     "t3_versions": [
       11,
       12
     ],
     "description": "Faceted fulltext search for TYPO3. Fast, flexible and easy to install and use. Indexes content directly from the databases. Features faceting / filtering, file indexing, images in result lists and respects access restrictions.",
-    "hash": "sha256-CWMfPDgQIOn3MqBPhWej6JQgJHDjwEjrVk/KlNQWtR4="
+    "hash": "sha256-EV2MM2gjr7PBdIsbdYAEh9+18zNsyZBrzszMCbFOW7E="
   },
   "ke_search_dam_tags": {
     "version": "0.0.1",
@@ -29612,13 +29620,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "l10ntable_extended": {
-    "version": "0.2.0",
+    "version": "0.2.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "With the assistance of this extension, the localization overview within the Info module gains an enhanced \"Edit all language overlay records\" button, featuring individually customizable fields. This empowers users to conveniently perform batch edits on configurable page fields on page translations.",
-    "hash": "sha256-NFRThf4dpnNWrOFcuXXUPzoPGyYvztRz2eD/8R4rlMM="
+    "hash": "sha256-gu7EuZp8Jcl7bPlvTJ95ejlB69DTZ0nklfBrPP2xrRQ="
   },
   "la_form": {
     "version": "1.0.1",
@@ -31163,13 +31171,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "lux": {
-    "version": "33.3.0",
+    "version": "33.3.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Living User Experience - LUX - the Marketing Automation tool for TYPO3.",
-    "hash": "sha256-BwXXuNioF67tyG+8y0r5ozuk62EoijPSlaGlolp/duk="
+    "hash": "sha256-Bykn6+xPXlNDJtVLYwszqz/Mfmplj0qjCc71a90bBSs="
   },
   "luxletter": {
     "version": "24.0.0",
@@ -32196,6 +32204,15 @@
     ],
     "description": "This extension makes available the setup of the master template. Originally developed by the NRW user group.",
     "hash": "sha256-RL/ijlDjQe3WAHyWCf4+14FglEOm3e3hxcZ5GFOwHIw="
+  },
+  "mastodon_feed": {
+    "version": "1.0.1",
+    "t3_versions": [
+      11,
+      12
+    ],
+    "description": "Embed a mastodon feed, configurable for a timeline or a tag from a specific server",
+    "hash": "sha256-HhAEPPV5Q0jBLhRGVHstY4RqbmVa6tRnEbE57bF46Ys="
   },
   "material_design_lite": {
     "version": "3.0.0",
@@ -61740,12 +61757,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "w4_communitynet": {
-    "version": "1.0.2",
+    "version": "1.0.3",
     "t3_versions": [
       11
     ],
     "description": "W4 Basic Extension for CommunityNet websites.",
-    "hash": "sha256-BxQXkaUfG1AzWsFmSfGS912DmiP3qnbUDISELkdY3S8="
+    "hash": "sha256-838MxT9upJDCu9OjSBKqet8JoOLy695DfZPjoJtUSNs="
   },
   "w4_cookiebar": {
     "version": "1.0.4",
