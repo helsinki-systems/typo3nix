@@ -5206,12 +5206,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "brofix": {
-    "version": "5.0.0",
+    "version": "5.0.1",
     "t3_versions": [
       12
     ],
     "description": "Check for broken links and fix them via a backend module (forked from core linkvalidator)",
-    "hash": "sha256-/40bz0Yvkovf/QwxgiQEiqXHqdPUOPXywmHUZ3ABgyA="
+    "hash": "sha256-Fcv06FpHvcjPyGfz3J2igd+satgOqsBnLzMStfaRpSc="
   },
   "browser": {
     "version": "10.0.3",
@@ -12954,13 +12954,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "debug_mysql_db": {
-    "version": "1.3.1",
+    "version": "1.3.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "Extends \\TYPO3\\CMS\\Core\\Database\\DatabaseConnection and \\TYPO3\\CMS\\Core\\Database\\Connection to show Errors and Debug-Messages. Debugging of sql-queries by debug and FileWriter.",
-    "hash": "sha256-w5KYi6XWMPA3Md26COGcsTqrvcGTEdKck4O2lepRBsA="
+    "hash": "sha256-bdhs7NJ+FiTRfar32jtwNhRxrQUZF/wdPRJG+Q7O98I="
   },
   "debug_settings_task": {
     "version": "2.2.1",
