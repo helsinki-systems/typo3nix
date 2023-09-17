@@ -5755,13 +5755,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "bw_captcha": {
-    "version": "3.0.0",
+    "version": "3.1.0",
     "t3_versions": [
       10,
-      11
+      11,
+      12
     ],
     "description": "Captcha element for the TYPO3 form component. The captcha generation uses Gregwar/Captcha, no Google or 3rd party includes.",
-    "hash": "sha256-MRhFeGwSCjegzWg3v/KVTNf1pNrwIavggWmPi9CMjHw="
+    "hash": "sha256-/TkAs5/XH2WpuGa6gvEsgtB7xZYdvy4U6E7uClbqvmQ="
   },
   "bw_covid_numbers": {
     "version": "1.2.0",
@@ -17634,12 +17635,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "extender": {
-    "version": "8.1.0",
+    "version": "9.0.1",
     "t3_versions": [
-      11
+      11,
+      12
     ],
     "description": "A services that enables adding properties and functions",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-SB4ZBQKJf2EDkcs/pllNqjyuyfSRkuI1ny0izqCIdYo="
   },
   "extendmypage": {
     "version": "0.0.1",
@@ -17705,13 +17707,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "external_import": {
-    "version": "7.1.0",
+    "version": "7.1.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Tool for importing data from external sources into the TYPO3 CMS database, using an extended TCA syntax. Provides a BE module, a Scheduler task, a command-line tool and an API.",
-    "hash": "sha256-v/MqBeogC+7jJq3jEUqTK5PdUn7Gzq5Haj2RicRVN5I="
+    "hash": "sha256-fXK08WiDslXytmxIVsrJV1zT1qwvJVLmY4umdErN4EA="
   },
   "external_import_tt_products": {
     "version": "0.0.1",
@@ -24384,13 +24386,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "iconpack": {
-    "version": "0.3.2",
+    "version": "0.3.3",
     "t3_versions": [
       10,
       11
     ],
     "description": "Provides an iconpack-registry for various iconpacks.",
-    "hash": "sha256-CHFH0gufs2CVZt7iURHIiu2HFXGFTOuwNqR3o7XeZY0="
+    "hash": "sha256-cO/iTc+rl1zViZU61+cc9Paaje/n7awXFPAdQDhYJaE="
   },
   "iconpack_bootstrap": {
     "version": "1.2.0",
@@ -27507,13 +27509,13 @@
     "hash": "sha256-1l2qnR24Uj66g8z4HM++GDYa0K/F5ArBSCIH/9vQruo="
   },
   "jobfair": {
-    "version": "4.0.4",
+    "version": "4.0.5",
     "t3_versions": [
       10,
       11
     ],
     "description": "Simple job market based on Extbase and Fluid. Basically works like dmmjobcontrol. There are list and detail views available. In addition, it is possible to set up an online application system. Furthermore, FE-Users can be enabled to add and edit jobs in the frontend, so to BE-Administration is required. Feeds (Rss091, Rss2, Atom) are also available",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-nEgl3uBXHhauhgypFcYmSkJbFjxohNix3Zx5fYBkar8="
   },
   "joboffers_feedit": {
     "version": "0.1.5",
@@ -28193,6 +28195,14 @@
     "t3_versions": [],
     "description": "galleriffic is a damn cool jQuery gallery script by Trent Foley (http://trentacular.com/2009/02/galleriffic-1-0/). My extension wraps it into a Typo3 extension which is easy to install. It uses the field brought by the normal image content element. For up",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "jve_upgradewizard": {
+    "version": "12.4.6",
+    "t3_versions": [
+      12
+    ],
+    "description": "Fixes the ways included files have been added in database.",
+    "hash": "sha256-EvnHSg9R36NJRbVZhPm6jRd3ua1NJBx1UOrKS6ON8HI="
   },
   "jw_extjsdirect": {
     "version": "0.0.7",
