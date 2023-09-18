@@ -1489,6 +1489,14 @@
     "description": "Generates SEO metadata based on content using AI. Currently several metadata for pages and articles of EXT:news can be generated using an additional button next to the corresponding input fields.",
     "hash": "sha256-YRT/3l/Ncbk0TyShJjW9uJQjAdd8rYzNaQkyW+hH4ug="
   },
+  "ai_tools": {
+    "version": "0.0.1",
+    "t3_versions": [
+      11
+    ],
+    "description": "Use A.I. Tools in the TYPO3 backend. Generate Images, Image Variants and Describe Images.",
+    "hash": "sha256-QckxUijIPEdD6LVvP3jLwr2sT0hqgrIdc0gptF3NW5Q="
+  },
   "aimeos": {
     "version": "23.7.2",
     "t3_versions": [
@@ -7741,12 +7749,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "celum_connect_fal": {
-    "version": "2.0.5",
+    "version": "2.0.6",
     "t3_versions": [
       11
     ],
     "description": "Provides a FAL driver for the CELUM DAM.",
-    "hash": "sha256-fHJj/HlPliD0Im1c//pZeyRAokqqIcKSQbyPzQdxec0="
+    "hash": "sha256-OlqjA5kpF9BG0nA5uhdvXfMRmfatn0hPnXKHzBOOMqw="
   },
   "cen_csvexport": {
     "version": "1.1.2",
@@ -18038,13 +18046,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fal_securedownload": {
-    "version": "5.0.0",
+    "version": "5.0.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Secure download of assets. Makes it possible to secure FE use of assets/files by setting permissions to folders/files for fe_groups.",
-    "hash": "sha256-PSMhopsw8a69KEpk8zha+jQAoLBuBx85MJh+YhIqcK4="
+    "hash": "sha256-9B02/KjoT0F9xqFWua7mFEhmwx6dipDBqHBE0HtOj18="
   },
   "fal_sftp": {
     "version": "4.2.0",
@@ -19659,13 +19667,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "flat_urls": {
-    "version": "3.0.2",
+    "version": "3.1.1",
     "t3_versions": [
-      10,
-      11
+      11,
+      12
     ],
     "description": "Flat URLs (like Stackoverflow) for TYPO3",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-JyZzMYZYlcnp7rqEcF5AJmj8cGL3B4EKywxPpRQGoB8="
   },
   "flatmgr": {
     "version": "2.8.2",
@@ -24191,6 +24199,14 @@
     "description": "News-System",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "hwd": {
+    "version": "2.0.0",
+    "t3_versions": [
+      12
+    ],
+    "description": "HelloWorldTest",
+    "hash": "sha256-jKvBPif4nDlRkiMsXbOv+g1DuFNHJKK9EnsJpaRrF4Y="
+  },
   "hwt_address": {
     "version": "0.3.0",
     "t3_versions": [
@@ -27492,12 +27508,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "jobapplications": {
-    "version": "2.3.0",
+    "version": "3.0.0",
     "t3_versions": [
-      11
+      12
     ],
     "description": "This extension enables you to manage job postings, provides you with an application form and a backend module to manage incoming applications.",
-    "hash": "sha256-ZzbPO4IyO2DFa6c+R5Hq9IWFoTXsiSajA2laBgehQ6g="
+    "hash": "sha256-xd0P8rx1nGN65WfOkzdH0nfAWswK9zK8GfVHrTN1ynQ="
   },
   "jobcenter": {
     "version": "3.2.1",
@@ -31594,13 +31610,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mail_css_inliner": {
-    "version": "3.1.0",
+    "version": "3.1.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Inlines CSS in all outgoing TYPO3 mails.",
-    "hash": "sha256-5owmzl4HcgT8xylgmRr+/Qy441QHHMZaDVn2pDSekmU="
+    "hash": "sha256-jPv/y4yEofi7SRdacSphQPg9t13QM/BFiBcq1ENg8jY="
   },
   "mail_logger": {
     "version": "3.0.9",
@@ -40132,13 +40148,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "openid": {
-    "version": "10.1.0",
+    "version": "12.0.1",
     "t3_versions": [
-      9,
-      10
+      12
     ],
     "description": "OpenID authentication for TYPO3 CMS",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-iiyFD+OixALGh4LVtVbf56AII6/rZ2njPFnCviEtxac="
   },
   "openimmoman": {
     "version": "0.0.1",
@@ -47545,13 +47560,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "rx_shariff": {
-    "version": "15.0.5",
+    "version": "15.0.7",
     "t3_versions": [
       11,
       12
     ],
     "description": "Shariff implementation for TYPO3 CMS including the backend module, a viewhelper and a plugin.",
-    "hash": "sha256-xwD4QIHz0gnIo+CaWDeh/i1qx8vq3mx7aONycuEXlIg="
+    "hash": "sha256-YyegZlaDm82eJwUmSeefprh0+Pa01lmIjeRA5II8gvg="
   },
   "rx_unrollsavebuttons": {
     "version": "1.1.1",
@@ -64646,14 +64661,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "yoast_seo": {
-    "version": "9.0.1",
+    "version": "9.0.2",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Optimise your website for search engines with Yoast SEO for TYPO3. With this extension you get all the technical SEO stuff you need and will help editors to write high quality content.",
-    "hash": "sha256-5/bL6ZckAyJ7S8fH/Atsugx/ohvD3sWGGUjMvCjMRYw="
+    "hash": "sha256-vScqm/lbcFPn0mw+jtHfxp+lgH7a1rIIGvtf5Ou/+q0="
   },
   "yoo_blockimage": {
     "version": "1.0.0",
