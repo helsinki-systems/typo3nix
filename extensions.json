@@ -7077,6 +7077,14 @@
     "description": "Build and manage easily your category tree.",
     "hash": "sha256-fXQ2gSywT4WhRrrB514JlUloO79yUUcEgVnLdUZHMJI="
   },
+  "category_types": {
+    "version": "1.0.1",
+    "t3_versions": [
+      11
+    ],
+    "description": "Basic extension for typed categories",
+    "hash": "sha256-YsbnU4MMZjwSDBC/gI8BFMSotQK6mhM3L4aMkAs63+I="
+  },
   "catwalk": {
     "version": "0.11.4",
     "t3_versions": [
@@ -8602,6 +8610,15 @@
     "t3_versions": [],
     "description": "An example for a command line interface (cli) script for TYPO3 4.1 and higher",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "cli_toolbox": {
+    "version": "2.0.0",
+    "t3_versions": [
+      10,
+      11
+    ],
+    "description": "",
+    "hash": "sha256-zFFMOLNkQ1tzsqPcaka4OPauFtijgZ/ro8pjISz4BN0="
   },
   "clicleaner": {
     "version": "1.0.0",
@@ -19667,13 +19684,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "flat_urls": {
-    "version": "3.1.1",
+    "version": "3.1.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "Flat URLs (like Stackoverflow) for TYPO3",
-    "hash": "sha256-JyZzMYZYlcnp7rqEcF5AJmj8cGL3B4EKywxPpRQGoB8="
+    "hash": "sha256-D4EQNFzP+Mmfx03gNVUkZES8Nb7nUHTFM+rFAnCPyrU="
   },
   "flatmgr": {
     "version": "2.8.2",
@@ -19869,13 +19886,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fluid_form": {
-    "version": "4.0.2",
+    "version": "4.0.3",
     "t3_versions": [
       11,
       12
     ],
     "description": "Forms configured only by TypoScript",
-    "hash": "sha256-Z9ZwCZBNtbMt6ta2WrFt4MbhSMcf/C0+oqSXTJgN6iQ="
+    "hash": "sha256-BxWhD8CpX6O7/ouZJGhoq/bwv7WJIN8b/Zv52RsrO/k="
   },
   "fluid_form_elements": {
     "version": "1.0.0",
@@ -27508,12 +27525,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "jobapplications": {
-    "version": "3.0.0",
+    "version": "3.0.1",
     "t3_versions": [
       12
     ],
     "description": "This extension enables you to manage job postings, provides you with an application form and a backend module to manage incoming applications.",
-    "hash": "sha256-xd0P8rx1nGN65WfOkzdH0nfAWswK9zK8GfVHrTN1ynQ="
+    "hash": "sha256-VPh+fPe7suS2gsaZerl40zrp5Mjpv8dwAQAv6aV3+eE="
   },
   "jobcenter": {
     "version": "3.2.1",
@@ -34213,13 +34230,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mkcache_queue": {
-    "version": "12.0.2",
+    "version": "12.0.3",
     "t3_versions": [
       11,
       12
     ],
     "description": "",
-    "hash": "sha256-phaMSdSTR3RiCwNg77ryf7f7sIbSlUEab2bbQIQe7yo="
+    "hash": "sha256-d7l9BhoZHhbjIWXTjqi1Kf0+CxQwYJbK4AnRsNw3ioo="
   },
   "mkcontentai": {
     "version": "12.0.4",
@@ -38558,12 +38575,12 @@
     "hash": "sha256-36GUDqEqYAO87zocn+nbtwoRyBd1KNbOzd6qR/EdsrE="
   },
   "ns_basetheme": {
-    "version": "12.0.8",
+    "version": "12.0.9",
     "t3_versions": [
       12
     ],
     "description": "The architecture of parent/child TYPO3 theme concept. Explore https://t3planet.com and https://nitsantech.com",
-    "hash": "sha256-v7LUgfejPuz/Bp1TVu0MPOuzjAG6WX1DImTz5XM5VCI="
+    "hash": "sha256-Xks/+Fh0efstBEOlQ+hyYmdiAC5D7iOOcMl6fw4+T68="
   },
   "ns_cache_webhook": {
     "version": "1.0.0",
@@ -42668,14 +42685,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "pixxio_extension": {
-    "version": "2.0.2",
+    "version": "2.0.3",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Integrate pixx.io DAM Digital Asset Management into TYPO3. Use files from your pixx.io media pool with TYPO3 easily and without any detour. Use the search field to search through your pixx.io media library and find the right picture in a flash.",
-    "hash": "sha256-pbCBKRJXCate4ghw40jtdJDAW5gxfvABN2RXlsipHw0="
+    "hash": "sha256-9bt5tI9B5c1bJKtThqDtg/macjmYs+TISlU5jYVhYjQ="
   },
   "pizpalue": {
     "version": "15.2.0",
