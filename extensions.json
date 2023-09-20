@@ -541,6 +541,24 @@
     "description": "This Extendsion adds some jQuery-based JavaScript code to your website that displays nice and clean CSS tooltips.",
     "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
   },
+  "academic_bite_jobs": {
+    "version": "0.1.1",
+    "t3_versions": [
+      11,
+      12
+    ],
+    "description": "The Academic Bite Jobs extension shows jobs from the B-Ite Job Board.",
+    "hash": "sha256-Lpw/2RSoMCvwpI1AqYEBWF6Gaoh/BMpq3nL8vO8IKj4="
+  },
+  "academic_jobs": {
+    "version": "0.1.2",
+    "t3_versions": [
+      11,
+      12
+    ],
+    "description": "The Academic Jobs extension allows users to create and manage job postings.",
+    "hash": "sha256-YWTWTORls4rjNf6DVyLv7j9NjSes/0/aIE0Y+Z5+SDk="
+  },
   "academic_networks_tt_address": {
     "version": "0.1.0",
     "t3_versions": [
@@ -550,6 +568,46 @@
     ],
     "description": "Adds fields for researchers in tt_address",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "academic_persons": {
+    "version": "0.1.0",
+    "t3_versions": [
+      11
+    ],
+    "description": "Adds a person database to TYPO3 with plugins to show them in the frontend.",
+    "hash": "sha256-JUhj9gmY9/wwRwefHJVUZED+DsKQVEjJ2jUWNZQw/A0="
+  },
+  "academic_persons_edit": {
+    "version": "0.1.0",
+    "t3_versions": [
+      11
+    ],
+    "description": "dds the option to assign frontend users to academic persons and allow editing the profiles in frontend.",
+    "hash": "sha256-BXrRtJMdbmGBI46KqwRSVQk7qHEr/C8phfZJXHUN6LA="
+  },
+  "academic_persons_sync": {
+    "version": "0.1.0",
+    "t3_versions": [
+      11
+    ],
+    "description": "Adds some configuration for external users providers like Active Directory.",
+    "hash": "sha256-r6cDwpHWGKJAjNF34sWBx8vB0cqWOEIsJcW8U56kAzI="
+  },
+  "academic_projects": {
+    "version": "0.1.2",
+    "t3_versions": [
+      11
+    ],
+    "description": "Academic project pages for TYPO3 with specific structured data and typed sys_categories",
+    "hash": "sha256-QYtWnjO2x/G3MrU6U8xFrO+EzBOIiLsPFP1pF1piy9Q="
+  },
+  "academic_studies": {
+    "version": "0.1.2",
+    "t3_versions": [
+      11
+    ],
+    "description": "Educational Course page for TYPO3 with structured data based on sys_category",
+    "hash": "sha256-T0y6c/asLUIuO8IBscaJ+F50IHAiSeuZFbpt3Mlk24A="
   },
   "access_control_sync": {
     "version": "0.2.7",
@@ -5204,6 +5262,15 @@
     ],
     "description": "Create copies of a page tree without copying the content elements. Copies all subpages of a given source page to a destination page, sets the copied pages to \"show content of {original} page\". Source and target page id are configurable in a back-end module.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "brevo": {
+    "version": "2.0.0",
+    "t3_versions": [
+      11,
+      12
+    ],
+    "description": "Integration of newsletter SaaS solution sendinblue.com  (formally known as sendinblue) into TYPO3 CMS",
+    "hash": "sha256-oz7xnuT5U0aFsOH9zmEZuZA+nthL9x3zYYNjHu23Ul4="
   },
   "brightcove_video": {
     "version": "1.0.1",
@@ -19903,13 +19970,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fluid_fpdf": {
-    "version": "2.4.1",
+    "version": "2.4.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "This extension provides you a complete set of ViewHelpers for dealing with FPDF by using Fluid. You can use the ViewHelpers easily in own Extensions just by defining the fpdf-Namespace. Additionally you are able to use the build in plugin, for displaying predefined PDF. This plugin offers you automatically all available PDFs.",
-    "hash": "sha256-Y5bkRAnjm+4pcMiao6iM4SitXEvd6Y5+ksi9DIcaKbQ="
+    "hash": "sha256-YzSwctn+cNarWp+pa9GYlZ9Y8ka3vCjSLhlyg5F3vYA="
   },
   "fluid_info": {
     "version": "0.1.0",
@@ -31214,13 +31281,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "lux": {
-    "version": "33.3.1",
+    "version": "34.0.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Living User Experience - LUX - the Marketing Automation tool for TYPO3.",
-    "hash": "sha256-Bykn6+xPXlNDJtVLYwszqz/Mfmplj0qjCc71a90bBSs="
+    "hash": "sha256-yxST7jYREfE96H2Nh5y1X9L7RkrLKSESeov9ePm4/A8="
   },
   "luxletter": {
     "version": "24.0.0",
@@ -40634,6 +40701,14 @@
     "description": "This extension provides a simple way to manage templates for extensions from the page tree.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "page_backend_layout": {
+    "version": "1.0.3",
+    "t3_versions": [
+      11
+    ],
+    "description": "Helper for Backend layout overrides based on page doktype",
+    "hash": "sha256-Sxw1g7QWNPE0RTYdLJRWmj9aLFKFeMnb7DZuP928kR0="
+  },
   "page_callouts": {
     "version": "3.0.2",
     "t3_versions": [
@@ -42779,12 +42854,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "plain_faq": {
-    "version": "4.0.0",
+    "version": "4.0.1",
     "t3_versions": [
       12
     ],
     "description": "Plain FAQ extension with list and detail view. Migration commands to migrate data and plugin settings from ext:irfaq",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-XNk5UK5sDUSwDTmHZDvUT3jYiEtV0UN4GFOysggx5sI="
   },
   "plainlynx": {
     "version": "0.0.1",
@@ -55818,12 +55893,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "t3voila_uikit": {
-    "version": "0.2.0",
+    "version": "0.3.0",
     "t3_versions": [
-      11
+      12
     ],
     "description": "Theme for TemplaVoilà! Plus using fluid",
-    "hash": "sha256-4u6S1fXXW3DDF/ibpFyx5CLaU4sBmRI/fI/NR8baKtg="
+    "hash": "sha256-rvJeEhHVyh+cIhFypIR9nhfc7WCCaVPkkBGpLUlJtFM="
   },
   "t3w_getrootlinefield": {
     "version": "0.0.1",
