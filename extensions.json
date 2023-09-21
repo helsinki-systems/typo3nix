@@ -5072,13 +5072,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "bolt": {
-    "version": "2.2.0",
+    "version": "2.3.1",
     "t3_versions": [
       10,
-      11
+      11,
+      12
     ],
-    "description": "This package ships best defaults for integrators",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "description": "Connect a Site configuration to a Site package / extension",
+    "hash": "sha256-q9TqJLqUKnvEjkS1KEijGIoyEtk9SAzJwOHh3knXuoo="
   },
   "bomber_externalsite": {
     "version": "1.0.1",
@@ -7892,13 +7893,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cf_cookiemanager": {
-    "version": "1.3.1",
+    "version": "1.3.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "Unlock the full potential of your Typo3 website with CodingFreaks Typo3 Cookie Manager. Effortlessly manage and customize your website's services, cookies and scripts with our comprehensive extension. Streamline your workflow, enhance user experience, and ensure GDPR compliance with this powerful tool. Take control of your cookie management today and unleash the true potential of your Typo3 installation.",
-    "hash": "sha256-Jfnk6ufdImgcXJsIB+3wNJ8+bwAunuqgHjd5+aRCdZA="
+    "hash": "sha256-GTcBx9JmqtUX/vvlNuBD8g/ZD5OQ//yyB2e5TRrxJ1I="
   },
   "cf_google_authenticator": {
     "version": "1.2.4",
@@ -13793,14 +13794,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "disable_beuser": {
-    "version": "3.1.0",
+    "version": "4.2.0",
     "t3_versions": [
-      9,
-      10,
-      11
+      11,
+      12
     ],
     "description": "Scheduler task to disable inactive User",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-4yW5NcHu1uM937gj0ZvyD3ulEGJSXMMtXzKAWZBfOG0="
   },
   "disable_feuser": {
     "version": "1.0.0",
@@ -28297,12 +28297,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "jve_upgradewizard": {
-    "version": "12.4.6",
+    "version": "12.4.8",
     "t3_versions": [
+      11,
       12
     ],
-    "description": "Fixes the ways included files have been added in database.",
-    "hash": "sha256-EvnHSg9R36NJRbVZhPm6jRd3ua1NJBx1UOrKS6ON8HI="
+    "description": "Fixes the ways Typoscript and TSconfig included files have been added in database.",
+    "hash": "sha256-HglaNBg7M+4PG32e0LjZAWnqXlehUBMEuya2orfYvts="
   },
   "jw_extjsdirect": {
     "version": "0.0.7",
@@ -44180,12 +44181,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "publications": {
-    "version": "5.2.0",
+    "version": "5.3.2",
     "t3_versions": [
       11
     ],
     "description": "Publication reference extension with im- and export with bibtex and xml files",
-    "hash": "sha256-9LWFkl8ndKM6xfqmX29kx08kV9Yut4cyf2RbAptzq+8="
+    "hash": "sha256-FA3LCUjeE3wvVw8nhmtJP5wxhAWcLwcxPGk1Wnu1T+A="
   },
   "publish": {
     "version": "11.0.2",
@@ -45696,13 +45697,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "replacer": {
-    "version": "3.0.0",
+    "version": "3.0.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "Replaces string patterns from the page. You can use it to replace URLs for Content Delivery Network (CDN).",
-    "hash": "sha256-vTGP26xa5Nj+rEDd8or/7+OeYCvIeehOEbIQN9GV23E="
+    "hash": "sha256-tmoo2TDHOpka3yWtnwjBXy6dkFgWsYcbQpH4xjrTJQk="
   },
   "reqmngmt": {
     "version": "0.0.1",
@@ -46595,7 +46596,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "rn_base": {
-    "version": "1.17.2",
+    "version": "1.17.3",
     "t3_versions": [
       8,
       9,
@@ -46604,7 +46605,7 @@
       12
     ],
     "description": "TYPO3 plugins based on rn_base can use MVC design principles and domain driven development. This extension also provides an abstraction layer for TYPO3 API to support LTS version since 6.2.",
-    "hash": "sha256-U2jQqPLd+O8P51itlkYP6IMHf8zJJpTloSn/UoBs+j4="
+    "hash": "sha256-zBPcAv3x7k8UdC/CneewGRMMurIjCeYfA1IvLRjopi8="
   },
   "rn_memento": {
     "version": "0.0.1",
@@ -61882,12 +61883,13 @@
     "hash": "sha256-838MxT9upJDCu9OjSBKqet8JoOLy695DfZPjoJtUSNs="
   },
   "w4_cookiebar": {
-    "version": "1.0.4",
+    "version": "1.0.5",
     "t3_versions": [
-      11
+      11,
+      12
     ],
     "description": "W4 extension to provide a GDPR (DE: \"DSGVO\") cookie banner.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-tvA4W4g+jTqq+sU+TPGQ9gJ83K92WcdLJmPUxnJ8FOw="
   },
   "w4_ext_geolocator": {
     "version": "0.0.3",
