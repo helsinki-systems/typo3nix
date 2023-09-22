@@ -542,13 +542,13 @@
     "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
   },
   "academic_bite_jobs": {
-    "version": "0.1.1",
+    "version": "0.1.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "The Academic Bite Jobs extension shows jobs from the B-Ite Job Board.",
-    "hash": "sha256-Lpw/2RSoMCvwpI1AqYEBWF6Gaoh/BMpq3nL8vO8IKj4="
+    "hash": "sha256-ihqT2Rrh9V6f903tv57jnyTxmtFYzPBKCy8ve4udZbE="
   },
   "academic_jobs": {
     "version": "0.1.2",
@@ -3076,13 +3076,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "auth0": {
-    "version": "4.0.0",
+    "version": "5.0.0",
     "t3_versions": [
-      10,
-      11
+      11,
+      12
     ],
     "description": "This extension allows you to log into a TYPO3 backend or frontend via Auth0. Auth0 is the solution you need for web, mobile, IoT, and internal applications. Loved by developers and trusted by enterprises.",
-    "hash": "sha256-PH/aBTeMH4fS94ICy06yefguSOWTzZ8xGWWgWEwTRUM="
+    "hash": "sha256-7/NcqQpS55+LT4+ko7zrPcf8MPBDW2ewfH7M3E/+XXE="
   },
   "auth_certificate": {
     "version": "0.2.0",
@@ -7825,12 +7825,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "celum_connect_fal": {
-    "version": "2.0.6",
+    "version": "2.0.7",
     "t3_versions": [
       11
     ],
     "description": "Provides a FAL driver for the CELUM DAM.",
-    "hash": "sha256-OlqjA5kpF9BG0nA5uhdvXfMRmfatn0hPnXKHzBOOMqw="
+    "hash": "sha256-7EhITQFPNLmrsPe5Ki7yMXTWz0v5L1Y7xJfiT1rwYJE="
   },
   "cen_csvexport": {
     "version": "1.1.2",
@@ -7987,7 +7987,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cfc_league": {
-    "version": "1.11.2",
+    "version": "1.11.3",
     "t3_versions": [
       8,
       9,
@@ -7996,7 +7996,7 @@
       12
     ],
     "description": "Umfangreiche Extension zur Verwaltung von Sportvereinen und -wettbewerben. Extensive extension to manage sports clubs and competitions. https://github.com/digedag/cfc_league",
-    "hash": "sha256-hBe/tY0GEGCLzU4lZXybt69NRAejhWUUajIBS1CSLN0="
+    "hash": "sha256-psSlxCZnOqBaHyoH39/UUdva3xMLqiwb9lyJLRjVl60="
   },
   "cfc_league_fe": {
     "version": "1.11.1",
@@ -19970,13 +19970,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fluid_fpdf": {
-    "version": "2.4.2",
+    "version": "2.4.3",
     "t3_versions": [
       11,
       12
     ],
     "description": "This extension provides you a complete set of ViewHelpers for dealing with FPDF by using Fluid. You can use the ViewHelpers easily in own Extensions just by defining the fpdf-Namespace. Additionally you are able to use the build in plugin, for displaying predefined PDF. This plugin offers you automatically all available PDFs.",
-    "hash": "sha256-YzSwctn+cNarWp+pa9GYlZ9Y8ka3vCjSLhlyg5F3vYA="
+    "hash": "sha256-R3PfqZeD8hjmMh3BkLwaBX0THcFGXFGNUHijITd8/rc="
   },
   "fluid_info": {
     "version": "0.1.0",
@@ -23369,13 +23369,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "handlebars": {
-    "version": "0.7.22",
+    "version": "0.7.24",
     "t3_versions": [
       10,
       11
     ],
     "description": "A TYPO3 extension that provides an entire rendering environment for Handlebars templates. It is seamlessly integrated into TYPO3 and offers extensive configuration options to get all the power out of your templates.",
-    "hash": "sha256-orPnCQ+mZCAe+ODf+fLI3Rpccf75uZGzgE4HojOAMM8="
+    "hash": "sha256-K77/NRM/ZkQVDdq6zrVeYYvKMUKicjd2u1q/C5u23Zk="
   },
   "handlescript_2checkout": {
     "version": "1.0.0",
@@ -28297,13 +28297,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "jve_upgradewizard": {
-    "version": "12.4.8",
+    "version": "12.4.9",
     "t3_versions": [
       11,
       12
     ],
     "description": "Fixes the ways Typoscript and TSconfig included files have been added in database.",
-    "hash": "sha256-HglaNBg7M+4PG32e0LjZAWnqXlehUBMEuya2orfYvts="
+    "hash": "sha256-Pt+8AaJFj48VoyBEaA2ELCtDQRmULk+gHK96MgTwpKU="
   },
   "jw_extjsdirect": {
     "version": "0.0.7",
@@ -31704,13 +31704,13 @@
     "hash": "sha256-jPv/y4yEofi7SRdacSphQPg9t13QM/BFiBcq1ENg8jY="
   },
   "mail_logger": {
-    "version": "3.0.9",
+    "version": "4.0.0",
     "t3_versions": [
-      10,
-      11
+      11,
+      12
     ],
     "description": "This extension logs all your outgoing mails and provides email templates and debugging tools",
-    "hash": "sha256-8Ek8eFJ5v6nz2v5QljWgnKDuJPwpZI2Z2se+CxX2US0="
+    "hash": "sha256-S0+f0nIvt2Bim0kahmXoCWLrb2yshlaY1BWk9Cty/0E="
   },
   "mail_spool": {
     "version": "1.2.0",
@@ -35643,12 +35643,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mst_contentfallback": {
-    "version": "0.0.9",
+    "version": "0.0.10",
     "t3_versions": [
       11
     ],
     "description": "try to load translated content on fallback rules",
-    "hash": "sha256-fz5yKaJ8sfzU76uqK1ufpjPGnufLC7LLDW1D1R6DY40="
+    "hash": "sha256-jeY6kpYKdO+XO6m9TSm4oeu/qrPqf1VszZV6m5hZ6Ho="
   },
   "mst_reloadtrigger": {
     "version": "0.1.5",
@@ -35673,6 +35673,17 @@
     "t3_versions": [],
     "description": "A nice shoutbox for your frontend. With smiles and possible censorship.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "mt_backend": {
+    "version": "10.1.0",
+    "t3_versions": [
+      8,
+      9,
+      10,
+      11
+    ],
+    "description": "the mtness touchup for TYPO3 Backend, css and other.",
+    "hash": "sha256-syaVdlyNBTUmU4dijTaC3zOBO6zvIa1GsP0WrUcrArM="
   },
   "mt_codepress": {
     "version": "0.0.2",
@@ -39026,6 +39037,16 @@
     "description": "One of the only TYPO3 extension which provides to integrate all the features of Youtube.com like Simple Video, Channel, Playlist and Live-stream to your TYPO3 site. Live-Demo: https://demo.t3planet.com/t3t-extensions/youtube/ You can download PRO version for more-features & free-support at https://t3planet.com/typo3-youtube-extension",
     "hash": "sha256-6jr8dAw21puqbaGVWP6Cc94bCYHhv+IzZIvQ/GGxtUk="
   },
+  "ns_zoho": {
+    "version": "1.0.2",
+    "t3_versions": [
+      10,
+      11,
+      12
+    ],
+    "description": "Easily install and configure your TYPO3 form with zoho CRM. Demo: https://demo.t3planet.com/t3-extensions/typo3-zoho-crm You can download PRO version for more-features & free-support at https://t3planet.com/typo3-zoho-extension",
+    "hash": "sha256-NQ0zhcHXKeR0PUNkrT6LCNH8RdVbhWIr0W2RMiiCoFA="
+  },
   "ns_zoho_crm": {
     "version": "3.0.0",
     "t3_versions": [
@@ -42089,13 +42110,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "personio_jobs": {
-    "version": "0.5.3",
+    "version": "0.5.5",
     "t3_versions": [
       11,
       12
     ],
     "description": "Extension to integrate jobs from Personio Recruiting API",
-    "hash": "sha256-t/A1XqP6bboig7hwTdE6bS57ChSpX/NbYFYeioEBOps="
+    "hash": "sha256-gTA49Dv1haxjYslaSG/4FyS6nTgVVsnT2QznTnKngOE="
   },
   "personnel": {
     "version": "3.8.2",
@@ -46596,7 +46617,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "rn_base": {
-    "version": "1.17.3",
+    "version": "1.17.4",
     "t3_versions": [
       8,
       9,
@@ -46605,7 +46626,7 @@
       12
     ],
     "description": "TYPO3 plugins based on rn_base can use MVC design principles and domain driven development. This extension also provides an abstraction layer for TYPO3 API to support LTS version since 6.2.",
-    "hash": "sha256-zBPcAv3x7k8UdC/CneewGRMMurIjCeYfA1IvLRjopi8="
+    "hash": "sha256-pcNeOdzOSa5KzZ9b46khCjd+EYVHqeRUlxTKZPGgglc="
   },
   "rn_memento": {
     "version": "0.0.1",
@@ -52270,13 +52291,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "solver": {
-    "version": "0.2.6",
+    "version": "0.2.7",
     "t3_versions": [
       11,
       12
     ],
     "description": "Extends TYPO3's exception handling with AI generated solutions. Problems can also be solved from command line. Several OpenAI parameters are configurable and prompts and solution providers can be customized as desired.",
-    "hash": "sha256-HGLqhsv1rDR9klUZj0FMGY2nkMvB+kP5AEp5GNGI9Ak="
+    "hash": "sha256-MXu52UyYTWDiacqGKYXFjTNsVuMlFBF5Pwho56mTQPM="
   },
   "sorp": {
     "version": "0.1.0",
