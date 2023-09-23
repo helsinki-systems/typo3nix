@@ -13048,13 +13048,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "debug_mysql_db": {
-    "version": "1.3.2",
+    "version": "1.4.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Extends \\TYPO3\\CMS\\Core\\Database\\DatabaseConnection and \\TYPO3\\CMS\\Core\\Database\\Connection to show Errors and Debug-Messages. Debugging of sql-queries by debug and FileWriter.",
-    "hash": "sha256-bdhs7NJ+FiTRfar32jtwNhRxrQUZF/wdPRJG+Q7O98I="
+    "hash": "sha256-VCS4vNuvMmD8MrwHhLKcGNnIaJcHjpYL2zC1QccLt2c="
   },
   "debug_settings_task": {
     "version": "2.2.1",
@@ -20319,12 +20319,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "focuspoint": {
-    "version": "6.0.3",
+    "version": "6.0.4",
     "t3_versions": [
       12
     ],
     "description": "Focuspoint integrate the focal point method to crop images in the frontend of the web page. Use the jQuery-focuspoint plugin (https://github.com/jonom/jquery-focuspoint example http://jonom.github.io/jquery-focuspoint/demos/helper/index.html) to crop the images. Use the function as wizard in the file list view and directly in the content element.",
-    "hash": "sha256-Cg+kGxah8vNONbBmoA3pTE78ETL0OFnw5mtdEjemmvg="
+    "hash": "sha256-PtMukWjBaiNn/ANgYDRg4yIq/3R8aGoIKNnWAD/dRdY="
   },
   "folder": {
     "version": "0.0.7",
@@ -25698,17 +25698,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "includekrexx": {
-    "version": "4.1.10",
+    "version": "5.0.0",
     "t3_versions": [
-      7,
-      8,
-      9,
       10,
       11,
       12
     ],
     "description": "Fluid and PHP debugger with backend access to logfiles, code generation to reach the displayed values and much more. We added some special stuff for Aimeos.",
-    "hash": "sha256-2r+kXvwDLDk4qIUlhT49hV5DYeiUTuTVwdxHOHLQ6N0="
+    "hash": "sha256-4uUZe+a9EB5nLtW41cGu81cOimroeM50jKKZbt3tSr8="
   },
   "incore_twitter": {
     "version": "1.2.2",
@@ -32730,13 +32727,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "md_news_author": {
-    "version": "6.0.8",
+    "version": "7.0.0",
     "t3_versions": [
-      10,
-      11
+      11,
+      12
     ],
     "description": "Adds one or more authors to a tx_news record, show a list of all authors and display a detail page of the author containing the attached news entries.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-WX3PQGtWJi3RP9477khjGUaFUXj+AfOATJOOnDZUbQQ="
   },
   "md_news_clickcount": {
     "version": "2.0.1",
@@ -36561,13 +36558,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "myflat": {
-    "version": "1.1.2",
+    "version": "1.1.3",
     "t3_versions": [
       11,
       12
     ],
     "description": "Flat manager, shows bookings of holiday flats in calendars, availability check included.",
-    "hash": "sha256-MNxegodLG6+5/GNdyIrZe+wjASJQLBHiyrgOfmOoOxo="
+    "hash": "sha256-lhMfWRzX9eu7bzwvVYJO+LQw8uJGiXEgHsyxRMhipcI="
   },
   "mygeshi": {
     "version": "1.0.0",
@@ -44210,13 +44207,13 @@
     "hash": "sha256-FA3LCUjeE3wvVw8nhmtJP5wxhAWcLwcxPGk1Wnu1T+A="
   },
   "publish": {
-    "version": "11.0.2",
+    "version": "11.1.0",
     "t3_versions": [
       10,
       11
     ],
     "description": "Frontend editing by frontend users.",
-    "hash": "sha256-DC36s3CeQ5jDIWZl/raGhnU0Cp0ZC4wK/Gkk6d96o4Y="
+    "hash": "sha256-cydvjYCnPgTwhSHJLa5Bit2C6+kCcCv0SovA+oX50c0="
   },
   "publish_content": {
     "version": "0.0.2",
@@ -45718,13 +45715,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "replacer": {
-    "version": "3.0.2",
+    "version": "3.0.3",
     "t3_versions": [
       11,
       12
     ],
     "description": "Replaces string patterns from the page. You can use it to replace URLs for Content Delivery Network (CDN).",
-    "hash": "sha256-tmoo2TDHOpka3yWtnwjBXy6dkFgWsYcbQpH4xjrTJQk="
+    "hash": "sha256-aChnhGyaO8v8HkXefUpA5i7hZkGp7wHfz4NFYn+Gd6E="
   },
   "reqmngmt": {
     "version": "0.0.1",
@@ -49195,12 +49192,12 @@
     "hash": "sha256-YkZKrMTUerUy8yJmBkOYHP9WIEzgaGqMZkNqGeA4VIY="
   },
   "sf_event_mgt": {
-    "version": "7.3.1",
+    "version": "7.3.2",
     "t3_versions": [
       12
     ],
     "description": "Configurable event management and registration extension based on ExtBase and Fluid",
-    "hash": "sha256-ARMwZkhD6QBYX1zthBBRkwTqtDWJNgds7Odr3I5cmyk="
+    "hash": "sha256-49a7hYDvMt/Fhj74WYNjoRjU/moVj2UqH/iACrRd6k4="
   },
   "sf_event_mgt_contentelements": {
     "version": "2.0.1",
