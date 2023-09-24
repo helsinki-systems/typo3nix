@@ -5831,14 +5831,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "bw_captcha": {
-    "version": "3.1.0",
+    "version": "4.0.0",
     "t3_versions": [
-      10,
       11,
       12
     ],
-    "description": "Captcha element for the TYPO3 form component. The captcha generation uses Gregwar/Captcha, no Google or 3rd party includes.",
-    "hash": "sha256-/TkAs5/XH2WpuGa6gvEsgtB7xZYdvy4U6E7uClbqvmQ="
+    "description": "Captcha element with audio support for TYPO3 form components. The captcha generation does not rely on Google or third-party integrations.",
+    "hash": "sha256-/HRPZsdSVBl5BgQ9IGMZICsm5/SmFJtReC3fF1HsvSo="
   },
   "bw_covid_numbers": {
     "version": "1.2.0",
@@ -5893,14 +5892,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "bw_focuspoint_images": {
-    "version": "3.0.4",
+    "version": "4.0.0",
     "t3_versions": [
-      9,
-      10,
-      11
+      12
     ],
     "description": "Image Editor for adding focus points to images",
-    "hash": "sha256-eCO14noia15o3GX7iCADCNMS4udfMp9xc4F9J9KUzbY="
+    "hash": "sha256-3ahWuDt6XEsqtoaamZ6X32py9VvRJUCYCMu/+UoQp88="
   },
   "bw_icons": {
     "version": "2.1.4",
@@ -43371,7 +43368,7 @@
     "hash": "sha256-YNZ0H3gt747N6Loj4vDC0Kyzgsl8ol6xdzkbfK6NZoY="
   },
   "powermail4dev": {
-    "version": "3.3.2",
+    "version": "3.4.1",
     "t3_versions": [
       6,
       7,
@@ -43379,7 +43376,7 @@
       9
     ],
     "description": "Displays all Powermail parameters: GET, POST and session data. Place the plugin before the Powermail plugin. Enter your IP address. Include the static template. That's all.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-IgFchx9TGIPQ2mT67od7vjRGKX1Yuezenn5HyCniMkY="
   },
   "powermail_cond": {
     "version": "9.0.4",
