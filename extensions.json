@@ -13799,6 +13799,15 @@
     "description": "Scheduler task to disable inactive User",
     "hash": "sha256-4yW5NcHu1uM937gj0ZvyD3ulEGJSXMMtXzKAWZBfOG0="
   },
+  "disable_beuser_csv": {
+    "version": "2.0.2",
+    "t3_versions": [
+      11,
+      12
+    ],
+    "description": "EventListener for disable_beuser to add user as Csv to Email",
+    "hash": "sha256-m5GefpgSXbpcVxx++sOYFya9Clr15ZEimrBVQ/8DtAA="
+  },
   "disable_feuser": {
     "version": "1.0.0",
     "t3_versions": [
@@ -35654,13 +35663,13 @@
     "hash": "sha256-FjSWSYwWDeKIzMmZmFVnHuXRd/7y8HGqzhNmRkTa0HA="
   },
   "mst_yaml2tca": {
-    "version": "0.0.10",
+    "version": "0.0.11",
     "t3_versions": [
       11,
       12
     ],
     "description": "Load contentelements from yaml in register in new element wizard",
-    "hash": "sha256-6wrfyGEliAxDF+Boj8OijBK7NAvq/JxRW0Lv5vJJ6fk="
+    "hash": "sha256-iikXws+TFDKz9UOn7ZYHD8Zm4gHEJX9HSetgnwnmHoc="
   },
   "msw_shoutbox": {
     "version": "1.0.0",
@@ -43368,15 +43377,14 @@
     "hash": "sha256-YNZ0H3gt747N6Loj4vDC0Kyzgsl8ol6xdzkbfK6NZoY="
   },
   "powermail4dev": {
-    "version": "3.4.1",
+    "version": "10.0.0",
     "t3_versions": [
-      6,
-      7,
       8,
-      9
+      9,
+      10
     ],
     "description": "Displays all Powermail parameters: GET, POST and session data. Place the plugin before the Powermail plugin. Enter your IP address. Include the static template. That's all.",
-    "hash": "sha256-IgFchx9TGIPQ2mT67od7vjRGKX1Yuezenn5HyCniMkY="
+    "hash": "sha256-pmF02elaEIPa0hT7bj7fWRcPMiuXx70XLwBheXPHgcU="
   },
   "powermail_cond": {
     "version": "9.0.4",
@@ -44204,13 +44212,13 @@
     "hash": "sha256-FA3LCUjeE3wvVw8nhmtJP5wxhAWcLwcxPGk1Wnu1T+A="
   },
   "publish": {
-    "version": "11.1.0",
+    "version": "11.1.1",
     "t3_versions": [
       10,
       11
     ],
     "description": "Frontend editing by frontend users.",
-    "hash": "sha256-cydvjYCnPgTwhSHJLa5Bit2C6+kCcCv0SovA+oX50c0="
+    "hash": "sha256-cEfi/PKubRRv9HCUOSbMybUJIIQDBXn0mFmJOu2334Q="
   },
   "publish_content": {
     "version": "0.0.2",
@@ -55073,6 +55081,16 @@
     "t3_versions": [],
     "description": "Dashboard widget that displays the most recent TYPO3 extensions published/updated at the TER",
     "hash": "sha256-vm6PPTgqNKA3tUd0IpAdtsbo20LQxjXXXmi3TqVMtjg="
+  },
+  "t3ezlogger": {
+    "version": "1.0.0",
+    "t3_versions": [
+      10,
+      11,
+      12
+    ],
+    "description": "Sometimes you just need a little workaround to debug your code",
+    "hash": "sha256-4921qpJaCxKiC+f8kGqhgEI3r9Mmmkxuw0ndYNdOsBI="
   },
   "t3f_rating_tool": {
     "version": "0.1.1",
