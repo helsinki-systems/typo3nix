@@ -594,12 +594,12 @@
     "hash": "sha256-r6cDwpHWGKJAjNF34sWBx8vB0cqWOEIsJcW8U56kAzI="
   },
   "academic_projects": {
-    "version": "0.1.2",
+    "version": "0.1.3",
     "t3_versions": [
       11
     ],
     "description": "Academic project pages for TYPO3 with specific structured data and typed sys_categories",
-    "hash": "sha256-QYtWnjO2x/G3MrU6U8xFrO+EzBOIiLsPFP1pF1piy9Q="
+    "hash": "sha256-9LMtUJ3ALbH0WEj/4nwL/dBKx8gpFcOGMCTx/uS8ALw="
   },
   "academic_studies": {
     "version": "0.1.2",
@@ -6815,13 +6815,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "campus_events_frontend": {
-    "version": "4.0.1",
+    "version": "4.0.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "Frontend plugins for Campus Events",
-    "hash": "sha256-19ly2dsblYPdnuj13Km3S7xTlFrZ0sr/33QHQt7Czyo="
+    "hash": "sha256-MVbzqXaI8BaNhyX6jNueb9GsPotGp2rvGVxPP0Elo4c="
   },
   "canonical": {
     "version": "1.0.0",
@@ -21346,12 +21346,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "frontend_editing": {
-    "version": "4.0.3",
+    "version": "4.0.4",
     "t3_versions": [
       11
     ],
     "description": "Enable editors to work with the content in the most intuitive way possible",
-    "hash": "sha256-YPiNGqVnSlNBlVnbK1VSnJnQtr0uF/3udzUcF9/EA7I="
+    "hash": "sha256-NBZLGZlf9yDfGBJTMiatIIJJBky8m10qc0t5q/CRjmA="
   },
   "frontend_user": {
     "version": "1.1.1",
@@ -35663,13 +35663,13 @@
     "hash": "sha256-FjSWSYwWDeKIzMmZmFVnHuXRd/7y8HGqzhNmRkTa0HA="
   },
   "mst_yaml2tca": {
-    "version": "0.0.11",
+    "version": "0.0.13",
     "t3_versions": [
       11,
       12
     ],
     "description": "Load contentelements from yaml in register in new element wizard",
-    "hash": "sha256-iikXws+TFDKz9UOn7ZYHD8Zm4gHEJX9HSetgnwnmHoc="
+    "hash": "sha256-ksRVNWa/7FD5d08SrcWFCA1e5yUNLtj6lslnn2zAR64="
   },
   "msw_shoutbox": {
     "version": "1.0.0",
@@ -61065,12 +61065,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "uw_a11y_check": {
-    "version": "3.1.2",
+    "version": "4.0.0",
     "t3_versions": [
-      10
+      11
     ],
     "description": "Configurable a11y check for tt_content and extension records",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-GGBtnYxAgr1bR6X2zKDaA7snYJGGhK8C2owCxfHyARc="
   },
   "v4_crm_agent": {
     "version": "1.0.0",
@@ -61916,13 +61916,13 @@
     "hash": "sha256-838MxT9upJDCu9OjSBKqet8JoOLy695DfZPjoJtUSNs="
   },
   "w4_cookiebar": {
-    "version": "1.0.5",
+    "version": "1.0.7",
     "t3_versions": [
       11,
       12
     ],
     "description": "W4 extension to provide a GDPR (DE: \"DSGVO\") cookie banner.",
-    "hash": "sha256-tvA4W4g+jTqq+sU+TPGQ9gJ83K92WcdLJmPUxnJ8FOw="
+    "hash": "sha256-qWCrgkcnWSuh2cLJXTtebT6BS3E7pLwMET55Fcyczbk="
   },
   "w4_ext_geolocator": {
     "version": "0.0.3",
