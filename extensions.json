@@ -1118,13 +1118,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "address_manager": {
-    "version": "3.1.5",
+    "version": "4.0.1",
     "t3_versions": [
-      10,
-      11
+      11,
+      12
     ],
     "description": "Manages and displays address and person records. Comes with three kinds of categories (groups, organisations and positions) with frontend filtering and fulltext search. Includes Google Maps and SEO support. There is also a pro version available. (Personenverzeichnis, Personendatenbank, Mitarbeiterverzeichnis, Filialfinder, Umkreissuche, Standortuebersicht, radial search, radius search)",
-    "hash": "sha256-nJTH6I4n46jkzZ6FBAdj+mygnB2e6UIPXGmIhSmOhz0="
+    "hash": "sha256-UUR6hAatyE5dKyp0CdAV3hMJ+8fchX3gZ9xZ3lWxDB8="
   },
   "addressgroups": {
     "version": "1.4.0",
@@ -5831,13 +5831,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "bw_captcha": {
-    "version": "4.0.0",
+    "version": "4.0.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Captcha element with audio support for TYPO3 form components. The captcha generation does not rely on Google or third-party integrations.",
-    "hash": "sha256-/HRPZsdSVBl5BgQ9IGMZICsm5/SmFJtReC3fF1HsvSo="
+    "hash": "sha256-R5qAbQbtqlvDyZSOOBfgFnXSCY+QyFHLlRzJXf/np94="
   },
   "bw_covid_numbers": {
     "version": "1.2.0",
@@ -7890,13 +7890,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cf_cookiemanager": {
-    "version": "1.3.2",
+    "version": "1.3.3",
     "t3_versions": [
       11,
       12
     ],
     "description": "Unlock the full potential of your Typo3 website with CodingFreaks Typo3 Cookie Manager. Effortlessly manage and customize your website's services, cookies and scripts with our comprehensive extension. Streamline your workflow, enhance user experience, and ensure GDPR compliance with this powerful tool. Take control of your cookie management today and unleash the true potential of your Typo3 installation.",
-    "hash": "sha256-GTcBx9JmqtUX/vvlNuBD8g/ZD5OQ//yyB2e5TRrxJ1I="
+    "hash": "sha256-RhQrxZp5wm72z2ntgR8hDMtcLXMF/+w0hOZA5gJKeU0="
   },
   "cf_google_authenticator": {
     "version": "1.2.4",
@@ -9649,14 +9649,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "container": {
-    "version": "2.2.5",
+    "version": "2.3.0",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Create Custom Container Content Elements for TYPO3",
-    "hash": "sha256-xhTzVtt8UxmfCKKotudf54e2/DooxW7GvI+iJoSNy5k="
+    "hash": "sha256-/FdzJYemTMMPUHwMoGC1B2f4JcIWWdoxw2ab48ZlMv4="
   },
   "container_elements": {
     "version": "5.1.0",
@@ -9713,6 +9713,14 @@
     ],
     "description": "This extension allows you to set nice animations to your content elements if they are scrolled into the browsers viewport. To install it include the static typoscript of content_animations to your template and you're good to go. Have fun! :-)",
     "hash": "sha256-zIEstPFHttAq2bRVbuXskLWhPbkZ++m4mcc7E46IM6s="
+  },
+  "content_blocks": {
+    "version": "0.1.0",
+    "t3_versions": [
+      12
+    ],
+    "description": "TYPO3 CMS Content Blocks - TYPO3 Content Types Manager.",
+    "hash": "sha256-h3RPEcFgIWo7Kliyt0vsvqgjD08JfTCrw1nRSvSoEQU="
   },
   "content_consent": {
     "version": "2.0.1",
@@ -16826,13 +16834,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "er24_rechtstexte": {
-    "version": "2.0.1",
+    "version": "2.0.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "This extension allows the easy integration of imprint and privacy policy of eRecht24.",
-    "hash": "sha256-6RmoyP12Vy9Z7ooyH+ykve6VlFUfCChJC4t4M2L0Wzw="
+    "hash": "sha256-RYelj0BQTUyCEz8fGP+9VZhwbC7psHDVY5sYj1UPqXY="
   },
   "erdal_googlemap": {
     "version": "0.1.2",
@@ -21346,12 +21354,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "frontend_editing": {
-    "version": "4.0.4",
+    "version": "4.0.5",
     "t3_versions": [
       11
     ],
     "description": "Enable editors to work with the content in the most intuitive way possible",
-    "hash": "sha256-NBZLGZlf9yDfGBJTMiatIIJJBky8m10qc0t5q/CRjmA="
+    "hash": "sha256-A1ErLLcY3Uu6opr/E+9hE41Fnuy9EcIdT+ccLVCeFyo="
   },
   "frontend_user": {
     "version": "1.1.1",
@@ -27595,12 +27603,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "jobapplications": {
-    "version": "3.0.1",
+    "version": "3.0.3",
     "t3_versions": [
       12
     ],
     "description": "This extension enables you to manage job postings, provides you with an application form and a backend module to manage incoming applications.",
-    "hash": "sha256-VPh+fPe7suS2gsaZerl40zrp5Mjpv8dwAQAv6aV3+eE="
+    "hash": "sha256-zQu+3C0o48qLGXftFqYxiu9yZRjE2unwx6WlIuXiEjQ="
   },
   "jobcenter": {
     "version": "3.2.1",
@@ -27612,13 +27620,13 @@
     "hash": "sha256-1l2qnR24Uj66g8z4HM++GDYa0K/F5ArBSCIH/9vQruo="
   },
   "jobfair": {
-    "version": "4.0.5",
+    "version": "4.0.7",
     "t3_versions": [
       10,
       11
     ],
     "description": "Simple job market based on Extbase and Fluid. Basically works like dmmjobcontrol. There are list and detail views available. In addition, it is possible to set up an online application system. Furthermore, FE-Users can be enabled to add and edit jobs in the frontend, so to BE-Administration is required. Feeds (Rss091, Rss2, Atom) are also available",
-    "hash": "sha256-nEgl3uBXHhauhgypFcYmSkJbFjxohNix3Zx5fYBkar8="
+    "hash": "sha256-n+OJ/uTqaI4vRc9Ig68/VwRdF10xZXYEm44v9sXXvDE="
   },
   "joboffers_feedit": {
     "version": "0.1.5",
@@ -43401,12 +43409,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "powermail_country": {
-    "version": "10.0.0",
+    "version": "11.0.0",
     "t3_versions": [
-      10
+      10,
+      11
     ],
     "description": "Improve Country selection based on static_info_tables with Powermail",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-vwQ5Ugl1mnmaZv6+JPLAaxPCsrM94V+mfs+OWCYFsd4="
   },
   "powermail_fastexport": {
     "version": "1.0.5",
@@ -43500,13 +43509,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "powermail_voucher": {
-    "version": "1.0.5",
+    "version": "10.0.3",
     "t3_versions": [
-      8,
-      9
+      10
     ],
     "description": "",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-DXTxBoXGmgNbYhRt8E6dooUNwnbuxOD6Bav9cbDhHs0="
   },
   "powermailautocomplete": {
     "version": "2.1.0",
@@ -59777,13 +59785,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "tt_products": {
-    "version": "2.14.18",
+    "version": "2.14.19",
     "t3_versions": [
       10,
       11
     ],
     "description": "Advanced versions at ttproducts.de. Documented in the E-Book \"Der TYPO3-Webshop\" - Shop with listing in multiple languages, with order tracking, product variants, support for transactor extension, bill, creditpoint and voucher system.",
-    "hash": "sha256-5JoDejRRNSSNWY8uWhPZm3WcAEqoTG/8oqaiYR3KRS4="
+    "hash": "sha256-B1MuW2GKSL/diW9Rb9K2dHZioR1rWhC9wDYUZdDwv8o="
   },
   "tt_products_foundby": {
     "version": "0.1.4",
@@ -60161,6 +60169,15 @@
     "t3_versions": [],
     "description": "Turn over the pages of content",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "turnstile": {
+    "version": "1.0.0",
+    "t3_versions": [
+      11,
+      12
+    ],
+    "description": "TYPO3 Extension to add Turnstile to EXT:form",
+    "hash": "sha256-0yIXwBF0vurs+O5JLLzKrzafusIy99H4wb+094yvnBk="
   },
   "tut_directmail_de": {
     "version": "0.0.2",
