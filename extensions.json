@@ -23018,12 +23018,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "groupdelegation": {
-    "version": "4.0.0",
+    "version": "5.0.3",
     "t3_versions": [
-      10
+      12
     ],
     "description": "Allows generating Sub-Admin be_user by groups which can handle access of other be_user by groups",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-BjgQLb+aC78fjT35BO+b0SKyohymO7kzBUeGKjmS7ys="
   },
   "groupdocs_annotation": {
     "version": "1.0.1",
@@ -23568,13 +23568,12 @@
     "hash": "sha256-Tmn0PewhpoSaCORfaOCeI8qwGw4Klr32P6j2L1UlwfU="
   },
   "hh_seo": {
-    "version": "0.7.0",
+    "version": "0.8.0",
     "t3_versions": [
-      11,
       12
     ],
     "description": "Hauer-Heinrich - SEO - Meta-Tag - ViewHelpers",
-    "hash": "sha256-wOrDlw/CNOn6n7UO0tCgZAndi8wCc72F2zf6xp38NBo="
+    "hash": "sha256-wVfnfIB2nKWySItQsMmsYFBXTZ5En9GL1kO8TUsWh/I="
   },
   "hh_slider": {
     "version": "0.4.4",
@@ -25245,14 +25244,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "image_jack": {
-    "version": "0.9.3",
+    "version": "0.9.4",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Jack of all trades concerning image optimization. Also introduces the usage of next-gen-image-formats",
-    "hash": "sha256-/L6h/7GaNNgtkxMGJWPkIO7ykEH1yCm1hQW8M3YjRoQ="
+    "hash": "sha256-je27zB3YjRV/Ju2Oms3WGIjMV/jP0KAOoOgRc9xsIE4="
   },
   "image_slider": {
     "version": "1.0.2",
@@ -27620,13 +27619,13 @@
     "hash": "sha256-1l2qnR24Uj66g8z4HM++GDYa0K/F5ArBSCIH/9vQruo="
   },
   "jobfair": {
-    "version": "4.0.7",
+    "version": "5.0.1",
     "t3_versions": [
-      10,
-      11
+      11,
+      12
     ],
     "description": "Simple job market based on Extbase and Fluid. Basically works like dmmjobcontrol. There are list and detail views available. In addition, it is possible to set up an online application system. Furthermore, FE-Users can be enabled to add and edit jobs in the frontend, so to BE-Administration is required. Feeds (Rss091, Rss2, Atom) are also available",
-    "hash": "sha256-n+OJ/uTqaI4vRc9Ig68/VwRdF10xZXYEm44v9sXXvDE="
+    "hash": "sha256-J9A1fBGAVRNCG9HTJrHEb3jRR2Zy91TgcI7k1WQfXZY="
   },
   "joboffers_feedit": {
     "version": "0.1.5",
@@ -57669,12 +57668,12 @@
     "hash": "sha256-S8u1m0TDtFiTMavCrCo9DhLlpeJOhkG5uQc1R45OeXk="
   },
   "timer": {
-    "version": "12.0.0",
+    "version": "12.1.1",
     "t3_versions": [
-      11
+      12
     ],
     "description": "The extension allow the usage of periodical timer for files, content-elements, pages and own content-elements. It can be extended by own timing-definitions i.e. fullmoontimer. The extension provide a viewhelper and a sheduler for the controllking of timemanagement. It contain a simple modell for event-presentation.",
-    "hash": "sha256-qiIApV6P88bXihdoE8W1cP3/qsZjy4ggopTUvaIjWcQ="
+    "hash": "sha256-Y0z1AWS47LEICmDK3F1Fnnjm2Hb0Yd5ldd0SNVcasHs="
   },
   "timezones": {
     "version": "3.1.0",
@@ -61739,13 +61738,13 @@
     "hash": "sha256-jWR/gqSKGzy0yv3fdtX0Dp3GycnE25dhtg/sCI8t/hI="
   },
   "vite_asset_collector": {
-    "version": "1.3.0",
+    "version": "1.4.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Bundle your TYPO3 frontend assets with Vite",
-    "hash": "sha256-lNRMij4RWQizPxdiLLmtoWHeF7Bs3dOf2h/6hiyksmM="
+    "hash": "sha256-RqmOQUpDOko2CP0Os6nzVxRKdAkdPth6VSP3NyVpp7o="
   },
   "vjchat": {
     "version": "0.3.4",
@@ -62112,12 +62111,12 @@
     "hash": "sha256-iiWYdagbP9r7uhKQF1GyUIsJ4mB4o9kg8JZ7Y2b6Qwo="
   },
   "warming": {
-    "version": "1.1.1",
+    "version": "1.1.2",
     "t3_versions": [
       12
     ],
     "description": "Warms up Frontend caches based on an XML sitemap. Cache warmup can be triggered via TYPO3 backend or using a console command. Supports multiple languages and custom crawler implementations.",
-    "hash": "sha256-ZnwxpNmt20OKs3qivqIZ0XrDTVbelmM30uiVquJm/q4="
+    "hash": "sha256-GuzsACnzY9SqY2HQ/O9+q63bmmxhVw5sM3uhe3hlC7g="
   },
   "warmup": {
     "version": "1.3.1",
