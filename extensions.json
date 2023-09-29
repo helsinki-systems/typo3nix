@@ -1925,12 +1925,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "allinoneaccessibility": {
-    "version": "2.0.3",
+    "version": "2.0.4",
     "t3_versions": [
       12
     ],
     "description": "All in One Accessibility widget improves Typo3 website ADA compliance and browser experience for ADA, WCAG 2.1, Section 508, Australian DDA, European EAA EN 301 549, UK Equality Act (EA), Israeli Standard 5568, California Unruh, Ontario AODA, Canada ACA, German BITV, and France RGAA standards.",
-    "hash": "sha256-QgG9saBv2PWqelG/tAK2wwo/DtUvhR/mV5DE6e4hQtk="
+    "hash": "sha256-1zNnDNs3pdhRiTJfqKMSUz8lQdje6vZLPtUh/VrAEe0="
   },
   "allnews": {
     "version": "0.2.6",
@@ -9715,12 +9715,12 @@
     "hash": "sha256-zIEstPFHttAq2bRVbuXskLWhPbkZ++m4mcc7E46IM6s="
   },
   "content_blocks": {
-    "version": "0.1.0",
+    "version": "0.1.2",
     "t3_versions": [
       12
     ],
     "description": "TYPO3 CMS Content Blocks - TYPO3 Content Types Manager.",
-    "hash": "sha256-h3RPEcFgIWo7Kliyt0vsvqgjD08JfTCrw1nRSvSoEQU="
+    "hash": "sha256-LkIG+XVpS5RohEb/wBoXqYP/JxOO9KMRES8AK41FIuE="
   },
   "content_consent": {
     "version": "2.0.1",
@@ -21354,12 +21354,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "frontend_editing": {
-    "version": "4.0.5",
+    "version": "4.0.6",
     "t3_versions": [
       11
     ],
     "description": "Enable editors to work with the content in the most intuitive way possible",
-    "hash": "sha256-A1ErLLcY3Uu6opr/E+9hE41Fnuy9EcIdT+ccLVCeFyo="
+    "hash": "sha256-fjm6YOlS3pmfLI1Y1X9jzGw/6j/7IoV6dq84BSc5yWM="
   },
   "frontend_user": {
     "version": "1.1.1",
@@ -27619,13 +27619,13 @@
     "hash": "sha256-1l2qnR24Uj66g8z4HM++GDYa0K/F5ArBSCIH/9vQruo="
   },
   "jobfair": {
-    "version": "5.0.1",
+    "version": "5.0.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "Simple job market based on Extbase and Fluid. Basically works like dmmjobcontrol. There are list and detail views available. In addition, it is possible to set up an online application system. Furthermore, FE-Users can be enabled to add and edit jobs in the frontend, so to BE-Administration is required. Feeds (Rss091, Rss2, Atom) are also available",
-    "hash": "sha256-J9A1fBGAVRNCG9HTJrHEb3jRR2Zy91TgcI7k1WQfXZY="
+    "hash": "sha256-mV1vnCh7q4/FsZt3slo1FsT+E9TCQOld9PXOvlaf3Kg="
   },
   "joboffers_feedit": {
     "version": "0.1.5",
@@ -31292,22 +31292,22 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "lux": {
-    "version": "34.0.1",
+    "version": "34.0.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "Living User Experience - LUX - the Marketing Automation tool for TYPO3.",
-    "hash": "sha256-yxST7jYREfE96H2Nh5y1X9L7RkrLKSESeov9ePm4/A8="
+    "hash": "sha256-wJjGMezWXBafUMSiHPLtz0yo/gOEyjXdpo1Q5PWDXDo="
   },
   "luxletter": {
-    "version": "24.0.0",
+    "version": "24.0.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Free newsletter extension for TYPO3 for an individual email marketing. A lot of analytics and modern concepts. Works with and without EXT:lux.",
-    "hash": "sha256-FcaFhvQOQsUB5uPe3KnERY09pkySOQ3uWzhRD3wnvOM="
+    "hash": "sha256-U4a0ETZbaVwOKa/EbzaAEryPAt5ORmjXtvalqQM/8Rg="
   },
   "lvcleantemp": {
     "version": "1.0.4",
@@ -41229,6 +41229,15 @@
     ],
     "description": "Frontend Plugin for the extension partner. Enables you to display partner data on your website. The plugin also includes a limited version for frontend-editing.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "partner_rating": {
+    "version": "1.0.0",
+    "t3_versions": [
+      11,
+      12
+    ],
+    "description": "Extbase/Fluid extension that allows departments to rate collaboration partners via a front-end form. The rating is based on school grades. Grades greater than 4 must be justified. This is possible either by predefined reasons or a free text input.",
+    "hash": "sha256-KyFLM6EaLcJlICtd7joJWsmRmSqxgJFw1vPgDUhVPNc="
   },
   "party": {
     "version": "0.2.1",
@@ -53720,13 +53729,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "staticfilecache": {
-    "version": "12.4.5",
+    "version": "13.1.3",
     "t3_versions": [
-      10,
-      11
+      11,
+      12
     ],
     "description": "Transparent static file cache solution using mod_rewrite and mod_expires. Increase performance for static pages by a factor of 230!!",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-coQxnjGZ0esnz3jeNdSY07wYdjWb6vqgGAMhaWZirgQ="
   },
   "staticpathrouteresolver": {
     "version": "1.3.0",
