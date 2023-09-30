@@ -18153,14 +18153,15 @@
     "hash": "sha256-9B02/KjoT0F9xqFWua7mFEhmwx6dipDBqHBE0HtOj18="
   },
   "fal_sftp": {
-    "version": "4.2.0",
+    "version": "4.3.0",
     "t3_versions": [
       9,
       10,
-      11
+      11,
+      12
     ],
     "description": "Adds a Driver to your TYPO3 that lets you create and connect to a file storage accessible via SFTP",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-yy0PU/48X7UAtoGQJXOK8LU9t6FRM4rBkLWwOGohCF8="
   },
   "fal_ttnews": {
     "version": "0.0.1",
@@ -41231,13 +41232,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "partner_rating": {
-    "version": "1.0.0",
+    "version": "1.2.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Extbase/Fluid extension that allows departments to rate collaboration partners via a front-end form. The rating is based on school grades. Grades greater than 4 must be justified. This is possible either by predefined reasons or a free text input.",
-    "hash": "sha256-KyFLM6EaLcJlICtd7joJWsmRmSqxgJFw1vPgDUhVPNc="
+    "hash": "sha256-4euaEjG7JvuG9MCzs+k4y6Qxn+PY5vr9FjKwGN8xRRs="
   },
   "party": {
     "version": "0.2.1",
