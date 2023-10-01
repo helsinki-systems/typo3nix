@@ -5146,12 +5146,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "bootstrap_grids": {
-    "version": "2.2.0",
+    "version": "3.0.0",
     "t3_versions": [
-      10
+      10,
+      11
     ],
-    "description": "Gridelements for bootstrap v4. Column grids, tabs and accordion.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "description": "Gridelements for bootstrap v5. Column grids, tabs and accordion.",
+    "hash": "sha256-/sbBrqv2cLJORtxsyRlrMziUPwH/hxGE+UHNpKbjqxI="
   },
   "bootstrap_links": {
     "version": "0.6.0",
@@ -5831,13 +5832,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "bw_captcha": {
-    "version": "4.0.1",
+    "version": "4.0.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "Captcha element with audio support for TYPO3 form components. The captcha generation does not rely on Google or third-party integrations.",
-    "hash": "sha256-R5qAbQbtqlvDyZSOOBfgFnXSCY+QyFHLlRzJXf/np94="
+    "hash": "sha256-jS1XsqFopa9iFzGXTC0ShWd1q2UD3+zGJvtmYvFTMRs="
   },
   "bw_covid_numbers": {
     "version": "1.2.0",
@@ -12794,12 +12795,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "dce": {
-    "version": "3.0.2",
+    "version": "3.1.0",
     "t3_versions": [
       12
     ],
     "description": "Best flexform based content elements since 2012. With TCA mapping feature, simple backend view and much more features which makes it super easy to create own content element types.",
-    "hash": "sha256-eLOjQ4LUl1zUpnYDbrvkzQrXLdyCVmak5ILBOhzCNbg="
+    "hash": "sha256-9bKbwELbRyLemvEj4pVPMgaltDYFCejSRGQHMjCj5LE="
   },
   "dcformcreator": {
     "version": "0.0.3",
@@ -43454,12 +43455,12 @@
     "hash": "sha256-Q06KDDhk5rbeYaX09KwVBnonhBfUIUl7GbCsUaEYnmA="
   },
   "powermail_limits": {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "t3_versions": [
       11
     ],
     "description": "Addition to EXT:powermail which allows limits for form submissions",
-    "hash": "sha256-tTNIJCJOZKOVCEZwbu/SGHT8Ox9p/p5u0BsY9n+cSH8="
+    "hash": "sha256-sXnuI3SO1SXRmEK1xkQPzTSV2Al7O1yHV0HVQ58VEGk="
   },
   "powermail_mul": {
     "version": "1.0.3",
@@ -47142,12 +47143,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "rt_pages_tree_icons": {
-    "version": "5.0.0",
+    "version": "6.0.0",
     "t3_versions": [
-      11
+      11,
+      12
     ],
-    "description": "TYPO3 Page TreeView SVG icons changer.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "description": "TYPO3 Pages TreeView SVG icons switcher.",
+    "hash": "sha256-LwkZnve8ahTQ0x7BEed8hL7TvSAuIqlT4Rw7qyraHfU="
   },
   "rt_pageteaser": {
     "version": "1.7.2",
@@ -57678,12 +57680,12 @@
     "hash": "sha256-S8u1m0TDtFiTMavCrCo9DhLlpeJOhkG5uQc1R45OeXk="
   },
   "timer": {
-    "version": "12.1.1",
+    "version": "12.2.1",
     "t3_versions": [
       12
     ],
     "description": "The extension allow the usage of periodical timer for files, content-elements, pages and own content-elements. It can be extended by own timing-definitions i.e. fullmoontimer. The extension provide a viewhelper and a sheduler for the controllking of timemanagement. It contain a simple modell for event-presentation.",
-    "hash": "sha256-Y0z1AWS47LEICmDK3F1Fnnjm2Hb0Yd5ldd0SNVcasHs="
+    "hash": "sha256-vNjhsRFH1VmNbxQJ8eIUmNR+3nXJRnO7Mnb689Gefuc="
   },
   "timezones": {
     "version": "3.1.0",
