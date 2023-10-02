@@ -7891,13 +7891,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cf_cookiemanager": {
-    "version": "1.3.3",
+    "version": "1.3.4",
     "t3_versions": [
       11,
       12
     ],
     "description": "Unlock the full potential of your Typo3 website with CodingFreaks Typo3 Cookie Manager. Effortlessly manage and customize your website's services, cookies and scripts with our comprehensive extension. Streamline your workflow, enhance user experience, and ensure GDPR compliance with this powerful tool. Take control of your cookie management today and unleash the true potential of your Typo3 installation.",
-    "hash": "sha256-RhQrxZp5wm72z2ntgR8hDMtcLXMF/+w0hOZA5gJKeU0="
+    "hash": "sha256-0mQiqYxwjUQpMl6gLEhQrkP0cs4kAJrfix9EROzMiFU="
   },
   "cf_google_authenticator": {
     "version": "1.2.4",
@@ -18848,13 +18848,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "felogin_bruteforce_protection": {
-    "version": "10.0.9",
+    "version": "10.0.11",
     "t3_versions": [
       10,
       11
     ],
     "description": "Protects TYPO3 frontend authentication (e.g. fe_login) against brute force attacks.",
-    "hash": "sha256-+D4Sr7BM16qFi6M9DvZxgw93HIh829AVWc4pVetbkeQ="
+    "hash": "sha256-YKY5jRZJmzgaBigwh2TYcYDcCLxeX057Rh4MkE7fL4w="
   },
   "felogin_redirect2current": {
     "version": "0.2.0",
@@ -23385,13 +23385,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "handlebars": {
-    "version": "0.7.24",
+    "version": "0.7.25",
     "t3_versions": [
       10,
       11
     ],
     "description": "A TYPO3 extension that provides an entire rendering environment for Handlebars templates. It is seamlessly integrated into TYPO3 and offers extensive configuration options to get all the power out of your templates.",
-    "hash": "sha256-K77/NRM/ZkQVDdq6zrVeYYvKMUKicjd2u1q/C5u23Zk="
+    "hash": "sha256-lrtYjZ5c43RrgTf2H7QMXjga44VuYhItjcN8j4LmHus="
   },
   "handlescript_2checkout": {
     "version": "1.0.0",
@@ -25582,6 +25582,14 @@
     ],
     "description": "This contains functions to import into the tt_products tables",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "importmap": {
+    "version": "0.1.0",
+    "t3_versions": [
+      12
+    ],
+    "description": "Easily import your JavaScript ES modules without the need of a build system like Webpack",
+    "hash": "sha256-KPHEW4yOzWHFN+u5KgDoZH8FDIWuSpIbQ+UvhL57f4w="
   },
   "importr": {
     "version": "5.0.0",
@@ -31004,12 +31012,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "logs": {
-    "version": "4.0.1",
+    "version": "5.0.0",
     "t3_versions": [
-      11
+      12
     ],
     "description": "Log Reader with a backend module and API to read, filter and delete logs from the TYPO3 Logging API",
-    "hash": "sha256-/Tr114ZxIR/VGzlHQdJ9RxczTjmXnrWyUcTNw1vk8ec="
+    "hash": "sha256-vaz0VX+HGkCuFUxa9HPgD2Qb/Dw2xRWHmQY3J1A/WOY="
   },
   "loki": {
     "version": "1.1.0",
@@ -34012,12 +34020,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "min": {
-    "version": "3.0.0",
+    "version": "3.0.1",
     "t3_versions": [
       12
     ],
     "description": "Extends TYPO3's compressor for JS and CSS with minifier. This may save you up to 70% of default compressed file size. Also compresses HTML output of TYPO3. Full composer support.",
-    "hash": "sha256-+/WMoox1obovT8OidhYEYdMDtD0Ux2/NI1gjTtwI1XI="
+    "hash": "sha256-oyORy4egB+q17CJLYSig6AytMKfve1z29cugFIh5QCw="
   },
   "mindmap_import": {
     "version": "0.0.2",
@@ -38628,6 +38636,14 @@
     "description": "Sync CMS content",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "nr_textdb": {
+    "version": "1.0.0",
+    "t3_versions": [
+      11
+    ],
+    "description": "Allows you to edit the translations in the back end",
+    "hash": "sha256-oevUHYBYnEnCyZJQ8iZPusuhpo5IPKayTVJcaT2igSM="
+  },
   "ns_all_chat": {
     "version": "12.0.0",
     "t3_versions": [
@@ -41233,13 +41249,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "partner_rating": {
-    "version": "1.2.1",
+    "version": "1.2.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "Extbase/Fluid extension that allows departments to rate collaboration partners via a front-end form. The rating is based on school grades. Grades greater than 4 must be justified. This is possible either by predefined reasons or a free text input.",
-    "hash": "sha256-4euaEjG7JvuG9MCzs+k4y6Qxn+PY5vr9FjKwGN8xRRs="
+    "hash": "sha256-WGM/oIX8C0yN5pgw/meY07FvvlgawBYjl+ENApe6IzE="
   },
   "party": {
     "version": "0.2.1",
@@ -42131,13 +42147,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "personio_jobs": {
-    "version": "0.5.5",
+    "version": "0.5.6",
     "t3_versions": [
       11,
       12
     ],
     "description": "Extension to integrate jobs from Personio Recruiting API",
-    "hash": "sha256-gTA49Dv1haxjYslaSG/4FyS6nTgVVsnT2QznTnKngOE="
+    "hash": "sha256-eRsh63D/0VQg7Y3iMgzoHxQ5cvAOQutSIFJcM2WoIWU="
   },
   "personnel": {
     "version": "3.8.2",
@@ -48673,12 +48689,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "scroll": {
-    "version": "2.0.1",
+    "version": "2.0.2",
     "t3_versions": [
       12
     ],
     "description": "Prevents scroll jumps in TYPO3 CMS backend.",
-    "hash": "sha256-azCBUw9k3FVI+oxgPDwaRdRF5JmRWI9fxwY9wNcZHL4="
+    "hash": "sha256-qW/z7vA2QNjLYRh5dKnyH0yoXyZFS2P8fUyjhuxvHz8="
   },
   "scroll2anchor_jquery": {
     "version": "1.0.3",
@@ -53693,12 +53709,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "static_info_tables_ua": {
-    "version": "11.5.0",
+    "version": "11.5.2",
     "t3_versions": [
       11
     ],
     "description": "(Ukrainian) language pack for the Static Info Tables providing localized names for countries, currencies and so on.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-t7zFUWz0EQaHemyo1Z1yZl/1P+1sr4XwRfgmRUfyi3g="
   },
   "static_info_tables_uk": {
     "version": "7.0.0",
@@ -55079,12 +55095,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "t3extblog": {
-    "version": "7.1.0",
+    "version": "7.2.0",
     "t3_versions": [
       11
     ],
     "description": "A record based blog extension for TYPO3 CMS. Easy to use and packed with features (incl.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-aDKMXDeaWT53Z3zcIkTyqkl9KGiLud8Mok+ugJqt148="
   },
   "t3extension_tools": {
     "version": "1.0.1",
