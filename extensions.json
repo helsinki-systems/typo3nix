@@ -1078,13 +1078,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "additional_tca": {
-    "version": "1.14.8",
+    "version": "1.14.9",
     "t3_versions": [
       11,
       12
     ],
     "description": "Additional TCA fields and tools",
-    "hash": "sha256-Ah/dT5ibcWYbneecXP1U/CB07yyH7VrJv5VRvNSxWn8="
+    "hash": "sha256-jVRoWMKiyqfK9qTLrw1V5k2atqeYfiqXVBfpyNTpd34="
   },
   "addlinkheader": {
     "version": "0.0.4",
@@ -6876,6 +6876,15 @@
     ],
     "description": "captcha view helper based on extbase and flud",
     "hash": "sha256-AEwPe0C2X7AgxeliXJ++FvZZ1/4Br/LOLeTwB4Ty00Q="
+  },
+  "captchaeu_typo3": {
+    "version": "1.0.0",
+    "t3_versions": [
+      11,
+      12
+    ],
+    "description": "Captcha.eu - The intelligent GDPR-compliant Captcha solution without interrupting puzzles or riddles",
+    "hash": "sha256-DoX4VRQIhaHySXoJzfaBqzg3y17tlQeSWnG3EfUZcoI="
   },
   "car": {
     "version": "0.1.2",
@@ -21356,12 +21365,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "frontend_editing": {
-    "version": "4.0.6",
+    "version": "4.0.7",
     "t3_versions": [
       11
     ],
     "description": "Enable editors to work with the content in the most intuitive way possible",
-    "hash": "sha256-fjm6YOlS3pmfLI1Y1X9jzGw/6j/7IoV6dq84BSc5yWM="
+    "hash": "sha256-pTxebOT3OhuVBDtNjVnf9FqYsEy0p92A9+4NkNWIryQ="
   },
   "frontend_user": {
     "version": "1.1.1",
@@ -34980,13 +34989,13 @@
     "hash": "sha256-QsqXRZxkvXzC0H/uAcXLLO2Ppw/h7HCRGVgFzUelPDI="
   },
   "modules": {
-    "version": "6.0.1",
+    "version": "6.1.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Modules - Little helper for creating frontend and backend modules in TYPO3",
-    "hash": "sha256-mZSrgkGQBd4mQ2huesTxiheE2k9GrLKS4IUgrvkz1QY="
+    "hash": "sha256-GcxLD4TykyCrGXNQFRBoVGFLtY0d56spGsqHd9a9oJc="
   },
   "modulis_animated_gif": {
     "version": "0.0.4",
@@ -44823,13 +44832,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "questions": {
-    "version": "4.0.1",
+    "version": "4.0.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "Questions is a frequently asked questions (FAQ) extension for TYPO3. It's compatible with following extensions: shop, ",
-    "hash": "sha256-2E3zHGw8aToLCHmNrfAfdlZuWoWrN3ahB9JFb8xjyoU="
+    "hash": "sha256-XCCPHOCzINo2a5taSYt7riIgWh1EjEAkqQRFk7YdkGk="
   },
   "quick_shop": {
     "version": "10.0.12",
