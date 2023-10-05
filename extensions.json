@@ -1078,13 +1078,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "additional_tca": {
-    "version": "1.14.9",
+    "version": "1.14.10",
     "t3_versions": [
       11,
       12
     ],
     "description": "Additional TCA fields and tools",
-    "hash": "sha256-jVRoWMKiyqfK9qTLrw1V5k2atqeYfiqXVBfpyNTpd34="
+    "hash": "sha256-Bzqcc/XSGaUQaCCJGF5TPipY7vr8tIbvefrgy5efrJ0="
   },
   "addlinkheader": {
     "version": "0.0.4",
@@ -31329,13 +31329,13 @@
     "hash": "sha256-wJjGMezWXBafUMSiHPLtz0yo/gOEyjXdpo1Q5PWDXDo="
   },
   "luxletter": {
-    "version": "24.0.1",
+    "version": "24.0.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "Free newsletter extension for TYPO3 for an individual email marketing. A lot of analytics and modern concepts. Works with and without EXT:lux.",
-    "hash": "sha256-U4a0ETZbaVwOKa/EbzaAEryPAt5ORmjXtvalqQM/8Rg="
+    "hash": "sha256-bd8/uSe8oa/tIpu5NwgBbGwwzzoEeIn7EDhX6pj3Yag="
   },
   "lvcleantemp": {
     "version": "1.0.4",
@@ -35698,13 +35698,13 @@
     "hash": "sha256-FjSWSYwWDeKIzMmZmFVnHuXRd/7y8HGqzhNmRkTa0HA="
   },
   "mst_yaml2tca": {
-    "version": "0.0.13",
+    "version": "0.0.15",
     "t3_versions": [
       11,
       12
     ],
     "description": "Load contentelements from yaml in register in new element wizard",
-    "hash": "sha256-ksRVNWa/7FD5d08SrcWFCA1e5yUNLtj6lslnn2zAR64="
+    "hash": "sha256-WJb/KecSZVwQu4HvxkK/xxuTWDp9bJyWZzM9xmGatMA="
   },
   "msw_shoutbox": {
     "version": "1.0.0",
@@ -39143,13 +39143,15 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "numbered_pagination": {
-    "version": "1.0.2",
+    "version": "2.0.0",
     "t3_versions": [
+      9,
       10,
-      11
+      11,
+      12
     ],
     "description": "Improved pagination for TYPO3 10+",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-KTPXVRN2g/AnDaMipwrfp1E29nbW3FGWJMKzXJLCcqk="
   },
   "nuxos_randompassword": {
     "version": "1.0.2",
@@ -43270,13 +43272,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "poll": {
-    "version": "4.0.7",
+    "version": "4.0.8",
     "t3_versions": [
       11,
       12
     ],
     "description": "Create polls/surveys/Umfragen in TYPO3. Multiple question types and answer layouts. There is also a PRO version available which adds custom user answers and more. (Umfrage, Poll, Opinion, Vote, SimplePoll)",
-    "hash": "sha256-5Hr5tDGLDn7m9IycLa1Qf9j0O4lFLBY7Gw4mlhZeonc="
+    "hash": "sha256-U90mDwtRo6eAbEtLXl7Hki6gj71H1X+lKZZy7Q0h78Y="
   },
   "polyglot": {
     "version": "1.0.0",
@@ -43348,13 +43350,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "portfolios": {
-    "version": "4.0.0",
+    "version": "4.1.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Extension for displaying portfolios and references",
-    "hash": "sha256-OWjqroGvlxLpxVQi58E0K4ERDyHdVboQiBuvcLszNus="
+    "hash": "sha256-apkLSWGZ8LlKBflDFSJZq50KcsAW8RLpMqNAsYp73Bs="
   },
   "porto": {
     "version": "0.9.3",
@@ -44841,13 +44843,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "questions": {
-    "version": "4.0.2",
+    "version": "4.0.3",
     "t3_versions": [
       11,
       12
     ],
     "description": "Questions is a frequently asked questions (FAQ) extension for TYPO3. It's compatible with following extensions: shop, ",
-    "hash": "sha256-XCCPHOCzINo2a5taSYt7riIgWh1EjEAkqQRFk7YdkGk="
+    "hash": "sha256-CbHog5C81cOO5cyNDA9Fmt9frEvWBB9Ju45ppN1q5+w="
   },
   "quick_shop": {
     "version": "10.0.12",
@@ -47177,13 +47179,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "rt_pages_tree_icons": {
-    "version": "6.0.0",
+    "version": "6.0.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "TYPO3 Pages TreeView SVG icons switcher.",
-    "hash": "sha256-LwkZnve8ahTQ0x7BEed8hL7TvSAuIqlT4Rw7qyraHfU="
+    "hash": "sha256-plrv1gN3M6/L99RaBnJE6B25jPeABqIonwJ/0CIPDZA="
   },
   "rt_pageteaser": {
     "version": "1.7.2",
@@ -53675,12 +53677,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "static_info_tables_sk": {
-    "version": "11.5.0",
+    "version": "11.5.1",
     "t3_versions": [
       11
     ],
     "description": "(sk) language pack for the Static Info Tables providing localized names for countries, currencies and so on.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-BCxNFEl0ecyeKsKmmoQIfzilKcLicH37UKjsy3SbG7Y="
   },
   "static_info_tables_sr": {
     "version": "7.0.0",
@@ -57714,12 +57716,12 @@
     "hash": "sha256-S8u1m0TDtFiTMavCrCo9DhLlpeJOhkG5uQc1R45OeXk="
   },
   "timer": {
-    "version": "12.2.1",
+    "version": "12.3.0",
     "t3_versions": [
       12
     ],
     "description": "The extension allow the usage of periodical timer for files, content-elements, pages and own content-elements. It can be extended by own timing-definitions i.e. fullmoontimer. The extension provide a viewhelper and a sheduler for the controllking of timemanagement. It contain a simple modell for event-presentation.",
-    "hash": "sha256-vNjhsRFH1VmNbxQJ8eIUmNR+3nXJRnO7Mnb689Gefuc="
+    "hash": "sha256-79PWH8okSZzLtFx4HaICaSA5OEGiv6NVXugNfhX3vwo="
   },
   "timezones": {
     "version": "3.1.0",
@@ -61784,13 +61786,13 @@
     "hash": "sha256-jWR/gqSKGzy0yv3fdtX0Dp3GycnE25dhtg/sCI8t/hI="
   },
   "vite_asset_collector": {
-    "version": "1.4.0",
+    "version": "1.5.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Bundle your TYPO3 frontend assets with Vite",
-    "hash": "sha256-RqmOQUpDOko2CP0Os6nzVxRKdAkdPth6VSP3NyVpp7o="
+    "hash": "sha256-guK/gll0Aa/7/D+wuAkmVo9prUgTvWcW3ZTvbwlP3EA="
   },
   "vjchat": {
     "version": "0.3.4",
