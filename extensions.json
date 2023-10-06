@@ -61763,14 +61763,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "visitor_analytics": {
-    "version": "1.0.8",
+    "version": "1.0.9",
     "t3_versions": [
       7,
       8,
       9
     ],
     "description": "The Website Intelligence Platform. ",
-    "hash": "sha256-VzkpbebJ0IgXBHm5Pq0hnKRVLqYCVDeK6LmpdquWUHs="
+    "hash": "sha256-W6TEhwdGiM8ZgZ+LzgBHYQHVniUDR+2jpxmHHT7mfaM="
   },
   "visitorlist": {
     "version": "0.2.0",
@@ -64199,13 +64199,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "xblog": {
-    "version": "11.1.11",
+    "version": "11.1.14",
     "t3_versions": [
       10,
       11
     ],
     "description": "Quickly assemble a TYPO3 frontend! Publish the data from the tables pages, tt_content and from any other database! No need to set up typoscript.",
-    "hash": "sha256-7InD2WaM3puuMa0zRSMJhgTuPw0wmTx9ujRlqCaeCKk="
+    "hash": "sha256-jDNuwgDxzzUAYMiCSK+12B8HtHqS9vba6FLQGNjv4WA="
   },
   "xdbmysql": {
     "version": "3.0.18",
