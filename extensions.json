@@ -12813,12 +12813,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "dce": {
-    "version": "3.1.0",
+    "version": "3.1.1",
     "t3_versions": [
       12
     ],
     "description": "Best flexform based content elements since 2012. With TCA mapping feature, simple backend view and much more features which makes it super easy to create own content element types.",
-    "hash": "sha256-9bKbwELbRyLemvEj4pVPMgaltDYFCejSRGQHMjCj5LE="
+    "hash": "sha256-PPbmCofltlVJSAUtl48+4EhOAHxM9j6x7UU+6riTsCQ="
   },
   "dcformcreator": {
     "version": "0.0.3",
@@ -37940,12 +37940,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "newsslider": {
-    "version": "6.0.0",
+    "version": "6.0.1",
     "t3_versions": [
       12
     ],
     "description": "Slider Template-Layout for versatile news extension (tx_news).",
-    "hash": "sha256-iD9jAi+rq4UU0OlntNFmij+iMuJyobxEFLSzMmY+5ls="
+    "hash": "sha256-iuwtcMlSZTq4RbmiMlt+NiK26Zv9Vy251CVMFYV21VA="
   },
   "newsstylist": {
     "version": "2.0.5",
@@ -40916,20 +40916,20 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "pagedoctor": {
-    "version": "0.5.0",
+    "version": "0.6.1",
     "t3_versions": [
       12
     ],
     "description": "Rapidly build and deploy content elements for TYPO3 CMS without one line of code.",
-    "hash": "sha256-jmCVqQlf+4H3d9yRRoG+j3tP6bPSmV40riKsrNXgXrk="
+    "hash": "sha256-NHBqNKRUyL2h/oroaKqz5yIR3cYNlXvzhZvp1qo1/d4="
   },
   "pagedoctor_starter": {
-    "version": "0.5.3",
+    "version": "0.5.4",
     "t3_versions": [
       12
     ],
     "description": "Starter extension to get started with Pagedoctor in no time.",
-    "hash": "sha256-1r5dC8djl8deGoatL99OY4oZBl1VqQsb3eUY0DtnZ7A="
+    "hash": "sha256-j6ZQZhrkMSN2zMgpG9qDdfsO63aUs0kHzwO85hpECNs="
   },
   "pageflexform": {
     "version": "0.0.2",
@@ -57716,12 +57716,12 @@
     "hash": "sha256-S8u1m0TDtFiTMavCrCo9DhLlpeJOhkG5uQc1R45OeXk="
   },
   "timer": {
-    "version": "12.3.0",
+    "version": "12.3.1",
     "t3_versions": [
       12
     ],
     "description": "The extension allow the usage of periodical timer for files, content-elements, pages and own content-elements. It can be extended by own timing-definitions i.e. fullmoontimer. The extension provide a viewhelper and a sheduler for the controllking of timemanagement. It contain a simple modell for event-presentation.",
-    "hash": "sha256-79PWH8okSZzLtFx4HaICaSA5OEGiv6NVXugNfhX3vwo="
+    "hash": "sha256-qrcrD249qC71K6tXYSP3UNczVhTV/ZCgd06FioLRNfY="
   },
   "timezones": {
     "version": "3.1.0",
