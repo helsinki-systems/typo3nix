@@ -39680,13 +39680,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ods_osm": {
-    "version": "4.1.2",
+    "version": "4.2.0",
     "t3_versions": [
-      10,
-      11
+      11,
+      12
     ],
     "description": "Add an interactive OpenStreetMap map to your website. Can also show other OpenLayers compatible maps.",
-    "hash": "sha256-68JIjkqJcVGUMug+3cNBF6ac3buM8ytopRQYrNegwos="
+    "hash": "sha256-/piTtE9wRV61bwtsn7FXjGkuKDPrAwrmVlR91mECAAw="
   },
   "ods_osm_cal": {
     "version": "1.0.0",
