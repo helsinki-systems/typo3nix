@@ -1925,12 +1925,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "allinoneaccessibility": {
-    "version": "2.0.4",
+    "version": "2.0.5",
     "t3_versions": [
       12
     ],
     "description": "All in One Accessibility widget improves Typo3 website ADA compliance and browser experience for ADA, WCAG 2.1, Section 508, Australian DDA, European EAA EN 301 549, UK Equality Act (EA), Israeli Standard 5568, California Unruh, Ontario AODA, Canada ACA, German BITV, and France RGAA standards.",
-    "hash": "sha256-1zNnDNs3pdhRiTJfqKMSUz8lQdje6vZLPtUh/VrAEe0="
+    "hash": "sha256-IpCTmZNS+YY3R/C7cDtb/rEA+Ky1NAn5mCCp1lvhF40="
   },
   "allnews": {
     "version": "0.2.6",
@@ -12813,12 +12813,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "dce": {
-    "version": "3.1.1",
+    "version": "3.1.2",
     "t3_versions": [
       12
     ],
     "description": "Best flexform based content elements since 2012. With TCA mapping feature, simple backend view and much more features which makes it super easy to create own content element types.",
-    "hash": "sha256-PPbmCofltlVJSAUtl48+4EhOAHxM9j6x7UU+6riTsCQ="
+    "hash": "sha256-jvZbSWXFLtgymdxfRR85vc7XQW12vs5FA82tYVihEsQ="
   },
   "dcformcreator": {
     "version": "0.0.3",
@@ -13108,12 +13108,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "default_upload_folder": {
-    "version": "2.0.1",
+    "version": "2.0.2",
     "t3_versions": [
       12
     ],
     "description": "Make it possible to configure the default upload folder for a certain TCA column",
-    "hash": "sha256-1wQsV3h5Ms3CHzMqQOCHAeHB37uyEA1nhk5YphOny2I="
+    "hash": "sha256-XlO4OagIE0Mc/B0uyTxQmrGKXuIg6yMYJx0NWyMwvQQ="
   },
   "defaultcontent": {
     "version": "1.0.0",
@@ -16079,6 +16079,15 @@
     "description": "An extension that makes it easy to flag a TYPO3 page record as an entry point of a menu",
     "hash": "sha256-jnMJvJpPy2O6bB0EB2tCymIgfWSFDuNQig8A/OtWVGs="
   },
+  "easy_verein": {
+    "version": "1.0.0",
+    "t3_versions": [
+      10,
+      11
+    ],
+    "description": "Extension to connect TYPO3 with easyVerein association management software",
+    "hash": "sha256-yElI33uA7pCq+aVNaJv6TbP1e/uxbv3nTgEIO2zUX64="
+  },
   "easycal": {
     "version": "0.1.0",
     "t3_versions": [],
@@ -18163,13 +18172,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fal_securedownload": {
-    "version": "5.0.1",
+    "version": "5.0.4",
     "t3_versions": [
       11,
       12
     ],
     "description": "Secure download of assets. Makes it possible to secure FE use of assets/files by setting permissions to folders/files for fe_groups.",
-    "hash": "sha256-9B02/KjoT0F9xqFWua7mFEhmwx6dipDBqHBE0HtOj18="
+    "hash": "sha256-yG/aEx/wWbGvKF9aagT3RNeZ7I1vlroOexIRbNe9W4M="
   },
   "fal_sftp": {
     "version": "4.3.0",
@@ -18866,13 +18875,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "felogin_bruteforce_protection": {
-    "version": "10.0.11",
+    "version": "10.0.13",
     "t3_versions": [
       10,
       11
     ],
     "description": "Protects TYPO3 frontend authentication (e.g. fe_login) against brute force attacks.",
-    "hash": "sha256-YKY5jRZJmzgaBigwh2TYcYDcCLxeX057Rh4MkE7fL4w="
+    "hash": "sha256-qttLqQEPCHGqleV95IdDP/OLTwNZGoZVV4jOEgMdNIY="
   },
   "felogin_redirect2current": {
     "version": "0.2.0",
