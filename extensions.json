@@ -1118,13 +1118,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "address_manager": {
-    "version": "4.0.3",
+    "version": "4.0.4",
     "t3_versions": [
       11,
       12
     ],
     "description": "Manages and displays address and person records. Comes with three kinds of categories (groups, organisations and positions) with frontend filtering and fulltext search. Includes Google Maps and SEO support. There is also a pro version available. (Personenverzeichnis, Personendatenbank, Mitarbeiterverzeichnis, Filialfinder, Umkreissuche, Standortuebersicht, radial search, radius search)",
-    "hash": "sha256-g0T+uqy2gCk4kvqWrDLaR7SCRACGDLY2kxgbmpvc6D8="
+    "hash": "sha256-io1le5CAx9GHt8ij7wXDm0Mz937UcvEO/TO0C4pE2bo="
   },
   "addressgroups": {
     "version": "1.4.0",
@@ -1556,12 +1556,12 @@
     "hash": "sha256-QckxUijIPEdD6LVvP3jLwr2sT0hqgrIdc0gptF3NW5Q="
   },
   "aimeos": {
-    "version": "23.7.2",
+    "version": "23.10.1",
     "t3_versions": [
       12
     ],
     "description": "Professional, full-featured and ultra-fast TYPO3 e-commerce extension for online shops, complex B2B applications and #gigacommerce. Turns TYPO3 into the best platform for content commerce and your e-commerce requirements (also available as TYPO3 distribution)",
-    "hash": "sha256-vM13yde4sJU0uvNd71sDkH78qLEwj+HYnefMfHms7oA="
+    "hash": "sha256-y0U92aEOhIUbL3B7YFZsdCIkTKVwPwsRgk31tLMokpk="
   },
   "aimeos_dist": {
     "version": "23.7.1",
@@ -3321,6 +3321,14 @@
     ],
     "description": "If page module and a sys folder is selected, a redirect to the list module is done.y",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "autotranslate": {
+    "version": "0.1.0",
+    "t3_versions": [
+      10
+    ],
+    "description": "Integration of automatic translations into the backend process when maintaining pages and content elements by editors.",
+    "hash": "sha256-fvs/Vm4XJy5aqEm9VegZk6MhXrp/w39PqsFZ/ic8XyI="
   },
   "autoupload_dummy": {
     "version": "1.0.2",
@@ -5738,12 +5746,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "bulma_package": {
-    "version": "2.0.4",
+    "version": "2.1.0",
     "t3_versions": [
       11
     ],
     "description": "Bulma Package delivers a full configured frontend theme for TYPO3, based on the Bulma CSS Framework.",
-    "hash": "sha256-PgCRsDV78gfCGL2qEPonbq/A2sT3GPt0DOl4NBlnhHI="
+    "hash": "sha256-96qPLpZ5hWbvNSvj5J7RTsod4KUQY6HlthbAvdxxsLo="
   },
   "burmeesmenu": {
     "version": "0.1.10",
@@ -17280,13 +17288,13 @@
     "hash": "sha256-jQuZh0RqppRCH6KZb5G73jGVsG1mzdyhq57WTAN82lQ="
   },
   "events2": {
-    "version": "8.2.1",
+    "version": "8.3.0",
     "t3_versions": [
       10,
       11
     ],
     "description": "Create single and recurring events",
-    "hash": "sha256-gJ9rcp0qsbWkW/KTThXjyIN4IJ+T2tDeyd8bI4vPpYg="
+    "hash": "sha256-JyjErN/Hv/+eRzvRkq7ceJ+ltI8KLUSZpLhJIpCyEVE="
   },
   "evgallery": {
     "version": "2.9.0",
@@ -38952,6 +38960,14 @@
     ],
     "description": "This extension can easily integrate of powerful features of OpenStreet map like find-places, find-direction between locations etc. Live-Demo: https://demo.t3planet.com/t3-extensions/openstreet-map You can download PRO version for more-features & free-support at https://t3planet.com/typo3-openstreetmap-extension",
     "hash": "sha256-dNvxcsLt2LU6RnG+fswXbIsmMkmYDefTGDKDL5iIjdM="
+  },
+  "ns_openai": {
+    "version": "1.0.2",
+    "t3_versions": [
+      11
+    ],
+    "description": "First-ever ChatGPT (by OpenAI) feature-rich content assistance in TYPO3 that automates content creation and optimization. The extension comes with numerous features like SEO optimization, Create AI-Page, Language Translation, Chat assistance, Read-to-use helpful prompts, etc. Explore more https://t3planet.com/t3openai-typo3-chatgpt-extension",
+    "hash": "sha256-6HHzSFRs86GILgUjibQX3Y1pEYLM/btZhwra3KIJheY="
   },
   "ns_protect_site": {
     "version": "2.0.4",
