@@ -3323,12 +3323,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "autotranslate": {
-    "version": "0.1.0",
+    "version": "0.9.1",
     "t3_versions": [
-      10
+      10,
+      11
     ],
     "description": "Integration of automatic translations into the backend process when maintaining pages and content elements by editors.",
-    "hash": "sha256-fvs/Vm4XJy5aqEm9VegZk6MhXrp/w39PqsFZ/ic8XyI="
+    "hash": "sha256-5aC17NYpz2R8L1W+oSyViSyPK2y5ze2Qe9Az2q/ZR4Q="
   },
   "autoupload_dummy": {
     "version": "1.0.2",
@@ -20708,14 +20709,14 @@
     "hash": "sha256-xHMUmUruf2U8HfHh1n+Hwg1F4FBnYhvxxRYQdSlrBAc="
   },
   "form_crshield": {
-    "version": "1.3.1",
+    "version": "1.3.2",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Challenge/response spambot protection for ext:form",
-    "hash": "sha256-0M3ZTOqcbBmfIlbU0m4qVN/JV8oVjEGzk1oLLyYb1VU="
+    "hash": "sha256-p1VqJVdT0jMxrodfYEdk/7oIz1XYzNvMsiNcQuoIwG0="
   },
   "form_doubleoptin": {
     "version": "1.1.1",
@@ -23034,14 +23035,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "gridgallery": {
-    "version": "1.0.16",
+    "version": "1.1.0",
     "t3_versions": [
-      8,
-      9,
-      10
+      12
     ],
     "description": "Adds a modern gridgallery content element to the website.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-y9zO+nFdrUc3TeKd1lMXNl8WCGJRWzGZ5Og7Sh0ABZA="
   },
   "gridtocontainer": {
     "version": "12.0.8",
@@ -26753,13 +26752,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "janolawservice": {
-    "version": "3.0.3",
+    "version": "3.0.4",
     "t3_versions": [
       11,
       12
     ],
     "description": "Integriert janolaw Service",
-    "hash": "sha256-nfqSNge0+286eVwDuJUwBRnc5LgM4XjUXcxhMMwc0mg="
+    "hash": "sha256-bVLd9pv7e8k8wu/ro6LBeWL2Q/gRdmhvQZJuOZAjdEs="
   },
   "jansass_upload": {
     "version": "3.0.5",
@@ -26768,58 +26767,58 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "jar_assets": {
-    "version": "1.0.4",
+    "version": "1.0.8",
     "t3_versions": [
       10,
       11
     ],
     "description": "Includes all CSS and JavaScript files of a folder.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-zjxSmtRsoUsUGzug/LFPj+tUQSz0o9j1lbwqoxOvSeE="
   },
   "jar_columnrow": {
-    "version": "1.0.12",
-    "t3_versions": [
-      10,
-      11
-    ],
-    "description": "Provides a freely definable and universal grid element with bootstrap-based output.",
-    "hash": "sha256-xZ8Y8s4H4hArPNknM1B5poT37ub8Pe0pzG6EGbpmZNE="
-  },
-  "jar_dataflow": {
     "version": "1.0.19",
     "t3_versions": [
       10,
       11
     ],
+    "description": "Provides a freely definable and universal grid element with bootstrap-based output.",
+    "hash": "sha256-mhMzQUqHv2x/XQE188V/eLKbq1+9cTpXfARQZ9Wlda0="
+  },
+  "jar_dataflow": {
+    "version": "1.0.20",
+    "t3_versions": [
+      10,
+      11
+    ],
     "description": "Extends content elements with a query builder to output data from arbitrary list elements",
-    "hash": "sha256-8Myc3VBu8qNwS659AfPuYEzhWx2T24JPszUh9OqN8Ug="
+    "hash": "sha256-cqmZLJsyEgzQpnzLdsOSx1h1tLvro1hF74aRuiGX8wM="
   },
   "jar_pretty_preview": {
-    "version": "1.0.16",
+    "version": "1.0.17",
     "t3_versions": [
       10,
       11
     ],
     "description": "Generates an automatic pretty preview of content elements in the backend based on the TCA fields.",
-    "hash": "sha256-uUn6V/13c5bYBhu7aNVjl6CziIuQOv/vCM576bs0xcQ="
+    "hash": "sha256-xzwAPH6aW0BKayGwolxPLV+KZZbGRy8EtbZsLrSjuXQ="
   },
   "jar_pugtemplate": {
-    "version": "1.0.9",
+    "version": "1.0.10",
     "t3_versions": [
       10,
       11
     ],
     "description": "Tools for rendering PUG templates in TYPO3",
-    "hash": "sha256-Z2BN9IPCDqGzBNbVFDkPDx0NU6NfCM8yYXjemW1bYzQ="
+    "hash": "sha256-Z2bLSGhx+Jfyo4E72layZAmEUf2WxeuF62cs9ItGS2o="
   },
   "jar_utilities": {
-    "version": "1.0.46",
+    "version": "1.0.77",
     "t3_versions": [
       10,
       11
     ],
     "description": "Utility classes that simplify TYPO3 development.",
-    "hash": "sha256-DDN2UDLu+SYnZxCj9L8wyvh3gSwEEHhO9t8aNhrzyvI="
+    "hash": "sha256-estjf+8tuqGwViA36Hh5UJBfWaimlaZaFV+pWdSl8ug="
   },
   "jasmine": {
     "version": "0.1.0",
@@ -41294,13 +41293,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "partner_rating": {
-    "version": "1.2.2",
+    "version": "2.0.0",
     "t3_versions": [
       11,
       12
     ],
-    "description": "Extbase/Fluid extension that allows departments to rate collaboration partners via a front-end form. The rating is based on school grades. Grades greater than 4 must be justified. This is possible either by predefined reasons or a free text input.",
-    "hash": "sha256-WGM/oIX8C0yN5pgw/meY07FvvlgawBYjl+ENApe6IzE="
+    "description": "Extbase/Fluid extension that allows departments to rate collaboration partners via a front-end form. Rating values can be specified as a comma separated list of integer values. Rating values greater than a configurable limit value must be justified. This is possible either by predefined reasons or a free text input.",
+    "hash": "sha256-mCPU8kA7g+ruTLtUGbR0mwrYP1+HdQLUpWpnJqiEJ+M="
   },
   "party": {
     "version": "0.2.1",
@@ -43298,13 +43297,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "poll": {
-    "version": "4.0.9",
+    "version": "4.0.10",
     "t3_versions": [
       11,
       12
     ],
     "description": "Create polls/surveys/Umfragen in TYPO3. Multiple question types and answer layouts. There is also a PRO version available which adds custom user answers and more. (Umfrage, Poll, Opinion, Vote, SimplePoll)",
-    "hash": "sha256-B1RMdfhVYTfPayqZhQdSPucvXZ+k/xUwp4/ELX1H+qM="
+    "hash": "sha256-3qkKvzGRKeaVVSszLRYKXlNGxZiF+89z9dv3LGJ9E5g="
   },
   "polyglot": {
     "version": "1.0.0",
@@ -44614,13 +44613,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "qbank": {
-    "version": "1.2.1",
+    "version": "2.0.0",
     "t3_versions": [
-      10,
-      11
+      12
     ],
     "description": "Integration of QBank DAM for TYPO3",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-LxnyrIEiIwoaMaFG2vtdq57G87JwxO78dEZH8Benf+Y="
   },
   "qc_be_domain_color": {
     "version": "1.0.1",
@@ -47301,12 +47299,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "rte_ckeditor_fontawesome": {
-    "version": "12.0.0",
+    "version": "12.0.1",
     "t3_versions": [
       12
     ],
     "description": "Adds the Fontawesome add-on to the CKEditor in TYPO3.",
-    "hash": "sha256-DJR/15/BrihCKtwYcKEQoRMcfG2phznx1UrlKneJu2Q="
+    "hash": "sha256-nODzTScQV5v8UMuJAWkM78haNET3n4u9eUZ/LFvbD20="
   },
   "rte_ckeditor_image": {
     "version": "11.0.11",
@@ -53466,13 +53464,13 @@
     "hash": "sha256-PxTt6QRE3eLMtQaHGsRynv7o26xdwswsBhMh7F0FN5Q="
   },
   "static_info_tables_de": {
-    "version": "11.5.0",
+    "version": "11.5.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "German (de) language pack for the Static Info Tables providing localized names for countries, currencies and so on.",
-    "hash": "sha256-GPKiqf8wOhabTz2k7E/HYNaW13G/B7jCjx6OTFA61c8="
+    "hash": "sha256-7SbBZHlIh4ysiqOZh3/wBcRXNUMSX4A8oE6ETev8Ms4="
   },
   "static_info_tables_es": {
     "version": "11.5.0",
@@ -55374,14 +55372,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "t3monitor": {
-    "version": "2.0.0",
+    "version": "2.0.3",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Monitors TYPO3 installation for updates and security issues (Requires an account on www.t3monitor.de)",
-    "hash": "sha256-GATy+djiDRLj+7/KiToY/ODvb+qUmTwerF+ZbjYYEWc="
+    "hash": "sha256-5eypo+Rq3MHg1xdZ7Iix1R10FHwUNaSMLT8KekYgQG0="
   },
   "t3monitoragent": {
     "version": "0.1.0",
