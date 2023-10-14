@@ -45393,12 +45393,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "recaptcha": {
-    "version": "12.0.0",
+    "version": "12.0.1",
     "t3_versions": [
       12
     ],
     "description": "Integrates google reCAPTCHA and invisible reCAPTCHA in EXT:form, EXT:sf_register",
-    "hash": "sha256-CZaHsi/KocIxKImwkAae3omBpFXx/wV3l5ge1Alg2mI="
+    "hash": "sha256-8LrmcsyURqzVtL8aSwY8S1WVC3OutUGnK1RbulDdP9A="
   },
   "recent_comments": {
     "version": "0.2.0",
@@ -47203,13 +47203,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "rt_pages_tree_icons": {
-    "version": "6.0.1",
+    "version": "6.1.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "TYPO3 Pages TreeView SVG icons switcher.",
-    "hash": "sha256-plrv1gN3M6/L99RaBnJE6B25jPeABqIonwJ/0CIPDZA="
+    "hash": "sha256-b3UjlTZGG1jCEGSCi5QD6353fOWz1bnjEyKpxOV7nX8="
   },
   "rt_pageteaser": {
     "version": "1.7.2",
@@ -49030,13 +49030,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "seminars": {
-    "version": "5.4.1",
+    "version": "5.5.0",
     "t3_versions": [
       10,
       11
     ],
     "description": "Allows you to create and manage a list of seminars, workshops, lectures, theater performances and other events, allowing front-end users to sign up. FE users also can create and edit events.",
-    "hash": "sha256-/5qTGC7ehFLGq5SkNHAHJIDHSKJTwnHzCpbTxgy4Hyw="
+    "hash": "sha256-hDfk14bJYx5zOlunOHTUb2vv4+qX3e52v83EnrS8pJ0="
   },
   "seminarscalredirect": {
     "version": "1.0.0",
@@ -52413,14 +52413,15 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sourceopt": {
-    "version": "5.0.0",
+    "version": "5.1.2",
     "t3_versions": [
       9,
       10,
-      11
+      11,
+      12
     ],
-    "description": "Optimization of the final page: reformatting the (x)html output, removal of new-lines, comments and generator-info. In addition combines all SVG selected within content-elements into one <symbol> file and replaces <img> by the corresponding <use>.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "description": "Optimization of the final page: reformatting the (x)HTML output & removal of new-lines, comments and generator-info including search and replace strings using your regular expressions. In addition combines all SVG selected within content-elements into one <symbol> file and replaces <img> by <use>.",
+    "hash": "sha256-ddeNV6A42+Tp7zo5icYKzo8edBCIP0P/dflulSVVYxk="
   },
   "sox_calendar": {
     "version": "1.0.11",
