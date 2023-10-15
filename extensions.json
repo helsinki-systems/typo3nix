@@ -1078,13 +1078,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "additional_tca": {
-    "version": "1.14.11",
+    "version": "1.14.12",
     "t3_versions": [
       11,
       12
     ],
     "description": "Additional TCA fields and tools",
-    "hash": "sha256-6J8ypnjxacMb7y8nUXoeMLfQ1xWfQOE8VP70rN6MrJc="
+    "hash": "sha256-01sYFRPcHeY1T2/1IoBvzeDs+u7pZbE6kwvO9ykdGKQ="
   },
   "addlinkheader": {
     "version": "0.0.4",
@@ -12726,13 +12726,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "db_rector": {
-    "version": "12.2.0",
+    "version": "12.2.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "This TYPO3 extension is an typo3-rector adapter with backend module to refactor sys_template.config data.",
-    "hash": "sha256-HK0S9yIOJg4Nag68DFWnKjuvqI3IUCnUfpUCj6jKzqk="
+    "hash": "sha256-92/UxEenmi/5zaPRT4j9eG952AfBdx3+pTKZTpKMyM8="
   },
   "dbal": {
     "version": "8.4.1",
@@ -20008,13 +20008,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fluid_form": {
-    "version": "4.0.4",
+    "version": "4.0.5",
     "t3_versions": [
       11,
       12
     ],
     "description": "Forms configured only by TypoScript",
-    "hash": "sha256-nbdiChKcFlAufkMTn2woI7WG83E7w5gvaklo3aP7RLc="
+    "hash": "sha256-vEsHEyBaPUBW2Yrm7ll8xIeDfllIsBI9bxp+k2wFwUc="
   },
   "fluid_form_elements": {
     "version": "1.0.0",
@@ -40396,13 +40396,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "operations": {
-    "version": "8.0.0",
+    "version": "8.0.3",
     "t3_versions": [
       11,
       12
     ],
     "description": "TYPO3 extension to manage firefighter operations with detailed reports, images, used resources or vehicles, map view for locations.",
-    "hash": "sha256-VcNBGZ8f1DMcuQcRRPz2y9b19tvtH1E7H+/Dfccg3aE="
+    "hash": "sha256-Bcg4uiHEdb5xuJGiNeH6hGnGWs8j9As6usFfTguOGNU="
   },
   "opetraining": {
     "version": "0.0.1",
