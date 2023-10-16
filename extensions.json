@@ -1078,13 +1078,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "additional_tca": {
-    "version": "1.14.12",
+    "version": "1.14.13",
     "t3_versions": [
       11,
       12
     ],
     "description": "Additional TCA fields and tools",
-    "hash": "sha256-01sYFRPcHeY1T2/1IoBvzeDs+u7pZbE6kwvO9ykdGKQ="
+    "hash": "sha256-Xm9I8dLB5CTAIBmYiRrXLBUrKeKYWeoj7Dr8xH7MERs="
   },
   "addlinkheader": {
     "version": "0.0.4",
@@ -13117,12 +13117,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "default_upload_folder": {
-    "version": "2.0.2",
+    "version": "2.0.3",
     "t3_versions": [
       12
     ],
     "description": "Make it possible to configure the default upload folder for a certain TCA column",
-    "hash": "sha256-XlO4OagIE0Mc/B0uyTxQmrGKXuIg6yMYJx0NWyMwvQQ="
+    "hash": "sha256-efjy69OmYMP8j59mVJ9jRunYC0uO/vW0cp4NfICDoYM="
   },
   "defaultcontent": {
     "version": "1.0.0",
@@ -23566,13 +23566,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "hh_accordion": {
-    "version": "0.5.1",
+    "version": "0.5.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "",
-    "hash": "sha256-iloRN/K1MYnAfUFHljnawTOnYZFSrBS1l2bJMkzOa4Q="
+    "hash": "sha256-02dBAectuUXxWE2OhpOJlgUBo67lBPGbFtaZHU+9I/A="
   },
   "hh_add_statuscode": {
     "version": "0.1.22",
@@ -40445,13 +40445,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "org": {
-    "version": "11.0.3",
+    "version": "11.0.5",
     "t3_versions": [
       10,
       11
     ],
     "description": "The Organiser is a blog databse for the lobby. It provides a lot of tables like boards, calendar, contacts, events, jobs, locations, news, organisers, staff, seminars and services.",
-    "hash": "sha256-QoCnYTHmue+9kM884HCP0pv2UvKRTr/ZZPWo0UNaH4s="
+    "hash": "sha256-KiEDKmIH2XJ/F7Ul42fg05oj5PotVIHMJBsuc+g1r5Y="
   },
   "org_installer": {
     "version": "8.0.22",
@@ -40879,21 +40879,21 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "pagebased": {
-    "version": "1.1.0",
+    "version": "1.2.0",
     "t3_versions": [
       11
     ],
     "description": "The ultimate tool to create page based extensions",
-    "hash": "sha256-/TCPhepWLldK7DpOZ4dhf4gF+C43HSEnOH5iM2Q1kNQ="
+    "hash": "sha256-8tOyzF8oUo1hebw1O59YECdL6vXf2m63fwiOYV5kYtw="
   },
   "pagebased_blog": {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "A page based blog extension.",
-    "hash": "sha256-IE1DUmSsHl3PVHO1awCU4V5/ZBjAjmeHKGE9G8JaU8M="
+    "hash": "sha256-T/W4hLF/gxYUweT4+M43GvmPeNQTrbUqvQmABBmjoKw="
   },
   "pagebreadcrumb": {
     "version": "3.0.1",
@@ -43375,13 +43375,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "portfolios": {
-    "version": "4.1.0",
+    "version": "4.1.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Extension for displaying portfolios and references",
-    "hash": "sha256-apkLSWGZ8LlKBflDFSJZq50KcsAW8RLpMqNAsYp73Bs="
+    "hash": "sha256-NrI0SU0xYUE2nB/HdCsg20hwmomfVkl/w7MUHapkKsw="
   },
   "porto": {
     "version": "0.9.3",
@@ -44867,13 +44867,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "questions": {
-    "version": "4.0.3",
+    "version": "4.0.4",
     "t3_versions": [
       11,
       12
     ],
     "description": "Questions is a frequently asked questions (FAQ) extension for TYPO3. It's compatible with following extensions: shop, ",
-    "hash": "sha256-CbHog5C81cOO5cyNDA9Fmt9frEvWBB9Ju45ppN1q5+w="
+    "hash": "sha256-5j81h7Yjexv3obSRhN6Amv/UHCmYtRyGczUd8P8gHzM="
   },
   "quick_shop": {
     "version": "10.0.12",
@@ -52283,12 +52283,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "solr": {
-    "version": "11.5.3",
+    "version": "12.0.0",
     "t3_versions": [
-      11
+      12
     ],
     "description": "Apache Solr for TYPO3 is the enterprise search server you were looking for with special features such as Faceted Search or Synonym Support and incredibly fast response times of results within milliseconds.",
-    "hash": "sha256-QuseHcqCLDAFlDnHiWu4v7edBEKpSq/3tJKePHe35fU="
+    "hash": "sha256-Xf3W1clJEP2+8JVVVsrxiDGYv1barLxfXCL2eocZAms="
   },
   "solr_boutique": {
     "version": "1.0.0",
