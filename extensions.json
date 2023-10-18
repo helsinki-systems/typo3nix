@@ -1078,13 +1078,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "additional_tca": {
-    "version": "1.14.13",
+    "version": "1.14.14",
     "t3_versions": [
       11,
       12
     ],
     "description": "Additional TCA fields and tools",
-    "hash": "sha256-Xm9I8dLB5CTAIBmYiRrXLBUrKeKYWeoj7Dr8xH7MERs="
+    "hash": "sha256-Cd2mffm9SyVku2t9dNRt7DD3GQzsHS8uoPyn1hMece4="
   },
   "addlinkheader": {
     "version": "0.0.4",
@@ -9744,12 +9744,12 @@
     "hash": "sha256-zIEstPFHttAq2bRVbuXskLWhPbkZ++m4mcc7E46IM6s="
   },
   "content_blocks": {
-    "version": "0.1.3",
+    "version": "0.1.4",
     "t3_versions": [
       12
     ],
     "description": "TYPO3 CMS Content Blocks - TYPO3 Content Types Manager.",
-    "hash": "sha256-F18qboG3/82j96l/lqScH6sn2uRACpGo2t4M26VWvYk="
+    "hash": "sha256-SdnzPlmdAjXCKUfd6iUcMJHnAP0daz/UoVtC4aZNU6s="
   },
   "content_consent": {
     "version": "2.0.1",
@@ -11566,13 +11566,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cute_mailing": {
-    "version": "3.1.0",
+    "version": "3.1.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Send TYPO3 pages as emails (newsletter) to many recipients. Can be used as replacement for direct_mail.",
-    "hash": "sha256-zLRBO/eepigXcX1HnCZNnJOF8w7RSvJwka9etckyo9Q="
+    "hash": "sha256-vrt6FvtRuA1dfzGl0FU5+tFRbnYDvA9UIigYlwDZSdA="
   },
   "cute_mailing_registeraddress": {
     "version": "2.1.0",
@@ -29383,6 +29383,16 @@
     "description": "Adds klarna payment provider to Multishop.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "klaro_consent_manager": {
+    "version": "1.0.0",
+    "t3_versions": [
+      10,
+      11,
+      12
+    ],
+    "description": "Functionally complete, flexible TYPO3 integration of Klaro! Consent Management by KIProtect. Klaro! is a powerful tool that protects your visitors' privacy and data and helps you run a GDPR compliant website.",
+    "hash": "sha256-bBtgLq1CCNjHF9eLEX0StbJPWkFt/Ml02OynxDEfmAc="
+  },
   "km_dam_extension": {
     "version": "1.0.2",
     "t3_versions": [
@@ -47132,13 +47142,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "rss_app": {
-    "version": "2.0.3",
+    "version": "3.0.1",
     "t3_versions": [
-      10,
-      11
+      11,
+      12
     ],
     "description": "This Plugin enables you to display RSS.App feeds (Instagram, Twitter, Facebook and more) in TYPO3 - more information on https://rss.app",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-xGsASvuOELwqfkZw0qObb0NkLFT3ylpTLHWv+mCT/Gc="
   },
   "rss_display": {
     "version": "5.0.1",
@@ -47317,12 +47327,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "rte_ckeditor_fontawesome": {
-    "version": "12.0.1",
+    "version": "12.0.2",
     "t3_versions": [
       12
     ],
     "description": "Adds the Fontawesome add-on to the CKEditor in TYPO3.",
-    "hash": "sha256-nODzTScQV5v8UMuJAWkM78haNET3n4u9eUZ/LFvbD20="
+    "hash": "sha256-LJXLAGftYSsBY0sZicEw1qivQI+XnVT28abtI07cFCI="
   },
   "rte_ckeditor_image": {
     "version": "11.0.11",
@@ -49170,13 +49180,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "server_timing": {
-    "version": "1.7.2",
+    "version": "1.8.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Show timings of Database and HTTP Calls (send them to Sentry)",
-    "hash": "sha256-fK3r0omBkAQw6aEFozM5iKv4hEU9/VhpEz6sOhrXcUk="
+    "hash": "sha256-qXhhR65X44TZvkxsV2jXlNX/DXloDoxQcFGqeSlAh6c="
   },
   "service_bw2": {
     "version": "6.0.3",
@@ -53481,31 +53491,31 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "static_info_tables_da": {
-    "version": "11.5.0",
-    "t3_versions": [
-      11,
-      12
-    ],
-    "description": "Danish (da) language pack for the Static Info Tables providing localized names for countries, currencies and so on.",
-    "hash": "sha256-PxTt6QRE3eLMtQaHGsRynv7o26xdwswsBhMh7F0FN5Q="
-  },
-  "static_info_tables_de": {
     "version": "11.5.1",
     "t3_versions": [
       11,
       12
     ],
+    "description": "Danish (da) language pack for the Static Info Tables providing localized names for countries, currencies and so on.",
+    "hash": "sha256-LV8iWVqf5MzV6fAQzyQ0RjOPGY2P5GcZAhHl9uGHMvs="
+  },
+  "static_info_tables_de": {
+    "version": "11.5.2",
+    "t3_versions": [
+      11,
+      12
+    ],
     "description": "German (de) language pack for the Static Info Tables providing localized names for countries, currencies and so on.",
-    "hash": "sha256-7SbBZHlIh4ysiqOZh3/wBcRXNUMSX4A8oE6ETev8Ms4="
+    "hash": "sha256-72H/euX45XT5gCpPJElcF6YYaqPxnItZ3pNJwoynKHM="
   },
   "static_info_tables_es": {
-    "version": "11.5.0",
+    "version": "11.5.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Spanish (es) language pack for the Static Info Tables providing localized names for countries, currencies and so on.",
-    "hash": "sha256-kzAFgR3WjRYvzcJVy4jCnnHFh+YDe/HT61xQwKqlDf8="
+    "hash": "sha256-Odg8JYUllUZpA/02bdimGf0uAQA5cgtfHiFE8RJMTqo="
   },
   "static_info_tables_extbase": {
     "version": "1.2.0",
@@ -53595,13 +53605,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "static_info_tables_it": {
-    "version": "11.5.0",
+    "version": "11.5.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Italian (it) language pack for the Static Info Tables providing localized names for countries, currencies and so on.",
-    "hash": "sha256-iuC8kH2v6FC6zqBiXosxNl3CG6ZD41cAsSMQhvrsnCA="
+    "hash": "sha256-BBkHqeLKRQCkuviRIWXQNfAxuwueWfxjxx7uP/K2A7U="
   },
   "static_info_tables_it_621": {
     "version": "6.2.1",
@@ -56410,12 +56420,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "taskqueue": {
-    "version": "9.0.0",
+    "version": "9.0.1",
     "t3_versions": [
       12
     ],
     "description": "Provides a task queue for other extensions to use.",
-    "hash": "sha256-KSQpHIOAQYOx544MrdGAB1BgWotbC1IITezWSUmbyfc="
+    "hash": "sha256-+k+8G79XSClxIkW+xg7iRkU7tzifT4V1zlLIwS7SUlk="
   },
   "taxajax": {
     "version": "0.8.2",
