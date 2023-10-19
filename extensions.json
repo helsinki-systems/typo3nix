@@ -542,13 +542,13 @@
     "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
   },
   "academic_bite_jobs": {
-    "version": "0.1.2",
+    "version": "0.1.3",
     "t3_versions": [
       11,
       12
     ],
     "description": "The Academic Bite Jobs extension shows jobs from the B-Ite Job Board.",
-    "hash": "sha256-ihqT2Rrh9V6f903tv57jnyTxmtFYzPBKCy8ve4udZbE="
+    "hash": "sha256-UNDYWlYgbJMH3cIRxbxpDtg7/Jh8ijDy2bJmd1AjxrY="
   },
   "academic_jobs": {
     "version": "0.1.2",
@@ -17220,13 +17220,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "evangtermine": {
-    "version": "2.2.6",
+    "version": "2.2.7",
     "t3_versions": [
       10,
       11
     ],
     "description": "Anzeige des Terminkalenders der Vernetzten Kirche in der Ev.-Luth. Kirche in Bayern und weiteren teilnehmenden evangelischen Landeskirchen.",
-    "hash": "sha256-QubsREIV+b73tKdFAYQlcryVL+KIJMLPgTIalDPLcVs="
+    "hash": "sha256-MTh5It6DA6fTtduYQ6ZRw8WHzRp7rIrswy+36rzGKC8="
   },
   "evcontext": {
     "version": "0.0.1",
@@ -26822,13 +26822,13 @@
     "hash": "sha256-Z2bLSGhx+Jfyo4E72layZAmEUf2WxeuF62cs9ItGS2o="
   },
   "jar_utilities": {
-    "version": "1.0.77",
+    "version": "1.0.78",
     "t3_versions": [
       10,
       11
     ],
     "description": "Utility classes that simplify TYPO3 development.",
-    "hash": "sha256-estjf+8tuqGwViA36Hh5UJBfWaimlaZaFV+pWdSl8ug="
+    "hash": "sha256-VHrk4VzuMDPxjAeJbK1g5cpWg3bRebL82b7NRK+xi/U="
   },
   "jasmine": {
     "version": "0.1.0",
@@ -29384,14 +29384,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "klaro_consent_manager": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Functionally complete, flexible TYPO3 integration of Klaro! Consent Management by KIProtect. Klaro! is a powerful tool that protects your visitors' privacy and data and helps you run a GDPR compliant website.",
-    "hash": "sha256-bBtgLq1CCNjHF9eLEX0StbJPWkFt/Ml02OynxDEfmAc="
+    "hash": "sha256-XChnubA7mXt/emDv2xcNxCabPPgxhAiwQbJGG0WfpA4="
   },
   "km_dam_extension": {
     "version": "1.0.2",
@@ -48628,14 +48628,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "schema": {
-    "version": "2.10.0",
+    "version": "2.11.0",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "API and view helpers for schema.org markup",
-    "hash": "sha256-8eI2PRAPta/mMNhKtCQJx3GlHIvQZnpWzyHdtqGBw3k="
+    "hash": "sha256-IyGwJMigilpk6an2bPO0+fXwhm+7CTJG5jL9MqPToRw="
   },
   "schema_auto": {
     "version": "1.3.0",
@@ -48685,14 +48685,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "schema_pending": {
-    "version": "1.6.0",
+    "version": "1.7.0",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Extend the schema extension with pending terms",
-    "hash": "sha256-EJOJZamZe51abfGEgnq6OZpXLf3gGPN5t4Z5yXu+6xM="
+    "hash": "sha256-ssCBimXXY2e2oGBhNKlaNLJPHP4PQS/83Ei5zJcO4NM="
   },
   "schema_virtuallocation": {
     "version": "1.3.0",
