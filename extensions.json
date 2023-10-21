@@ -25266,14 +25266,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "image_autoresize": {
-    "version": "2.2.1",
+    "version": "2.2.2",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Simplify the way your editors may upload their images: no complex local procedure needed, let TYPO3 automatically resize down their huge images/pictures on-the-fly during upload (or using a scheduler task for batch processing) and according to your own business rules (directory/groups). This will highly reduce the footprint on your server and speed-up response time if lots of images are rendered (e.g., in a gallery). Features an EXIF/IPTC extractor to ensure metadata may be used by the FAL indexer even if not preserved upon resizing.",
-    "hash": "sha256-l8jYWohnep3ORwbg/hNZrGotarJzeXZn+CkQDRj0DC8="
+    "hash": "sha256-WrkNLj0J/gOLAN29eMCE8oF8Mvn4DAdTM+2Ts7zH4eE="
   },
   "image_copyright": {
     "version": "12.5.1",
@@ -33557,13 +33557,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mfa_frontend": {
-    "version": "0.1.2",
+    "version": "0.2.0",
     "t3_versions": [
+      10,
       11,
       12
     ],
     "description": "Enable MFA (Multi-Factor Authentication) for Frontend accounts.",
-    "hash": "sha256-PUhfOTKGZu1Vg+iG+VgWnVacZCRfalfRA7zf+Rd/PEo="
+    "hash": "sha256-Ar7iUtlhzvgX250pR6ZKHI0LFkK0TEwdkCqZmsl21cU="
   },
   "mfa_hotp": {
     "version": "1.1.0",
@@ -33574,13 +33575,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mfa_protect": {
-    "version": "0.1.1",
+    "version": "0.2.0",
     "t3_versions": [
+      10,
       11,
       12
     ],
     "description": "Protect rendering of sensitive content elements with MFA.",
-    "hash": "sha256-HMpiRsPWvhbiUzp1Z4H+5fC8H3u7JYq8fUgPRlaTI2s="
+    "hash": "sha256-3k636xHbri56T024viKCyMPwkjmhIB6tH/YFL5nsu1U="
   },
   "mfa_sms": {
     "version": "1.0.0",
@@ -49394,12 +49396,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sf_register": {
-    "version": "11.1.3",
+    "version": "11.1.5",
     "t3_versions": [
       11
     ],
     "description": "Offers the possibility to maintain the fe_user data in frontend by the user self.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-GSgHqTuoVo0MoWj8uEY62hsm5OGOhtp88o3HeRZIcLw="
   },
   "sf_simple_faq": {
     "version": "1.3.0",
