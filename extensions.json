@@ -40437,13 +40437,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "operations": {
-    "version": "8.0.3",
+    "version": "8.0.4",
     "t3_versions": [
       11,
       12
     ],
     "description": "TYPO3 extension to manage firefighter operations with detailed reports, images, used resources or vehicles, map view for locations.",
-    "hash": "sha256-Bcg4uiHEdb5xuJGiNeH6hGnGWs8j9As6usFfTguOGNU="
+    "hash": "sha256-lvUZU/IzcNDfRrl9pVDz4ipZ9O45C8iU5LnVqlkuvwo="
   },
   "opetraining": {
     "version": "0.0.1",
