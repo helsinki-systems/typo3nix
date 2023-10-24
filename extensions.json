@@ -7851,13 +7851,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "celum_connect_fal": {
-    "version": "2.0.8",
+    "version": "2.0.9",
     "t3_versions": [
       11,
       12
     ],
     "description": "Provides a FAL driver for the CELUM DAM.",
-    "hash": "sha256-CR3AzrcYFzmJq+/xyKpvx0mu1OUlDMbATD236iMB2k8="
+    "hash": "sha256-iPkltJ17AL3fjXAvIG+HhtpZ3cUZHAWY1Wm02kr3LKg="
   },
   "cen_csvexport": {
     "version": "1.1.2",
@@ -13083,13 +13083,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "debug_mysql_db": {
-    "version": "1.4.0",
+    "version": "1.4.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Extends \\TYPO3\\CMS\\Core\\Database\\DatabaseConnection and \\TYPO3\\CMS\\Core\\Database\\Connection to show Errors and Debug-Messages. Debugging of sql-queries by debug and FileWriter.",
-    "hash": "sha256-VCS4vNuvMmD8MrwHhLKcGNnIaJcHjpYL2zC1QccLt2c="
+    "hash": "sha256-DVbrLwEjhZwBgzTz+9d8Mz0qCYwRu7z12HCTS0VYQ3A="
   },
   "debug_settings_task": {
     "version": "2.2.1",
@@ -29385,14 +29385,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "klaro_consent_manager": {
-    "version": "1.2.0",
+    "version": "1.3.1",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Functionally complete, flexible TYPO3 integration of Klaro! Consent Management by KIProtect. Klaro! is a powerful tool that protects your visitors' privacy and data and helps you run a GDPR compliant website.",
-    "hash": "sha256-kUuIi9ucF3AyspweVNaqzlSHB4d6ju7BZQl21ubGJG4="
+    "hash": "sha256-4PI72LPtx6xtmr/ck5cJhQVLNuHTKyJYqyiSzsJWK0I="
   },
   "km_dam_extension": {
     "version": "1.0.2",
@@ -32330,13 +32330,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mask": {
-    "version": "8.3.6",
+    "version": "8.3.7",
     "t3_versions": [
       11,
       12
     ],
     "description": "Create your own content elements and page templates. Easy to use, even without programming skills because of the comfortable drag and drop system. Stored in structured database tables. Style your frontend with Fluid tags. Ideal, if you want to switch from Templavoila.",
-    "hash": "sha256-W6itxI/C3/QiCsG8fPYPrx1Juf75FPR6kxGr9pOZQ1s="
+    "hash": "sha256-7ywyVeV7sHbCzw/9FOuHSqEuufsCCXMYUOeaQnqgxhE="
   },
   "mask_export": {
     "version": "4.0.2",
@@ -33557,14 +33557,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mfa_frontend": {
-    "version": "0.2.0",
+    "version": "0.3.0",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Enable MFA (Multi-Factor Authentication) for Frontend accounts.",
-    "hash": "sha256-Ar7iUtlhzvgX250pR6ZKHI0LFkK0TEwdkCqZmsl21cU="
+    "hash": "sha256-nngjEm3y5RB7pXfta1PVQvPtk+yRK/xHzCtBp4a73bo="
   },
   "mfa_hotp": {
     "version": "1.1.0",
@@ -42232,13 +42232,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "personio_jobs": {
-    "version": "0.5.6",
+    "version": "0.5.7",
     "t3_versions": [
       11,
       12
     ],
     "description": "Extension to integrate jobs from Personio Recruiting API",
-    "hash": "sha256-eRsh63D/0VQg7Y3iMgzoHxQ5cvAOQutSIFJcM2WoIWU="
+    "hash": "sha256-8vP3WG7u3CP/ZJmQ5TmI4JrNY3YX/PBIpCrltEXrFa0="
   },
   "personnel": {
     "version": "3.8.2",
@@ -48649,43 +48649,40 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "schema": {
-    "version": "2.11.0",
+    "version": "3.0.0",
     "t3_versions": [
-      10,
       11,
       12
     ],
     "description": "API and view helpers for schema.org markup",
-    "hash": "sha256-IyGwJMigilpk6an2bPO0+fXwhm+7CTJG5jL9MqPToRw="
+    "hash": "sha256-suMfNQ1OwOYgf20SKYx75VQrGO/u1QvUs9/LXWP5Xvg="
   },
   "schema_auto": {
-    "version": "1.3.0",
+    "version": "2.0.0",
     "t3_versions": [
-      10,
-      11
+      11,
+      12
     ],
     "description": "Extend the schema extension with auto-related terms",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-szvjb6TfJ0phCuPJA0SAF+2SrG8DJ84gbdhS3YiPR9w="
   },
   "schema_bib": {
-    "version": "1.3.0",
+    "version": "2.0.0",
     "t3_versions": [
-      10,
       11,
       12
     ],
     "description": "Extend the schema extension with bibliographic-related terms",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-6OI2Mcpta9EpBRqzCJZQ4gpJwZh6HGsqTzAakzftw40="
   },
   "schema_health": {
-    "version": "1.4.0",
+    "version": "2.0.0",
     "t3_versions": [
-      10,
       11,
       12
     ],
     "description": "Extend the schema extension with health-related terms",
-    "hash": "sha256-NoUAojgLSinyRZ7/5nLSe8HC5wS75oqlRyqbHw0FK1Q="
+    "hash": "sha256-1n8IHX1Di0/89Y+VZvJzRh0bXatahNtfATBp6lUdhaw="
   },
   "schema_injector": {
     "version": "1.0.1",
@@ -48706,23 +48703,22 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "schema_pending": {
-    "version": "1.7.0",
+    "version": "2.0.0",
     "t3_versions": [
-      10,
       11,
       12
     ],
     "description": "Extend the schema extension with pending terms",
-    "hash": "sha256-ssCBimXXY2e2oGBhNKlaNLJPHP4PQS/83Ei5zJcO4NM="
+    "hash": "sha256-wOm2paym4WP/IFU84efzZHdejyCOitdneMUU2JFkBp4="
   },
   "schema_virtuallocation": {
-    "version": "1.3.0",
+    "version": "2.0.0",
     "t3_versions": [
-      10,
-      11
+      11,
+      12
     ],
     "description": "Add-on to the schema extension, providing VirtualLocation",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-RMh/sMJf8r+rHiraU0sjN48+Ha4hGLcxyp9sNH8yQys="
   },
   "schemaker": {
     "version": "3.2.0",
@@ -63594,12 +63590,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ws_less": {
-    "version": "11.0.0",
+    "version": "12.0.0",
     "t3_versions": [
-      11
+      12
     ],
     "description": "Compiles LESS files to CSS files.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-LHOwQTNJRpsi1OvhiF7WMpxsWWJJnGsk3UVHf1xr7Fc="
   },
   "ws_map": {
     "version": "0.1.1",
