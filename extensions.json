@@ -6841,13 +6841,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "canto_extension": {
-    "version": "1.3.8",
+    "version": "1.4.0",
     "t3_versions": [
       10,
       11
     ],
     "description": "Connect canto flight to get resource",
-    "hash": "sha256-7/rGaMVyfyBjDTWG98pq1gbxKOF01yv/sZpOedz8Law="
+    "hash": "sha256-c2Ho8ZKanFwscEdobWU7DvlXxAk+7H/s2VdPCMPY/f8="
   },
   "cap_flattr_news": {
     "version": "1.4.0",
@@ -18144,14 +18144,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fal_protect": {
-    "version": "1.4.1",
+    "version": "1.5.0",
     "t3_versions": [
-      9,
       10,
-      11
+      11,
+      12
     ],
     "description": "Protect everything within /fileadmin/ based on associated folder and file restrictions (visibility, user groups and dates of publication).",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-X1B5cm6NKI7vgpg/GgSlnnawQ11F4ETSN0mX4c2vopA="
   },
   "fal_quota": {
     "version": "1.8.0",
@@ -19303,16 +19303,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fidelo": {
-    "version": "4.3.0",
+    "version": "4.4.0",
     "t3_versions": [
-      7,
-      8,
-      9,
-      10,
-      11
+      12
     ],
     "description": "",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-FJOKS+U9QwAw1nWsMFsoHdCfOj+XpEn8PneIUqAV4Qg="
   },
   "file": {
     "version": "0.0.1",
@@ -20027,13 +20023,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fluid_fpdf": {
-    "version": "2.4.3",
+    "version": "2.4.4",
     "t3_versions": [
       11,
       12
     ],
     "description": "This extension provides you a complete set of ViewHelpers for dealing with FPDF by using Fluid. You can use the ViewHelpers easily in own Extensions just by defining the fpdf-Namespace. Additionally you are able to use the build in plugin, for displaying predefined PDF. This plugin offers you automatically all available PDFs.",
-    "hash": "sha256-R3PfqZeD8hjmMh3BkLwaBX0THcFGXFGNUHijITd8/rc="
+    "hash": "sha256-Vd65EqfjpiyzWaByqqbWUboee+jXTZiLgnKTuAej+0E="
   },
   "fluid_info": {
     "version": "0.1.0",
@@ -21210,12 +21206,12 @@
     "hash": "sha256-K/9dv25Uof8nrQK0okP4687AWkcZPsNd4DSHVADKvdM="
   },
   "fp_newsletter": {
-    "version": "5.1.1",
+    "version": "5.2.0",
     "t3_versions": [
       12
     ],
     "description": "Plugin for newsletter subscription and unsubscription with double opt in (and double opt out). For: direct_mail or luxletter / tt_address or fe_users. A log is written.",
-    "hash": "sha256-R0So51c+D22hBKSchuwugQWODe/gDcIAsOpVDsGoKb4="
+    "hash": "sha256-Bd0ijWrF6Os1oYEYukmj/rQjxTG7i7gckuecZFsz4Gg="
   },
   "fp_product_features": {
     "version": "0.2.0",
@@ -21397,12 +21393,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "frontend_editing": {
-    "version": "4.0.7",
+    "version": "4.0.8",
     "t3_versions": [
       11
     ],
     "description": "Enable editors to work with the content in the most intuitive way possible",
-    "hash": "sha256-pTxebOT3OhuVBDtNjVnf9FqYsEy0p92A9+4NkNWIryQ="
+    "hash": "sha256-kHv2w3tuz4HIyVUo3VECitLJ2F5hA/9CxolfH9CNKso="
   },
   "frontend_user": {
     "version": "1.1.1",
@@ -23568,13 +23564,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "hh_accordion": {
-    "version": "0.5.2",
+    "version": "0.5.3",
     "t3_versions": [
       11,
       12
     ],
     "description": "",
-    "hash": "sha256-02dBAectuUXxWE2OhpOJlgUBo67lBPGbFtaZHU+9I/A="
+    "hash": "sha256-G2+iNA8M/DEKCmonMGaPfqfFQ/7N1PBrXHbVJzPJSks="
   },
   "hh_add_statuscode": {
     "version": "0.1.22",
@@ -23634,22 +23630,22 @@
     "hash": "sha256-/jR61A4Ct78lkWaI1fgVll8PuUruNlnBE2E98U97j/s="
   },
   "hh_tt_address_places": {
-    "version": "2.1.1",
+    "version": "2.2.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Simply adds places / companies TCA for EXT:tt_address.",
-    "hash": "sha256-1FnmaDJX8TXzsg/UvB+th/G/EX/i+NxNFTgUzrjpeVY="
+    "hash": "sha256-x+CSVG68TMFcgxek+hK9/LnFX0suW3/1PIoMpRu+7Gs="
   },
   "hh_video_extender": {
-    "version": "0.2.1",
+    "version": "0.2.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "Hauer-Heinrich - Extends sys_file_reference video/media. Added attributes to select in content element (eg textmedia) like: muted, loop, controls, previewImage and so on.",
-    "hash": "sha256-m2DRCD7SsLntjCCibae85Tq6ujBQ2xdavwEzId5y6io="
+    "hash": "sha256-SfcjM0ekGvrahJHRRpXq9P7+Z5zaUGjWsxlyHBQ5320="
   },
   "hhcanonical": {
     "version": "1.0.0",
@@ -25800,14 +25796,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "indexed_search_gc": {
-    "version": "3.0.0",
+    "version": "4.0.0",
     "t3_versions": [
       9,
       10,
       11
     ],
     "description": "Provides a configurable Scheduler Task to Cleanup old IndexedSearch Entries",
-    "hash": "sha256-/G8yxvaAe3a7KVZjq8HjXjX0Vz+fTACVhaivcUPle4Q="
+    "hash": "sha256-zujeStyUa+J6hiZKgqNGKCyZWYcGWbSs5GwhoXHSAv0="
   },
   "indexed_search_mysql": {
     "version": "0.0.1",
@@ -26128,6 +26124,14 @@
     "t3_versions": [],
     "description": "This extension provide an xml output to perform an xml photogallery with thumbnails, using a folder, for example usable with MM Flash",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "interamt_connect": {
+    "version": "1.0.0",
+    "t3_versions": [
+      12
+    ],
+    "description": "Creates an overview of all job advertisements of a public authority, which are listed in the public service job portal INTERAMT.de.",
+    "hash": "sha256-2plsAJXSUMl6BQSjWkG2uw3DqZWbK+rRbPoa+f2qZHI="
   },
   "interest": {
     "version": "1.3.0",
@@ -28995,13 +28999,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ke_search": {
-    "version": "5.1.0",
+    "version": "5.1.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "Faceted fulltext search for TYPO3. Fast, flexible and easy to install and use. Indexes content directly from the databases. Features faceting / filtering, file indexing, images in result lists and respects access restrictions.",
-    "hash": "sha256-9HTL4nyBZhSxpxxcW08fO2kZUaWdzJRRCC2LLjuah30="
+    "hash": "sha256-0eG+M2NZaL7Ofe9zljd2EQy38bWvl6G4dW+qzmb9+TI="
   },
   "ke_search_dam_tags": {
     "version": "0.0.1",
@@ -29385,14 +29389,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "klaro_consent_manager": {
-    "version": "1.3.1",
+    "version": "1.4.0",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Functionally complete, flexible TYPO3 integration of Klaro! Consent Management by KIProtect. Klaro! is a powerful tool that protects your visitors' privacy and data and helps you run a GDPR compliant website.",
-    "hash": "sha256-4PI72LPtx6xtmr/ck5cJhQVLNuHTKyJYqyiSzsJWK0I="
+    "hash": "sha256-Se2hj0DDVLVbyMgUwhlVt410s0r3jvZE1/E1zfFgXuM="
   },
   "km_dam_extension": {
     "version": "1.0.2",
@@ -30475,12 +30479,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "libconnect": {
-    "version": "9.0.0",
+    "version": "9.0.1",
     "t3_versions": [
       11
     ],
     "description": "Diese Extension ist von Avonis im Auftrag der Staats- und Universitaetsbibliothek Hamburg entwickelt worden. Mit ihr lassen sich Ergebnisse aus den Informationssystemen EZB und DBIS der Universitaet Regensburg direkt in das TYPO3-System einbinden.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-YEqp96LOaFDcGxW77lNldVy/DgIqlCNpYzDL8TNWm08="
   },
   "libideal": {
     "version": "1.0.0",
@@ -33557,14 +33561,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mfa_frontend": {
-    "version": "0.3.0",
+    "version": "1.0.0",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Enable MFA (Multi-Factor Authentication) for Frontend accounts.",
-    "hash": "sha256-nngjEm3y5RB7pXfta1PVQvPtk+yRK/xHzCtBp4a73bo="
+    "hash": "sha256-HEXIgIF/BL7XKNGQ12SOzDQj9jH2hqGV+d5K6/pLYQk="
   },
   "mfa_hotp": {
     "version": "1.1.0",
@@ -34551,13 +34555,13 @@
     "hash": "sha256-1w+Kwddqf7AOK76Y5UxEutY5ZRsDl12FnRpsz4YoywM="
   },
   "mksearch": {
-    "version": "11.0.12",
+    "version": "11.0.13",
     "t3_versions": [
       10,
       11
     ],
     "description": "Generic highly adjustable and extendable search engine framework, using Zend Lucene, Apache Solr or ElasticSearch. But support for other search engines can be provided easily.",
-    "hash": "sha256-p8kVBAh3yr36wX1B4LR23OQa1OPn7qe3L9HS0IC3f7g="
+    "hash": "sha256-PYxBX2mB0CYkU52NfI23sbu5VqkgOZJWTuktIFPQY/Q="
   },
   "mktools": {
     "version": "11.0.5",
@@ -35587,13 +35591,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mr_usrgrpmgmt": {
-    "version": "1.2.0",
+    "version": "1.3.0",
     "t3_versions": [
-      6,
-      7
+      10,
+      11,
+      12
     ],
     "description": "This is a Backend-related extension to manage both Backend and Frontend users from the edit form of Backend/Frontend groups. Easily assign users to groups or remove them from groups.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-xzdh+vvQ+g41TveyFw9Bh4u4hCSeV2/FOJkX3W1bqAI="
   },
   "mrf_apimacmade_extended": {
     "version": "0.3.0",
@@ -41299,13 +41304,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "parsedown_extra": {
-    "version": "3.0.1",
+    "version": "3.0.3",
     "t3_versions": [
       11,
       12
     ],
     "description": "Provides a content element which displays markdown files. Parses email links with TYPO3 encryption. ViewHelper for parsing Markdown from individual sources. Defining abbreviations globally by using TypoScript. Code Highlighting.",
-    "hash": "sha256-A4nqhINuuyA8+QyohfmavorKz0qkPOS9feLXRTvHgFQ="
+    "hash": "sha256-lUcZoybe+3T+BtODp0vB43tp3UeZKQNUfD3g4xnjCIo="
   },
   "partner": {
     "version": "0.5.21",
@@ -43424,13 +43429,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "portfolios": {
-    "version": "4.1.1",
+    "version": "4.1.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "Extension for displaying portfolios and references",
-    "hash": "sha256-NrI0SU0xYUE2nB/HdCsg20hwmomfVkl/w7MUHapkKsw="
+    "hash": "sha256-4RnVQ7/iACq7gqI934DDU09QCmGZfox4peB4CqdgPgs="
   },
   "porto": {
     "version": "0.9.3",
@@ -45456,13 +45461,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "recent_content_widget": {
-    "version": "1.1.2",
+    "version": "1.1.3",
     "t3_versions": [
       10,
       11
     ],
     "description": "A widget for the dashboard to display new and recently updated content elements.",
-    "hash": "sha256-jRjeLem53xn802a+AHg5jUtMvXKwU6jPO6NoIZ70EOc="
+    "hash": "sha256-1/PWZCHP1j9Hal6GBt/iVfROoIddf+qNQaIay6NN/qI="
   },
   "recentcontent": {
     "version": "1.2.1",
@@ -47356,12 +47361,12 @@
     "hash": "sha256-1R6R/FaDjuH/WNBQ1NxZQhTyBu/QxbdGSafje7fDfHw="
   },
   "rte_ckeditor_image": {
-    "version": "11.0.11",
+    "version": "11.0.14",
     "t3_versions": [
       11
     ],
     "description": "Adds FAL image support to CKEditor for TYPO3.",
-    "hash": "sha256-DVuaFIiUl0ZoLuPlQsHr1MqJjEd5Qx3Hz9t+4vkQq4s="
+    "hash": "sha256-t6vzmnvZGyGRKzq59Hao+yL9w0GKVhtTqQn7mj6UvmM="
   },
   "rte_ckeditor_microdata": {
     "version": "10.1.0",
@@ -48934,13 +48939,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "secure_downloads": {
-    "version": "5.0.2",
+    "version": "5.0.3",
     "t3_versions": [
       10,
       11
     ],
     "description": "\"Secure Download\": Apply TYPO3 access rights to ALL file assets (PDFs, TGZs or JPGs etc. - configurable) - protect them from direct access.",
-    "hash": "sha256-AUA38o5aw8LVsdEVms+nHwfrDrnrK0NT/ooIxbXPRKc="
+    "hash": "sha256-rBJFNwkvXa+vCTCIm6xpe5y2na+Yszrm9zELcpiSdvY="
   },
   "secure_filemount": {
     "version": "1.0.1",
@@ -50667,12 +50672,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "site_generator": {
-    "version": "2.0.0",
+    "version": "3.0.0",
     "t3_versions": [
-      10
+      12
     ],
     "description": "Site generator wizard used to generate mini-website or duplicate tree model, it will automatically create associated BE/FE groups, create directories with associated files mount, add domain name, update Typoscript configuration (folders/pages ID and TCEMAIN.clearCacheCmd), update slugs.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-ZAEeD1Z1ZZZe0kC3j5S8cUJf2+XWJiaQ8ZTqkqnVc3s="
   },
   "site_jtagcloud": {
     "version": "0.9.1",
@@ -61862,13 +61867,13 @@
     "hash": "sha256-jWR/gqSKGzy0yv3fdtX0Dp3GycnE25dhtg/sCI8t/hI="
   },
   "vite_asset_collector": {
-    "version": "1.5.0",
+    "version": "1.6.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Bundle your TYPO3 frontend assets with Vite",
-    "hash": "sha256-guK/gll0Aa/7/D+wuAkmVo9prUgTvWcW3ZTvbwlP3EA="
+    "hash": "sha256-i/ZMbL48VWVdxHHUGwP4hroEi9+J3WkVIFGrtbjV9q8="
   },
   "vjchat": {
     "version": "0.3.4",
@@ -63590,12 +63595,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ws_less": {
-    "version": "12.0.0",
+    "version": "12.0.1",
     "t3_versions": [
       12
     ],
     "description": "Compiles LESS files to CSS files.",
-    "hash": "sha256-LHOwQTNJRpsi1OvhiF7WMpxsWWJJnGsk3UVHf1xr7Fc="
+    "hash": "sha256-Oa5NVfv0LylNWX5HA4MI1Jc+Vuz0WoZn65fVJzWWX1k="
   },
   "ws_map": {
     "version": "0.1.1",
