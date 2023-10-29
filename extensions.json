@@ -3129,12 +3129,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "authtoken": {
-    "version": "2.1.2",
+    "version": "2.2.1",
     "t3_versions": [
+      11,
       12
     ],
     "description": "Once installed you can create authentication tokens for frontend users in the backend. You can then retrieve protected pages by submitting this token as an \"X-User-Token\" with the header.",
-    "hash": "sha256-rVETlXonuiZD7EekjQit6wojyNVSKqMBxnfn7grZM2M="
+    "hash": "sha256-+vzbCEJOipo19DMbs/wmLkpYH0HdGIS6wlpOS8bIWYc="
   },
   "auto404": {
     "version": "1.1.2",
@@ -32399,13 +32400,13 @@
     "hash": "sha256-RL/ijlDjQe3WAHyWCf4+14FglEOm3e3hxcZ5GFOwHIw="
   },
   "mastodon_feed": {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "Embed a mastodon feed, configurable for a timeline or a tag from a specific server",
-    "hash": "sha256-HhAEPPV5Q0jBLhRGVHstY4RqbmVa6tRnEbE57bF46Ys="
+    "hash": "sha256-GG1tlD9AAyNI/TMMCv9s9GGpi8hbN3vG0yqAZtmzUNc="
   },
   "material_design_lite": {
     "version": "3.0.0",
@@ -59697,12 +59698,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "tscobj": {
-    "version": "3.0.2",
+    "version": "4.0.0",
     "t3_versions": [
-      11
+      12
     ],
     "description": "A plugin which lets you use any TypoScript object as a normal content element.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-FqD8qmItj1CFLaXrrHfXKprzaMTRf9TQCpz6TxsGI/g="
   },
   "tsconf": {
     "version": "11.0.0",
