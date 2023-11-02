@@ -680,13 +680,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ace_editor": {
-    "version": "2.1.0",
+    "version": "2.2.0",
     "t3_versions": [
       10,
       11
     ],
     "description": "ACE editor for file list",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-7MwxjrN4lZCqRlYvDVDxifcOYEMPKPjobP2A1P0jhko="
   },
   "acny": {
     "version": "1.0.5",
@@ -1078,13 +1078,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "additional_tca": {
-    "version": "1.14.14",
+    "version": "1.14.16",
     "t3_versions": [
       11,
       12
     ],
     "description": "Additional TCA fields and tools",
-    "hash": "sha256-Cd2mffm9SyVku2t9dNRt7DD3GQzsHS8uoPyn1hMece4="
+    "hash": "sha256-zL61wgC1uzfFqZYVVcVxkwf81i1w21stffTazQj/fWY="
   },
   "addlinkheader": {
     "version": "0.0.4",
@@ -1118,13 +1118,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "address_manager": {
-    "version": "4.0.4",
+    "version": "4.0.5",
     "t3_versions": [
       11,
       12
     ],
     "description": "Manages and displays address and person records. Comes with three kinds of categories (groups, organisations and positions) with frontend filtering and fulltext search. Includes Google Maps and SEO support. There is also a pro version available. (Personenverzeichnis, Personendatenbank, Mitarbeiterverzeichnis, Filialfinder, Umkreissuche, Standortuebersicht, radial search, radius search)",
-    "hash": "sha256-io1le5CAx9GHt8ij7wXDm0Mz937UcvEO/TO0C4pE2bo="
+    "hash": "sha256-Sdkr0au6UqIroYZHYndsqB8RwUXO04yV0026WwvtmkY="
   },
   "addressgroups": {
     "version": "1.4.0",
@@ -2322,7 +2322,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ameos_tarteaucitron": {
-    "version": "2.2.2",
+    "version": "2.3.0",
     "t3_versions": [
       8,
       9,
@@ -2331,7 +2331,7 @@
       12
     ],
     "description": "Integrates tarteaucitron.js in TYPO3 (see : https://tarteaucitron.io )",
-    "hash": "sha256-kJvw0Z17T43qVnchDxuaf5w3jtezYCAP5j7MBgQ6qQ4="
+    "hash": "sha256-EmvaktUIfxJT1cJ3bFq+rDJobZnPGilY9XGA9p3wPH4="
   },
   "ameos_typo3_vulnerabilities": {
     "version": "1.0.0",
@@ -3129,13 +3129,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "authtoken": {
-    "version": "2.2.1",
+    "version": "2.3.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Once installed you can create authentication tokens for frontend users in the backend. You can then retrieve protected pages by submitting this token as an \"X-User-Token\" with the header.",
-    "hash": "sha256-+vzbCEJOipo19DMbs/wmLkpYH0HdGIS6wlpOS8bIWYc="
+    "hash": "sha256-vvWIeivePaVn6EQb9w3VMlcGU7fSIfdSodjPPcfqeos="
   },
   "auto404": {
     "version": "1.1.2",
@@ -4868,6 +4868,15 @@
     "description": "This blog extension uses TYPO3s core concepts and elements to provide a full-blown blog that users of TYPO3 can instantly understand and use.",
     "hash": "sha256-8VXmI1h05n6YaLaV9b0dOHehoKKMpOzlTT4zjWkQopI="
   },
+  "blog_author": {
+    "version": "1.0.0",
+    "t3_versions": [
+      11,
+      12
+    ],
+    "description": "Display authors - post detail view",
+    "hash": "sha256-Zld5boOhYFkfHC/FmjG+xszdTE5+LY3paxVnSFYHffM="
+  },
   "blog_example": {
     "version": "12.0.3",
     "t3_versions": [
@@ -5921,12 +5930,12 @@
     "hash": "sha256-l7Ke7OXseSTX2PdTSMy7XU4cPLjfa8LHl7q3AEDziHM="
   },
   "bw_jobs": {
-    "version": "2.3.3",
+    "version": "3.0.0",
     "t3_versions": [
-      11
+      12
     ],
     "description": "A job board extension for TYPO3 CMS.",
-    "hash": "sha256-PLFomnjs8nCavhXyKK9X07BNC8YN18qDiLjRAIZD8iQ="
+    "hash": "sha256-oBWRnNZmW7JdO/PgSzy7/Hwqdm1XmC74J+4rUS+69q0="
   },
   "bw_json_ld": {
     "version": "0.0.1",
@@ -8795,12 +8804,12 @@
     "hash": "sha256-1hFuqLB1dXRWm1a878NTOR2tD/VR4UnDSP+S4emghR4="
   },
   "clubmanager": {
-    "version": "1.0.8",
+    "version": "1.0.9",
     "t3_versions": [
       11
     ],
     "description": "The TYPO3 module for managing clubs, foundations and associations. With Clubmanager, you get the tool to manage the organization AND public relations of your club or association in a cost-saving and effective way.",
-    "hash": "sha256-E/uC8Tyn7PtI9TzDl3BcEqDX+thOSCikNFVqY35r7Ik="
+    "hash": "sha256-PSYzHDUZvmd+0H/ue2f3YoOPCIIpPZeeJzCWT1741Rg="
   },
   "cm_ajax": {
     "version": "0.6.0",
@@ -10189,13 +10198,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cookieconsent_plus": {
-    "version": "0.2.0",
+    "version": "1.0.0",
     "t3_versions": [
-      10,
-      11
+      11,
+      12
     ],
     "description": "Cookie Consent Plus adds some new features to Dirk Persky's Cookie Consent extension (dp_cookieconsent).",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-RbhGP0thpWqFqC/65d/8Ty8ALDK1PXbNl+L6pSPBbOM="
   },
   "cookieman": {
     "version": "2.14.3",
@@ -12860,12 +12869,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "dd_deepl": {
-    "version": "12.0.1",
+    "version": "12.0.4",
     "t3_versions": [
       12
     ],
-    "description": "Translates pages, content and records using DeeplL",
-    "hash": "sha256-W3J0jSB1VJKTkeLAp2hRqEEDdKHDYgYlHtop/2DTqo8="
+    "description": "Translates pages, content and records using DeepL",
+    "hash": "sha256-emPhN+JR4CFhVAl3rp27FjduePAjq8jXwLAgHiHLpWc="
   },
   "dd_download": {
     "version": "1.1.1",
@@ -15310,13 +15319,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "dp_cookieconsent": {
-    "version": "12.0.4",
+    "version": "12.1.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Enable a cookie consent box. Let you visitors control the usage of cookies and load script or content after a consent. (ePrivacy, TTDSG)",
-    "hash": "sha256-3C8QW67k3kF7tfWFDlR0bZ9C/OM7DXBsBHSFdXSmr74="
+    "hash": "sha256-dsI8sT1cLPHw56H0SgA8F1jA4A+wh/TC81Zv8wWa6Ek="
   },
   "dp_editpanel": {
     "version": "0.0.2",
@@ -15357,13 +15366,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "dpn_glossary": {
-    "version": "5.0.3",
+    "version": "5.0.4",
     "t3_versions": [
       11,
       12
     ],
     "description": "Glossary extension with page parser",
-    "hash": "sha256-+eelqu19X+p+L99Qoixm0frJ7LuZ4LbhbljzUXHWMqk="
+    "hash": "sha256-8AVNoRmnbx5j8GZOmT6H3aBkS8nkN45W2cQzKh9XPQY="
   },
   "dr_blob": {
     "version": "2.3.2",
@@ -17350,12 +17359,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ew_llxml2xliff": {
-    "version": "5.0.0",
+    "version": "5.1.0",
     "t3_versions": [
       12
     ],
     "description": "Provides a backend module to convert locallang.xml and locallang.php files",
-    "hash": "sha256-tmziQkJDY03wb7QW0jC2nD9AC95B1epTadpdAQq51ks="
+    "hash": "sha256-5U7R/YftUAaJJ8mcQt46YyyppcqdBVpoLxJNYk3W1Ws="
   },
   "ew_socialfeedwall": {
     "version": "3.0.0",
@@ -19093,13 +19102,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "feuserextrafields": {
-    "version": "5.3.0",
+    "version": "5.4.0",
     "t3_versions": [
       10,
       11
     ],
-    "description": "This TYPO3 extension adds additional common fields to FE users and provides Extbase models for this.",
-    "hash": "sha256-YBt64WpNSJwKCWNJAAAFuEF9qtyAZsbR/P8vAcp9Mi4="
+    "description": "Extra fields for TYPO3 frontend users and drop-in replacement for the removed FrontEndUser Core model",
+    "hash": "sha256-fKgpL3e8Y6nRlCZu8NrxoL6aOaYb3dCTgv2W/+BZXvw="
   },
   "feuserfeediting": {
     "version": "0.0.2",
@@ -20007,13 +20016,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fluid_form": {
-    "version": "4.0.5",
+    "version": "4.0.6",
     "t3_versions": [
       11,
       12
     ],
     "description": "Forms configured only by TypoScript",
-    "hash": "sha256-vEsHEyBaPUBW2Yrm7ll8xIeDfllIsBI9bxp+k2wFwUc="
+    "hash": "sha256-Ba1mMo8gPmXEQJxnp6+KMZIKCUfn0Gs3YYjTCAHZrck="
   },
   "fluid_form_elements": {
     "version": "1.0.0",
@@ -20024,13 +20033,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fluid_fpdf": {
-    "version": "2.4.4",
+    "version": "2.4.6",
     "t3_versions": [
       11,
       12
     ],
     "description": "This extension provides you a complete set of ViewHelpers for dealing with FPDF by using Fluid. You can use the ViewHelpers easily in own Extensions just by defining the fpdf-Namespace. Additionally you are able to use the build in plugin, for displaying predefined PDF. This plugin offers you automatically all available PDFs.",
-    "hash": "sha256-Vd65EqfjpiyzWaByqqbWUboee+jXTZiLgnKTuAej+0E="
+    "hash": "sha256-wXPFao5tedSA8iwBS/Ho3QXB8p3Fl3C3JSohuU9u3hU="
   },
   "fluid_info": {
     "version": "0.1.0",
@@ -21190,13 +21199,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fp_fractionslider": {
-    "version": "1.3.2",
+    "version": "2.0.0",
     "t3_versions": [
-      10,
-      11
+      12
     ],
     "description": "Can be used with the \"jQuery-FractionSlider\", the \"Professional jQuery Content Slider Plugin - Slider Pro\" or the \"Slider revolution\".",
-    "hash": "sha256-LmVj4/4A+z46sotYj/wob+h7t4Efcxn7ICh7d9o9gaI="
+    "hash": "sha256-BWibo3/20xqtaX8DidK/HYtgtpJvSyzjCx9HqXRROF8="
   },
   "fp_masterquiz": {
     "version": "4.0.3",
@@ -22392,13 +22400,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "glossaries": {
-    "version": "4.0.0",
+    "version": "4.0.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "Extension for displaying and managing your website glossar. Includes a backend module, statistics, extended authorizations and much more.f",
-    "hash": "sha256-L4i4ZR81Aq0sQowhJOCssPAN2fd1Cn4xgsLwVM1bJtY="
+    "hash": "sha256-LAFOVdJ+VnalpLKA/6Va32Dus6QPjHj4zgJwMH68LW0="
   },
   "glossarify": {
     "version": "0.0.1",
@@ -23514,12 +23522,12 @@
     "hash": "sha256-qsVb91W381Ah5wL7o6z9RqpRGdTMCJ/CKYGdCc3xWoI="
   },
   "headless": {
-    "version": "4.1.1",
+    "version": "4.2.2",
     "t3_versions": [
       12
     ],
     "description": "Makes TYPO3 a headless CMS. Content and pages available in JSON format. Supports multilanguage, multidomain, forms, frontend login, workspaces and more. For JS frontend app see nuxt-typo3 package",
-    "hash": "sha256-bzuwvP8OFWFBiTlQUKTF5clVxTTf418qilM3gEl+GlA="
+    "hash": "sha256-np124cVmFeSvH5E7V4mX46uWWTxq/9opbpqEACaVUSc="
   },
   "headless_gridelements": {
     "version": "3.0.0",
@@ -25291,14 +25299,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "image_jack": {
-    "version": "0.9.4",
+    "version": "0.9.5",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Jack of all trades concerning image optimization. Also introduces the usage of next-gen-image-formats",
-    "hash": "sha256-je27zB3YjRV/Ju2Oms3WGIjMV/jP0KAOoOgRc9xsIE4="
+    "hash": "sha256-0H2KbVnvjsfTpDVGClcDnEa1sUZ+8ZyD6uHb7ZUv2Vw="
   },
   "image_slider": {
     "version": "1.0.2",
@@ -25695,12 +25703,12 @@
     "hash": "sha256-1BtHqdHxMgqWSvwa9lEB9dgde/Cg811PY1DMDC7F9sQ="
   },
   "in2publish_core": {
-    "version": "12.1.0",
+    "version": "12.2.0",
     "t3_versions": [
       11
     ],
     "description": "Content publishing extension to connect stage and production server",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-jr0mF8WDu+nE/opdhm70hqgMd2GPYDPwDgd2D1lKCcc="
   },
   "in2rss": {
     "version": "0.2.2",
@@ -26127,22 +26135,22 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "interamt_connect": {
-    "version": "1.0.0",
+    "version": "1.1.1",
     "t3_versions": [
+      11,
       12
     ],
     "description": "Creates an overview of all job advertisements of a public authority, which are listed in the public service job portal INTERAMT.de.",
-    "hash": "sha256-2plsAJXSUMl6BQSjWkG2uw3DqZWbK+rRbPoa+f2qZHI="
+    "hash": "sha256-BKvdEYjdgOYFjUJf/F5bw/Y6iGpME50i8r4Hic85Ks4="
   },
   "interest": {
-    "version": "1.3.0",
+    "version": "2.0.0",
     "t3_versions": [
-      9,
-      10,
-      11
+      11,
+      12
     ],
     "description": "REST and CLI API for adding, updating, and deleting records in TYPO3. Tracks relations so records can be inserted in any order. Uses remote ID mapping so you don't have to keep track of what UID a record has gotten after import. Data is inserted using backend APIs as if a real human did it, so you can can inspect the record history and undo actions.",
-    "hash": "sha256-1rCnGLewc3b/tvNCtDMF7B+yHIMarurnOFp8327wUXA="
+    "hash": "sha256-RPxYRhHHNDQrHN2zAmIU2771Y1truPENLkwXOAZ7jqg="
   },
   "internal_notes": {
     "version": "1.2.0",
@@ -27647,13 +27655,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "job_finder": {
-    "version": "4.0.4",
+    "version": "4.0.5",
     "t3_versions": [
       11,
       12
     ],
     "description": "Job finder extension including job listing, details, application, microdata and more.",
-    "hash": "sha256-pdNCbsOimXoSYvfgCeebEDzCPdRmRjRBG5jO89aw/w0="
+    "hash": "sha256-gsaRSwYy7+zWbVTkl9+m3bEFJo0ekxDfIBltFzV7yHM="
   },
   "job_market": {
     "version": "2.1.1",
@@ -29390,14 +29398,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "klaro_consent_manager": {
-    "version": "1.4.0",
+    "version": "1.5.0",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Functionally complete, flexible TYPO3 integration of Klaro! Consent Management by KIProtect. Klaro! is a powerful tool that protects your visitors' privacy and data and helps you run a GDPR compliant website.",
-    "hash": "sha256-Se2hj0DDVLVbyMgUwhlVt410s0r3jvZE1/E1zfFgXuM="
+    "hash": "sha256-Z5tjd2NnW90fuKBprUvycIpmtjXiG+iPXQEH0nJeJg0="
   },
   "km_dam_extension": {
     "version": "1.0.2",
@@ -35063,13 +35071,13 @@
     "hash": "sha256-QsqXRZxkvXzC0H/uAcXLLO2Ppw/h7HCRGVgFzUelPDI="
   },
   "modules": {
-    "version": "6.1.0",
+    "version": "6.1.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Modules - Little helper for creating frontend and backend modules in TYPO3",
-    "hash": "sha256-GcxLD4TykyCrGXNQFRBoVGFLtY0d56spGsqHd9a9oJc="
+    "hash": "sha256-Ivj9MdnKhOfePwLO1FOvoDr8mtH0xCDzc0m40kQ90xE="
   },
   "modulis_animated_gif": {
     "version": "0.0.4",
@@ -40443,13 +40451,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "operations": {
-    "version": "8.0.4",
+    "version": "8.0.5",
     "t3_versions": [
       11,
       12
     ],
     "description": "TYPO3 extension to manage firefighter operations with detailed reports, images, used resources or vehicles, map view for locations.",
-    "hash": "sha256-lvUZU/IzcNDfRrl9pVDz4ipZ9O45C8iU5LnVqlkuvwo="
+    "hash": "sha256-fkT0bGqHPr22209P34jH7h2lxeajRrNQzuTkHvRvC4o="
   },
   "opetraining": {
     "version": "0.0.1",
@@ -41305,13 +41313,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "parsedown_extra": {
-    "version": "3.0.3",
+    "version": "3.0.4",
     "t3_versions": [
       11,
       12
     ],
     "description": "Provides a content element which displays markdown files. Parses email links with TYPO3 encryption. ViewHelper for parsing Markdown from individual sources. Defining abbreviations globally by using TypoScript. Code Highlighting.",
-    "hash": "sha256-lUcZoybe+3T+BtODp0vB43tp3UeZKQNUfD3g4xnjCIo="
+    "hash": "sha256-Rh+8vWhqTarbE8eBbg4lVxE6KlSzZDToKdQL0nmqwFI="
   },
   "partner": {
     "version": "0.5.21",
@@ -43352,13 +43360,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "poll": {
-    "version": "4.0.10",
+    "version": "4.0.11",
     "t3_versions": [
       11,
       12
     ],
     "description": "Create polls/surveys/Umfragen in TYPO3. Multiple question types and answer layouts. There is also a PRO version available which adds custom user answers and more. (Umfrage, Poll, Opinion, Vote, SimplePoll)",
-    "hash": "sha256-3qkKvzGRKeaVVSszLRYKXlNGxZiF+89z9dv3LGJ9E5g="
+    "hash": "sha256-bfwWnELyaOb9dwiw0yEYjmfVNIDygfxozO9bU09jaHU="
   },
   "polyglot": {
     "version": "1.0.0",
@@ -43430,13 +43438,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "portfolios": {
-    "version": "4.1.2",
+    "version": "4.1.3",
     "t3_versions": [
       11,
       12
     ],
     "description": "Extension for displaying portfolios and references",
-    "hash": "sha256-4RnVQ7/iACq7gqI934DDU09QCmGZfox4peB4CqdgPgs="
+    "hash": "sha256-JaB3aUTiuSu5exOLzMoCYy/JRvVOlcb1MzRgALZ2AZQ="
   },
   "porto": {
     "version": "0.9.3",
@@ -43643,22 +43651,22 @@
     "hash": "sha256-DXTxBoXGmgNbYhRt8E6dooUNwnbuxOD6Bav9cbDhHs0="
   },
   "powermailautocomplete": {
-    "version": "2.1.0",
+    "version": "2.2.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Add autocomplete tokens to powermail fields",
-    "hash": "sha256-zF1hP6Fzzj1GbUCgHDhYjGdCKcItfICrqNAShog2TI8="
+    "hash": "sha256-xPMC4gxV6KZIvBWcJsMisQqd1M43uGKUL73uJLK3nnY="
   },
   "powermailcaptcha": {
-    "version": "1.4.0",
+    "version": "1.4.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Captcha Extension for Powermail",
-    "hash": "sha256-IrKt9lJOkt48QDk9uuAHIzWob1C6uShg5znnaUpH1F8="
+    "hash": "sha256-3bZ0ZcOKeIqg1XMac9xfmsat5yp8/fFIw4R/mrcC63A="
   },
   "powermailcustomcss": {
     "version": "1.1.0",
@@ -44922,13 +44930,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "questions": {
-    "version": "4.0.4",
+    "version": "4.0.5",
     "t3_versions": [
       11,
       12
     ],
     "description": "Questions is a frequently asked questions (FAQ) extension for TYPO3. It's compatible with following extensions: shop, ",
-    "hash": "sha256-5j81h7Yjexv3obSRhN6Amv/UHCmYtRyGczUd8P8gHzM="
+    "hash": "sha256-nhdRVhONWzDmfy09MyORW3rS3lh52qld42uYQPO8jzc="
   },
   "quick_shop": {
     "version": "10.0.12",
@@ -47169,13 +47177,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "rss_app": {
-    "version": "3.0.1",
+    "version": "3.0.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "This Plugin enables you to display RSS.App feeds (Instagram, Twitter, Facebook and more) in TYPO3 - more information on https://rss.app",
-    "hash": "sha256-xGsASvuOELwqfkZw0qObb0NkLFT3ylpTLHWv+mCT/Gc="
+    "hash": "sha256-Eo7kLMbuzI9/UilkpYcRcQNWtz6tj5EPtoY9/KHor7c="
   },
   "rss_display": {
     "version": "5.0.1",
@@ -50001,12 +50009,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "shop": {
-    "version": "3.2.8",
+    "version": "3.2.9",
     "t3_versions": [
       11
     ],
     "description": "Simple Shop for TYPO3 incl. PayPal, PayPal-Plus, Klarna, Stripe, Bookmarks, UPS-API, Invoice generation, backend module, compare feature, graduated prices and many more - note there is a Pro version as well!",
-    "hash": "sha256-Fek/CYcSbNhQYZvyKLYBKn36FzQ/sJtpdv8XY+A2O/Q="
+    "hash": "sha256-/3d6YUEJ4kJfMsfxoJ1S8GPv3+T15M9Owd0Pj7pv6UE="
   },
   "shop3ox": {
     "version": "0.0.3",
@@ -52429,13 +52437,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "solver": {
-    "version": "0.2.7",
+    "version": "0.2.8",
     "t3_versions": [
       11,
       12
     ],
     "description": "Extends TYPO3's exception handling with AI generated solutions. Problems can also be solved from command line. Several OpenAI parameters are configurable and prompts and solution providers can be customized as desired.",
-    "hash": "sha256-MXu52UyYTWDiacqGKYXFjTNsVuMlFBF5Pwho56mTQPM="
+    "hash": "sha256-6TZQ6F5wWn0XsH/GtbfkWQB5YbWSgUFeysI4sgHAwg0="
   },
   "sorp": {
     "version": "0.1.0",
@@ -57959,13 +57967,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "tinyaccordion": {
-    "version": "7.3.0",
+    "version": "8.0.0",
     "t3_versions": [
-      10,
-      11
+      12
     ],
     "description": "An easy-to-use extension to display pages, tt_content or news elements as an Accordion. Runs with TinyAccordion or jQuery UI-Accordion.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-aDvmO3+k2mCjFWdXSzQxNU8ZfOKpEJJVNRXwT4IohIk="
   },
   "tinyimg": {
     "version": "1.6.1",
@@ -60678,14 +60685,6 @@
     "description": "TYPO3 AI is extension which utilizes ChatGPT to accelerate the translation process in TYPO3 CMS by leveraging Artificial Intelligence powerful natural language processing capabilities.",
     "hash": "sha256-v2OwGWzKTI4u5HdwFkL91nUdcDKJJHhAxnnAiHTxyHg="
   },
-  "typo3_antispam": {
-    "version": "1.0.1",
-    "t3_versions": [
-      11
-    ],
-    "description": "CleanTalk adds anti-spam protection that is invisible to users, without the use of captcha/reCaptcha.",
-    "hash": "sha256-zVd2ZN5XYHFAC28ybtUVs316L38LGKPbhmr+uk5zXx4="
-  },
   "typo3_blog": {
     "version": "1.2.0",
     "t3_versions": [
@@ -61704,12 +61703,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "videos": {
-    "version": "12.0.6",
+    "version": "12.0.8",
     "t3_versions": [
       12
     ],
     "description": "Extends video file properties and provides a player for playlists, cue points and subtitles",
-    "hash": "sha256-JzPAeYmYHYq9Hh/ll1BWQbaHM+pSX8nwCoctEvAYjYk="
+    "hash": "sha256-qCR6ftPXa7FOV1GRJrj7VzcEfml1Erx8Ocng0JWAplw="
   },
   "videoswitcher": {
     "version": "0.0.4",
@@ -61845,14 +61844,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "visitor_analytics": {
-    "version": "1.0.9",
+    "version": "1.0.10",
     "t3_versions": [
       7,
       8,
       9
     ],
-    "description": "The Website Intelligence Platform. ",
-    "hash": "sha256-W6TEhwdGiM8ZgZ+LzgBHYQHVniUDR+2jpxmHHT7mfaM="
+    "description": "TWIPLA (formerly Visitor Analytics) is a complete website intelligence solution. We provide businesses with all the statistics, behavior analytics features, and direct visitor communication tools they need to fully understand website performance and guide optimization. It uses cookieless tracking and at Maximum Privacy Mode, it can be used in complete compliance with all global data privacy laws.",
+    "hash": "sha256-IAZoHrW+XHW1CWPdnxSq1n8qkZ9Mfn8AV5yt4ArY6VE="
   },
   "visitorlist": {
     "version": "0.2.0",
@@ -62241,12 +62240,12 @@
     "hash": "sha256-iiWYdagbP9r7uhKQF1GyUIsJ4mB4o9kg8JZ7Y2b6Qwo="
   },
   "warming": {
-    "version": "1.1.2",
+    "version": "1.1.3",
     "t3_versions": [
       12
     ],
     "description": "Warms up Frontend caches based on an XML sitemap. Cache warmup can be triggered via TYPO3 backend or using a console command. Supports multiple languages and custom crawler implementations.",
-    "hash": "sha256-GuzsACnzY9SqY2HQ/O9+q63bmmxhVw5sM3uhe3hlC7g="
+    "hash": "sha256-/gUxsaczERqfLBVfuDeQwFEbu/ao2qR/Gcq3oXv/8wQ="
   },
   "warmup": {
     "version": "1.3.1",
@@ -63199,6 +63198,15 @@
     "description": "Extension to register and process credit transactions from a wise account.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "wit_nwreadtime": {
+    "version": "1.0.1",
+    "t3_versions": [
+      10,
+      11
+    ],
+    "description": "This extension is useful for displaying read time in  news detail view.",
+    "hash": "sha256-vDirnsi2VqRLFuFmNPM/HTpPaxVXrC7kuvqsceDfHwA="
+  },
   "wizard_crpagetree": {
     "version": "5.0.3",
     "t3_versions": [
@@ -63350,6 +63358,16 @@
     ],
     "description": "Single sign-on authentication for frontend user",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "woit_nsreadtime": {
+    "version": "1.0.1",
+    "t3_versions": [
+      10,
+      11,
+      12
+    ],
+    "description": "This extension is useful for displaying read time in  news detail view.",
+    "hash": "sha256-IBqAwnusiUBVxsvko7I7NUW73eIrkRSpws6XziQec6E="
   },
   "word": {
     "version": "0.0.1",
@@ -64414,14 +64432,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "xima_typo3_mailcatcher": {
-    "version": "1.3.0",
+    "version": "1.3.2",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Backend module to display mails that were send to log file",
-    "hash": "sha256-ns7nUQxin7wVmIOiXH8h32M+a6V7UXwXD+e6aScc17o="
+    "hash": "sha256-QFor0i58XkyY4koHNHs8aWUSc/2nyIiPIy+Eru/mOJw="
   },
   "xing": {
     "version": "1.0.3",
