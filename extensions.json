@@ -1102,14 +1102,14 @@
     "hash": "sha256-ws4p9ZwubKUSwVdHXfQjHAEbBFiGpGahQod75poXZgg="
   },
   "addons_tt_products": {
-    "version": "0.11.0",
+    "version": "0.11.1",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Many translations of standard texts for shops. Additional example templates and icons for the tt_products shop system version 2.14 and later.",
-    "hash": "sha256-eUO48cagld1zXQFOEH8ZWMI61vZjcYW50xbvYLJSrws="
+    "hash": "sha256-GPmlLA/TzRyGz+ZXS7ES9EuiiUjBSrXcszcZhqdf+RQ="
   },
   "address": {
     "version": "0.1.0",
@@ -6728,6 +6728,15 @@
     "description": "Add content to EXT:calendarize",
     "hash": "sha256-ZJRjyoRyTdvLyU3j8Nr5SJARjDjQmo4NP+fkt7dJ4CY="
   },
+  "calendarize_external": {
+    "version": "0.1.2",
+    "t3_versions": [
+      10,
+      11
+    ],
+    "description": "allow editors to create records for external ics imports",
+    "hash": "sha256-eX5ibnIzVrOGTipfjFm9KZ01v+M3DJpKwiWv2pq8VVE="
+  },
   "calendarize_news": {
     "version": "7.0.0",
     "t3_versions": [
@@ -8024,7 +8033,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cfc_league": {
-    "version": "1.11.4",
+    "version": "1.11.5",
     "t3_versions": [
       8,
       9,
@@ -8033,7 +8042,7 @@
       12
     ],
     "description": "Umfangreiche Extension zur Verwaltung von Sportvereinen und -wettbewerben. Extensive extension to manage sports clubs and competitions. https://github.com/digedag/cfc_league",
-    "hash": "sha256-MzFsY51HU8p+zVVlD1K/aJ0r6ngSUxsiyHto69usGpo="
+    "hash": "sha256-iuPUq0pCnxDo3/TEPD/Bgraj/EWZSaFrZyaTQJBHxCg="
   },
   "cfc_league_fe": {
     "version": "1.11.1",
@@ -15319,13 +15328,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "dp_cookieconsent": {
-    "version": "12.1.0",
+    "version": "12.1.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "Enable a cookie consent box. Let you visitors control the usage of cookies and load script or content after a consent. (ePrivacy, TTDSG)",
-    "hash": "sha256-dsI8sT1cLPHw56H0SgA8F1jA4A+wh/TC81Zv8wWa6Ek="
+    "hash": "sha256-sgKt1Gdqu144UO6VxtxA1ab7cthcKTbnK9/9a4KsyEI="
   },
   "dp_editpanel": {
     "version": "0.0.2",
@@ -17934,7 +17943,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "extractor": {
-    "version": "2.3.0",
+    "version": "2.3.1",
     "t3_versions": [
       8,
       9,
@@ -17942,7 +17951,7 @@
       11
     ],
     "description": "This extension detects and extracts metadata (EXIF / IPTC / XMP / ...) from potentially thousand different file types (such as MS Word/Powerpoint/Excel documents, PDF and images) and bring them automatically and natively to TYPO3 when uploading assets. Works with built-in PHP functions but takes advantage of Apache Tika and other external tools for enhanced metadata extraction.",
-    "hash": "sha256-+pyrdH5d83cxlpvg63gRvVjYPdj7AnFQJh8zGF1tMSk="
+    "hash": "sha256-GEwTzHpAAMutRzVtPGDw1Lpk9JpsbRAOT3dS70qQ6iA="
   },
   "extrasalt": {
     "version": "0.1.7",
@@ -21933,6 +21942,15 @@
     ],
     "description": "Converts Addresses into Geo-Locations by Google-Maps API. Saving this Geo-Locations in an own Database for prevent converting this again and again. Useful for extensions which needs such a Address to Geo-Coordinates service.",
     "hash": "sha256-v+CiJDvqHsSTrWl12GMt+rQTQCAIvPJ5yULk6ARfLW8="
+  },
+  "geo_redirect": {
+    "version": "1.0.2",
+    "t3_versions": [
+      11,
+      12
+    ],
+    "description": "Redirect users based on browser language and ip country to the right language version of the website",
+    "hash": "sha256-jyVzP65/mfEyo2SNMoW7rzsb78dh+P8DBhsnR3oMGx0="
   },
   "geocoding": {
     "version": "4.2.0",
@@ -26836,13 +26854,13 @@
     "hash": "sha256-Z2bLSGhx+Jfyo4E72layZAmEUf2WxeuF62cs9ItGS2o="
   },
   "jar_utilities": {
-    "version": "1.0.78",
+    "version": "1.0.79",
     "t3_versions": [
       10,
       11
     ],
     "description": "Utility classes that simplify TYPO3 development.",
-    "hash": "sha256-VHrk4VzuMDPxjAeJbK1g5cpWg3bRebL82b7NRK+xi/U="
+    "hash": "sha256-MFiyLjgZjddenYhSFwcWuo/I9PueQNQcy1w4yX6xChg="
   },
   "jasmine": {
     "version": "0.1.0",
@@ -30125,12 +30143,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "lbo_backend_shortcuts": {
-    "version": "0.1.0",
+    "version": "11.0.2",
     "t3_versions": [
-      10
+      11
     ],
     "description": "",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-AmipCdkNOpLstH2jk0q2RKfLcUv0eJfNAMsucfZ35X4="
   },
   "lbo_footnote": {
     "version": "1.0.0",
@@ -38022,12 +38040,12 @@
     "hash": "sha256-iuwtcMlSZTq4RbmiMlt+NiK26Zv9Vy251CVMFYV21VA="
   },
   "newsstylist": {
-    "version": "2.0.5",
+    "version": "4.0.5",
     "t3_versions": [
-      11
+      12
     ],
     "description": "all in one: one-touch settings within news plugin - fast & cool way to change the output of news, List view 5 layouts (default, card, carousel, newsletter) and swiper slider with some effects",
-    "hash": "sha256-xSUeqlBoWEB9dFGYcHl5Ju/XRlvLKGDWCXGmwTy+/Ss="
+    "hash": "sha256-aPh5SScFwlsY/yZtxlPFIxK6UJ6JxuCRCgAYHbyQrQk="
   },
   "newssubmit": {
     "version": "1.0.0",
@@ -38872,12 +38890,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ns_faq": {
-    "version": "12.0.0",
+    "version": "12.0.1",
     "t3_versions": [
       12
     ],
     "description": "One of the only feature-rich TYPO3 FAQ extension-ever. Live-Demo: https://demo.t3planet.com/t3t-extensions/faq/ You can download PRO version for more-features & free-support at https://t3planet.com/ns-faq-typo3-extension",
-    "hash": "sha256-jGOXG6ocBoH+azZHtvMF5cyFLs42GJBuFx4QOIUf1Is="
+    "hash": "sha256-rtCYV7LnAZhJt4gSYXxDtv8vPVjR1Gp6+Tm/NO1zwQE="
   },
   "ns_feedback": {
     "version": "12.0.0",
@@ -50726,12 +50744,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "siteconfiggitsync": {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "t3_versions": [
-      11
+      11,
+      12
     ],
     "description": "This extension will push changes to the site config yaml files back to your gitlab repository by creating a branch for the changes along with a merge-request. It is targeted towards automated CI/CD installations or sites in general where the site-config is git versioned. No local git binary or .git directory is needed. Requires EXT:siteconfigurationevents",
-    "hash": "sha256-Y+Ea0b9bzeHItI1Th4pVvRnFXaEEvwiuNwy6edn9vn4="
+    "hash": "sha256-wngcC86hjMpuZimEWko/NYQ1Tbjc4n6Q8xzJO/RUxnc="
   },
   "siteconfigurationevents": {
     "version": "1.1.0",
@@ -50774,6 +50793,15 @@
     "t3_versions": [],
     "description": "A sitemap menu type similar to Section index (pagecontent w/Index checked) but with indentation based on the heading/layout setting of a content element.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "sitemap_locator": {
+    "version": "0.1.0",
+    "t3_versions": [
+      11,
+      12
+    ],
+    "description": "Looks up XML sitemaps as part of a configured site. Supports various sitemap providers, e.g. by configured page type or robots.txt, and allows to implement custom providers.",
+    "hash": "sha256-YywTZEtWeziio5xGnwxnIx4AJ2Z2dQl4l2bij9eYJ7Y="
   },
   "sitemgr": {
     "version": "2.9.1",
@@ -57181,12 +57209,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "textimage_size": {
-    "version": "3.0.0",
+    "version": "3.0.2",
     "t3_versions": [
-      11
+      11,
+      12
     ],
     "description": "Use only with bootstrap 5 + boostrap package 12 to change the output size for standard bootstrap package output (column split 50% image - 50% text). For content types text/image (textpict), text/media and image",
-    "hash": "sha256-C1Pj+RhD8cpDBsZi5TBoB77dapG03bYRhzuQ7ZjggQ0="
+    "hash": "sha256-mJxcqwVSWkZ/4HJKbCVhojWaGLWMzbM0+PqVz1Ro4iI="
   },
   "textmedia_migration": {
     "version": "1.0.1",
