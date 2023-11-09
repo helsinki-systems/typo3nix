@@ -570,28 +570,28 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "academic_persons": {
-    "version": "0.1.0",
+    "version": "0.2.0",
     "t3_versions": [
       11
     ],
     "description": "Adds a person database to TYPO3 with plugins to show them in the frontend.",
-    "hash": "sha256-JUhj9gmY9/wwRwefHJVUZED+DsKQVEjJ2jUWNZQw/A0="
+    "hash": "sha256-/06ebc91Ur7LEoCa+4Psz3/f0z+KkyubO6arjm0LexM="
   },
   "academic_persons_edit": {
-    "version": "0.1.0",
+    "version": "0.2.0",
     "t3_versions": [
       11
     ],
     "description": "dds the option to assign frontend users to academic persons and allow editing the profiles in frontend.",
-    "hash": "sha256-BXrRtJMdbmGBI46KqwRSVQk7qHEr/C8phfZJXHUN6LA="
+    "hash": "sha256-gb9zvp7VcTpJe11/enSluAH5t4z2ozzTfAeiTtqkqT0="
   },
   "academic_persons_sync": {
-    "version": "0.1.0",
+    "version": "0.2.0",
     "t3_versions": [
       11
     ],
     "description": "Adds some configuration for external users providers like Active Directory.",
-    "hash": "sha256-r6cDwpHWGKJAjNF34sWBx8vB0cqWOEIsJcW8U56kAzI="
+    "hash": "sha256-6PW7gtjV9TlkOghiddD9M+zmGDGtkAu7PfX0H+uDCWY="
   },
   "academic_projects": {
     "version": "0.1.3",
@@ -3534,12 +3534,12 @@
     "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
   },
   "aws_tools": {
-    "version": "10.0.0",
+    "version": "11.0.0",
     "t3_versions": [
-      10
+      11
     ],
     "description": "This extension connects your TYPO3 instance to Amazon CloudFront. It rewrites all file paths in the frontend to match your CDN domain. You also have the possibility to invalidate Amazon CloudFront entries.",
-    "hash": "sha256-zHC3s6t8BamhH54XGpG0Ac0i6DWpCNpBokWKNS1Tv9U="
+    "hash": "sha256-NkEe8wTdN5RHJ2WZCy3q75fuhn49FbRx+V/dmuGe/oc="
   },
   "ax_https": {
     "version": "0.2.0",
@@ -5193,13 +5193,14 @@
     "hash": "sha256-dzYVNfYpzPxQ+7WvFPo16g5T8jdM7Ptrmvu1JHm0kLI="
   },
   "bootstrap_package_iconpack": {
-    "version": "0.1.1",
+    "version": "0.2.2",
     "t3_versions": [
       10,
-      11
+      11,
+      12
     ],
     "description": "Replaces the icons in bootstrap_package with iconpacks.",
-    "hash": "sha256-J92aLACyouTZo9YZD+8ybWObPURhvamnpH2IqlA6ak4="
+    "hash": "sha256-FpgyOIkJYweGSQ3u9AG5jmtANfcmbifAFdYGx69Mcag="
   },
   "bootstrapicons": {
     "version": "0.0.1",
@@ -13787,14 +13788,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "direct_mail_userfunc": {
-    "version": "2.2.0",
+    "version": "2.3.0",
     "t3_versions": [
-      8,
-      9,
-      10
+      10,
+      11
     ],
     "description": "Adds support for external providers to Direct Mail. This extension extends the types of recipient lists handled by Direct Mail with an entry for parameterized custom lists. These custom lists are prepared by user functions and may easily reuse your own business logic.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-3DpldmoYMRLiBi/PQ1d2W5RLaLlanVLfAw19ejr/xIA="
   },
   "directcontent": {
     "version": "0.1.3",
@@ -15328,13 +15328,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "dp_cookieconsent": {
-    "version": "12.1.2",
+    "version": "12.1.3",
     "t3_versions": [
       11,
       12
     ],
     "description": "Enable a cookie consent box. Let you visitors control the usage of cookies and load script or content after a consent. (ePrivacy, TTDSG)",
-    "hash": "sha256-sgKt1Gdqu144UO6VxtxA1ab7cthcKTbnK9/9a4KsyEI="
+    "hash": "sha256-31GkW/N3Nbj9qyglZl5KMQyIITU/CMP9hbS9u1pbpG8="
   },
   "dp_editpanel": {
     "version": "0.0.2",
@@ -15614,13 +15614,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "dropbox": {
-    "version": "4.3.0",
+    "version": "5.0.0",
     "t3_versions": [
-      10,
-      11
+      11,
+      12
     ],
     "description": "Provides a Dropbox driver for TYPO3 File Abstraction Layer.",
-    "hash": "sha256-xcfPU11x/FsEkJrMS7dHMsKEEH7A1EYALnvp9qGsySg="
+    "hash": "sha256-pF+WNVN1QcthUVp4g7/69MFS9IIwQblEyiFvIlNbWm0="
   },
   "dropbox_sync": {
     "version": "0.9.5",
@@ -16110,13 +16110,13 @@
     "hash": "sha256-jnMJvJpPy2O6bB0EB2tCymIgfWSFDuNQig8A/OtWVGs="
   },
   "easy_verein": {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "t3_versions": [
       10,
       11
     ],
     "description": "Extension to connect TYPO3 with easyVerein association management software",
-    "hash": "sha256-ZwJnUfIZwWTObewjIa3oow9I1OU7UO+Cj07SOWRLSR8="
+    "hash": "sha256-Tq/kjfWFv+D+RrAkKvXygSHHjy1lozDdWdCK/fbeoc0="
   },
   "easycal": {
     "version": "0.1.0",
@@ -17310,13 +17310,13 @@
     "hash": "sha256-jQuZh0RqppRCH6KZb5G73jGVsG1mzdyhq57WTAN82lQ="
   },
   "events2": {
-    "version": "8.3.0",
+    "version": "8.3.1",
     "t3_versions": [
       10,
       11
     ],
     "description": "Create single and recurring events",
-    "hash": "sha256-JyjErN/Hv/+eRzvRkq7ceJ+ltI8KLUSZpLhJIpCyEVE="
+    "hash": "sha256-l7g90AI3y2IFgnv+2HBuJ6x/FVYiq7k/t2wEs48uFvU="
   },
   "evgallery": {
     "version": "2.9.0",
@@ -17943,15 +17943,16 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "extractor": {
-    "version": "2.3.1",
+    "version": "2.4.1",
     "t3_versions": [
       8,
       9,
       10,
-      11
+      11,
+      12
     ],
     "description": "This extension detects and extracts metadata (EXIF / IPTC / XMP / ...) from potentially thousand different file types (such as MS Word/Powerpoint/Excel documents, PDF and images) and bring them automatically and natively to TYPO3 when uploading assets. Works with built-in PHP functions but takes advantage of Apache Tika and other external tools for enhanced metadata extraction.",
-    "hash": "sha256-GEwTzHpAAMutRzVtPGDw1Lpk9JpsbRAOT3dS70qQ6iA="
+    "hash": "sha256-j//JHHVvtuB/8gxqhJ21u7T66AH/nvZ2MYOctw2Gemg="
   },
   "extrasalt": {
     "version": "0.1.7",
@@ -18202,13 +18203,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fal_securedownload": {
-    "version": "5.0.4",
+    "version": "5.0.5",
     "t3_versions": [
       11,
       12
     ],
     "description": "Secure download of assets. Makes it possible to secure FE use of assets/files by setting permissions to folders/files for fe_groups.",
-    "hash": "sha256-yG/aEx/wWbGvKF9aagT3RNeZ7I1vlroOexIRbNe9W4M="
+    "hash": "sha256-xklfjPuqpgSrV9avh30Wg4rL1JPCTAALibsrNEKfrx4="
   },
   "fal_sftp": {
     "version": "4.3.0",
@@ -19111,13 +19112,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "feuserextrafields": {
-    "version": "5.4.0",
+    "version": "6.0.0",
     "t3_versions": [
-      10,
       11
     ],
     "description": "Extra fields for TYPO3 frontend users and drop-in replacement for the removed FrontEndUser Core model",
-    "hash": "sha256-fKgpL3e8Y6nRlCZu8NrxoL6aOaYb3dCTgv2W/+BZXvw="
+    "hash": "sha256-aZpO8D7gfxCjZwaUh0hm4uaOoCPi+CFVbqCP65+Jyiw="
   },
   "feuserfeediting": {
     "version": "0.0.2",
@@ -20025,13 +20025,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fluid_form": {
-    "version": "4.0.6",
+    "version": "4.0.7",
     "t3_versions": [
       11,
       12
     ],
     "description": "Forms configured only by TypoScript",
-    "hash": "sha256-Ba1mMo8gPmXEQJxnp6+KMZIKCUfn0Gs3YYjTCAHZrck="
+    "hash": "sha256-1yiKTtDd06VGByED7+FCVU7CehjjYMX3EuQb/dlcbns="
   },
   "fluid_form_elements": {
     "version": "1.0.0",
@@ -22418,13 +22418,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "glossaries": {
-    "version": "4.0.2",
+    "version": "4.0.3",
     "t3_versions": [
       11,
       12
     ],
     "description": "Extension for displaying and managing your website glossar. Includes a backend module, statistics, extended authorizations and much more.f",
-    "hash": "sha256-LAFOVdJ+VnalpLKA/6Va32Dus6QPjHj4zgJwMH68LW0="
+    "hash": "sha256-QFCnZaALw14q6lZC7FU9kZnnuH3Wk9SWh4Yqtb9KsYo="
   },
   "glossarify": {
     "version": "0.0.1",
@@ -23591,13 +23591,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "hh_accordion": {
-    "version": "0.5.3",
+    "version": "0.5.4",
     "t3_versions": [
       11,
       12
     ],
     "description": "",
-    "hash": "sha256-G2+iNA8M/DEKCmonMGaPfqfFQ/7N1PBrXHbVJzPJSks="
+    "hash": "sha256-V2EbWyHRGlvPH8ZlJywjCq7ZOUMYp09GKXkVZE3cjOI="
   },
   "hh_add_statuscode": {
     "version": "0.1.22",
@@ -23631,6 +23631,15 @@
     "description": "Simple OpenStreetMap",
     "hash": "sha256-Tmn0PewhpoSaCORfaOCeI8qwGw4Klr32P6j2L1UlwfU="
   },
+  "hh_powermail_checkboxlink": {
+    "version": "0.1.2",
+    "t3_versions": [
+      11,
+      12
+    ],
+    "description": "Additional field for EXT:powermail. Adds one checkbox with RTE as Label/Description. Usage for e. g. gdpr-checkbox with link.",
+    "hash": "sha256-zxcVvbcYuZtzdV9SHhbqTZPhWbvo+Pm4/lmqpQwECrI="
+  },
   "hh_seo": {
     "version": "0.8.0",
     "t3_versions": [
@@ -23638,6 +23647,14 @@
     ],
     "description": "Hauer-Heinrich - SEO - Meta-Tag - ViewHelpers",
     "hash": "sha256-wVfnfIB2nKWySItQsMmsYFBXTZ5En9GL1kO8TUsWh/I="
+  },
+  "hh_simple_job_posts": {
+    "version": "3.1.0",
+    "t3_versions": [
+      12
+    ],
+    "description": "Adds plugins for list / show job postings with meta-data and schema.org stuff. Uses tt_address for job-contacts and job-location.",
+    "hash": "sha256-Ez0KFuQ9PWvVaNFKuSvx7f1Z14A571eb0ho4GdYRUzY="
   },
   "hh_slider": {
     "version": "0.4.4",
@@ -24572,139 +24589,154 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "iconpack": {
-    "version": "0.3.3",
+    "version": "1.0.1",
     "t3_versions": [
       10,
-      11
+      11,
+      12
     ],
     "description": "Provides an iconpack-registry for various iconpacks.",
-    "hash": "sha256-cO/iTc+rl1zViZU61+cc9Paaje/n7awXFPAdQDhYJaE="
+    "hash": "sha256-zgNNJTl1Psg/iK4ErU9P2WMM92BW/NkrupaUiq/MxmA="
   },
   "iconpack_bootstrap": {
-    "version": "1.2.0",
+    "version": "1.3.0",
     "t3_versions": [
       10,
-      11
+      11,
+      12
     ],
     "description": "This Extension registers an Iconpack-Provider for EXT:iconpack which allows you to use the \"Bootstrap Icons\" in TYPO3.",
-    "hash": "sha256-H5I0K7vi7hDGt2/4VUE+3W7UeXGfshN5ZgxqNRGx4LU="
+    "hash": "sha256-zIFXSj+r8l+obP3bnAqMF8nNXv+T/kpAAwZiDKoKvRg="
   },
   "iconpack_boxicons": {
-    "version": "0.1.3",
+    "version": "1.0.0",
     "t3_versions": [
       10,
-      11
+      11,
+      12
     ],
     "description": "This Extension registers an Iconpack-Provider for EXT:iconpack which allows you to use the \"Boxicons\" in TYPO3.",
-    "hash": "sha256-pI59m+Yw5NSgfGmFqwAc2EHYwTts1l0ah6gF8+yv4rY="
+    "hash": "sha256-DreMzp+Qv6Tkv/HPVjRy5QYrgWDQU+QaBZOVeXqU7rw="
   },
   "iconpack_dripicons": {
-    "version": "1.0.5",
+    "version": "1.1.0",
     "t3_versions": [
       10,
-      11
+      11,
+      12
     ],
     "description": "This Extension registers an Iconpack-Provider for EXT:iconpack which allows you to use the \"Dripicons Icons\" in TYPO3.",
-    "hash": "sha256-/7Nj03XskPSM7mIu9ql1Io3eohdXU2nE1gBQlZpTm4w="
+    "hash": "sha256-Ianr/XosbTspq+UTpSdRTcpz4DcN+/rbShgB27NgJkw="
   },
   "iconpack_elegant": {
-    "version": "1.0.5",
+    "version": "1.1.0",
     "t3_versions": [
       10,
-      11
+      11,
+      12
     ],
     "description": "This Extension registers an Iconpack-Provider for EXT:iconpack which allows you to use the \"Elegant Icons\" in TYPO3.",
-    "hash": "sha256-N+5Sr4XvXPAxTQVupLFdJ7FUip/5H8YY6mJXk4ZXfLo="
+    "hash": "sha256-VLbXSx50kwt65nvL4YS/I/zVljBS8iYCy+SNnLSxRUE="
   },
   "iconpack_feather": {
-    "version": "1.0.5",
+    "version": "1.1.0",
     "t3_versions": [
       10,
-      11
+      11,
+      12
     ],
     "description": "This Extension registers an Iconpack-Provider for EXT:iconpack which allows you to use the \"Feather Icons\" in TYPO3.",
-    "hash": "sha256-ksl6XYLqs1hxq3NE6rzhOVcK2SuiTfI/I7ELqf5UCu0="
+    "hash": "sha256-Pcn98u2JDKxrp9qXP9TK2IjPu594bjW6CAwCCMCG2kM="
   },
   "iconpack_fontawesome": {
-    "version": "0.2.3",
+    "version": "1.0.0",
     "t3_versions": [
       10,
-      11
+      11,
+      12
     ],
     "description": "This Extension registers an Iconpack-Provider for EXT:iconpack which allows you to use the \"Font Awesome Icons\" in TYPO3.",
-    "hash": "sha256-MV8f3F4owoTaqqHN1OL8nTxFsMxMVKiQh/nfkNn91uE="
+    "hash": "sha256-eaBk7YCPWfGdNjmwnAD5ti66vrl1dbSnM3QdWX/SiEY="
   },
   "iconpack_helium": {
-    "version": "1.0.5",
+    "version": "1.1.0",
     "t3_versions": [
       10,
-      11
+      11,
+      12
     ],
     "description": "This Extension registers an Iconpack-Provider for EXT:iconpack which allows you to use the \"Helium Icons\" in TYPO3.",
-    "hash": "sha256-LysQdDna2J5NzniCFmIj8obbpBAsuzdiwhFdeGrwSgo="
+    "hash": "sha256-qEJ1DHB+vNaRoPS3/+A3bIkpszazNcDAXmhalnjaOVQ="
   },
   "iconpack_ikons": {
-    "version": "1.0.2",
+    "version": "1.1.0",
     "t3_versions": [
       10,
-      11
+      11,
+      12
     ],
     "description": "This Extension registers an Iconpack-Provider for EXT:iconpack which allows you to use the \"Ikons vector icons\" in TYPO3.",
-    "hash": "sha256-6Q4gjcvUEE4sJh56jXAIc+91+QYec6UXOUueG9kRLNk="
+    "hash": "sha256-hkFlfeQzTqo5XItRTIDj/b1G6IEy5uWORi/ePKvn2Zg="
   },
   "iconpack_ionicons": {
-    "version": "1.0.2",
+    "version": "1.1.0",
     "t3_versions": [
       10,
-      11
+      11,
+      12
     ],
     "description": "This Extension registers an Iconpack-Provider for EXT:iconpack which allows you to use the \"Ionicons\" in TYPO3.",
-    "hash": "sha256-6XJDaZeZuTro9qDtIEeTECaoZ49hggrGlLrPl6dH8Js="
+    "hash": "sha256-IaQJJaN4ozuGRep604+JmPcZ5c6k4P3gLUR6RdU2YzA="
   },
   "iconpack_linea": {
-    "version": "1.0.5",
+    "version": "1.1.0",
     "t3_versions": [
       10,
-      11
+      11,
+      12
     ],
     "description": "This Extension registers an Iconpack-Provider for EXT:iconpack which allows you to use the \"Linea Icons\" in TYPO3.",
-    "hash": "sha256-vT/nEH9n7I9iXiJ8z0KzlCqjBSKpim3d3OKUKRrTEB0="
+    "hash": "sha256-ESZzqMQ+oEO8qU+Mx/H4B1YBLyWF6UOoWlWq8vLFU9I="
   },
   "iconpack_linearicons": {
-    "version": "1.0.5",
+    "version": "1.1.0",
     "t3_versions": [
       10,
-      11
+      11,
+      12
     ],
     "description": "This Extension registers an Iconpack-Provider for EXT:iconpack which allows you to use the \"Linearicons\" in TYPO3.",
-    "hash": "sha256-r/dnAplt/CZdEmNep++0B3jflooqHMgVIkjAw2zKn7M="
+    "hash": "sha256-a/mjOgOaMyzlG1YJSfzJauCKJLSEaeRY2xqSfTsUiJA="
   },
   "iconpack_lineicons": {
-    "version": "1.0.5",
+    "version": "1.1.0",
     "t3_versions": [
       10,
-      11
+      11,
+      12
     ],
     "description": "This Extension registers an Iconpack-Provider for EXT:iconpack which allows you to use the \"LineIcons\" in TYPO3.",
-    "hash": "sha256-SHDNx1FTsKzid1abV3MJXje6BjqCk56k1D70IdSKw68="
+    "hash": "sha256-mkwBZHdFOwoW/k7LnG+kEvtYJYlMlAAC/WJ8KctkrmA="
   },
   "iconpack_octicons": {
-    "version": "1.0.2",
+    "version": "1.1.0",
     "t3_versions": [
       10,
-      11
+      11,
+      12
     ],
     "description": "This Extension registers an Iconpack-Provider for EXT:iconpack which allows you to use the \"Octicons\" in TYPO3.",
-    "hash": "sha256-UPzJ1eOC+D3Rh5p2C6nJ8UweI3xSvZefF9j5XIm4Pos="
+    "hash": "sha256-ow3md1M6uFixkjhWRXkaIrFGDXZn4QFZooVD7a/KxJU="
   },
   "iconpack_themify": {
-    "version": "1.0.5",
+    "version": "1.1.0",
     "t3_versions": [
       10,
-      11
+      11,
+      12
     ],
     "description": "This Extension registers an Iconpack-Provider for EXT:iconpack which allows you to use the \"Themify Icons\" in TYPO3.",
-    "hash": "sha256-SGsiOMVTfp3/tvRvk8sz+vij+J9jW8TvVZagK6SOoMk="
+    "hash": "sha256-Ln4RQj/VS1v8gh09PD/f1W47N8244tihpu3s/8eVTec="
   },
   "icons": {
     "version": "1.0.1",
@@ -32194,13 +32226,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "maps2": {
-    "version": "10.0.8",
+    "version": "10.0.9",
     "t3_versions": [
       10,
       11
     ],
     "description": "Create maps with Marker, Area, Routes or Radius based on Google Maps or OpenStreetMap",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-JMyiim9KwlonqU+OlIiBmyp44BwHzt5SWFfpnYK8bqg="
   },
   "mapsapi3": {
     "version": "0.4.1",
@@ -34437,13 +34469,13 @@
     "hash": "sha256-d7l9BhoZHhbjIWXTjqi1Kf0+CxQwYJbK4AnRsNw3ioo="
   },
   "mkcontentai": {
-    "version": "12.0.4",
+    "version": "12.0.5",
     "t3_versions": [
       11,
       12
     ],
     "description": "MK Content AI Extension - OpenAI API",
-    "hash": "sha256-OHkSGa+sRFJ94I/8WfcXFPZlc8o0jcCprgvr1PZajmI="
+    "hash": "sha256-3QNyo9C/e7nNOKpNJ7IzboreZrMeRODRlL0zi+2rIow="
   },
   "mkdam2fal": {
     "version": "1.0.16",
@@ -34517,13 +34549,13 @@
     "hash": "sha256-Y9BJhJLGHaf3one3PnpHMrntyMaB+UuCmE1zu4GcsXM="
   },
   "mklog": {
-    "version": "11.0.13",
+    "version": "11.0.14",
     "t3_versions": [
       10,
       11
     ],
     "description": "Keep track of developer logs. Provides automatic email notification about important errors.",
-    "hash": "sha256-SmKyCHSaIEveIRHo9ABvevk5bnP2uQh3ZYqt1bTDSRA="
+    "hash": "sha256-KV46OQmDjNcKziNVzq6X6TD7VdqpTyLnVM5l2qmoubE="
   },
   "mkmailer": {
     "version": "9.0.0",
@@ -35090,13 +35122,13 @@
     "hash": "sha256-QsqXRZxkvXzC0H/uAcXLLO2Ppw/h7HCRGVgFzUelPDI="
   },
   "modules": {
-    "version": "6.1.1",
+    "version": "6.1.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "Modules - Little helper for creating frontend and backend modules in TYPO3",
-    "hash": "sha256-Ivj9MdnKhOfePwLO1FOvoDr8mtH0xCDzc0m40kQ90xE="
+    "hash": "sha256-0OKyI5NLY3Di5ySeNhKmeE46KvU2voEvtW2jUZ5snK4="
   },
   "modulis_animated_gif": {
     "version": "0.0.4",
@@ -40953,12 +40985,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "pagebased": {
-    "version": "1.2.0",
+    "version": "1.3.0",
     "t3_versions": [
-      11
+      12
     ],
     "description": "The ultimate tool to create page based extensions",
-    "hash": "sha256-8tOyzF8oUo1hebw1O59YECdL6vXf2m63fwiOYV5kYtw="
+    "hash": "sha256-sjOMuEFAmE3++3q1X8n602bR+7t6zXpuzodN6cxzu3U="
   },
   "pagebased_blog": {
     "version": "1.1.0",
@@ -40968,6 +41000,15 @@
     ],
     "description": "A page based blog extension.",
     "hash": "sha256-T/W4hLF/gxYUweT4+M43GvmPeNQTrbUqvQmABBmjoKw="
+  },
+  "pagebased_news": {
+    "version": "1.0.0",
+    "t3_versions": [
+      11,
+      12
+    ],
+    "description": "Create news articles as \"normal\" pages in TYPO3. Easy to install and ready to use straight away.",
+    "hash": "sha256-sHmt+AzGvimOf8U/zosIjf7fTynoeyE88vCVamf15i4="
   },
   "pagebreadcrumb": {
     "version": "3.0.1",
@@ -42265,13 +42306,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "personio_jobs": {
-    "version": "0.5.7",
+    "version": "0.5.8",
     "t3_versions": [
       11,
       12
     ],
     "description": "Extension to integrate jobs from Personio Recruiting API",
-    "hash": "sha256-8vP3WG7u3CP/ZJmQ5TmI4JrNY3YX/PBIpCrltEXrFa0="
+    "hash": "sha256-j/pZsOvUF7ZxwgFRCs056zlCWBfy9iRh/wKgDlz6LbQ="
   },
   "personnel": {
     "version": "3.8.2",
@@ -42946,14 +42987,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "pixxio_extension": {
-    "version": "2.0.3",
+    "version": "2.0.4",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Integrate pixx.io DAM Digital Asset Management into TYPO3. Use files from your pixx.io media pool with TYPO3 easily and without any detour. Use the search field to search through your pixx.io media library and find the right picture in a flash.",
-    "hash": "sha256-9bt5tI9B5c1bJKtThqDtg/macjmYs+TISlU5jYVhYjQ="
+    "hash": "sha256-GXYfiuXC2PWSNRgYxB7baY7zpxMoJ3MUj6IGYKfZgYw="
   },
   "pizpalue": {
     "version": "15.2.0",
@@ -43040,12 +43081,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "plain_faq": {
-    "version": "4.0.1",
+    "version": "4.0.2",
     "t3_versions": [
       12
     ],
     "description": "Plain FAQ extension with list and detail view. Migration commands to migrate data and plugin settings from ext:irfaq",
-    "hash": "sha256-XNk5UK5sDUSwDTmHZDvUT3jYiEtV0UN4GFOysggx5sI="
+    "hash": "sha256-B9kAMc1cyAfivkUTch9AuObY7qZuycn4n3uj3Fxsw78="
   },
   "plainlynx": {
     "version": "0.0.1",
@@ -43379,13 +43420,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "poll": {
-    "version": "4.0.11",
+    "version": "4.0.12",
     "t3_versions": [
       11,
       12
     ],
     "description": "Create polls/surveys/Umfragen in TYPO3. Multiple question types and answer layouts. There is also a PRO version available which adds custom user answers and more. (Umfrage, Poll, Opinion, Vote, SimplePoll)",
-    "hash": "sha256-bfwWnELyaOb9dwiw0yEYjmfVNIDygfxozO9bU09jaHU="
+    "hash": "sha256-iklo4lP+1o4HOc+wdEMebYtMnD2H+TlAKfDecrNUNzw="
   },
   "polyglot": {
     "version": "1.0.0",
@@ -43457,13 +43498,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "portfolios": {
-    "version": "4.1.3",
+    "version": "4.1.4",
     "t3_versions": [
       11,
       12
     ],
     "description": "Extension for displaying portfolios and references",
-    "hash": "sha256-JaB3aUTiuSu5exOLzMoCYy/JRvVOlcb1MzRgALZ2AZQ="
+    "hash": "sha256-qZueTXIu54BvWisa9G3B2FGYZwT0piK0abceicbgAzo="
   },
   "porto": {
     "version": "0.9.3",
@@ -46087,12 +46128,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "restler": {
-    "version": "11.0.7",
+    "version": "11.1.1",
     "t3_versions": [
       11
     ],
     "description": "This extension integrates the REST-API-framework \"restler\" in TYPO3",
-    "hash": "sha256-f4sYakEu9KfVw5hRVrP9IiqdoWhbUSQkYWIt7P0Xn+Q="
+    "hash": "sha256-SqowJRaOhNFyXGmubXAKjVqC3/Zu7W0oBepp4j8gGfM="
   },
   "restler_examples": {
     "version": "10.1.1",
@@ -48970,13 +49011,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "secure_downloads": {
-    "version": "5.0.3",
+    "version": "6.0.0",
     "t3_versions": [
-      10,
-      11
+      12
     ],
     "description": "\"Secure Download\": Apply TYPO3 access rights to ALL file assets (PDFs, TGZs or JPGs etc. - configurable) - protect them from direct access.",
-    "hash": "sha256-rBJFNwkvXa+vCTCIm6xpe5y2na+Yszrm9zELcpiSdvY="
+    "hash": "sha256-nIBjY8Z/9nPM8idheaZBgOfMEGW1dm/mWMgLHkZefR8="
   },
   "secure_filemount": {
     "version": "1.0.1",
@@ -53493,12 +53533,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "static_info_tables": {
-    "version": "11.5.5",
+    "version": "12.4.0",
     "t3_versions": [
-      11
+      12
     ],
     "description": "Data and API for countries, languages and currencies for use in TYPO3 CMS.",
-    "hash": "sha256-hq5aFBReWtaliLPIlMSXSeWRzocTYVvybASccyM6xRI="
+    "hash": "sha256-jGpz/NHXgmGP9BKmA+zD6CIZuHzGifJ+U+1Zw9rCY6U="
   },
   "static_info_tables_airports": {
     "version": "0.1.0",
@@ -62273,12 +62313,12 @@
     "hash": "sha256-iiWYdagbP9r7uhKQF1GyUIsJ4mB4o9kg8JZ7Y2b6Qwo="
   },
   "warming": {
-    "version": "1.1.3",
+    "version": "1.2.0",
     "t3_versions": [
       12
     ],
     "description": "Warms up Frontend caches based on an XML sitemap. Cache warmup can be triggered via TYPO3 backend or using a console command. Supports multiple languages and custom crawler implementations.",
-    "hash": "sha256-/gUxsaczERqfLBVfuDeQwFEbu/ao2qR/Gcq3oXv/8wQ="
+    "hash": "sha256-PzWBtnSfQ5SBiQQnmh9IsJs46hOzLY8tVsgrQjgRDZs="
   },
   "warmup": {
     "version": "1.3.1",
