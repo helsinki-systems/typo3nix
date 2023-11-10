@@ -17799,13 +17799,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "extender": {
-    "version": "9.0.1",
+    "version": "10.0.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "A services that enables adding properties and functions",
-    "hash": "sha256-SB4ZBQKJf2EDkcs/pllNqjyuyfSRkuI1ny0izqCIdYo="
+    "hash": "sha256-WPdYqPQnkr7aR+mJBGu5yS8I7podC7r9QNhUyZc99PQ="
   },
   "extendmypage": {
     "version": "0.0.1",
@@ -20042,13 +20042,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fluid_fpdf": {
-    "version": "2.4.6",
+    "version": "2.5.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "This extension provides you a complete set of ViewHelpers for dealing with FPDF by using Fluid. You can use the ViewHelpers easily in own Extensions just by defining the fpdf-Namespace. Additionally you are able to use the build in plugin, for displaying predefined PDF. This plugin offers you automatically all available PDFs.",
-    "hash": "sha256-wXPFao5tedSA8iwBS/Ho3QXB8p3Fl3C3JSohuU9u3hU="
+    "hash": "sha256-mK4LaSWIZtv69INct9zI3hEBsHlEVv2Zn+ZtBsvNfVo="
   },
   "fluid_info": {
     "version": "0.1.0",
@@ -21224,12 +21224,12 @@
     "hash": "sha256-K/9dv25Uof8nrQK0okP4687AWkcZPsNd4DSHVADKvdM="
   },
   "fp_newsletter": {
-    "version": "5.2.0",
+    "version": "6.0.0",
     "t3_versions": [
       12
     ],
-    "description": "Plugin for newsletter subscription and unsubscription with double opt in (and double opt out). For: direct_mail or luxletter / tt_address or fe_users. A log is written.",
-    "hash": "sha256-Bd0ijWrF6Os1oYEYukmj/rQjxTG7i7gckuecZFsz4Gg="
+    "description": "Plugin for newsletter subscription and unsubscription with double opt in (and double opt out). For: mail or luxletter / tt_address or fe_users. A log is written.",
+    "hash": "sha256-5hVNZXl8RbWckQl/OaGET9oQ3Dp9L3DBWZHlbi10OFA="
   },
   "fp_product_features": {
     "version": "0.2.0",
@@ -24589,14 +24589,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "iconpack": {
-    "version": "1.0.1",
+    "version": "1.1.0",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Provides an iconpack-registry for various iconpacks.",
-    "hash": "sha256-zgNNJTl1Psg/iK4ErU9P2WMM92BW/NkrupaUiq/MxmA="
+    "hash": "sha256-arqJy8Izt16nXzeoy+b2V3Fu/7VpaMUy74qVJF3aduY="
   },
   "iconpack_bootstrap": {
     "version": "1.3.0",
@@ -24737,6 +24737,16 @@
     ],
     "description": "This Extension registers an Iconpack-Provider for EXT:iconpack which allows you to use the \"Themify Icons\" in TYPO3.",
     "hash": "sha256-Ln4RQj/VS1v8gh09PD/f1W47N8244tihpu3s/8eVTec="
+  },
+  "iconpack_typo3": {
+    "version": "0.0.2",
+    "t3_versions": [
+      10,
+      11,
+      12
+    ],
+    "description": "This Extension registers an Iconpack-Provider for EXT:iconpack which allows you to use the \"TYPO3 Icons\" in ...TYPO3 (surprise!).",
+    "hash": "sha256-oO4+fFqSES0dqBNxsrzFZCnVWz5hwZuLhVIHXvGCIXs="
   },
   "icons": {
     "version": "1.0.1",
@@ -29058,13 +29068,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ke_search": {
-    "version": "5.1.2",
+    "version": "5.1.3",
     "t3_versions": [
       11,
       12
     ],
     "description": "Faceted fulltext search for TYPO3. Fast, flexible and easy to install and use. Indexes content directly from the databases. Features faceting / filtering, file indexing, images in result lists and respects access restrictions.",
-    "hash": "sha256-0eG+M2NZaL7Ofe9zljd2EQy38bWvl6G4dW+qzmb9+TI="
+    "hash": "sha256-AgzPUebjMG0ePNaL5aa+KSR8zWEW10POP+jfwy4uhn8="
   },
   "ke_search_dam_tags": {
     "version": "0.0.1",
@@ -31845,13 +31855,13 @@
     "hash": "sha256-jPv/y4yEofi7SRdacSphQPg9t13QM/BFiBcq1ENg8jY="
   },
   "mail_logger": {
-    "version": "4.0.0",
+    "version": "4.0.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "This extension logs all your outgoing mails and provides email templates and debugging tools",
-    "hash": "sha256-S0+f0nIvt2Bim0kahmXoCWLrb2yshlaY1BWk9Cty/0E="
+    "hash": "sha256-4LWL0baArEW83D9tigrnbDCZfm9kx4YadAmMu1TySAU="
   },
   "mail_spool": {
     "version": "1.2.0",
@@ -34189,13 +34199,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mindshape_cookie_consent": {
-    "version": "3.0.1",
+    "version": "3.0.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "This extension provides functionality to create  a customizable cookie consent for your website. It is developed for flexibility to be customized in accordance to your data security guidelines.",
-    "hash": "sha256-Qbbngua5yI8m9UidKlVFKUvKaUUyFaKtarHjbRaxqtc="
+    "hash": "sha256-jGWfq8vBZOs/iegJwupVz4oA+b1yynfBiC/cmY1K//I="
   },
   "mindshape_cookie_hint": {
     "version": "1.1.0",
@@ -39067,12 +39077,13 @@
     "hash": "sha256-dNvxcsLt2LU6RnG+fswXbIsmMkmYDefTGDKDL5iIjdM="
   },
   "ns_openai": {
-    "version": "1.0.2",
+    "version": "1.2.0",
     "t3_versions": [
+      10,
       11
     ],
     "description": "First-ever ChatGPT (by OpenAI) feature-rich content assistance in TYPO3 that automates content creation and optimization. The extension comes with numerous features like SEO optimization, Create AI-Page, Language Translation, Chat assistance, Read-to-use helpful prompts, etc. Explore more https://t3planet.com/t3openai-typo3-chatgpt-extension",
-    "hash": "sha256-6HHzSFRs86GILgUjibQX3Y1pEYLM/btZhwra3KIJheY="
+    "hash": "sha256-jNdy89LauGXVvPi0wx7jHiBhGR1afE6YgNRjB+4TlUk="
   },
   "ns_protect_site": {
     "version": "2.0.4",
@@ -50839,13 +50850,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sitemap_locator": {
-    "version": "0.1.0",
+    "version": "0.1.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Looks up XML sitemaps as part of a configured site. Supports various sitemap providers, e.g. by configured page type or robots.txt, and allows to implement custom providers.",
-    "hash": "sha256-YywTZEtWeziio5xGnwxnIx4AJ2Z2dQl4l2bij9eYJ7Y="
+    "hash": "sha256-M8+MGSbyIurxWeBWrj0Bu/Art447fK8dWnKVP6nAOOQ="
   },
   "sitemgr": {
     "version": "2.9.1",
@@ -53001,12 +53012,12 @@
     "hash": "sha256-tEpA+KWnL4APMxN/CxQCPRzddfrpHNSsHCg1Lf+NfhA="
   },
   "sr_freecap": {
-    "version": "11.5.5",
+    "version": "12.4.0",
     "t3_versions": [
-      11
+      12
     ],
     "description": "A TYPO3 integration of freeCap CAPTCHA.",
-    "hash": "sha256-3kymJW67JFLrNVcwd1c0B/8ZFVAicBB8VYAxnAX2bEo="
+    "hash": "sha256-Rrsu5FembigaICRvFVzAkR+mTo/Zr5ZPJpzyGBHKgcQ="
   },
   "sr_guestbook": {
     "version": "2.0.0",
@@ -55921,15 +55932,15 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "t3sportsbet": {
-    "version": "1.0.1",
+    "version": "1.2.0",
     "t3_versions": [
-      7,
       8,
       9,
-      10
+      10,
+      11
     ],
     "description": "Bet-system for T3sports. FE-Users can bet on matches in T3sports. Tippspiel auf Basis von T3sports.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-rRpPF9wrO8z3C3t5RJz0KGY0d8/5IOa+e3OCPZbX0Nk="
   },
   "t3sportsextended": {
     "version": "0.0.3",
@@ -62313,12 +62324,12 @@
     "hash": "sha256-iiWYdagbP9r7uhKQF1GyUIsJ4mB4o9kg8JZ7Y2b6Qwo="
   },
   "warming": {
-    "version": "1.2.0",
+    "version": "2.0.0",
     "t3_versions": [
       12
     ],
     "description": "Warms up Frontend caches based on an XML sitemap. Cache warmup can be triggered via TYPO3 backend or using a console command. Supports multiple languages and custom crawler implementations.",
-    "hash": "sha256-PzWBtnSfQ5SBiQQnmh9IsJs46hOzLY8tVsgrQjgRDZs="
+    "hash": "sha256-oX7Q0PurUVJVLNDH4jL40E3zoREjhz+CIqvH9WTqwqs="
   },
   "warmup": {
     "version": "1.3.1",
