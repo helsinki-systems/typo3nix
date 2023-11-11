@@ -15614,13 +15614,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "dropbox": {
-    "version": "5.0.0",
+    "version": "5.0.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Provides a Dropbox driver for TYPO3 File Abstraction Layer.",
-    "hash": "sha256-pF+WNVN1QcthUVp4g7/69MFS9IIwQblEyiFvIlNbWm0="
+    "hash": "sha256-eJrTN/iWtG/Cy4ah13EUz1zy1Ra6gOTJG7/VdShRYd0="
   },
   "dropbox_sync": {
     "version": "0.9.5",
@@ -29966,12 +29966,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "language_detection": {
-    "version": "4.0.0",
+    "version": "4.0.2",
     "t3_versions": [
-      11
+      11,
+      12
     ],
     "description": "Modern language detection middleware for TYPO3. Based on PSR-7, PSR-14 & PSR-15.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-gy/pSuHyDEsb0TjWN98aOyQeNRXtwC9Z7H/zyXnpdRI="
   },
   "language_redirect": {
     "version": "1.0.3",
@@ -40009,13 +40010,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "oelib": {
-    "version": "5.1.0",
+    "version": "5.2.0",
     "t3_versions": [
       10,
       11
     ],
     "description": "Useful stuff for TYPO3 extension development: helper functions for unit testing, templating and automatic configuration checks.",
-    "hash": "sha256-o1Vfj8loJId2N37s+R8Wj3Wr6FDEP55L51FYRtRXyHc="
+    "hash": "sha256-t6F58Ew0H/5rWoYOGVLA6x/Ka0Fb2gHouvmAG/7Jkd8="
   },
   "oembed": {
     "version": "0.1.1",
@@ -45779,13 +45780,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "reint_downloadmanager": {
-    "version": "3.2.6",
+    "version": "4.0.0",
     "t3_versions": [
-      10,
-      11
+      12
     ],
     "description": "A simple download manager with different views of file collections as downloadable lists.",
-    "hash": "sha256-fUl0D5X8lVJtIflmiUUe7/Elg7C845T5IypgcKRH5Mg="
+    "hash": "sha256-rWzI3L/FRsNEs+WPqt5wVrmnUBMf/rWiHFizZ8zjrzc="
   },
   "reint_file_timestamp": {
     "version": "3.0.1",
