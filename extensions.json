@@ -3554,10 +3554,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ayacoo_soundcloud": {
-    "version": "2.0.0",
-    "t3_versions": [],
+    "version": "2.1.1",
+    "t3_versions": [
+      12
+    ],
     "description": "",
-    "hash": "sha256-9zCIvXjhKoHSTXe+EHYmJeGDuoBbNiNesNKmKy1Pgus="
+    "hash": "sha256-swJnppnUhpoa3lmIU7H6s82Rd6Rro4Wsi1jA9SO5PSY="
   },
   "azurestorage": {
     "version": "0.6.1",
@@ -12879,12 +12881,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "dd_deepl": {
-    "version": "12.1.0",
+    "version": "12.2.0",
     "t3_versions": [
       12
     ],
     "description": "Translates pages, content and records using DeepL",
-    "hash": "sha256-gGKbAqDGAQ31RHFMXg/MZ3ehyaEV9Z2STKg9o4WK78M="
+    "hash": "sha256-vZUPlupa8iPWJ32Omb/l4fIF4+MtbngzZWm401rLlRE="
   },
   "dd_download": {
     "version": "1.1.1",
@@ -15224,14 +15226,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "doktype_typolink": {
-    "version": "1.1.0",
+    "version": "3.0.0",
     "t3_versions": [
-      8,
-      9,
-      10
+      12
     ],
     "description": "Enhance doktype 3 (\"Link to External URL\") to support typolinks",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-gW7MjfPZVKNO7ylcpehDx/yrBLldk4ajdAwr9f44UW4="
   },
   "domaincheck": {
     "version": "1.4.0",
@@ -57829,10 +57829,12 @@
     "hash": "sha256-x63/F5ff7jWkM6HLgL/7QbBE5Crg1chbX5euGaWIDwY="
   },
   "tiktok": {
-    "version": "2.0.1",
-    "t3_versions": [],
+    "version": "2.1.0",
+    "t3_versions": [
+      12
+    ],
     "description": "",
-    "hash": "sha256-TSggKrGQW5Dv03PxsXoyU2SyJbihbE1/pks9kJsgweA="
+    "hash": "sha256-/iqzUiTve6rkmb2dp+2YwB4aDzLXHnJ+Wl/N7P4Zew4="
   },
   "tile": {
     "version": "0.9.5",
@@ -60698,10 +60700,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "twitch": {
-    "version": "2.0.0",
-    "t3_versions": [],
+    "version": "2.1.0",
+    "t3_versions": [
+      12
+    ],
     "description": "",
-    "hash": "sha256-n5rMcWDMmhkixXuf0WmD3oivTshYsaR8la+W/H3p+ZQ="
+    "hash": "sha256-IEUYKUgKVBVeOL/xoKnsCiR2ctFc96FRScHwd4cinSg="
   },
   "twitter": {
     "version": "0.0.2",
