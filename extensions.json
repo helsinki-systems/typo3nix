@@ -5134,12 +5134,13 @@
     "hash": "sha256-B8oTmmLJpv5PacBLjpC0pcaxIQqSxhvTPhc9ZuIIw1Y="
   },
   "booking": {
-    "version": "2.1.2",
+    "version": "2.1.5",
     "t3_versions": [
-      11
+      11,
+      12
     ],
     "description": "Booking extension for FE users",
-    "hash": "sha256-VMylXhI/Qp5IRie6/VJKQpSfL0jiJ5G1tifryrkGO38="
+    "hash": "sha256-1EfNxodUWVihpGNMgrcc9j/M25s/k2348fzbU7929uY="
   },
   "bookmark_pages": {
     "version": "2.0.1",
@@ -20042,13 +20043,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fluid_fpdf": {
-    "version": "2.5.0",
+    "version": "2.5.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "This extension provides you a complete set of ViewHelpers for dealing with FPDF by using Fluid. You can use the ViewHelpers easily in own Extensions just by defining the fpdf-Namespace. Additionally you are able to use the build in plugin, for displaying predefined PDF. This plugin offers you automatically all available PDFs.",
-    "hash": "sha256-mK4LaSWIZtv69INct9zI3hEBsHlEVv2Zn+ZtBsvNfVo="
+    "hash": "sha256-0fr140x0OEVQF15GYQmERLbsrs4fdqW5M/bQNuzqx8I="
   },
   "fluid_info": {
     "version": "0.1.0",
@@ -20872,12 +20873,13 @@
     "hash": "sha256-a/g3+gQ/fFgcGOxI9X7Gy2JlyZNClSsOgZGOzRo92RM="
   },
   "form_search": {
-    "version": "1.1.0",
+    "version": "2.0.0",
     "t3_versions": [
-      11
+      11,
+      12
     ],
     "description": "Add search functionality to the TYPO3 backend form manager",
-    "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
+    "hash": "sha256-6xlB/5rlnUbhQy9G12ASi7oabU2L/gzgqmgaN4cwF1g="
   },
   "form_serialnumber": {
     "version": "1.1.1",
@@ -34497,13 +34499,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mkforms": {
-    "version": "11.0.7",
+    "version": "11.0.8",
     "t3_versions": [
       10,
       11
     ],
     "description": "Making HTML forms for TYPO3",
-    "hash": "sha256-mN13xdkYDaZvK+NtorpS19GBbsLpWspW4/6WYIKAkMU="
+    "hash": "sha256-180K9ekvm3v7AIqSewjvcbe8YdWlxddY5OaPl0Y1qR8="
   },
   "mkit_wetter": {
     "version": "1.1.0",
@@ -56899,6 +56901,14 @@
     "description": "auktions-extension",
     "hash": "sha256-kQeRiJAI7zZLil7zGDNiNICU0DWi25XEo6xtZs05oU8="
   },
+  "ted3": {
+    "version": "11.2.0",
+    "t3_versions": [
+      11
+    ],
+    "description": "Frontendediting for TYPO3",
+    "hash": "sha256-TBVQgvYIMxdB7OpioLk4Bje6ELCUz0YS+Xh2HOuck/0="
+  },
   "telegram": {
     "version": "0.1.0",
     "t3_versions": [
@@ -61704,14 +61714,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "vhs": {
-    "version": "7.0.0",
+    "version": "7.0.1",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "A collection of ViewHelpers for performing rendering tasks that are not natively provided by the Fluid templating engine.",
-    "hash": "sha256-FDwz7oh+pXLrrc08VR/94jLudqYXPcvjke8ZEE9MBPc="
+    "hash": "sha256-oquNMzaG1d2rIeGiWtT6pdT2eYNl2r8uTPFvb00srG4="
   },
   "vhs_scss": {
     "version": "2.0.3",
