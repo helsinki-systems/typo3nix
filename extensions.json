@@ -7811,14 +7811,13 @@
     "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
   },
   "ce_timeline": {
-    "version": "3.3.3",
+    "version": "4.0.1",
     "t3_versions": [
-      9,
-      10,
-      11
+      11,
+      12
     ],
     "description": "Add a new content element of type \"Timeline\" for displaying histories of companies and more...",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-u5UC13aAdBb7zC0pYKqRBr40no2OnpgcLXoCSK5t/Ew="
   },
   "ceaccord": {
     "version": "0.1.6",
@@ -15329,13 +15328,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "dp_cookieconsent": {
-    "version": "12.1.3",
+    "version": "12.1.4",
     "t3_versions": [
       11,
       12
     ],
     "description": "Enable a cookie consent box. Let you visitors control the usage of cookies and load script or content after a consent. (ePrivacy, TTDSG)",
-    "hash": "sha256-31GkW/N3Nbj9qyglZl5KMQyIITU/CMP9hbS9u1pbpG8="
+    "hash": "sha256-vxTxZLyC6teyfqqRs1kgIfOIXZNEEUBYE8vVmfdyGaU="
   },
   "dp_editpanel": {
     "version": "0.0.2",
@@ -22178,12 +22177,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "gh_randomcontent": {
-    "version": "1.2.0",
+    "version": "1.2.1",
     "t3_versions": [
-      11
+      11,
+      12
     ],
     "description": "This frontend plugin shows random content elements from selected page(s).",
-    "hash": "sha256-95xJFS7kxoZDJKXKXv81AzfLAO1jkfFSRqfJslSEDCc="
+    "hash": "sha256-Ng3DguuKTzK0NIa43aPmLqIjlgP4+6DJZM6LGJoEhUc="
   },
   "gh_tabbedcontent": {
     "version": "0.3.0",
@@ -23593,13 +23593,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "hh_accordion": {
-    "version": "0.5.4",
+    "version": "0.5.5",
     "t3_versions": [
       11,
       12
     ],
     "description": "",
-    "hash": "sha256-V2EbWyHRGlvPH8ZlJywjCq7ZOUMYp09GKXkVZE3cjOI="
+    "hash": "sha256-qAbFnsjJoTUK2IDrcb9BQtzbA0F1Ndm07hRQ5e3xvEw="
   },
   "hh_add_statuscode": {
     "version": "0.1.22",
@@ -26898,13 +26898,13 @@
     "hash": "sha256-Z2bLSGhx+Jfyo4E72layZAmEUf2WxeuF62cs9ItGS2o="
   },
   "jar_utilities": {
-    "version": "1.0.79",
+    "version": "1.0.80",
     "t3_versions": [
       10,
       11
     ],
     "description": "Utility classes that simplify TYPO3 development.",
-    "hash": "sha256-MFiyLjgZjddenYhSFwcWuo/I9PueQNQcy1w4yX6xChg="
+    "hash": "sha256-gx/a5RVc3EFrrWbfrxJCy54+v3RksliIHkKvVBrmSjY="
   },
   "jasmine": {
     "version": "0.1.0",
@@ -56902,12 +56902,12 @@
     "hash": "sha256-kQeRiJAI7zZLil7zGDNiNICU0DWi25XEo6xtZs05oU8="
   },
   "ted3": {
-    "version": "11.2.0",
+    "version": "11.2.3",
     "t3_versions": [
       11
     ],
     "description": "Frontendediting for TYPO3",
-    "hash": "sha256-TBVQgvYIMxdB7OpioLk4Bje6ELCUz0YS+Xh2HOuck/0="
+    "hash": "sha256-F3rVeZwX2WiV7aoju9ZVT/3zjQ0pBpc+CzarF2n5tL0="
   },
   "telegram": {
     "version": "0.1.0",
@@ -60017,13 +60017,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "tt_products": {
-    "version": "2.14.19",
+    "version": "2.14.20",
     "t3_versions": [
       10,
       11
     ],
     "description": "Advanced versions at ttproducts.de. Documented in the E-Book \"Der TYPO3-Webshop\" - Shop with listing in multiple languages, with order tracking, product variants, support for transactor extension, bill, creditpoint and voucher system.",
-    "hash": "sha256-B1MuW2GKSL/diW9Rb9K2dHZioR1rWhC9wDYUZdDwv8o="
+    "hash": "sha256-tbi3vTMeRUufrBIBILXFt1viHnprpn8As1+fN1QL5Qk="
   },
   "tt_products_foundby": {
     "version": "0.1.4",
