@@ -5134,13 +5134,13 @@
     "hash": "sha256-B8oTmmLJpv5PacBLjpC0pcaxIQqSxhvTPhc9ZuIIw1Y="
   },
   "booking": {
-    "version": "2.1.5",
+    "version": "2.1.6",
     "t3_versions": [
       11,
       12
     ],
     "description": "Booking extension for FE users",
-    "hash": "sha256-1EfNxodUWVihpGNMgrcc9j/M25s/k2348fzbU7929uY="
+    "hash": "sha256-zUZKk25dIEmnlqSe7S4aLDlsMR6IbmR65dRKOYeQ4Pw="
   },
   "bookmark_pages": {
     "version": "2.0.1",
@@ -6821,13 +6821,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "campus_events_connector": {
-    "version": "4.0.0",
+    "version": "4.0.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Connecting the event software campus events with TYPO3, to import the event data into TYPO3 as data records. Get further information about Campus Events: www.campus-events.com",
-    "hash": "sha256-sgg+25X9opHgsHLpsWfupHvSvbEYE8b/LveqAiDs7b4="
+    "hash": "sha256-3ZIi6FVYC4bDiWJzybhUVtWyF0llWt64gghQQpcTEQg="
   },
   "campus_events_convert2news": {
     "version": "4.0.0",
@@ -7258,6 +7258,14 @@
     ],
     "description": "Integrates Ink responsive HTML emails (from Zurb) to TYPO3. Also includes CSS inliner and HTML to text converter.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "cb_kesearch_indexer": {
+    "version": "0.9.0",
+    "t3_versions": [
+      12
+    ],
+    "description": "Extends ke_search with the possibility to index _Content Blocks_",
+    "hash": "sha256-wkXfCJ9AUyVECB3yWyk3EewpiPVkg9IGIdfEiKjg2SE="
   },
   "cb_newscal": {
     "version": "2.0.0",
@@ -9767,12 +9775,12 @@
     "hash": "sha256-zIEstPFHttAq2bRVbuXskLWhPbkZ++m4mcc7E46IM6s="
   },
   "content_blocks": {
-    "version": "0.1.6",
+    "version": "0.2.1",
     "t3_versions": [
       12
     ],
     "description": "TYPO3 CMS Content Blocks - TYPO3 Content Types Manager.",
-    "hash": "sha256-MoYackDXvPWZcA/WSRCTHTZ/PHhV3FrVIuCGhRb14KA="
+    "hash": "sha256-eYSttwP6af3JoKIAseUH0JA3YfPRJ8OXUH+WB+fr5YM="
   },
   "content_consent": {
     "version": "2.0.1",
@@ -20763,12 +20771,12 @@
     "hash": "sha256-UmASge4oj+7axF2QsmMGU5O/Mo5zWqEJLRNCCB6Wdvc="
   },
   "form_email_contentblocks": {
-    "version": "2.1.1",
+    "version": "2.1.2",
     "t3_versions": [
       12
     ],
     "description": "Allows to add a content element at the beginning (introductory text) and/or at the end (email signature) of the email templates. Also, the background color and logo of the fluid email template can be edited.",
-    "hash": "sha256-WKSlS7a4Q+ETpeW/Z6LIKNz3T46BXIGWZUg7zieogjs="
+    "hash": "sha256-0rJPLOar5QMqShjm+O0UsdQ8jBEG7z6JTX/rTw5fxT0="
   },
   "form_extended": {
     "version": "11.0.7",
@@ -23659,12 +23667,12 @@
     "hash": "sha256-Ez0KFuQ9PWvVaNFKuSvx7f1Z14A571eb0ho4GdYRUzY="
   },
   "hh_slider": {
-    "version": "0.4.4",
+    "version": "0.4.5",
     "t3_versions": [
       12
     ],
     "description": "Hauer-Heinrich - Image and Content Slider",
-    "hash": "sha256-j98kXja5VlcU3rFzz6KjEUpPD9cJeONxk7qtYMHrX/c="
+    "hash": "sha256-KEJV30r5MMgcTbGPlWAnm5LdZeQNa80zoOL+sFeHqG4="
   },
   "hh_test": {
     "version": "0.2.15",
@@ -31824,13 +31832,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mail": {
-    "version": "2.5.2",
+    "version": "2.5.3",
     "t3_versions": [
       11,
       12
     ],
     "description": "Powerful newsletter system for TYPO3",
-    "hash": "sha256-iUJvTXSwMkvaZRVXTUO7k9+O02uMAiFzQi9Gs6GAYe4="
+    "hash": "sha256-NI0Do/PysrBHcTauOmFCD/j5jonvvATecE365KDp7+E="
   },
   "mail2news": {
     "version": "2.0.3",
@@ -33280,6 +33288,14 @@
     "t3_versions": [],
     "description": "Set meetings, manage minutes and actions and notify user groups via email. Demonstration of use of tx_admin_interface.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "meilisearch": {
+    "version": "0.1.0",
+    "t3_versions": [
+      12
+    ],
+    "description": "This extension integrates \"meilisearch\" into your TYPO3.",
+    "hash": "sha256-rAag1pMtXDbqNPX4kOzKp8Jhk3lo9dMmFIrD/P8qMXA="
   },
   "meinpraktikum_widget": {
     "version": "1.0.1",
@@ -36428,12 +36444,12 @@
     "hash": "sha256-KON3MkLTQO2l6ymxUOD5oeEKPuXQf4ZiKgihG56TgiY="
   },
   "multisite_belogin": {
-    "version": "12.0.2",
+    "version": "12.0.3",
     "t3_versions": [
       12
     ],
     "description": "Cross site/domain backend login for TYPO3. It allows backend users to work in the frontend across domains.",
-    "hash": "sha256-DOrM5C3tnS5yXJwimfMph7pj8IG0HASJRuT5FSY3+c4="
+    "hash": "sha256-mkG3cce4k6YIsW52SRcbcXwEcNrCwGyJ8ShteaHiWh8="
   },
   "multivote": {
     "version": "0.0.4",
@@ -46141,12 +46157,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "restler": {
-    "version": "11.1.1",
+    "version": "11.2.0",
     "t3_versions": [
       11
     ],
     "description": "This extension integrates the REST-API-framework \"restler\" in TYPO3",
-    "hash": "sha256-SqowJRaOhNFyXGmubXAKjVqC3/Zu7W0oBepp4j8gGfM="
+    "hash": "sha256-vMAfPkZplj2nog7QQQ4eYpJUqAJ4VSkcEWFrpXfWW0E="
   },
   "restler_examples": {
     "version": "10.1.1",
@@ -63757,12 +63773,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ws_slider": {
-    "version": "12.0.2",
+    "version": "12.0.3",
     "t3_versions": [
       12
     ],
     "description": "Universal slider carousel for Owl slider, flexslider, ... ",
-    "hash": "sha256-tV6xx9FjdaJey/piZtZLjFi4uNwUz9czkgzbXhz5eqc="
+    "hash": "sha256-LnomVhHQqwJN4g8CJKkWbpNn4oOlVU2UT9iy1v7/Olg="
   },
   "ws_stats": {
     "version": "0.2.0",
