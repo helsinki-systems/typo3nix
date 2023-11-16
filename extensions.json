@@ -551,13 +551,13 @@
     "hash": "sha256-UNDYWlYgbJMH3cIRxbxpDtg7/Jh8ijDy2bJmd1AjxrY="
   },
   "academic_jobs": {
-    "version": "0.1.2",
+    "version": "0.1.3",
     "t3_versions": [
       11,
       12
     ],
     "description": "The Academic Jobs extension allows users to create and manage job postings.",
-    "hash": "sha256-YWTWTORls4rjNf6DVyLv7j9NjSes/0/aIE0Y+Z5+SDk="
+    "hash": "sha256-ksXXqUgxFhYN74dq+g+3fZInknMqyQ4turIQsYVul5s="
   },
   "academic_networks_tt_address": {
     "version": "0.1.0",
@@ -6460,13 +6460,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cachemgm": {
-    "version": "10.0.7",
+    "version": "10.0.13",
     "t3_versions": [
       10,
       11
     ],
     "description": "Provides management of the page caching for high traffic websites.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-9R4cAyd31Vq1cvvXvMNTvfx4XW40DfFxy3c7Um+ZlbM="
   },
   "cacheopt": {
     "version": "10.0.0",
@@ -22655,13 +22655,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "google_reviews": {
-    "version": "2.0.0",
+    "version": "3.0.0",
     "t3_versions": [
-      10,
-      11
+      11,
+      12
     ],
     "description": "TYPO3 plugin displays five (most-relevant) Google reviews according to selected Place ID.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-u0ykJYWRtEPNez8o01hx2k8ozCD8B1IXDj8+T1TM3fs="
   },
   "google_services": {
     "version": "2.0.0",
@@ -27725,13 +27725,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "job_finder": {
-    "version": "4.0.5",
+    "version": "4.0.6",
     "t3_versions": [
       11,
       12
     ],
     "description": "Job finder extension including job listing, details, application, microdata and more.",
-    "hash": "sha256-gsaRSwYy7+zWbVTkl9+m3bEFJo0ekxDfIBltFzV7yHM="
+    "hash": "sha256-75T/Y5QWwDnkrwX9OJ6P6gUQvJHb6M2rZZvApyxrx7c="
   },
   "job_market": {
     "version": "2.1.1",
@@ -36854,13 +36854,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mysqlreport": {
-    "version": "3.0.2",
+    "version": "3.0.3",
     "t3_versions": [
       11,
       12
     ],
     "description": "Analyze and profile your TYPO3 database queries",
-    "hash": "sha256-zPXyA875jkeTFREcK/SYHHLPbaIrravRT5X39qtHb8Y="
+    "hash": "sha256-TlFb0xmhYV82JMs1UHNhrKWRpJLODr3GGeFtqqA//GA="
   },
   "mytemplate1": {
     "version": "0.0.2",
@@ -52443,12 +52443,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "solr": {
-    "version": "12.0.0",
+    "version": "12.0.1",
     "t3_versions": [
       12
     ],
     "description": "Apache Solr for TYPO3 is the enterprise search server you were looking for with special features such as Faceted Search or Synonym Support and incredibly fast response times of results within milliseconds.",
-    "hash": "sha256-Xf3W1clJEP2+8JVVVsrxiDGYv1barLxfXCL2eocZAms="
+    "hash": "sha256-C0yNV22NmAMeAAAAJDkneZKniAGemxCFHbnl6BS133g="
   },
   "solr_boutique": {
     "version": "1.0.0",
@@ -56918,12 +56918,12 @@
     "hash": "sha256-kQeRiJAI7zZLil7zGDNiNICU0DWi25XEo6xtZs05oU8="
   },
   "ted3": {
-    "version": "11.2.3",
+    "version": "11.2.4",
     "t3_versions": [
       11
     ],
-    "description": "Frontendediting for TYPO3",
-    "hash": "sha256-F3rVeZwX2WiV7aoju9ZVT/3zjQ0pBpc+CzarF2n5tL0="
+    "description": "Frontendediting for TYPO3 (Basic version)",
+    "hash": "sha256-ROmos2SLuKCB21vvV3MW21YNOpaiPTIOAnuCVI6ErT4="
   },
   "telegram": {
     "version": "0.1.0",
@@ -63311,6 +63311,14 @@
     ],
     "description": "Extension to register and process credit transactions from a wise account.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "wit_loremipsum": {
+    "version": "1.0.0",
+    "t3_versions": [
+      12
+    ],
+    "description": "Ckeditor dummy lorem ipsum text.",
+    "hash": "sha256-seflTSNgZ/FQXKNaCHqZEiaRfXIOGii2dt6pbxzlhqk="
   },
   "wit_nwreadtime": {
     "version": "1.0.1",
