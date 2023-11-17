@@ -45,12 +45,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "a21glossary": {
-    "version": "11.0.4",
+    "version": "12.0.0",
     "t3_versions": [
-      11
+      12
     ],
     "description": "A21 Glossary - automatic conversion of all abbreviations and acronyms in the special tags for accessibility issues",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-lz6vx1ayuh8hwWJKIcTrkHAP/a13o7ADN1axBoaFvgA="
   },
   "a21glossary_advanced_output": {
     "version": "0.2.1",
@@ -38127,31 +38127,28 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "newt": {
-    "version": "3.0.2",
+    "version": "3.0.3",
     "t3_versions": [
-      11,
-      12
+      11
     ],
     "description": "Backend-Extension to manage the Newt-Access",
-    "hash": "sha256-8EUTg0k6+DBwTUSQfKI4DwmECF6izSLsqH9VAGv8drI="
+    "hash": "sha256-NioDdPVpBfG4uXtCFDJnhzhR84BSoaor+7CuQ5nTv9w="
   },
   "newt4dce": {
-    "version": "2.0.0",
-    "t3_versions": [
-      11,
-      12
-    ],
-    "description": "Extension with the Newt-Provider for Dce",
-    "hash": "sha256-EAlv6z/4Ak6AF9eMnu8p9vluocDnlsjfJt4cSCi6wa0="
-  },
-  "newt4news": {
     "version": "3.0.0",
     "t3_versions": [
-      11,
-      12
+      11
+    ],
+    "description": "Extension with the Newt-Provider for Dce",
+    "hash": "sha256-UxOm+Fh30g42eNP2NNI/5BIwQ1GPuie+n5N5oehdFkI="
+  },
+  "newt4news": {
+    "version": "3.0.1",
+    "t3_versions": [
+      11
     ],
     "description": "Extension with the Newt-Provider for News",
-    "hash": "sha256-ItiSgXtuo8MjNFaln2KbLQDSp2a4+h6853S4cBA1jUU="
+    "hash": "sha256-vog/1/wZNzzZPr6Wjg1s7cFNYPXI4wzKUQDW+pJd2fA="
   },
   "nextprevious": {
     "version": "1.0.0",
@@ -53030,12 +53027,12 @@
     "hash": "sha256-tEpA+KWnL4APMxN/CxQCPRzddfrpHNSsHCg1Lf+NfhA="
   },
   "sr_freecap": {
-    "version": "12.4.0",
+    "version": "12.4.1",
     "t3_versions": [
       12
     ],
     "description": "A TYPO3 integration of freeCap CAPTCHA.",
-    "hash": "sha256-Rrsu5FembigaICRvFVzAkR+mTo/Zr5ZPJpzyGBHKgcQ="
+    "hash": "sha256-N0TjhDL2n+Mhtjgfdg/iL3jxnTC/R6RsisUVyc/QNFs="
   },
   "sr_guestbook": {
     "version": "2.0.0",
@@ -61981,13 +61978,13 @@
     "hash": "sha256-jWR/gqSKGzy0yv3fdtX0Dp3GycnE25dhtg/sCI8t/hI="
   },
   "vite_asset_collector": {
-    "version": "1.6.0",
+    "version": "1.7.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Bundle your TYPO3 frontend assets with Vite",
-    "hash": "sha256-i/ZMbL48VWVdxHHUGwP4hroEi9+J3WkVIFGrtbjV9q8="
+    "hash": "sha256-eYRL++euEi7wHAvB4ZnJuNDNPS8jWglHhTu/YYg1LcE="
   },
   "vjchat": {
     "version": "0.3.4",
@@ -62555,13 +62552,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "weather2": {
-    "version": "4.1.1",
+    "version": "5.0.0",
     "t3_versions": [
-      10,
-      11
+      12
     ],
     "description": "Display weather forecasts and weather alerts using various Weather APIs. Default APIs: OpenWeatherMap and Deutscher Wetterdienst",
-    "hash": "sha256-fsZUZ+miAuev+loMufCyZAeMgXbzzRiDNf5XU3aOt9Q="
+    "hash": "sha256-sIh9qaFFRCbZR8onvpkwAgaS/2+H8BjaOXfslNGAk4Q="
   },
   "weather_widget": {
     "version": "2.0.0",
