@@ -20719,13 +20719,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "form_consent": {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "An extension for TYPO3 CMS that adds double opt-in functionality to EXT:form. It allows the dynamic adaptation of the entire double opt-in process using various events. In addition, the extension integrates seamlessly into TYPO3, for example to delete outdated consents in compliance with the GDPR.",
-    "hash": "sha256-TybQhxv7/e5ezWn6WeeQuxU6BYxwV95JB8ZYNhWWvnY="
+    "hash": "sha256-Zbk4Po8ub+2/aADzAi213cxE15UpY/b8jpCg4n9Fksg="
   },
   "form_country_select": {
     "version": "3.0.0",
@@ -45661,10 +45661,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "redirect_tab": {
-    "version": "3.0.1",
-    "t3_versions": [],
+    "version": "3.1.1",
+    "t3_versions": [
+      12
+    ],
     "description": "Show TYPO3 redirects in the page properties",
-    "hash": "sha256-tJ3g4hyyJOXEcZTbnZh/dZOFq++D2H7Yx16auPzz37Y="
+    "hash": "sha256-MFTds86+YvChQa/aV2bfjwUsxZ6uTkbUtxiuE5lMZJI="
   },
   "redirection": {
     "version": "1.1.0",
@@ -53559,12 +53561,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "static_info_tables": {
-    "version": "12.4.0",
+    "version": "12.4.1",
     "t3_versions": [
       12
     ],
     "description": "Data and API for countries, languages and currencies for use in TYPO3 CMS.",
-    "hash": "sha256-jGpz/NHXgmGP9BKmA+zD6CIZuHzGifJ+U+1Zw9rCY6U="
+    "hash": "sha256-6Zo9VbJa05d2tAfXNmIzzGwKRFFUSSgGwfJU/3ASchA="
   },
   "static_info_tables_airports": {
     "version": "0.1.0",
