@@ -17951,7 +17951,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "extractor": {
-    "version": "2.4.1",
+    "version": "2.4.2",
     "t3_versions": [
       8,
       9,
@@ -17960,7 +17960,7 @@
       12
     ],
     "description": "This extension detects and extracts metadata (EXIF / IPTC / XMP / ...) from potentially thousand different file types (such as MS Word/Powerpoint/Excel documents, PDF and images) and bring them automatically and natively to TYPO3 when uploading assets. Works with built-in PHP functions but takes advantage of Apache Tika and other external tools for enhanced metadata extraction.",
-    "hash": "sha256-j//JHHVvtuB/8gxqhJ21u7T66AH/nvZ2MYOctw2Gemg="
+    "hash": "sha256-bqCs4uLbRf8yP3MPsByOMmrnb1LgxSYGhqzizYb+NYE="
   },
   "extrasalt": {
     "version": "0.1.7",
@@ -32510,14 +32510,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "matomo_integration": {
-    "version": "1.7.0",
+    "version": "1.8.0",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Matomo integration for TYPO3",
-    "hash": "sha256-LaDJd07NnKg52cCaOP02swFxXdsqDq0GVjqfLsx98Vo="
+    "hash": "sha256-STwWCltsU4QM8bCqicT76WdujchS2LCSAQmuxADTjOw="
   },
   "matomo_optout": {
     "version": "1.1.0",
@@ -43616,12 +43616,12 @@
     "hash": "sha256-pmF02elaEIPa0hT7bj7fWRcPMiuXx70XLwBheXPHgcU="
   },
   "powermail_cond": {
-    "version": "9.0.4",
+    "version": "11.1.0",
     "t3_versions": [
-      11
+      12
     ],
     "description": "Add conditions (via AJAX) to powermail forms for fields and pages",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-ifVuBVzWBcAUcM+in71bXJAt9DS2oO2ek7O7PRHnLBc="
   },
   "powermail_cond_jquery": {
     "version": "1.0.1",
@@ -49496,12 +49496,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sf_register": {
-    "version": "11.1.5",
+    "version": "12.0.0",
     "t3_versions": [
-      11
+      12
     ],
     "description": "Offers the possibility to maintain the fe_user data in frontend by the user self.",
-    "hash": "sha256-GSgHqTuoVo0MoWj8uEY62hsm5OGOhtp88o3HeRZIcLw="
+    "hash": "sha256-rDg/GLuLKrdWJcPUmUxcmstAupqwm+3YIvESIkBbSn4="
   },
   "sf_simple_faq": {
     "version": "1.3.0",
@@ -57753,6 +57753,16 @@
     ],
     "description": "",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "theodia": {
+    "version": "1.0.0",
+    "t3_versions": [
+      10,
+      11,
+      12
+    ],
+    "description": "Official integration of theodia (theodia.org) for TYPO3.",
+    "hash": "sha256-5xHkjCLEU/Qw1w7v/27C4frUq5W78u7FKNqghAm0/pA="
   },
   "thomasnu": {
     "version": "6.0.0",
