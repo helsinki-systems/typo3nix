@@ -6805,12 +6805,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "camaliga": {
-    "version": "12.0.1",
+    "version": "12.1.0",
     "t3_versions": [
       12
     ],
-    "description": "A carousel/gallery/map/list extension that can use the TYPO3 categories and different jQuery-plugins like Slick. Bootstrap support. Indexer for ke_search.",
-    "hash": "sha256-388aM1L4pTMnKK0hwgmGvc/iviTWihDWs+SDSpyp/ds="
+    "description": "A carousel/gallery/map/list extension that can use the TYPO3 categories and different jQuery-plugins like Slick. Bootstrap 5 support. Indexer for ke_search.",
+    "hash": "sha256-NEty5EjyP370eLoC/5BJI9PThRpzdokaTAttLIgzBpk="
   },
   "campaignmonitor": {
     "version": "2.0.0",
@@ -9783,12 +9783,12 @@
     "hash": "sha256-eYSttwP6af3JoKIAseUH0JA3YfPRJ8OXUH+WB+fr5YM="
   },
   "content_consent": {
-    "version": "2.0.1",
+    "version": "2.0.2",
     "t3_versions": [
       12
     ],
     "description": "Provides a content consent plugin to load any content elements and custom plugins by ajax without jQuery! So you can include Google Maps, YouTube- or Vimeo videos GDPR/DSGVO compliant. Best used with Bootstrap 5",
-    "hash": "sha256-OvZM209O44nQzYJ4PcR8mv4rbngTejlVjukw8LcfF8M="
+    "hash": "sha256-LB1qIZOhCNEzbqj2aDXuKrg3euU0WpLGdjZeFu9Zs+M="
   },
   "content_defender": {
     "version": "3.4.1",
@@ -15383,13 +15383,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "dpn_glossary": {
-    "version": "5.0.4",
+    "version": "5.1.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Glossary extension with page parser",
-    "hash": "sha256-8AVNoRmnbx5j8GZOmT6H3aBkS8nkN45W2cQzKh9XPQY="
+    "hash": "sha256-UWLSx7uB6+JyCSndv6jFMrOTeMfLx87dOsldR9V0UWg="
   },
   "dr_blob": {
     "version": "2.3.2",
@@ -32247,13 +32247,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "maps2": {
-    "version": "10.0.9",
+    "version": "10.0.10",
     "t3_versions": [
       10,
       11
     ],
     "description": "Create maps with Marker, Area, Routes or Radius based on Google Maps or OpenStreetMap",
-    "hash": "sha256-JMyiim9KwlonqU+OlIiBmyp44BwHzt5SWFfpnYK8bqg="
+    "hash": "sha256-7zCANkGd1qY8kBhHXh4Hije7iO0oiXF4Cy/TKw8V3Eo="
   },
   "mapsapi3": {
     "version": "0.4.1",
@@ -38965,12 +38965,12 @@
     "hash": "sha256-fx9WwV0my8azXzRtn4U0h/9epVTnh3DGKZYJX1xBA5s="
   },
   "ns_friendlycaptcha": {
-    "version": "12.0.0",
+    "version": "12.0.1",
     "t3_versions": [
       12
     ],
     "description": "Integrate official friendlycaptcha.com (Europe's most leading Captcha solution) to the TYPO3 core EXT:form extension. Live Demo: https://demo.t3planet.com/t3t-extensions/friendly-captcha Premium Support: https://t3planet.com/typo3-friendly-captcha-extension",
-    "hash": "sha256-+TFNX5gfRlC0Dj4AGCEiM5s7TDi5HZW6HSqgGocKACs="
+    "hash": "sha256-C5338m59gflUU2XNxz6ahYqhvlm6kaqX1AJ/DidbH+8="
   },
   "ns_gallery": {
     "version": "12.0.0",
@@ -65034,13 +65034,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "yellowpages2": {
-    "version": "6.1.0",
+    "version": "6.1.1",
     "t3_versions": [
       10,
       11
     ],
     "description": "With this extension you can build your own industry directory",
-    "hash": "sha256-1q2171pl61TEyU9yxkOvC6FX984Y9kLVrXUHDZomiZ4="
+    "hash": "sha256-v09AvzaFD2DRdePkYs7/6n+cZ/qW+Tp+lJ1DNcwJ5/4="
   },
   "yellowpay2commerce": {
     "version": "1.0.0",
