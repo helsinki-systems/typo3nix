@@ -3534,12 +3534,12 @@
     "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
   },
   "aws_tools": {
-    "version": "11.0.0",
+    "version": "11.0.1",
     "t3_versions": [
       11
     ],
     "description": "This extension connects your TYPO3 instance to Amazon CloudFront. It rewrites all file paths in the frontend to match your CDN domain. You also have the possibility to invalidate Amazon CloudFront entries.",
-    "hash": "sha256-NkEe8wTdN5RHJ2WZCy3q75fuhn49FbRx+V/dmuGe/oc="
+    "hash": "sha256-j5rcAAuX6zUkmUFTIH8CQOjexub4HpalrhZwXGjAicU="
   },
   "ax_https": {
     "version": "0.2.0",
@@ -7950,13 +7950,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cf_cookiemanager": {
-    "version": "1.3.4",
+    "version": "1.3.5",
     "t3_versions": [
       11,
       12
     ],
     "description": "Unlock the full potential of your Typo3 website with CodingFreaks Typo3 Cookie Manager. Effortlessly manage and customize your website's services, cookies and scripts with our comprehensive extension. Streamline your workflow, enhance user experience, and ensure GDPR compliance with this powerful tool. Take control of your cookie management today and unleash the true potential of your Typo3 installation.",
-    "hash": "sha256-0mQiqYxwjUQpMl6gLEhQrkP0cs4kAJrfix9EROzMiFU="
+    "hash": "sha256-mEUq60OXLgk+jpnSKuvuDFUB90UE5fEKUMAEJYf8bOQ="
   },
   "cf_google_authenticator": {
     "version": "1.2.4",
@@ -8737,13 +8737,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cli_toolbox": {
-    "version": "2.0.0",
+    "version": "2.2.0",
     "t3_versions": [
       10,
       11
     ],
     "description": "",
-    "hash": "sha256-zFFMOLNkQ1tzsqPcaka4OPauFtijgZ/ro8pjISz4BN0="
+    "hash": "sha256-iCxnGK6/3qVrE9m1EupmJEaFkLxd3Agb1+uKZysUtJE="
   },
   "clicleaner": {
     "version": "1.0.0",
@@ -18172,14 +18172,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fal_protect": {
-    "version": "1.5.0",
+    "version": "1.5.1",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Protect everything within /fileadmin/ based on associated folder and file restrictions (visibility, user groups and dates of publication).",
-    "hash": "sha256-X1B5cm6NKI7vgpg/GgSlnnawQ11F4ETSN0mX4c2vopA="
+    "hash": "sha256-osWYKZTmz/2+NJ7APzftBoxOv+ByN9AO8zfoJ3fGMFU="
   },
   "fal_quota": {
     "version": "1.8.0",
@@ -20907,13 +20907,13 @@
     "hash": "sha256-qolBOeN08WZ7aRCkXhF0uyyYRpaRO+AHTFLsKjrEwIQ="
   },
   "form_tools": {
-    "version": "2.0.0",
+    "version": "2.0.1",
     "t3_versions": [
       10,
       11
     ],
     "description": "Collection of tools for TYPO3s EXT:form",
-    "hash": "sha256-nRiD/AljE5SM/urU6qinnzjC0LkIpa+Ttwfx1vCt8RQ="
+    "hash": "sha256-mdl+c92FpyNxfd3Dxwy5VVac9wL4EV8xgD7eVFkV17U="
   },
   "form_translator": {
     "version": "2.0.1",
@@ -22597,13 +22597,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "google_cloud_storage_fal": {
-    "version": "1.0.14",
+    "version": "2.0.0",
     "t3_versions": [
-      10,
-      11
+      12
     ],
     "description": "Google Cloud Storage FAL driver for TYPO3. Files can be stored in the GCS buckets.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-+sH9j8+DbJt+Exr9DuGZ6B3natb1iAJrjX0xNDfm9DA="
   },
   "google_code_prettify": {
     "version": "1.0.0",
@@ -27725,13 +27724,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "job_finder": {
-    "version": "4.0.6",
+    "version": "4.1.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Job finder extension including job listing, details, application, microdata and more.",
-    "hash": "sha256-75T/Y5QWwDnkrwX9OJ6P6gUQvJHb6M2rZZvApyxrx7c="
+    "hash": "sha256-8fe4DWflYD7LUJ8TKLcXvE49yqgndXXgqT4XW2JP+ZY="
   },
   "job_market": {
     "version": "2.1.1",
@@ -31444,13 +31443,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "lux": {
-    "version": "34.0.2",
+    "version": "34.0.3",
     "t3_versions": [
       11,
       12
     ],
     "description": "Living User Experience - LUX - the Marketing Automation tool for TYPO3.",
-    "hash": "sha256-wJjGMezWXBafUMSiHPLtz0yo/gOEyjXdpo1Q5PWDXDo="
+    "hash": "sha256-NGufmrAnL7bDPFBnquI+p7EwPkBo5GW/UwOeJQv/PWA="
   },
   "luxletter": {
     "version": "24.0.2",
@@ -33146,12 +33145,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "media2click": {
-    "version": "3.2.0",
+    "version": "3.2.1",
     "t3_versions": [
-      11
+      11,
+      12
     ],
     "description": "Render external content like videos and iframes with privacy in mind: User has to click on placeholder to load the actual content.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-E+aTYNU0LoSz4eeUob/JDpJktb2JKvQCugyjn5OYqEg="
   },
   "media_center": {
     "version": "1.0.3",
@@ -38851,12 +38851,12 @@
     "hash": "sha256-36GUDqEqYAO87zocn+nbtwoRyBd1KNbOzd6qR/EdsrE="
   },
   "ns_basetheme": {
-    "version": "12.0.9",
+    "version": "12.1.0",
     "t3_versions": [
       12
     ],
     "description": "The architecture of parent/child TYPO3 theme concept. Explore https://t3planet.com and https://nitsantech.com",
-    "hash": "sha256-Xks/+Fh0efstBEOlQ+hyYmdiAC5D7iOOcMl6fw4+T68="
+    "hash": "sha256-UksYPc2KpDq5Dj6OTvRHHQ4QJKGHIYf4ODPFAStjT84="
   },
   "ns_cache_webhook": {
     "version": "1.0.0",
@@ -51406,10 +51406,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "skjsonlylightbox": {
-    "version": "0.3.0",
-    "t3_versions": [],
+    "version": "0.4.0",
+    "t3_versions": [
+      12
+    ],
     "description": "Provides the pure Javascript GLightbox for text with image and tx_news. Based on jn_lighterbox",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-LvxITTif/6sX/YhPPg1dFuMHdLaieAB43rv7RB7KsRY="
   },
   "skm_locallang_js": {
     "version": "1.0.0",
@@ -53020,13 +53022,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sr_feuser_register": {
-    "version": "11.5.5",
+    "version": "12.4.1",
     "t3_versions": [
-      10,
-      11
+      12
     ],
     "description": "A self-registration variant of Kasper Skårhøj's Front End User Admin extension for TYPO3 CMS.",
-    "hash": "sha256-tEpA+KWnL4APMxN/CxQCPRzddfrpHNSsHCg1Lf+NfhA="
+    "hash": "sha256-oKcJhxV+RQsB+llE+I/tbotU9hCyQ4JdCowpM60i5xM="
   },
   "sr_freecap": {
     "version": "12.4.1",
@@ -56917,12 +56918,12 @@
     "hash": "sha256-kQeRiJAI7zZLil7zGDNiNICU0DWi25XEo6xtZs05oU8="
   },
   "ted3": {
-    "version": "11.2.4",
+    "version": "12.0.2",
     "t3_versions": [
-      11
+      12
     ],
     "description": "Frontendediting for TYPO3 (Basic version)",
-    "hash": "sha256-ROmos2SLuKCB21vvV3MW21YNOpaiPTIOAnuCVI6ErT4="
+    "hash": "sha256-rFgzAENfLfwkkAIdJdDKa7UNcCp5QNP4XyZCoLGYxOI="
   },
   "telegram": {
     "version": "0.1.0",
