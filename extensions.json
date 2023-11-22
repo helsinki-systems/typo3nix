@@ -1078,13 +1078,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "additional_tca": {
-    "version": "1.14.16",
+    "version": "1.15.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Additional TCA fields and tools",
-    "hash": "sha256-zL61wgC1uzfFqZYVVcVxkwf81i1w21stffTazQj/fWY="
+    "hash": "sha256-Aq+COBClfWMguKTHdf1qsY4kgoJg9+3ZYjU1I2YhI+E="
   },
   "addlinkheader": {
     "version": "0.0.4",
@@ -1556,12 +1556,12 @@
     "hash": "sha256-QckxUijIPEdD6LVvP3jLwr2sT0hqgrIdc0gptF3NW5Q="
   },
   "aimeos": {
-    "version": "23.10.1",
+    "version": "23.10.2",
     "t3_versions": [
       12
     ],
     "description": "Professional, full-featured and ultra-fast TYPO3 e-commerce extension for online shops, complex B2B applications and #gigacommerce. Turns TYPO3 into the best platform for content commerce and your e-commerce requirements (also available as TYPO3 distribution)",
-    "hash": "sha256-y0U92aEOhIUbL3B7YFZsdCIkTKVwPwsRgk31tLMokpk="
+    "hash": "sha256-MZdtND9Mnz9ok+J/fHMaaNR5eR7JokuzSp14GwgoEh8="
   },
   "aimeos_dist": {
     "version": "23.7.1",
@@ -35143,12 +35143,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "module_data_listing": {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "t3_versions": [
       11
     ],
     "description": "Filterable, searchable and sortable datatables for the TYPO3 backend. Fe_users comes as default.",
-    "hash": "sha256-QsqXRZxkvXzC0H/uAcXLLO2Ppw/h7HCRGVgFzUelPDI="
+    "hash": "sha256-QBq7RgOtpBz21jSQfzIxEurNCmBZlHvZXZt3wzoyyMw="
   },
   "modules": {
     "version": "6.1.2",
@@ -53001,13 +53001,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sr_email_subscribe": {
-    "version": "11.5.0",
+    "version": "11.5.1",
     "t3_versions": [
-      10,
       11
     ],
     "description": "Email address subscription for TYPO3 CMS.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-jMD0bGtlpnYtL/IhmdcqLshx4LUJe7fD5TbXtU44Jjs="
   },
   "sr_feedit": {
     "version": "0.1.1",
@@ -53022,12 +53021,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sr_feuser_register": {
-    "version": "12.4.1",
+    "version": "12.4.2",
     "t3_versions": [
       12
     ],
     "description": "A self-registration variant of Kasper Skårhøj's Front End User Admin extension for TYPO3 CMS.",
-    "hash": "sha256-oKcJhxV+RQsB+llE+I/tbotU9hCyQ4JdCowpM60i5xM="
+    "hash": "sha256-bHyQs72Erw1WZDQ3XZ7VrwDzOohDs0fwp+zwztYR18U="
   },
   "sr_freecap": {
     "version": "12.4.1",
@@ -56918,12 +56917,12 @@
     "hash": "sha256-kQeRiJAI7zZLil7zGDNiNICU0DWi25XEo6xtZs05oU8="
   },
   "ted3": {
-    "version": "12.0.2",
+    "version": "12.0.3",
     "t3_versions": [
       12
     ],
     "description": "Frontendediting for TYPO3 (Basic version)",
-    "hash": "sha256-rFgzAENfLfwkkAIdJdDKa7UNcCp5QNP4XyZCoLGYxOI="
+    "hash": "sha256-ulsO+c1AAwT9XkmykZfuLHMmCRZWglvwwQNIWS67IBI="
   },
   "telegram": {
     "version": "0.1.0",
@@ -59404,13 +59403,13 @@
     "hash": "sha256-Qc/9Z893V6BRMqUmIZuhRn0iUyNgtAPzU+IBANgmxWA="
   },
   "translatelabels": {
-    "version": "2.2.1",
+    "version": "2.3.3",
     "t3_versions": [
       10,
       11
     ],
     "description": "This extension extends the TYPO3 translation handling by translation records that can be edited by backend users. In this way backend users are able to translate labels without having access to the language files.",
-    "hash": "sha256-wbvRRaR+Xm3vny9oLQFW/8JJ5i5MckyUzyaSKORwjw8="
+    "hash": "sha256-3VzgWl9rWcFetGYDtHps1h/Z5Jb+f9NhQElOn+udgf0="
   },
   "translationapi": {
     "version": "2.0.0",
