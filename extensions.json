@@ -1422,13 +1422,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "agency": {
-    "version": "0.11.1",
+    "version": "0.12.0",
     "t3_versions": [
-      10,
-      11
+      11,
+      12
     ],
     "description": "An improved variant of Kasper Skårhøj’s Front End User Admin extension.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-aSgjeRJ4MkMlSa1rwIYm/Av7amKghd0Ud008w84iw+o="
   },
   "agency_tt_address": {
     "version": "0.2.0",
@@ -44211,12 +44211,12 @@
     "hash": "sha256-egqpcBTJpjEnK9/5d0uKqt8XAdIh8V1FxV6yOzh7Rjw="
   },
   "psb_view_helpers": {
-    "version": "1.1.1",
+    "version": "2.0.0",
     "t3_versions": [
-      11
+      12
     ],
     "description": "Collection of useful ViewHelpers",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-o4Vb+YACga97WRntIiI7OV6/IgLad0ngePQ/moWTlEE="
   },
   "psc_disqus_sso": {
     "version": "0.1.3",
