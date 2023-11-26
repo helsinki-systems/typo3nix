@@ -17951,7 +17951,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "extractor": {
-    "version": "2.4.2",
+    "version": "2.4.3",
     "t3_versions": [
       8,
       9,
@@ -17960,7 +17960,7 @@
       12
     ],
     "description": "This extension detects and extracts metadata (EXIF / IPTC / XMP / ...) from potentially thousand different file types (such as MS Word/Powerpoint/Excel documents, PDF and images) and bring them automatically and natively to TYPO3 when uploading assets. Works with built-in PHP functions but takes advantage of Apache Tika and other external tools for enhanced metadata extraction.",
-    "hash": "sha256-bqCs4uLbRf8yP3MPsByOMmrnb1LgxSYGhqzizYb+NYE="
+    "hash": "sha256-SLtWyCrCE3v8omEwBiUNAMDR3XIpBDuN0Bpkqb2PLpo="
   },
   "extrasalt": {
     "version": "0.1.7",
@@ -20033,13 +20033,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fluid_form": {
-    "version": "4.0.7",
+    "version": "4.0.8",
     "t3_versions": [
       11,
       12
     ],
     "description": "Forms configured only by TypoScript",
-    "hash": "sha256-1yiKTtDd06VGByED7+FCVU7CehjjYMX3EuQb/dlcbns="
+    "hash": "sha256-OBbU2gxEKWTjbYfjgaqDUnrlaInFyo+7IQET1H4/WKk="
   },
   "fluid_form_elements": {
     "version": "1.0.0",
@@ -40180,16 +40180,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "om_cookie_manager": {
-    "version": "11.0.0",
+    "version": "12.0.0",
     "t3_versions": [
-      7,
-      8,
-      9,
-      10,
-      11
+      11,
+      12
     ],
     "description": "Features: Consent Panel (Optin), Grouping and Google Tag Manager support. With this Extension you can manage the script/html tags that generates cookies on your site or simply build a consent panel. You can creat different groups like essential, tracking, preferences and so on. The associated scripts will be loaded only after the optin process is done.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-AT/vOwPGXxO+pTrfWBbxDZDibJTbp8mvR1FsQ6G+ZHY="
   },
   "on_jobs2xml": {
     "version": "1.0.1",
