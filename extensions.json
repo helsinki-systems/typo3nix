@@ -9775,12 +9775,12 @@
     "hash": "sha256-zIEstPFHttAq2bRVbuXskLWhPbkZ++m4mcc7E46IM6s="
   },
   "content_blocks": {
-    "version": "0.2.1",
+    "version": "0.3.0",
     "t3_versions": [
       12
     ],
-    "description": "TYPO3 CMS Content Blocks - TYPO3 Content Types Manager.",
-    "hash": "sha256-eYSttwP6af3JoKIAseUH0JA3YfPRJ8OXUH+WB+fr5YM="
+    "description": "TYPO3 CMS Content Blocks - Content Types API",
+    "hash": "sha256-uDTa/jUwWoA5lu/S5twcAncxgEebGss83t/m07LL4ag="
   },
   "content_consent": {
     "version": "2.0.2",
@@ -17807,13 +17807,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "extender": {
-    "version": "10.0.1",
+    "version": "10.1.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "A services that enables adding properties and functions",
-    "hash": "sha256-WPdYqPQnkr7aR+mJBGu5yS8I7podC7r9QNhUyZc99PQ="
+    "hash": "sha256-kHoY0D0rdKdOjVcSH8XBQGki30kQVaI+AndftFk+rXA="
   },
   "extendmypage": {
     "version": "0.0.1",
@@ -20286,14 +20286,14 @@
     "hash": "sha256-he4hDMN/tiAEANpUt8BteUsPUlpsO+LL5RTgO6t2Y2Q="
   },
   "flux": {
-    "version": "10.0.7",
+    "version": "10.0.8",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Drop-in page and content templates with nested content feature. Provides multiple condensed integration APIs to use advanced TYPO3 features with little effort.",
-    "hash": "sha256-da2jPhXcsbDRtXjYxDL169XAkSQYF5jns8/vGM4CmiY="
+    "hash": "sha256-RvzU7pZtLIdhw4PQG+1svLKTnJf6F3EEvRH8pnYI2UM="
   },
   "flux_elements": {
     "version": "1.4.1",
@@ -28511,6 +28511,15 @@
     "description": "Login to TYPO3 frontend with your static IP address",
     "hash": "sha256-FyZmnUaf/DhvXwFqAKKmfk44aBjn6TPaTgVeJ2wwVpk="
   },
+  "jwnewsevent": {
+    "version": "3.0.0",
+    "t3_versions": [
+      11,
+      12
+    ],
+    "description": "Extend news to use them also as event",
+    "hash": "sha256-rbYXhr/8jbl8x/DXU39Kfl+7ktBbCnTWYjGHetkdXcw="
+  },
   "jwplayer": {
     "version": "1.2.9",
     "t3_versions": [
@@ -30640,14 +30649,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "link2language": {
-    "version": "2.0.1",
+    "version": "2.0.2",
     "t3_versions": [
       9,
       10,
       11
     ],
     "description": "Allows to select links to pages or content elements for a specific language",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-N27bEfZCnzLw47X0eELcsuwi015zEv8SbpoLTrCwrxk="
   },
   "link_by_pageid": {
     "version": "1.0.2",
@@ -49689,7 +49698,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sg_cookie_optin": {
-    "version": "5.3.2",
+    "version": "5.3.4",
     "t3_versions": [
       9,
       10,
@@ -49697,7 +49706,7 @@
       12
     ],
     "description": "",
-    "hash": "sha256-2ipKd88Ho4/HMes8EuI58P2L4tyjrJvVDhXmTNTmqSc="
+    "hash": "sha256-frnr1rJT3X0eWY81ORRQqSP+wAF3vFswh+AvbVxncng="
   },
   "sg_cropscale": {
     "version": "0.5.0",
@@ -57770,14 +57779,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "theodia": {
-    "version": "1.1.0",
+    "version": "1.2.0",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Fetch data from theodia.org to display the Mass schedule for the various places of worship in a parish or pastoral unit.",
-    "hash": "sha256-WxYidgPpnI+SlBOoDtPBGjk2YjrcJ95yHB36ltPYklo="
+    "hash": "sha256-I2x81yyOwuWwpJgw/q4aoZtR6J7AoctyWMC5KaqFgW4="
   },
   "thomasnu": {
     "version": "6.0.0",
