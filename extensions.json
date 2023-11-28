@@ -21233,12 +21233,13 @@
     "hash": "sha256-K/9dv25Uof8nrQK0okP4687AWkcZPsNd4DSHVADKvdM="
   },
   "fp_newsletter": {
-    "version": "6.0.0",
+    "version": "6.2.0",
     "t3_versions": [
+      11,
       12
     ],
     "description": "Plugin for newsletter subscription and unsubscription with double opt in (and double opt out). For: mail or luxletter / tt_address or fe_users. A log is written.",
-    "hash": "sha256-5hVNZXl8RbWckQl/OaGET9oQ3Dp9L3DBWZHlbi10OFA="
+    "hash": "sha256-/Gy2a/k/kCJ81qD+lt+ynDCbnmiFMlI7VYq3G/HHDRU="
   },
   "fp_product_features": {
     "version": "0.2.0",
@@ -23600,13 +23601,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "hh_accordion": {
-    "version": "0.5.5",
+    "version": "0.6.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "",
-    "hash": "sha256-qAbFnsjJoTUK2IDrcb9BQtzbA0F1Ndm07hRQ5e3xvEw="
+    "hash": "sha256-A3KCENv+eMKHEbInBV9bFhVUDcS8nJsXAqT+qP14FB0="
   },
   "hh_add_statuscode": {
     "version": "0.1.22",
@@ -23641,13 +23642,13 @@
     "hash": "sha256-Tmn0PewhpoSaCORfaOCeI8qwGw4Klr32P6j2L1UlwfU="
   },
   "hh_powermail_checkboxlink": {
-    "version": "0.1.2",
+    "version": "0.1.3",
     "t3_versions": [
       11,
       12
     ],
     "description": "Additional field for EXT:powermail. Adds one checkbox with RTE as Label/Description. Usage for e. g. gdpr-checkbox with link.",
-    "hash": "sha256-zxcVvbcYuZtzdV9SHhbqTZPhWbvo+Pm4/lmqpQwECrI="
+    "hash": "sha256-0II+PkneAdyKZ5hUcmrIqtlYbHs391J970D7h5fatIY="
   },
   "hh_seo": {
     "version": "0.8.0",
@@ -38875,6 +38876,15 @@
     ],
     "description": "Add option at Flush cache menu call \"Flush Webhook Cache\" at TYPO3 backend. Call your Webhook configured at Settings > Configure extensions > EXT.ns_cache_webhook. Read more at documentation.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "ns_cloudflare": {
+    "version": "1.0.1",
+    "t3_versions": [
+      11,
+      12
+    ],
+    "description": "The Cloudflare TYPO3 extension ensures your TYPO3 website is running optimally on the Cloudflare platform.",
+    "hash": "sha256-qujPaRruoMvLaHGRBIi434x+10SRi5sYw+QEPLTNBOw="
   },
   "ns_comments": {
     "version": "12.0.0",
@@ -55015,16 +55025,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "t3_tcpdf": {
-    "version": "6.0.2",
+    "version": "6.1.0",
     "t3_versions": [
-      7,
-      8,
-      9,
       10,
-      11
+      11,
+      12
     ],
-    "description": "Make TCPDF library (www.tcpdf.org) available within TYPO3.",
-    "hash": "sha256-VGsWu6yWYMatb5Tgj0HgJhvFTsWDnxm6nFCrDvfO2lg="
+    "description": "Make TCPDF library (www.tcpdf.org) available within TYPO3",
+    "hash": "sha256-Sa69HPbzwxbLRXrJDMwkfxXHgeLxu/0YD14vEYRGEXg="
   },
   "t3_translator": {
     "version": "1.0.2",
