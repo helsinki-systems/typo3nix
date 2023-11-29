@@ -1078,13 +1078,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "additional_tca": {
-    "version": "1.15.0",
+    "version": "1.15.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Additional TCA fields and tools",
-    "hash": "sha256-Aq+COBClfWMguKTHdf1qsY4kgoJg9+3ZYjU1I2YhI+E="
+    "hash": "sha256-iKxD0AE0uUDQyETqTb+KqbNRyWi5qWnUzhpgILJbx3U="
   },
   "addlinkheader": {
     "version": "0.0.4",
@@ -7950,13 +7950,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cf_cookiemanager": {
-    "version": "1.3.5",
+    "version": "1.4.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Unlock the full potential of your Typo3 website with CodingFreaks Typo3 Cookie Manager. Effortlessly manage and customize your website's services, cookies and scripts with our comprehensive extension. Streamline your workflow, enhance user experience, and ensure GDPR compliance with this powerful tool. Take control of your cookie management today and unleash the true potential of your Typo3 installation.",
-    "hash": "sha256-mEUq60OXLgk+jpnSKuvuDFUB90UE5fEKUMAEJYf8bOQ="
+    "hash": "sha256-BY80IYfV402Z+1vvO83ToCz7xsxdXi0O66RMPhuUMRU="
   },
   "cf_google_authenticator": {
     "version": "1.2.4",
@@ -21748,12 +21748,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "gallerycontent": {
-    "version": "1.8.1",
+    "version": "1.9.0",
     "t3_versions": [
-      11
+      11,
+      12
     ],
     "description": "Content element for image gallery with preset crop ratios and pagination",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-Kl695L8+XPYIOjvZnzDTSjvZSS3Eb6d3xHCNu5UdtS4="
   },
   "galtlang": {
     "version": "2.1.0",
@@ -31841,13 +31842,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mail": {
-    "version": "2.5.3",
+    "version": "2.5.4",
     "t3_versions": [
       11,
       12
     ],
     "description": "Powerful newsletter system for TYPO3",
-    "hash": "sha256-NI0Do/PysrBHcTauOmFCD/j5jonvvATecE365KDp7+E="
+    "hash": "sha256-aPLCq0HwnfCT2Xr3x7tlIAXSIyBK2R2tVasQCeYaeGA="
   },
   "mail2news": {
     "version": "2.0.3",
@@ -32384,13 +32385,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "masi": {
-    "version": "2.0.1",
+    "version": "2.0.2",
     "t3_versions": [
       10,
-      11
+      11,
+      12
     ],
     "description": "Adds convenient features for excluding pages when generating URLs.",
-    "hash": "sha256-9icVfbpWRdwfhVV5qgBZON8aWV4cjI93VUnPrunIWFQ="
+    "hash": "sha256-iLIz7K9TqB52bA8jTFUDqs+digKqLg+OfrQjo1lt9eQ="
   },
   "masi_csconv": {
     "version": "0.1.0",
@@ -49708,7 +49710,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sg_cookie_optin": {
-    "version": "5.3.4",
+    "version": "5.3.5",
     "t3_versions": [
       9,
       10,
@@ -49716,7 +49718,7 @@
       12
     ],
     "description": "",
-    "hash": "sha256-frnr1rJT3X0eWY81ORRQqSP+wAF3vFswh+AvbVxncng="
+    "hash": "sha256-y8Z8JrOT/36k/oI8Q5UFU9NTRLySv5t4Pw+Sn3Z3QjE="
   },
   "sg_cropscale": {
     "version": "0.5.0",
@@ -59435,13 +59437,13 @@
     "hash": "sha256-Qc/9Z893V6BRMqUmIZuhRn0iUyNgtAPzU+IBANgmxWA="
   },
   "translatelabels": {
-    "version": "2.3.3",
+    "version": "2.3.4",
     "t3_versions": [
       10,
       11
     ],
     "description": "This extension extends the TYPO3 translation handling by translation records that can be edited by backend users. In this way backend users are able to translate labels without having access to the language files.",
-    "hash": "sha256-3VzgWl9rWcFetGYDtHps1h/Z5Jb+f9NhQElOn+udgf0="
+    "hash": "sha256-o1yb/m9a99JUptdzaPfiIaTCRc0A38G0xz2excgke4c="
   },
   "translationapi": {
     "version": "2.0.0",
@@ -60857,13 +60859,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "typo3_console": {
-    "version": "8.0.3",
+    "version": "8.1.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "A reliable and powerful command line interface for TYPO3 CMS",
-    "hash": "sha256-1tWjkK5c4F7LCH+eHYtHRaPZRq8qzAMMZvEpApaUrRY="
+    "hash": "sha256-KFS3j9uE4wMrq9e2+cNBdA7PdXbfrkN+F3oby5wB7I4="
   },
   "typo3_console_cleartempfiles": {
     "version": "1.0.0",
