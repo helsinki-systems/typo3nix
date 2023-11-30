@@ -25774,12 +25774,13 @@
     "hash": "sha256-1BtHqdHxMgqWSvwa9lEB9dgde/Cg811PY1DMDC7F9sQ="
   },
   "in2publish_core": {
-    "version": "12.2.0",
+    "version": "12.3.1",
     "t3_versions": [
-      11
+      11,
+      12
     ],
     "description": "Content publishing extension to connect stage and production server",
-    "hash": "sha256-jr0mF8WDu+nE/opdhm70hqgMd2GPYDPwDgd2D1lKCcc="
+    "hash": "sha256-uPN7GNZzf9uOa7ijzvsMFlHnYNRWpkxvF9AEwx0g25k="
   },
   "in2rss": {
     "version": "0.2.2",
@@ -49710,7 +49711,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sg_cookie_optin": {
-    "version": "5.3.5",
+    "version": "5.3.6",
     "t3_versions": [
       9,
       10,
@@ -49718,7 +49719,7 @@
       12
     ],
     "description": "",
-    "hash": "sha256-y8Z8JrOT/36k/oI8Q5UFU9NTRLySv5t4Pw+Sn3Z3QjE="
+    "hash": "sha256-mPVLdQgMB8XVRIH7RGC1RST97I2UhvOckBmQnzB+Mms="
   },
   "sg_cropscale": {
     "version": "0.5.0",
@@ -56951,12 +56952,12 @@
     "hash": "sha256-kQeRiJAI7zZLil7zGDNiNICU0DWi25XEo6xtZs05oU8="
   },
   "ted3": {
-    "version": "12.0.5",
+    "version": "12.1.0",
     "t3_versions": [
       12
     ],
     "description": "Frontendediting for TYPO3 (Basic version)",
-    "hash": "sha256-8M5IFLDTM+ENQgLdh/S8INonRGyXjUpRNKnWcxzMjg4="
+    "hash": "sha256-i2oRIaC5WQXBk0P3pEYLqcVjlNK8AYt22Bq9UIEwYYw="
   },
   "telegram": {
     "version": "0.1.0",
@@ -57113,7 +57114,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "templavoilaplus": {
-    "version": "8.1.3",
+    "version": "8.1.4",
     "t3_versions": [
       8,
       9,
@@ -57121,7 +57122,7 @@
       11
     ],
     "description": "Building kit for custom pages and content elements with individual fields, containers and backend layouts. Supporting drag'n'drop and multiple references.",
-    "hash": "sha256-OrsxddMPHBky0vfnn3CS2EoFvShXuQE5Y1u+/+PCIOY="
+    "hash": "sha256-+P8JYP6ejukHht5mITCQ2vgDh0DsOR0cOao8p0w6sQY="
   },
   "tender": {
     "version": "2.0.2",
