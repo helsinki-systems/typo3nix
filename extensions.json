@@ -42370,13 +42370,13 @@
     "hash": "sha256-j/pZsOvUF7ZxwgFRCs056zlCWBfy9iRh/wKgDlz6LbQ="
   },
   "personnel": {
-    "version": "3.8.2",
+    "version": "3.8.3",
     "t3_versions": [
       11,
       12
     ],
-    "description": "Personnel lists with vCard download.",
-    "hash": "sha256-JKkG4yonG7XlhpCliMUcwuS6jxjimrfwUyMImXUWLkY="
+    "description": "Personnel and contact lists with vCard support.",
+    "hash": "sha256-BL36/FMKzV3JGWP1FVzcENBvRa3YU70uAQe1nfqQeoA="
   },
   "persons": {
     "version": "1.0.0",
@@ -44791,12 +44791,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "qbank": {
-    "version": "2.0.1",
+    "version": "2.0.2",
     "t3_versions": [
       12
     ],
     "description": "Integration of QBank DAM for TYPO3",
-    "hash": "sha256-SqACXZ776U1sA7gZ1P5V4uhkmDb4hLRK1c2akLlLvVM="
+    "hash": "sha256-GoJQG1Cj7JL//UA/ZePa4B8qkDmbyq9hhH3aQaGy0iQ="
   },
   "qc_be_domain_color": {
     "version": "1.0.1",
@@ -49207,13 +49207,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "seminars": {
-    "version": "5.5.0",
+    "version": "5.5.1",
     "t3_versions": [
       10,
       11
     ],
     "description": "Allows you to create and manage a list of seminars, workshops, lectures, theater performances and other events, allowing front-end users to sign up. FE users also can create and edit events.",
-    "hash": "sha256-hDfk14bJYx5zOlunOHTUb2vv4+qX3e52v83EnrS8pJ0="
+    "hash": "sha256-zm8IVSYrDE5nQxqXiLZu5kteBk6wND4JFoD4tMBzk6M="
   },
   "seminarscalredirect": {
     "version": "1.0.0",
@@ -49711,7 +49711,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sg_cookie_optin": {
-    "version": "5.3.6",
+    "version": "5.3.7",
     "t3_versions": [
       9,
       10,
@@ -49719,7 +49719,7 @@
       12
     ],
     "description": "",
-    "hash": "sha256-mPVLdQgMB8XVRIH7RGC1RST97I2UhvOckBmQnzB+Mms="
+    "hash": "sha256-SUp/BIV8JkqNHA0OD20eWhAOLGb9ceOT36ZQBcQN95Q="
   },
   "sg_cropscale": {
     "version": "0.5.0",
@@ -60032,13 +60032,13 @@
     "hash": "sha256-udl+wmwghQAn/h/tYmjt8otT8KICsBOHMF+9Ksf6wPU="
   },
   "tt_board": {
-    "version": "1.13.0",
+    "version": "1.13.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Simple threaded (tree) or list message board (forum).",
-    "hash": "sha256-5xg54S/5eOKs7TZVBk67gsm9jwoqs+Us+2uyOeIxrsc="
+    "hash": "sha256-76EEeUmh+O5qto3ZD46WXK455jTdpoN4cx5i/MjBWE4="
   },
   "tt_calender": {
     "version": "1.0.5",
