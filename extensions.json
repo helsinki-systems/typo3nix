@@ -18601,12 +18601,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fe_change_pwd": {
-    "version": "4.0.1",
+    "version": "4.1.0",
     "t3_versions": [
       12
     ],
     "description": "Plugin to enable password change for frontend users. Contains configurable password",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-JD0m0CRJsR7MRraSGeCQtAjMx+QL7tm5FGCzk5gpB7w="
   },
   "fe_changelog": {
     "version": "3.1.0",
@@ -61368,12 +61368,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "uw_a11y_check": {
-    "version": "4.0.0",
+    "version": "4.1.0",
     "t3_versions": [
       11
     ],
     "description": "Configurable a11y check for tt_content and extension records",
-    "hash": "sha256-GGBtnYxAgr1bR6X2zKDaA7snYJGGhK8C2owCxfHyARc="
+    "hash": "sha256-AADUiUDBdVABUVLgcLjqocfl3eUjq+WjLtWk3SMgeMI="
   },
   "v4_crm_agent": {
     "version": "1.0.0",
