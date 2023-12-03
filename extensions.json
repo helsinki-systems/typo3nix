@@ -9775,12 +9775,12 @@
     "hash": "sha256-zIEstPFHttAq2bRVbuXskLWhPbkZ++m4mcc7E46IM6s="
   },
   "content_blocks": {
-    "version": "0.3.0",
+    "version": "0.4.0",
     "t3_versions": [
       12
     ],
     "description": "TYPO3 CMS Content Blocks - Content Types API",
-    "hash": "sha256-uDTa/jUwWoA5lu/S5twcAncxgEebGss83t/m07LL4ag="
+    "hash": "sha256-TQ5zEY6u4q96qRh3dLS/nh8jbbzN02RQXasGtxsD2CY="
   },
   "content_consent": {
     "version": "2.0.2",
@@ -49452,12 +49452,12 @@
     "hash": "sha256-YkZKrMTUerUy8yJmBkOYHP9WIEzgaGqMZkNqGeA4VIY="
   },
   "sf_event_mgt": {
-    "version": "7.3.2",
+    "version": "7.3.3",
     "t3_versions": [
       12
     ],
     "description": "Configurable event management and registration extension based on ExtBase and Fluid",
-    "hash": "sha256-49a7hYDvMt/Fhj74WYNjoRjU/moVj2UqH/iACrRd6k4="
+    "hash": "sha256-wAXFj4ZUnlAmrCtO29xjXiLPYP7ytUfDuNyvKTQl0HA="
   },
   "sf_event_mgt_contentelements": {
     "version": "2.0.1",
@@ -64674,12 +64674,13 @@
     "hash": "sha256-BAzZqjBNdVPpyRdcWngKT+K0fhOYDXdZn6ItjTyJ+IY="
   },
   "xm_goaccess": {
-    "version": "11.0.2",
+    "version": "11.0.4",
     "t3_versions": [
-      11
+      11,
+      12
     ],
     "description": "Dashboard widgets for goaccess.io",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-ipzT1SBk1bNeySh5jKnJ27NuCieXbMMs4F1rYRlxI+A="
   },
   "xm_tools": {
     "version": "0.3.3",
