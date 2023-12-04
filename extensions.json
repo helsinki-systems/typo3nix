@@ -2594,13 +2594,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "app_routes": {
-    "version": "1.4.0",
+    "version": "2.0.2",
     "t3_versions": [
-      10,
-      11
+      11,
+      12
     ],
     "description": "Easy way to route rest-like URLs to your code",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-yBd4j6NGZYjoT1w6+FC4K5/10q9qbOgRGTDdfZ5Ata4="
   },
   "apples": {
     "version": "0.1.2",
@@ -4225,13 +4225,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "beautyofcode": {
-    "version": "5.2.0",
+    "version": "6.0.0",
     "t3_versions": [
-      10,
-      11
+      11,
+      12
     ],
     "description": "This plugin provides Java-Script based, state-of-the-art, feature rich syntax highlighting by using SyntaxHighlighter or Prism. t3editor enabled.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-7MUrbTMUldY8AmONALJgpdhnPN0HlR10uXoMS4r8XqY="
   },
   "becookies": {
     "version": "0.1.9",
@@ -12889,12 +12889,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "dd_deepl": {
-    "version": "12.2.0",
+    "version": "12.3.0",
     "t3_versions": [
       12
     ],
     "description": "Translates pages, content and records using DeepL",
-    "hash": "sha256-vZUPlupa8iPWJ32Omb/l4fIF4+MtbngzZWm401rLlRE="
+    "hash": "sha256-iTEaQdY45jKSTrXlJ2zPsxx606QkEq+g8Ys49vJ3Om8="
   },
   "dd_download": {
     "version": "1.1.1",
@@ -13220,13 +13220,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "deletefiles": {
-    "version": "1.2.2",
+    "version": "1.3.0",
     "t3_versions": [
-      10,
-      11
+      11,
+      12
     ],
     "description": "Scheduler task for deleting old files and folder. Supports FAL. Useful for GDPR / DSGVO compliance.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-ruBhf+q12ijIDUuBEyGXL67+oNNgCIQ547yn8kXy0n8="
   },
   "demander": {
     "version": "0.2.0",
@@ -18704,13 +18704,13 @@
     "hash": "sha256-KKZZ8t1sbQKdtG8BOz0GVOyk6zxxC1LBlcfnEfHE+1Q="
   },
   "fe_performance": {
-    "version": "2.1.0",
+    "version": "2.2.0",
     "t3_versions": [
-      10,
-      11
+      11,
+      12
     ],
     "description": "This TYPO3 CMS extension improves your frontend performance. Adds JavaScript and HTML minification. Comes with some useful tweaks to improve asset rendering. See readme for more info.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-/ik388dzC1sl7f4w70MXRXFCQul1p4KsCTwhtGDxb/o="
   },
   "fe_plzliste": {
     "version": "0.0.1",
@@ -21938,12 +21938,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "generic_gallery": {
-    "version": "5.2.0",
+    "version": "6.0.0",
     "t3_versions": [
-      11
+      12
     ],
     "description": "One gallery to rule them all. Extbase & Fluid driven for use with any gallery / slide / rotate plugin.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-F1ZiJbl7C+g1/3l/bgLnIIVPIsO+yHG4+sgOylejavo="
   },
   "geo_location": {
     "version": "1.6.6",
@@ -29479,14 +29479,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "klaro_consent_manager": {
-    "version": "1.5.0",
+    "version": "1.6.0",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Functionally complete, flexible TYPO3 integration of Klaro! Consent Management by KIProtect. Klaro! is a powerful tool that protects your visitors' privacy and data and helps you run a GDPR compliant website.",
-    "hash": "sha256-Z5tjd2NnW90fuKBprUvycIpmtjXiG+iPXQEH0nJeJg0="
+    "hash": "sha256-M81xs9aUv4wT+CryOn5oTpXOcAeTxIokhOxKXa5Yy90="
   },
   "km_dam_extension": {
     "version": "1.0.2",
@@ -31918,12 +31918,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mailfiles": {
-    "version": "6.0.0",
+    "version": "7.0.0",
     "t3_versions": [
-      11
+      12
     ],
     "description": "Upload files and send download links via email. Uses plupload. Please see readme file.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-9AJTYDSX2W5qWhM7eG8+S4tUSF7rGa0T67X71SWuOvk="
   },
   "mailform": {
     "version": "0.9.35",
@@ -35148,12 +35148,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "modmod": {
-    "version": "1.0.4",
+    "version": "3.0.0",
     "t3_versions": [
-      10
+      12
     ],
     "description": "Add-on to pw_comments to moderate comments across pages. This extension provides a dashboard widget and a web module.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-AzvWP3P16AAIfuTok257qVB9dhKSYJCQW/rF/vPm5TA="
   },
   "module_data_listing": {
     "version": "1.1.0",
@@ -43232,12 +43232,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "pluploadfe": {
-    "version": "6.1.0",
+    "version": "7.0.0",
     "t3_versions": [
-      11
+      12
     ],
     "description": "Provides an API and a FE plugin for using plupload, a highly usable and advanced upload handler.",
-    "hash": "sha256-5brV9dT/jiyksvc0uzNYET44kddRCmFwIdBTi9R4bfw="
+    "hash": "sha256-fVKJ+SU5Rr3x+VCQuej9KqXvc0hs3S3DkO6OibfKN5s="
   },
   "pluploadfe_powermail": {
     "version": "1.0.1",
@@ -44538,13 +44538,12 @@
     "hash": "sha256-NZFCriIWjTKaYNjxVvSMUEosW64QnfCbwLkilKqRZoE="
   },
   "pw_comments": {
-    "version": "5.2.0",
+    "version": "6.0.0",
     "t3_versions": [
-      10,
-      11
+      12
     ],
     "description": "Powerful extension for providing comments, including replies on comments and voting.",
-    "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
+    "hash": "sha256-zGhw4CzSt5IoYGBasjniqkBfjZtQnJZvvfj2Cw8es4E="
   },
   "pw_highslide_gallery": {
     "version": "0.3.1",
@@ -55340,12 +55339,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "t3extblog": {
-    "version": "7.2.0",
+    "version": "8.0.0",
     "t3_versions": [
-      11
+      12
     ],
     "description": "A record based blog extension for TYPO3 CMS. Easy to use and packed with features (incl.",
-    "hash": "sha256-aDKMXDeaWT53Z3zcIkTyqkl9KGiLud8Mok+ugJqt148="
+    "hash": "sha256-4Q+u9LQPGTmIBMoBJ360eMEQsmuJkHrtiNXMVx4Wogo="
   },
   "t3extension_tools": {
     "version": "1.0.1",
