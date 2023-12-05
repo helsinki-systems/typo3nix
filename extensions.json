@@ -12889,12 +12889,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "dd_deepl": {
-    "version": "12.3.0",
+    "version": "12.4.0",
     "t3_versions": [
       12
     ],
     "description": "Translates pages, content and records using DeepL",
-    "hash": "sha256-iTEaQdY45jKSTrXlJ2zPsxx606QkEq+g8Ys49vJ3Om8="
+    "hash": "sha256-H+TBYSN0uTg1PY6aOIheT0Vp0lz14GvCRENqH5wcstg="
   },
   "dd_download": {
     "version": "1.1.1",
@@ -20050,13 +20050,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fluid_fpdf": {
-    "version": "2.5.1",
+    "version": "2.5.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "This extension provides you a complete set of ViewHelpers for dealing with FPDF by using Fluid. You can use the ViewHelpers easily in own Extensions just by defining the fpdf-Namespace. Additionally you are able to use the build in plugin, for displaying predefined PDF. This plugin offers you automatically all available PDFs.",
-    "hash": "sha256-0fr140x0OEVQF15GYQmERLbsrs4fdqW5M/bQNuzqx8I="
+    "hash": "sha256-9bVDBLkGv2JP7xuXJB7tfzhq04ln7u9JPrICbAWNRcI="
   },
   "fluid_info": {
     "version": "0.1.0",
@@ -21938,12 +21938,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "generic_gallery": {
-    "version": "6.0.0",
+    "version": "6.0.1",
     "t3_versions": [
       12
     ],
     "description": "One gallery to rule them all. Extbase & Fluid driven for use with any gallery / slide / rotate plugin.",
-    "hash": "sha256-F1ZiJbl7C+g1/3l/bgLnIIVPIsO+yHG4+sgOylejavo="
+    "hash": "sha256-WFLdC6D0sTmUrZexVY7MEv1t5L64P8F1nGamwTTjJDY="
   },
   "geo_location": {
     "version": "1.6.6",
@@ -25966,6 +25966,14 @@
     "description": "With this extension you can read nearly every paginator and realize infinite scrolling",
     "hash": "sha256-ch6kTd5AHT3F4srcGaPrumy4nfmuufpuHUlg7hzWZEo="
   },
+  "info_hide_default_lang": {
+    "version": "1.0.0",
+    "t3_versions": [
+      12
+    ],
+    "description": "Display information about activated \"Hide default language\" in TYPO3 page module",
+    "hash": "sha256-DgbPJ9cl8ZYh1TnOh0VQm3XsUxoGu6gyX7ZlVqIWMQI="
+  },
   "info_subpages": {
     "version": "1.0.0",
     "t3_versions": [
@@ -29479,14 +29487,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "klaro_consent_manager": {
-    "version": "1.6.0",
+    "version": "1.7.0",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Functionally complete, flexible TYPO3 integration of Klaro! Consent Management by KIProtect. Klaro! is a powerful tool that protects your visitors' privacy and data and helps you run a GDPR compliant website.",
-    "hash": "sha256-M81xs9aUv4wT+CryOn5oTpXOcAeTxIokhOxKXa5Yy90="
+    "hash": "sha256-3GIE4D0V9M5QViv3Py/s52mc8zjJzXvrhbaVDFHKT3U="
   },
   "km_dam_extension": {
     "version": "1.0.2",
@@ -34100,13 +34108,13 @@
     "hash": "sha256-AQZF9Hqa+uAIOlKaAsL3mUQYmZRntXWjaMfFxQiFsMU="
   },
   "microtemplate": {
-    "version": "4.1.0",
+    "version": "4.1.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "One page template with sections and lightbox like sub pages. Demo at: https://microtemplate.t3brightside.com",
-    "hash": "sha256-WU54oVN3gduAyx9qh6dTg1lEw4VAvGVJ3On1kbxcHkI="
+    "hash": "sha256-s4Ni8742A/+CSjAdhekP9En8gDDapgqx5yj/zI7J0Mg="
   },
   "miflowplayer": {
     "version": "0.1.9",
@@ -53702,12 +53710,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "static_info_tables_fr": {
-    "version": "11.5.1",
+    "version": "12.4.0",
     "t3_versions": [
-      11
+      12
     ],
     "description": "French (fr) language pack for the Static Info Tables providing localized names for countries, currencies and so on.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-n7fdA0n7IytwMTj2/uJDec25O7VSxku6nu2WbI3pqzk="
   },
   "static_info_tables_ga": {
     "version": "3.0.0",
@@ -53895,12 +53903,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "static_info_tables_ru": {
-    "version": "11.5.0",
+    "version": "12.4.0",
     "t3_versions": [
-      11
+      12
     ],
     "description": "(ru) language pack for the Static Info Tables providing localized names for countries, currencies and so on.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-GPtvN8Hr50LoIzzGMVVbeeLSyvIwtfmDO5sOwCuHSg8="
   },
   "static_info_tables_sk": {
     "version": "11.5.1",
@@ -56951,12 +56959,12 @@
     "hash": "sha256-kQeRiJAI7zZLil7zGDNiNICU0DWi25XEo6xtZs05oU8="
   },
   "ted3": {
-    "version": "12.1.0",
+    "version": "12.1.1",
     "t3_versions": [
       12
     ],
     "description": "Frontendediting for TYPO3 (Basic version)",
-    "hash": "sha256-i2oRIaC5WQXBk0P3pEYLqcVjlNK8AYt22Bq9UIEwYYw="
+    "hash": "sha256-3ofCFjHy19xhpIQa+hnbbBzYwNX4Z8jbvjwcwhYvkw8="
   },
   "telegram": {
     "version": "0.1.0",
@@ -57789,14 +57797,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "theodia": {
-    "version": "1.2.0",
+    "version": "2.0.0",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Fetch data from theodia.org to display the Mass schedule for the various places of worship in a parish or pastoral unit.",
-    "hash": "sha256-I2x81yyOwuWwpJgw/q4aoZtR6J7AoctyWMC5KaqFgW4="
+    "hash": "sha256-dKb+sF6L4TCQoxJYphtY5I/1iufoHA+UY+rgA5DZ7m8="
   },
   "thomasnu": {
     "version": "6.0.0",
