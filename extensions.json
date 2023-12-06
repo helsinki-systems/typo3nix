@@ -2322,7 +2322,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ameos_tarteaucitron": {
-    "version": "2.3.0",
+    "version": "2.4.0",
     "t3_versions": [
       8,
       9,
@@ -2331,7 +2331,7 @@
       12
     ],
     "description": "Integrates tarteaucitron.js in TYPO3 (see : https://tarteaucitron.io )",
-    "hash": "sha256-EmvaktUIfxJT1cJ3bFq+rDJobZnPGilY9XGA9p3wPH4="
+    "hash": "sha256-dCpgrsF27vuPBx8AvbsiYbh1zlrZtQUUI8qLpKkQkhk="
   },
   "ameos_typo3_vulnerabilities": {
     "version": "1.0.0",
@@ -3639,12 +3639,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "backendtools": {
-    "version": "5.0.0",
+    "version": "5.1.2",
     "t3_versions": [
       12
     ],
-    "description": "8 admin tools: extension-list, recent pages & elements, backend layouts, redirects import & check, file-deletion, images with no alt or title and link-list.",
-    "hash": "sha256-jY1tJvYi3kN4Jn4A1FxSmsgoPiwWFsSViHgDfbmQm/E="
+    "description": "9 admin tools: extension-list, recent pages & elements, backend layouts, redirects import & check, file-deletion, missing files, images with no alt or title and link-list.",
+    "hash": "sha256-WLC/wYzrD8ZtM+E64hG7TMHO2N6SXUKPlbdVOAuCRy0="
   },
   "backendwiki": {
     "version": "0.1.1",
@@ -6108,13 +6108,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "bynder2": {
-    "version": "2.0.1",
+    "version": "2.0.4",
     "t3_versions": [
       10,
       11
     ],
     "description": "Bynder FAL driver for TYPO3 CMS",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-VfySSX3Qfn+UmrS4uD4DWAMEJhl+BH6+Byb2zdwtb9I="
   },
   "bypassemailsendlimitation": {
     "version": "1.0.0",
@@ -10378,12 +10378,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "core_upgrader2": {
-    "version": "12.0.0",
+    "version": "12.0.1",
     "t3_versions": [
       12
     ],
     "description": "Run upgrade wizards for multiple TYPO3 versions at once",
-    "hash": "sha256-l+2LnAjrG74bh0SXFKX98sJKco15LNZcwnTzTaioDqQ="
+    "hash": "sha256-EuIPDgDHYbhXmzB8KNDVnzr8jzeDAEwt6roOSkRvf+s="
   },
   "coreapi": {
     "version": "1.3.0",
@@ -22447,13 +22447,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "glossary2": {
-    "version": "5.1.0",
+    "version": "6.0.0",
     "t3_versions": [
-      10,
-      11
+      11,
+      12
     ],
     "description": "This TYPO3 extension creates a glossary with A-Z links for you",
-    "hash": "sha256-VZnqaA68xfHln9JuWKGnlMsjR/crpggvod2nZzXjQRw="
+    "hash": "sha256-4pnj21ChEDOR6iryDsw2vkRSj0V4KStqcxJ5PELKdtY="
   },
   "glossary_one": {
     "version": "1.0.4",
@@ -30466,6 +30466,15 @@
     ],
     "description": "Toolbar, right, left, with configuration and Chat.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "lespf_calendar": {
+    "version": "0.7.4",
+    "t3_versions": [
+      11,
+      12
+    ],
+    "description": "Calendar widget with holidays",
+    "hash": "sha256-Owoyyt1PA9Sv3CQ7/pN0ZOfwGlVhD9r6xeXcGp2lmag="
   },
   "less": {
     "version": "0.2.2",
@@ -53798,12 +53807,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "static_info_tables_ja": {
-    "version": "11.5.0",
+    "version": "12.4.0",
     "t3_versions": [
-      11
+      12
     ],
     "description": "(ja) language pack for the Static Info Tables providing localized names for countries, ",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-4jvP+S5SznLvxdt2jpPpzt83BtGWsmyTU35DjfF9H2Y="
   },
   "static_info_tables_km": {
     "version": "0.0.2",
@@ -53911,12 +53920,12 @@
     "hash": "sha256-GPtvN8Hr50LoIzzGMVVbeeLSyvIwtfmDO5sOwCuHSg8="
   },
   "static_info_tables_sk": {
-    "version": "11.5.1",
+    "version": "12.4.0",
     "t3_versions": [
-      11
+      12
     ],
     "description": "(sk) language pack for the Static Info Tables providing localized names for countries, currencies and so on.",
-    "hash": "sha256-BCxNFEl0ecyeKsKmmoQIfzilKcLicH37UKjsy3SbG7Y="
+    "hash": "sha256-7/itbWU9dHifrIuS77YVY5hkuOH4e/IjXoGeS1wTUGQ="
   },
   "static_info_tables_sr": {
     "version": "7.0.0",
@@ -53963,12 +53972,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "static_info_tables_ua": {
-    "version": "11.5.2",
+    "version": "12.4.0",
     "t3_versions": [
-      11
+      12
     ],
     "description": "(Ukrainian) language pack for the Static Info Tables providing localized names for countries, currencies and so on.",
-    "hash": "sha256-t7zFUWz0EQaHemyo1Z1yZl/1P+1sr4XwRfgmRUfyi3g="
+    "hash": "sha256-B/U/vIZHNUIvKnXn8/Kv6rkF4BoYpe6jF5AsQ7RlxhM="
   },
   "static_info_tables_uk": {
     "version": "7.0.0",
@@ -55035,14 +55044,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "t3_tcpdf": {
-    "version": "6.1.0",
+    "version": "6.1.1",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Make TCPDF library (www.tcpdf.org) available within TYPO3",
-    "hash": "sha256-Sa69HPbzwxbLRXrJDMwkfxXHgeLxu/0YD14vEYRGEXg="
+    "hash": "sha256-gp/0HLGBo/8TQ9OHcDUebdz46PAEGF3MvngqqNj8syM="
   },
   "t3_translator": {
     "version": "1.0.2",
@@ -60084,13 +60093,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "tt_products": {
-    "version": "2.14.20",
+    "version": "2.14.21",
     "t3_versions": [
       10,
       11
     ],
     "description": "Advanced versions at ttproducts.de. Documented in the E-Book \"Der TYPO3-Webshop\" - Shop with listing in multiple languages, with order tracking, product variants, support for transactor extension, bill, creditpoint and voucher system.",
-    "hash": "sha256-tbi3vTMeRUufrBIBILXFt1viHnprpn8As1+fN1QL5Qk="
+    "hash": "sha256-lEGrtY0sNoJ+V9Y/0+Lh4OvWAdvCQ3q97QscmA94khs="
   },
   "tt_products_foundby": {
     "version": "0.1.4",
