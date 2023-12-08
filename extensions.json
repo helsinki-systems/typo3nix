@@ -19120,12 +19120,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "feuserextrafields": {
-    "version": "6.0.0",
+    "version": "6.1.0",
     "t3_versions": [
-      11
+      11,
+      12
     ],
     "description": "Extra fields for TYPO3 frontend users and drop-in replacement for the removed FrontEndUser Core model",
-    "hash": "sha256-aZpO8D7gfxCjZwaUh0hm4uaOoCPi+CFVbqCP65+Jyiw="
+    "hash": "sha256-8jK6f8+RFZRMxZ4bdWh23CC3bkjJ4MuNpQyrYa08HNA="
   },
   "feuserfeediting": {
     "version": "0.0.2",
@@ -23652,12 +23653,12 @@
     "hash": "sha256-0II+PkneAdyKZ5hUcmrIqtlYbHs391J970D7h5fatIY="
   },
   "hh_seo": {
-    "version": "0.8.0",
+    "version": "0.8.1",
     "t3_versions": [
       12
     ],
     "description": "Hauer-Heinrich - SEO - Meta-Tag - ViewHelpers",
-    "hash": "sha256-wVfnfIB2nKWySItQsMmsYFBXTZ5En9GL1kO8TUsWh/I="
+    "hash": "sha256-vIrp7dnHqeAOKlfgEL2vzpFMKewUlzEluTuwArB25ss="
   },
   "hh_simple_job_posts": {
     "version": "3.1.0",
@@ -29097,13 +29098,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ke_search": {
-    "version": "5.1.3",
+    "version": "5.2.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Faceted fulltext search for TYPO3. Fast, flexible and easy to install and use. Indexes content directly from the databases. Features faceting / filtering, file indexing, images in result lists and respects access restrictions.",
-    "hash": "sha256-AgzPUebjMG0ePNaL5aa+KSR8zWEW10POP+jfwy4uhn8="
+    "hash": "sha256-33SAcEf3+N7AzTV2KM9chaPcch6qFIW+XopXobCTK+g="
   },
   "ke_search_dam_tags": {
     "version": "0.0.1",
@@ -32948,13 +32949,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "md_saml": {
-    "version": "2.0.0",
+    "version": "3.0.0",
     "t3_versions": [
-      10,
-      11
+      11,
+      12
     ],
     "description": "SSO frontend or backend login with SAML authentication.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-8klnl4g0rXCIwORGtX9BQdnULu/sq/9heg07I5vmpOk="
   },
   "md_unreadnews": {
     "version": "4.0.1",
@@ -43792,13 +43793,13 @@
     "hash": "sha256-xPMC4gxV6KZIvBWcJsMisQqd1M43uGKUL73uJLK3nnY="
   },
   "powermailcaptcha": {
-    "version": "1.4.1",
+    "version": "1.4.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "Captcha Extension for Powermail",
-    "hash": "sha256-3bZ0ZcOKeIqg1XMac9xfmsat5yp8/fFIw4R/mrcC63A="
+    "hash": "sha256-yVikZkRgP3MazzgnGvw3HWuzFkeCljbZ6ZilFrHkkwo="
   },
   "powermailcustomcss": {
     "version": "1.1.0",
@@ -50463,6 +50464,15 @@
     ],
     "description": "Extension which shows, how to use the extension simpladataedit in different workcases",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "simpleevents": {
+    "version": "4.0.2",
+    "t3_versions": [
+      11,
+      12
+    ],
+    "description": "Simple events listing with Extbase and Fluid",
+    "hash": "sha256-CAf3UbTbja4RgAAl+V7lBW2TOdJLzFp0iugdY7LtATs="
   },
   "simplefaq": {
     "version": "1.4.0",
@@ -65200,12 +65210,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "youtubevideo": {
-    "version": "2.4.0",
+    "version": "2.5.0",
     "t3_versions": [
-      11
+      11,
+      12
     ],
-    "description": "YouTube videos with custom cover images, gallery layout, pagination, GDPR options and backend previews.",
-    "hash": "sha256-wiTl2eq2g+qa6swEwFti6NT9zQNkhjNmQrJIrIlItBI="
+    "description": "YouTube videos with custom cover images, gallery layout, pagination, GDPR, and backend previews.",
+    "hash": "sha256-xWOz9ypGWatl45lmwrbpjTCi1rPSh5gnGW2QQP56o3Y="
   },
   "yuieditor": {
     "version": "0.0.5",
