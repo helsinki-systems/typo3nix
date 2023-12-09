@@ -8044,7 +8044,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cfc_league": {
-    "version": "1.11.5",
+    "version": "1.11.6",
     "t3_versions": [
       8,
       9,
@@ -8053,10 +8053,10 @@
       12
     ],
     "description": "Umfangreiche Extension zur Verwaltung von Sportvereinen und -wettbewerben. Extensive extension to manage sports clubs and competitions. https://github.com/digedag/cfc_league",
-    "hash": "sha256-iuPUq0pCnxDo3/TEPD/Bgraj/EWZSaFrZyaTQJBHxCg="
+    "hash": "sha256-SWvWoUZ1n7c4uxgODX7CtEYTTH0Q5iq7IsmebwJsAdg="
   },
   "cfc_league_fe": {
-    "version": "1.11.1",
+    "version": "1.11.2",
     "t3_versions": [
       8,
       9,
@@ -8065,7 +8065,7 @@
       12
     ],
     "description": "FE-Plugins von T3sports. Liefert u.a. die Views Spielplan, Spielbericht, Tabellen, Team- und Spieleransicht. FE plugins for T3sports. Contains views for matchtable, leaguetable, matchreport, team and player reports and many more. Requires PHP5!",
-    "hash": "sha256-wWzqXGzxUunNuwBJbieuSgwZX1CxRd1kkxXqGk8eLOs="
+    "hash": "sha256-xJKYWtIelB0QLh6HlE7iG99uQyJ+evPnd0lzfLLhWHI="
   },
   "cfloat": {
     "version": "0.1.5",
@@ -18118,15 +18118,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "faicon": {
-    "version": "1.3.0",
+    "version": "2.0.0",
     "t3_versions": [
-      8,
-      9,
-      10,
-      11
+      11,
+      12
     ],
     "description": "Provides Font Awesome Icons for the TYPO3 page settings in the backend, and Icons for the Bootstrap Package in the frontend.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-GW3Iz6lRFQMR2XVFovh3gHTEG+tS5xeB526YARFGTRc="
   },
   "fake_fal": {
     "version": "2.4.2",
@@ -34961,12 +34959,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mmc_guestbook": {
-    "version": "3.0.1",
+    "version": "3.0.2",
     "t3_versions": [
       11
     ],
     "description": "A guestbook plugin providing several mechanisms for spam prevention",
-    "hash": "sha256-i1Azi7Nea8Azlz/g30U2SR+IxjPseStxpz6eyfvmtRk="
+    "hash": "sha256-QMFuEsBPaw2BR7mOPaXXvfvQjj825gRvt23HMZUZZ5o="
   },
   "mmc_slideshow": {
     "version": "2.0.4",
@@ -42779,14 +42777,15 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "phpunit": {
-    "version": "8.5.0",
+    "version": "8.5.1",
     "t3_versions": [
       9,
       10,
-      11
+      11,
+      12
     ],
-    "description": "Unit testing for TYPO3. Includes a CLI test runner.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "description": "PHPUnit test runner for TYPO3",
+    "hash": "sha256-dvJL00SgMm0645rWO4wf++uLkpQFH8WJuJYf/wP3tvA="
   },
   "phpunit_cli": {
     "version": "0.1.2",
@@ -45706,12 +45705,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "redirect_tab": {
-    "version": "3.1.1",
+    "version": "3.1.2",
     "t3_versions": [
       12
     ],
     "description": "Show TYPO3 redirects in the page properties",
-    "hash": "sha256-MFTds86+YvChQa/aV2bfjwUsxZ6uTkbUtxiuE5lMZJI="
+    "hash": "sha256-NluTWb/snPjb9JEpV/LQHUqNHHs/n3Z/JyL6F8oCV/M="
   },
   "redirection": {
     "version": "1.1.0",
@@ -46893,7 +46892,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "rn_base": {
-    "version": "1.17.4",
+    "version": "1.18.0",
     "t3_versions": [
       8,
       9,
@@ -46902,7 +46901,7 @@
       12
     ],
     "description": "TYPO3 plugins based on rn_base can use MVC design principles and domain driven development. This extension also provides an abstraction layer for TYPO3 API to support LTS version since 6.2.",
-    "hash": "sha256-pcNeOdzOSa5KzZ9b46khCjd+EYVHqeRUlxTKZPGgglc="
+    "hash": "sha256-tFogvEBJJrkp2d60Y7FFGNgwFYHh0fYcSFDfO+wd7SI="
   },
   "rn_memento": {
     "version": "0.0.1",
@@ -61954,13 +61953,13 @@
     "hash": "sha256-VvTMOeYIzaI5oT5rR1/3EJTgLZ9dyDnjcf04VyNSrIw="
   },
   "vimeovideo": {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Vimeo videos with custom cover images, gallery layout, pagination, GDPR options, and backend previews.",
-    "hash": "sha256-BjpIoyyCgxPOnHZdCATwlhKltArJ9oRViS7rNb2HSVc="
+    "hash": "sha256-7rMX/3WejFPX1e7eFjcaLt9pI11tsM/lEmpHGy6uSfg="
   },
   "vinou_connector": {
     "version": "5.7.2",
