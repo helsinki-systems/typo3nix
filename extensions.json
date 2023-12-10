@@ -20049,13 +20049,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fluid_fpdf": {
-    "version": "2.5.2",
+    "version": "2.6.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "This extension provides you a complete set of ViewHelpers for dealing with FPDF by using Fluid. You can use the ViewHelpers easily in own Extensions just by defining the fpdf-Namespace. Additionally you are able to use the build in plugin, for displaying predefined PDF. This plugin offers you automatically all available PDFs.",
-    "hash": "sha256-9bVDBLkGv2JP7xuXJB7tfzhq04ln7u9JPrICbAWNRcI="
+    "hash": "sha256-uEw+lvd/ERIm8rODS4KgBbqbq3fWiQ3mW+WxX0K/IHM="
   },
   "fluid_info": {
     "version": "0.1.0",
@@ -53094,12 +53094,12 @@
     "hash": "sha256-IHwPQ234OWip83Ft4kZrvy4RIpnQH+Pr4hecQZXAb60="
   },
   "sr_freecap": {
-    "version": "12.4.2",
+    "version": "12.4.3",
     "t3_versions": [
       12
     ],
     "description": "A TYPO3 integration of freeCap CAPTCHA.",
-    "hash": "sha256-rjynQ6eITZqWETAkPp9IWlZzxPL7AjZC0f5q6Hrouu8="
+    "hash": "sha256-hZMm7EoRAW0oyD9C/ybp31uY4FV7SRlXj7xVPo2gIOM="
   },
   "sr_guestbook": {
     "version": "2.0.0",
