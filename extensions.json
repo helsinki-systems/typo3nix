@@ -18985,12 +18985,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "femanager_mailchimp": {
-    "version": "1.0.2",
+    "version": "2.0.1",
     "t3_versions": [
-      10
+      12
     ],
     "description": "TYPO3 CMS Extension to connect femanager and mailchimp",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-YHkCjIVRdEzSbSRek3rAwvY7xSqyZye9jTlTXodr7ac="
   },
   "femanagerextended": {
     "version": "0.1.2",
@@ -23659,12 +23659,12 @@
     "hash": "sha256-vIrp7dnHqeAOKlfgEL2vzpFMKewUlzEluTuwArB25ss="
   },
   "hh_simple_job_posts": {
-    "version": "3.1.0",
+    "version": "3.3.0",
     "t3_versions": [
       12
     ],
     "description": "Adds plugins for list / show job postings with meta-data and schema.org stuff. Uses tt_address for job-contacts and job-location.",
-    "hash": "sha256-Ez0KFuQ9PWvVaNFKuSvx7f1Z14A571eb0ho4GdYRUzY="
+    "hash": "sha256-zoiQyKgF8zzP3l1NKoYggjR05bJamOO7d+Gp+5Bk8t8="
   },
   "hh_slider": {
     "version": "0.4.5",
@@ -30467,13 +30467,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "lespf_calendar": {
-    "version": "0.7.4",
+    "version": "0.7.5",
     "t3_versions": [
       11,
       12
     ],
     "description": "Calendar widget with holidays",
-    "hash": "sha256-Owoyyt1PA9Sv3CQ7/pN0ZOfwGlVhD9r6xeXcGp2lmag="
+    "hash": "sha256-vKb/Nzf1T0qQrjg6/NEXbLtUGMiEGBzS3ZulSFWGu4Y="
   },
   "less": {
     "version": "0.2.2",
@@ -49345,13 +49345,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "server_timing": {
-    "version": "1.8.0",
+    "version": "1.8.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Show timings of Database and HTTP Calls (send them to Sentry)",
-    "hash": "sha256-qXhhR65X44TZvkxsV2jXlNX/DXloDoxQcFGqeSlAh6c="
+    "hash": "sha256-OPYAVp2RZyzrJD1Bge2JvksDM5Jtq5RiUK4ODfvCoFs="
   },
   "service_bw2": {
     "version": "6.0.3",
@@ -50248,14 +50248,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "showcase": {
-    "version": "2.0.0",
+    "version": "2.0.2",
     "t3_versions": [
-      10,
-      11,
       12
     ],
-    "description": "Create beautiful showcases and portfolios",
-    "hash": "sha256-AY/0HtoTXOfMutEoJPQ/kqhZy5K41kpytjAtUWhLb9w="
+    "description": "Showcase is a versatile tool designed for creating dynamic portfolios, engaging galleries, and impressive presentations.",
+    "hash": "sha256-4dpIjya2p5bzPrjg/qGT2amNosfCjc+Os5LFWCRGuPk="
   },
   "showpageeditors": {
     "version": "1.0.7",
