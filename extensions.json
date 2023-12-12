@@ -551,13 +551,13 @@
     "hash": "sha256-UNDYWlYgbJMH3cIRxbxpDtg7/Jh8ijDy2bJmd1AjxrY="
   },
   "academic_jobs": {
-    "version": "0.1.5",
+    "version": "0.1.6",
     "t3_versions": [
       11,
       12
     ],
     "description": "The Academic Jobs extension allows users to create and manage job postings.",
-    "hash": "sha256-Mmu6CH8ktLRWiuES9TNHxU0HFjt+WBEuDXZRdOEvWVE="
+    "hash": "sha256-u9BMpaZ/pLZFErQIOSIOyzeYCUtXyhuBN/IrRLbVVEM="
   },
   "academic_networks_tt_address": {
     "version": "0.1.0",
@@ -30132,14 +30132,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "launchstartgreen": {
-    "version": "10.2.3",
+    "version": "10.4.0",
     "t3_versions": [
       8,
       9,
       10
     ],
     "description": "Launches a ready-to-use website for BUENDNIS 90/DIE GRUENEN! Website is responsive. It contains a calendar-modul and a news-modul, sample layouts and sample content. You can be rid of the green corporate design by removing one TypoScript template.",
-    "hash": "sha256-rfvMP1xMVZXZqR/2BmXDXbYRiHhw0xIodtEb/A7BHwE="
+    "hash": "sha256-ON6jdGYbJPgh4r7BBG0PkkqOCOTo1FkAfa7NqZPIn9E="
   },
   "layerslider": {
     "version": "5.6.2",
@@ -43643,12 +43643,12 @@
     "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
   },
   "powermail2salesforce": {
-    "version": "1.0.3",
+    "version": "2.0.1",
     "t3_versions": [
-      8
+      11
     ],
     "description": "Auto maps fields to if fields have the same names",
-    "hash": "sha256-YNZ0H3gt747N6Loj4vDC0Kyzgsl8ol6xdzkbfK6NZoY="
+    "hash": "sha256-K/rVQKCeVLvd7ucFFcKaQUx572SlGdby/anphebLFTU="
   },
   "powermail4dev": {
     "version": "10.0.0",
@@ -49729,7 +49729,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sg_cookie_optin": {
-    "version": "5.3.7",
+    "version": "5.3.8",
     "t3_versions": [
       9,
       10,
@@ -49737,7 +49737,7 @@
       12
     ],
     "description": "",
-    "hash": "sha256-SUp/BIV8JkqNHA0OD20eWhAOLGb9ceOT36ZQBcQN95Q="
+    "hash": "sha256-c3NtCtj8p4WST7w+JDom32VzTuLrEmagU1PSxR8c920="
   },
   "sg_cropscale": {
     "version": "0.5.0",
@@ -53540,14 +53540,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "startgreen": {
-    "version": "10.0.6",
+    "version": "10.1.0",
     "t3_versions": [
       8,
       9,
       10
     ],
     "description": "TYPO3 für BÜNDNIS 90/DIE GRÜNEN. TYPO3 GRUENE ist ein Template und liefert eine Website im Design von BÜNDNIS 90/DIE GRÜNEN. Es ist responsive, optimiert für Smartphone, Tablet und Desktop. Mit Launch TYPO3 GRUENE! kannst Du eine schlüsselfertige GRÜNE Website in Betrieb nehmen. Bürgerinitiativen, Verbände und Vereine können mit wenigen Handgriffen das Grüne Design entfernen. Website: https://typo3-gruene.de/",
-    "hash": "sha256-b3zdzcEzddo2OkR2XogkEb5CG2Y/0cqilzmHAU2mKT8="
+    "hash": "sha256-3tlfuVJGagV8iJR2vh8TRwOcxj80lTu3fcE294yInqQ="
   },
   "starthansekontor": {
     "version": "0.0.4",
@@ -64489,13 +64489,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "xblog": {
-    "version": "11.1.14",
+    "version": "11.2.5",
     "t3_versions": [
       10,
       11
     ],
     "description": "Quickly assemble a TYPO3 frontend! Publish the data from the tables pages, tt_content and from any other database! No need to set up typoscript.",
-    "hash": "sha256-jDNuwgDxzzUAYMiCSK+12B8HtHqS9vba6FLQGNjv4WA="
+    "hash": "sha256-MTh2C1Yc20KQiT2KMj2X0ySPdvf1mnyq478BQlPTUQ0="
   },
   "xdbmysql": {
     "version": "3.0.18",
