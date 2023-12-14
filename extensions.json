@@ -1118,13 +1118,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "address_manager": {
-    "version": "4.0.5",
+    "version": "4.0.6",
     "t3_versions": [
       11,
       12
     ],
     "description": "Manages and displays address and person records. Comes with three kinds of categories (groups, organisations and positions) with frontend filtering and fulltext search. Includes Google Maps and SEO support. There is also a pro version available. (Personenverzeichnis, Personendatenbank, Mitarbeiterverzeichnis, Filialfinder, Umkreissuche, Standortuebersicht, radial search, radius search)",
-    "hash": "sha256-Sdkr0au6UqIroYZHYndsqB8RwUXO04yV0026WwvtmkY="
+    "hash": "sha256-FsTlhPWC9zwS8HUocukkPDfiWlELtrZcoJIR3nLDuEI="
   },
   "addressgroups": {
     "version": "1.4.0",
@@ -11022,12 +11022,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cs_seo": {
-    "version": "8.1.0",
+    "version": "8.1.1",
     "t3_versions": [
       12
     ],
     "description": "SEO Extension: Enables important onpage features for search engine optimization (SEO). Expands",
-    "hash": "sha256-Isg2oW2cu34ZRj1MZtYrywMWvmuE0jU0IZk9FDKElIo="
+    "hash": "sha256-cS78jq3TqEkzgDxxZycHrxCaQRzFLsPSoLRWJI7s/Lk="
   },
   "cs_static_hide": {
     "version": "1.0.1",
@@ -30467,13 +30467,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "lespf_calendar": {
-    "version": "0.7.5",
+    "version": "0.7.6",
     "t3_versions": [
       11,
       12
     ],
     "description": "Calendar widget with holidays",
-    "hash": "sha256-vKb/Nzf1T0qQrjg6/NEXbLtUGMiEGBzS3ZulSFWGu4Y="
+    "hash": "sha256-QkjEP+xI8Uu1S0xzbY4H3564T7kjgzvIgsoWZVHInN8="
   },
   "less": {
     "version": "0.2.2",
@@ -40347,13 +40347,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "onetimeaccount": {
-    "version": "6.2.1",
+    "version": "6.3.0",
     "t3_versions": [
       10,
       11
     ],
     "description": "Allow users to create a one-time FE account to which they will be automatically logged in (without having to enter a user name or password).",
-    "hash": "sha256-/s3CGn0yymb0zJiNuU+/DoDHkcRtGucPXINYpC9IWkQ="
+    "hash": "sha256-AhkKgLkbQXrl8dJTixz6vEq7K/bk4Ho0wIYH3OxpeF0="
   },
   "onetimesecret": {
     "version": "1.2.1",
@@ -47505,12 +47505,12 @@
     "hash": "sha256-1R6R/FaDjuH/WNBQ1NxZQhTyBu/QxbdGSafje7fDfHw="
   },
   "rte_ckeditor_image": {
-    "version": "11.0.14",
+    "version": "12.0.0",
     "t3_versions": [
-      11
+      12
     ],
     "description": "Adds FAL image support to CKEditor for TYPO3.",
-    "hash": "sha256-t6vzmnvZGyGRKzq59Hao+yL9w0GKVhtTqQn7mj6UvmM="
+    "hash": "sha256-VDSgVNmebW3PCzHUpylpfXJlLIR0anh/ZyStzmopikM="
   },
   "rte_ckeditor_microdata": {
     "version": "10.1.0",
@@ -57140,15 +57140,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "templavoilaplus": {
-    "version": "8.1.4",
+    "version": "12.0.0",
     "t3_versions": [
-      8,
-      9,
-      10,
-      11
+      12
     ],
-    "description": "Building kit for custom pages and content elements with individual fields, containers and backend layouts. Supporting drag'n'drop and multiple references.",
-    "hash": "sha256-+P8JYP6ejukHht5mITCQ2vgDh0DsOR0cOao8p0w6sQY="
+    "description": "Building kit for custom  pages and content elements with individual fields, containers and backend layouts. Supporting drag'n'drop and multiple references.",
+    "hash": "sha256-9prIpkrXY4EovzqIDFIG8rbRH8w5U/LJZRUOc6+h0gI="
   },
   "tender": {
     "version": "2.0.2",
@@ -60911,13 +60908,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "typo3_docchecklogin": {
-    "version": "2.0.5",
+    "version": "2.0.7",
     "t3_versions": [
       11,
       12
     ],
     "description": "Integrate DocCheck Login with your Project",
-    "hash": "sha256-SB5c4suBUVsu43+C6Nk6AcOnnXq8P3Dldfbr0eFoL48="
+    "hash": "sha256-mR2CXDynj2kG+65/oXJLRLBP26vTPE0drPi6SK+3tbs="
   },
   "typo3_dummy_extension": {
     "version": "1.1.0",
