@@ -23520,13 +23520,13 @@
     "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
   },
   "hd_translator": {
-    "version": "0.1.0",
+    "version": "0.2.1",
     "t3_versions": [
       10,
       11
     ],
     "description": "",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-j23ftQjXs+R7rrDzINLlQ6OdhSXgbxOzIRa28rLGu+Q="
   },
   "header_flashexample": {
     "version": "0.1.2",
@@ -26223,13 +26223,13 @@
     "hash": "sha256-BKvdEYjdgOYFjUJf/F5bw/Y6iGpME50i8r4Hic85Ks4="
   },
   "interest": {
-    "version": "2.0.0",
+    "version": "2.1.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "REST and CLI API for adding, updating, and deleting records in TYPO3. Tracks relations so records can be inserted in any order. Uses remote ID mapping so you don't have to keep track of what UID a record has gotten after import. Data is inserted using backend APIs as if a real human did it, so you can can inspect the record history and undo actions.",
-    "hash": "sha256-RPxYRhHHNDQrHN2zAmIU2771Y1truPENLkwXOAZ7jqg="
+    "hash": "sha256-W5yc+vVIDpdIwSuG07xPluURF3OE5GDAfSuQ9AK0QWA="
   },
   "internal_notes": {
     "version": "1.2.0",
@@ -32557,13 +32557,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "matomo_widgets": {
-    "version": "2.2.1",
+    "version": "2.3.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Dashboard widgets with Matomo reports",
-    "hash": "sha256-/neFpM5UEGsvSzfCNqwVnw4b7iB5LnKSJvIMKL1UP3I="
+    "hash": "sha256-KA/PlAR/vX1IwlyWM4WsALS7dW1leDSW5sGojqgclbg="
   },
   "matomoapi": {
     "version": "1.0.1",
@@ -34598,13 +34598,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mklib": {
-    "version": "11.0.2",
+    "version": "11.0.3",
     "t3_versions": [
       10,
       11
     ],
     "description": "Utilities for extensions",
-    "hash": "sha256-Y9BJhJLGHaf3one3PnpHMrntyMaB+UuCmE1zu4GcsXM="
+    "hash": "sha256-DRGKWLmpAMTZxZomT8Bt7OrnV+SotJbgeZazi/PglYM="
   },
   "mklog": {
     "version": "11.0.14",
@@ -43783,22 +43783,22 @@
     "hash": "sha256-DXTxBoXGmgNbYhRt8E6dooUNwnbuxOD6Bav9cbDhHs0="
   },
   "powermailautocomplete": {
-    "version": "2.2.0",
+    "version": "2.2.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Add autocomplete tokens to powermail fields",
-    "hash": "sha256-xPMC4gxV6KZIvBWcJsMisQqd1M43uGKUL73uJLK3nnY="
+    "hash": "sha256-czdGKxBFnOrFWbC7fJXSFDrY7LutyCSnPCZM/TobKYk="
   },
   "powermailcaptcha": {
-    "version": "1.4.2",
+    "version": "1.4.3",
     "t3_versions": [
       11,
       12
     ],
     "description": "Captcha Extension for Powermail",
-    "hash": "sha256-yVikZkRgP3MazzgnGvw3HWuzFkeCljbZ6ZilFrHkkwo="
+    "hash": "sha256-NyBMNgMKnaHXwwCMJec0Q/yTU92iq+JR0rL69cddV4o="
   },
   "powermailcustomcss": {
     "version": "1.1.0",
@@ -45208,13 +45208,13 @@
     "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
   },
   "randomizer": {
-    "version": "3.4.9",
+    "version": "3.4.12",
     "t3_versions": [
-      9,
-      10
+      10,
+      11
     ],
     "description": "This is a TYPO3 extension. It randomizes content in the database or during an export. It's a wrapper for fakerphp/faker.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-KEeDfKr5pVxSLAvWaZsx8dwlIuRM2gYbVN8dMG+hg30="
   },
   "rates": {
     "version": "0.0.1",
@@ -61867,12 +61867,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "video_vtt": {
-    "version": "1.0.5",
+    "version": "2.0.1",
     "t3_versions": [
-      10
+      12
     ],
     "description": "Extend TYPO3 Video functionality",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-Y/OjCd7diqcvhloPPkEJQEQQrdYWqN1hmjiperm2RQ8="
   },
   "videoce": {
     "version": "0.10.0",
