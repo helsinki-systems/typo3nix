@@ -53512,12 +53512,12 @@
     "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
   },
   "start": {
-    "version": "10.1.15",
+    "version": "10.1.17",
     "t3_versions": [
       10
     ],
     "description": "Start extends TYPO3 with the responsive framework Foundation (Zurb), a dozen responsive Backend Layouts and some responsive Gridelements. It enables editors, to create responsive nested layouts within a few minutes. It extends some backend forms for controlling the display of content elements depending on devices like smartphones, tablets and desktops. It extends TYPO3 content elements and menus with some helpful responsive Foundation features. A template for a responsive newsletter is included.",
-    "hash": "sha256-8D5B4qI4svheMxXwnTIjx/O0hLp5J1NkvleO0iCIrxo="
+    "hash": "sha256-XSKIVCGDHdH8Uo7EAmt/+0NDt80OCfydkWJljA0QLNM="
   },
   "startcustomer": {
     "version": "5.1.10",
