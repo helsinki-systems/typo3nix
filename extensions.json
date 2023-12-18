@@ -34247,13 +34247,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mindshape_cookie_consent": {
-    "version": "3.0.2",
+    "version": "3.1.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "This extension provides functionality to create  a customizable cookie consent for your website. It is developed for flexibility to be customized in accordance to your data security guidelines.",
-    "hash": "sha256-jGWfq8vBZOs/iegJwupVz4oA+b1yynfBiC/cmY1K//I="
+    "hash": "sha256-ysW8wwMmXYbHZbA4am+inqRPdAAd0fqi9DXqlW7v46M="
   },
   "mindshape_cookie_hint": {
     "version": "1.1.0",
@@ -40074,13 +40074,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "oelib": {
-    "version": "5.2.0",
+    "version": "5.2.1",
     "t3_versions": [
       10,
       11
     ],
     "description": "Useful stuff for TYPO3 extension development: helper functions for unit testing, templating and automatic configuration checks.",
-    "hash": "sha256-t6F58Ew0H/5rWoYOGVLA6x/Ka0Fb2gHouvmAG/7Jkd8="
+    "hash": "sha256-v2rOYprtNBT4MAfnv8utAmlcJk9vTA50HRRfre5tOsc="
   },
   "oembed": {
     "version": "0.1.1",
@@ -42241,14 +42241,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "pdfviewhelpers": {
-    "version": "2.5.0",
+    "version": "3.0.0",
     "t3_versions": [
-      9,
-      10,
-      11
+      11,
+      12
     ],
     "description": "Provides various Fluid ViewHelpers to create PDF documents. Under the hood pdfviewhelpers uses TCPDF and FPDI.",
-    "hash": "sha256-7wa/ZQM96GLL5R7g+euRpIxizCI0M7GBdHBSdi+C+Xg="
+    "hash": "sha256-hAKSrM89Q/vjNbuYVZfhd+xEie/bAJpJzZSW4nT+Rzg="
   },
   "pdmt3": {
     "version": "0.1.0",
@@ -45208,13 +45207,13 @@
     "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
   },
   "randomizer": {
-    "version": "3.4.12",
+    "version": "3.5.0",
     "t3_versions": [
-      10,
-      11
+      11,
+      12
     ],
     "description": "This is a TYPO3 extension. It randomizes content in the database or during an export. It's a wrapper for fakerphp/faker.",
-    "hash": "sha256-KEeDfKr5pVxSLAvWaZsx8dwlIuRM2gYbVN8dMG+hg30="
+    "hash": "sha256-wE8YETdAx9SJq6fbndHGE/zpbzJCLd+WbEdKCxOrpP8="
   },
   "rates": {
     "version": "0.0.1",
@@ -57937,6 +57936,15 @@
     "description": "E-commerce ticketing solution for organisers and theaters. Site plans with seats, surfaces or any other object. With GUI. Sell tickets online!",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "tile_maps": {
+    "version": "1.0.3",
+    "t3_versions": [
+      11,
+      12
+    ],
+    "description": "Tile Maps allows in connection with Tile Proxy(tile_proxy) a GDPR compliant integration of OpenStreepMap maps without additional cookie dialog.",
+    "hash": "sha256-yp/PVr0if9FCdKdB87kCpV1tKlbXeB0wcPqo1HTZGz0="
+  },
   "tile_proxy": {
     "version": "1.2.1",
     "t3_versions": [
@@ -60099,13 +60107,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "tt_products": {
-    "version": "2.14.21",
+    "version": "2.14.22",
     "t3_versions": [
       10,
       11
     ],
     "description": "Advanced versions at ttproducts.de. Documented in the E-Book \"Der TYPO3-Webshop\" - Shop with listing in multiple languages, with order tracking, product variants, support for transactor extension, bill, creditpoint and voucher system.",
-    "hash": "sha256-lEGrtY0sNoJ+V9Y/0+Lh4OvWAdvCQ3q97QscmA94khs="
+    "hash": "sha256-7pfdRo9j/3MwyqeSjohK4diJ/plGYw8qIMlsO4bi3Go="
   },
   "tt_products_foundby": {
     "version": "0.1.4",
@@ -65140,14 +65148,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "yoast_seo": {
-    "version": "9.0.2",
+    "version": "9.0.3",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Optimise your website for search engines with Yoast SEO for TYPO3. With this extension you get all the technical SEO stuff you need and will help editors to write high quality content.",
-    "hash": "sha256-vScqm/lbcFPn0mw+jtHfxp+lgH7a1rIIGvtf5Ou/+q0="
+    "hash": "sha256-uyDJm2OCT3xWtkxlUkuVoRok0qld+8OwPqrtVO+4Y8E="
   },
   "yoo_blockimage": {
     "version": "1.0.0",
