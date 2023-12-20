@@ -17294,13 +17294,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "eventnews": {
-    "version": "6.0.1",
+    "version": "6.0.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "Events for news",
-    "hash": "sha256-+q9InES96Amh+kyjtX+UvQXpYMq6R1/5/aqg8NWU5Cg="
+    "hash": "sha256-TohTi3cdyG+yyRD9V5IAx2ugLnbEEbSaJNznlQ68PQg="
   },
   "eventoni_banner": {
     "version": "1.0.0",
@@ -24172,12 +24172,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "html5mediakit": {
-    "version": "12.1.0",
+    "version": "12.1.1",
     "t3_versions": [
       12
     ],
     "description": "Allows easy embedding of HTML5 video and audio elements.",
-    "hash": "sha256-lwJXzsw4iNuzKaPm2ZP7WZPeMHUgYVYTgXIH2xh01MA="
+    "hash": "sha256-6Q/p02W6lj3ETQTJKvMg686fzF8bUg3KyiYEOQtxhEg="
   },
   "html5meta_t3lib_pagerenderer": {
     "version": "0.1.0",
@@ -27733,13 +27733,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "job_finder": {
-    "version": "4.1.0",
+    "version": "4.2.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Job finder extension including job listing, details, application, microdata and more.",
-    "hash": "sha256-8fe4DWflYD7LUJ8TKLcXvE49yqgndXXgqT4XW2JP+ZY="
+    "hash": "sha256-gNuksE5afNvMKEL+rAleslDQ0CNrpi22h0OPRzU3kOI="
   },
   "job_market": {
     "version": "2.1.1",
@@ -30466,13 +30466,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "lespf_calendar": {
-    "version": "0.7.6",
+    "version": "0.8.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Calendar widget with holidays",
-    "hash": "sha256-QkjEP+xI8Uu1S0xzbY4H3564T7kjgzvIgsoWZVHInN8="
+    "hash": "sha256-9Cmj+8N9h7BsNA1gKpxhuKNaDUVaiwlrxv6m8m6z6tA="
   },
   "less": {
     "version": "0.2.2",
@@ -37683,13 +37683,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "news": {
-    "version": "11.2.0",
+    "version": "11.3.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Versatile news system based on Extbase & Fluid and using the latest technologies provided by TYPO3 CMS.",
-    "hash": "sha256-Ef28yieW9ZgyrEfncXVdbGeJNAVVHTm6v+EOjmgYUEY="
+    "hash": "sha256-1e5uO9K7dX7XvyNLnQsTEc7g/JRGegar8ZOxC7OJSm8="
   },
   "news2facebook": {
     "version": "1.1.0",
