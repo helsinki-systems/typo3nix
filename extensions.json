@@ -10116,6 +10116,15 @@
     "description": "Show information and get consent for tracking cookies. Handles \"doNotTrack\" setting from browser if configured. Filter out unwanted tracking scripts by using a TypoScript condition or by javascript AOP. Needs jQuery",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "cookie_content": {
+    "version": "0.1.0",
+    "t3_versions": [
+      11,
+      12
+    ],
+    "description": "This extension is intended to make websites GDPR compliant by not rendering data critical content by default. Instead a placeholder message is shown helping the user to understand the legal context. Requires the bootstrap package.",
+    "hash": "sha256-8jBv/T8K4oYBubqS5NA1ZcoTgxJ84LsaXN/+oPhDeAg="
+  },
   "cookie_control": {
     "version": "2.1.0",
     "t3_versions": [
@@ -17581,13 +17590,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ext_bibsonomy_csl": {
-    "version": "3.3.3",
+    "version": "3.3.5",
     "t3_versions": [
-      10,
       11
     ],
     "description": "TYPO3 extension for PUMA and BibSonomy using CSL",
-    "hash": "sha256-xmBsDhDRD97QPhG3E4M+dM8PFaSBA0UtlBmF2rnogFU="
+    "hash": "sha256-2/5c9FvdOgjMapxI+h+qK36eWPKwVjOyNPasWScdSpQ="
   },
   "ext_configuration": {
     "version": "1.0.3",
@@ -18976,12 +18984,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "femanager_mail_subscribe": {
-    "version": "1.2.0",
+    "version": "2.0.0",
     "t3_versions": [
-      11
+      12
     ],
     "description": "Adds newsletter subscription fields for mail extension to femanager",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-Ln2CNEvcLtvCZhbarmBT2tAwW7DsFuSox3ZpQ8wwnZE="
   },
   "femanager_mailchimp": {
     "version": "2.0.1",
@@ -20869,13 +20877,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "form_rate_limit": {
-    "version": "1.3.0",
+    "version": "1.3.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "TYPO3 form finisher for rate limiting when sending a form",
-    "hash": "sha256-a/g3+gQ/fFgcGOxI9X7Gy2JlyZNClSsOgZGOzRo92RM="
+    "hash": "sha256-+Y//RW/OJcg51vIladD1q7d5p4IExHL1gsEa/b722Fw="
   },
   "form_search": {
     "version": "2.0.0",
@@ -21223,21 +21231,21 @@
     "hash": "sha256-BWibo3/20xqtaX8DidK/HYtgtpJvSyzjCx9HqXRROF8="
   },
   "fp_masterquiz": {
-    "version": "4.0.3",
+    "version": "4.2.2",
     "t3_versions": [
       12
     ],
     "description": "A modern extension that offers quiz, polls and tests. Ajax support. The result can be displayed as a chart too. Supports 8 question modes.",
-    "hash": "sha256-K/9dv25Uof8nrQK0okP4687AWkcZPsNd4DSHVADKvdM="
+    "hash": "sha256-dYmm8TB/6q4XJxMsiMXSZqDq1t2KiDtpt027I7hf3Tk="
   },
   "fp_newsletter": {
-    "version": "6.2.0",
+    "version": "6.3.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Plugin for newsletter subscription and unsubscription with double opt in (and double opt out). For: mail or luxletter / tt_address or fe_users. A log is written.",
-    "hash": "sha256-/Gy2a/k/kCJ81qD+lt+ynDCbnmiFMlI7VYq3G/HHDRU="
+    "hash": "sha256-FPgYWJenYK861ZUNY/DQbhvjsg3cpdhw9Ak6X4AG8IQ="
   },
   "fp_product_features": {
     "version": "0.2.0",
@@ -23519,13 +23527,12 @@
     "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
   },
   "hd_translator": {
-    "version": "0.2.1",
+    "version": "1.0.0",
     "t3_versions": [
-      10,
-      11
+      12
     ],
     "description": "",
-    "hash": "sha256-j23ftQjXs+R7rrDzINLlQ6OdhSXgbxOzIRa28rLGu+Q="
+    "hash": "sha256-z7+YBz4n2AE/Vuxb5jcXc5tAhP03XzHTC9B+5XTQaJ0="
   },
   "header_flashexample": {
     "version": "0.1.2",
@@ -26878,13 +26885,13 @@
     "hash": "sha256-zjxSmtRsoUsUGzug/LFPj+tUQSz0o9j1lbwqoxOvSeE="
   },
   "jar_columnrow": {
-    "version": "1.0.19",
+    "version": "1.0.20",
     "t3_versions": [
       10,
       11
     ],
     "description": "Provides a freely definable and universal grid element with bootstrap-based output.",
-    "hash": "sha256-mhMzQUqHv2x/XQE188V/eLKbq1+9cTpXfARQZ9Wlda0="
+    "hash": "sha256-OUJ74RNbpbyIe2jyfAe4I42P2T4ZOMJAeMICS57KOZE="
   },
   "jar_dataflow": {
     "version": "1.0.20",
@@ -43568,13 +43575,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "portfolios": {
-    "version": "4.1.4",
+    "version": "4.1.5",
     "t3_versions": [
       11,
       12
     ],
     "description": "Extension for displaying portfolios and references",
-    "hash": "sha256-qZueTXIu54BvWisa9G3B2FGYZwT0piK0abceicbgAzo="
+    "hash": "sha256-2BeNUWQi59NSHYOWTYzN/7UVw6Ax0C/PM8w6HYsWhoA="
   },
   "porto": {
     "version": "0.9.3",
