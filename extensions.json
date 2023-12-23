@@ -3653,22 +3653,20 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "backgroundimage": {
-    "version": "4.3.0",
+    "version": "5.0.0",
     "t3_versions": [
-      10,
-      11
+      12
     ],
     "description": "Enables uploading of an image in page properties, which then is shown on page as background image for a predefined element.",
-    "hash": "sha256-TXQaGU7tKLdDwWzN/MTAW/VlC+EY1LEf9wYa+UmxVJY="
+    "hash": "sha256-VAZ1+8EOj3I20pfFhg6Oe7w196SRb2Yv2EHIELjupt8="
   },
   "backgroundimage4ce": {
-    "version": "5.2.1",
+    "version": "6.0.0",
     "t3_versions": [
-      10,
-      11
+      12
     ],
     "description": "Allows background images and background options for all types of content elements (text, text with image, forms, plugins, ...). Background images are adaptive.",
-    "hash": "sha256-GaKdzzGb03U9JTnBLGERuZvxsGMnu5VcFsMtzyYYE6E="
+    "hash": "sha256-RJOD1Gaeuoo69sVb415lA8+YaXzBHiwrbOdyNG37cgc="
   },
   "backup": {
     "version": "0.1.0",
@@ -23527,12 +23525,12 @@
     "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
   },
   "hd_translator": {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "t3_versions": [
       12
     ],
     "description": "Translation of static strings from locallang.xlf files and export/import of database related content",
-    "hash": "sha256-S6gZ8t8COivErr7Heb2hIOFjmPrKAjjmGnjT7WnbbDQ="
+    "hash": "sha256-Bxk4CtLOA7VDQK5FEb+/XHKuKrXV6i/vfZr+NX5cAQg="
   },
   "header_flashexample": {
     "version": "0.1.2",
@@ -40080,13 +40078,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "oelib": {
-    "version": "5.2.1",
+    "version": "5.2.2",
     "t3_versions": [
       10,
       11
     ],
     "description": "Useful stuff for TYPO3 extension development: helper functions for unit testing, templating and automatic configuration checks.",
-    "hash": "sha256-v2rOYprtNBT4MAfnv8utAmlcJk9vTA50HRRfre5tOsc="
+    "hash": "sha256-oQq4ahHU3fvIYtHa8heIL2JJkhFYwsYDtvaLo1wLga8="
   },
   "oembed": {
     "version": "0.1.1",
@@ -60113,13 +60111,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "tt_products": {
-    "version": "2.14.22",
+    "version": "2.15.0",
     "t3_versions": [
       10,
       11
     ],
     "description": "Advanced versions at ttproducts.de. Documented in the E-Book \"Der TYPO3-Webshop\" - Shop with listing in multiple languages, with order tracking, product variants, support for transactor extension, bill, creditpoint and voucher system.",
-    "hash": "sha256-7pfdRo9j/3MwyqeSjohK4diJ/plGYw8qIMlsO4bi3Go="
+    "hash": "sha256-Hx83VQNxOOupzlRgDo3vt2BCNmGFkngWMjxxN9gwKRA="
   },
   "tt_products_foundby": {
     "version": "0.1.4",
