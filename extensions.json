@@ -7849,13 +7849,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cefooter": {
-    "version": "1.4.0",
+    "version": "2.0.0",
     "t3_versions": [
-      10,
-      11
+      12
     ],
     "description": "Preview of settings in footer of tt_content element in page module.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-Zc691BTgLkgo31gtyUpFaeufX5lGz7YxlAqvIitqAQY="
   },
   "celum_asset_picker": {
     "version": "1.0.8",
@@ -42389,13 +42388,13 @@
     "hash": "sha256-j/pZsOvUF7ZxwgFRCs056zlCWBfy9iRh/wKgDlz6LbQ="
   },
   "personnel": {
-    "version": "3.8.3",
+    "version": "3.9.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Personnel and contact lists with vCard support.",
-    "hash": "sha256-BL36/FMKzV3JGWP1FVzcENBvRa3YU70uAQe1nfqQeoA="
+    "hash": "sha256-PeM2fx+bZwgO4RfVh0OX/eMapTUOp0kDub8U78USVS4="
   },
   "persons": {
     "version": "1.0.0",
