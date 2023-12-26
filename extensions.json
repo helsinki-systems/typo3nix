@@ -7849,12 +7849,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cefooter": {
-    "version": "2.0.0",
+    "version": "2.0.1",
     "t3_versions": [
       12
     ],
     "description": "Preview of settings in footer of tt_content element in page module.",
-    "hash": "sha256-Zc691BTgLkgo31gtyUpFaeufX5lGz7YxlAqvIitqAQY="
+    "hash": "sha256-VyiLic4+430xErxNuF91dGNSNZkfkIERVw+hFaBhAEE="
   },
   "celum_asset_picker": {
     "version": "1.0.8",
@@ -7919,13 +7919,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cewrap": {
-    "version": "4.5.0",
+    "version": "5.0.0",
     "t3_versions": [
       10,
-      11
+      11,
+      12
     ],
     "description": "Allows to wrap content elements with individual IDs and/or classes and select multiple predefined classes, e.g. to hide content elements dependent to screen width.",
-    "hash": "sha256-OgJSz1W5RopHm7G8bG3oo9tGy2qC7KgEPMug1nmdDtU="
+    "hash": "sha256-G0EHvk8eK2LqTpw/qHUJKB26RRHVXIWCwPu9YH7yBuA="
   },
   "cewrap_space": {
     "version": "2.0.0",
@@ -26122,13 +26123,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "instagram": {
-    "version": "7.2.0",
+    "version": "8.0.0",
     "t3_versions": [
-      10,
-      11
+      11,
+      12
     ],
     "description": "Show images and posts from instagram profiles",
-    "hash": "sha256-VBpTkKJFwPtL8CcTaESxdXKRCP1cICtTVDpniZsUir0="
+    "hash": "sha256-+EPJ3nIMBRKgQlqFxfN9QP7t78Zsy9hiSyPcaWqjk5w="
   },
   "instagramapi": {
     "version": "1.0.1",
@@ -55091,12 +55092,12 @@
     "hash": "sha256-v0jr7+ZjBssqYVB6ri+6xlT1x1BQMZYDmC09tV/Mz+c="
   },
   "t3am": {
-    "version": "4.0.2",
+    "version": "5.0.0",
     "t3_versions": [
-      11
+      12
     ],
     "description": "T3AM - TYPO3 Authentication Manager",
-    "hash": "sha256-bk3lyVSsUIo6fe55pOMGnQRm4vt8qw/tNqP4JPjHXOs="
+    "hash": "sha256-6W8U/zzVWcJLYfjeOcY8mBl/k8zNMx8KNqaY7CE7Ypc="
   },
   "t3am_server": {
     "version": "3.0.2",
