@@ -22912,13 +22912,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "graphql3": {
-    "version": "1.7.0",
+    "version": "1.8.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "A graphql extension for TYPO3",
-    "hash": "sha256-RNepZCogj7bijp1tB1YqsscTy5cxTK4BhZ64uagSFy4="
+    "hash": "sha256-JyRF/eGWB42/SJZs4ti8TiSwVKP8SYg+ghuUl2TDjM4="
   },
   "gravatar": {
     "version": "2.0.1",
@@ -38883,12 +38883,12 @@
     "hash": "sha256-36GUDqEqYAO87zocn+nbtwoRyBd1KNbOzd6qR/EdsrE="
   },
   "ns_basetheme": {
-    "version": "12.1.0",
+    "version": "12.1.1",
     "t3_versions": [
       12
     ],
     "description": "The architecture of parent/child TYPO3 theme concept. Explore https://t3planet.com and https://nitsantech.com",
-    "hash": "sha256-UksYPc2KpDq5Dj6OTvRHHQ4QJKGHIYf4ODPFAStjT84="
+    "hash": "sha256-I+uWhNfeKtwIFD5tyIGD6Ycm7l1P5gIB6Vs/VqhwkUk="
   },
   "ns_cache_webhook": {
     "version": "1.0.0",
@@ -53087,12 +53087,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sr_feuser_register": {
-    "version": "12.4.3",
+    "version": "12.4.4",
     "t3_versions": [
       12
     ],
     "description": "A self-registration variant of Kasper Skårhøj's Front End User Admin extension for TYPO3 CMS.",
-    "hash": "sha256-IHwPQ234OWip83Ft4kZrvy4RIpnQH+Pr4hecQZXAb60="
+    "hash": "sha256-l1MB1wafNSeons5dipRs1uvaz9fWcB0S5+N09mPX5wc="
   },
   "sr_freecap": {
     "version": "12.4.3",
@@ -53627,12 +53627,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "static_info_tables": {
-    "version": "12.4.2",
+    "version": "12.4.3",
     "t3_versions": [
       12
     ],
     "description": "Data and API for countries, languages and currencies for use in TYPO3 CMS.",
-    "hash": "sha256-evcOgbVk/M45FwER+lOKaxu2cbxHDH/hUqoc4QpbUlE="
+    "hash": "sha256-eYNOhs5JJgr0cVKLdqex8Xectv8oOZmAGNpcif7kdpY="
   },
   "static_info_tables_airports": {
     "version": "0.1.0",
@@ -54564,13 +54564,13 @@
     "hash": "sha256-T9p0vAP9nq/j0i3hu7Q4kdzV2EoKMN+3w6lltZIjj3c="
   },
   "svconnector_json": {
-    "version": "4.1.0",
+    "version": "4.1.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Connector service for JSON data",
-    "hash": "sha256-7OM0jpYhofHgNOCVL8SY95Heslz7QOHWfkb1SqBV1aY="
+    "hash": "sha256-yFNO0gsqjugBOP5RvyJkdbxX5wJ6N6ZR7txANBrpCNA="
   },
   "svconnector_sql": {
     "version": "4.1.0",
