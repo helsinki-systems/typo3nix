@@ -9741,13 +9741,14 @@
     "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
   },
   "containeritems": {
-    "version": "4.2.1",
+    "version": "4.2.2",
     "t3_versions": [
       10,
-      11
+      11,
+      12
     ],
     "description": "EXT:container layouts for columns, accordions, carousels, content sections and boxes. Demo at: https://microtemplate.t3brightside.com",
-    "hash": "sha256-lnAnGKr2XjKXYJgHGMpKhfw0R3CjMP9DS7qvHxzxZxc="
+    "hash": "sha256-sYEuHRY1qtVuJhaubAJy/X0ChVejvzcJzV4YFV5qP2k="
   },
   "content2rss": {
     "version": "0.2.0",
@@ -10257,14 +10258,14 @@
     "hash": "sha256-tc63t1KRjhmPkoblRGcYvsE/ryRBBuYeH5RlDy+fLqQ="
   },
   "cookies": {
-    "version": "8.1.2",
+    "version": "9.0.0",
     "t3_versions": [
-      9,
       10,
-      11
+      11,
+      12
     ],
     "description": "Show cookie consent, optional with possibility to deactivate some or all of them.",
-    "hash": "sha256-WdcImbWYAiH09YrNClXLtdzo7jMj64dIGULFTt24NP8="
+    "hash": "sha256-uzJhSZWdBs9vpoBryEIJocJIhoi9XhLvwb2JNvsCEKU="
   },
   "cookieshy": {
     "version": "2.0.0",
@@ -14018,14 +14019,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "div2007": {
-    "version": "1.17.1",
+    "version": "2.0.0",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "This library offers classes and functions to other TYPO3 extensions. It provides a modified t3lib_div of TYPO3 4.7.10. Replacement for tslib_pibase methods.",
-    "hash": "sha256-+v/L1GbtyXhbDT2PNgtJy94Enuj8iYZzLt5wExQ9qp4="
+    "hash": "sha256-6CygpxpGWWNxbPaV3FXQ/wg/fRgQj8r769koli0Pl+o="
   },
   "diva": {
     "version": "8.7.1",
@@ -25812,12 +25813,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "in2studyfinder": {
-    "version": "9.0.4",
+    "version": "11.0.1",
     "t3_versions": [
-      11
+      12
     ],
     "description": "List of master's and bachelor's degree programs for colleges and universities",
-    "hash": "sha256-icjdSrgIhC1zuo//QoPL60OleLSySQfg6zpxBmWt1PY="
+    "hash": "sha256-5clzAonX7xq3MzTyLikY54bBKjEviWPiNoD9BlClsuM="
   },
   "in_gallery_flickr": {
     "version": "2.0.12",
@@ -26883,22 +26884,22 @@
     "hash": "sha256-zjxSmtRsoUsUGzug/LFPj+tUQSz0o9j1lbwqoxOvSeE="
   },
   "jar_columnrow": {
-    "version": "1.0.20",
+    "version": "1.0.21",
     "t3_versions": [
       10,
       11
     ],
     "description": "Provides a freely definable and universal grid element with bootstrap-based output.",
-    "hash": "sha256-OUJ74RNbpbyIe2jyfAe4I42P2T4ZOMJAeMICS57KOZE="
+    "hash": "sha256-r+FpRvr8NPgcc3RK3ETgfRi36BSYXPplCrYus/4kjV4="
   },
   "jar_dataflow": {
-    "version": "1.0.20",
+    "version": "1.0.21",
     "t3_versions": [
       10,
       11
     ],
     "description": "Extends content elements with a query builder to output data from arbitrary list elements",
-    "hash": "sha256-cqmZLJsyEgzQpnzLdsOSx1h1tLvro1hF74aRuiGX8wM="
+    "hash": "sha256-SbLgW1JuPND1TV45sxU/l7PEwfWu7cq5WxJqYmXRhQQ="
   },
   "jar_pretty_preview": {
     "version": "1.0.17",
@@ -28461,13 +28462,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "jve_upgradewizard": {
-    "version": "12.4.9",
+    "version": "12.4.11",
     "t3_versions": [
       11,
       12
     ],
     "description": "Fixes the ways Typoscript and TSconfig included files have been added in database.",
-    "hash": "sha256-Pt+8AaJFj48VoyBEaA2ELCtDQRmULk+gHK96MgTwpKU="
+    "hash": "sha256-kaJ7+QHyQvvWqijsN/z4+uN4rqLA6lz5JmL/byebzB0="
   },
   "jw_extjsdirect": {
     "version": "0.0.7",
@@ -34119,13 +34120,13 @@
     "hash": "sha256-AQZF9Hqa+uAIOlKaAsL3mUQYmZRntXWjaMfFxQiFsMU="
   },
   "microtemplate": {
-    "version": "4.1.1",
+    "version": "4.1.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "One page template with sections and lightbox like sub pages. Demo at: https://microtemplate.t3brightside.com",
-    "hash": "sha256-s4Ni8742A/+CSjAdhekP9En8gDDapgqx5yj/zI7J0Mg="
+    "hash": "sha256-jSFykXqeKKyQqra0DVkH+7WmDX5q0L1thVBHv8cUFGw="
   },
   "miflowplayer": {
     "version": "0.1.9",
@@ -43072,21 +43073,21 @@
     "hash": "sha256-GXYfiuXC2PWSNRgYxB7baY7zpxMoJ3MUj6IGYKfZgYw="
   },
   "pizpalue": {
-    "version": "15.2.0",
+    "version": "16.0.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Extension to create websites using bootstrap. It builds upon the bootstrap_package from Benjamin Kott and increases functionality by supporting the following extensions:  container_elements, news, eventnews, tt_address",
-    "hash": "sha256-kG3n98+XmVLzVJ+4EsQkFArObM3XGBl2yO+eUWjZmY8="
+    "hash": "sha256-QnUJD2BN2NghCUwV2I3Bp1vNCw60P17HnMA09MMT77M="
   },
   "pizpalue_distribution": {
-    "version": "6.1.0",
+    "version": "7.0.0",
     "t3_versions": [
       12
     ],
     "description": "This distribution provides a sample website using bootstrap and the extensions pizpalue and container_elements. The distribution tailors Swiss market featuring German as default language and additional translations to French, English and Finnish.",
-    "hash": "sha256-sXoG+/5+p8yhavjRx+VaoGANfmkQdfVffLIAZHJZ/UU="
+    "hash": "sha256-fp9d/5zVJ3iOHrmfF9F8BAvy4RbhbSxCJcbuhfvnWKI="
   },
   "pk_banner": {
     "version": "0.0.1",
@@ -43630,12 +43631,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "powermail": {
-    "version": "10.7.3",
+    "version": "12.0.3",
     "t3_versions": [
-      11
+      12
     ],
     "description": "Powermail is a well-known, editor-friendly, powerful",
-    "hash": "sha256-yTOJlZNNg/ljfBz4qEPdn+YKZ3Cmtzmq5n/g8Or2R20="
+    "hash": "sha256-7evXwJsugbV/BWlHXdqjhnHiJe+CrpcmSHP/UJPo7n4="
   },
   "powermail2document": {
     "version": "1.6.1",
@@ -56419,14 +56420,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "table": {
-    "version": "0.12.1",
+    "version": "0.13.0",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "This contains a base class which you can use to make your extensions independant from any specific table. And it can be used to make multiple language support with a separate language overlay table or by a CSV file.",
-    "hash": "sha256-J+jkp7ECEvOZad1u++zkR6IboXJmPcoC/1RA1+UPHng="
+    "hash": "sha256-ukSUQAryR4wETbz0HeDY/vNpicTXp0N69iygsQJ/fY4="
   },
   "tablecleaner": {
     "version": "2.5.0",
