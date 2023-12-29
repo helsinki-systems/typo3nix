@@ -1093,13 +1093,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "addons_em": {
-    "version": "0.8.2",
+    "version": "0.9.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Enhancements to the Extension Manager (em].",
-    "hash": "sha256-ws4p9ZwubKUSwVdHXfQjHAEbBFiGpGahQod75poXZgg="
+    "hash": "sha256-t65ToUijZ7Vb7Fd2qbXxWumYqbm9UtklhJ3hiOoutGU="
   },
   "addons_tt_products": {
     "version": "0.11.1",
@@ -17885,13 +17885,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "external_import": {
-    "version": "7.1.2",
+    "version": "7.2.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Tool for importing data from external sources into the TYPO3 CMS database, using an extended TCA syntax. Provides a BE module, a Scheduler task, a command-line tool and an API.",
-    "hash": "sha256-e67oM07fRzfGGrm0i1WVNtgwYh6hgADuAL1nUFrZI9k="
+    "hash": "sha256-J2hAuc9N3VDT4lZYDG3uH4zpthm0lXZY9hKpTpOkWSk="
   },
   "external_import_tt_products": {
     "version": "0.0.1",
@@ -32689,14 +32689,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mbi_products_categories": {
-    "version": "0.8.0",
+    "version": "0.9.0",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Hierarchical categories for tt_products. Works with tt_products and other tables.",
-    "hash": "sha256-cwgpxKYr8FW6zJ/lja8I0zlBEKSCq0kSI+iY3Xqma4I="
+    "hash": "sha256-yWh6t2CDhkBpngNS5HJm8Rs8o8+2R4JFimnEM81s8Pw="
   },
   "mbi_products_orders": {
     "version": "0.1.1",
@@ -56624,13 +56624,14 @@
     "hash": "sha256-+k+8G79XSClxIkW+xg7iRkU7tzifT4V1zlLIwS7SUlk="
   },
   "taxajax": {
-    "version": "0.8.2",
+    "version": "1.0.0",
     "t3_versions": [
       10,
-      11
+      11,
+      12
     ],
     "description": "Enhancement to the xajax extension with TYPO3 specific code.",
-    "hash": "sha256-1GtKoswf8wlzutcDVpenTVRxZwtqSHPqeZ0U11e1kCo="
+    "hash": "sha256-Rw2Jh++uHOAdvBfoWuj9/7pthm8qqlEiI8/BcElKjLQ="
   },
   "taywa_ccemailfield": {
     "version": "0.0.2",
@@ -59983,12 +59984,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "tsparser": {
-    "version": "0.11.0",
+    "version": "0.12.0",
     "t3_versions": [
-      11
+      11,
+      12
     ],
     "description": "This extension adds more types to the Constants Editor. This is a patch for TYPO3.",
-    "hash": "sha256-DKTgAqzV05ZDJmu49ECx9evH7baPyA40xm41ZU0jIOI="
+    "hash": "sha256-DPG0UfUNWCK1h/GSANjaS0mqjZOT+pvZ/HM8WPWcrWE="
   },
   "tstemplate_analyzer": {
     "version": "0.0.4",
