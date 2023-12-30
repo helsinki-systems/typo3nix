@@ -1925,12 +1925,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "allinoneaccessibility": {
-    "version": "2.0.5",
+    "version": "2.0.6",
     "t3_versions": [
       12
     ],
-    "description": "All in One Accessibility widget improves Typo3 website ADA compliance and browser experience for ADA, WCAG 2.1, Section 508, Australian DDA, European EAA EN 301 549, UK Equality Act (EA), Israeli Standard 5568, California Unruh, Ontario AODA, Canada ACA, German BITV, and France RGAA standards.",
-    "hash": "sha256-IpCTmZNS+YY3R/C7cDtb/rEA+Ky1NAn5mCCp1lvhF40="
+    "description": "All in One Accessibility widget improves Typo3 website ADA compliance and browser experience for ADA, WCAG 2.1 & 2.2, Section 508, Australian DDA, European EAA EN 301 549, UK Equality Act (EA), Israeli Standard 5568, California Unruh, Ontario AODA, Canada ACA, German BITV, France RGAA, Brazilian Inclusion Law (LBI 13.146/2015), Spain UNE 139803:2012, JIS X 8341 (Japan), Italian Stanca Act and Switzerland DDA Standards.",
+    "hash": "sha256-IrP4LVWKDYuni/Wx/E4m/m59px6MutM0OCniZqXBhww="
   },
   "allnews": {
     "version": "0.2.6",
@@ -59945,13 +59945,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "tslib_fetce": {
-    "version": "0.7.0",
+    "version": "0.8.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "It brings the deprecated TYPO3 4.x class tslib_feTCE and the processScript FEData setup with new features partly back into TYPO3 10+. This is needed by extensions based on the former TYPO3 FORM like tt_board and tt_guest. Only form MAIL and form wizards additionally require code provided by the extension compatibility6.",
-    "hash": "sha256-iCMFk0wwsLRcG2kj9OsxJjcJ0WEb4mVoZy6vE+5pNrc="
+    "hash": "sha256-axT2F9ntcK/Bd7fplrS4HF7kVFoY7PBgd5qCBhDzt/c="
   },
   "tslib_patcher": {
     "version": "0.1.4",
@@ -60069,13 +60069,13 @@
     "hash": "sha256-flSenZ2LFPXDvR7uKHJJdV54Js34CMqKUVaQz2fcd1w="
   },
   "tt_board": {
-    "version": "1.13.1",
+    "version": "1.14.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Simple threaded (tree) or list message board (forum).",
-    "hash": "sha256-76EEeUmh+O5qto3ZD46WXK455jTdpoN4cx5i/MjBWE4="
+    "hash": "sha256-PTTIlb2LOvX9++6OKfnzgM+aNbhrHplwRHpSAhU9reU="
   },
   "tt_calender": {
     "version": "1.0.5",
