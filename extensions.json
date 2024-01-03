@@ -3778,13 +3778,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "base_excel": {
-    "version": "1.28.0",
+    "version": "1.29.0",
     "t3_versions": [
       10,
-      11
+      11,
+      12
     ],
     "description": "This provides the PhpSpreadsheet library, formerly phpExcel from phpOffice. Version 1.28.0",
-    "hash": "sha256-tBlqfYq707pD9X6wbmDJ8scYF/F7/sNmBYsIUvLQZnk="
+    "hash": "sha256-vFo0JcAW9a6yIcLrvsZYfqrs4SXn1UfffWV9DDkIkC8="
   },
   "base_font": {
     "version": "0.5.5",
@@ -13120,13 +13121,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "debug_mysql_db": {
-    "version": "1.4.1",
+    "version": "1.5.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Extends \\TYPO3\\CMS\\Core\\Database\\DatabaseConnection and \\TYPO3\\CMS\\Core\\Database\\Connection to show Errors and Debug-Messages. Debugging of sql-queries by debug and FileWriter.",
-    "hash": "sha256-DVbrLwEjhZwBgzTz+9d8Mz0qCYwRu7z12HCTS0VYQ3A="
+    "hash": "sha256-pQmB1rtAzIF3ATpmrc01l6g0QgqhhNyg8f03PGQXOr0="
   },
   "debug_settings_task": {
     "version": "2.2.1",
@@ -19246,14 +19247,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fh_debug": {
-    "version": "0.16.0",
+    "version": "0.17.0",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "This generates a PHP debug output file. FileWriter into debug",
-    "hash": "sha256-NVCPvEBqWUJ/tYr3ATromHsvePd+aBmtYYTPD7fnXD0="
+    "hash": "sha256-ydTZivIeQLv8GprIEyR4h/frVV8HH5xDyCMaznqEAaE="
   },
   "fh_library": {
     "version": "0.0.20",
@@ -23561,6 +23562,14 @@
     ],
     "description": "Makes TYPO3 a headless CMS. Content and pages available in JSON format. Supports multilanguage, multidomain, forms, frontend login, workspaces and more. For JS frontend app see nuxt-typo3 package",
     "hash": "sha256-np124cVmFeSvH5E7V4mX46uWWTxq/9opbpqEACaVUSc="
+  },
+  "headless_container": {
+    "version": "2.0.0",
+    "t3_versions": [
+      12
+    ],
+    "description": "Container Content Elements (EXT:container) json output for EXT:headless",
+    "hash": "sha256-seCYjGGF1ZYcpq+YO08abUETlyQBpF4/H6SSXcymGzk="
   },
   "headless_gridelements": {
     "version": "3.0.0",
@@ -42400,13 +42409,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "personio_jobs": {
-    "version": "0.5.8",
+    "version": "0.5.9",
     "t3_versions": [
       11,
       12
     ],
     "description": "Extension to integrate jobs from Personio Recruiting API",
-    "hash": "sha256-j/pZsOvUF7ZxwgFRCs056zlCWBfy9iRh/wKgDlz6LbQ="
+    "hash": "sha256-ZspepyfGMH0l6g7VmNcBHI+qUYahFiJrw+aVmAI9vic="
   },
   "personnel": {
     "version": "3.9.0",
