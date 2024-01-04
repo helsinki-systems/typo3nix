@@ -7948,13 +7948,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cf_cookiemanager": {
-    "version": "1.4.0",
+    "version": "1.4.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Unlock the full potential of your Typo3 website with CodingFreaks Typo3 Cookie Manager. Effortlessly manage and customize your website's services, cookies and scripts with our comprehensive extension. Streamline your workflow, enhance user experience, and ensure GDPR compliance with this powerful tool. Take control of your cookie management today and unleash the true potential of your Typo3 installation.",
-    "hash": "sha256-BY80IYfV402Z+1vvO83ToCz7xsxdXi0O66RMPhuUMRU="
+    "hash": "sha256-BGoxYGWxgg6QKTpBoeOZH+QIcRRo/+KuOf8OSTOSgAQ="
   },
   "cf_google_authenticator": {
     "version": "1.2.4",
@@ -9064,12 +9064,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "code711_housekeeping": {
-    "version": "3.3.3",
+    "version": "3.4.0",
     "t3_versions": [
       12
     ],
     "description": "Keep track of your TYPO3 versions by checking your git-repositories. You can then see the results on your TYPO3 Dashboard.",
-    "hash": "sha256-P+VwWP0Bp+u7ngtL2M1LupJUPbqRMXZUK++GIOEBqtU="
+    "hash": "sha256-DUuxJ5tdS1mC/cJLxZ/qCwVH2BVwK0E4P5L5c1Naux8="
   },
   "codeblock": {
     "version": "1.4.0",
@@ -9742,14 +9742,13 @@
     "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
   },
   "containeritems": {
-    "version": "4.3.1",
+    "version": "4.4.0",
     "t3_versions": [
-      10,
       11,
       12
     ],
     "description": "EXT:container layouts for columns, accordions, carousels, content sections and boxes. Demo at: https://microtemplate.t3brightside.com",
-    "hash": "sha256-3OyKkNri6TRu5eUt5EHRgah2Sw94BIvQlz8DX2LTpyU="
+    "hash": "sha256-J3053cXgfanQGjLvLmtv7j5Gr+fqUN+9BE23OqekHvg="
   },
   "content2rss": {
     "version": "0.2.0",
@@ -13121,13 +13120,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "debug_mysql_db": {
-    "version": "1.5.0",
+    "version": "1.5.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Extends \\TYPO3\\CMS\\Core\\Database\\DatabaseConnection and \\TYPO3\\CMS\\Core\\Database\\Connection to show Errors and Debug-Messages. Debugging of sql-queries by debug and FileWriter.",
-    "hash": "sha256-pQmB1rtAzIF3ATpmrc01l6g0QgqhhNyg8f03PGQXOr0="
+    "hash": "sha256-tO2xXHC5fWXVaPQN0rTi3CcKjQzT5Kr8w+yQOhS0Ie0="
   },
   "debug_settings_task": {
     "version": "2.2.1",
@@ -19914,13 +19913,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "flexible_pages": {
-    "version": "2.2.1",
+    "version": "3.0.0",
     "t3_versions": [
-      10,
-      11
+      12
     ],
     "description": "Supports the setup and management of custom page types.",
-    "hash": "sha256-wwDqMFD6o+mJTGwzvw7Nfq30Ekvg6JMrCTIA7ljzwYY="
+    "hash": "sha256-ktGWo+phFtKOIO1pbOhfV1/EODL5BDiPl0xbKLcnWb8="
   },
   "flexiblecomments": {
     "version": "0.0.2",
@@ -32521,13 +32519,13 @@
     "hash": "sha256-RL/ijlDjQe3WAHyWCf4+14FglEOm3e3hxcZ5GFOwHIw="
   },
   "mastodon_feed": {
-    "version": "1.0.2",
+    "version": "1.0.3",
     "t3_versions": [
       11,
       12
     ],
     "description": "Embed a mastodon feed, configurable for a timeline or a tag from a specific server",
-    "hash": "sha256-GG1tlD9AAyNI/TMMCv9s9GGpi8hbN3vG0yqAZtmzUNc="
+    "hash": "sha256-2I0GfA/PhaNHtjS4khinx1QFj5/I5A467i7XmcGgxK8="
   },
   "material_design_lite": {
     "version": "3.0.0",
@@ -34131,13 +34129,13 @@
     "hash": "sha256-AQZF9Hqa+uAIOlKaAsL3mUQYmZRntXWjaMfFxQiFsMU="
   },
   "microtemplate": {
-    "version": "4.1.2",
+    "version": "4.2.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "One page template with sections and lightbox like sub pages. Demo at: https://microtemplate.t3brightside.com",
-    "hash": "sha256-jSFykXqeKKyQqra0DVkH+7WmDX5q0L1thVBHv8cUFGw="
+    "hash": "sha256-qTrrlbzHXBbKQ9mCCxfyf1NYYL/bDm8zjgZFlbmeLQU="
   },
   "miflowplayer": {
     "version": "0.1.9",
@@ -34956,13 +34954,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mmc_directmail_subscription": {
-    "version": "2.2.2",
+    "version": "3.0.1",
     "t3_versions": [
-      9,
-      10
+      11
     ],
     "description": "Custom direct-mail subscription plugin",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-jc1REMUv5IFqBVen+MGzjeo9zKoR90y9BOd4ApTQlNA="
   },
   "mmc_extbasewsutility": {
     "version": "1.1.3",
@@ -34982,13 +34979,12 @@
     "hash": "sha256-QMFuEsBPaw2BR7mOPaXXvfvQjj825gRvt23HMZUZZ5o="
   },
   "mmc_slideshow": {
-    "version": "2.0.4",
+    "version": "3.0.0",
     "t3_versions": [
-      9,
-      10
+      11
     ],
     "description": "Slideshow with multiple sequences, each sequence can be configured (interval, animation, random mode)",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-f9wFPMDzl9ggNuY3eavB34VD6F0r80aDpKEtwemRs/U="
   },
   "mmforeign": {
     "version": "0.4.0",
