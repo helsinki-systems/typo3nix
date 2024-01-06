@@ -54350,12 +54350,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "styleguide": {
-    "version": "12.0.2",
+    "version": "12.0.3",
     "t3_versions": [
       12
     ],
     "description": "Presents most supported styles for TYPO3 backend modules. Mocks typography, tables, forms, buttons, flash messages and helpers. More at https://github.com/TYPO3/styleguide",
-    "hash": "sha256-OZ6qoy1bOMHZxK02Xdy+K1RhjzCKq3Ni+WeDFaNEC8o="
+    "hash": "sha256-NMbu4c5yaHsF48tOzikXW2iBaW/XooFT70ZZ4PvYp2k="
   },
   "stylestoinline": {
     "version": "1.0.1",
