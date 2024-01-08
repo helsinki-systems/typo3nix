@@ -23525,12 +23525,12 @@
     "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
   },
   "hd_translator": {
-    "version": "1.0.2",
+    "version": "1.0.3",
     "t3_versions": [
       12
     ],
     "description": "Translation of static strings from locallang.xlf files and export/import of database related content",
-    "hash": "sha256-Bxk4CtLOA7VDQK5FEb+/XHKuKrXV6i/vfZr+NX5cAQg="
+    "hash": "sha256-2pdQ8wEn8CzIj+HR5Hj1Sp0VLB/1uu0Ki7TI2+hknDQ="
   },
   "header_flashexample": {
     "version": "0.1.2",
@@ -34260,13 +34260,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mindshape_cookie_consent": {
-    "version": "3.1.0",
+    "version": "3.1.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "This extension provides functionality to create  a customizable cookie consent for your website. It is developed for flexibility to be customized in accordance to your data security guidelines.",
-    "hash": "sha256-ysW8wwMmXYbHZbA4am+inqRPdAAd0fqi9DXqlW7v46M="
+    "hash": "sha256-HbLXsWBgzLbZ9VYWrSfqfqSK1RL9jGfkhFEGKn7hJec="
   },
   "mindshape_cookie_hint": {
     "version": "1.1.0",
@@ -44853,12 +44853,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "qc_be_pagelanguage": {
-    "version": "1.0.3",
+    "version": "2.0.0",
     "t3_versions": [
-      11
+      12
     ],
     "description": "This extension brings back the behaviour from TYPO3 v10 that language selection is kept while browsing the Pagetree in Page module with option Languages instead of Column.",
-    "hash": "sha256-Gtu5bnqJ8ycZyiZAIHogcEcYe9EKyCl6OH4RpSVBjbY="
+    "hash": "sha256-gwX8nFkcjL9Up6wMVRmZoiWgTvtc4PH+T9QTRvCoFr0="
   },
   "qc_info_rights": {
     "version": "1.2.7",
@@ -56946,12 +56946,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "tea": {
-    "version": "3.0.0",
+    "version": "3.1.0",
     "t3_versions": [
-      11
+      11,
+      12
     ],
     "description": "Example extension for unit testing and best practices",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-wv/8ZNvpJ8iCdHdqXwmnC0J+PNNuBAWuHeJhccMKqRw="
   },
   "teamruhr_fal_driver": {
     "version": "2.0.9",
