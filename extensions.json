@@ -15390,13 +15390,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "dpn_glossary": {
-    "version": "5.1.0",
+    "version": "5.2.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Glossary extension with page parser",
-    "hash": "sha256-UWLSx7uB6+JyCSndv6jFMrOTeMfLx87dOsldR9V0UWg="
+    "hash": "sha256-e8bl35bhRnyeFoBSI8SdJ94Qz1b1brn3/KvpI3Y9sTs="
   },
   "dr_blob": {
     "version": "2.3.2",
@@ -31872,13 +31872,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mail": {
-    "version": "2.5.5",
+    "version": "2.5.6",
     "t3_versions": [
       11,
       12
     ],
     "description": "Powerful newsletter system for TYPO3",
-    "hash": "sha256-+ZHNgCsMLeTFkPZRsgdGgXFnjdUXi1Uf7qWgbTKaXaU="
+    "hash": "sha256-mS2xNlaxGJhzt6mUypnYccqArY+hJjR4HjYFb85DE+g="
   },
   "mail2news": {
     "version": "2.0.3",
@@ -43106,12 +43106,12 @@
     "hash": "sha256-QnUJD2BN2NghCUwV2I3Bp1vNCw60P17HnMA09MMT77M="
   },
   "pizpalue_distribution": {
-    "version": "7.0.0",
+    "version": "7.0.1",
     "t3_versions": [
       12
     ],
     "description": "This distribution provides a sample website using bootstrap and the extensions pizpalue and container_elements. The distribution tailors Swiss market featuring German as default language and additional translations to French, English and Finnish.",
-    "hash": "sha256-fp9d/5zVJ3iOHrmfF9F8BAvy4RbhbSxCJcbuhfvnWKI="
+    "hash": "sha256-Cji/wwJxiTiMLTdu2rKTjMu+Cjdn91F8U7asFM/hYnA="
   },
   "pk_banner": {
     "version": "0.0.1",
@@ -60993,13 +60993,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "typo3_hyphenator": {
-    "version": "1.3.0",
+    "version": "1.4.0",
     "t3_versions": [
-      10,
-      11
+      12
     ],
     "description": "Provides soft-hyphen replacement in frontend via editable records",
-    "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
+    "hash": "sha256-TjlR8BMwbN2m/DVOkqSJVc/hzjr5gjwzExbOUBjc9yw="
   },
   "typo3_image_proxy": {
     "version": "0.0.5",
