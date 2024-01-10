@@ -7850,12 +7850,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cefooter": {
-    "version": "2.0.1",
+    "version": "2.1.0",
     "t3_versions": [
       12
     ],
     "description": "Preview of settings in footer of tt_content element in page module.",
-    "hash": "sha256-VyiLic4+430xErxNuF91dGNSNZkfkIERVw+hFaBhAEE="
+    "hash": "sha256-NFGMc6HSXi+Yzq0soipxizrIsiF4GKaimTaOlpCFXws="
   },
   "celum_asset_picker": {
     "version": "1.0.8",
@@ -23525,12 +23525,12 @@
     "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
   },
   "hd_translator": {
-    "version": "1.0.3",
+    "version": "1.0.4",
     "t3_versions": [
       12
     ],
     "description": "Translation of static strings from locallang.xlf files and export/import of database related content",
-    "hash": "sha256-2pdQ8wEn8CzIj+HR5Hj1Sp0VLB/1uu0Ki7TI2+hknDQ="
+    "hash": "sha256-SjCNZaStHkfDeZ5u7lIecJaJCv/tpWKKcSUeyZKMIGM="
   },
   "header_flashexample": {
     "version": "0.1.2",
@@ -42580,14 +42580,15 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "photoswipe": {
-    "version": "1.2.3",
+    "version": "1.2.7",
     "t3_versions": [
       9,
       10,
-      11
+      11,
+      12
     ],
     "description": "Enables Photoswipe for TYPO3's native image enlargement. Small js-lib and easy to install. It just works with plain javascript, no jQuery or other frameworks are needed.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-9gMc7WxgTluukOLqpjWJIxFWfk6qxpG0AUaRjgo79uM="
   },
   "php_acceleration": {
     "version": "0.1.1",
@@ -48827,13 +48828,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "schema": {
-    "version": "3.0.0",
+    "version": "3.1.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "API and view helpers for schema.org markup",
-    "hash": "sha256-suMfNQ1OwOYgf20SKYx75VQrGO/u1QvUs9/LXWP5Xvg="
+    "hash": "sha256-xZ7Z0Ht0A6IaU3VB01e9lTxL1Z7a02Wz6gB/YlgCYS4="
   },
   "schema_auto": {
     "version": "2.0.0",
@@ -48854,13 +48855,13 @@
     "hash": "sha256-6OI2Mcpta9EpBRqzCJZQ4gpJwZh6HGsqTzAakzftw40="
   },
   "schema_health": {
-    "version": "2.0.0",
+    "version": "2.1.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Extend the schema extension with health-related terms",
-    "hash": "sha256-1n8IHX1Di0/89Y+VZvJzRh0bXatahNtfATBp6lUdhaw="
+    "hash": "sha256-UXK/kpeLxSevlF1GToKtuzODIBIuOJT8OF/+6VmEGS4="
   },
   "schema_injector": {
     "version": "1.0.1",
@@ -48881,13 +48882,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "schema_pending": {
-    "version": "2.0.0",
+    "version": "2.1.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Extend the schema extension with pending terms",
-    "hash": "sha256-wOm2paym4WP/IFU84efzZHdejyCOitdneMUU2JFkBp4="
+    "hash": "sha256-lYYjFRzMUkpp9WZmUyOtQpo1iYnB+aawmTVvHfytUJc="
   },
   "schema_virtuallocation": {
     "version": "2.0.0",
@@ -49112,12 +49113,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "secure_downloads": {
-    "version": "6.0.0",
+    "version": "6.0.1",
     "t3_versions": [
       12
     ],
     "description": "\"Secure Download\": Apply TYPO3 access rights to ALL file assets (PDFs, TGZs or JPGs etc. - configurable) - protect them from direct access.",
-    "hash": "sha256-nIBjY8Z/9nPM8idheaZBgOfMEGW1dm/mWMgLHkZefR8="
+    "hash": "sha256-8YbH1CRbhIk0HE8b1VdvzXneUHBoa/t5NJTXgb23KfA="
   },
   "secure_filemount": {
     "version": "1.0.1",
