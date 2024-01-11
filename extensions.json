@@ -29150,13 +29150,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ke_search_orgcal_xblog": {
-    "version": "10.0.1",
+    "version": "10.0.4",
     "t3_versions": [
       10,
       11
     ],
     "description": "Faceted Search Indexer for the Organiser table calendar. Page for the detail view must have a xBlog plugin.",
-    "hash": "sha256-ooK16VZTg2fAZ+ghgviG4edr9MY8GUFxLh4ZTSTA7eo="
+    "hash": "sha256-nQnq/boAHQZfUByHyLHZyJqp2rp7yRZenEWzbiJz22Q="
   },
   "ke_search_orgnews_browser": {
     "version": "2.0.2",
@@ -29167,13 +29167,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ke_search_orgnews_xblog": {
-    "version": "10.0.1",
+    "version": "10.0.3",
     "t3_versions": [
       10,
       11
     ],
     "description": "Faceted Search Indexer for the Organiser table news. Page for the detail view must have a xBlog plugin.",
-    "hash": "sha256-IRJZgVwDdKgdkWkWI/9RrVKPXUTtKWRxp3eqRPnIv6I="
+    "hash": "sha256-qLxoSMjOm9JCKJb6ZtUt5P9Iz0o2KTKUH9TtmkRVHXo="
   },
   "ke_showproducts": {
     "version": "1.0.2",
@@ -50175,12 +50175,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "shop": {
-    "version": "3.2.9",
+    "version": "4.0.0",
     "t3_versions": [
-      11
+      11,
+      12
     ],
     "description": "Simple Shop for TYPO3 incl. PayPal, PayPal-Plus, Klarna, Stripe, Bookmarks, UPS-API, Invoice generation, backend module, compare feature, graduated prices and many more - note there is a Pro version as well!",
-    "hash": "sha256-/3d6YUEJ4kJfMsfxoJ1S8GPv3+T15M9Owd0Pj7pv6UE="
+    "hash": "sha256-Hre0EuAentK6CgX1ZW4EnpMJJKseSQDaW96L1+y+FQQ="
   },
   "shop3ox": {
     "version": "0.0.3",
