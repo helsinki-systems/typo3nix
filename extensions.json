@@ -8514,12 +8514,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ckeditor_wordbreak": {
-    "version": "1.0.2",
+    "version": "2.0.0",
     "t3_versions": [
       12
     ],
     "description": "Adds the <wbr> HTML element to CKEditor 5 in TYPO3. If set in a long word, the browser may break a line (without adding a hyphen character). Useful e.g. for long URLs and file paths.",
-    "hash": "sha256-cfDE5oruC4iGZELuvnOwaXddWrcxqE7Odk98h9EGvPQ="
+    "hash": "sha256-2sGrowC71ogeLHKA6buur1eJGb9NZ/KM9KFOc1dWlAg="
   },
   "cl_alphabeticalindex": {
     "version": "0.1.3",
@@ -20290,14 +20290,14 @@
     "hash": "sha256-he4hDMN/tiAEANpUt8BteUsPUlpsO+LL5RTgO6t2Y2Q="
   },
   "flux": {
-    "version": "10.0.8",
+    "version": "10.0.9",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Drop-in page and content templates with nested content feature. Provides multiple condensed integration APIs to use advanced TYPO3 features with little effort.",
-    "hash": "sha256-RvzU7pZtLIdhw4PQG+1svLKTnJf6F3EEvRH8pnYI2UM="
+    "hash": "sha256-7lmJ5P6rHCailhzQaL3GqGFbJ0vRr6oKPZFwB7pm9C4="
   },
   "flux_elements": {
     "version": "1.4.1",
@@ -23525,12 +23525,12 @@
     "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
   },
   "hd_translator": {
-    "version": "1.0.4",
+    "version": "1.0.6",
     "t3_versions": [
       12
     ],
     "description": "Translation of static strings from locallang.xlf files and export/import of database related content",
-    "hash": "sha256-SjCNZaStHkfDeZ5u7lIecJaJCv/tpWKKcSUeyZKMIGM="
+    "hash": "sha256-1HlYcCW4SIWmCgPU4aHdY2vP9J8TIC3ZH2+/yNFG5zc="
   },
   "header_flashexample": {
     "version": "0.1.2",
@@ -26226,13 +26226,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "interamt_connect": {
-    "version": "1.1.1",
+    "version": "1.1.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "Creates an overview of all job advertisements of a public authority, which are listed in the public service job portal INTERAMT.de.",
-    "hash": "sha256-BKvdEYjdgOYFjUJf/F5bw/Y6iGpME50i8r4Hic85Ks4="
+    "hash": "sha256-Q+JYW6X+aoZVLUich3vVEAA8KaIgWYDlB060BF/8MVc="
   },
   "interest": {
     "version": "2.1.0",
@@ -29109,13 +29109,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ke_search": {
-    "version": "5.2.0",
+    "version": "5.2.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Faceted fulltext search for TYPO3. Fast, flexible and easy to install and use. Indexes content directly from the databases. Features faceting / filtering, file indexing, images in result lists and respects access restrictions.",
-    "hash": "sha256-33SAcEf3+N7AzTV2KM9chaPcch6qFIW+XopXobCTK+g="
+    "hash": "sha256-dMR+Ub1bp6sTUHTrBD9WqB3GXEnz8zHFwHc1nrtLE6A="
   },
   "ke_search_dam_tags": {
     "version": "0.0.1",
@@ -32481,12 +32481,13 @@
     "hash": "sha256-l8fxE8FQdA5I8LlsMyynHlNXEJMPIsErmzvvDGNvw/c="
   },
   "mask_permissions": {
-    "version": "3.0.2",
+    "version": "3.1.0",
     "t3_versions": [
-      11
+      11,
+      12
     ],
     "description": "Never configure mask permissions for editors manually ever again!",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-VwOd56u2XqAjNarsOij9Riy+7KWx5YkRWXvhM5i2WaI="
   },
   "massquotes": {
     "version": "0.1.0",
@@ -35191,13 +35192,13 @@
     "hash": "sha256-QBq7RgOtpBz21jSQfzIxEurNCmBZlHvZXZt3wzoyyMw="
   },
   "modules": {
-    "version": "6.1.2",
+    "version": "6.2.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Modules - Little helper for creating frontend and backend modules in TYPO3",
-    "hash": "sha256-0OKyI5NLY3Di5ySeNhKmeE46KvU2voEvtW2jUZ5snK4="
+    "hash": "sha256-i0oGeK/554rUpnaFxGJ9oSvnJB9hKuBki+9z4rzRqSI="
   },
   "modulis_animated_gif": {
     "version": "0.0.4",
@@ -40495,6 +40496,14 @@
     "t3_versions": [],
     "description": "Gestion des annonces demploi",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "open_oap": {
+    "version": "1.3.0",
+    "t3_versions": [
+      11
+    ],
+    "description": "",
+    "hash": "sha256-r4QBZs0jfNv7Yrfq5mTC4KlMK+vZDQEsBMr7IROen/4="
   },
   "openads_tags": {
     "version": "1.1.0",
@@ -50429,14 +50438,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "simple_log404": {
-    "version": "1.1.0",
+    "version": "1.1.2",
     "t3_versions": [
       9,
       10,
       11
     ],
     "description": "Creates a log overview of 404 errors that have been handled by the standard PageErrorHandler but have not been logged anywhere yet.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-FElk9qmqvSb8xKTTlXyXxJZvyglhkg+faaTfw1aTa44="
   },
   "simple_slider": {
     "version": "1.0.7",
@@ -53736,13 +53745,13 @@
     "hash": "sha256-72H/euX45XT5gCpPJElcF6YYaqPxnItZ3pNJwoynKHM="
   },
   "static_info_tables_es": {
-    "version": "11.5.1",
+    "version": "11.5.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "Spanish (es) language pack for the Static Info Tables providing localized names for countries, currencies and so on.",
-    "hash": "sha256-Odg8JYUllUZpA/02bdimGf0uAQA5cgtfHiFE8RJMTqo="
+    "hash": "sha256-Q8clpn7adc933rz62QFLymVMN0j80K7a385o7a77qJk="
   },
   "static_info_tables_extbase": {
     "version": "1.2.0",
@@ -55874,6 +55883,14 @@
     "description": "(Please install Ext:T3S first!) This is the default install Distribution for the TYPO3 Site Starter T3S!",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "t3s_swiper": {
+    "version": "0.0.1",
+    "t3_versions": [
+      12
+    ],
+    "description": "Swiper is the most modern free mobile touch slider with hardware accelerated transitions and amazing native behavior.",
+    "hash": "sha256-6/KM2ufn1r2NgZu8kQjwp9zvbGMzBTZEAv3RFWCb4Ao="
+  },
   "t3s_titleattributes": {
     "version": "0.0.1",
     "t3_versions": [],
@@ -56735,13 +56752,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "tcabuilder": {
-    "version": "3.1.0",
+    "version": "3.2.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Utility to easily maintain and create your TCA forms",
-    "hash": "sha256-eNXHpZVFIz/LHSMtcvs7O+2p7emy5+zwRejJmF58Skg="
+    "hash": "sha256-aWfO6CZlmP0bnrDJ7TczdPXriHMWGS9ramelw3bXAy0="
   },
   "tcamanipulate": {
     "version": "0.1.7",
@@ -57013,12 +57030,12 @@
     "hash": "sha256-kQeRiJAI7zZLil7zGDNiNICU0DWi25XEo6xtZs05oU8="
   },
   "ted3": {
-    "version": "12.2.2",
+    "version": "12.2.5",
     "t3_versions": [
       12
     ],
     "description": "Frontendediting for TYPO3 (Basic version)",
-    "hash": "sha256-uYOzv9qG2eeryXjgkxF2kHVU1a3uku1UqzfjLIAz0FA="
+    "hash": "sha256-a3F482fYLYvQ9hiUtKDmh/Buv2qS+5zW1uYwX2oA4As="
   },
   "telegram": {
     "version": "0.1.0",
@@ -65136,13 +65153,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "yellowpages2": {
-    "version": "6.1.3",
+    "version": "7.0.0",
     "t3_versions": [
-      10,
-      11
+      12
     ],
     "description": "With this extension you can build your own industry directory",
-    "hash": "sha256-NbvBCEnyi3rK1AQgtmVOOQWgCRojd3KtitJn04POH+w="
+    "hash": "sha256-w/Ahz2Q3T5nuGozDqUttn+N3W1Pe3nT60L1QcBSyPoc="
   },
   "yellowpay2commerce": {
     "version": "1.0.0",
