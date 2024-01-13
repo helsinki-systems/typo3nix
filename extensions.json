@@ -7920,14 +7920,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cewrap": {
-    "version": "5.0.0",
+    "version": "5.0.1",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Allows to wrap content elements with individual IDs and/or classes and select multiple predefined classes, e.g. to hide content elements dependent to screen width.",
-    "hash": "sha256-G0EHvk8eK2LqTpw/qHUJKB26RRHVXIWCwPu9YH7yBuA="
+    "hash": "sha256-8PearG1GPaEIC5cGrU8jpTNAjDWOnuLRVQ80miUWhLE="
   },
   "cewrap_space": {
     "version": "2.0.0",
@@ -25857,14 +25857,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "includekrexx": {
-    "version": "5.0.0",
+    "version": "5.0.1",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Fluid and PHP debugger with backend access to logfiles, code generation to reach the displayed values and much more. We added some special stuff for Aimeos.",
-    "hash": "sha256-4uUZe+a9EB5nLtW41cGu81cOimroeM50jKKZbt3tSr8="
+    "hash": "sha256-MWRQUEeYu824/4WVg7OOofL5KNoVBExFIZyA/3czjjQ="
   },
   "incore_twitter": {
     "version": "1.2.2",
