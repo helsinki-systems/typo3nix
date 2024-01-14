@@ -64739,12 +64739,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "xlsimport": {
-    "version": "4.0.1",
+    "version": "4.0.3",
     "t3_versions": [
       11
     ],
     "description": "A simple importer to import data into the database",
-    "hash": "sha256-Lxm942vHdzNJs7nnRABI32UiTfhc/JyAjho2kAt0Pqc="
+    "hash": "sha256-vntvIMfMNh8IFTlHPyJAkmsTOtwRwGRT6xH3H9M2Wng="
   },
   "xm_formcycle": {
     "version": "8.0.1",
