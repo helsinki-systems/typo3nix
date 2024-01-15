@@ -1078,13 +1078,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "additional_tca": {
-    "version": "1.15.1",
+    "version": "1.15.3",
     "t3_versions": [
       11,
       12
     ],
     "description": "Additional TCA fields and tools",
-    "hash": "sha256-iKxD0AE0uUDQyETqTb+KqbNRyWi5qWnUzhpgILJbx3U="
+    "hash": "sha256-5YD9hX19OIJL1i9FOBG/VQJLuPSeiPUq+RRTJyhx8zk="
   },
   "addlinkheader": {
     "version": "0.0.4",
@@ -8313,13 +8313,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "checkfaluploads": {
-    "version": "3.0.4",
+    "version": "4.0.2",
     "t3_versions": [
-      10,
-      11
+      12
     ],
     "description": "Displays a checkbox that must be checked to upload files in backend",
-    "hash": "sha256-XEdTFhaFsVomw41hNCkKf57+9UMOgR8EgUdCDWg1kCM="
+    "hash": "sha256-DPhwjMUKsshHjaDZnncdUat3C2NjSjSbiz0D/+Rjafc="
   },
   "checkmysite": {
     "version": "4.0.0",
@@ -18215,13 +18214,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fal_securedownload": {
-    "version": "5.0.5",
+    "version": "5.0.6",
     "t3_versions": [
       11,
       12
     ],
     "description": "Secure download of assets. Makes it possible to secure FE use of assets/files by setting permissions to folders/files for fe_groups.",
-    "hash": "sha256-xklfjPuqpgSrV9avh30Wg4rL1JPCTAALibsrNEKfrx4="
+    "hash": "sha256-MTilCZbSONmu0lhtdKtIOb0IQnAWlZY+nAc3CupxZ2I="
   },
   "fal_sftp": {
     "version": "4.3.0",
@@ -23525,12 +23524,12 @@
     "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
   },
   "hd_translator": {
-    "version": "1.0.6",
+    "version": "1.0.7",
     "t3_versions": [
       12
     ],
     "description": "Translation of static strings from locallang.xlf files and export/import of database related content",
-    "hash": "sha256-1HlYcCW4SIWmCgPU4aHdY2vP9J8TIC3ZH2+/yNFG5zc="
+    "hash": "sha256-joESvz0VWoQ3Qq+HcWpApKeMsGQXPMoGictfX5AHI9c="
   },
   "header_flashexample": {
     "version": "0.1.2",
@@ -26927,13 +26926,13 @@
     "hash": "sha256-Z2bLSGhx+Jfyo4E72layZAmEUf2WxeuF62cs9ItGS2o="
   },
   "jar_utilities": {
-    "version": "1.0.80",
+    "version": "1.0.81",
     "t3_versions": [
       10,
       11
     ],
     "description": "Utility classes that simplify TYPO3 development.",
-    "hash": "sha256-gx/a5RVc3EFrrWbfrxJCy54+v3RksliIHkKvVBrmSjY="
+    "hash": "sha256-AdCsW9J6vi0JBNS1vbQu43IyLssFddPrZO64vxp/oKU="
   },
   "jasmine": {
     "version": "0.1.0",
@@ -42540,6 +42539,15 @@
     "description": "Contains the current watchword from the Herrnhuter Brüdergemeine / Losungen",
     "hash": "sha256-NW4L6zUYNMD/BQXvP9PHOc1SXoR+qpkktUb9E9KO7Z0="
   },
+  "phone": {
+    "version": "2.0.1",
+    "t3_versions": [
+      11,
+      12
+    ],
+    "description": "Adds phone number functionality to TYPO3. Crate f.link.phone helper with the definition  ITU-T INTERNATIONAL,NATIONAL,E123",
+    "hash": "sha256-mXIOS2nYfkZf11Alp5rOxXPVb8/JD8kynWdI/u//bpU="
+  },
   "phonegap": {
     "version": "0.1.1",
     "t3_versions": [],
@@ -50184,13 +50192,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "shop": {
-    "version": "4.0.0",
+    "version": "4.0.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Simple Shop for TYPO3 incl. PayPal, PayPal-Plus, Klarna, Stripe, Bookmarks, UPS-API, Invoice generation, backend module, compare feature, graduated prices and many more - note there is a Pro version as well!",
-    "hash": "sha256-Hre0EuAentK6CgX1ZW4EnpMJJKseSQDaW96L1+y+FQQ="
+    "hash": "sha256-5si9wKe3HG1X9nuEk8ZVLZML8gq4fz1++tfGpLb2FcI="
   },
   "shop3ox": {
     "version": "0.0.3",
@@ -57030,12 +57038,12 @@
     "hash": "sha256-kQeRiJAI7zZLil7zGDNiNICU0DWi25XEo6xtZs05oU8="
   },
   "ted3": {
-    "version": "12.2.5",
+    "version": "12.2.6",
     "t3_versions": [
       12
     ],
     "description": "Frontendediting for TYPO3 (Basic version)",
-    "hash": "sha256-a3F482fYLYvQ9hiUtKDmh/Buv2qS+5zW1uYwX2oA4As="
+    "hash": "sha256-GEz2YAUFacNXViGrLydZy+SGFhOzjplVQw6f6qc3T/E="
   },
   "telegram": {
     "version": "0.1.0",
@@ -63710,12 +63718,12 @@
     "hash": "sha256-omQ8We7b0N+TMD4lPCwwmDOo3lyLTtwFJJ26BD47FUQ="
   },
   "wp_mailworkflow": {
-    "version": "1.0.0",
+    "version": "2.0.0",
     "t3_versions": [
-      11
+      12
     ],
     "description": "Create a set of mails with a timeline to send for each user",
-    "hash": "sha256-oSJd/T/OBREkXOaSw8YUz2p9Zif11EgmkfPPyQnXz3Y="
+    "hash": "sha256-2PTfe9flx+82Tu9E6YFiSrIeYcFs2zHXA/NbHINLVHc="
   },
   "wp_origindetection": {
     "version": "1.1.0",
