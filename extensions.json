@@ -7948,13 +7948,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cf_cookiemanager": {
-    "version": "1.4.1",
+    "version": "1.4.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "Unlock the full potential of your Typo3 website with CodingFreaks Typo3 Cookie Manager. Effortlessly manage and customize your website's services, cookies and scripts with our comprehensive extension. Streamline your workflow, enhance user experience, and ensure GDPR compliance with this powerful tool. Take control of your cookie management today and unleash the true potential of your Typo3 installation.",
-    "hash": "sha256-BGoxYGWxgg6QKTpBoeOZH+QIcRRo/+KuOf8OSTOSgAQ="
+    "hash": "sha256-BChbMDy2TE2ZqNjwyt5LooEYSAfPnqZntcRzqVDLAh8="
   },
   "cf_google_authenticator": {
     "version": "1.2.4",
@@ -8812,13 +8812,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "clubdirectory": {
-    "version": "6.0.1",
+    "version": "7.0.0",
     "t3_versions": [
-      10,
-      11
+      12
     ],
     "description": "Manage and display clubs",
-    "hash": "sha256-1hFuqLB1dXRWm1a878NTOR2tD/VR4UnDSP+S4emghR4="
+    "hash": "sha256-UCuOzWVXUWdE65YI0b8t9V9nhalHTiXfh9Akkj8O6fA="
   },
   "clubmanager": {
     "version": "1.0.10",
@@ -19374,15 +19373,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "file_list": {
-    "version": "2.7.0",
+    "version": "3.0.0",
     "t3_versions": [
-      9,
       10,
       11,
       12
     ],
     "description": "This extension provides a frontend plugin which shows a list of files and folders in a specified directory on the file system (comparable to Apache directory listing) or using more advanced FAL selectors (categories, collection of files, ...). This extension may also be used for creating image galleries. Default templates are Bootstrap-ready.",
-    "hash": "sha256-oLx+mMkLATYuWeMxJdT1+IbdGGOuTx5icR0+Uddg22I="
+    "hash": "sha256-nfht0X9mSPgYZoeR+LtTI+i5t9BS2ts0vJ5o7+kin3E="
   },
   "file_ref_list": {
     "version": "0.1.1",
@@ -20874,13 +20872,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "form_rate_limit": {
-    "version": "1.3.1",
+    "version": "1.4.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "TYPO3 form finisher for rate limiting when sending a form",
-    "hash": "sha256-+Y//RW/OJcg51vIladD1q7d5p4IExHL1gsEa/b722Fw="
+    "hash": "sha256-KjV040LbGyA1xQuKHC3I7B+YmWbGZ2yiI8Rc3btIzDs="
   },
   "form_search": {
     "version": "2.0.0",
@@ -31483,13 +31481,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "lux": {
-    "version": "34.0.3",
+    "version": "34.1.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Living User Experience - LUX - the Marketing Automation tool for TYPO3.",
-    "hash": "sha256-NGufmrAnL7bDPFBnquI+p7EwPkBo5GW/UwOeJQv/PWA="
+    "hash": "sha256-YEawFfIqp/5dpVRtaTdJYBNtKIcusV19V6MeCYk3xzo="
   },
   "luxletter": {
     "version": "24.0.2",
@@ -32570,13 +32568,13 @@
     "hash": "sha256-3mfOryBvxeFvY933oZWBVj/bmIpFQGdypv046cKB9QA="
   },
   "matomo_widgets": {
-    "version": "2.3.0",
+    "version": "2.4.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Dashboard widgets with Matomo reports",
-    "hash": "sha256-KA/PlAR/vX1IwlyWM4WsALS7dW1leDSW5sGojqgclbg="
+    "hash": "sha256-pZaJ4Tygj663GXQJFPFEqVFoax8c9hybzlb9kGTDMiI="
   },
   "matomoapi": {
     "version": "1.0.1",
@@ -42911,12 +42909,12 @@
     "hash": "sha256-6z94eetctmNVzH+yy25BR5UsPY2JCCOn/zd5s8Esywg="
   },
   "picturecredits": {
-    "version": "1.0.8",
+    "version": "2.0.0",
     "t3_versions": [
-      11
+      12
     ],
     "description": "Implements a central image rights management in FAL and automated rendering of picture credits on regular content pages.",
-    "hash": "sha256-FMqr9trPtMPyD3lhAGJb2JA8dRbxCSKcG3P6RrtcExA="
+    "hash": "sha256-hdA7weYvNTimQFLRyjJFPwUPgBgCabPWhpCOvV/4Yjg="
   },
   "piflexformupdate": {
     "version": "0.0.3",
@@ -50446,14 +50444,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "simple_log404": {
-    "version": "1.1.2",
+    "version": "1.2.0",
     "t3_versions": [
-      9,
-      10,
-      11
+      12
     ],
     "description": "Creates a log overview of 404 errors that have been handled by the standard PageErrorHandler but have not been logged anywhere yet.",
-    "hash": "sha256-FElk9qmqvSb8xKTTlXyXxJZvyglhkg+faaTfw1aTa44="
+    "hash": "sha256-1IMIcHwsQzUOgGY/4hjOtesoKuyl/83wSrLlS64JPI8="
   },
   "simple_slider": {
     "version": "1.0.7",
@@ -55650,14 +55646,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "t3monitor": {
-    "version": "2.0.3",
+    "version": "2.0.4",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Monitors TYPO3 installation for updates and security issues (Requires an account on www.t3monitor.de)",
-    "hash": "sha256-5eypo+Rq3MHg1xdZ7Iix1R10FHwUNaSMLT8KekYgQG0="
+    "hash": "sha256-B5DHlB22jm8PpnDKXu2zw1JVHBVVeLxxpRQ3nKLHRzA="
   },
   "t3monitoragent": {
     "version": "0.1.0",
@@ -57038,12 +57034,12 @@
     "hash": "sha256-kQeRiJAI7zZLil7zGDNiNICU0DWi25XEo6xtZs05oU8="
   },
   "ted3": {
-    "version": "12.2.6",
+    "version": "12.2.7",
     "t3_versions": [
       12
     ],
     "description": "Frontendediting for TYPO3 (Basic version)",
-    "hash": "sha256-GEz2YAUFacNXViGrLydZy+SGFhOzjplVQw6f6qc3T/E="
+    "hash": "sha256-U/sLUr6N57mgl/ANdYvth4J75sYhZ93EQf32L+5Lg14="
   },
   "telegram": {
     "version": "0.1.0",
@@ -63718,12 +63714,12 @@
     "hash": "sha256-omQ8We7b0N+TMD4lPCwwmDOo3lyLTtwFJJ26BD47FUQ="
   },
   "wp_mailworkflow": {
-    "version": "2.0.0",
+    "version": "2.0.2",
     "t3_versions": [
       12
     ],
     "description": "Create a set of mails with a timeline to send for each user",
-    "hash": "sha256-2PTfe9flx+82Tu9E6YFiSrIeYcFs2zHXA/NbHINLVHc="
+    "hash": "sha256-dFCt0bk4pizr7vrjraFCKVRJSgnK1lLQAjCHXABNonU="
   },
   "wp_origindetection": {
     "version": "1.1.0",
