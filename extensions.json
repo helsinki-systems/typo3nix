@@ -8313,12 +8313,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "checkfaluploads": {
-    "version": "4.0.2",
+    "version": "4.0.3",
     "t3_versions": [
       12
     ],
     "description": "Displays a checkbox that must be checked to upload files in backend",
-    "hash": "sha256-DPhwjMUKsshHjaDZnncdUat3C2NjSjSbiz0D/+Rjafc="
+    "hash": "sha256-ngXbJ6pM1pTFdiifPgGwoWQqcEshymKtbif9k0Smylo="
   },
   "checkmysite": {
     "version": "4.0.0",
@@ -25870,13 +25870,15 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "indexed_search_autocomplete": {
-    "version": "1.0.10",
+    "version": "1.0.12",
     "t3_versions": [
       9,
-      10
+      10,
+      11,
+      12
     ],
     "description": "Extends the TYPO3 Core Extension Indexed_Search searchform with an autocomplete feature.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-F/iLLk13fqM/ZOWTNMDdSGbQrHAOEFEeSo+YYyiKm+s="
   },
   "indexed_search_fix": {
     "version": "0.1.0",
@@ -30004,13 +30006,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "language_detection": {
-    "version": "4.0.2",
+    "version": "4.0.3",
     "t3_versions": [
       11,
       12
     ],
     "description": "Modern language detection middleware for TYPO3. Based on PSR-7, PSR-14 & PSR-15.",
-    "hash": "sha256-gy/pSuHyDEsb0TjWN98aOyQeNRXtwC9Z7H/zyXnpdRI="
+    "hash": "sha256-5Zoipe3asnZruVebgHYbiHWrlMCGIJZwCrSDQN7eebQ="
   },
   "language_redirect": {
     "version": "1.0.3",
@@ -32778,13 +32780,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mbox": {
-    "version": "2.0.0",
+    "version": "2.1.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "TYPO3 CMS backend module to view mbox file contents, like an email client.",
-    "hash": "sha256-dhh0qB3qSyTpeFonp3tgNmpPrZb3/3L+tYTyMDUgRXA="
+    "hash": "sha256-6MRkcVWkmqWbzWKs9OAg9uuNcIK7v9dQ2bSTTl3juGo="
   },
   "mbox_userimport": {
     "version": "0.0.1",
@@ -34276,13 +34278,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mindshape_seo": {
-    "version": "2.0.2",
+    "version": "3.0.1",
     "t3_versions": [
-      9,
-      10
+      11,
+      12
     ],
     "description": "Extension to manage the SEO of your site",
-    "hash": "sha256-6D4Zv9D/NDznuB08P2RYbyfd8Q8o+WMcgmBy51auuFU="
+    "hash": "sha256-CvOfvwvgbHca/HU/7tF5XBcbmtFRvTLrr+E+FNNNQnI="
   },
   "minicleaner": {
     "version": "2.3.0",
@@ -50190,13 +50192,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "shop": {
-    "version": "4.0.1",
+    "version": "4.0.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "Simple Shop for TYPO3 incl. PayPal, PayPal-Plus, Klarna, Stripe, Bookmarks, UPS-API, Invoice generation, backend module, compare feature, graduated prices and many more - note there is a Pro version as well!",
-    "hash": "sha256-5si9wKe3HG1X9nuEk8ZVLZML8gq4fz1++tfGpLb2FcI="
+    "hash": "sha256-KQKD+3PfegpB7XFvt/nICyWXrm4RYLQU5zYz8j6CHbo="
   },
   "shop3ox": {
     "version": "0.0.3",
@@ -50914,13 +50916,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "siteconfiggitsync": {
-    "version": "1.0.2",
+    "version": "1.0.3",
     "t3_versions": [
       11,
       12
     ],
     "description": "This extension will push changes to the site config yaml files back to your gitlab repository by creating a branch for the changes along with a merge-request. It is targeted towards automated CI/CD installations or sites in general where the site-config is git versioned. No local git binary or .git directory is needed. Requires EXT:siteconfigurationevents",
-    "hash": "sha256-wngcC86hjMpuZimEWko/NYQ1Tbjc4n6Q8xzJO/RUxnc="
+    "hash": "sha256-XzvcrmVsjF0FHz6Wm2sTobczKXvB6dnBwpMLN3foqpo="
   },
   "siteconfigurationevents": {
     "version": "1.1.0",
@@ -65157,12 +65159,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "yellowpages2": {
-    "version": "7.0.0",
+    "version": "7.0.1",
     "t3_versions": [
       12
     ],
     "description": "With this extension you can build your own industry directory",
-    "hash": "sha256-w/Ahz2Q3T5nuGozDqUttn+N3W1Pe3nT60L1QcBSyPoc="
+    "hash": "sha256-rqYJLHMtjNWn4CzNTuXNcE0EhY7LWk3BCI7Y9EX6v7A="
   },
   "yellowpay2commerce": {
     "version": "1.0.0",
