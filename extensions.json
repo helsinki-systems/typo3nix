@@ -570,12 +570,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "academic_persons": {
-    "version": "0.2.0",
+    "version": "0.2.1",
     "t3_versions": [
       11
     ],
     "description": "Adds a person database to TYPO3 with plugins to show them in the frontend.",
-    "hash": "sha256-/06ebc91Ur7LEoCa+4Psz3/f0z+KkyubO6arjm0LexM="
+    "hash": "sha256-1UMhLehbF/gPFmPnaNTb9aFofFqnU6NxuR9/Ce7Odss="
   },
   "academic_persons_edit": {
     "version": "0.2.0",
@@ -22448,13 +22448,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "glossary2": {
-    "version": "6.0.0",
+    "version": "6.0.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "This TYPO3 extension creates a glossary with A-Z links for you",
-    "hash": "sha256-4pnj21ChEDOR6iryDsw2vkRSj0V4KStqcxJ5PELKdtY="
+    "hash": "sha256-31NQJvtCXfLHkefauKKNQHAlUKn9SvW710kGEhrUjP8="
   },
   "glossary_one": {
     "version": "1.0.4",
@@ -31946,12 +31946,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mailfiles": {
-    "version": "7.0.0",
+    "version": "7.1.0",
     "t3_versions": [
       12
     ],
     "description": "Upload files and send download links via email. Uses plupload. Please see readme file.",
-    "hash": "sha256-9AJTYDSX2W5qWhM7eG8+S4tUSF7rGa0T67X71SWuOvk="
+    "hash": "sha256-ITmtwMp14RbJVm3q+4oE+gI+rkqmG0qh9vmdGPpTwRc="
   },
   "mailform": {
     "version": "0.9.35",
@@ -32453,13 +32453,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mask": {
-    "version": "8.3.7",
+    "version": "8.3.8",
     "t3_versions": [
       11,
       12
     ],
     "description": "Create your own content elements and page templates. Easy to use, even without programming skills because of the comfortable drag and drop system. Stored in structured database tables. Style your frontend with Fluid tags. Ideal, if you want to switch from Templavoila.",
-    "hash": "sha256-7ywyVeV7sHbCzw/9FOuHSqEuufsCCXMYUOeaQnqgxhE="
+    "hash": "sha256-LdI4SgKEJVO76SFUpaw07VbU5Y7Qej25TDIHUI5sTME="
   },
   "mask_export": {
     "version": "4.0.2",
@@ -57036,12 +57036,12 @@
     "hash": "sha256-kQeRiJAI7zZLil7zGDNiNICU0DWi25XEo6xtZs05oU8="
   },
   "ted3": {
-    "version": "12.2.7",
+    "version": "12.2.8",
     "t3_versions": [
       12
     ],
     "description": "Frontendediting for TYPO3 (Basic version)",
-    "hash": "sha256-U/sLUr6N57mgl/ANdYvth4J75sYhZ93EQf32L+5Lg14="
+    "hash": "sha256-3LupkK+wjTb8KnSQVEqjVz/NdWVA4/ZlZ2PKUImIWYI="
   },
   "telegram": {
     "version": "0.1.0",
@@ -57870,14 +57870,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "theodia": {
-    "version": "2.0.0",
+    "version": "2.1.0",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Fetch data from theodia.org to display the Mass schedule for the various places of worship in a parish or pastoral unit.",
-    "hash": "sha256-dKb+sF6L4TCQoxJYphtY5I/1iufoHA+UY+rgA5DZ7m8="
+    "hash": "sha256-QxnLYCVJRLhxdUF5L/a58/XdbNI2glRyjEDZvQqiLjA="
   },
   "thomasnu": {
     "version": "6.0.0",
@@ -65159,12 +65159,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "yellowpages2": {
-    "version": "7.0.1",
+    "version": "7.0.2",
     "t3_versions": [
       12
     ],
     "description": "With this extension you can build your own industry directory",
-    "hash": "sha256-rqYJLHMtjNWn4CzNTuXNcE0EhY7LWk3BCI7Y9EX6v7A="
+    "hash": "sha256-/R5xdfdVZaOHCd8eIrb+fMwLCw6FzP2tVG10boFoRv8="
   },
   "yellowpay2commerce": {
     "version": "1.0.0",
