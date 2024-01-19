@@ -8630,13 +8630,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cleantalk": {
-    "version": "1.1.0",
+    "version": "1.2.0",
     "t3_versions": [
-      4,
-      6
+      11
     ],
-    "description": "Protect your site from spam",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "description": "CleanTalk adds anti-spam protection that is invisible to users, without the use of captcha/reCaptcha.",
+    "hash": "sha256-jiNZJT4kr3Ufbu60Fsux0jyq5maWxrnJJEuNkMv3uTc="
   },
   "clear_rte_cache": {
     "version": "0.0.2",
@@ -12535,14 +12534,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "datamints_locallang_builder": {
-    "version": "1.1.1",
+    "version": "12.4.1",
     "t3_versions": [
-      9,
-      10,
-      11
+      12
     ],
     "description": "Offers developers and editors a backend module for creating, changing and translating language files for your extensions. Significant improvement of the workflow by using an independent translation provider such as Azure, DeepL or Google Translate.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-Vee4eNhZQWrGQ5Fyvh44rAhP37xrdjkrC/m8qnsOFAc="
   },
   "datamints_matomo": {
     "version": "1.4.0",
@@ -25245,6 +25242,15 @@
     "description": "Display the meteo according to the RSS file of the Canada WeatherOffice.",
     "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
   },
+  "ig_mfa_frontend": {
+    "version": "0.9.0",
+    "t3_versions": [
+      11,
+      12
+    ],
+    "description": "MFA Login and Configuration for Frontend Users",
+    "hash": "sha256-yJI/Zz5QzVGzoKp3mVoWhO64z/fZaKMkAFhbnHrSkYQ="
+  },
   "ig_pagelinked": {
     "version": "0.0.2",
     "t3_versions": [],
@@ -25272,14 +25278,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ig_slug": {
-    "version": "1.0.6",
+    "version": "1.1.2",
     "t3_versions": [
-      9,
-      10,
-      11
+      12
     ],
     "description": "Rebuild URL slugs of the pages table and others",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-9CShki0tS/ov77+jtPbGhoOpUfh/7fx5I98R4H2NHfg="
   },
   "iglib": {
     "version": "0.1.4",
@@ -50352,12 +50356,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sic_address": {
-    "version": "4.1.0",
+    "version": "5.0.0",
     "t3_versions": [
-      11
+      12
     ],
     "description": "Address Extension that can either enhance or replace tt_address. You can add required fields dynamically like mask/powermail. Originally it was written in 2016 to replace extensions like nicos_directory, wt_directory or sp_directory and grew from there.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-jMMIsgfpG1NNUcdSZ2owxIUfKJiGgUYu9sXFm6jJ1UU="
   },
   "sici_core": {
     "version": "2.0.0",
@@ -55375,6 +55379,14 @@
     ],
     "description": "!!! No more features added, just some maintenance release to follow the LTS !!! A Powerful API for your (my ?) TYPO3 developments. No manual but the classes are well documented :-) ",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "t3element": {
+    "version": "1.0.2",
+    "t3_versions": [
+      12
+    ],
+    "description": "Create Custom Element using T3element",
+    "hash": "sha256-Aygmtbaqt0WlWCT8VBFl7HnbJvgyzYH2Mat9scfOMj8="
   },
   "t3essentials": {
     "version": "1.0.3",
@@ -62487,12 +62499,12 @@
     "hash": "sha256-iiWYdagbP9r7uhKQF1GyUIsJ4mB4o9kg8JZ7Y2b6Qwo="
   },
   "warming": {
-    "version": "2.0.0",
+    "version": "2.0.1",
     "t3_versions": [
       12
     ],
     "description": "Warms up Frontend caches based on an XML sitemap. Cache warmup can be triggered via TYPO3 backend or using a console command. Supports multiple languages and custom crawler implementations.",
-    "hash": "sha256-oX7Q0PurUVJVLNDH4jL40E3zoREjhz+CIqvH9WTqwqs="
+    "hash": "sha256-sfxD/aay9AuCspOu+ai448KfZMe+UDzFxsHP6TxKMFM="
   },
   "warmup": {
     "version": "1.3.1",
