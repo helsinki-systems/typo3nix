@@ -9877,13 +9877,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "content_replacer": {
-    "version": "7.0.5",
+    "version": "8.0.0",
     "t3_versions": [
-      10,
-      11
+      12
     ],
     "description": "You need a fast substitution of terms with full support of typoscript, categories and RTE integration? If yes, the extension could be perfectly fit into your project. The performance is gained by wrapping of the replacement terms to simplify the parsing process.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-7SKdm3qz68prxWJa2vxG9def5h0HEoWZTPP9NzSi1Ho="
   },
   "content_slug": {
     "version": "3.1.0",
@@ -13508,13 +13507,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "df_tabs": {
-    "version": "8.1.4",
+    "version": "9.0.0",
     "t3_versions": [
-      10,
-      11
+      12
     ],
     "description": "Create tab based content elements and pages easily and flexible with configurable mouseover handling, animations and autoplay features! It requires jquery.",
-    "hash": "sha256-qsL8xR+sRZJUWVBmhqNFdtSGqzDaRbf0T9TNh7zeKio="
+    "hash": "sha256-W66V5TTD19NQwS0WBdtR04Bpg6/g3feNR5kv5inJeiw="
   },
   "df_titleclass": {
     "version": "0.0.2",
@@ -15385,13 +15383,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "dpn_glossary": {
-    "version": "5.2.0",
+    "version": "5.2.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Glossary extension with page parser",
-    "hash": "sha256-e8bl35bhRnyeFoBSI8SdJ94Qz1b1brn3/KvpI3Y9sTs="
+    "hash": "sha256-NWxLSmiM74sRKJuxOFicBbLjoN258hDEtHJEZhnS+Ho="
   },
   "dr_blob": {
     "version": "2.3.2",
@@ -20732,14 +20730,14 @@
     "hash": "sha256-xHMUmUruf2U8HfHh1n+Hwg1F4FBnYhvxxRYQdSlrBAc="
   },
   "form_crshield": {
-    "version": "1.3.2",
+    "version": "1.4.0",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Challenge/response spambot protection for ext:form",
-    "hash": "sha256-p1VqJVdT0jMxrodfYEdk/7oIz1XYzNvMsiNcQuoIwG0="
+    "hash": "sha256-7lwhqym5NeX3iTuKYgtwifXNaxo+Jy+WbH3d3cQBmp4="
   },
   "form_doubleoptin": {
     "version": "1.1.1",
@@ -30523,13 +30521,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "lfeditor": {
-    "version": "7.2.0",
+    "version": "8.0.0",
     "t3_versions": [
-      10,
-      11
+      11,
+      12
     ],
     "description": "This module serves several functions for editing of language files.",
-    "hash": "sha256-MIppb0NtJz3uyb91BZWx9scvElMxkBhP3LtCNrteMLY="
+    "hash": "sha256-M5PYtO56MQOJ9tkgOS0WwIugKamXBHBp/5ZQCrvIj7I="
   },
   "lfeditor_impexp": {
     "version": "2.0.0",
@@ -42601,15 +42599,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "photoswipe": {
-    "version": "1.2.7",
+    "version": "2.0.1",
     "t3_versions": [
-      9,
-      10,
-      11,
       12
     ],
     "description": "Enables Photoswipe for TYPO3's native image enlargement. Small js-lib and easy to install. It just works with plain javascript, no jQuery or other frameworks are needed.",
-    "hash": "sha256-9gMc7WxgTluukOLqpjWJIxFWfk6qxpG0AUaRjgo79uM="
+    "hash": "sha256-NKAiLsQNPpNYcLO5HbnAlWf889XXvchhVf7c/PHiguo="
   },
   "php_acceleration": {
     "version": "0.1.1",
@@ -48953,13 +48948,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "scriptmerger": {
-    "version": "8.1.0",
+    "version": "9.0.0",
     "t3_versions": [
-      10,
-      11
+      12
     ],
     "description": "This extension minimizes the http requests by concatenating your css and javascript. Furthermore the result can be minified and compressed. This whole process is highly configurable and is partly based on the \"minify\", \"jsminplus\" and \"jsmin\" projects.",
-    "hash": "sha256-5KIlGmoaZ90+ai2kj7HcbW0C4GzavW/Wg6BDNk+ZjwQ="
+    "hash": "sha256-l97+/R4ZD+jCbSSvGWYtz+C1+Gsp3QriL+sVLsQgi/Y="
   },
   "scriptmergerbless": {
     "version": "0.0.1",
@@ -49780,7 +49774,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sg_cookie_optin": {
-    "version": "5.3.8",
+    "version": "5.3.10",
     "t3_versions": [
       9,
       10,
@@ -49788,7 +49782,7 @@
       12
     ],
     "description": "",
-    "hash": "sha256-c3NtCtj8p4WST7w+JDom32VzTuLrEmagU1PSxR8c920="
+    "hash": "sha256-cDIkwg8tsm+m81epo3x57rhC4lWKfOv3cXbreWBNC5M="
   },
   "sg_cropscale": {
     "version": "0.5.0",
@@ -49962,12 +49956,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sg_routes": {
-    "version": "6.0.5",
+    "version": "7.0.0",
     "t3_versions": [
-      11
+      12
     ],
     "description": "URL Redirects and Page Not Found Handling",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-RA9uAxz1lfhNCE0Cu5Bi9ZPz7Op3YoFnaKaT+a+Kd/U="
   },
   "sg_search": {
     "version": "0.7.501",
@@ -50016,24 +50010,20 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sg_vimeo": {
-    "version": "3.0.6",
+    "version": "4.0.0",
     "t3_versions": [
-      10,
-      11,
       12
     ],
     "description": "A solution for embedding Vimeo videos, playlists, or channels easily into TYPO3 pages.",
-    "hash": "sha256-b0khKmLBVcSJkbkKjBCE58NqEW3lUl2Bo5PO38zaY0g="
+    "hash": "sha256-yy0GTXHQDy8AmKTYytIoseVgNxfL/8tRxBWloWCpokY="
   },
   "sg_youtube": {
-    "version": "6.0.4",
+    "version": "7.0.0",
     "t3_versions": [
-      10,
-      11,
       12
     ],
     "description": "A solution for embedding YouTube videos, playlists, or channels easily into TYPO3 pages.",
-    "hash": "sha256-hniOatcpuKsxvoADiX2448XfwU9Bv43fRSGwgSyNZwM="
+    "hash": "sha256-P234OPU1GKMDMqR0WWIs1g0oXI1Js6D2bJeA3K7CvWg="
   },
   "sg_zfeeditlib": {
     "version": "0.8.12",
