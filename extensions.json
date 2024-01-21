@@ -42599,12 +42599,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "photoswipe": {
-    "version": "2.0.1",
+    "version": "2.0.2",
     "t3_versions": [
       12
     ],
     "description": "Enables Photoswipe for TYPO3's native image enlargement. Small js-lib and easy to install. It just works with plain javascript, no jQuery or other frameworks are needed.",
-    "hash": "sha256-NKAiLsQNPpNYcLO5HbnAlWf889XXvchhVf7c/PHiguo="
+    "hash": "sha256-d7iLTHXT90Gfr4ujeUSGxBBxNkmHgqricCkD+LHitvg="
   },
   "php_acceleration": {
     "version": "0.1.1",
@@ -56996,6 +56996,14 @@
     "description": "Lists channels and users of a teamspeak server",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "teaser2": {
+    "version": "12.0.0",
+    "t3_versions": [
+      12
+    ],
+    "description": "",
+    "hash": "sha256-Tma3+niMp5Si7Mr0fiJ8AxsHVUslwhal4eWZp0NnhsE="
+  },
   "teaser_manager": {
     "version": "3.0.0",
     "t3_versions": [
@@ -63915,12 +63923,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ws_slider": {
-    "version": "12.0.3",
+    "version": "12.1.0",
     "t3_versions": [
       12
     ],
     "description": "Universal slider carousel for Owl slider, flexslider, ... ",
-    "hash": "sha256-LnomVhHQqwJN4g8CJKkWbpNn4oOlVU2UT9iy1v7/Olg="
+    "hash": "sha256-pW5ZwLNIRCRoeywt+t7DPRYBM/ShyVvuXzdtPri4LqQ="
   },
   "ws_stats": {
     "version": "0.2.0",
