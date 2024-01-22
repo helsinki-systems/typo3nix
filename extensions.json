@@ -7948,13 +7948,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cf_cookiemanager": {
-    "version": "1.4.2",
+    "version": "1.4.3",
     "t3_versions": [
       11,
       12
     ],
     "description": "Unlock the full potential of your Typo3 website with CodingFreaks Typo3 Cookie Manager. Effortlessly manage and customize your website's services, cookies and scripts with our comprehensive extension. Streamline your workflow, enhance user experience, and ensure GDPR compliance with this powerful tool. Take control of your cookie management today and unleash the true potential of your Typo3 installation.",
-    "hash": "sha256-BChbMDy2TE2ZqNjwyt5LooEYSAfPnqZntcRzqVDLAh8="
+    "hash": "sha256-TaCWM2xShQAZNN6Ni/eaXAODMdHj4J0Ir2qqHGmwulU="
   },
   "cf_google_authenticator": {
     "version": "1.2.4",
@@ -9739,13 +9739,13 @@
     "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
   },
   "containeritems": {
-    "version": "4.4.0",
+    "version": "4.5.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "EXT:container layouts for columns, accordions, carousels, content sections and boxes. Demo at: https://microtemplate.t3brightside.com",
-    "hash": "sha256-J3053cXgfanQGjLvLmtv7j5Gr+fqUN+9BE23OqekHvg="
+    "hash": "sha256-6d4l1SUKv7afXoPgP7x8Y/O9n9VEPG2mCjSWYCx40Uc="
   },
   "content2rss": {
     "version": "0.2.0",
@@ -16841,12 +16841,12 @@
     "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
   },
   "enhanced_backend": {
-    "version": "0.1.5",
+    "version": "1.0.1",
     "t3_versions": [
-      11
+      12
     ],
     "description": "Improves the user experience (UI/UX), provides customization options for editors and enhances the look and feel of TYPO3 backend.",
-    "hash": "sha256-4Q7nF62ybdWwo+PINlBz3QJAqHP4avoEIBoX5FJD4OM="
+    "hash": "sha256-JrBsbujxuWFQkXOZ1WN7Be47PTpv9B6s8ALD5IxJl8M="
   },
   "enomaly_laszlo": {
     "version": "0.0.2",
@@ -20715,13 +20715,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "form_consent": {
-    "version": "1.1.0",
+    "version": "2.0.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "An extension for TYPO3 CMS that adds double opt-in functionality to EXT:form. It allows the dynamic adaptation of the entire double opt-in process using various events. In addition, the extension integrates seamlessly into TYPO3, for example to delete outdated consents in compliance with the GDPR.",
-    "hash": "sha256-Zbk4Po8ub+2/aADzAi213cxE15UpY/b8jpCg4n9Fksg="
+    "hash": "sha256-uIv2BBuaDrHIaSkt+6cUDZayjd+FQsXfa8ZWJbDl5uw="
   },
   "form_country_select": {
     "version": "3.0.0",
@@ -32936,13 +32936,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "md_news_author": {
-    "version": "7.0.0",
+    "version": "7.0.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Adds one or more authors to a tx_news record, show a list of all authors and display a detail page of the author containing the attached news entries.",
-    "hash": "sha256-WX3PQGtWJi3RP9477khjGUaFUXj+AfOATJOOnDZUbQQ="
+    "hash": "sha256-QKBBDpCjWC82jpXsFVjETnIfegmaSRB5gO2ir8Frtgs="
   },
   "md_news_clickcount": {
     "version": "2.0.1",
@@ -34131,13 +34131,13 @@
     "hash": "sha256-AQZF9Hqa+uAIOlKaAsL3mUQYmZRntXWjaMfFxQiFsMU="
   },
   "microtemplate": {
-    "version": "4.2.0",
+    "version": "4.3.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "One page template with sections and lightbox like sub pages. Demo at: https://microtemplate.t3brightside.com",
-    "hash": "sha256-qTrrlbzHXBbKQ9mCCxfyf1NYYL/bDm8zjgZFlbmeLQU="
+    "hash": "sha256-meiKMU93uLp4dftd99W5zrqCBXV18+z4SXHNFmLsSlI="
   },
   "miflowplayer": {
     "version": "0.1.9",
@@ -44524,12 +44524,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "publications": {
-    "version": "5.3.2",
+    "version": "6.0.2",
     "t3_versions": [
-      11
+      12
     ],
     "description": "Publication reference extension with im- and export with bibtex and xml files",
-    "hash": "sha256-FA3LCUjeE3wvVw8nhmtJP5wxhAWcLwcxPGk1Wnu1T+A="
+    "hash": "sha256-6bqH0nEzhSOAO/ntRvLrKoz48WVkxCmZDHERmtqnqEY="
   },
   "publish": {
     "version": "11.1.1",
