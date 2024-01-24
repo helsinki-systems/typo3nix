@@ -2179,15 +2179,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ameos_dailymotion": {
-    "version": "1.0.8",
+    "version": "2.0.0",
     "t3_versions": [
-      8,
-      9,
-      10,
-      11
+      12
     ],
     "description": "Dailymotion online media service",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-sBYRaE+mtAdvtdvj50qH5RSFsHPnIYnz/p61L9KO2LE="
   },
   "ameos_demo_formidable": {
     "version": "0.4.0",
@@ -2242,22 +2239,20 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ameos_filemanager": {
-    "version": "2.0.4",
+    "version": "3.0.0",
     "t3_versions": [
-      10,
-      11
+      12
     ],
     "description": "This will allow you to fully handle file upload in FE context",
-    "hash": "sha256-MqggT5Em7UGwYDEqPhoQvW8KDDD19d1sIVlpIPRZGRk="
+    "hash": "sha256-/AuTvTKgKGgYSdioeRD/jEY0tsNpZrqwoe3nIJUFU9c="
   },
   "ameos_form": {
-    "version": "1.4.12",
+    "version": "2.1.0",
     "t3_versions": [
-      10,
-      11
+      12
     ],
     "description": "Form API for extbase and fluid",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-+9As8uW1OefsfzMdMjN8TPBlme1sHmO9PDfvvqHauWY="
   },
   "ameos_formidable": {
     "version": "2.1.2",
@@ -2287,13 +2282,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ameos_mailredirect": {
-    "version": "2.0.0",
+    "version": "3.0.0",
     "t3_versions": [
-      10,
-      11
+      12
     ],
     "description": "This extension redirect all mail send with TYPO3 API to a debug address for developpement period.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-v7VU04MRcB2eA6znkNiWH7mqXC4WLbI8ush1EbZB2tU="
   },
   "ameos_pbsurvey_assessment": {
     "version": "0.1.0",
@@ -4427,7 +4421,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "belogin_images": {
-    "version": "4.0.3",
+    "version": "4.0.4",
     "t3_versions": [
       9,
       10,
@@ -4435,7 +4429,7 @@
       12
     ],
     "description": "Display random Background Images from different sources at your TYPO3 BackendLogin Page.",
-    "hash": "sha256-H5dCN10QvgADVbizT7xIZu7DPyGQRp8PImofyhD1F1g="
+    "hash": "sha256-IwR4CCTpx7XsLDan2IJGAuGhGdoQ6au/jNAiaRn8Zlo="
   },
   "bepagination": {
     "version": "0.1.0",
@@ -10994,12 +10988,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cs_powermail_gdpr": {
-    "version": "4.0.0",
+    "version": "4.0.1",
     "t3_versions": [
       12
     ],
     "description": "",
-    "hash": "sha256-YUrIt3d2jxwWW7NYU+Vds8c9zGdOWu/QtiZYKMbcSZ0="
+    "hash": "sha256-oEdk0Qv2orbf4LDXQU6gRKo7++vHQgWu0uRoIG5XpHI="
   },
   "cs_powermail_limit": {
     "version": "1.0.3",
@@ -17318,13 +17312,13 @@
     "hash": "sha256-jQuZh0RqppRCH6KZb5G73jGVsG1mzdyhq57WTAN82lQ="
   },
   "events2": {
-    "version": "8.3.1",
+    "version": "8.3.2",
     "t3_versions": [
       10,
       11
     ],
     "description": "Create single and recurring events",
-    "hash": "sha256-l7g90AI3y2IFgnv+2HBuJ6x/FVYiq7k/t2wEs48uFvU="
+    "hash": "sha256-xRMgJeJtHydYXJAvvUqlJZDpXpVYbJdWjTFnosJdmFs="
   },
   "evgallery": {
     "version": "2.9.0",
@@ -21744,13 +21738,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "gallerycontent": {
-    "version": "1.9.0",
+    "version": "1.9.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Content element for image gallery with preset crop ratios and pagination",
-    "hash": "sha256-Kl695L8+XPYIOjvZnzDTSjvZSS3Eb6d3xHCNu5UdtS4="
+    "hash": "sha256-D+y8ZR0cYOIaBIfNKW8OVTlrvmm9AFNxR0THK7C8+As="
   },
   "galtlang": {
     "version": "2.1.0",
@@ -27244,13 +27238,13 @@
     "hash": "sha256-7wijbRIl3TjoeylIbrlX4A/8w4vQta7m/RrMe7exJhY="
   },
   "jfmulticontent": {
-    "version": "2.15.0",
+    "version": "2.15.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "It arranges multiple contents into one content element with multiple columns, accordions, tabs, slider, slidedeck, easyAccordion or Booklet. This extension will also extend tt_news with two new lists.",
-    "hash": "sha256-Bnkb23rknBODm9zrGg7hPHYycqZ2S82G0fIgkcje52Q="
+    "hash": "sha256-5Iqm2x/jOWwKY8JYiyqyJQYIsiJnQRbEaRX5RUpnI88="
   },
   "jfmulticontent_viewdemo": {
     "version": "0.1.2",
@@ -38392,12 +38386,12 @@
     "hash": "sha256-T6S+H/Bau4+7nkgmqF8RqaGYCIUunRHut63M2Gq3RNg="
   },
   "nitsan_maintenance": {
-    "version": "12.0.0",
+    "version": "12.0.1",
     "t3_versions": [
       12
     ],
     "description": "Do you want to make your site temporary offline like coming soon and maintenance mode? This extension will help you with simple plug & play to your TYPO3 instance. Demo: https://demo.t3terminal.com/t3t-extensions/maintenance-mode/ You can download PRO version for more-features & free-support at https://t3planet.com/typo3-maintenance-mode-extension",
-    "hash": "sha256-QxkyjHD9OF6DHZUFOCn5K7W4zNizwYlU7JsLfiP0528="
+    "hash": "sha256-J4fH/5/8JLU0hsNiQfxtvv0BWE9pqLCLaf7W/w1UTCI="
   },
   "nittygritty": {
     "version": "2.0.0",
@@ -38885,12 +38879,12 @@
     "hash": "sha256-SAP9VawOt8EeKwL3Npy2Z/KvnbUT2MlP1nFzT8wk+Pg="
   },
   "ns_backup": {
-    "version": "12.0.0",
+    "version": "12.0.1",
     "t3_versions": [
       12
     ],
     "description": "First-ever feature-rich TYPO3 backup solution with manual and scheduled backup. Easy to use and configure. Backup your TYPO3 code, assets, database etc to your favourite backup clouds/servers. Demo-Screecasts: http://demo.t3planet.com/t3t-extensions/backup/ You can buy PRO-version to get more features and free-support at https://t3planet.com/ns-backup-typo3-extension",
-    "hash": "sha256-36GUDqEqYAO87zocn+nbtwoRyBd1KNbOzd6qR/EdsrE="
+    "hash": "sha256-cwik0FWUm7SHGe2CyA8H87/ci2TcaSW2oJEtoVqRJk4="
   },
   "ns_basetheme": {
     "version": "12.1.2",
@@ -39000,20 +38994,20 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ns_faq": {
-    "version": "12.0.1",
+    "version": "12.0.2",
     "t3_versions": [
       12
     ],
     "description": "One of the only feature-rich TYPO3 FAQ extension-ever. Live-Demo: https://demo.t3planet.com/t3t-extensions/faq/ You can download PRO version for more-features & free-support at https://t3planet.com/ns-faq-typo3-extension",
-    "hash": "sha256-rtCYV7LnAZhJt4gSYXxDtv8vPVjR1Gp6+Tm/NO1zwQE="
+    "hash": "sha256-H9d5LgMQ/qiL9UTMYcki9075EulHSgyLKOFmWD5XtL4="
   },
   "ns_feedback": {
-    "version": "12.0.0",
+    "version": "12.0.1",
     "t3_versions": [
       12
     ],
     "description": "One of the only feature-rich TYPO3 feedback extension-ever! Live-Demo: https://demo.t3planet.com/t3t-extensions/feedback/ You can download PRO version for more-features & free-support at https://t3planet.com/ns-feedback-typo3-extension",
-    "hash": "sha256-fx9WwV0my8azXzRtn4U0h/9epVTnh3DGKZYJX1xBA5s="
+    "hash": "sha256-/ft3h9H84AwuMFO9rANSMKhNZ1sXH6z5txQy+8xdIsA="
   },
   "ns_friendlycaptcha": {
     "version": "12.0.1",
@@ -39024,12 +39018,12 @@
     "hash": "sha256-C5338m59gflUU2XNxz6ahYqhvlm6kaqX1AJ/DidbH+8="
   },
   "ns_gallery": {
-    "version": "12.0.0",
+    "version": "12.0.1",
     "t3_versions": [
       12
     ],
     "description": "Do you want to integrate feature-rich gallery solution to your TYPO3 site? The extension includes wide-range of gallery album variations. Demo: https://demo.t3planet.com/t3t-extensions/gallery You can download PRO version for more-features & free-support at https://t3planet.com/ns-gallery-typo3-extension",
-    "hash": "sha256-zCSykQbswLgBXSb3fQ3Cag60S5XZBHnFOZLjWQ0DqTE="
+    "hash": "sha256-xsBF+Znk1r0NoDMnL8dROu4FfhwgtUSDM+O1WDn7YV0="
   },
   "ns_google_map": {
     "version": "12.0.1",
@@ -39085,12 +39079,12 @@
     "hash": "sha256-DSVYVOyfTNbpZqnbsFA6VVfQgOeCL3864aaWXJ+UHyA="
   },
   "ns_helpdesk": {
-    "version": "12.0.0",
+    "version": "12.0.1",
     "t3_versions": [
       12
     ],
     "description": "An all-in-one TYPO3 Help Desk extension that helps you balance everything your customers need to be happy. Demo: https://demo.t3planet.com/t3t-extensions/helpdesk You can download PRO version for more-features & free-support at https://t3planet.com/ns-helpdesk-typo3-extension",
-    "hash": "sha256-V1A7Zwq9nJQ+oAxdoFraXjkkEBMYPr7ENYnNJYMxBbE="
+    "hash": "sha256-g1MhE6hI9zLyydoDom0J12XLwFBxd82WMHgYA6d5RTg="
   },
   "ns_instagram": {
     "version": "3.0.4",
@@ -39121,12 +39115,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ns_license": {
-    "version": "12.0.6",
+    "version": "12.0.7",
     "t3_versions": [
       12
     ],
     "description": "Manage License(s) of your purchased T3Planet's premium TYPO3 products. Know more at documentation https://docs.t3planet.com/en/latest/License/LicenseActivation/Index.html",
-    "hash": "sha256-WKo2xZACdNSF/iId4aNaMbScFDgJibjMUlSsIW1XCDc="
+    "hash": "sha256-9gSBjvCFQXSmPdh5WaS+yZDEGGgsr2lHeofUQVovblA="
   },
   "ns_news_advancedsearch": {
     "version": "12.0.0",
@@ -39308,12 +39302,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ns_whatsapp": {
-    "version": "12.0.0",
+    "version": "12.0.1",
     "t3_versions": [
       12
     ],
     "description": "TYPO3 WhatsApp Chat allows your visitors to start a WhatsApp conversation, share messages or join a group from your website with a single click. Live-Demo: https://demo.t3planet.com/t3t-extensions/social-networking/whats-app You can download PRO version for more-features & free-support at https://t3planet.com/typo3-whatsapp-chat-extension",
-    "hash": "sha256-Ph9TeDAsfElOkxFRCIAtidYitcBgQpUQagH9yNyx018="
+    "hash": "sha256-6YP3yBl8aaSSHRK3B8SByNJxvH7Kro76j8BjU8wIrOs="
   },
   "ns_youtube": {
     "version": "12.0.0",
@@ -42424,13 +42418,13 @@
     "hash": "sha256-ZspepyfGMH0l6g7VmNcBHI+qUYahFiJrw+aVmAI9vic="
   },
   "personnel": {
-    "version": "3.9.0",
+    "version": "3.9.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Personnel and contact lists with vCard support.",
-    "hash": "sha256-PeM2fx+bZwgO4RfVh0OX/eMapTUOp0kDub8U78USVS4="
+    "hash": "sha256-ye7+dGt4ZpccqyEPzwOJKuqjr9DRvPNVPpVMGzJ4x+E="
   },
   "persons": {
     "version": "1.0.0",
@@ -42542,13 +42536,13 @@
     "hash": "sha256-NW4L6zUYNMD/BQXvP9PHOc1SXoR+qpkktUb9E9KO7Z0="
   },
   "phone": {
-    "version": "2.0.1",
+    "version": "2.1.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Adds phone number functionality to TYPO3. Crate f.link.phone helper with the definition  ITU-T INTERNATIONAL,NATIONAL,E123",
-    "hash": "sha256-mXIOS2nYfkZf11Alp5rOxXPVb8/JD8kynWdI/u//bpU="
+    "hash": "sha256-tbRRMR8OMHaGVCTO3pWOtykMKgadpwwVcdnYH5EuO5I="
   },
   "phonegap": {
     "version": "0.1.1",
@@ -44285,12 +44279,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "psb_foundation": {
-    "version": "2.0.0",
+    "version": "2.1.0",
     "t3_versions": [
       12
     ],
     "description": "Configuration framework for TYPO3 extension development",
-    "hash": "sha256-egqpcBTJpjEnK9/5d0uKqt8XAdIh8V1FxV6yOzh7Rjw="
+    "hash": "sha256-/7A7rxbEtIwW42HxCfHaZ9QTR3w/nKjp4vugJG9nKHw="
   },
   "psb_view_helpers": {
     "version": "2.0.0",
@@ -45444,12 +45438,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "readspeaker_services": {
-    "version": "1.0.2",
+    "version": "2.0.0",
     "t3_versions": [
-      11
+      12
     ],
     "description": "A Typo3 extension for easily integrating ReadSpeaker webReader and docReader into your website. Please note that you need a valid ReadSpeaker license in order to use this extension. Learn more on www.readspeaker.com.",
-    "hash": "sha256-ILgp9IrHXZhi/bBG8iCvZk6YHMzK3FBcgEZ3m+GybwQ="
+    "hash": "sha256-zSbMYRCAaCHyizNjeXVQv78eXU7StajDkpSOB7qgolY="
   },
   "readurl": {
     "version": "0.0.2",
@@ -53053,10 +53047,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "spt_typo3audit": {
-    "version": "3.0.0",
-    "t3_versions": [],
+    "version": "3.0.1",
+    "t3_versions": [
+      11
+    ],
     "description": "Extension can be used to analyse a complete TYPO3 website system overview and it can be used to understand the server details and the extensions installed and their compatibility which are installed in the system. It is also possible to save this report as a PDF file.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-6JeHsdOM1gGkk3Igg7v5LfiqPg98B3i7HUAt9czPchM="
   },
   "spx_google_storelocator": {
     "version": "1.1.0",
@@ -57046,12 +57042,12 @@
     "hash": "sha256-kQeRiJAI7zZLil7zGDNiNICU0DWi25XEo6xtZs05oU8="
   },
   "ted3": {
-    "version": "12.2.8",
+    "version": "12.2.9",
     "t3_versions": [
       12
     ],
     "description": "Frontendediting for TYPO3 (Basic version)",
-    "hash": "sha256-3LupkK+wjTb8KnSQVEqjVz/NdWVA4/ZlZ2PKUImIWYI="
+    "hash": "sha256-WHB8emWsPsrighSWVNOgUWpv/YLMOpziCMx63b2iMb8="
   },
   "telegram": {
     "version": "0.1.0",
@@ -58006,22 +58002,22 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "tile_maps": {
-    "version": "1.0.4",
+    "version": "1.0.5",
     "t3_versions": [
       11,
       12
     ],
     "description": "Tile Maps allows in connection with Tile Proxy(tile_proxy) a GDPR compliant integration of OpenStreepMap maps without additional cookie dialog.",
-    "hash": "sha256-Meenul++Y8UwxQ20USbxyhBfL1P/eN922anLe3JaKxU="
+    "hash": "sha256-V7UlPSqLKD5kapOcSId6gQRbKlTuz/HlU1qUOwCeGlI="
   },
   "tile_proxy": {
-    "version": "1.2.3",
+    "version": "1.2.4",
     "t3_versions": [
       11,
       12
     ],
-    "description": "With Tile Proxy you can integrate OpenStreetMap maps GDPR in a compliant way without any third party requests from the client. For a given area, the data is loaded from OpenStreetMap and cached, therefore you do not need a cookie banner or blocker to use OpenStreetMap cookie banner or blocker to use OpenStreetMap.\tA proxy is also provided for geocoding nominatim.",
-    "hash": "sha256-yWCTap20ijAX1i5LgPu0yCItzpR6v7wURkbPA8moRj8="
+    "description": "Integrate OpenStreetMap without the need for a cookie banner or content blocker - that is the purpose of ext:tile_maps. All requests for map tiles are routed through a configurable proxy url within your TYPO3-system. Since the client browser does not directly requests the OpenStreetMap-server no user confirmation and no content blockers are necessary (GDPR compliant). A proxy is also provided for geocoding nominatim. For a certain area (as specified in the TYPO3-backend) the tiles are cached to improve performance.",
+    "hash": "sha256-WvqQfnucKmAKiRpKhx6pe96rw12RcyqUnzExP+bmBY8="
   },
   "timecollect": {
     "version": "0.0.1",
