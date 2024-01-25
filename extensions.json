@@ -23599,13 +23599,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "hh_accordion": {
-    "version": "0.6.0",
+    "version": "0.6.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "",
-    "hash": "sha256-A3KCENv+eMKHEbInBV9bFhVUDcS8nJsXAqT+qP14FB0="
+    "hash": "sha256-RVCUt9CV2D83r1TveH4pbjkmTZwqoRaE5DKkw/g1C2M="
   },
   "hh_add_statuscode": {
     "version": "0.1.22",
@@ -30552,6 +30552,24 @@
     "description": "ECT library as MVC alternative to tslib_pibase. Contains: autoloaders, controller, configurations, SPL data objects, phpView, translator.  NG: typo3.teams.extension-coordination.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "lib_ical": {
+    "version": "0.4.3",
+    "t3_versions": [
+      11,
+      12
+    ],
+    "description": "Download database-records as calendar items (VEVENT)",
+    "hash": "sha256-71apC8QRuWyUoiYWh6DklQMXH/yQ8dluBXqB7FYW0bM="
+  },
+  "lib_ical_eventnews": {
+    "version": "0.4.3",
+    "t3_versions": [
+      11,
+      12
+    ],
+    "description": "iCalendar Provider for Events",
+    "hash": "sha256-LLpmxv8d5s7UheRwJxWBrF0KhqRcN+M31ktVQL4L110="
+  },
   "lib_jquery": {
     "version": "4.0.2",
     "t3_versions": [
@@ -31479,13 +31497,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "lux": {
-    "version": "34.1.0",
+    "version": "34.2.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Living User Experience - LUX - the Marketing Automation tool for TYPO3.",
-    "hash": "sha256-YEawFfIqp/5dpVRtaTdJYBNtKIcusV19V6MeCYk3xzo="
+    "hash": "sha256-wfhNEoAkLxc58sLoOFCQ/kdHjTo1EnRxBgCOcoejN84="
   },
   "luxletter": {
     "version": "24.0.2",
@@ -34536,13 +34554,13 @@
     "hash": "sha256-d7l9BhoZHhbjIWXTjqi1Kf0+CxQwYJbK4AnRsNw3ioo="
   },
   "mkcontentai": {
-    "version": "12.0.6",
+    "version": "12.1.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "MK Content AI Extension - OpenAI API",
-    "hash": "sha256-N5pvsSoHpemL6TQfmzU4KvhrKTL8i5x1atf//C18lCQ="
+    "hash": "sha256-5f7lOKPxgac0cj6B/QAFfB75C2CXC1LeeGAN1YQ3V8g="
   },
   "mkdam2fal": {
     "version": "1.0.16",
@@ -44847,12 +44865,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "qbank": {
-    "version": "2.0.3",
+    "version": "2.0.4",
     "t3_versions": [
       12
     ],
     "description": "Integration of QBank DAM for TYPO3",
-    "hash": "sha256-QwAc/M/BHNQCcYUbz9FB3RIyPvYiRr8Yl0tz49f9ukE="
+    "hash": "sha256-8nUqJRoeYX+Ap6rSUttf1I0P7KtWL5595WpYKxPOjyI="
   },
   "qc_be_domain_color": {
     "version": "1.0.1",
@@ -61869,14 +61887,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "vhs": {
-    "version": "7.0.1",
+    "version": "7.0.2",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "A collection of ViewHelpers for performing rendering tasks that are not natively provided by the Fluid templating engine.",
-    "hash": "sha256-oquNMzaG1d2rIeGiWtT6pdT2eYNl2r8uTPFvb00srG4="
+    "hash": "sha256-tNwZ1CtsAS0QWHP+dqhGsouqwrRV73s4W1eBSeIgZ40="
   },
   "vhs_scss": {
     "version": "2.0.3",
@@ -63466,6 +63484,16 @@
     ],
     "description": "This extension is useful for displaying read time in  news detail view.",
     "hash": "sha256-vDirnsi2VqRLFuFmNPM/HTpPaxVXrC7kuvqsceDfHwA="
+  },
+  "wit_pwamanifest": {
+    "version": "1.0.0",
+    "t3_versions": [
+      10,
+      11,
+      12
+    ],
+    "description": "This extension is to create an interface where you can manage your manifest data which can used to generate a PWA.",
+    "hash": "sha256-vhCnQ8kHQPhDrEYM0ckOSqcHYGEgl7wtfhSqm/jWFBA="
   },
   "wizard_crpagetree": {
     "version": "5.0.3",
