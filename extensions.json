@@ -24597,14 +24597,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "iconpack": {
-    "version": "1.1.0",
+    "version": "1.1.1",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Provides an iconpack-registry for various iconpacks.",
-    "hash": "sha256-arqJy8Izt16nXzeoy+b2V3Fu/7VpaMUy74qVJF3aduY="
+    "hash": "sha256-o15XQOu15CzS1OSEPfsUOL6UV7qEOwLjUQLAAiaXtMA="
   },
   "iconpack_bootstrap": {
     "version": "1.3.0",
@@ -42487,13 +42487,13 @@
     "hash": "sha256-GO2e9tfQY0Do6l3/HPoMOk/nc/3TTKRmMWq2ESOnx/0="
   },
   "pfprojects": {
-    "version": "6.0.0",
+    "version": "6.0.1",
     "t3_versions": [
       10,
       11
     ],
     "description": "This extension shows a list of projects and can be connected with service_bw2.",
-    "hash": "sha256-OQG5aZfJndKrSpeCVR/cgpZukUwGTArH00Ns4oN1dg4="
+    "hash": "sha256-+3jRnlgCAnIW3TEbj8iEAaoPI3SQDy/k7mUvU5F/hr4="
   },
   "pg_events": {
     "version": "0.1.2",
@@ -45119,13 +45119,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "questions": {
-    "version": "4.0.5",
+    "version": "4.0.7",
     "t3_versions": [
       11,
       12
     ],
     "description": "Questions is a frequently asked questions (FAQ) extension for TYPO3. It's compatible with following extensions: shop, ",
-    "hash": "sha256-nhdRVhONWzDmfy09MyORW3rS3lh52qld42uYQPO8jzc="
+    "hash": "sha256-dVgVSmKdcTHvAfSFY4/NnINVb2FbFvXJSm42ldZre+w="
   },
   "quick_shop": {
     "version": "10.0.12",
@@ -49411,13 +49411,12 @@
     "hash": "sha256-OPYAVp2RZyzrJD1Bge2JvksDM5Jtq5RiUK4ODfvCoFs="
   },
   "service_bw2": {
-    "version": "6.0.3",
+    "version": "7.0.0",
     "t3_versions": [
-      10,
-      11
+      12
     ],
     "description": "With this extension you can access interface of service BW",
-    "hash": "sha256-vKkUWHWAWHbMpNRWuMtZFN2D9pHStJSQcn/4uwwD+eA="
+    "hash": "sha256-UFpdXE1/o13E+kon8uhYZI2bqSdkLl95KKS+sYu6LbY="
   },
   "ses_mailer": {
     "version": "1.0.0",
@@ -49552,12 +49551,12 @@
     "hash": "sha256-DpxiEN0HGphIelYtuzYK5fbsOpWrJJfQx0iExiDtv+E="
   },
   "sf_event_mgt_multidates": {
-    "version": "0.0.4",
+    "version": "0.0.6",
     "t3_versions": [
       12
     ],
     "description": "Enables multiple dates for sf_event_mgt events. Calender view of sf_event_mgt is adapted to display those events.",
-    "hash": "sha256-tcSeI/IeoHzql8/ECiWMJR7mnwgfCy7zjAoaEY+Cy3k="
+    "hash": "sha256-HCxrPbyyu9lD7Uw36yXY6odPj2QSI7D7TU2V3eKp8I4="
   },
   "sf_filecollection_gallery": {
     "version": "1.5.0",
@@ -50198,13 +50197,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "shop": {
-    "version": "4.0.2",
+    "version": "4.0.3",
     "t3_versions": [
       11,
       12
     ],
     "description": "Simple Shop for TYPO3 incl. PayPal, PayPal-Plus, Klarna, Stripe, Bookmarks, UPS-API, Invoice generation, backend module, compare feature, graduated prices and many more - note there is a Pro version as well!",
-    "hash": "sha256-KQKD+3PfegpB7XFvt/nICyWXrm4RYLQU5zYz8j6CHbo="
+    "hash": "sha256-cSydH4ltM+0LjnsbB21zntYPvux7v2D9TmBTe9qq43c="
   },
   "shop3ox": {
     "version": "0.0.3",
@@ -57083,13 +57082,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "telephonedirectory": {
-    "version": "4.0.0",
+    "version": "4.1.0",
     "t3_versions": [
       10,
       11
     ],
     "description": "Telephone Directory",
-    "hash": "sha256-k0GdC/LF/vaO+UM6Ki5mW58WxQ+SghP+Sww+fo/Xijo="
+    "hash": "sha256-yMLUPWs/xkMwXhVZrxcGHCKjxAnjqna2XYOqneaSxgo="
   },
   "template_basics_doc": {
     "version": "0.0.3",
@@ -62308,12 +62307,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "w4_cacheautoclear": {
-    "version": "1.0.2",
+    "version": "1.0.3",
     "t3_versions": [
-      11
+      11,
+      12
     ],
     "description": "W4 clear related pages cache after saving records.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-X03BxyGMbLachCf79ZSpug3gq51dzsiNeSIEejTDzgA="
   },
   "w4_cloudinary": {
     "version": "1.0.1",
@@ -62466,13 +62466,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "wacon_cookie_management": {
-    "version": "4.0.1",
+    "version": "4.1.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "WCM is a typo3 extension that enables website visitors to control and manage the usage of cookies on the website (commonly known as \"cookie consent box\"). Thus it helps website owner to be in line with the rules of the General Data Protection Regulation (GDPR) which took effect on 25 May 2018.",
-    "hash": "sha256-MmHtxDFXtiiycG77gZCXV6a7rUGa/TdWoYj2T+We1zw="
+    "hash": "sha256-SC6H3/69c98OBnYyrBisnj95Bc59xm1pEawHU4gndKY="
   },
   "wacon_csv2html": {
     "version": "2.0.0",
