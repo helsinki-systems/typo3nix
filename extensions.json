@@ -62137,13 +62137,13 @@
     "hash": "sha256-jWR/gqSKGzy0yv3fdtX0Dp3GycnE25dhtg/sCI8t/hI="
   },
   "vite_asset_collector": {
-    "version": "1.7.0",
+    "version": "1.8.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Bundle your TYPO3 frontend assets with Vite",
-    "hash": "sha256-eYRL++euEi7wHAvB4ZnJuNDNPS8jWglHhTu/YYg1LcE="
+    "hash": "sha256-F6V2/ke9CM7URy1MdLW5GQ95eF2zmqMwCAX3U5BLwsE="
   },
   "vjchat": {
     "version": "0.3.4",
