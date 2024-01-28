@@ -17705,13 +17705,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "extbookdatabase": {
-    "version": "0.2.1",
+    "version": "0.3.0",
     "t3_versions": [
-      10,
-      11
+      12
     ],
     "description": "Simple Bookdatabase",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-Gxc0IaaVOVGivpCz00fc7iwyV1CPPgLQX/sVGsrxlFg="
   },
   "extcheck": {
     "version": "1.0.1",
@@ -40261,13 +40260,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "om_cookie_manager": {
-    "version": "12.0.0",
+    "version": "12.0.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Features: Consent Panel (Optin), Grouping and Google Tag Manager support. With this Extension you can manage the script/html tags that generates cookies on your site or simply build a consent panel. You can creat different groups like essential, tracking, preferences and so on. The associated scripts will be loaded only after the optin process is done.",
-    "hash": "sha256-AT/vOwPGXxO+pTrfWBbxDZDibJTbp8mvR1FsQ6G+ZHY="
+    "hash": "sha256-tjy/zPlBUKtlw0pTo962M02LqtWgouPaBxGSFZF1iCs="
   },
   "on_jobs2xml": {
     "version": "1.0.1",
