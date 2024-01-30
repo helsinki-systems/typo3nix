@@ -8813,12 +8813,13 @@
     "hash": "sha256-UCuOzWVXUWdE65YI0b8t9V9nhalHTiXfh9Akkj8O6fA="
   },
   "clubmanager": {
-    "version": "1.0.10",
+    "version": "1.1.0",
     "t3_versions": [
-      11
+      11,
+      12
     ],
     "description": "The TYPO3 module for managing clubs, foundations and associations. With Clubmanager, you get the tool to manage the organization AND public relations of your club or association in a cost-saving and effective way.",
-    "hash": "sha256-oTEQMNyqLheyszgzByx6PNLJcAlne8/hGmTO5okG+d0="
+    "hash": "sha256-L84+B5YQRu/8AXD7c+ogtdzJd6/NWptry9Wp5U6uulQ="
   },
   "cm_ajax": {
     "version": "0.6.0",
@@ -9733,13 +9734,13 @@
     "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
   },
   "containeritems": {
-    "version": "4.5.2",
+    "version": "4.5.3",
     "t3_versions": [
       11,
       12
     ],
     "description": "EXT:container layouts for columns, accordions, carousels, content sections and boxes. Demo at: https://microtemplate.t3brightside.com",
-    "hash": "sha256-6d4l1SUKv7afXoPgP7x8Y/O9n9VEPG2mCjSWYCx40Uc="
+    "hash": "sha256-xA/CcwFh1b7B/dXh62V3JzfGEZyACAgmHu3z289zM10="
   },
   "content2rss": {
     "version": "0.2.0",
@@ -10988,12 +10989,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cs_powermail_gdpr": {
-    "version": "4.0.1",
+    "version": "4.0.2",
     "t3_versions": [
       12
     ],
     "description": "",
-    "hash": "sha256-oEdk0Qv2orbf4LDXQU6gRKo7++vHQgWu0uRoIG5XpHI="
+    "hash": "sha256-QGdLvZvASrBqZJQmbLUpiet1538p0zn5lKU0fX91ZSA="
   },
   "cs_powermail_limit": {
     "version": "1.0.3",
@@ -18805,13 +18806,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "feed_display": {
-    "version": "1.3.3",
+    "version": "1.3.4",
     "t3_versions": [
       11,
       12
     ],
     "description": "Fetches and parses RSS and Atom web feeds with the SimplePie library and prepares them for frontend display",
-    "hash": "sha256-PPanUC9npB12cw+12My38G/JU9MyNb3pXPcT67njQV8="
+    "hash": "sha256-HBNaB1lsIfYq03gfbXEDdorrHnxfGF+/SusiBVhad/I="
   },
   "feed_generator": {
     "version": "0.6.0",
@@ -33739,13 +33740,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mfa_webauthn": {
-    "version": "1.2.2",
+    "version": "1.2.3",
     "t3_versions": [
       11,
       12
     ],
     "description": "WebAuthn Provider for TYPO3 Multi Factor Authentication",
-    "hash": "sha256-cXqqFMVGgMITXpBgJq1/XOFQvMYXPJaW0CgPehgMMq0="
+    "hash": "sha256-lSYWnyf/rgrVaM0eTqK3JEg4E4s0eAb/KycmzlXt8V4="
   },
   "mfa_yubikey": {
     "version": "2.0.2",
@@ -34142,13 +34143,13 @@
     "hash": "sha256-AQZF9Hqa+uAIOlKaAsL3mUQYmZRntXWjaMfFxQiFsMU="
   },
   "microtemplate": {
-    "version": "4.3.0",
+    "version": "4.3.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "One page template with sections and lightbox like sub pages. Demo at: https://microtemplate.t3brightside.com",
-    "hash": "sha256-meiKMU93uLp4dftd99W5zrqCBXV18+z4SXHNFmLsSlI="
+    "hash": "sha256-xwnTC+WRqd785o1+pZb3DUO9qwnJgFB49+5B6t9qSgI="
   },
   "miflowplayer": {
     "version": "0.1.9",
@@ -34699,13 +34700,13 @@
     "hash": "sha256-1w+Kwddqf7AOK76Y5UxEutY5ZRsDl12FnRpsz4YoywM="
   },
   "mksearch": {
-    "version": "11.0.13",
+    "version": "11.0.14",
     "t3_versions": [
       10,
       11
     ],
     "description": "Generic highly adjustable and extendable search engine framework, using Zend Lucene, Apache Solr or ElasticSearch. But support for other search engines can be provided easily.",
-    "hash": "sha256-PYxBX2mB0CYkU52NfI23sbu5VqkgOZJWTuktIFPQY/Q="
+    "hash": "sha256-MN0puIb3jEKamQ9L9zOUpz5K9EPjrrwwBccSmEZgT94="
   },
   "mktools": {
     "version": "11.0.5",
@@ -35204,13 +35205,13 @@
     "hash": "sha256-QBq7RgOtpBz21jSQfzIxEurNCmBZlHvZXZt3wzoyyMw="
   },
   "modules": {
-    "version": "6.2.0",
+    "version": "6.2.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Modules - Little helper for creating frontend and backend modules in TYPO3",
-    "hash": "sha256-i0oGeK/554rUpnaFxGJ9oSvnJB9hKuBki+9z4rzRqSI="
+    "hash": "sha256-RlNN41tkrAGqqSyestGWQkGrG+dIlpJXXXxx7QgAsW8="
   },
   "modulis_animated_gif": {
     "version": "0.0.4",
@@ -38280,12 +38281,12 @@
     "hash": "sha256-qbyVJsT9CxkqjimQqPDEToxSKQ/aF+E2vlrZu3FrUa8="
   },
   "nginx_cache": {
-    "version": "3.0.0",
+    "version": "3.0.1",
     "t3_versions": [
       12
     ],
     "description": "Add cache control header and purge nginx cache",
-    "hash": "sha256-+mwbj6O2e8WEDQeDqu1PgsSfkPi83d3bUqhbgaBvMQU="
+    "hash": "sha256-1wDqRZhshNS8wDS6HhRQlfgbzmRv7UyeuXUs/X31XGg="
   },
   "nginx_connector": {
     "version": "1.0.2",
@@ -40674,13 +40675,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "org": {
-    "version": "11.0.5",
+    "version": "11.0.10",
     "t3_versions": [
       10,
       11
     ],
-    "description": "The Organiser is a blog databse for the lobby. It provides a lot of tables like boards, calendar, contacts, events, jobs, locations, news, organisers, staff, seminars and services.",
-    "hash": "sha256-KiEDKmIH2XJ/F7Ul42fg05oj5PotVIHMJBsuc+g1r5Y="
+    "description": "The Organiser is a blog database for the lobby. It provides a lot of tables like boards, calendar, contacts, events, jobs, locations, news, organisers, staff, seminars and services.",
+    "hash": "sha256-KtDUKDHWn018Ik3mmMcwfVi+zZD1GNcIXWRXR3d56o4="
   },
   "org_installer": {
     "version": "8.0.22",
@@ -48856,13 +48857,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "schema": {
-    "version": "3.1.0",
+    "version": "3.2.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "API and view helpers for schema.org markup",
-    "hash": "sha256-xZ7Z0Ht0A6IaU3VB01e9lTxL1Z7a02Wz6gB/YlgCYS4="
+    "hash": "sha256-g7gaw1GGZ0eIgCoPsJKnahG3q3qciD6Gwz33wX6FrXM="
   },
   "schema_auto": {
     "version": "2.0.0",
@@ -55490,12 +55491,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "t3foundation": {
-    "version": "7.0.12",
+    "version": "10.0.1",
     "t3_versions": [
       10
     ],
     "description": "Integration of Zurb Foundation CSS Framework for TYPO3 websites. This extension is optimised for Start TYPO3 Responsive.",
-    "hash": "sha256-nqWHAOEi9oqUW9v4pCHvpeajNkCsa02Ch5lkp6BBtzA="
+    "hash": "sha256-g0RKL86NFSAMo5ljGh8s1qt6ntTjgy0eaZvTEOa0RPY="
   },
   "t3getid3": {
     "version": "1.1.1",
