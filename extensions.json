@@ -9765,12 +9765,12 @@
     "hash": "sha256-zIEstPFHttAq2bRVbuXskLWhPbkZ++m4mcc7E46IM6s="
   },
   "content_blocks": {
-    "version": "0.4.0",
+    "version": "0.5.1",
     "t3_versions": [
       12
     ],
     "description": "TYPO3 CMS Content Blocks - Content Types API",
-    "hash": "sha256-TQ5zEY6u4q96qRh3dLS/nh8jbbzN02RQXasGtxsD2CY="
+    "hash": "sha256-ogSR534joQ5fzJds3dmAjayjFrjt/5KYP1iFoShyYSk="
   },
   "content_consent": {
     "version": "2.0.2",
@@ -12528,12 +12528,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "datamints_locallang_builder": {
-    "version": "12.4.1",
+    "version": "12.4.2",
     "t3_versions": [
       12
     ],
     "description": "Offers developers and editors a backend module for creating, changing and translating language files for your extensions. Significant improvement of the workflow by using an independent translation provider such as Azure, DeepL or Google Translate.",
-    "hash": "sha256-Vee4eNhZQWrGQ5Fyvh44rAhP37xrdjkrC/m8qnsOFAc="
+    "hash": "sha256-Q7ZldCfjY2MSAA76jOOwNOxo6+pzu3eChQQiVJw0CFc="
   },
   "datamints_matomo": {
     "version": "1.4.0",
@@ -13109,13 +13109,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "debug_mysql_db": {
-    "version": "1.5.1",
+    "version": "1.6.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Extends \\TYPO3\\CMS\\Core\\Database\\DatabaseConnection and \\TYPO3\\CMS\\Core\\Database\\Connection to show Errors and Debug-Messages. Debugging of sql-queries by debug and FileWriter.",
-    "hash": "sha256-tO2xXHC5fWXVaPQN0rTi3CcKjQzT5Kr8w+yQOhS0Ie0="
+    "hash": "sha256-PmBsSiTomJozLUnxU5Son81xHdd4XKHjQwK5hlOiPi4="
   },
   "debug_settings_task": {
     "version": "2.2.1",
@@ -13793,13 +13793,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "direct_mail_userfunc": {
-    "version": "2.3.0",
+    "version": "2.3.1",
     "t3_versions": [
       10,
       11
     ],
     "description": "Adds support for external providers to Direct Mail. This extension extends the types of recipient lists handled by Direct Mail with an entry for parameterized custom lists. These custom lists are prepared by user functions and may easily reuse your own business logic.",
-    "hash": "sha256-3DpldmoYMRLiBi/PQ1d2W5RLaLlanVLfAw19ejr/xIA="
+    "hash": "sha256-y/YohHOrOQNv5gYKQ6jsRWO5hT3hw8tPl6x3H/ewy9Q="
   },
   "directcontent": {
     "version": "0.1.3",
@@ -14007,14 +14007,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "div2007": {
-    "version": "2.0.0",
+    "version": "2.0.1",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "This library offers classes and functions to other TYPO3 extensions. It provides a modified t3lib_div of TYPO3 4.7.10. Replacement for tslib_pibase methods.",
-    "hash": "sha256-6CygpxpGWWNxbPaV3FXQ/wg/fRgQj8r769koli0Pl+o="
+    "hash": "sha256-/fsuWQ6lowxs1ElxGPVR3TLFwCHn1ECbNMqtemD7Bos="
   },
   "diva": {
     "version": "8.7.1",
@@ -17944,7 +17944,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "extractor": {
-    "version": "2.4.3",
+    "version": "2.4.4",
     "t3_versions": [
       8,
       9,
@@ -17953,7 +17953,7 @@
       12
     ],
     "description": "This extension detects and extracts metadata (EXIF / IPTC / XMP / ...) from potentially thousand different file types (such as MS Word/Powerpoint/Excel documents, PDF and images) and bring them automatically and natively to TYPO3 when uploading assets. Works with built-in PHP functions but takes advantage of Apache Tika and other external tools for enhanced metadata extraction.",
-    "hash": "sha256-SLtWyCrCE3v8omEwBiUNAMDR3XIpBDuN0Bpkqb2PLpo="
+    "hash": "sha256-2qqe+17t2SZTmYHbs3juGNRS72R7ty2puOqOobYMwpE="
   },
   "extrasalt": {
     "version": "0.1.7",
@@ -19362,14 +19362,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "file_list": {
-    "version": "3.0.0",
+    "version": "3.0.1",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "This extension provides a frontend plugin which shows a list of files and folders in a specified directory on the file system (comparable to Apache directory listing) or using more advanced FAL selectors (categories, collection of files, ...). This extension may also be used for creating image galleries. Default templates are Bootstrap-ready.",
-    "hash": "sha256-nfht0X9mSPgYZoeR+LtTI+i5t9BS2ts0vJ5o7+kin3E="
+    "hash": "sha256-leHYGYCUsKLWcd/9Txck4Ba7iOF0Ifz/H7mKC/dKyZs="
   },
   "file_ref_list": {
     "version": "0.1.1",
@@ -25346,14 +25346,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "image_autoresize": {
-    "version": "2.2.2",
+    "version": "2.3.0",
     "t3_versions": [
       10,
       11,
       12
     ],
-    "description": "Simplify the way your editors may upload their images: no complex local procedure needed, let TYPO3 automatically resize down their huge images/pictures on-the-fly during upload (or using a scheduler task for batch processing) and according to your own business rules (directory/groups). This will highly reduce the footprint on your server and speed-up response time if lots of images are rendered (e.g., in a gallery). Features an EXIF/IPTC extractor to ensure metadata may be used by the FAL indexer even if not preserved upon resizing.",
-    "hash": "sha256-WrkNLj0J/gOLAN29eMCE8oF8Mvn4DAdTM+2Ts7zH4eE="
+    "description": "Simplify the way your editors may upload their images: no complex local procedure needed, let TYPO3 automatically resize down their huge images/pictures on-the-fly during upload (or using a command for batch processing) and according to your own business rules (directory/groups). This will highly reduce the footprint on your server and speed-up response time if lots of images are rendered (e.g., in a gallery). Features an EXIF/IPTC extractor to ensure metadata may be used by the FAL indexer even if not preserved upon resizing.",
+    "hash": "sha256-0m8gTh/eNTYyPoVaDd/9Pt/W+B+4vj+gLbuBDyrGCFU="
   },
   "image_copyright": {
     "version": "12.5.1",
@@ -33706,14 +33706,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mfa_frontend": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Enable MFA (Multi-Factor Authentication) for Frontend accounts.",
-    "hash": "sha256-HEXIgIF/BL7XKNGQ12SOzDQj9jH2hqGV+d5K6/pLYQk="
+    "hash": "sha256-X1IjYNInywYpsyTQ1shM3OAXr10BfIoL5v0K1yyz1VE="
   },
   "mfa_hotp": {
     "version": "1.1.0",
@@ -57894,14 +57894,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "theodia": {
-    "version": "2.1.0",
+    "version": "2.1.1",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Fetch data from theodia.org to display the Mass schedule for the various places of worship in a parish or pastoral unit.",
-    "hash": "sha256-QxnLYCVJRLhxdUF5L/a58/XdbNI2glRyjEDZvQqiLjA="
+    "hash": "sha256-K08Co2Ag994KNw8zG8pzQ+yUKvy66l/v8OmNjhOOanM="
   },
   "thomasnu": {
     "version": "6.0.0",
