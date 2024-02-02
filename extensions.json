@@ -1556,12 +1556,12 @@
     "hash": "sha256-QckxUijIPEdD6LVvP3jLwr2sT0hqgrIdc0gptF3NW5Q="
   },
   "aimeos": {
-    "version": "23.10.3",
+    "version": "23.10.4",
     "t3_versions": [
       12
     ],
     "description": "Professional, full-featured and ultra-fast TYPO3 e-commerce extension for online shops, complex B2B applications and #gigacommerce. Turns TYPO3 into the best platform for content commerce and your e-commerce requirements (also available as TYPO3 distribution)",
-    "hash": "sha256-WDj0tgjS42YN0HAIlbc0Imj+oWIOf4oCaU3BCn+mkiw="
+    "hash": "sha256-dp/t4bjS45DfVB8BJn7A8gj5K5cwlw5dhwvpbt7dTo4="
   },
   "aimeos_dist": {
     "version": "23.7.1",
@@ -2316,7 +2316,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ameos_tarteaucitron": {
-    "version": "2.4.0",
+    "version": "2.5.0",
     "t3_versions": [
       8,
       9,
@@ -2325,7 +2325,7 @@
       12
     ],
     "description": "Integrates tarteaucitron.js in TYPO3 (see : https://tarteaucitron.io )",
-    "hash": "sha256-dCpgrsF27vuPBx8AvbsiYbh1zlrZtQUUI8qLpKkQkhk="
+    "hash": "sha256-X4/2lKpZ0RJ54vmNQX9wMPOKac9C4poqjaSOGEUMPwI="
   },
   "ameos_typo3_vulnerabilities": {
     "version": "1.0.0",
@@ -7942,13 +7942,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cf_cookiemanager": {
-    "version": "1.4.3",
+    "version": "1.5.0",
     "t3_versions": [
-      11,
       12
     ],
     "description": "Unlock the full potential of your Typo3 website with CodingFreaks Typo3 Cookie Manager. Effortlessly manage and customize your website's services, cookies and scripts with our comprehensive extension. Streamline your workflow, enhance user experience, and ensure GDPR compliance with this powerful tool. Take control of your cookie management today and unleash the true potential of your Typo3 installation.",
-    "hash": "sha256-TaCWM2xShQAZNN6Ni/eaXAODMdHj4J0Ir2qqHGmwulU="
+    "hash": "sha256-D2Zp7X+poZqTj++8LlWdHqjU6Tlac7hOxKyouvLadoE="
   },
   "cf_google_authenticator": {
     "version": "1.2.4",
@@ -17872,13 +17871,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "external_import": {
-    "version": "7.2.0",
+    "version": "7.2.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Tool for importing data from external sources into the TYPO3 CMS database, using an extended TCA syntax. Provides a BE module, a Scheduler task, a command-line tool and an API.",
-    "hash": "sha256-J2hAuc9N3VDT4lZYDG3uH4zpthm0lXZY9hKpTpOkWSk="
+    "hash": "sha256-cRsoGUBC7TkJrewXX7OJtNBeH66qAK2sR1vMvg8aTjw="
   },
   "external_import_tt_products": {
     "version": "0.0.1",
@@ -18592,12 +18591,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fe_change_pwd": {
-    "version": "4.1.0",
+    "version": "4.2.0",
     "t3_versions": [
       12
     ],
     "description": "Plugin to enable password change for frontend users. Contains configurable password",
-    "hash": "sha256-JD0m0CRJsR7MRraSGeCQtAjMx+QL7tm5FGCzk5gpB7w="
+    "hash": "sha256-U2NrJeagZeHBhbLwQqU0JoOtO+DHWNerfd9ypwfeBfM="
   },
   "fe_changelog": {
     "version": "3.1.0",
@@ -20724,14 +20723,14 @@
     "hash": "sha256-xHMUmUruf2U8HfHh1n+Hwg1F4FBnYhvxxRYQdSlrBAc="
   },
   "form_crshield": {
-    "version": "1.4.0",
+    "version": "1.4.1",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Challenge/response spambot protection for ext:form",
-    "hash": "sha256-7lwhqym5NeX3iTuKYgtwifXNaxo+Jy+WbH3d3cQBmp4="
+    "hash": "sha256-ZLeUGaTNIUh//9j6d+Zrx5+lKasiueLbknHuadyQJB0="
   },
   "form_doubleoptin": {
     "version": "1.1.1",
@@ -29494,14 +29493,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "klaro_consent_manager": {
-    "version": "1.7.0",
+    "version": "1.7.1",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Functionally complete, flexible TYPO3 integration of Klaro! Consent Management by KIProtect. Klaro! is a powerful tool that protects your visitors' privacy and data and helps you run a GDPR compliant website.",
-    "hash": "sha256-3GIE4D0V9M5QViv3Py/s52mc8zjJzXvrhbaVDFHKT3U="
+    "hash": "sha256-EJKVcbZ2wKt7i+IP20vAVd4h+i+p822Or3lH3qsoBQk="
   },
   "km_dam_extension": {
     "version": "1.0.2",
@@ -30515,13 +30514,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "lfeditor": {
-    "version": "8.0.0",
+    "version": "8.0.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "This module serves several functions for editing of language files.",
-    "hash": "sha256-M5PYtO56MQOJ9tkgOS0WwIugKamXBHBp/5ZQCrvIj7I="
+    "hash": "sha256-LlaFK1lnQm7H34X4Lw2ylJjGBAwJ04wI9dBy2jQnNxc="
   },
   "lfeditor_impexp": {
     "version": "2.0.0",
@@ -31497,13 +31496,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "lux": {
-    "version": "34.2.0",
+    "version": "34.3.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Living User Experience - LUX - the Marketing Automation tool for TYPO3.",
-    "hash": "sha256-wfhNEoAkLxc58sLoOFCQ/kdHjTo1EnRxBgCOcoejN84="
+    "hash": "sha256-rxygD5FfTihqK0637G7KGpQ+X2PzQfz6jKAd8WEeE5A="
   },
   "luxletter": {
     "version": "24.0.2",
@@ -32948,13 +32947,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "md_news_author": {
-    "version": "7.0.1",
+    "version": "7.0.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "Adds one or more authors to a tx_news record, show a list of all authors and display a detail page of the author containing the attached news entries.",
-    "hash": "sha256-QKBBDpCjWC82jpXsFVjETnIfegmaSRB5gO2ir8Frtgs="
+    "hash": "sha256-rAvXtHZfCLd9H+9HLN/RtGO630IgNYZkli3hCQ2pRb0="
   },
   "md_news_clickcount": {
     "version": "2.0.1",
@@ -32965,13 +32964,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "md_newsfrontend": {
-    "version": "3.0.3",
+    "version": "4.0.0",
     "t3_versions": [
-      10,
-      11
+      11,
+      12
     ],
     "description": "This extension enables frontend users to created news records in the frontend.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-+W93FsFJTiAIgjSfAl+9CB6BdhyXUDtR6AqXc5CKGf0="
   },
   "md_saml": {
     "version": "3.0.1",
@@ -33267,13 +33266,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mediaconsent": {
-    "version": "1.0.0",
+    "version": "2.0.0",
     "t3_versions": [
-      10,
-      11
+      12
     ],
     "description": "Extension loads content only if the user agrees.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-hkk6hGW0jG8sbSr/VulykPh81M1LFMeYd9WH5yCEErY="
   },
   "mediacookie_immomanager": {
     "version": "2.3.0",
@@ -34709,13 +34707,13 @@
     "hash": "sha256-MN0puIb3jEKamQ9L9zOUpz5K9EPjrrwwBccSmEZgT94="
   },
   "mktools": {
-    "version": "11.0.5",
+    "version": "11.0.6",
     "t3_versions": [
       10,
       11
     ],
     "description": "Collection of some useful tools",
-    "hash": "sha256-C/tAi/YWoCUtgAVOWThHnUy8jqnA2pA6lu+pBaPDSso="
+    "hash": "sha256-gJRBiqsqDpHA8qW/gzukEy50OxJuo/Sv5FQ38/apAR0="
   },
   "mkvarnish": {
     "version": "11.0.4",
@@ -39149,12 +39147,13 @@
     "hash": "sha256-GeLXSgS5wqOWFLoNcdX9SuMEq81+AY1CvBgZhCM/7c0="
   },
   "ns_news_comments": {
-    "version": "12.0.0",
+    "version": "12.1.0",
     "t3_versions": [
+      11,
       12
     ],
     "description": "Do you want to smoothly integrate comment features in your favourite News extension? This extension includes powerful features like post comment, reply to comment, multi-level comment thread, moderation etc., Demo: https://demo.t3planet.com/t3t-extensions/news-comments/ You can download PRO version for more-features & free-support at https://t3planet.com/news-comment-typo3-extension/",
-    "hash": "sha256-2xKvyrqEqiJ9RHvM4lCaiK+hjhlRpwa2N+uwrWBWXAQ="
+    "hash": "sha256-fzamKEVHZHdmuV8ZWodqBW9bnLSY3ra/BG9LW5kDQwk="
   },
   "ns_news_slider": {
     "version": "12.0.0",
@@ -44055,12 +44054,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "pr_googlecse": {
-    "version": "3.0.1",
+    "version": "3.1.0",
     "t3_versions": [
-      10
+      10,
+      11
     ],
     "description": "Integration of the Google custom search engine using Fluid templates for a customized look and feel.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-TIgyzYyvZ0MZPHNOGjZpiFaHzMbaddeeZQLrlQk6htA="
   },
   "pr_mailcampaign": {
     "version": "0.0.2",
@@ -47564,12 +47564,12 @@
     "hash": "sha256-1R6R/FaDjuH/WNBQ1NxZQhTyBu/QxbdGSafje7fDfHw="
   },
   "rte_ckeditor_image": {
-    "version": "12.0.0",
+    "version": "12.0.1",
     "t3_versions": [
       12
     ],
     "description": "Adds FAL image support to CKEditor for TYPO3.",
-    "hash": "sha256-VDSgVNmebW3PCzHUpylpfXJlLIR0anh/ZyStzmopikM="
+    "hash": "sha256-0EnOcYLXlxXoa7aVR22O4EDo1duUb40zedLLmg6lKls="
   },
   "rte_ckeditor_microdata": {
     "version": "10.1.0",
@@ -62138,13 +62138,13 @@
     "hash": "sha256-jWR/gqSKGzy0yv3fdtX0Dp3GycnE25dhtg/sCI8t/hI="
   },
   "vite_asset_collector": {
-    "version": "1.8.0",
+    "version": "1.9.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Bundle your TYPO3 frontend assets with Vite",
-    "hash": "sha256-F6V2/ke9CM7URy1MdLW5GQ95eF2zmqMwCAX3U5BLwsE="
+    "hash": "sha256-XtBWajKQWj/pBmS/h8xJvvPmZomblZt+PzEADYdasWg="
   },
   "vjchat": {
     "version": "0.3.4",
