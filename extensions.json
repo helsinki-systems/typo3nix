@@ -3616,12 +3616,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "backend_roles": {
-    "version": "3.0.2",
+    "version": "3.0.3",
     "t3_versions": [
       12
     ],
     "description": "Backend user group role management for TYPO3",
-    "hash": "sha256-mV6t8iIV49TqufKtACdS9NOS3qydOt93TDcL09ao8MQ="
+    "hash": "sha256-b6/LO84sN0/Gyn7F2eVJKnL6LlNUwnFRgGvyZdN6p7Y="
   },
   "backend_save_buttons": {
     "version": "1.0.1",
@@ -7965,13 +7965,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cf_phpinclude": {
-    "version": "1.0.5",
+    "version": "1.1.0",
     "t3_versions": [
-      11,
       12
     ],
     "description": "Includes a Custom PHP Script in Typo3 Context",
-    "hash": "sha256-3Hs0RLwJbeGI86a5wktcgi505pjXkAUCs+7m/f8xSs0="
+    "hash": "sha256-dUU+XiTv/zfxBuN9rL4trY4pnzKOcnDIKnIeFCuIS9k="
   },
   "cfa_globalweatherws": {
     "version": "0.1.0",
@@ -9764,12 +9763,12 @@
     "hash": "sha256-zIEstPFHttAq2bRVbuXskLWhPbkZ++m4mcc7E46IM6s="
   },
   "content_blocks": {
-    "version": "0.5.1",
+    "version": "0.5.2",
     "t3_versions": [
       12
     ],
     "description": "TYPO3 CMS Content Blocks - Content Types API",
-    "hash": "sha256-ogSR534joQ5fzJds3dmAjayjFrjt/5KYP1iFoShyYSk="
+    "hash": "sha256-mfFpdEN715iWKmFokNz+dJ7W2yJRlhyiZUrIl88aoMM="
   },
   "content_consent": {
     "version": "2.0.2",
@@ -31505,13 +31504,13 @@
     "hash": "sha256-rxygD5FfTihqK0637G7KGpQ+X2PzQfz6jKAd8WEeE5A="
   },
   "luxletter": {
-    "version": "24.0.2",
+    "version": "25.0.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Free newsletter extension for TYPO3 for an individual email marketing. A lot of analytics and modern concepts. Works with and without EXT:lux.",
-    "hash": "sha256-bd8/uSe8oa/tIpu5NwgBbGwwzzoEeIn7EDhX6pj3Yag="
+    "hash": "sha256-YaQPUp1/2bU45g7cksT+cAM0QET/hl4Ehd95lwYophc="
   },
   "lvcleantemp": {
     "version": "1.0.4",
