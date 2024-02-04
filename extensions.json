@@ -20859,13 +20859,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "form_rate_limit": {
-    "version": "1.4.0",
+    "version": "1.5.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "TYPO3 form finisher for rate limiting when sending a form",
-    "hash": "sha256-KjV040LbGyA1xQuKHC3I7B+YmWbGZ2yiI8Rc3btIzDs="
+    "hash": "sha256-rIsrHuKSkTQwO3vL9c00P35ZK1GZpH9D1GuK8/UVoKE="
   },
   "form_search": {
     "version": "2.0.0",
@@ -48856,40 +48856,40 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "schema": {
-    "version": "3.2.0",
+    "version": "3.3.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "API and view helpers for schema.org markup",
-    "hash": "sha256-g7gaw1GGZ0eIgCoPsJKnahG3q3qciD6Gwz33wX6FrXM="
+    "hash": "sha256-hUSiboknzdIkvQP3he3kzL2dXNii3KLK7atwpdUHknk="
   },
   "schema_auto": {
-    "version": "2.0.0",
-    "t3_versions": [
-      11,
-      12
-    ],
-    "description": "Extend the schema extension with auto-related terms",
-    "hash": "sha256-szvjb6TfJ0phCuPJA0SAF+2SrG8DJ84gbdhS3YiPR9w="
-  },
-  "schema_bib": {
-    "version": "2.0.0",
-    "t3_versions": [
-      11,
-      12
-    ],
-    "description": "Extend the schema extension with bibliographic-related terms",
-    "hash": "sha256-6OI2Mcpta9EpBRqzCJZQ4gpJwZh6HGsqTzAakzftw40="
-  },
-  "schema_health": {
     "version": "2.1.0",
     "t3_versions": [
       11,
       12
     ],
+    "description": "Extend the schema extension with auto-related terms",
+    "hash": "sha256-s5jOLQwidGvHLgI5Gd0DppFTEGkqcpa78aawlxetx5w="
+  },
+  "schema_bib": {
+    "version": "2.1.0",
+    "t3_versions": [
+      11,
+      12
+    ],
+    "description": "Extend the schema extension with bibliographic-related terms",
+    "hash": "sha256-yRQxzdIcSg26FDr+zM5dlZ7U/5TdhsfpJlBUo88JbqM="
+  },
+  "schema_health": {
+    "version": "2.2.0",
+    "t3_versions": [
+      11,
+      12
+    ],
     "description": "Extend the schema extension with health-related terms",
-    "hash": "sha256-UXK/kpeLxSevlF1GToKtuzODIBIuOJT8OF/+6VmEGS4="
+    "hash": "sha256-Ov/5Yfx7Loal9eoGLn5czY/If6sIExMvCujdAa8w5XE="
   },
   "schema_injector": {
     "version": "1.0.1",
@@ -48910,22 +48910,22 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "schema_pending": {
-    "version": "2.1.0",
+    "version": "2.2.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Extend the schema extension with pending terms",
-    "hash": "sha256-lYYjFRzMUkpp9WZmUyOtQpo1iYnB+aawmTVvHfytUJc="
+    "hash": "sha256-ijY3TQRMEW+EElxHlhvyXXGZJBDAWeI+OuECuuNsksM="
   },
   "schema_virtuallocation": {
-    "version": "2.0.0",
+    "version": "2.1.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Add-on to the schema extension, providing VirtualLocation",
-    "hash": "sha256-RMh/sMJf8r+rHiraU0sjN48+Ha4hGLcxyp9sNH8yQys="
+    "hash": "sha256-qtBry1MEAAYBjqGNw4SDUPMXtHC4pvu2GKROAIXlR7M="
   },
   "schemaker": {
     "version": "3.2.0",
@@ -53567,12 +53567,12 @@
     "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
   },
   "start": {
-    "version": "10.1.17",
+    "version": "10.1.18",
     "t3_versions": [
       10
     ],
     "description": "Start extends TYPO3 with the responsive framework Foundation (Zurb), a dozen responsive Backend Layouts and some responsive Gridelements. It enables editors, to create responsive nested layouts within a few minutes. It extends some backend forms for controlling the display of content elements depending on devices like smartphones, tablets and desktops. It extends TYPO3 content elements and menus with some helpful responsive Foundation features. A template for a responsive newsletter is included.",
-    "hash": "sha256-XSKIVCGDHdH8Uo7EAmt/+0NDt80OCfydkWJljA0QLNM="
+    "hash": "sha256-CBR1zHWt1eVuo9Yei/aZA3moeOdA4dIaGCyeUi1ea5k="
   },
   "startcustomer": {
     "version": "5.1.10",
@@ -55490,12 +55490,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "t3foundation": {
-    "version": "10.0.1",
+    "version": "10.0.2",
     "t3_versions": [
       10
     ],
     "description": "Integration of Zurb Foundation CSS Framework for TYPO3 websites. This extension is optimised for Start TYPO3 Responsive.",
-    "hash": "sha256-g0RKL86NFSAMo5ljGh8s1qt6ntTjgy0eaZvTEOa0RPY="
+    "hash": "sha256-7khhySLjoAcNIWNcZlC8ATP91Zm3e5TCS1AW3WDm3Eo="
   },
   "t3getid3": {
     "version": "1.1.1",
@@ -64587,13 +64587,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "xblog": {
-    "version": "11.2.5",
+    "version": "11.2.6",
     "t3_versions": [
       10,
       11
     ],
     "description": "Quickly assemble a TYPO3 frontend! Publish the data from the tables pages, tt_content and from any other database! No need to set up typoscript.",
-    "hash": "sha256-MTh2C1Yc20KQiT2KMj2X0ySPdvf1mnyq478BQlPTUQ0="
+    "hash": "sha256-MENybwANQEItYutMZ4K6h2DYWqWFhc6477w8fjuI1Uo="
   },
   "xdbmysql": {
     "version": "3.0.18",
