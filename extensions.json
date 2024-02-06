@@ -1078,13 +1078,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "additional_tca": {
-    "version": "1.15.3",
+    "version": "1.15.4",
     "t3_versions": [
       11,
       12
     ],
     "description": "Additional TCA fields and tools",
-    "hash": "sha256-5YD9hX19OIJL1i9FOBG/VQJLuPSeiPUq+RRTJyhx8zk="
+    "hash": "sha256-3bSmuhy6Lr7VcoggfC12Zi/4JaopE5TvJlbl/6SXMCs="
   },
   "addlinkheader": {
     "version": "0.0.4",
@@ -17870,13 +17870,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "external_import": {
-    "version": "7.2.1",
+    "version": "7.2.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "Tool for importing data from external sources into the TYPO3 CMS database, using an extended TCA syntax. Provides a BE module, a Scheduler task, a command-line tool and an API.",
-    "hash": "sha256-cRsoGUBC7TkJrewXX7OJtNBeH66qAK2sR1vMvg8aTjw="
+    "hash": "sha256-cE+xov8AGJ483RcwJoXChbUVgKbVDlRQkQkoNCvIEyc="
   },
   "external_import_tt_products": {
     "version": "0.0.1",
@@ -33349,12 +33349,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "meilisearch": {
-    "version": "0.1.0",
+    "version": "0.3.0",
     "t3_versions": [
       12
     ],
     "description": "This extension integrates \"meilisearch\" into your TYPO3.",
-    "hash": "sha256-rAag1pMtXDbqNPX4kOzKp8Jhk3lo9dMmFIrD/P8qMXA="
+    "hash": "sha256-4XIldjxjWk5HPDtQJ9U3adk11UtpF9YveSbdL7l9/54="
   },
   "meinpraktikum_widget": {
     "version": "1.0.1",
@@ -50203,13 +50203,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "shop": {
-    "version": "4.0.3",
+    "version": "4.0.4",
     "t3_versions": [
       11,
       12
     ],
     "description": "Simple Shop for TYPO3 incl. PayPal, PayPal-Plus, Klarna, Stripe, Bookmarks, UPS-API, Invoice generation, backend module, compare feature, graduated prices and many more - note there is a Pro version as well!",
-    "hash": "sha256-cSydH4ltM+0LjnsbB21zntYPvux7v2D9TmBTe9qq43c="
+    "hash": "sha256-/al8v2boaLV1Mx1M0dbwidqKVrpR0eWAqaMCixV3qCY="
   },
   "shop3ox": {
     "version": "0.0.3",
@@ -54312,12 +54312,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "store_finder": {
-    "version": "7.0.12",
+    "version": "7.0.13",
     "t3_versions": [
       12
     ],
     "description": "Manage store locations, search by distance and show Google maps.",
-    "hash": "sha256-EHqoMlDfIRPx1sCBlu1yAk93mvfmxe4tQx1uuSlv1LQ="
+    "hash": "sha256-Z+IHyOR+ev79NLEf5WM497RZV1AQLewWrF6t5e5mC0Y="
   },
   "store_hours": {
     "version": "0.1.1",
@@ -55435,12 +55435,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "t3extblog": {
-    "version": "8.0.0",
+    "version": "8.0.1",
     "t3_versions": [
       12
     ],
     "description": "A record based blog extension for TYPO3 CMS. Easy to use and packed with features (incl.",
-    "hash": "sha256-4Q+u9LQPGTmIBMoBJ360eMEQsmuJkHrtiNXMVx4Wogo="
+    "hash": "sha256-qR4OE2pBZHLJpLE3BUXrCg083qMmo+EMfmNY5677h7M="
   },
   "t3extension_tools": {
     "version": "1.0.1",
@@ -60979,13 +60979,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "typo3_console": {
-    "version": "8.1.0",
+    "version": "8.1.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "A reliable and powerful command line interface for TYPO3 CMS",
-    "hash": "sha256-KFS3j9uE4wMrq9e2+cNBdA7PdXbfrkN+F3oby5wB7I4="
+    "hash": "sha256-Zy22blhvjfU4h9XvPvyPa6b4ltp15kB/bJ7G2ooFbeo="
   },
   "typo3_console_cleartempfiles": {
     "version": "1.0.0",
