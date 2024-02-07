@@ -26315,12 +26315,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "invisiblerecaptcha": {
-    "version": "6.0.0",
+    "version": "7.0.2",
     "t3_versions": [
-      11
+      12
     ],
     "description": "Google invisible recaptcha TYPO3 extension for powermail",
-    "hash": "sha256-P0dKf2hEnrnqmhWXxZBeEh9c+A1JLgnllScEcnk4LMY="
+    "hash": "sha256-tVcBucacd72JJZSS9eMkmg0U+PeXeGw6ML9OU/3oc6k="
   },
   "inxmail_content": {
     "version": "1.0.6",
@@ -31511,13 +31511,13 @@
     "hash": "sha256-rxygD5FfTihqK0637G7KGpQ+X2PzQfz6jKAd8WEeE5A="
   },
   "luxletter": {
-    "version": "25.0.0",
+    "version": "25.0.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Free newsletter extension for TYPO3 for an individual email marketing. A lot of analytics and modern concepts. Works with and without EXT:lux.",
-    "hash": "sha256-YaQPUp1/2bU45g7cksT+cAM0QET/hl4Ehd95lwYophc="
+    "hash": "sha256-+YoXx8Nv4ghXmLiFNgvRuwnAhpL4l+4g7sIltV1OoKw="
   },
   "lvcleantemp": {
     "version": "1.0.4",
@@ -31890,13 +31890,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mail": {
-    "version": "2.5.6",
+    "version": "2.5.7",
     "t3_versions": [
       11,
       12
     ],
     "description": "Powerful newsletter system for TYPO3",
-    "hash": "sha256-mS2xNlaxGJhzt6mUypnYccqArY+hJjR4HjYFb85DE+g="
+    "hash": "sha256-e0d2TI5wLvyhN9cz+Vw3GD1yaGGdhAHqTX4anV7ViMo="
   },
   "mail2news": {
     "version": "2.0.3",
@@ -33349,12 +33349,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "meilisearch": {
-    "version": "0.3.0",
+    "version": "0.3.1",
     "t3_versions": [
       12
     ],
     "description": "This extension integrates \"meilisearch\" into your TYPO3.",
-    "hash": "sha256-4XIldjxjWk5HPDtQJ9U3adk11UtpF9YveSbdL7l9/54="
+    "hash": "sha256-PJxD0AX1gzZ1QBnvhstTJBdIMQDoM7VOCFOUCp0U3mc="
   },
   "meinpraktikum_widget": {
     "version": "1.0.1",
@@ -34538,15 +34538,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mkabtesting": {
-    "version": "3.0.0",
+    "version": "11.0.0",
     "t3_versions": [
-      4,
-      6,
-      7,
-      8
+      11
     ],
     "description": "A/B Testing of content elements",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-aFJ1X5PwBIGJLjqt/2utRlVZYfymM7ZqPQNBoM6fV0A="
   },
   "mkcache_queue": {
     "version": "12.0.3",
@@ -50203,13 +50200,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "shop": {
-    "version": "4.0.4",
+    "version": "4.0.5",
     "t3_versions": [
       11,
       12
     ],
     "description": "Simple Shop for TYPO3 incl. PayPal, PayPal-Plus, Klarna, Stripe, Bookmarks, UPS-API, Invoice generation, backend module, compare feature, graduated prices and many more - note there is a Pro version as well!",
-    "hash": "sha256-/al8v2boaLV1Mx1M0dbwidqKVrpR0eWAqaMCixV3qCY="
+    "hash": "sha256-+gcbK+Y3gFL6Vg+BmZ6j+yXP2woec1hr1EWEPiZOgiA="
   },
   "shop3ox": {
     "version": "0.0.3",
