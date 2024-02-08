@@ -1248,12 +1248,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "advancedtitle": {
-    "version": "1.2.1",
+    "version": "1.3.0",
     "t3_versions": [
-      11
+      11,
+      12
     ],
     "description": "Adds page title prefix and suffix to SEO tab.",
-    "hash": "sha256-ADYC4bttxqUwhD5GAsG3oYT8e9q8IVO5uWgNUZ+jA/c="
+    "hash": "sha256-PUzBysVaXP6vKICODxIazLNi57lpEuS0IaIfhZMiIIE="
   },
   "advertising": {
     "version": "0.19.0",
@@ -5927,12 +5928,12 @@
     "hash": "sha256-l7Ke7OXseSTX2PdTSMy7XU4cPLjfa8LHl7q3AEDziHM="
   },
   "bw_jobs": {
-    "version": "3.0.0",
+    "version": "3.0.2",
     "t3_versions": [
       12
     ],
     "description": "A job board extension for TYPO3 CMS.",
-    "hash": "sha256-oBWRnNZmW7JdO/PgSzy7/Hwqdm1XmC74J+4rUS+69q0="
+    "hash": "sha256-TcqUPYIfd7HfvvlEJsuOS2f9yTYPBeyHzoLT+1tyNN0="
   },
   "bw_json_ld": {
     "version": "0.0.1",
@@ -15784,13 +15785,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "duty": {
-    "version": "3.3.0",
+    "version": "3.4.0",
     "t3_versions": [
       10,
       11
     ],
     "description": "Remove deprecated files from directories - in respect for GDPR/DSGVO. Reminds a fe_users, if there are deprecated records.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-Cg30JUaJ3R+F8hC0z5z1gz8N4lLMF174eNXZwzoWtJ0="
   },
   "dvdg_indexedsearch_patch": {
     "version": "0.0.1",
@@ -16770,12 +16771,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "embedassets": {
-    "version": "1.2.0",
+    "version": "1.3.0",
     "t3_versions": [
-      11
+      11,
+      12
     ],
     "description": "Fluid viewhelpers for embed and minified CSS/JS",
-    "hash": "sha256-r+/vWE0ZqhZh0VaubwEvfrKDl1YcAVjIkLhB4uOBKeg="
+    "hash": "sha256-NorjVII5Oh0cgazN8R9QGhDSihc4sQElXlDiKX8MJWg="
   },
   "embettyvideo4typo3": {
     "version": "1.0.2",
@@ -19393,14 +19395,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "filefill": {
-    "version": "4.3.0",
+    "version": "4.3.1",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Find and fetch missing local files from different remotes",
-    "hash": "sha256-TJVUhK6av8XYwwN8E0NIw873b2Vra4xgiCi0IFKDTpc="
+    "hash": "sha256-Z4IXEb364CTPXv0r8KJEuzUF9AlXd6NZm7GWPLoPYao="
   },
   "filefill_payload": {
     "version": "0.6.0",
@@ -21888,6 +21890,24 @@
     ],
     "description": "",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "gdpr_extensions_com_vimeo": {
+    "version": "1.0.5",
+    "t3_versions": [
+      11,
+      12
+    ],
+    "description": "The GDPR Vimeo 2 Click Solution, brought to you by GDPR-Extensions.com, is a feature-rich solution designed to empower website owners in effectively managing Vimeo videos and bolstering user privacy.",
+    "hash": "sha256-v6vG34d9BSQ3uoOMVNpJfZpGE8FLgAOT2BXqJ+i5rk0="
+  },
+  "gdpr_extensions_com_youtube": {
+    "version": "1.0.1",
+    "t3_versions": [
+      11,
+      12
+    ],
+    "description": "The GDPR Youtube 2 Click Solution, brought to you by GDPR-Extensions.com, is a feature-rich solution designed to empower website owners in effectively managing Youtube videos and bolstering user privacy.",
+    "hash": "sha256-Npwcgo6yEXHFL0kDyJV3WFDlUuteUBUxLAi+papRh0U="
   },
   "gdpr_youtube": {
     "version": "1.0.0",
@@ -25767,12 +25787,13 @@
     "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
   },
   "in2frontendauthentication": {
-    "version": "8.0.0",
+    "version": "9.0.0",
     "t3_versions": [
-      11
+      11,
+      12
     ],
     "description": "Authenticate every visitor as a defined frontend user if IP matches",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-Ybb7Hol6RMcd9OtLtTjU6WmHr+TcB8ciYxq30nm7f8g="
   },
   "in2help": {
     "version": "7.0.0",
@@ -34278,13 +34299,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mindshape_cookie_consent": {
-    "version": "3.1.1",
+    "version": "3.1.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "This extension provides functionality to create  a customizable cookie consent for your website. It is developed for flexibility to be customized in accordance to your data security guidelines.",
-    "hash": "sha256-HbLXsWBgzLbZ9VYWrSfqfqSK1RL9jGfkhFEGKn7hJec="
+    "hash": "sha256-NG9aEscdCOptgcTJiQ94HzVOEWb2qROzInk/HBqq5DM="
   },
   "mindshape_cookie_hint": {
     "version": "1.1.0",
@@ -35206,13 +35227,13 @@
     "hash": "sha256-QBq7RgOtpBz21jSQfzIxEurNCmBZlHvZXZt3wzoyyMw="
   },
   "modules": {
-    "version": "6.2.1",
+    "version": "6.2.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "Modules - Little helper for creating frontend and backend modules in TYPO3",
-    "hash": "sha256-RlNN41tkrAGqqSyestGWQkGrG+dIlpJXXXxx7QgAsW8="
+    "hash": "sha256-7JHIBEmuDHY3dlEYp7lvxUFyRNeYrcDqHVwjuL12p0o="
   },
   "modulis_animated_gif": {
     "version": "0.0.4",
@@ -36909,13 +36930,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mysqlreport": {
-    "version": "3.0.3",
+    "version": "3.0.4",
     "t3_versions": [
       11,
       12
     ],
     "description": "Analyze and profile your TYPO3 database queries",
-    "hash": "sha256-TlFb0xmhYV82JMs1UHNhrKWRpJLODr3GGeFtqqA//GA="
+    "hash": "sha256-UzX9E+cMmXn2cvmh55f9DCAceJvFNMB+RC6hmmkozBU="
   },
   "mytemplate1": {
     "version": "0.0.2",
@@ -37710,13 +37731,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "news": {
-    "version": "11.3.0",
+    "version": "11.4.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Versatile news system based on Extbase & Fluid and using the latest technologies provided by TYPO3 CMS.",
-    "hash": "sha256-1e5uO9K7dX7XvyNLnQsTEc7g/JRGegar8ZOxC7OJSm8="
+    "hash": "sha256-v54E8Ua+yvaNXcZDR6cptileRAbKXwXz2Hd8LlMxgv0="
   },
   "news2facebook": {
     "version": "1.1.0",
@@ -38157,12 +38178,13 @@
     "hash": "sha256-iuwtcMlSZTq4RbmiMlt+NiK26Zv9Vy251CVMFYV21VA="
   },
   "newsstylist": {
-    "version": "4.0.5",
+    "version": "5.0.0",
     "t3_versions": [
+      11,
       12
     ],
     "description": "all in one: one-touch settings within news plugin - fast & cool way to change the output of news, List view 5 layouts (default, card, carousel, newsletter) and swiper slider with some effects",
-    "hash": "sha256-aPh5SScFwlsY/yZtxlPFIxK6UJ6JxuCRCgAYHbyQrQk="
+    "hash": "sha256-dvBD01gqrJNoxiF8mo5AnVUD2HdtEs8RP4XrSMugy1Y="
   },
   "newssubmit": {
     "version": "1.0.0",
@@ -41035,13 +41057,12 @@
     "hash": "sha256-Sxw1g7QWNPE0RTYdLJRWmj9aLFKFeMnb7DZuP928kR0="
   },
   "page_callouts": {
-    "version": "4.0.0",
+    "version": "4.0.2",
     "t3_versions": [
-      11,
       12
     ],
     "description": "Add callouts to page module in TYPO3 backend",
-    "hash": "sha256-8/R4Q8gVAbq+Abq+3DAZbRhX7mgpMaWhtfT6DgYCWo8="
+    "hash": "sha256-0Zlt/Q1nSJrSBWyRGjeQulkec23QUyfNCuArDnTjD9Y="
   },
   "page_creator": {
     "version": "1.0.1",
@@ -41400,12 +41421,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "paginatedprocessors": {
-    "version": "1.5.1",
+    "version": "1.6.0",
     "t3_versions": [
-      11
+      11,
+      12
     ],
     "description": "Data processors with pagination",
-    "hash": "sha256-IYhwmpbrnKFFPAomotjklaQUXeno7es+ykKaSWw0SRw="
+    "hash": "sha256-bClI34YJt/nyWCBag4cK6NOsTCyTmHDwkbbOPKm9zzs="
   },
   "pandorabot_include": {
     "version": "0.1.0",
@@ -42924,12 +42946,12 @@
     "hash": "sha256-6z94eetctmNVzH+yy25BR5UsPY2JCCOn/zd5s8Esywg="
   },
   "picturecredits": {
-    "version": "2.0.0",
+    "version": "2.0.2",
     "t3_versions": [
       12
     ],
     "description": "Implements a central image rights management in FAL and automated rendering of picture credits on regular content pages.",
-    "hash": "sha256-hdA7weYvNTimQFLRyjJFPwUPgBgCabPWhpCOvV/4Yjg="
+    "hash": "sha256-g02zOqMJA25AHX9ReZCEAqcX5/gNWYZB6JSwqok7GdQ="
   },
   "piflexformupdate": {
     "version": "0.0.3",
@@ -43686,12 +43708,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "powermail": {
-    "version": "12.1.0",
+    "version": "12.1.1",
     "t3_versions": [
       12
     ],
     "description": "Powermail is a well-known, editor-friendly, powerful",
-    "hash": "sha256-vH5m4xxEin56DNNk7/BnmXCuRXeD7T0e2gledRLPifI="
+    "hash": "sha256-Xoy5U0+F5DRPSBaOnJWaBQ1qccTlG4aFzl1eSsQyuvo="
   },
   "powermail2document": {
     "version": "1.6.1",
@@ -44300,12 +44322,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "psb_foundation": {
-    "version": "2.1.0",
+    "version": "2.1.1",
     "t3_versions": [
       12
     ],
     "description": "Configuration framework for TYPO3 extension development",
-    "hash": "sha256-/7A7rxbEtIwW42HxCfHaZ9QTR3w/nKjp4vugJG9nKHw="
+    "hash": "sha256-QRYQQCgfs00sVNrKYlUVvX3qQ5eo11RrFeAoTva4iwc="
   },
   "psb_view_helpers": {
     "version": "2.0.0",
@@ -48914,13 +48936,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "schema_pending": {
-    "version": "2.2.0",
+    "version": "2.2.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Extend the schema extension with pending terms",
-    "hash": "sha256-ijY3TQRMEW+EElxHlhvyXXGZJBDAWeI+OuECuuNsksM="
+    "hash": "sha256-pnz3dw0rGGB0V+ptcxApUwkMxnde4YA1eVN3cDJbz6g="
   },
   "schema_virtuallocation": {
     "version": "2.1.0",
@@ -49602,12 +49624,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sf_register": {
-    "version": "12.0.0",
+    "version": "12.0.1",
     "t3_versions": [
       12
     ],
     "description": "Offers the possibility to maintain the fe_user data in frontend by the user self.",
-    "hash": "sha256-rDg/GLuLKrdWJcPUmUxcmstAupqwm+3YIvESIkBbSn4="
+    "hash": "sha256-+UMdxE0/g0SnyLPvvh2MwIRNTVG/cxqfcV9UYb2NVsY="
   },
   "sf_simple_faq": {
     "version": "1.3.0",
@@ -55908,12 +55930,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "t3s_swiper": {
-    "version": "0.0.1",
+    "version": "0.0.3",
     "t3_versions": [
       12
     ],
     "description": "Swiper is the most modern free mobile touch slider with hardware accelerated transitions and amazing native behavior.",
-    "hash": "sha256-6/KM2ufn1r2NgZu8kQjwp9zvbGMzBTZEAv3RFWCb4Ao="
+    "hash": "sha256-lykjlwn3/jYNg9STiSHBYzyzhNIa1C2fiM9r9aSdEMo="
   },
   "t3s_titleattributes": {
     "version": "0.0.1",
@@ -55935,12 +55957,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "t3sbootstrap": {
-    "version": "5.3.3",
+    "version": "5.3.4",
     "t3_versions": [
       12
     ],
     "description": "Startup extension to use bootstrap 5 classes, components and more out of the box. Example and info: www.t3sbootstrap.de",
-    "hash": "sha256-TGw5bKJXNiv9Z5f+ZOpK5ByNgywa1I6vm1bkohhv3Pw="
+    "hash": "sha256-H9nBr7jC1EbDrmkQiX0kRjtGsEF1ne4+9Xcugk/dyCk="
   },
   "t3sbootstrap_grid": {
     "version": "3.0.0",
@@ -62659,13 +62681,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "we_cookie_consent": {
-    "version": "3.0.3",
+    "version": "4.0.0",
     "t3_versions": [
       10,
-      11
+      11,
+      12
     ],
     "description": "Cookie Consent Panel (Optin) with DSGVO/GDPR compliant use of cookies. Preconfigured modules for Google Analytics, Facebook and other frequently used services. Arbitrary expandability with tracking scripts that generate cookies on your website. Support of Google Tag Manager and easy export of Google Tag Manager. Third-party cookies and scripts are only loaded when active consent is given. Website visitors can edit their privacy settings at any time. Automatic update of cookie information when new cookies/scripts are inserted with secure consent procedure. Cookies can be automatically added to the privacy policy via a plugin. Multilingual and full support for desktop, tablet and mobile. Four standard modes for displaying the content solution. Based on Klaro!.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-k6puDucwbychwtfO5G9dR13OOHgzFmUVU2EiuslcFoE="
   },
   "we_dam2fal": {
     "version": "1.0.12",
@@ -64782,12 +64805,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "xlsimport": {
-    "version": "4.0.3",
+    "version": "5.0.0",
     "t3_versions": [
-      11
+      11,
+      12
     ],
     "description": "A simple importer to import data into the database",
-    "hash": "sha256-vntvIMfMNh8IFTlHPyJAkmsTOtwRwGRT6xH3H9M2Wng="
+    "hash": "sha256-+8xquT6mVDyrF6RvSHz0u51yJhJ2SuuVOpvVJJiu8UE="
   },
   "xm_formcycle": {
     "version": "8.0.1",
