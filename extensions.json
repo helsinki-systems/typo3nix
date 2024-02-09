@@ -8804,12 +8804,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "clubdirectory": {
-    "version": "7.0.0",
+    "version": "7.0.1",
     "t3_versions": [
       12
     ],
     "description": "Manage and display clubs",
-    "hash": "sha256-UCuOzWVXUWdE65YI0b8t9V9nhalHTiXfh9Akkj8O6fA="
+    "hash": "sha256-CyYYDj2w3a9nPtj3bnZfWMLJ3YAwhqhr0wga+jqzUX0="
   },
   "clubmanager": {
     "version": "1.1.0",
@@ -15785,13 +15785,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "duty": {
-    "version": "3.4.0",
+    "version": "11.0.2",
     "t3_versions": [
       10,
       11
     ],
-    "description": "Remove deprecated files from directories - in respect for GDPR/DSGVO. Reminds a fe_users, if there are deprecated records.",
-    "hash": "sha256-Cg30JUaJ3R+F8hC0z5z1gz8N4lLMF174eNXZwzoWtJ0="
+    "description": "Files: Clean up directory uploads and the database. Remove deprecated files from directories - in respect for GDPR/DSGVO. Reminds fe_users, if there are deprecated records.",
+    "hash": "sha256-Ue5SMRTlg9I+Oj1dWJvNsbtVRnT9zWrtX6Y/xXSjBuU="
   },
   "dvdg_indexedsearch_patch": {
     "version": "0.0.1",
@@ -23528,12 +23528,12 @@
     "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
   },
   "hd_structureddata": {
-    "version": "0.1.0",
+    "version": "0.2.0",
     "t3_versions": [
       12
     ],
     "description": "Extension for adding structured JSON-LD into page headers",
-    "hash": "sha256-jfYIpqpI7eOwSNMi4pvLJCN30z5sgKKlDsxq3C3J9nk="
+    "hash": "sha256-MFMkVUiukBpiBkvfNJzmrAEqXKqWBmPkfb5vbWrqTjQ="
   },
   "hd_translator": {
     "version": "1.0.8",
@@ -25804,13 +25804,13 @@
     "hash": "sha256-1BtHqdHxMgqWSvwa9lEB9dgde/Cg811PY1DMDC7F9sQ="
   },
   "in2publish_core": {
-    "version": "12.3.1",
+    "version": "12.4.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Content publishing extension to connect stage and production server",
-    "hash": "sha256-uPN7GNZzf9uOa7ijzvsMFlHnYNRWpkxvF9AEwx0g25k="
+    "hash": "sha256-TJAa7Ajw1k+MAoc7lxqJjhpL4iunb3H4kPkrqESmUa4="
   },
   "in2rss": {
     "version": "0.2.2",
@@ -32590,14 +32590,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "matomo_integration": {
-    "version": "1.8.0",
+    "version": "2.0.0",
     "t3_versions": [
-      10,
       11,
       12
     ],
     "description": "Matomo integration for TYPO3",
-    "hash": "sha256-STwWCltsU4QM8bCqicT76WdujchS2LCSAQmuxADTjOw="
+    "hash": "sha256-vDwx4OOgVGAQrKN24ufD+nzxOHKavCCcfdux8mF+RXU="
   },
   "matomo_optout": {
     "version": "1.2.0",
@@ -33370,12 +33369,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "meilisearch": {
-    "version": "0.3.1",
+    "version": "0.3.2",
     "t3_versions": [
       12
     ],
     "description": "This extension integrates \"meilisearch\" into your TYPO3.",
-    "hash": "sha256-PJxD0AX1gzZ1QBnvhstTJBdIMQDoM7VOCFOUCp0U3mc="
+    "hash": "sha256-SJK27hF88+Lgv0WfOGpHEexBABmd5f2nfiDFGkw0ZeI="
   },
   "meinpraktikum_widget": {
     "version": "1.0.1",
@@ -37731,13 +37730,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "news": {
-    "version": "11.4.0",
+    "version": "11.4.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Versatile news system based on Extbase & Fluid and using the latest technologies provided by TYPO3 CMS.",
-    "hash": "sha256-v54E8Ua+yvaNXcZDR6cptileRAbKXwXz2Hd8LlMxgv0="
+    "hash": "sha256-FQhLUFZofBjkdiWgAjLcMF3WcuD9eZ30mIuZfTGtEVA="
   },
   "news2facebook": {
     "version": "1.1.0",
@@ -38656,16 +38655,20 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "nnhelpers": {
-    "version": "2.0.3",
-    "t3_versions": [],
+    "version": "2.0.4",
+    "t3_versions": [
+      12
+    ],
     "description": "Drastically speed up your extension development with this huge collection of very smart 'oneliners'. Make updating to new TYPO3 versions simple. Packed with things you've spent hours searching on the internet for. Everything accessible with one click via a convenient backend module. No mess and no conflicts. Use whatever method makes you happy – or simple grab the source-code and paste it in your own extension.",
-    "hash": "sha256-Bv5bPrH1xa48yNEq97FRaBgBBOb+3rR+bUx6/XYrPUw="
+    "hash": "sha256-c/MOLL3sjDuci+nxDc7YG3HZTLE+V3Rw5J95TsfgiXg="
   },
   "nnrestapi": {
-    "version": "2.0.3",
-    "t3_versions": [],
+    "version": "2.0.4",
+    "t3_versions": [
+      12
+    ],
     "description": "Build a REST Api for your TYPO3 project. Equipped with everything you need: Routing with annotations. User authentication. Fileupload and FAL conversion. Testbed and automatic documentation of your API. The backend module comes with a \"Kickstarter\" to get your RESTful API up and running in minutes.",
-    "hash": "sha256-tdcfmophcUT6xiLzIrfuqNaJ+NDz8ghcKl2SAkc13po="
+    "hash": "sha256-RLUaLKwer4L75S1OMuTiCxUvV3bsWBy68SNP/F28by4="
   },
   "no_opcode_cache_check": {
     "version": "1.0.2",
@@ -49428,13 +49431,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "server_timing": {
-    "version": "1.8.1",
+    "version": "1.9.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Show timings of Database and HTTP Calls (send them to Sentry)",
-    "hash": "sha256-OPYAVp2RZyzrJD1Bge2JvksDM5Jtq5RiUK4ODfvCoFs="
+    "hash": "sha256-QCj1ffS5y6RJay5KWdTEqtNsbmWM7oFaNDLUh5wC1sg="
   },
   "service_bw2": {
     "version": "7.0.0",
@@ -50222,13 +50225,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "shop": {
-    "version": "4.0.5",
+    "version": "4.0.6",
     "t3_versions": [
       11,
       12
     ],
     "description": "Simple Shop for TYPO3 incl. PayPal, PayPal-Plus, Klarna, Stripe, Bookmarks, UPS-API, Invoice generation, backend module, compare feature, graduated prices and many more - note there is a Pro version as well!",
-    "hash": "sha256-+gcbK+Y3gFL6Vg+BmZ6j+yXP2woec1hr1EWEPiZOgiA="
+    "hash": "sha256-LU/qdd3e9fHdnpaDMNGrjjDE9IMv0W7OImey3oZcb68="
   },
   "shop3ox": {
     "version": "0.0.3",
@@ -55833,15 +55836,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "t3rest": {
-    "version": "10.1.1",
+    "version": "11.0.2",
     "t3_versions": [
-      7,
-      8,
-      9,
-      10
+      10,
+      11
     ],
     "description": "Provides a REST interface for TYPO3.",
-    "hash": "sha256-/VG4h9YaXHhbOSUjvl+QEdhD5fxG0wR2VNciE4h5a5Q="
+    "hash": "sha256-UlsNUB3epwap5ftCuD8K4/7rpjRtKAxmpKzSDBLoI14="
   },
   "t3rnd": {
     "version": "0.0.1",
@@ -64805,13 +64806,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "xlsimport": {
-    "version": "5.0.0",
+    "version": "5.0.3",
     "t3_versions": [
       11,
       12
     ],
     "description": "A simple importer to import data into the database",
-    "hash": "sha256-+8xquT6mVDyrF6RvSHz0u51yJhJ2SuuVOpvVJJiu8UE="
+    "hash": "sha256-pf6Kh4XUaf0EIern6baI21FoviIhshYP6yzxGfNafZg="
   },
   "xm_formcycle": {
     "version": "8.0.1",
@@ -65331,13 +65332,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "youtubevideo": {
-    "version": "2.5.0",
+    "version": "3.0.0",
     "t3_versions": [
-      11,
       12
     ],
     "description": "YouTube videos with custom cover images, gallery layout, pagination, GDPR, and backend previews.",
-    "hash": "sha256-xWOz9ypGWatl45lmwrbpjTCi1rPSh5gnGW2QQP56o3Y="
+    "hash": "sha256-FbBXO//e4M4walNl328WlFDN2i1jwle+FSwzIusrz0M="
   },
   "yuieditor": {
     "version": "0.0.5",
