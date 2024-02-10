@@ -6700,13 +6700,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "calendarize": {
-    "version": "12.4.4",
+    "version": "13.0.2",
     "t3_versions": [
-      10,
-      11
+      12
     ],
     "description": "Create a structure for timely controlled tables (e.g. events) and one plugin for the different output of calendar views (list, detail, month, year, day, week...). The extension is shipped with one default event table, but you can also \"calendarize\" your own table/model. It is completely independent and configurable! Use your own models as event items in this calender. Development on https://github.com/lochmueller/calendarize",
-    "hash": "sha256-09O01tzxvAXkBNAyg0yB/LRbEihB/9vKRpe5DJC0YKo="
+    "hash": "sha256-/SEQmD9p/vuMQJeGj5zLJ+htY5qAKGDPepLvCQZBsus="
   },
   "calendarize_address": {
     "version": "4.1.0",
@@ -56513,14 +56512,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "table": {
-    "version": "0.13.0",
+    "version": "0.13.1",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "This contains a base class which you can use to make your extensions independant from any specific table. And it can be used to make multiple language support with a separate language overlay table or by a CSV file.",
-    "hash": "sha256-ukSUQAryR4wETbz0HeDY/vNpicTXp0N69iygsQJ/fY4="
+    "hash": "sha256-UPRYz0caNIUQDueBnPGAT5u2nQkzM/KaeM+7gRJx7to="
   },
   "tablecleaner": {
     "version": "2.5.0",
@@ -64806,13 +64805,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "xlsimport": {
-    "version": "5.0.3",
+    "version": "5.0.5",
     "t3_versions": [
       11,
       12
     ],
     "description": "A simple importer to import data into the database",
-    "hash": "sha256-pf6Kh4XUaf0EIern6baI21FoviIhshYP6yzxGfNafZg="
+    "hash": "sha256-HayZS8G+lXzNVjOPhb2kpcypm4jFvzK5plJ+nDNXHJo="
   },
   "xm_formcycle": {
     "version": "8.0.1",
