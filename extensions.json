@@ -35225,13 +35225,13 @@
     "hash": "sha256-QBq7RgOtpBz21jSQfzIxEurNCmBZlHvZXZt3wzoyyMw="
   },
   "modules": {
-    "version": "6.2.2",
+    "version": "6.2.3",
     "t3_versions": [
       11,
       12
     ],
     "description": "Modules - Little helper for creating frontend and backend modules in TYPO3",
-    "hash": "sha256-7JHIBEmuDHY3dlEYp7lvxUFyRNeYrcDqHVwjuL12p0o="
+    "hash": "sha256-SRL59o1RkZUenxmiu/aGm9F/X/DAxQBeReK85kKkXCM="
   },
   "modulis_animated_gif": {
     "version": "0.0.4",
@@ -38176,13 +38176,13 @@
     "hash": "sha256-iuwtcMlSZTq4RbmiMlt+NiK26Zv9Vy251CVMFYV21VA="
   },
   "newsstylist": {
-    "version": "5.0.0",
+    "version": "5.0.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "all in one: one-touch settings within news plugin - fast & cool way to change the output of news, List view 5 layouts (default, card, carousel, newsletter) and swiper slider with some effects",
-    "hash": "sha256-dvBD01gqrJNoxiF8mo5AnVUD2HdtEs8RP4XrSMugy1Y="
+    "hash": "sha256-zhIEz0Cw/9TtpbuY8Qfp4QwmJmEd3zVfR2pBcW06yO8="
   },
   "newssubmit": {
     "version": "1.0.0",
