@@ -5928,12 +5928,12 @@
     "hash": "sha256-l7Ke7OXseSTX2PdTSMy7XU4cPLjfa8LHl7q3AEDziHM="
   },
   "bw_jobs": {
-    "version": "3.0.2",
+    "version": "3.1.0",
     "t3_versions": [
       12
     ],
     "description": "A job board extension for TYPO3 CMS.",
-    "hash": "sha256-TcqUPYIfd7HfvvlEJsuOS2f9yTYPBeyHzoLT+1tyNN0="
+    "hash": "sha256-YT7gd6KYbLj1LLPxxKkz3ojAx2Xl8UGPos6p1d/sduU="
   },
   "bw_json_ld": {
     "version": "0.0.1",
@@ -6119,13 +6119,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "byt_coordconverter": {
-    "version": "3.1.0",
+    "version": "3.2.0",
     "t3_versions": [
-      10,
-      11
+      11,
+      12
     ],
     "description": "View helper for converting geospatial coordinates from one format into another",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-PoXvRXjaAC+zFpDTpOtE46+avoNgQlcxmNaFm7esmi0="
   },
   "bz_sitemap": {
     "version": "2.0.0",
@@ -23535,12 +23535,12 @@
     "hash": "sha256-MFMkVUiukBpiBkvfNJzmrAEqXKqWBmPkfb5vbWrqTjQ="
   },
   "hd_translator": {
-    "version": "1.0.8",
+    "version": "1.0.9",
     "t3_versions": [
       12
     ],
     "description": "Translation of static strings from locallang.xlf files and export/import of database related content",
-    "hash": "sha256-wMJyb9b8KleD4Qc7fC2s7XKOoNaPDK7DbYIoXNrNZfA="
+    "hash": "sha256-oNWHS9r9BN84JOE0Ig0vR4niFIoN8+WpyL/g3vch330="
   },
   "header_flashexample": {
     "version": "0.1.2",
@@ -23564,12 +23564,12 @@
     "hash": "sha256-qsVb91W381Ah5wL7o6z9RqpRGdTMCJ/CKYGdCc3xWoI="
   },
   "headless": {
-    "version": "4.2.2",
+    "version": "4.2.7",
     "t3_versions": [
       12
     ],
     "description": "Makes TYPO3 a headless CMS. Content and pages available in JSON format. Supports multilanguage, multidomain, forms, frontend login, workspaces and more. For JS frontend app see nuxt-typo3 package",
-    "hash": "sha256-np124cVmFeSvH5E7V4mX46uWWTxq/9opbpqEACaVUSc="
+    "hash": "sha256-1liCYoZnOybDUkYAhgTT0wlzydkc2m4BFuB3xg18b04="
   },
   "headless_container": {
     "version": "2.0.0",
@@ -23623,13 +23623,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "hh_accordion": {
-    "version": "0.6.1",
+    "version": "0.6.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "",
-    "hash": "sha256-RVCUt9CV2D83r1TveH4pbjkmTZwqoRaE5DKkw/g1C2M="
+    "hash": "sha256-18mzGvT3pQ5XMTaUYCdwnlxMkNLO0eOZ+d5yXKRXngI="
   },
   "hh_add_statuscode": {
     "version": "0.1.22",
@@ -25998,12 +25998,12 @@
     "hash": "sha256-ch6kTd5AHT3F4srcGaPrumy4nfmuufpuHUlg7hzWZEo="
   },
   "info_hide_default_lang": {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "t3_versions": [
       12
     ],
     "description": "Display information about activated \"Hide default language\" in TYPO3 page module",
-    "hash": "sha256-DgbPJ9cl8ZYh1TnOh0VQm3XsUxoGu6gyX7ZlVqIWMQI="
+    "hash": "sha256-HEdvktuZB9RmBkmt9l63Avus02740KDJKI0TLoIk5qI="
   },
   "info_subpages": {
     "version": "1.0.0",
@@ -28389,7 +28389,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "jumpurl": {
-    "version": "8.2.1",
+    "version": "8.2.2",
     "t3_versions": [
       9,
       10,
@@ -28397,7 +28397,7 @@
       12
     ],
     "description": "Allows to modify links to create Jump URLs created in the frontend of the TYPO3 Core.",
-    "hash": "sha256-FA9ea/LmViLLeGxpiFLFTiUZ7yzZwUr1yzYKhwM+UT8="
+    "hash": "sha256-Kfb1F8SkHz4rt0ZHzB9UGDLttD5ZnVrClYGDNxlpX30="
   },
   "jup_teaser": {
     "version": "2.0.0",
@@ -34720,13 +34720,13 @@
     "hash": "sha256-1w+Kwddqf7AOK76Y5UxEutY5ZRsDl12FnRpsz4YoywM="
   },
   "mksearch": {
-    "version": "11.0.14",
+    "version": "11.0.15",
     "t3_versions": [
       10,
       11
     ],
     "description": "Generic highly adjustable and extendable search engine framework, using Zend Lucene, Apache Solr or ElasticSearch. But support for other search engines can be provided easily.",
-    "hash": "sha256-MN0puIb3jEKamQ9L9zOUpz5K9EPjrrwwBccSmEZgT94="
+    "hash": "sha256-pwtpRtiOB8rMeM6Arr2iy9T2g9LoOX8vPLRilLmcwWg="
   },
   "mktools": {
     "version": "11.0.6",
@@ -40183,13 +40183,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "official_cleverreach": {
-    "version": "2.0.5",
+    "version": "3.0.0",
     "t3_versions": [
-      10,
-      11
+      11,
+      12
     ],
     "description": "Are your clients already fans of your business? The perfect email newsletter software for your TYPO3 content management system: test CleverReach® now!",
-    "hash": "sha256-G3spYRCx0080Z7yNWYZFM8FEu3LBZ58AyOIPnwHcyds="
+    "hash": "sha256-hkZx0zyZoFLCrqh5HHfKk+kCK57r7kU/1iAwebTNlMc="
   },
   "og_base": {
     "version": "0.0.3",
@@ -42948,12 +42948,12 @@
     "hash": "sha256-6z94eetctmNVzH+yy25BR5UsPY2JCCOn/zd5s8Esywg="
   },
   "picturecredits": {
-    "version": "2.0.2",
+    "version": "2.1.0",
     "t3_versions": [
       12
     ],
     "description": "Implements a central image rights management in FAL and automated rendering of picture credits on regular content pages.",
-    "hash": "sha256-g02zOqMJA25AHX9ReZCEAqcX5/gNWYZB6JSwqok7GdQ="
+    "hash": "sha256-44QLQRvEu8Sahrbrh1v1hTAp11w3T9dCNU4hqSioTVI="
   },
   "piflexformupdate": {
     "version": "0.0.3",
@@ -44295,13 +44295,13 @@
     "hash": "sha256-kQbi3oET4T0YBdxaBrd3vntRaNyPP1v1koDhDeY584E="
   },
   "proxycachemanager": {
-    "version": "3.1.0",
+    "version": "4.0.0",
     "t3_versions": [
-      9,
-      10
+      11,
+      12
     ],
     "description": "A flexible and generic way to track the pages that are cached by a reverse proxy like nginx HA or a CDN.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-gU0H62GCEY88+QQLIzUnI8OEpUwkvqwx7la8ZyneX5Y="
   },
   "prsinfo": {
     "version": "0.0.1",
@@ -60161,13 +60161,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "tt_address": {
-    "version": "8.0.2",
+    "version": "8.0.3",
     "t3_versions": [
       11,
       12
     ],
     "description": "Displays a list of addresses from an address table on the page.",
-    "hash": "sha256-flSenZ2LFPXDvR7uKHJJdV54Js34CMqKUVaQz2fcd1w="
+    "hash": "sha256-nkDez4GSjszEGbR8J1juvFz13ES48hU9g1cjdBTKlt0="
   },
   "tt_board": {
     "version": "1.14.0",
