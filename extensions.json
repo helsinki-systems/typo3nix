@@ -1539,14 +1539,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ai_seo_helper": {
-    "version": "0.6.0",
+    "version": "0.6.1",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Generates SEO metadata based on content using AI. Currently several metadata for pages and articles of EXT:news can be generated using an additional button next to the corresponding input fields.",
-    "hash": "sha256-YRT/3l/Ncbk0TyShJjW9uJQjAdd8rYzNaQkyW+hH4ug="
+    "hash": "sha256-RlKCVJ6snvVq4eHdYAre57pqWh7wbNglRfgOkDgD2WM="
   },
   "ai_tools": {
     "version": "0.0.1",
@@ -17312,13 +17312,12 @@
     "hash": "sha256-jQuZh0RqppRCH6KZb5G73jGVsG1mzdyhq57WTAN82lQ="
   },
   "events2": {
-    "version": "8.3.2",
+    "version": "9.0.1",
     "t3_versions": [
-      10,
-      11
+      12
     ],
     "description": "Create single and recurring events",
-    "hash": "sha256-xRMgJeJtHydYXJAvvUqlJZDpXpVYbJdWjTFnosJdmFs="
+    "hash": "sha256-b19NDrIW+PfRa+y9WUX3q0TtFBvPxRj8aL3Y8ZlhyM8="
   },
   "evgallery": {
     "version": "2.9.0",
@@ -21945,12 +21944,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "generic_gallery": {
-    "version": "6.0.1",
+    "version": "6.0.2",
     "t3_versions": [
       12
     ],
     "description": "One gallery to rule them all. Extbase & Fluid driven for use with any gallery / slide / rotate plugin.",
-    "hash": "sha256-WFLdC6D0sTmUrZexVY7MEv1t5L64P8F1nGamwTTjJDY="
+    "hash": "sha256-0MePC4gymyGqqxd4lBgdUFri9z/DTbtNfKgSCZhjNGg="
   },
   "geo_location": {
     "version": "1.6.6",
@@ -33368,12 +33367,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "meilisearch": {
-    "version": "0.3.2",
+    "version": "0.4.0",
     "t3_versions": [
       12
     ],
     "description": "This extension integrates \"meilisearch\" into your TYPO3.",
-    "hash": "sha256-SJK27hF88+Lgv0WfOGpHEexBABmd5f2nfiDFGkw0ZeI="
+    "hash": "sha256-jIAgxzZotroPrLpeyR7ZVKCcP5x+TgrBuFc5K0j2Bx0="
   },
   "meinpraktikum_widget": {
     "version": "1.0.1",
@@ -47342,6 +47341,14 @@
     "description": "Supports full options of Google Analytics with new ga.js (within Domains, FilesLinks, External URLs e.g.)",
     "hash": "sha256-V5TgHbs79GOA0qTZnrcqekpJ5nvwvyBed+Wykf0ef20="
   },
+  "rsmbouncemailprocessor": {
+    "version": "2.1.0",
+    "t3_versions": [
+      11
+    ],
+    "description": "A RSM TYPO3 extension for bounce mail procsessing",
+    "hash": "sha256-a14sJyQlNgoGA0pTYVNYSibB/91O0X0bWsPUgkGI+C0="
+  },
   "rsmoembed": {
     "version": "1.0.2",
     "t3_versions": [
@@ -49554,12 +49561,12 @@
     "hash": "sha256-YkZKrMTUerUy8yJmBkOYHP9WIEzgaGqMZkNqGeA4VIY="
   },
   "sf_event_mgt": {
-    "version": "7.3.3",
+    "version": "7.4.0",
     "t3_versions": [
       12
     ],
     "description": "Configurable event management and registration extension based on ExtBase and Fluid",
-    "hash": "sha256-wAXFj4ZUnlAmrCtO29xjXiLPYP7ytUfDuNyvKTQl0HA="
+    "hash": "sha256-Ob+e0YNB+Qzigt3fuMQrOjI0kCMIpIoeLkNQrvCTarg="
   },
   "sf_event_mgt_contentelements": {
     "version": "2.0.1",
@@ -54103,13 +54110,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "staticfilecache": {
-    "version": "13.1.3",
+    "version": "14.0.1",
     "t3_versions": [
-      11,
       12
     ],
     "description": "Transparent static file cache solution using mod_rewrite and mod_expires. Increase performance for static pages by a factor of 230!!",
-    "hash": "sha256-coQxnjGZ0esnz3jeNdSY07wYdjWb6vqgGAMhaWZirgQ="
+    "hash": "sha256-ktXp6SslWvwZfcGh2t6NyEM+uizyMB14FFsBc7v4vv8="
   },
   "staticpathrouteresolver": {
     "version": "1.3.0",
