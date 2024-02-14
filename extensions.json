@@ -9071,12 +9071,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "codehighlight": {
-    "version": "3.1.1",
+    "version": "4.0.0",
     "t3_versions": [
-      11
+      12
     ],
     "description": "Code highlighter for various programming, markup and configuration languages based on PrismJS",
-    "hash": "sha256-yVAJCnON72bF6xi0OYdvMDSCvmGdxU9rd9ZSIXmooG4="
+    "hash": "sha256-whnsEcaXFQsw/fkYlqGGz+Q1X637oTNiWma92xBDOjk="
   },
   "codersquad_libs": {
     "version": "1.0.1",
@@ -9697,14 +9697,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "container": {
-    "version": "2.3.3",
+    "version": "2.3.5",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Create Custom Container Content Elements for TYPO3",
-    "hash": "sha256-hi6pH7Djcn5+f+LdlD/wE2pJkBmx6wE9H0/Sg2rVo1o="
+    "hash": "sha256-vE2rWf4Q5p60ofEaJ7XF17cRoLXSc4L+FjDXjgm8riE="
   },
   "container_elements": {
     "version": "5.1.0",
@@ -17312,12 +17312,12 @@
     "hash": "sha256-jQuZh0RqppRCH6KZb5G73jGVsG1mzdyhq57WTAN82lQ="
   },
   "events2": {
-    "version": "9.0.1",
+    "version": "9.0.3",
     "t3_versions": [
       12
     ],
     "description": "Create single and recurring events",
-    "hash": "sha256-b19NDrIW+PfRa+y9WUX3q0TtFBvPxRj8aL3Y8ZlhyM8="
+    "hash": "sha256-qAxetN2cDo7/VUgiYJ6A43hu2ZLj/CiQWPesJVpWiNQ="
   },
   "evgallery": {
     "version": "2.9.0",
@@ -21221,13 +21221,13 @@
     "hash": "sha256-dYmm8TB/6q4XJxMsiMXSZqDq1t2KiDtpt027I7hf3Tk="
   },
   "fp_newsletter": {
-    "version": "6.3.1",
+    "version": "6.4.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "Plugin for newsletter subscription and unsubscription with double opt in (and double opt out). For: mail or luxletter / tt_address or fe_users. A log is written.",
-    "hash": "sha256-FPgYWJenYK861ZUNY/DQbhvjsg3cpdhw9Ak6X4AG8IQ="
+    "hash": "sha256-m05u0mmjBHB8jFIl1eAoubFC3jOezEkWo5d0ewBtzKI="
   },
   "fp_product_features": {
     "version": "0.2.0",
@@ -33367,12 +33367,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "meilisearch": {
-    "version": "0.4.0",
+    "version": "0.4.1",
     "t3_versions": [
       12
     ],
     "description": "This extension integrates \"meilisearch\" into your TYPO3.",
-    "hash": "sha256-jIAgxzZotroPrLpeyR7ZVKCcP5x+TgrBuFc5K0j2Bx0="
+    "hash": "sha256-+nnY3zs56+9z/AFTFwW5JcyJC5b/Y6zfEMHZuEJZJbY="
   },
   "meinpraktikum_widget": {
     "version": "1.0.1",
@@ -35224,13 +35224,13 @@
     "hash": "sha256-QBq7RgOtpBz21jSQfzIxEurNCmBZlHvZXZt3wzoyyMw="
   },
   "modules": {
-    "version": "6.2.3",
+    "version": "6.2.4",
     "t3_versions": [
       11,
       12
     ],
     "description": "Modules - Little helper for creating frontend and backend modules in TYPO3",
-    "hash": "sha256-SRL59o1RkZUenxmiu/aGm9F/X/DAxQBeReK85kKkXCM="
+    "hash": "sha256-8EC5e8pEH7QPKpjgZ+PKLmRdXwnRZ6v95sNV/hk1cKY="
   },
   "modulis_animated_gif": {
     "version": "0.0.4",
@@ -39121,12 +39121,12 @@
     "hash": "sha256-DSVYVOyfTNbpZqnbsFA6VVfQgOeCL3864aaWXJ+UHyA="
   },
   "ns_helpdesk": {
-    "version": "12.0.1",
+    "version": "12.0.2",
     "t3_versions": [
       12
     ],
     "description": "An all-in-one TYPO3 Help Desk extension that helps you balance everything your customers need to be happy. Demo: https://demo.t3planet.com/t3t-extensions/helpdesk You can download PRO version for more-features & free-support at https://t3planet.com/ns-helpdesk-typo3-extension",
-    "hash": "sha256-g1MhE6hI9zLyydoDom0J12XLwFBxd82WMHgYA6d5RTg="
+    "hash": "sha256-/Ky5IByX09ead4ZL/3wMbMFU1DA/l2SdKcpizJQXUaQ="
   },
   "ns_instagram": {
     "version": "3.0.4",
