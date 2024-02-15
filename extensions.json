@@ -7942,12 +7942,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cf_cookiemanager": {
-    "version": "1.5.0",
+    "version": "1.5.1",
     "t3_versions": [
       12
     ],
     "description": "Unlock the full potential of your Typo3 website with CodingFreaks Typo3 Cookie Manager. Effortlessly manage and customize your website's services, cookies and scripts with our comprehensive extension. Streamline your workflow, enhance user experience, and ensure GDPR compliance with this powerful tool. Take control of your cookie management today and unleash the true potential of your Typo3 installation.",
-    "hash": "sha256-D2Zp7X+poZqTj++8LlWdHqjU6Tlac7hOxKyouvLadoE="
+    "hash": "sha256-jwyNnY7vm0C1bX84dWuF5nk8YSrJsVy3RJeV/FejO8A="
   },
   "cf_google_authenticator": {
     "version": "1.2.4",
@@ -20021,13 +20021,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fluid_form": {
-    "version": "4.0.8",
+    "version": "4.0.10",
     "t3_versions": [
       11,
       12
     ],
     "description": "Forms configured only by TypoScript",
-    "hash": "sha256-OBbU2gxEKWTjbYfjgaqDUnrlaInFyo+7IQET1H4/WKk="
+    "hash": "sha256-1Coxqq/zLXcWazE2S+m0lm7NbYSC3ukywqlN6lGkHYk="
   },
   "fluid_form_elements": {
     "version": "1.0.0",
@@ -43743,12 +43743,12 @@
     "hash": "sha256-pmF02elaEIPa0hT7bj7fWRcPMiuXx70XLwBheXPHgcU="
   },
   "powermail_cond": {
-    "version": "11.1.0",
+    "version": "11.2.2",
     "t3_versions": [
       12
     ],
     "description": "Add conditions (via AJAX) to powermail forms for fields and pages",
-    "hash": "sha256-ifVuBVzWBcAUcM+in71bXJAt9DS2oO2ek7O7PRHnLBc="
+    "hash": "sha256-bqsh+zXty2FQAlfzjT+U8N2IlvY6oyqKqlG5+odOXAs="
   },
   "powermail_cond_jquery": {
     "version": "1.0.1",
@@ -43793,12 +43793,12 @@
     "hash": "sha256-Q06KDDhk5rbeYaX09KwVBnonhBfUIUl7GbCsUaEYnmA="
   },
   "powermail_limits": {
-    "version": "1.0.2",
+    "version": "1.0.3",
     "t3_versions": [
       11
     ],
     "description": "Addition to EXT:powermail which allows limits for form submissions",
-    "hash": "sha256-sXnuI3SO1SXRmEK1xkQPzTSV2Al7O1yHV0HVQ58VEGk="
+    "hash": "sha256-KuNlwkhJN8l6W6b8+cyQKELY6FB1YAZuFnDxZw/j8GU="
   },
   "powermail_mul": {
     "version": "1.0.3",
@@ -49183,12 +49183,13 @@
     "hash": "sha256-8YbH1CRbhIk0HE8b1VdvzXneUHBoa/t5NJTXgb23KfA="
   },
   "secure_filemount": {
-    "version": "1.0.1",
+    "version": "1.1.1",
     "t3_versions": [
-      11
+      11,
+      12
     ],
     "description": "Allows a secure (non public) filemount for accessing only through logged in fe_user",
-    "hash": "sha256-EOHaxwwBZ+jEEDuiElBK5/Vxnlzh0plzkGA+BcIyQa0="
+    "hash": "sha256-5z+RHBBZoLznGID3srywoRclVfLbR68Dl+6L+XCUEak="
   },
   "secure_login": {
     "version": "1.0.0",
@@ -59106,13 +59107,14 @@
     "hash": "sha256-uvLYZfQ0gOjezTT5s5DhCWTw1AGV4eo1o3w7LxbTjWQ="
   },
   "tobserver": {
-    "version": "3.1.0",
+    "version": "3.1.1",
     "t3_versions": [
       10,
-      11
+      11,
+      12
     ],
     "description": "Extension to send TYPO3 instance data to tObserver Monitoring Service",
-    "hash": "sha256-VgjERA3XSpwnr2EFBI+gLhd8P6VcRMCtlvLmDqkcQgU="
+    "hash": "sha256-yPrudg74UsgXw6mPrfg/KOlpKKi1+XZA2+SxgbnTH5U="
   },
   "toc": {
     "version": "0.9.0",
@@ -60221,13 +60223,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "tt_products": {
-    "version": "2.15.0",
+    "version": "2.15.1",
     "t3_versions": [
-      10,
-      11
+      11,
+      12
     ],
     "description": "Advanced versions at ttproducts.de. Documented in the E-Book \"Der TYPO3-Webshop\" - Shop with listing in multiple languages, with order tracking, product variants, support for transactor extension, bill, creditpoint and voucher system.",
-    "hash": "sha256-Hx83VQNxOOupzlRgDo3vt2BCNmGFkngWMjxxN9gwKRA="
+    "hash": "sha256-53QZ8Ol8b6GJyuNFfeyGnBb3YfjprvTtA7vbVc/0EOY="
   },
   "tt_products_foundby": {
     "version": "0.1.4",
@@ -63962,12 +63964,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ws_scss": {
-    "version": "12.0.3",
+    "version": "12.0.4",
     "t3_versions": [
       12
     ],
     "description": "Compiles scss files to CSS files.",
-    "hash": "sha256-39bHwM8TwixL8G5qQowfwQCXr+L1+Ua+1Y1lD8Om58I="
+    "hash": "sha256-+4/ymYTYk2/wZSM/ziW15lJLS9LYPL7+xOsGqSyrjmE="
   },
   "ws_sitemap": {
     "version": "0.4.8",
