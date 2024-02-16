@@ -13107,13 +13107,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "debug_mysql_db": {
-    "version": "1.6.0",
+    "version": "1.7.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Extends \\TYPO3\\CMS\\Core\\Database\\DatabaseConnection and \\TYPO3\\CMS\\Core\\Database\\Connection to show Errors and Debug-Messages. Debugging of sql-queries by debug and FileWriter.",
-    "hash": "sha256-PmBsSiTomJozLUnxU5Son81xHdd4XKHjQwK5hlOiPi4="
+    "hash": "sha256-AIc9iU1mMq8bh5V+mZ0DPvfJNVTe8sdsZ3TQ61MizV8="
   },
   "debug_settings_task": {
     "version": "2.2.1",
@@ -19231,14 +19231,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fh_debug": {
-    "version": "0.17.0",
+    "version": "0.17.1",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "This generates a PHP debug output file. FileWriter into debug",
-    "hash": "sha256-ydTZivIeQLv8GprIEyR4h/frVV8HH5xDyCMaznqEAaE="
+    "hash": "sha256-1cf+1MBumKcGnP+OkIpYdp3Jh81Xt+cmO4Q4ntM+BT0="
   },
   "fh_library": {
     "version": "0.0.20",
@@ -23526,12 +23526,12 @@
     "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
   },
   "hd_structureddata": {
-    "version": "0.2.0",
+    "version": "0.3.0",
     "t3_versions": [
       12
     ],
     "description": "Extension for adding structured JSON-LD into page headers",
-    "hash": "sha256-MFMkVUiukBpiBkvfNJzmrAEqXKqWBmPkfb5vbWrqTjQ="
+    "hash": "sha256-pAQWjBvlgW8/O765jCMOosNc8oZvt8IlAKY+RxzWSGo="
   },
   "hd_translator": {
     "version": "1.0.9",
@@ -29536,12 +29536,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "km_news_extension": {
-    "version": "0.1.0",
+    "version": "1.0.0",
     "t3_versions": [
-      9
+      9,
+      10
     ],
-    "description": "This extension extends news by e.g. adding tt_address contacts.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "description": "Extends news records by e.g. adding tt_address contacts.",
+    "hash": "sha256-BD8u1soxLuI17TDajYpvXWUqmwcodyp/iPGLKvzcUn8="
   },
   "km_timeline": {
     "version": "0.3.1",
@@ -29553,13 +29554,13 @@
     "hash": "sha256-rjZNG2rxmKW5NAY1LvbDOqGBa4L/bM7hh9Pfyu7K/xg="
   },
   "km_ttaddress_extension": {
-    "version": "4.2.0",
+    "version": "6.0.0",
     "t3_versions": [
-      8,
-      9
+      10,
+      11
     ],
-    "description": "This extension extends tt_address by adding fields like department, qualifications and vita.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "description": "Extends EXT:tt_address by adding fields like department, qualifications and vita.",
+    "hash": "sha256-AjP8KKtfYBu+98sTd5LbBYyr4T2ewW9FcSr46QpIRPg="
   },
   "km_ttnews_extension": {
     "version": "2.0.1",
@@ -31521,13 +31522,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "lux": {
-    "version": "34.3.0",
+    "version": "34.3.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Living User Experience - LUX - the Marketing Automation tool for TYPO3.",
-    "hash": "sha256-rxygD5FfTihqK0637G7KGpQ+X2PzQfz6jKAd8WEeE5A="
+    "hash": "sha256-l/kWdLZfvF1s7fXJTtDJuUOLTwsQUtV30r65vIB0oZU="
   },
   "luxletter": {
     "version": "25.0.1",
@@ -48891,13 +48892,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "schema": {
-    "version": "3.3.0",
+    "version": "3.4.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "API and view helpers for schema.org markup",
-    "hash": "sha256-hUSiboknzdIkvQP3he3kzL2dXNii3KLK7atwpdUHknk="
+    "hash": "sha256-Y108PQnJrHNiXAIZhxVamtx5Jo+u2v1hSJQ2tjNboEs="
   },
   "schema_auto": {
     "version": "2.1.0",
@@ -48945,13 +48946,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "schema_pending": {
-    "version": "2.2.1",
+    "version": "2.3.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Extend the schema extension with pending terms",
-    "hash": "sha256-pnz3dw0rGGB0V+ptcxApUwkMxnde4YA1eVN3cDJbz6g="
+    "hash": "sha256-JJ9RK1/4/QXNhr3aEhoVfCJfZY334pqyVc3ZGUHhbZ8="
   },
   "schema_virtuallocation": {
     "version": "2.1.0",
@@ -49821,7 +49822,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sg_cookie_optin": {
-    "version": "5.3.11",
+    "version": "5.3.12",
     "t3_versions": [
       9,
       10,
@@ -49829,7 +49830,7 @@
       12
     ],
     "description": "",
-    "hash": "sha256-XqYFeyvvfG3/r1ChDEoXDOygx1nWDb498iTDyqH7N/Q="
+    "hash": "sha256-3MAD7VRbjMXlEaIN+5L/286/iVBYSJlKklyQeX9z0hM="
   },
   "sg_cropscale": {
     "version": "0.5.0",
@@ -50392,12 +50393,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sic_address": {
-    "version": "5.0.0",
+    "version": "5.0.1",
     "t3_versions": [
       12
     ],
     "description": "Address Extension that can either enhance or replace tt_address. You can add required fields dynamically like mask/powermail. Originally it was written in 2016 to replace extensions like nicos_directory, wt_directory or sp_directory and grew from there.",
-    "hash": "sha256-jMMIsgfpG1NNUcdSZ2owxIUfKJiGgUYu9sXFm6jJ1UU="
+    "hash": "sha256-Rw6kp5XoKNhdIO07fT8qqJ8XNgm5nwec0AE3VHkwaEM="
   },
   "sici_core": {
     "version": "2.0.0",
@@ -52690,13 +52691,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "solver": {
-    "version": "0.2.8",
+    "version": "0.2.9",
     "t3_versions": [
       11,
       12
     ],
     "description": "Extends TYPO3's exception handling with AI generated solutions. Problems can also be solved from command line. Several OpenAI parameters are configurable and prompts and solution providers can be customized as desired.",
-    "hash": "sha256-6TZQ6F5wWn0XsH/GtbfkWQB5YbWSgUFeysI4sgHAwg0="
+    "hash": "sha256-7shFjL0K5SyHIzfILVnu45y2rqmaULwcEJzrQBpYBbc="
   },
   "sorp": {
     "version": "0.1.0",
@@ -53775,31 +53776,31 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "static_info_tables_da": {
-    "version": "11.5.1",
+    "version": "11.5.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "Danish (da) language pack for the Static Info Tables providing localized names for countries, currencies and so on.",
-    "hash": "sha256-LV8iWVqf5MzV6fAQzyQ0RjOPGY2P5GcZAhHl9uGHMvs="
+    "hash": "sha256-IDTzB/ew4GpWmJ3unrgr6r9E8Mipc1WPQEOl9kFv2LA="
   },
   "static_info_tables_de": {
-    "version": "11.5.2",
+    "version": "11.5.3",
     "t3_versions": [
       11,
       12
     ],
     "description": "German (de) language pack for the Static Info Tables providing localized names for countries, currencies and so on.",
-    "hash": "sha256-72H/euX45XT5gCpPJElcF6YYaqPxnItZ3pNJwoynKHM="
+    "hash": "sha256-bH7koT4DKd6ZpH7ImFkC8jebgtn/O7PUWcznJXooQ6g="
   },
   "static_info_tables_es": {
-    "version": "11.5.2",
+    "version": "11.5.3",
     "t3_versions": [
       11,
       12
     ],
     "description": "Spanish (es) language pack for the Static Info Tables providing localized names for countries, currencies and so on.",
-    "hash": "sha256-Q8clpn7adc933rz62QFLymVMN0j80K7a385o7a77qJk="
+    "hash": "sha256-bCgV4/xSEoj2e9xKkosEN0I+qgsCAhEarkcfxPCtk7g="
   },
   "static_info_tables_extbase": {
     "version": "1.2.0",
@@ -53889,13 +53890,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "static_info_tables_it": {
-    "version": "11.5.1",
+    "version": "11.5.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "Italian (it) language pack for the Static Info Tables providing localized names for countries, currencies and so on.",
-    "hash": "sha256-BBkHqeLKRQCkuviRIWXQNfAxuwueWfxjxx7uP/K2A7U="
+    "hash": "sha256-uL5YEHXd75yeLI0gZDm6TeyboFuXtjPxUwQ8/jqyq2M="
   },
   "static_info_tables_it_621": {
     "version": "6.2.1",
@@ -55964,12 +55965,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "t3sbootstrap": {
-    "version": "5.3.4",
+    "version": "5.3.5",
     "t3_versions": [
       12
     ],
     "description": "Startup extension to use bootstrap 5 classes, components and more out of the box. Example and info: www.t3sbootstrap.de",
-    "hash": "sha256-H9nBr7jC1EbDrmkQiX0kRjtGsEF1ne4+9Xcugk/dyCk="
+    "hash": "sha256-daXyTAMAuVuaz7c00k/aA1pOknFbQdaQbewZrf1/lYg="
   },
   "t3sbootstrap_grid": {
     "version": "3.0.0",
@@ -56519,14 +56520,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "table": {
-    "version": "0.13.1",
+    "version": "0.13.2",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "This contains a base class which you can use to make your extensions independant from any specific table. And it can be used to make multiple language support with a separate language overlay table or by a CSV file.",
-    "hash": "sha256-UPRYz0caNIUQDueBnPGAT5u2nQkzM/KaeM+7gRJx7to="
+    "hash": "sha256-ZHsRkt1xl3ByMHyt+qJ6E4QNWAtqi1gWP/cTY87s154="
   },
   "tablecleaner": {
     "version": "2.5.0",
@@ -60223,13 +60224,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "tt_products": {
-    "version": "2.15.1",
+    "version": "2.15.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "Advanced versions at ttproducts.de. Documented in the E-Book \"Der TYPO3-Webshop\" - Shop with listing in multiple languages, with order tracking, product variants, support for transactor extension, bill, creditpoint and voucher system.",
-    "hash": "sha256-53QZ8Ol8b6GJyuNFfeyGnBb3YfjprvTtA7vbVc/0EOY="
+    "hash": "sha256-/WLUlz4dUqIOxxWvXOBInKTE68Nm5knVgbCzSV47q0U="
   },
   "tt_products_foundby": {
     "version": "0.1.4",
