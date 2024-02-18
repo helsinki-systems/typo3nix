@@ -20767,12 +20767,12 @@
     "hash": "sha256-0rJPLOar5QMqShjm+O0UsdQ8jBEG7z6JTX/rTw5fxT0="
   },
   "form_extended": {
-    "version": "11.0.7",
+    "version": "11.0.8",
     "t3_versions": [
       11
     ],
-    "description": "",
-    "hash": "sha256-VL8Jy3Z5tZJ6LpHSW0goMuxAzYcs3q0E6tgwQ5yVMAs="
+    "description": "Multi upload field, double opt in method and other",
+    "hash": "sha256-bPKKJqX2Qj1a18Z3YOfFff77SrZmrYmkbiUpIyHMWh0="
   },
   "form_extension_tut": {
     "version": "0.0.1",
@@ -44287,12 +44287,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "proxy": {
-    "version": "11.0.0",
+    "version": "12.0.0",
     "t3_versions": [
-      11
+      12
     ],
     "description": "Proxy extension for embedding external HTML sources",
-    "hash": "sha256-kQbi3oET4T0YBdxaBrd3vntRaNyPP1v1koDhDeY584E="
+    "hash": "sha256-08KP0GMv5EED2lskpjCL9AiJEJmI94kpKIAj60tjjvE="
   },
   "proxycachemanager": {
     "version": "4.0.0",
@@ -56585,6 +56585,14 @@
     "description": "Complex but easy to use tag system with extbase / fluid base and different output possibilities",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "tagging": {
+    "version": "12.0.0",
+    "t3_versions": [
+      12
+    ],
+    "description": "A patch for TYPO3 to easily add tags just like categories to any element",
+    "hash": "sha256-PJp1M+Xlw3hVA1lfpVsToeeRgfMqvvX0DCPw7e912Pk="
+  },
   "tagpack": {
     "version": "0.12.2",
     "t3_versions": [],
@@ -63877,6 +63885,14 @@
     "description": "",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "ws_bulletinboard": {
+    "version": "11.0.0",
+    "t3_versions": [
+      11
+    ],
+    "description": "Bulletinboard Extension",
+    "hash": "sha256-NDw+vnS14/iJjeOIypJsqrz8gwBxGxRu+Cfb85mJgaQ="
+  },
   "ws_contentpagebrowser": {
     "version": "0.3.0",
     "t3_versions": [
@@ -64622,13 +64638,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "xblog": {
-    "version": "11.2.6",
+    "version": "11.2.8",
     "t3_versions": [
       10,
       11
     ],
     "description": "Quickly assemble a TYPO3 frontend! Publish the data from the tables pages, tt_content and from any other database! No need to set up typoscript.",
-    "hash": "sha256-MENybwANQEItYutMZ4K6h2DYWqWFhc6477w8fjuI1Uo="
+    "hash": "sha256-aPiFdXXxAKEdkWTCnazxF4q3wj+6dXdwswIikUQFp3I="
   },
   "xdbmysql": {
     "version": "3.0.18",
