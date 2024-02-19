@@ -15376,13 +15376,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "dpn_glossary": {
-    "version": "5.2.1",
+    "version": "5.2.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "Glossary extension with page parser",
-    "hash": "sha256-NWxLSmiM74sRKJuxOFicBbLjoN258hDEtHJEZhnS+Ho="
+    "hash": "sha256-+VS7LE9uczQbQsdx8gN/0mNwQ85058ToTZf5MPHysOI="
   },
   "dr_blob": {
     "version": "2.3.2",
@@ -17312,12 +17312,12 @@
     "hash": "sha256-jQuZh0RqppRCH6KZb5G73jGVsG1mzdyhq57WTAN82lQ="
   },
   "events2": {
-    "version": "9.0.3",
+    "version": "9.0.4",
     "t3_versions": [
       12
     ],
     "description": "Create single and recurring events",
-    "hash": "sha256-qAxetN2cDo7/VUgiYJ6A43hu2ZLj/CiQWPesJVpWiNQ="
+    "hash": "sha256-R40LrXGetJ+2zwUhG8LFqV/Hctmq14hewOeXKlQF4NU="
   },
   "evgallery": {
     "version": "2.9.0",
@@ -17870,13 +17870,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "external_import": {
-    "version": "7.2.2",
+    "version": "7.2.3",
     "t3_versions": [
       11,
       12
     ],
     "description": "Tool for importing data from external sources into the TYPO3 CMS database, using an extended TCA syntax. Provides a BE module, a Scheduler task, a command-line tool and an API.",
-    "hash": "sha256-cE+xov8AGJ483RcwJoXChbUVgKbVDlRQkQkoNCvIEyc="
+    "hash": "sha256-SsXt1z0LyrWV9I+Il3C29A8VYCXnH8SHW3+CYpkvDuY="
   },
   "external_import_tt_products": {
     "version": "0.0.1",
@@ -20021,13 +20021,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fluid_form": {
-    "version": "4.0.10",
+    "version": "4.0.11",
     "t3_versions": [
       11,
       12
     ],
     "description": "Forms configured only by TypoScript",
-    "hash": "sha256-1Coxqq/zLXcWazE2S+m0lm7NbYSC3ukywqlN6lGkHYk="
+    "hash": "sha256-BS0ZyFVayO5K/V/evpIXuWPVb+dYTnwmuAMcGNLM/rM="
   },
   "fluid_form_elements": {
     "version": "1.0.0",
@@ -21890,22 +21890,22 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "gdpr_extensions_com_vimeo": {
-    "version": "1.0.5",
+    "version": "1.0.6",
     "t3_versions": [
       11,
       12
     ],
     "description": "The GDPR Vimeo 2 Click Solution, brought to you by GDPR-Extensions.com, is a feature-rich solution designed to empower website owners in effectively managing Vimeo videos and bolstering user privacy.",
-    "hash": "sha256-v6vG34d9BSQ3uoOMVNpJfZpGE8FLgAOT2BXqJ+i5rk0="
+    "hash": "sha256-XGPgqz7quAlk0mL5tCHiDqHQoGmZwvddtEeC1mwozIU="
   },
   "gdpr_extensions_com_youtube": {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "The GDPR Youtube 2 Click Solution, brought to you by GDPR-Extensions.com, is a feature-rich solution designed to empower website owners in effectively managing Youtube videos and bolstering user privacy.",
-    "hash": "sha256-Npwcgo6yEXHFL0kDyJV3WFDlUuteUBUxLAi+papRh0U="
+    "hash": "sha256-OzJ4IIGvLGxdNlN6wf+kpw97FId5jBOIYUF8bpwPtqs="
   },
   "gdpr_youtube": {
     "version": "1.0.0",
@@ -23084,12 +23084,12 @@
     "hash": "sha256-y9zO+nFdrUc3TeKd1lMXNl8WCGJRWzGZ5Og7Sh0ABZA="
   },
   "gridtocontainer": {
-    "version": "12.0.8",
+    "version": "12.0.9",
     "t3_versions": [
       12
     ],
     "description": "EXT:gridtocontainer is a small migration extension with backend module for those who want to switch from EXT:gridelements to EXT:container.",
-    "hash": "sha256-eBWFHmFkQcU6r2NMzw5WbYU75QdCAI/UbBarcI3ToM4="
+    "hash": "sha256-0PbXygZJYMLZszfUHtQmYuhiPSxxS6wYyos60Lg5Fnk="
   },
   "group_mngr": {
     "version": "0.1.0",
@@ -29536,13 +29536,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "km_news_extension": {
-    "version": "1.0.0",
+    "version": "2.0.0",
     "t3_versions": [
-      9,
-      10
+      10,
+      11
     ],
-    "description": "Extends news records by e.g. adding tt_address contacts.",
-    "hash": "sha256-BD8u1soxLuI17TDajYpvXWUqmwcodyp/iPGLKvzcUn8="
+    "description": "Extends EXT:news records by e.g. adding EXT:tt_address contacts.",
+    "hash": "sha256-o3Lw2EwwZh671y/VDpAtLKvbJkNvnE14lJz0OjzRDe4="
   },
   "km_timeline": {
     "version": "0.3.1",
@@ -29554,13 +29554,13 @@
     "hash": "sha256-rjZNG2rxmKW5NAY1LvbDOqGBa4L/bM7hh9Pfyu7K/xg="
   },
   "km_ttaddress_extension": {
-    "version": "6.0.0",
+    "version": "6.0.1",
     "t3_versions": [
       10,
       11
     ],
     "description": "Extends EXT:tt_address by adding fields like department, qualifications and vita.",
-    "hash": "sha256-AjP8KKtfYBu+98sTd5LbBYyr4T2ewW9FcSr46QpIRPg="
+    "hash": "sha256-cXksHegrcmX5CSlBHpVVMoRI41iBqGP/enOGd02iCeA="
   },
   "km_ttnews_extension": {
     "version": "2.0.1",
@@ -32608,13 +32608,12 @@
     "hash": "sha256-3mfOryBvxeFvY933oZWBVj/bmIpFQGdypv046cKB9QA="
   },
   "matomo_widgets": {
-    "version": "2.4.0",
+    "version": "3.0.0",
     "t3_versions": [
-      11,
       12
     ],
     "description": "Dashboard widgets with Matomo reports",
-    "hash": "sha256-pZaJ4Tygj663GXQJFPFEqVFoax8c9hybzlb9kGTDMiI="
+    "hash": "sha256-+9xr1LUYeH7LxZaAEgfVveaQfJar2WzjczhawYD/D1A="
   },
   "matomoapi": {
     "version": "1.0.1",
@@ -38176,13 +38175,13 @@
     "hash": "sha256-iuwtcMlSZTq4RbmiMlt+NiK26Zv9Vy251CVMFYV21VA="
   },
   "newsstylist": {
-    "version": "5.0.1",
+    "version": "5.0.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "all in one: one-touch settings within news plugin - fast & cool way to change the output of news, List view 5 layouts (default, card, carousel, newsletter) and swiper slider with some effects",
-    "hash": "sha256-zhIEz0Cw/9TtpbuY8Qfp4QwmJmEd3zVfR2pBcW06yO8="
+    "hash": "sha256-m85mWQzZ4SsSYAC83MB7pdSbxFZ72lGLBWhpZsj9k+Y="
   },
   "newssubmit": {
     "version": "1.0.0",
@@ -55072,14 +55071,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "t3_cowriter": {
-    "version": "1.2.1",
+    "version": "1.2.5",
     "t3_versions": [
       9,
       10,
       11
     ],
     "description": "With the help of ai you can now work on a page together with a cowriter - a digital assistant that helps you to write your content.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-BWExMOInTsQFfhn1qVgtt4HI8sPqsqtJzbne9JguxGY="
   },
   "t3_fpdi": {
     "version": "0.0.1",
@@ -65378,12 +65377,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "z7_blog": {
-    "version": "1.4.0",
+    "version": "1.4.1",
     "t3_versions": [
       12
     ],
     "description": "Another blog-system for TYPO3",
-    "hash": "sha256-x/AsJfeva6L0XycEjU34dzUmqRV9gaylpWa4eO0gX+g="
+    "hash": "sha256-nJLIE+ZOw7SuNWGBRh/lLwQR2vpry3LfEx1U8DBD8eo="
   },
   "z7_blog_comments": {
     "version": "1.1.1",
