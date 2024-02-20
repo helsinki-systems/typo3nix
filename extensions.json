@@ -1926,12 +1926,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "allinoneaccessibility": {
-    "version": "2.0.6",
+    "version": "2.0.7",
     "t3_versions": [
       12
     ],
     "description": "All in One Accessibility widget improves Typo3 website ADA compliance and browser experience for ADA, WCAG 2.1 & 2.2, Section 508, Australian DDA, European EAA EN 301 549, UK Equality Act (EA), Israeli Standard 5568, California Unruh, Ontario AODA, Canada ACA, German BITV, France RGAA, Brazilian Inclusion Law (LBI 13.146/2015), Spain UNE 139803:2012, JIS X 8341 (Japan), Italian Stanca Act and Switzerland DDA Standards.",
-    "hash": "sha256-IrP4LVWKDYuni/Wx/E4m/m59px6MutM0OCniZqXBhww="
+    "hash": "sha256-B3L++NRsm8NwbR53Ja2BZUQ+nYgSaS7t8MSX2sEwvBQ="
   },
   "allnews": {
     "version": "0.2.6",
@@ -20021,13 +20021,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fluid_form": {
-    "version": "4.0.11",
+    "version": "4.0.12",
     "t3_versions": [
       11,
       12
     ],
     "description": "Forms configured only by TypoScript",
-    "hash": "sha256-BS0ZyFVayO5K/V/evpIXuWPVb+dYTnwmuAMcGNLM/rM="
+    "hash": "sha256-5uyOdTa8EkzevcVo/109byzNVyn7txhwD+9Bdh+T750="
   },
   "fluid_form_elements": {
     "version": "1.0.0",
@@ -26901,13 +26901,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "jar_assets": {
-    "version": "1.0.8",
+    "version": "2.0.3",
     "t3_versions": [
-      10,
-      11
+      12
     ],
     "description": "Includes all CSS and JavaScript files of a folder.",
-    "hash": "sha256-zjxSmtRsoUsUGzug/LFPj+tUQSz0o9j1lbwqoxOvSeE="
+    "hash": "sha256-kNZgnqy5dM8SzC4ilOl9DgHvwcNeiEAb/KXfh4cGUqg="
   },
   "jar_columnrow": {
     "version": "1.0.21",
@@ -26919,22 +26918,20 @@
     "hash": "sha256-r+FpRvr8NPgcc3RK3ETgfRi36BSYXPplCrYus/4kjV4="
   },
   "jar_dataflow": {
-    "version": "1.0.21",
+    "version": "2.0.0",
     "t3_versions": [
-      10,
-      11
+      12
     ],
     "description": "Extends content elements with a query builder to output data from arbitrary list elements",
-    "hash": "sha256-SbLgW1JuPND1TV45sxU/l7PEwfWu7cq5WxJqYmXRhQQ="
+    "hash": "sha256-2VuhN9VzHNelkqwQoivznbVrgSSHmOBkGzNOYCBXrck="
   },
   "jar_pretty_preview": {
-    "version": "1.0.17",
+    "version": "2.0.0",
     "t3_versions": [
-      10,
-      11
+      12
     ],
     "description": "Generates an automatic pretty preview of content elements in the backend based on the TCA fields.",
-    "hash": "sha256-xzwAPH6aW0BKayGwolxPLV+KZZbGRy8EtbZsLrSjuXQ="
+    "hash": "sha256-aJTvGHoXRKirgcX+sU+16Thwj6fbvxhVbwBcRaZy9dE="
   },
   "jar_pugtemplate": {
     "version": "1.0.10",
@@ -26946,13 +26943,12 @@
     "hash": "sha256-Z2bLSGhx+Jfyo4E72layZAmEUf2WxeuF62cs9ItGS2o="
   },
   "jar_utilities": {
-    "version": "1.0.81",
+    "version": "2.0.0",
     "t3_versions": [
-      10,
-      11
+      12
     ],
     "description": "Utility classes that simplify TYPO3 development.",
-    "hash": "sha256-AdCsW9J6vi0JBNS1vbQu43IyLssFddPrZO64vxp/oKU="
+    "hash": "sha256-ZxNwTTLCS1vU7/aJVlCgJK9i9o7NKLV0ei0ovCKRols="
   },
   "jasmine": {
     "version": "0.1.0",
@@ -31522,13 +31518,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "lux": {
-    "version": "34.3.1",
+    "version": "34.3.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "Living User Experience - LUX - the Marketing Automation tool for TYPO3.",
-    "hash": "sha256-l/kWdLZfvF1s7fXJTtDJuUOLTwsQUtV30r65vIB0oZU="
+    "hash": "sha256-57zq7+wRMVdBvwoSqNOlbSs3/4wfR4E+DdVZSGrnwcM="
   },
   "luxletter": {
     "version": "25.0.1",
@@ -34376,13 +34372,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "miniorange_saml": {
-    "version": "2.0.2",
+    "version": "2.0.5",
     "t3_versions": [
       10,
-      11
+      11,
+      12
     ],
-    "description": "Typo3 SAML Single Sign-On (SSO) extension allows your users to login to your Typo3 site by authenticating with their SAML 2.0 IdP (Identity Providers). \r",
-    "hash": "sha256-gBIihLYw7XsaIHq6udycAk8eTNXUYSnMF8DkNEZS9ww="
+    "description": "Typo3 SAML Single Sign-On (SSO) extension allows your users to login to your Typo3 site by authenticating with their SAML 2.0 IdP (Identity Providers). SAML Authentication extension for Typo3 extension allows SSO with Azure AD, Azure AD B2C, Keycloak, ADFS, Okta, Shibboleth, Salesforce, GSuite / Google Apps, Office 365, SimpleSAMLphp, OpenAM, Centrify, Ping, RSA, IBM, Oracle, OneLogin, Bitium, WSO2, NetIQ, ClassLink, FusionAuth, Absorb LMS and all SAML 2.0 capable Identity Providers into your Typo3 site. Typo3 SAML SSO extension by miniOrange provides features like Attribute Mapping, Group Mapping, and Role Mapping which helps to map user data from your IdP to Typo3. You can add an SSO Login Button on both your Typo3 frontend and backend (Admin Panel) login page with our extension.",
+    "hash": "sha256-NDCsvCYstF8TENGzSlgThc03BgHZ8gcRgOQu22kx+iA="
   },
   "miniredirect": {
     "version": "3.0.1",
@@ -48045,13 +48042,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "rx_shariff": {
-    "version": "15.0.7",
+    "version": "15.1.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Shariff implementation for TYPO3 CMS including the backend module, a viewhelper and a plugin.",
-    "hash": "sha256-YyegZlaDm82eJwUmSeefprh0+Pa01lmIjeRA5II8gvg="
+    "hash": "sha256-valK3AIK1KMlixqJvbKry66pCrQ1zblzj0CEGqwvxqQ="
   },
   "rx_unrollsavebuttons": {
     "version": "1.1.1",
