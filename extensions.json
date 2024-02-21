@@ -6904,22 +6904,22 @@
     "hash": "sha256-AEwPe0C2X7AgxeliXJ++FvZZ1/4Br/LOLeTwB4Ty00Q="
   },
   "captchaeu_powermail": {
-    "version": "1.0.0",
+    "version": "1.0.2",
     "t3_versions": [
       10,
       11
     ],
     "description": "Captcha.eu TYPO3 extension for powermail",
-    "hash": "sha256-vMCQekVQqwg7+mMfcxb1Ee7LPRkyRXPvftQ4mbCsibE="
+    "hash": "sha256-sKlbIA0RBJfGylkgefF4S9oqx4T+KR49BJR0sCt0bco="
   },
   "captchaeu_typo3": {
-    "version": "1.0.2",
+    "version": "1.0.4",
     "t3_versions": [
       11,
       12
     ],
     "description": "Captcha.eu - The intelligent GDPR-compliant Captcha solution without interrupting puzzles or riddles",
-    "hash": "sha256-YN7U+Nq3mLd0jxKK3GZ3XMPk4bDkT2RgsISHD64iukE="
+    "hash": "sha256-9WVqV3BMmXx5DY2mjEpcfyBEFWrBG7Cnjg66UDmGqII="
   },
   "car": {
     "version": "0.1.2",
@@ -7942,12 +7942,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cf_cookiemanager": {
-    "version": "1.5.1",
+    "version": "1.5.2",
     "t3_versions": [
       12
     ],
     "description": "Unlock the full potential of your Typo3 website with CodingFreaks Typo3 Cookie Manager. Effortlessly manage and customize your website's services, cookies and scripts with our comprehensive extension. Streamline your workflow, enhance user experience, and ensure GDPR compliance with this powerful tool. Take control of your cookie management today and unleash the true potential of your Typo3 installation.",
-    "hash": "sha256-jwyNnY7vm0C1bX84dWuF5nk8YSrJsVy3RJeV/FejO8A="
+    "hash": "sha256-CYISW+p5LSkMSZP0JdhnIRKTRs79NnsnLj3UKUMXiJs="
   },
   "cf_google_authenticator": {
     "version": "1.2.4",
@@ -8460,6 +8460,16 @@
     "t3_versions": [],
     "description": "Display link to arbitrary forms outside of civserv-extension",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "cix_readmore": {
+    "version": "1.1.40",
+    "t3_versions": [
+      10,
+      11,
+      12
+    ],
+    "description": "Splits longer texts into preview and full content, with a reveal button. It offers customizable templates for easy styling.",
+    "hash": "sha256-mrEjge7zeB0oJfsTrswGm1UAgjD0OHhoimymL+lgBi4="
   },
   "ck_fortune": {
     "version": "0.1.1",
@@ -26943,12 +26953,12 @@
     "hash": "sha256-Z2bLSGhx+Jfyo4E72layZAmEUf2WxeuF62cs9ItGS2o="
   },
   "jar_utilities": {
-    "version": "2.0.0",
+    "version": "2.0.1",
     "t3_versions": [
       12
     ],
     "description": "Utility classes that simplify TYPO3 development.",
-    "hash": "sha256-ZxNwTTLCS1vU7/aJVlCgJK9i9o7NKLV0ei0ovCKRols="
+    "hash": "sha256-QsMpwGBwcGqBeSEtgGrgZuIdOYMEsXCx6vEjHvt8Uy4="
   },
   "jasmine": {
     "version": "0.1.0",
@@ -27848,40 +27858,40 @@
     "hash": "sha256-jxSbZTh7Vjb4WmXhg3RSZKMQxtYwEtZX9lxVOVAKoZM="
   },
   "jobrouter_base": {
-    "version": "2.0.0",
+    "version": "3.0.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Base extension for the TYPO3 JobRouter® extensions",
-    "hash": "sha256-hPb56zzMBtXgaoV8qVbfHlvLm9rXcxstYZqYzfIPxMA="
+    "hash": "sha256-kJ+TixUtpXxAiIlmw1A+TQA6QnpGsoqJhhF4VB3Uepw="
   },
   "jobrouter_connector": {
-    "version": "2.0.0",
+    "version": "3.0.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Connect TYPO3 with the JobRouter® digitalisation platform",
-    "hash": "sha256-3/RSNXCSIZ5sIh0jvAchhgQnJwT2OjrfZOIoPKD2sH4="
+    "hash": "sha256-LALyIXvZZtm2FjDloflcz/G7bECFtRgb+4mQrbkXxSU="
   },
   "jobrouter_data": {
-    "version": "2.0.0",
+    "version": "3.0.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Connect JobRouter® JobData tables with TYPO3",
-    "hash": "sha256-Sw1+0g77+wyqcaecZJtxYpWCLxlyqgfudo9BTPc0mqY="
+    "hash": "sha256-3s9ICV5z4+/QBmGs8vkrcuN2oKaKgo/6RcqnaSigx90="
   },
   "jobrouter_process": {
-    "version": "2.0.0",
+    "version": "3.0.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Connect JobRouter® processes with TYPO3",
-    "hash": "sha256-LhbQXrssfCtFDxrxbAoXzdmerLRGr4zyLjxCzdeXnMI="
+    "hash": "sha256-vcpJhBxAdkQ63Vwovreg+M+pSzQ4IfsBneqP35YZ09M="
   },
   "jobrouter_rss_widgets": {
     "version": "1.4.0",
@@ -34310,13 +34320,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mindshape_seo": {
-    "version": "3.0.1",
+    "version": "3.0.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "Extension to manage the SEO of your site",
-    "hash": "sha256-CvOfvwvgbHca/HU/7tF5XBcbmtFRvTLrr+E+FNNNQnI="
+    "hash": "sha256-RrHU6THqaDF6FKmC83e7CghI1Pz/csbo5ZZ9DxQIs6Y="
   },
   "minicleaner": {
     "version": "2.3.0",
@@ -34372,14 +34382,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "miniorange_saml": {
-    "version": "2.0.5",
+    "version": "2.0.6",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Typo3 SAML Single Sign-On (SSO) extension allows your users to login to your Typo3 site by authenticating with their SAML 2.0 IdP (Identity Providers). SAML Authentication extension for Typo3 extension allows SSO with Azure AD, Azure AD B2C, Keycloak, ADFS, Okta, Shibboleth, Salesforce, GSuite / Google Apps, Office 365, SimpleSAMLphp, OpenAM, Centrify, Ping, RSA, IBM, Oracle, OneLogin, Bitium, WSO2, NetIQ, ClassLink, FusionAuth, Absorb LMS and all SAML 2.0 capable Identity Providers into your Typo3 site. Typo3 SAML SSO extension by miniOrange provides features like Attribute Mapping, Group Mapping, and Role Mapping which helps to map user data from your IdP to Typo3. You can add an SSO Login Button on both your Typo3 frontend and backend (Admin Panel) login page with our extension.",
-    "hash": "sha256-NDCsvCYstF8TENGzSlgThc03BgHZ8gcRgOQu22kx+iA="
+    "hash": "sha256-ASOnGigvxmCgprtxutSlIgPd2F7Ava51PWoMaQ6kL8c="
   },
   "miniredirect": {
     "version": "3.0.1",
@@ -44320,12 +44330,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "psb_foundation": {
-    "version": "2.1.1",
+    "version": "2.1.2",
     "t3_versions": [
       12
     ],
     "description": "Configuration framework for TYPO3 extension development",
-    "hash": "sha256-QRYQQCgfs00sVNrKYlUVvX3qQ5eo11RrFeAoTva4iwc="
+    "hash": "sha256-5M+xk/G40PShlxYWZ7fnFhlvtBnJ+6jeioCYBuioTFM="
   },
   "psb_view_helpers": {
     "version": "2.0.0",
@@ -48042,13 +48052,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "rx_shariff": {
-    "version": "15.1.0",
+    "version": "15.1.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Shariff implementation for TYPO3 CMS including the backend module, a viewhelper and a plugin.",
-    "hash": "sha256-valK3AIK1KMlixqJvbKry66pCrQ1zblzj0CEGqwvxqQ="
+    "hash": "sha256-f6ZRLt7Z6g+W85mviMuTiQ6oxD/7MEDT4yFxsZL6hx8="
   },
   "rx_unrollsavebuttons": {
     "version": "1.1.1",
@@ -57465,13 +57475,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "textimage_size": {
-    "version": "3.0.2",
+    "version": "3.0.3",
     "t3_versions": [
       11,
       12
     ],
     "description": "Use only with bootstrap 5 + boostrap package 12 to change the output size for standard bootstrap package output (column split 50% image - 50% text). For content types text/image (textpict), text/media and image",
-    "hash": "sha256-mJxcqwVSWkZ/4HJKbCVhojWaGLWMzbM0+PqVz1Ro4iI="
+    "hash": "sha256-xJ+R4CrAzv/ITpZde+5wBAtaAYJkZuf3YaVMh/MLbTc="
   },
   "textmedia_migration": {
     "version": "1.0.1",
@@ -60228,13 +60238,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "tt_products": {
-    "version": "2.15.2",
+    "version": "2.15.3",
     "t3_versions": [
       11,
       12
     ],
     "description": "Advanced versions at ttproducts.de. Documented in the E-Book \"Der TYPO3-Webshop\" - Shop with listing in multiple languages, with order tracking, product variants, support for transactor extension, bill, creditpoint and voucher system.",
-    "hash": "sha256-/WLUlz4dUqIOxxWvXOBInKTE68Nm5knVgbCzSV47q0U="
+    "hash": "sha256-sv2dpVy6hICSLXeiAeOJPMaJ3au9FA/Nmw5DdMgUb50="
   },
   "tt_products_foundby": {
     "version": "0.1.4",
