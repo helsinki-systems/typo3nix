@@ -22657,12 +22657,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "google_indexer": {
-    "version": "2.0.0",
+    "version": "2.1.0",
     "t3_versions": [
       12
     ],
     "description": "Notify google when you create new pages directly from TYPO3. Supported options: Update, remove and check status",
-    "hash": "sha256-H6kl5FnkdAx5pKZ0D5fM8uNNy6uQSFViT/gcuk5M36o="
+    "hash": "sha256-nNOgL1+q8WvW3FV8w9yWKG6VmHfQetOnrYwRjrqGpr4="
   },
   "google_jsapi": {
     "version": "1.0.1",
@@ -23520,14 +23520,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "hcaptcha": {
-    "version": "2.1.3",
+    "version": "2.2.0",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "TYPO3 Extension to add hCaptcha to EXT:form - The privacy friendly captcha alternative.",
-    "hash": "sha256-IUacac6TW4RMIqYnNB3ChJoyOhaabV/qzUc63qeDNQ8="
+    "hash": "sha256-REvrxe5FOid4No59L/XsIXCYO+7f59/IlVXACn/ZoXM="
   },
   "hd_displayimage": {
     "version": "0.1.7",
@@ -43270,12 +43270,13 @@
     "hash": "sha256-D1dNdPBC4a6QHrZ6KdNbEMY21qC8O4TkpJVFlasql/c="
   },
   "plausibleio": {
-    "version": "2.1.0",
+    "version": "2.2.1",
     "t3_versions": [
-      11
+      11,
+      12
     ],
     "description": "Privacy-friendly analytics integration for TYPO3 CMS. Analyze your audience with Plausible Analytics and see nice dashboards with analytics data directly in the TYPO3 backend.",
-    "hash": "sha256-W1yjuFsASsWE+O7X31hvGISiTXfQxqXnPNK+KDW5bwY="
+    "hash": "sha256-5oVrbVEu/4GxLTmb/gAbvV+khcZAdYs1JvBVwGbs47k="
   },
   "player_profile_basic": {
     "version": "0.0.8",
@@ -47089,13 +47090,13 @@
     "hash": "sha256-51ICavMXU4xfGJBa1b/GwC8CHPtA5rfzQ7Jw6/4w6JA="
   },
   "rollovercollection4": {
-    "version": "7.0.1",
+    "version": "7.0.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "only for bootstrap5 + boostrap package v.12+ - cool multicolumn rendering with seven boxes layouts for cType textmedia, media, textpic and images; bootstrap package needed. Useful for menu, gallery, other. Highly customizable.",
-    "hash": "sha256-cFq2mpt7H8gBDSth0BYccfUANOcmcw7hnmF7rE+C4y8="
+    "hash": "sha256-LDQD+9c6WhnlPtI+d7SlSa56bpPBsRdpfP1MZBgVHT4="
   },
   "root_meltwater": {
     "version": "1.0.1",
