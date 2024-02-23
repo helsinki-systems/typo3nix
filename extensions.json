@@ -1557,12 +1557,12 @@
     "hash": "sha256-QckxUijIPEdD6LVvP3jLwr2sT0hqgrIdc0gptF3NW5Q="
   },
   "aimeos": {
-    "version": "23.10.4",
+    "version": "23.10.5",
     "t3_versions": [
       12
     ],
     "description": "Professional, full-featured and ultra-fast TYPO3 e-commerce extension for online shops, complex B2B applications and #gigacommerce. Turns TYPO3 into the best platform for content commerce and your e-commerce requirements (also available as TYPO3 distribution)",
-    "hash": "sha256-dp/t4bjS45DfVB8BJn7A8gj5K5cwlw5dhwvpbt7dTo4="
+    "hash": "sha256-r1IHbCLik0ElSiR/OGsstN36sin2AG3IFJbMU1oPbOo="
   },
   "aimeos_dist": {
     "version": "23.7.1",
@@ -4422,15 +4422,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "belogin_images": {
-    "version": "4.0.4",
+    "version": "5.0.0",
     "t3_versions": [
-      9,
-      10,
       11,
       12
     ],
     "description": "Display random Background Images from different sources at your TYPO3 BackendLogin Page.",
-    "hash": "sha256-IwR4CCTpx7XsLDan2IJGAuGhGdoQ6au/jNAiaRn8Zlo="
+    "hash": "sha256-3urUhsj9Zb9Y3KNhFFVR1tKF1HcHfR1CegPeGajr63g="
   },
   "bepagination": {
     "version": "0.1.0",
@@ -19403,14 +19401,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "filefill": {
-    "version": "4.3.1",
+    "version": "4.3.2",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Find and fetch missing local files from different remotes",
-    "hash": "sha256-Z4IXEb364CTPXv0r8KJEuzUF9AlXd6NZm7GWPLoPYao="
+    "hash": "sha256-XNsd1cXel86KlQOTUy0bhfcV/EH0i7r0DunY3LND8v4="
   },
   "filefill_payload": {
     "version": "0.6.0",
@@ -25233,14 +25231,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ig_ldap_sso_auth": {
-    "version": "3.7.1",
+    "version": "3.8.0",
     "t3_versions": [
-      9,
       10,
       11
     ],
     "description": "This extension provides LDAP support for TYPO3 by delegating the authentication of frontend and/or backend users to the centrally-managed directory of your organization. It fully supports OpenLDAP and Active Directory and is capable of connecting securely to the authentication server using either TLS or SSL (ldaps://).",
-    "hash": "sha256-7x2QTnKIq32/DXTjuwm36QiSHh5EvJ0CcdWfLYkWKR8="
+    "hash": "sha256-iblfO847lsIIeELWM1AWyMFZAHBNzaChwIAFgzCdGso="
   },
   "ig_log404errors": {
     "version": "1.0.0",
@@ -29134,13 +29131,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ke_search": {
-    "version": "5.2.1",
+    "version": "5.3.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Faceted fulltext search for TYPO3. Fast, flexible and easy to install and use. Indexes content directly from the databases. Features faceting / filtering, file indexing, images in result lists and respects access restrictions.",
-    "hash": "sha256-dMR+Ub1bp6sTUHTrBD9WqB3GXEnz8zHFwHc1nrtLE6A="
+    "hash": "sha256-KM3oWOuUD9fX4P8EJ+XHarxRpmk9Q8um3CbZDZIOSXw="
   },
   "ke_search_dam_tags": {
     "version": "0.0.1",
@@ -29524,14 +29521,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "klaro_consent_manager": {
-    "version": "1.7.1",
+    "version": "1.7.2",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Functionally complete, flexible TYPO3 integration of Klaro! Consent Management by KIProtect. Klaro! is a powerful tool that protects your visitors' privacy and data and helps you run a GDPR compliant website.",
-    "hash": "sha256-EJKVcbZ2wKt7i+IP20vAVd4h+i+p822Or3lH3qsoBQk="
+    "hash": "sha256-80JxLykx1ZM4toJ06BZNWKKGRtVow5yPxzTZu/0OYBk="
   },
   "km_dam_extension": {
     "version": "1.0.2",
@@ -33373,12 +33370,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "meilisearch": {
-    "version": "0.4.1",
+    "version": "0.4.3",
     "t3_versions": [
       12
     ],
     "description": "This extension integrates \"meilisearch\" into your TYPO3.",
-    "hash": "sha256-+nnY3zs56+9z/AFTFwW5JcyJC5b/Y6zfEMHZuEJZJbY="
+    "hash": "sha256-h9PeZ3hGcQ7c+OmcR0qxeNKTCZBGKwbcRjP8FoKW1J8="
   },
   "meinpraktikum_widget": {
     "version": "1.0.1",
@@ -39128,12 +39125,12 @@
     "hash": "sha256-DSVYVOyfTNbpZqnbsFA6VVfQgOeCL3864aaWXJ+UHyA="
   },
   "ns_helpdesk": {
-    "version": "12.0.2",
+    "version": "12.0.3",
     "t3_versions": [
       12
     ],
     "description": "An all-in-one TYPO3 Help Desk extension that helps you balance everything your customers need to be happy. Demo: https://demo.t3planet.com/t3t-extensions/helpdesk You can download PRO version for more-features & free-support at https://t3planet.com/ns-helpdesk-typo3-extension",
-    "hash": "sha256-/Ky5IByX09ead4ZL/3wMbMFU1DA/l2SdKcpizJQXUaQ="
+    "hash": "sha256-TdR+iEp08YCxUUnVvWAJTj7oukl/yZ1uQxiSVBNo7uo="
   },
   "ns_instagram": {
     "version": "3.0.4",
@@ -43042,12 +43039,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "pits_downloadcenter": {
-    "version": "5.0.1",
+    "version": "6.0.0",
     "t3_versions": [
-      11
+      12
     ],
     "description": "Download Center Sponsored by TNT-Graphics AG",
-    "hash": "sha256-A/4dV0iabVOV0oeepp/uv8nx0IXgro9sF+qzE22fXRg="
+    "hash": "sha256-Pdf7Js+8d9AJHDPnHQXUfjpDXp0H+EF7zfZAqCO59bA="
   },
   "pits_googlecse": {
     "version": "1.0.1",
@@ -43270,13 +43267,12 @@
     "hash": "sha256-D1dNdPBC4a6QHrZ6KdNbEMY21qC8O4TkpJVFlasql/c="
   },
   "plausibleio": {
-    "version": "2.2.1",
+    "version": "3.0.0",
     "t3_versions": [
-      11,
       12
     ],
     "description": "Privacy-friendly analytics integration for TYPO3 CMS. Analyze your audience with Plausible Analytics and see nice dashboards with analytics data directly in the TYPO3 backend.",
-    "hash": "sha256-5oVrbVEu/4GxLTmb/gAbvV+khcZAdYs1JvBVwGbs47k="
+    "hash": "sha256-av2zXhO92AtIHZuM+Gcm5rr4ihFPMmyPhY5o2a6cjjE="
   },
   "player_profile_basic": {
     "version": "0.0.8",
@@ -62770,12 +62766,12 @@
     "hash": "sha256-sIh9qaFFRCbZR8onvpkwAgaS/2+H8BjaOXfslNGAk4Q="
   },
   "weather_widget": {
-    "version": "2.0.0",
+    "version": "3.0.0",
     "t3_versions": [
       12
     ],
     "description": "Weather by Wttr.in",
-    "hash": "sha256-Glzyi9SFxOIRY0I4riGTW+u3t75qnFamUtZCW7wq3fQ="
+    "hash": "sha256-B19a9XblwxaG00itj1YQcrkKeqU1aGXnOVkWq0xpe74="
   },
   "web2pdf": {
     "version": "4.0.0",
@@ -63988,12 +63984,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ws_scss": {
-    "version": "12.0.4",
+    "version": "12.0.5",
     "t3_versions": [
       12
     ],
     "description": "Compiles scss files to CSS files.",
-    "hash": "sha256-+4/ymYTYk2/wZSM/ziW15lJLS9LYPL7+xOsGqSyrjmE="
+    "hash": "sha256-Fr9MLOIa16uMRn317FzhHhszSXy7OoDze67JYs3JZXQ="
   },
   "ws_sitemap": {
     "version": "0.4.8",
