@@ -21744,13 +21744,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "gallerycontent": {
-    "version": "1.9.1",
+    "version": "2.0.0",
     "t3_versions": [
-      11,
       12
     ],
     "description": "Content element for image gallery with preset crop ratios and pagination",
-    "hash": "sha256-D+y8ZR0cYOIaBIfNKW8OVTlrvmm9AFNxR0THK7C8+As="
+    "hash": "sha256-L++J1VRkc/HOh2bNexK5C5+FAQKD3FsYyLBSfpW7Fv0="
   },
   "galtlang": {
     "version": "2.1.0",
