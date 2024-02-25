@@ -1078,13 +1078,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "additional_tca": {
-    "version": "1.15.4",
+    "version": "1.15.5",
     "t3_versions": [
       11,
       12
     ],
     "description": "Additional TCA fields and tools",
-    "hash": "sha256-3bSmuhy6Lr7VcoggfC12Zi/4JaopE5TvJlbl/6SXMCs="
+    "hash": "sha256-8/6Al4bel34e0I4drRH1yVP44GMiwqkMIIqy9bVMBdI="
   },
   "addlinkheader": {
     "version": "0.0.4",
@@ -25375,14 +25375,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "image_autoresize": {
-    "version": "2.3.0",
+    "version": "2.3.1",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Simplify the way your editors may upload their images: no complex local procedure needed, let TYPO3 automatically resize down their huge images/pictures on-the-fly during upload (or using a command for batch processing) and according to your own business rules (directory/groups). This will highly reduce the footprint on your server and speed-up response time if lots of images are rendered (e.g., in a gallery). Features an EXIF/IPTC extractor to ensure metadata may be used by the FAL indexer even if not preserved upon resizing.",
-    "hash": "sha256-0m8gTh/eNTYyPoVaDd/9Pt/W+B+4vj+gLbuBDyrGCFU="
+    "hash": "sha256-+1aohIBmNFzdtsisiKtuPfm06UccRDINGOQR5l6czc8="
   },
   "image_copyright": {
     "version": "12.5.1",
@@ -25503,12 +25503,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "imageoptimizer": {
-    "version": "4.0.0",
+    "version": "4.0.1",
     "t3_versions": [
       12
     ],
     "description": "Optimize uploaded/processed images with binaries of your choice",
-    "hash": "sha256-q/e60sNBY5vv/j8mjjHA1wZhCysON+mFSRF1sh88opQ="
+    "hash": "sha256-uDroHPhW0Zn2UdlnXHUrELdVlQXbHNXxh8xkI0syKk8="
   },
   "imagerotation": {
     "version": "0.1.1",
@@ -48644,12 +48644,12 @@
     "hash": "sha256-xb7tVsa5GvkEuAr617fRsaEY3RUN1yDE+RO5F+Jy0Kg="
   },
   "save_and_close": {
-    "version": "12.0.2",
+    "version": "12.0.3",
     "t3_versions": [
       12
     ],
     "description": "Adds save and close button to all the content elements",
-    "hash": "sha256-L+Mdb8BEHG2nFTaZv8OdI+sovw8yVUU45Sp4WKvSVfI="
+    "hash": "sha256-cGC0FKyM2IutRQpEy/K+tS/kOMB6DS2MZvfQ6k9WcmI="
   },
   "save_close_ce": {
     "version": "1.0.4",
@@ -55967,12 +55967,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "t3sbootstrap": {
-    "version": "5.3.5",
+    "version": "5.3.6",
     "t3_versions": [
       12
     ],
     "description": "Startup extension to use bootstrap 5 classes, components and more out of the box. Example and info: www.t3sbootstrap.de",
-    "hash": "sha256-daXyTAMAuVuaz7c00k/aA1pOknFbQdaQbewZrf1/lYg="
+    "hash": "sha256-c8aOsQ/myMMJVjRtc3rJU+gKeg1IP41TxubOEG8FQKM="
   },
   "t3sbootstrap_grid": {
     "version": "3.0.0",
@@ -57471,13 +57471,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "textimage_size": {
-    "version": "3.0.3",
+    "version": "3.1.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Use only with bootstrap 5 + boostrap package 12 to change the output size for standard bootstrap package output (column split 50% image - 50% text). For content types text/image (textpict), text/media and image",
-    "hash": "sha256-xJ+R4CrAzv/ITpZde+5wBAtaAYJkZuf3YaVMh/MLbTc="
+    "hash": "sha256-ktJlIwkPLBKMyUu1iYVyp16OlHtPMqHWRJiouYrajdc="
   },
   "textmedia_migration": {
     "version": "1.0.1",
