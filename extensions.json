@@ -3511,12 +3511,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "aws_sdk_php": {
-    "version": "3.300.0",
+    "version": "3.300.5",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-GTcrJGj4JV+o5q+YxOyZJSISG4RWoMvqshZ7dUuZgX8="
+    "hash": "sha256-h58F+JXbpfE0Y6tJFp0bHYkoXpv9+cBMg7fAXkAU2Oc="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -11467,12 +11467,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ctype_manager": {
-    "version": "12.0.0",
+    "version": "12.0.1",
     "t3_versions": [
-      11
+      11,
+      12
     ],
     "description": "This TYPO3 extension implements a backend module through which available content and plugin types can be configured on page level.",
-    "hash": "sha256-KQcEV+yslEjv7Be5sUwOnlqV4fmG/cZzb3jsOhbfIEE="
+    "hash": "sha256-kHH45Xz2F8pMu/QWWyYxJXqIa6dAI+h2Qo2tgmh2WpE="
   },
   "cundd_composer": {
     "version": "4.1.0",
@@ -14011,14 +14012,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "div2007": {
-    "version": "2.0.1",
+    "version": "2.1.0",
     "t3_versions": [
-      10,
-      11,
       12
     ],
     "description": "This library offers classes and functions to other TYPO3 extensions. It provides a modified t3lib_div of TYPO3 4.7.10. Replacement for tslib_pibase methods.",
-    "hash": "sha256-/fsuWQ6lowxs1ElxGPVR3TLFwCHn1ECbNMqtemD7Bos="
+    "hash": "sha256-tiXstH5MXBeZM/z0/LSxDVtbEL38rWVygNo3MBj8shc="
   },
   "diva": {
     "version": "8.7.1",
@@ -18167,14 +18166,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fal_protect": {
-    "version": "1.5.1",
+    "version": "1.5.2",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Protect everything within /fileadmin/ based on associated folder and file restrictions (visibility, user groups and dates of publication).",
-    "hash": "sha256-osWYKZTmz/2+NJ7APzftBoxOv+ByN9AO8zfoJ3fGMFU="
+    "hash": "sha256-lxflREaxdhRXqyfwsapzRLzASAj/a1TOSajeYzeAGs0="
   },
   "fal_quota": {
     "version": "1.8.0",
@@ -18912,13 +18911,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "felogin_bruteforce_protection": {
-    "version": "10.0.13",
+    "version": "11.0.1",
     "t3_versions": [
-      10,
       11
     ],
     "description": "Protects TYPO3 frontend authentication (e.g. fe_login) against brute force attacks.",
-    "hash": "sha256-qttLqQEPCHGqleV95IdDP/OLTwNZGoZVV4jOEgMdNIY="
+    "hash": "sha256-CBGvNcVsuBsb2iKqQ5z7AwLq7Nm/ledQMtYpVb4IkHo="
   },
   "felogin_redirect2current": {
     "version": "0.2.0",
@@ -19366,14 +19364,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "file_list": {
-    "version": "3.0.1",
+    "version": "3.1.0",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "This extension provides a frontend plugin which shows a list of files and folders in a specified directory on the file system (comparable to Apache directory listing) or using more advanced FAL selectors (categories, collection of files, ...). This extension may also be used for creating image galleries. Default templates are Bootstrap-ready.",
-    "hash": "sha256-leHYGYCUsKLWcd/9Txck4Ba7iOF0Ifz/H7mKC/dKyZs="
+    "hash": "sha256-myk9/zAqY9UTwZ6rMaPYpEdBy/Yc9Xh2Rl1Peo5M2oo="
   },
   "file_ref_list": {
     "version": "0.1.1",
@@ -23677,12 +23675,12 @@
     "hash": "sha256-0iniAChG1hcNQTo5vd+DJa3h9eUbRkuvz50/EmeM5i4="
   },
   "hh_seo": {
-    "version": "0.8.1",
+    "version": "0.8.2",
     "t3_versions": [
       12
     ],
     "description": "Hauer-Heinrich - SEO - Meta-Tag - ViewHelpers",
-    "hash": "sha256-vIrp7dnHqeAOKlfgEL2vzpFMKewUlzEluTuwArB25ss="
+    "hash": "sha256-e8c+S9ALI6DFfS4LVMPqVRBlVh6qjuZMJcujaSv0sVo="
   },
   "hh_simple_job_posts": {
     "version": "3.3.0",
@@ -39958,13 +39956,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ods_osm": {
-    "version": "4.2.0",
+    "version": "4.2.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Add an interactive OpenStreetMap map to your website. Can also show other OpenLayers compatible maps.",
-    "hash": "sha256-/piTtE9wRV61bwtsn7FXjGkuKDPrAwrmVlR91mECAAw="
+    "hash": "sha256-tOGohaKy4W8oR3d1ysVUz89wNVKIVxPdaKTplMcAYcQ="
   },
   "ods_osm_cal": {
     "version": "1.0.0",
@@ -47065,13 +47063,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "rollovercollection2": {
-    "version": "7.0.1",
+    "version": "7.0.3",
     "t3_versions": [
       11,
       12
     ],
     "description": "CIRCLE rollover effetcts from tympanus for cType textmedia, media, images, textpic - Only for bootstrap package 12+ with Bootstrap 5.x (SCSS) (bootstrap_package) library",
-    "hash": "sha256-rbBBGkD/rCZZd+jQpfxDqcDEx3KvkziEnc0gjmYyggg="
+    "hash": "sha256-hyVXQM9NQ5kkODeq09RdbqIvNpExcrA5gW/IeFTwBfs="
   },
   "rollovercollection3": {
     "version": "7.0.3",
@@ -60915,13 +60913,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "twentythree": {
-    "version": "0.1.3",
+    "version": "0.2.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "Provides an online media provider for the TwentyThree Video Marketing Platform",
-    "hash": "sha256-bKxmGqdIXagziUOX48yJwOlJuhus7CWfnGXfTZPjCso="
+    "hash": "sha256-TtKWcybzcfj+XERUZIqPkqWdXP7oYO16VG4KLrwVfuI="
   },
   "twig_for_typo3": {
     "version": "1.0.0",
@@ -62007,12 +62005,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "video_vtt": {
-    "version": "2.0.1",
+    "version": "2.1.0",
     "t3_versions": [
       12
     ],
     "description": "Extend TYPO3 Video functionality",
-    "hash": "sha256-Y/OjCd7diqcvhloPPkEJQEQQrdYWqN1hmjiperm2RQ8="
+    "hash": "sha256-dZOri/JeDdmnSRtRS4blKY9EPayGb14K61///0bEIe8="
   },
   "videoce": {
     "version": "0.10.0",
@@ -63334,12 +63332,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "whatchado": {
-    "version": "2.0.0",
+    "version": "2.1.0",
     "t3_versions": [
       12
     ],
     "description": "Embed whatchado videos",
-    "hash": "sha256-TzT4QlFNHZjWMwdhb2IBDxTUclRc4U0OC6UTjxYuAEM="
+    "hash": "sha256-1EIqDg0BdT3pOiDuSJeALP2j0Y3/L5yuoaZDAbPx1r0="
   },
   "whatsnew": {
     "version": "0.0.3",
