@@ -3511,12 +3511,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "aws_sdk_php": {
-    "version": "3.300.5",
+    "version": "3.300.6",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-h58F+JXbpfE0Y6tJFp0bHYkoXpv9+cBMg7fAXkAU2Oc="
+    "hash": "sha256-zE4gUBsTTLX1+9Hqp36tOUudkWYvoPSJoYQATuwRR2A="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -9769,12 +9769,12 @@
     "hash": "sha256-zIEstPFHttAq2bRVbuXskLWhPbkZ++m4mcc7E46IM6s="
   },
   "content_blocks": {
-    "version": "0.6.1",
+    "version": "0.6.2",
     "t3_versions": [
       12
     ],
     "description": "TYPO3 CMS Content Blocks - Content Types API",
-    "hash": "sha256-OaNy7ZFr79RkU5dJ8fyIsofUW3QTfEVGwZi7JPAs3Yk="
+    "hash": "sha256-2AsOwBXD/LGKV1Dyf6iGPdzbt8y4RZI5U6O/0l3n2Uo="
   },
   "content_consent": {
     "version": "2.0.2",
@@ -21194,13 +21194,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fox_handler": {
-    "version": "1.2.1",
+    "version": "4.0.0",
     "t3_versions": [
-      9,
-      10
+      10,
+      11
     ],
-    "description": "This extension provides a pageNotFoundHandler that is able to handle both 404 and 403 responses.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "description": "This extension provides a pageNotFoundHandler that is able to handle 403 responses.",
+    "hash": "sha256-wkYUOlAFKfdCtcepqzoqRoOBJ26RtDh1TOt1BltQP3k="
   },
   "fp_cinerent": {
     "version": "2.8.1",
@@ -32978,12 +32978,13 @@
     "hash": "sha256-rAvXtHZfCLd9H+9HLN/RtGO630IgNYZkli3hCQ2pRb0="
   },
   "md_news_clickcount": {
-    "version": "2.0.1",
+    "version": "3.0.0",
     "t3_versions": [
-      11
+      11,
+      12
     ],
     "description": "With this extension you are able to count views of ext:news records. You can display a list with most viewed news and delete the statistics automatically with a scheduler task.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-G+rV6zn3yIpvyUAS3lp/fSr8PUfxSBalvZzkkrShhh8="
   },
   "md_newsfrontend": {
     "version": "4.0.0",
@@ -32995,13 +32996,12 @@
     "hash": "sha256-+W93FsFJTiAIgjSfAl+9CB6BdhyXUDtR6AqXc5CKGf0="
   },
   "md_saml": {
-    "version": "3.0.1",
+    "version": "3.0.4",
     "t3_versions": [
-      11,
       12
     ],
     "description": "SSO frontend or backend login with SAML authentication.",
-    "hash": "sha256-ufsAh2Th/Z1289dPFkdqB7vSbvSNpDDG0xDzh88Z1u0="
+    "hash": "sha256-1ejNqP8dhD3/vHTZBTTxzvCyOxRih9RRYfca6DrB3mM="
   },
   "md_unreadnews": {
     "version": "4.0.1",
@@ -43708,12 +43708,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "powermail": {
-    "version": "12.1.1",
+    "version": "12.2.0",
     "t3_versions": [
       12
     ],
     "description": "Powermail is a well-known, editor-friendly, powerful",
-    "hash": "sha256-Xoy5U0+F5DRPSBaOnJWaBQ1qccTlG4aFzl1eSsQyuvo="
+    "hash": "sha256-aWLUrTF+M3HvHDR93u3my0+Sp4zk2FdZ4vNWwHl48BI="
   },
   "powermail2document": {
     "version": "1.6.1",
@@ -47063,31 +47063,31 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "rollovercollection2": {
-    "version": "7.0.3",
+    "version": "7.0.4",
     "t3_versions": [
       11,
       12
     ],
     "description": "CIRCLE rollover effetcts from tympanus for cType textmedia, media, images, textpic - Only for bootstrap package 12+ with Bootstrap 5.x (SCSS) (bootstrap_package) library",
-    "hash": "sha256-hyVXQM9NQ5kkODeq09RdbqIvNpExcrA5gW/IeFTwBfs="
+    "hash": "sha256-bW64l96Wtg2HrD9S7hbL49OX69eLMVjhK+e6OkMYEvg="
   },
   "rollovercollection3": {
-    "version": "7.0.3",
+    "version": "7.0.4",
     "t3_versions": [
       11,
       12
     ],
     "description": "ORIGINAL HOVER EFFECTS  - cType supported: textmedia, media and images (https://tympanus.net/Tutorials/OriginalHoverEffects/index.html) -  Only for Bootstrap Package 12 +  Bootstrap 5.x (SCSS) (bootstrap_package)",
-    "hash": "sha256-KrzO1/5f9ze2O/V+uraMcDM3FkLGGnjn0YUPGG9Ngy8="
+    "hash": "sha256-ZRopw6HvhW21wmUSN7An/Mu3+DQnzfYh4oBkCPh2n/o="
   },
   "rollovercollection4": {
-    "version": "7.0.2",
+    "version": "7.0.3",
     "t3_versions": [
       11,
       12
     ],
     "description": "only for bootstrap5 + boostrap package v.12+ - cool multicolumn rendering with seven boxes layouts for cType textmedia, media, textpic and images; bootstrap package needed. Useful for menu, gallery, other. Highly customizable.",
-    "hash": "sha256-LDQD+9c6WhnlPtI+d7SlSa56bpPBsRdpfP1MZBgVHT4="
+    "hash": "sha256-udqLnMGXMndpW4V8vCGTqvMK8rRDHGp+pZ/nofTs2OE="
   },
   "root_meltwater": {
     "version": "1.0.1",
@@ -48888,14 +48888,15 @@
     "hash": "sha256-M8ZhQ2/BPgAAaJKBojL+gR74egyIbUjfDYKGG6ncoaw="
   },
   "schedulermonitor": {
-    "version": "1.3.2",
+    "version": "1.3.4",
     "t3_versions": [
       9,
       10,
-      11
+      11,
+      12
     ],
     "description": "Monitors scheduler tasks and send an email if a task has failed or is running too long.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-pbi7qVxv5+I6JbCj/dc4959Oobjl3FpEwDBWYZKUyvM="
   },
   "schema": {
     "version": "3.4.0",
@@ -53617,14 +53618,12 @@
     "hash": "sha256-CBR1zHWt1eVuo9Yei/aZA3moeOdA4dIaGCyeUi1ea5k="
   },
   "startcustomer": {
-    "version": "5.1.10",
+    "version": "8.7.12",
     "t3_versions": [
-      8,
-      9,
-      10
+      8
     ],
     "description": "Control the design of Start TYPO3 Responsive! and the responsive framework Foundation (Zurb) with an user interface. Start TYPO3 Responsive +Customer enables you, to configure a lot of CSS properties by a mouse click.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-/b1bVMIcYuaZyyLg1WYeMIDF2ibu41ieo2QKIVwYldY="
   },
   "startfeuser": {
     "version": "1.1.0",
@@ -55944,12 +55943,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "t3s_swiper": {
-    "version": "0.0.3",
+    "version": "0.0.4",
     "t3_versions": [
       12
     ],
     "description": "Swiper is the most modern free mobile touch slider with hardware accelerated transitions and amazing native behavior.",
-    "hash": "sha256-lykjlwn3/jYNg9STiSHBYzyzhNIa1C2fiM9r9aSdEMo="
+    "hash": "sha256-9CtuMSzUUlYfFUhN95Ou9LcfQ+cs0qO16XBoyxyVuxU="
   },
   "t3s_titleattributes": {
     "version": "0.0.1",
@@ -63892,12 +63891,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ws_bulletinboard": {
-    "version": "11.0.0",
+    "version": "11.0.1",
     "t3_versions": [
       11
     ],
     "description": "Bulletinboard Extension",
-    "hash": "sha256-NDw+vnS14/iJjeOIypJsqrz8gwBxGxRu+Cfb85mJgaQ="
+    "hash": "sha256-GPwHySMZm6NgrD6CcFvyOEpanlBHydRWfzgY0/4Rol4="
   },
   "ws_contentpagebrowser": {
     "version": "0.3.0",
