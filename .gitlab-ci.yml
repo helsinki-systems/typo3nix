@@ -35,7 +35,7 @@ run full:
     ./run
 
 run test:
-  stage: run
+  stage: test
   tags:
     - nix
   rules:
