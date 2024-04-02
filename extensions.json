@@ -18599,12 +18599,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fe_change_pwd": {
-    "version": "4.2.0",
+    "version": "4.2.1",
     "t3_versions": [
       12
     ],
     "description": "Plugin to enable password change for frontend users. Contains configurable password",
-    "hash": "sha256-U2NrJeagZeHBhbLwQqU0JoOtO+DHWNerfd9ypwfeBfM="
+    "hash": "sha256-CqgkdDWQwZaO0XoBGSxcc/D84HGIe5IrDdOIDRDuIgk="
   },
   "fe_changelog": {
     "version": "3.1.0",
