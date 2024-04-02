@@ -4,6 +4,12 @@ stages:
   - build
   - run
 
+include:
+  - project: "helsinki-systems/gitlab-ci-templates"
+    ref: master
+    file:
+      - "renovatebot.yml"
+
 cargo build:
   stage: build
   tags:
