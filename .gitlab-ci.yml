@@ -3,6 +3,7 @@
 stages:
   - build
   - run
+  - test
 
 include:
   - project: "helsinki-systems/gitlab-ci-templates"
