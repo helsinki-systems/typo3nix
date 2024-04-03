@@ -3525,12 +3525,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "aws_sdk_php": {
-    "version": "3.303.0",
+    "version": "3.303.1",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-0peepaiLwj8EKlkDnWBNNfICaZRFduhmzpQKk/c8WfA="
+    "hash": "sha256-LOwnbQXw1FgqtvkHtuCaP1qPauin++JTykovC4VyVVc="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -5312,12 +5312,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "brofix": {
-    "version": "6.0.0",
+    "version": "6.0.1",
     "t3_versions": [
       12
     ],
     "description": "Check for broken links and fix them via a backend module (forked from core linkvalidator)",
-    "hash": "sha256-83iXFn4Gyw4KlDNASju3B/LGG8VnMteT2JR5Kgy62qc="
+    "hash": "sha256-lIGciqNLY2miKlJ485U7uqhcSUAdWDshNPq8W7vNViU="
   },
   "browser": {
     "version": "10.0.3",
@@ -62467,13 +62467,13 @@
     "hash": "sha256-838MxT9upJDCu9OjSBKqet8JoOLy695DfZPjoJtUSNs="
   },
   "w4_cookiebar": {
-    "version": "1.0.7",
+    "version": "1.0.8",
     "t3_versions": [
       11,
       12
     ],
     "description": "W4 extension to provide a GDPR (DE: \"DSGVO\") cookie banner.",
-    "hash": "sha256-qWCrgkcnWSuh2cLJXTtebT6BS3E7pLwMET55Fcyczbk="
+    "hash": "sha256-Xp1blMbcIb2rBc2PIYzJwCAjwpR925dCv+K6gf27x7c="
   },
   "w4_ext_geolocator": {
     "version": "0.0.3",
