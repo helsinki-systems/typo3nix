@@ -3525,12 +3525,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "aws_sdk_php": {
-    "version": "3.303.1",
+    "version": "3.303.2",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-LOwnbQXw1FgqtvkHtuCaP1qPauin++JTykovC4VyVVc="
+    "hash": "sha256-pUW2zCJaibhYKY4/KFKGp+mgPej2bbA9RKSOg7QMdTw="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -10256,14 +10256,14 @@
     "hash": "sha256-tc63t1KRjhmPkoblRGcYvsE/ryRBBuYeH5RlDy+fLqQ="
   },
   "cookies": {
-    "version": "9.0.1",
+    "version": "9.0.2",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Show cookie consent, optional with possibility to deactivate some or all of them.",
-    "hash": "sha256-93O/jMQut3T7TqCKBPWN9lVN8rkuzjrN2uniVG6WOA8="
+    "hash": "sha256-y/dpyaJTBZAmq35KeP7+0fL80MQBqxx7ag6HLEooUmo="
   },
   "cookieshy": {
     "version": "2.0.0",
@@ -17438,12 +17438,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "examples": {
-    "version": "12.0.4",
+    "version": "12.0.5",
     "t3_versions": [
       12
     ],
     "description": "This extension packages a number of code examples from the Core Documentation.",
-    "hash": "sha256-/boRvf5D1nmKqmuaft0LACz9CdsLZimfrWd5C2wQmrI="
+    "hash": "sha256-lXhtifrN4/8qkzeW/ScErbkYL/nJUZ3sLtE/GWfH1qI="
   },
   "excel": {
     "version": "0.0.1",
@@ -21752,12 +21752,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "gallerycontent": {
-    "version": "2.1.1",
+    "version": "2.1.3",
     "t3_versions": [
       12
     ],
     "description": "Content element for image gallery with preset crop ratios and pagination",
-    "hash": "sha256-aS2qF1/mdhmkm/P1og5LxIsRzIpCoJSytEUJbJChmWI="
+    "hash": "sha256-fI59rJBz8n87bPhxRt0BuYW+x+43felZMljsTo0EC/8="
   },
   "galtlang": {
     "version": "2.1.0",
@@ -23677,13 +23677,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "hh_openstreetmap": {
-    "version": "0.3.2",
+    "version": "0.3.3",
     "t3_versions": [
       11,
       12
     ],
     "description": "Simple OpenStreetMap",
-    "hash": "sha256-Vrl3ybNYxDOy+tRYoeioQXJaR82mJ0F3XrtmSXqqwFQ="
+    "hash": "sha256-FynwZuS3lYQXNHkBSVDTo6+4I0SkInAoVb/o9UFw3fY="
   },
   "hh_powermail_checkboxlink": {
     "version": "0.1.5",
@@ -31966,13 +31966,13 @@
     "hash": "sha256-jPv/y4yEofi7SRdacSphQPg9t13QM/BFiBcq1ENg8jY="
   },
   "mail_logger": {
-    "version": "4.0.2",
+    "version": "4.0.3",
     "t3_versions": [
       11,
       12
     ],
     "description": "This extension logs all your outgoing mails and provides email templates and debugging tools",
-    "hash": "sha256-mlUU/Ee3SXxaq1DJyw20J1RReLhsPPR4a65Zk2xqkX4="
+    "hash": "sha256-QF4vbiOJ+/zQzeM3WMUzGAlaUaU5Yet7VB8AKjOXODM="
   },
   "mail_spool": {
     "version": "1.2.0",
@@ -32974,13 +32974,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "md_calendarize_frontend": {
-    "version": "2.0.2",
+    "version": "3.0.0",
     "t3_versions": [
-      10,
-      11
+      12
     ],
     "description": "This extension enables frontend users to add ext:calendarize items in the frontend.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-sL/u97lcJMKObSLifjjvJRFNO/kVtJM/NxNYiBKapLk="
   },
   "md_eventmgt_frontend": {
     "version": "1.0.0",
@@ -35229,13 +35228,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "modern_template_building": {
-    "version": "1.0.1",
+    "version": "1.1.1",
     "t3_versions": [
-      9,
-      10
+      12
     ],
     "description": "Ships cObjects TEMPLATE and FILE to build sites with marker-based templates for TYPO3",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-rkH1myK7do+SJXnVr/3nzQbP1oJKvWftf0eJODTv+Go="
   },
   "modmod": {
     "version": "3.0.0",
@@ -40354,13 +40352,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "om_cookie_manager": {
-    "version": "12.0.1",
+    "version": "12.1.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Features: Consent Panel (Optin), Grouping and Google Tag Manager support. With this Extension you can manage the script/html tags that generates cookies on your site or simply build a consent panel. You can creat different groups like essential, tracking, preferences and so on. The associated scripts will be loaded only after the optin process is done.",
-    "hash": "sha256-tjy/zPlBUKtlw0pTo962M02LqtWgouPaBxGSFZF1iCs="
+    "hash": "sha256-z+63c1zZxxZpt1tOaJHvI4ijND8JrN782M5p2hKCGgU="
   },
   "on_jobs2xml": {
     "version": "1.0.1",
@@ -60280,13 +60278,13 @@
     "hash": "sha256-nkDez4GSjszEGbR8J1juvFz13ES48hU9g1cjdBTKlt0="
   },
   "tt_board": {
-    "version": "1.14.0",
+    "version": "1.14.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Simple threaded (tree) or list message board (forum).",
-    "hash": "sha256-PTTIlb2LOvX9++6OKfnzgM+aNbhrHplwRHpSAhU9reU="
+    "hash": "sha256-h7SP7h+jT+3H+9s7xJOgj3nRJ/YdIy+uA0LqOvds2NY="
   },
   "tt_calender": {
     "version": "1.0.5",
@@ -62108,12 +62106,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "videos": {
-    "version": "12.0.8",
+    "version": "12.0.9",
     "t3_versions": [
       12
     ],
     "description": "Extends video file properties and provides a player for playlists, cue points and subtitles",
-    "hash": "sha256-qCR6ftPXa7FOV1GRJrj7VzcEfml1Erx8Ocng0JWAplw="
+    "hash": "sha256-YJEEi8+GeuX5y4tOpgktll6HQ4Z2zNc+uKVpPIPqjLU="
   },
   "videoswitcher": {
     "version": "0.0.4",
@@ -62799,14 +62797,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "we_cookie_consent": {
-    "version": "4.0.0",
+    "version": "4.0.1",
     "t3_versions": [
       10,
       11,
       12
     ],
-    "description": "Cookie Consent Panel (Optin) with DSGVO/GDPR compliant use of cookies. Preconfigured modules for Google Analytics, Facebook and other frequently used services. Arbitrary expandability with tracking scripts that generate cookies on your website. Support of Google Tag Manager and easy export of Google Tag Manager. Third-party cookies and scripts are only loaded when active consent is given. Website visitors can edit their privacy settings at any time. Automatic update of cookie information when new cookies/scripts are inserted with secure consent procedure. Cookies can be automatically added to the privacy policy via a plugin. Multilingual and full support for desktop, tablet and mobile. Four standard modes for displaying the content solution. Based on Klaro!.",
-    "hash": "sha256-k6puDucwbychwtfO5G9dR13OOHgzFmUVU2EiuslcFoE="
+    "description": "Cookie Consent Panel (Optin) with DSGVO/GDPR compliant use of cookies. Preconfigured modules for Google Analytics, Facebook and other frequently used services. Arbitrary expandability with tracking scripts that generate cookies on your website. Support for Google Tag Manager incl. Google Consent Mode and Google Consent Mode v2. Easy export for Google Tag Manager. Third-party cookies and scripts are only loaded when active consent is given. Website visitors can edit their privacy settings at any time. Automatic update of cookie information when new cookies/scripts are inserted with secure consent procedure. Cookies can be automatically added to the privacy policy via a plugin. Multilingual and full support for desktop, tablet and mobile. Four standard modes for displaying the content solution. Based on Klaro!.",
+    "hash": "sha256-jOlXmfGYQXX7N/c1FLZGmHyE/SFbkK0X6CcdCwFChxk="
   },
   "we_dam2fal": {
     "version": "1.0.12",
