@@ -13117,12 +13117,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "debug_mysql_db": {
-    "version": "1.7.2",
+    "version": "1.8.0",
     "t3_versions": [
       12
     ],
     "description": "Extends \\TYPO3\\CMS\\Core\\Database\\DatabaseConnection and \\TYPO3\\CMS\\Core\\Database\\Connection to show Errors and Debug-Messages. Debugging of sql-queries by debug and FileWriter.",
-    "hash": "sha256-6b7o+wQAAAWwAd1J6frXaBihvRf+kdTYapugLDCkvio="
+    "hash": "sha256-DLKvPKFb27HkcYibsRCROofZzIpRu4BwOXoovsVn7No="
   },
   "debug_settings_task": {
     "version": "2.2.1",
@@ -44390,12 +44390,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "psb_foundation": {
-    "version": "2.2.0",
+    "version": "2.2.1",
     "t3_versions": [
       12
     ],
     "description": "Configuration framework for TYPO3 extension development",
-    "hash": "sha256-jXNDBfTq4NU+WpB7OBXuX5emZwQJ+VAmJPhgi5Xs85M="
+    "hash": "sha256-uqbumNrT8vTNQGQmjbwAH4e35DGlPCK5iNncLPMI9vY="
   },
   "psb_view_helpers": {
     "version": "2.0.0",
@@ -49252,12 +49252,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "secure_downloads": {
-    "version": "6.0.2",
+    "version": "6.0.3",
     "t3_versions": [
       12
     ],
     "description": "\"Secure Download\": Apply TYPO3 access rights to ALL file assets (PDFs, TGZs or JPGs etc. - configurable) - protect them from direct access.",
-    "hash": "sha256-rydIJfkvE2ip3B9+NyElfi27BRYLNfyTE7PqzY/6HTc="
+    "hash": "sha256-vZUu2/E12XBixt9FRR3MzcEr1M/bcXKvW+tKpYCPNDU="
   },
   "secure_filemount": {
     "version": "1.1.1",
