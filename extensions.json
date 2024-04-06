@@ -3525,12 +3525,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "aws_sdk_php": {
-    "version": "3.303.3",
+    "version": "3.303.4",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-zQaywHvwxzXzACgpxEBhp0E14+pcx1JiXn1UL7dHi5o="
+    "hash": "sha256-pHe5GNJvA6MdtfO35IhGN6CQhLJfRsetnW6MEvwbgoc="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -15336,13 +15336,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "dp_cookieconsent": {
-    "version": "12.2.3",
+    "version": "12.2.4",
     "t3_versions": [
       11,
       12
     ],
     "description": "Enable a cookie consent box. Let you visitors control the usage of cookies and load script or content after a consent. (ePrivacy, TTDSG)",
-    "hash": "sha256-64VvqrQuy6Tv2/BuiJ5eDrOaji8dsJBnTlRusGgCa8E="
+    "hash": "sha256-2YqoOk1kuKfh7/MIiGVldJWJcMHyqY4Y/3maVGRbL3Y="
   },
   "dp_editpanel": {
     "version": "0.0.2",
@@ -21904,6 +21904,22 @@
     "description": "",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "gdpr_extensions_com_bm": {
+    "version": "1.0.3",
+    "t3_versions": [
+      11
+    ],
+    "description": "Add content elements for shuffling or sliding banners, boost revenue with custom banners. Create and manage campaigns easily with our code editor. Track impressions, clicks, and other metrics for maximum ROI.",
+    "hash": "sha256-GJzhCsAeFmHfFr0iZEObrmdYjO88pX9sXpnvboZ9l3w="
+  },
+  "gdpr_extensions_com_cm": {
+    "version": "1.0.0",
+    "t3_versions": [
+      11
+    ],
+    "description": "Ensure GDPR compliance effortlessly. Our advanced scanner meticulously checks your website for cookies, external resources, and security issues. Generate detailed reports for validation and peace of mind.",
+    "hash": "sha256-1nVStMsOtRCxN7GQGP1/Lcmjd9KkfdHfRQ3/i8sZ2GU="
+  },
   "gdpr_extensions_com_vimeo": {
     "version": "1.0.6",
     "t3_versions": [
@@ -21912,6 +21928,14 @@
     ],
     "description": "The GDPR Vimeo 2 Click Solution, brought to you by GDPR-Extensions.com, is a feature-rich solution designed to empower website owners in effectively managing Vimeo videos and bolstering user privacy.",
     "hash": "sha256-XGPgqz7quAlk0mL5tCHiDqHQoGmZwvddtEeC1mwozIU="
+  },
+  "gdpr_extensions_com_wm": {
+    "version": "1.0.0",
+    "t3_versions": [
+      11
+    ],
+    "description": "Manage your websites and add various content elements that are GDPR compliant to your website, GDPR Website Manager is your first step to ensure your user’s privacy.",
+    "hash": "sha256-mTJNr9ruSpKiuan6222iSouGt8kqODW2vxxKmacYDiM="
   },
   "gdpr_extensions_com_youtube": {
     "version": "1.0.2",
