@@ -54440,12 +54440,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "store_finder": {
-    "version": "7.0.13",
+    "version": "7.0.14",
     "t3_versions": [
       12
     ],
     "description": "Manage store locations, search by distance and show Google maps.",
-    "hash": "sha256-Z+IHyOR+ev79NLEf5WM497RZV1AQLewWrF6t5e5mC0Y="
+    "hash": "sha256-42NCuE7KEaiZ+R29nOPFTSjCo2wknS++AYEWfxlkcLU="
   },
   "store_hours": {
     "version": "0.1.1",
@@ -56686,12 +56686,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "tagging": {
-    "version": "12.0.0",
+    "version": "12.0.2",
     "t3_versions": [
       12
     ],
     "description": "A patch for TYPO3 to easily add tags just like categories to any element",
-    "hash": "sha256-PJp1M+Xlw3hVA1lfpVsToeeRgfMqvvX0DCPw7e912Pk="
+    "hash": "sha256-LUugrHfUSPHHJXtmLOE5tj4sDikStZ2dQPcPK4KyyL0="
   },
   "tagpack": {
     "version": "0.12.2",
