@@ -9716,13 +9716,13 @@
     "hash": "sha256-xfC4a0AQi5VXRNo1j9WQfFI80zySQiE1ybcbMBl6Mj0="
   },
   "container_elements": {
-    "version": "5.1.0",
+    "version": "5.2.0",
     "t3_versions": [
       11,
       12
     ],
-    "description": "Provides content elements powered by container and bootstrap. Available elements: container, columns, grid, tabs, accordion, tile unit, card and randomizer.",
-    "hash": "sha256-RXsy3yAMjw/eJAwQWrqQTMxBLWs06BTR59irNBTFOSo="
+    "description": "Provides content elements powered by container and bootstrap. Available elements: container, columns, grid, tabs, accordion, tile unit, card, randomizer and slider.",
+    "hash": "sha256-jxW497ItQwfZ5qVouWjHwgJQBEjb0Pk677vxZMDD9rM="
   },
   "container_example": {
     "version": "1.0.0",
@@ -18813,13 +18813,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "feed_display": {
-    "version": "1.3.6",
+    "version": "2.0.0",
     "t3_versions": [
-      11,
       12
     ],
     "description": "Fetches and parses RSS and Atom web feeds with the SimplePie library and prepares them for frontend display",
-    "hash": "sha256-rgPaUby2YOb571uAyjo5G3vcIIhwApLfDkNuqkJJLqQ="
+    "hash": "sha256-2FptuA5ckxUHFX6Dn409JBThX2sPBYCxAJvvPB8vQzc="
   },
   "feed_generator": {
     "version": "0.7.0",
@@ -27776,7 +27775,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "jn_lighterbox": {
-    "version": "1.3.0",
+    "version": "1.3.1",
     "t3_versions": [
       9,
       10,
@@ -27784,7 +27783,7 @@
       12
     ],
     "description": "A very lightweight Lightbox extension for click-enlarging content element images using lightbox2 or any other library of your choice.",
-    "hash": "sha256-B1LyXPuYdzaSiLnAiJT3GjJVkWUnSrkACAaHO7HxZWg="
+    "hash": "sha256-nVRu2ug+XRLEbeAM8tQ+fyhNG5PibLOVdjmM3zXPs90="
   },
   "jn_phpcontentelement": {
     "version": "1.3.0",
@@ -34626,13 +34625,13 @@
     "hash": "sha256-d7l9BhoZHhbjIWXTjqi1Kf0+CxQwYJbK4AnRsNw3ioo="
   },
   "mkcontentai": {
-    "version": "12.1.0",
+    "version": "12.1.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "MK Content AI Extension - OpenAI API",
-    "hash": "sha256-5f7lOKPxgac0cj6B/QAFfB75C2CXC1LeeGAN1YQ3V8g="
+    "hash": "sha256-q+HJyki4W0QROm8RAeCTRnIRKCzEpYPExsVcoUIVleU="
   },
   "mkdam2fal": {
     "version": "1.0.16",
@@ -40790,13 +40789,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "org": {
-    "version": "11.0.10",
+    "version": "11.0.11",
     "t3_versions": [
       10,
       11
     ],
     "description": "The Organiser is a blog database for the lobby. It provides a lot of tables like boards, calendar, contacts, events, jobs, locations, news, organisers, staff, seminars and services.",
-    "hash": "sha256-KtDUKDHWn018Ik3mmMcwfVi+zZD1GNcIXWRXR3d56o4="
+    "hash": "sha256-Z4G/h4qQi9W9uwqtw06lBsplYhvAwjx1nq6TZp/+Afw="
   },
   "org_installer": {
     "version": "8.0.22",
@@ -44653,12 +44652,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "publications": {
-    "version": "6.0.2",
+    "version": "6.1.0",
     "t3_versions": [
       12
     ],
     "description": "Publication reference extension with im- and export with bibtex and xml files",
-    "hash": "sha256-6bqH0nEzhSOAO/ntRvLrKoz48WVkxCmZDHERmtqnqEY="
+    "hash": "sha256-8Cr5FqoEaDR1xcKFyV1eD6E0bJlpIZe4JM32BkChW1M="
   },
   "publish": {
     "version": "11.1.1",
@@ -64772,13 +64771,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "xblog": {
-    "version": "11.2.8",
+    "version": "11.3.1",
     "t3_versions": [
       10,
       11
     ],
     "description": "Quickly assemble a TYPO3 frontend! Publish the data from the tables pages, tt_content and from any other database! No need to set up typoscript.",
-    "hash": "sha256-aPiFdXXxAKEdkWTCnazxF4q3wj+6dXdwswIikUQFp3I="
+    "hash": "sha256-Y0FpFlRp5jTNs+cnrjRhQJu7ZwE8McyfZ4vM/pIUPdA="
   },
   "xdbmysql": {
     "version": "3.0.18",
