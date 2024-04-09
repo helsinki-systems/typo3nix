@@ -3525,12 +3525,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "aws_sdk_php": {
-    "version": "3.303.4",
+    "version": "3.304.0",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-pHe5GNJvA6MdtfO35IhGN6CQhLJfRsetnW6MEvwbgoc="
+    "hash": "sha256-a87wZT+IJrqua+/fQQhP3f6RId3Fb0fx8TlPfrfW9e8="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -5154,6 +5154,14 @@
     ],
     "description": "Provides bookmarks functionality of local pages for logged in frontend users.",
     "hash": "sha256-eGXs80BNtZGV6ph2kzAtAaAnqBrUuHZ8CY8JBMYDo+Y="
+  },
+  "booster": {
+    "version": "10.0.1",
+    "t3_versions": [
+      10
+    ],
+    "description": "Structured data for Typo3 and Google APIs",
+    "hash": "sha256-l4rdBJUuKHC3B096xqABqx9REVLSJFW3Q8uSYn9dWXw="
   },
   "bootstrap_core": {
     "version": "1.2.8",
@@ -9772,12 +9780,12 @@
     "hash": "sha256-zIEstPFHttAq2bRVbuXskLWhPbkZ++m4mcc7E46IM6s="
   },
   "content_blocks": {
-    "version": "0.7.1",
+    "version": "0.7.2",
     "t3_versions": [
       12
     ],
     "description": "TYPO3 CMS Content Blocks - Content Types API",
-    "hash": "sha256-wsPfBrpjPRJ+vobXDOqpfzVRkliOwf9s9MtKx519ryU="
+    "hash": "sha256-nANrY1ceA/QywmZsTkLC9lqt1dq/Qujhq+oD1WSkGXE="
   },
   "content_consent": {
     "version": "2.0.2",
@@ -22650,12 +22658,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "google_cloud_storage_fal": {
-    "version": "2.0.0",
+    "version": "2.0.1",
     "t3_versions": [
       12
     ],
     "description": "Google Cloud Storage FAL driver for TYPO3. Files can be stored in the GCS buckets.",
-    "hash": "sha256-+sH9j8+DbJt+Exr9DuGZ6B3natb1iAJrjX0xNDfm9DA="
+    "hash": "sha256-qDRdvv+q21fvqLJSJjsyd70/M0i8KMjlcourgFsVxdM="
   },
   "google_code_prettify": {
     "version": "1.0.0",
@@ -28614,13 +28622,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "jwtools2": {
-    "version": "6.0.6",
+    "version": "7.0.0",
     "t3_versions": [
-      10,
-      11
+      12
     ],
     "description": "Jwtools2 contains a scheduler task for Solr to index multiple Pagetrees and a task to execute ",
-    "hash": "sha256-pUSe8zTYCVjiDhmYI+Gj3cutZoVKty8i0iVHVrHDyAE="
+    "hash": "sha256-2ognIGXFQvLzsWmKKDJBwem2nJkHKQw885zNCg47tsI="
   },
   "k20events": {
     "version": "1.0.3",
@@ -32661,12 +32668,12 @@
     "hash": "sha256-3mfOryBvxeFvY933oZWBVj/bmIpFQGdypv046cKB9QA="
   },
   "matomo_widgets": {
-    "version": "3.0.0",
+    "version": "3.1.0",
     "t3_versions": [
       12
     ],
     "description": "Dashboard widgets with Matomo reports",
-    "hash": "sha256-+9xr1LUYeH7LxZaAEgfVveaQfJar2WzjczhawYD/D1A="
+    "hash": "sha256-5Nmp89+nBctH+3ysBBWEiNPpA77+oG1mlg2t6K65smY="
   },
   "matomoapi": {
     "version": "1.0.1",
@@ -34347,13 +34354,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mindshape_cookie_consent": {
-    "version": "3.1.2",
+    "version": "3.2.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "This extension provides functionality to create  a customizable cookie consent for your website. It is developed for flexibility to be customized in accordance to your data security guidelines.",
-    "hash": "sha256-NG9aEscdCOptgcTJiQ94HzVOEWb2qROzInk/HBqq5DM="
+    "hash": "sha256-GrB/p76nwYr2avmx9jKzl7z7U2M5AQA4TFoYityHaRc="
   },
   "mindshape_cookie_hint": {
     "version": "1.1.0",
@@ -38464,7 +38471,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "nitsan_hellobar": {
-    "version": "6.0.0",
+    "version": "6.0.1",
     "t3_versions": [
       6,
       7,
@@ -38474,8 +38481,8 @@
       11,
       12
     ],
-    "description": "An API Integration for HelloBar.com - One of the most popular site! Integrate hellobar panel(s) with simple configuration from TYPO3 Backend & Displaying it at global to your TYPO3 site! Live-Demo: https://demo.t3terminal.com/t3t-extensions/ You can download PRO version for more-features & free-support at https://t3planet.com/tyop3-hellobar-api-plugin-free/",
-    "hash": "sha256-T6S+H/Bau4+7nkgmqF8RqaGYCIUunRHut63M2Gq3RNg="
+    "description": "The HelloBar TYPO3 Extension is a valuable tool for configuring and designing messages on your website. It provides tools and services to schedule messages for your guests exactly when you want them to see the messages. With Hello Bar, you can attract guests to your website and improve user engagement.",
+    "hash": "sha256-D/FI8yV34h44qmE1VtAIRPo8YsM4nAGGEkz+0ge4e+o="
   },
   "nitsan_maintenance": {
     "version": "12.0.1",
@@ -38955,15 +38962,15 @@
     "hash": "sha256-oevUHYBYnEnCyZJQ8iZPusuhpo5IPKayTVJcaT2igSM="
   },
   "ns_all_chat": {
-    "version": "12.0.0",
+    "version": "12.0.1",
     "t3_versions": [
       12
     ],
-    "description": "One of the only TYPO3 extension which provides to use most popular chat tool at your website. This TYPO3 extension provides to configure many live chat tools eg., zopim.com, livechatinc.com, purechat.com, livezilla.net, clickdesk.com, tidiochat.com, visitlead.com, onwebchat.com, userlike.com, hipchat.com etc. Live-Demo: https://demo.t3planet.com/t3t-extensions/ You can download PRO version for more-features & free-support at https://t3planet.com/typo3-chat-extension",
-    "hash": "sha256-uZzPVE7Ght3Cg4G0SzaqeZwo7GhYVvbhHvSyiN74gbI="
+    "description": "The All in One TYPO3 Chat Extension is the only TYPO3 extension that helps to integrate the most popular chat tools directly into your website. With this extension, you can easily connect various live chat tools such as zopim.com, livechatinc.com, purechat.com, and more. ",
+    "hash": "sha256-AKlGC41Fz4epHhONd89Dvum6wR7rmUiGXbAqKrWalxk="
   },
   "ns_all_lightbox": {
-    "version": "12.0.0",
+    "version": "12.0.1",
     "t3_versions": [
       7,
       8,
@@ -38972,24 +38979,24 @@
       11,
       12
     ],
-    "description": "One of the only TYPO3 extension which provides to use most popular jQuery Lightbox/Modalbox at TYPO3 content elements. This TYPO3 extension provides to configure many jQuery plugins eg., lightbox2, fancybox2, colorbox, prettyphoto, darkbox, magnific-popup. Live-Demo: https://demo.t3planet.com/t3t-extensions/lightbox/default-lightbox/ You can download PRO version for more-features & free-support at https://t3planet.com/typo3-lightbox-extension",
-    "hash": "sha256-aX/MPEFpFQRGYDieT8OrTpIJ2FtgxAaX7HTv/3MADg0="
+    "description": "Introducing the TYPO3 All-in-One Extension, a plugin that effortlessly integrates popular jQuery slider plugins into your website with just a few clicks! Enjoy a range of slider options including Nivo Slider, Royal Slider, Owlcarousel, Sliderjs Slider, and more.",
+    "hash": "sha256-Bv0AOFxEUI1FE4HbtNwD0m2CVbl97Y/RB+Zk71CxRns="
   },
   "ns_all_sliders": {
-    "version": "12.0.0",
-    "t3_versions": [
-      12
-    ],
-    "description": "One of the only TYPO3 extension which provides to use most popular jQuery slider plugins at your website. This TYPO3 extension provides to configure sliders eg., Nivo Slider, Royal Slider, Owlcarousel, Sliderjs Slider & more. Demo: https://demo.t3planet.com/t3t-extensions/sliders/ You can download PRO version for more-features & free-support at https://t3planet.com/all-in-one-slider-pro/",
-    "hash": "sha256-SAP9VawOt8EeKwL3Npy2Z/KvnbUT2MlP1nFzT8wk+Pg="
-  },
-  "ns_backup": {
     "version": "12.0.1",
     "t3_versions": [
       12
     ],
-    "description": "First-ever feature-rich TYPO3 backup solution with manual and scheduled backup. Easy to use and configure. Backup your TYPO3 code, assets, database etc to your favourite backup clouds/servers. Demo-Screecasts: http://demo.t3planet.com/t3t-extensions/backup/ You can buy PRO-version to get more features and free-support at https://t3planet.com/ns-backup-typo3-extension",
-    "hash": "sha256-cwik0FWUm7SHGe2CyA8H87/ci2TcaSW2oJEtoVqRJk4="
+    "description": "TYPO3 Slider Extension - All In One TYPO3 Slider Extension. Experience the power of this versatile TYPO3 slider plugin, integrating the most popular jQuery slider plugins seamlessly into your website. With configurable options for Nivo Slider, Royal Slider, Owlcarousel, Sliderjs Slider, and more, our TYPO3 Slider Extension transforms your site's visual appeal.",
+    "hash": "sha256-Q/51jGC0KxgzZKRKzMgP7yaBSnH7DpIgjk6q+qNTOiM="
+  },
+  "ns_backup": {
+    "version": "12.0.2",
+    "t3_versions": [
+      12
+    ],
+    "description": "Easily backup your entire TYPO3 website. The Backup Plus extension for TYPO3 lets you save your code, files, and database with just a few clicks. Install Backup Plus and connect it to your cloud storage (like Google Drive, Dropbox, Amazon S3, SFTP, Rsync, etc.) and backup your entire TYPO3 site manually with a single click.",
+    "hash": "sha256-+Ms2tV1xJsjzfNLmrQmeJIV4tYQIJ5YkyCS2m3TQh0c="
   },
   "ns_basetheme": {
     "version": "12.1.4",
@@ -39009,24 +39016,24 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ns_cloudflare": {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "t3_versions": [
       11,
       12
     ],
-    "description": "The Cloudflare TYPO3 extension ensures your TYPO3 website is running optimally on the Cloudflare platform.",
-    "hash": "sha256-qujPaRruoMvLaHGRBIi434x+10SRi5sYw+QEPLTNBOw="
+    "description": "The TYPO3 Cloudflare Extension simplifies cache management, offering an efficient solution for TYPO3 administrators and developers. Seamlessly integrating with Cloudflare, a global leader in web performance and security, this extension provides advanced features to optimize, secure, and structure your online presence.Compatible with TYPO3 version 12. ",
+    "hash": "sha256-cVNZM+egUt4nVMtA9qDSWqg8P5WfHGe43nAZOJ3eYzc="
   },
   "ns_comments": {
-    "version": "12.0.0",
+    "version": "12.0.1",
     "t3_versions": [
       12
     ],
-    "description": "Plug-n-play TYPO3 extension to integrate feature-rich comments features anywhere to your TYPO3 site. This extension includes features like post comment, reply to comment, multi-level comment thread, admin moderation etc., Live-Demo: https://demo.t3planet.com/t3t-extensions/comments You can download PRO version for more-features & free-support at https://t3planet.com/typo3-comment-extension-typo3-pages-pro",
-    "hash": "sha256-RQE9lZUXHgi2V2+RRsLBKpsZTSvzWolFXSM+YZz/Sgw="
+    "description": "The TYPO3 Comment Extension simplifies the process for visitors to leave comments on your website's published pages. It utilizes nested comments to create a user-friendly experience. Admins receive email notifications, allowing them to easily manage comments either through email or the backend.",
+    "hash": "sha256-lpED6rGe5UWFi//9Rk2n8QB78eQjFULlmilmuuk4wOQ="
   },
   "ns_cookiebot": {
-    "version": "3.0.0",
+    "version": "3.0.1",
     "t3_versions": [
       6,
       7,
@@ -39036,8 +39043,8 @@
       11,
       12
     ],
-    "description": "Quickly configure Cookiebot.com to your TYPO3 site to helps make your use of cookies and online tracking GDPR and EPR compliant. LIVE-demo: https://demo.t3planet.com/t3t-extensions/cookiebot PRO-version: https://t3terminal.com/cookiebot-gdpr-compliant-typo3-extension-free",
-    "hash": "sha256-vevaHfnDzI5ycBvZ+aY4ERZ+f5qWROjHo0DyoYPfD24="
+    "description": "The Cookiebot.com GDPR Compliant TYPO3 Extension aids publishers, technology vendors, and advertisers in complying with GDPR and ePrivacy Directive regulations by ensuring transparency and obtaining user consent. T3Planet has developed a TYPO3 CMS extension to seamlessly integrate Cookiebot, one of the most popular solutions for managing cookies.",
+    "hash": "sha256-hw305seTlDMz0Ow9QZmWi63skxp6ydZJgoUI0++1ncU="
   },
   "ns_cookies": {
     "version": "2.0.1",
@@ -39065,15 +39072,15 @@
     "hash": "sha256-eCq0aoyPQhyK2VlLDz4GiDj0Z/JfQMCGJDCSmZ0v1Ks="
   },
   "ns_disqus_comments": {
-    "version": "12.0.0",
+    "version": "12.0.1",
     "t3_versions": [
       12
     ],
-    "description": "Easily configure Disqus.com plugin to your TYPO3 pages, news, blogs etc., Disqus is world one of the most popular comment system. LIVE Demo: https://demo.t3terminal.com/t3t-extensions/disqus-comment/ PRO version: https://t3planet.com/typo3-disqus-comment-extension",
-    "hash": "sha256-Tpe3yFTPNX0sjr8gz29BqMKetju+hX7RPnmUS7CQyxU="
+    "description": "Using the TYPO3 Disqus Comment Extension you can connect DISQUS comments plugin into your website. This extension adds a DISQUS comments section to TYPO3 pages, allowing users to comment using their favorite social networks. Users can receive notifications about new replies, share messages, and engage with your content. ",
+    "hash": "sha256-jLdfZ2syUjKweeeszZ7/GGaMcosoqXxv+8xVBKGerOI="
   },
   "ns_ext_compatibility": {
-    "version": "5.1.1",
+    "version": "5.1.2",
     "t3_versions": [
       4,
       6,
@@ -39082,8 +39089,8 @@
       9,
       10
     ],
-    "description": "One of the only TYPO3 extension which provides all the features like TYPO3 Extensions Compatibility Report, Notification of new update via Email, System overview report, Compatible with all major version of TYPO3 from 4.x to 9.x. This extension will help you to check TYPO3 upgrade technical feasibility & complexity. Demo: https://demo.t3terminal.com/t3t-extensions/extension-compatibility/ You can download PRO version for more-features & free-support at https://t3terminal.com/typo3-extensions-compatibility-report-pro/",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "description": "Are you in need of a TYPO3 Extension that offers features such as system information reporting, statistical analysis of TYPO3 extensions, downloadable compatibility options, and more? TYPO3 Extensions Compatibility Report, tailored to meet your specific requirements! Compatible with all major versions of TYPO3 , it assists you in assessing the feasibility and complexity of TYPO3 upgrades. ",
+    "hash": "sha256-0ZSoWUcfEsWx3D/uMJQnVuC66OwGoaAjE3GydAeaRGE="
   },
   "ns_facebook_comment": {
     "version": "2.0.2",
@@ -39099,72 +39106,72 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ns_faq": {
+    "version": "12.0.3",
+    "t3_versions": [
+      12
+    ],
+    "description": "The Ultimate FAQ TYPO3 Extension helps in managing Frequently Asked Questions easy and efficient for your TYPO3 website. With its user-friendly backend module, you can effortlessly add, customize, and style the FAQs. It's fully compatible with the latest TYPO3 Version",
+    "hash": "sha256-wgMBhJui1rgYGR1krCBILgWnjKBfpQk85ASkJLOC2KY="
+  },
+  "ns_feedback": {
+    "version": "12.0.5",
+    "t3_versions": [
+      12
+    ],
+    "description": "The TYPO3 Feedback Extension is a great tool for gathering feedback from visitors or customers on your website. With the All In One TYPO3 Feedback extension, website admin can easily add feedback forms in various styles to their website, allowing them to collect valuable insights from their visitors.",
+    "hash": "sha256-aBNroYe+ZUigDCePRh0IZ2rpzUtKozXICjLl41GhNwU="
+  },
+  "ns_friendlycaptcha": {
     "version": "12.0.2",
     "t3_versions": [
       12
     ],
-    "description": "One of the only feature-rich TYPO3 FAQ extension-ever. Live-Demo: https://demo.t3planet.com/t3t-extensions/faq/ You can download PRO version for more-features & free-support at https://t3planet.com/ns-faq-typo3-extension",
-    "hash": "sha256-H9d5LgMQ/qiL9UTMYcki9075EulHSgyLKOFmWD5XtL4="
-  },
-  "ns_feedback": {
-    "version": "12.0.4",
-    "t3_versions": [
-      12
-    ],
-    "description": "One of the only feature-rich TYPO3 feedback extension-ever! Live-Demo: https://demo.t3planet.com/t3t-extensions/feedback/ You can download PRO version for more-features & free-support at https://t3planet.com/ns-feedback-typo3-extension",
-    "hash": "sha256-6RwAiYh3Fu+RLuDxvKsZnLufbPIgNaRAz+K3gWjn9vA="
-  },
-  "ns_friendlycaptcha": {
-    "version": "12.0.1",
-    "t3_versions": [
-      12
-    ],
-    "description": "Integrate official friendlycaptcha.com (Europe's most leading Captcha solution) to the TYPO3 core EXT:form extension. Live Demo: https://demo.t3planet.com/t3t-extensions/friendly-captcha Premium Support: https://t3planet.com/typo3-friendly-captcha-extension",
-    "hash": "sha256-C5338m59gflUU2XNxz6ahYqhvlm6kaqX1AJ/DidbH+8="
+    "description": "Friendly Captcha is a new way to protect your forms from bots without asking users to solve puzzles. It fully complies with GDPR regulations. Their device solves the challenge in the background, so they don't have to do anything extra. ",
+    "hash": "sha256-xc/cXKEr4b9XrLDL3fT9EqsL5TziUZ7Vt4UVkdn7hsc="
   },
   "ns_gallery": {
-    "version": "12.0.1",
+    "version": "12.0.2",
     "t3_versions": [
       12
     ],
-    "description": "Do you want to integrate feature-rich gallery solution to your TYPO3 site? The extension includes wide-range of gallery album variations. Demo: https://demo.t3planet.com/t3t-extensions/gallery You can download PRO version for more-features & free-support at https://t3planet.com/ns-gallery-typo3-extension",
-    "hash": "sha256-xsBF+Znk1r0NoDMnL8dROu4FfhwgtUSDM+O1WDn7YV0="
+    "description": "Using the All In One TYPO3 Gallery Extension, you can easily create beautiful lightbox image and video galleries with various grid layouts right from the TYPO3 dashboard in just a few clicks. Try the best TYPO3 gallery extension for adding custom, unique and responsive galleries to your website.",
+    "hash": "sha256-XsZdgwirSW6b4ejHdLo3HzkGVJH8gSrCAwStcS7pJmg="
   },
   "ns_google_map": {
-    "version": "12.0.1",
+    "version": "12.0.2",
     "t3_versions": [
       12
     ],
-    "description": "This extension can easily integrate of powerful features of Google map like find-places, find-direction between locations etc. Live-Demo: https://demo.t3planet.com//t3t-extensions/google-map You can download PRO version for more-features & free-support at https://t3planet.com/typo3-google-map-typo3-extension-pro",
-    "hash": "sha256-np71T965w+9qljPHDPuHZVrMVR1OJm6qQwCMwuqrkX4="
+    "description": "Introducing the TYPO3 Google Map Extension! This TYPO3 extension enables you to seamlessly add and customize Google Maps to your website with ease. Designed with responsive layouts and SEO-friendly features, it ensures a smooth and optimized experience for your visitors.",
+    "hash": "sha256-d56t0LV5x4uR80dXXh3q7LwLGRjbYG2k3bro0WJ82Og="
   },
   "ns_googledocs": {
-    "version": "2.0.0",
+    "version": "2.0.1",
     "t3_versions": [
       8,
       9,
       10,
       11
     ],
-    "description": "First-ever feature-rich TYPO3 solution to one-click import your Google Docs to your TYPO3 pages, news and blog. Demo: https://demo.t3planet.com/t3t-extensions/ns-google-docs PRO: http://t3planet.com/ns-google-docs-typo3-extension",
-    "hash": "sha256-Jhk1L9Xe5Ao3pDN2j1TMR9nqX9kAwyVEtTRDFUr6CnM="
+    "description": "Manually transferring all content from Google Docs to your TYPO3 website can be a boring task, right? We understand your concerns, which is why we've created an efficient solution to simplify this migration process for TYPO3 users. Our innovative solution allows you to import your Google Docs directly into your TYPO3 pages, news, and blogs with just one click, saving you valuable time. ",
+    "hash": "sha256-0qPSKL4orLEda4qMUz6Z0Q14T4ISW6AKYJGsQxJbWdU="
   },
   "ns_gridtocontainer": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "t3_versions": [
       10,
       11
     ],
-    "description": "Easily migrate from EXT:gridelements to EXT:container; Get premium support at https://t3planet.com/typo3-gridelements-container",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "description": "Are you tired of waiting for a public version of Gridelements for the current TYPO3 version? With EXT:container, there's a public solution available for creating grids and containers in TYPO3. We've developed a developer-friendly TYPO3 extension called EXT:ns_gridtocontainer to help you migrate from EXT:gridelements to this new extension. By using our TYPO3 extension, you can easily migrate and save yourself time and effort. ",
+    "hash": "sha256-s4cYTJBuTkAxQZ4tnurGoPUtRV6ZgJ/0EgGc38W9cXA="
   },
   "ns_guestbook": {
-    "version": "12.0.0",
+    "version": "12.0.1",
     "t3_versions": [
       12
     ],
-    "description": "One of the only TYPO3 extension which provides to integrate all the features of Guestbook like review form with send mail, list of guest. Demo: https://demo.t3planet.com/t3t-extensions/guestbook/ You can download PRO version for more-features & free-support at https://t3planet.com/typo3-guestbook-extension/",
-    "hash": "sha256-UaGY6mlGY12FOVc09+OtqrnvIKb+31BiuL1fYD8lsAE="
+    "description": "TYPO3 Guestbook Extension easily integrates all the features of a guestbook, including a review form with email sending functionality. This TYPO3 guestbook plugin also includes spam protection and numerous customization options. Guests can share their reviews, ratings, and contact details, as well as personal experiences, through this Guestbook TYPO3 Extension. ",
+    "hash": "sha256-jS9Y33arJnq37nqR+/x/sboC4Cu+LBcOjhQ/uGO7S2c="
   },
   "ns_headless_blog": {
     "version": "1.0.0",
@@ -39184,21 +39191,21 @@
     "hash": "sha256-DSVYVOyfTNbpZqnbsFA6VVfQgOeCL3864aaWXJ+UHyA="
   },
   "ns_helpdesk": {
-    "version": "12.0.3",
+    "version": "12.0.4",
     "t3_versions": [
       12
     ],
-    "description": "An all-in-one TYPO3 Help Desk extension that helps you balance everything your customers need to be happy. Demo: https://demo.t3planet.com/t3t-extensions/helpdesk You can download PRO version for more-features & free-support at https://t3planet.com/ns-helpdesk-typo3-extension",
-    "hash": "sha256-TdR+iEp08YCxUUnVvWAJTj7oukl/yZ1uQxiSVBNo7uo="
+    "description": "Manage customer support with the all-in-one TYPO3 Help Desk extension. This user-friendly tool lets you set up a support help desk quickly with support tickets, providing a dedicated dashboard, ticketing system, email notifications, restricted access, and options for file and media uploads.",
+    "hash": "sha256-t3fK78c6Tqwkwd9izWrInqaWVcR2f3bsCYAxypqI4ms="
   },
   "ns_hubspot": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "t3_versions": [
       11,
       12
     ],
-    "description": "Easily install and configure your TYPO3 form with HubSpot CRM. Demo: https://demo.t3planet.com/t3-extensions/typo3-hubspot-crm You can download PRO version for more-features & free-support at https://t3planet.com/typo3-hubspot-extension",
-    "hash": "sha256-e1mCPUE0SPTMXoSj02eL9g/LJvVuQK8zS30O07MmwEQ="
+    "description": "HubSpot Extension for TYPO3 forms easily connects with HubSpot CRM. This TYPO3 add-on for your forms ensures you capture all leads from your TYPO3 websites. Take advantage of your leads! Our integration of TYPO3 forms and HubSpot CRM offers a strong combination that will change the way you collect, nurture, and convert leads. ",
+    "hash": "sha256-jCClL1DA/rkavnnbKWUmrPixckzDrF2k4ckp7pa7QU8="
   },
   "ns_instagram": {
     "version": "3.0.4",
@@ -39237,58 +39244,58 @@
     "hash": "sha256-PRl6opwFWuVralM20nSQwCqi/iKooM9i8vJBNHlJNns="
   },
   "ns_news_advancedsearch": {
-    "version": "12.0.1",
+    "version": "12.0.2",
     "t3_versions": [
       12
     ],
-    "description": "Do you want more rich search features into your favourite EXT:news? By installing this extension, you can search by category, title, teaser etc. Know  more in manual. Live-Demo: https://demo.t3planet.com//t3t-extensions/news-advancedsearch You can download PRO version for more-features & free-support at https://t3planet.com/advanced-search-typo3-news-extension",
-    "hash": "sha256-woQi0bLGITpQcQQMmT5GxIdCgTRV24PkdVDvH9H1fV8="
+    "description": "Enhance your TYPO3 News Extension with the Advanced TYPO3 News Extension. Expand your news search capabilities with detailed, precise results and the ability to filter content by specific fields using the Advanced Extension. This extension incorporates specially crafted search algorithms to ensure both speed and relevance in your searches. ",
+    "hash": "sha256-K05vifu/avD/9wqf08bFcnS8lOD7YvrV5DD2wh0eQdQ="
   },
   "ns_news_comments": {
-    "version": "12.1.0",
+    "version": "12.1.1",
     "t3_versions": [
       11,
       12
     ],
-    "description": "Do you want to smoothly integrate comment features in your favourite News extension? This extension includes powerful features like post comment, reply to comment, multi-level comment thread, moderation etc., Demo: https://demo.t3planet.com/t3t-extensions/news-comments/ You can download PRO version for more-features & free-support at https://t3planet.com/news-comment-typo3-extension/",
-    "hash": "sha256-fzamKEVHZHdmuV8ZWodqBW9bnLSY3ra/BG9LW5kDQwk="
+    "description": "All New TYPO3 News Comment Extension helps add comments to your news pages and articles. It comes with a variety of features for managing and customizing comments. It is designed to enhance user experience with a simple interface and is SEO-friendly.",
+    "hash": "sha256-WgyXQQwVpwdHxlEq8AkekBDMHgHpalGqAoo2VwQx1ps="
   },
   "ns_news_slider": {
-    "version": "12.0.0",
-    "t3_versions": [
-      12
-    ],
-    "description": "Do you want cool sliders for most popular TYPO3 EXT:news? This extension includes nivo-slider, owlcarousel, royal-slider, slidejs, slick-slider etc. Demo: https://demo.t3planet.com/t3t-extensions/news-slider/ You can download PRO version for more-features & free-support at https://t3planet.com/news-slider-typo3-extension",
-    "hash": "sha256-nVF4zMHU5dXd4i4WGhNc+6iPfYbXc3a325OlXZOC8D8="
-  },
-  "ns_open_streetmap": {
     "version": "12.0.1",
     "t3_versions": [
       12
     ],
-    "description": "This extension can easily integrate of powerful features of OpenStreet map like find-places, find-direction between locations etc. Live-Demo: https://demo.t3planet.com/t3-extensions/openstreet-map You can download PRO version for more-features & free-support at https://t3planet.com/typo3-openstreetmap-extension",
-    "hash": "sha256-oanDoWfVNew6kVrC+YMF0BvX7+BQcbOaVdaTwDykFGQ="
+    "description": "The TYPO3 News Slider extension lets you create an attractive news slider for your website. It offers several popular JQuery slider plugins like Owlcarousel Slider, Royal Slider, Slidejs Slider, and Slick Slider. It's an easy and convenient way to add a news slider to your site!",
+    "hash": "sha256-AeDN/eV0gwwcF7NhZaRhcpIx1vsygWVCaRFHVA+KEXs="
+  },
+  "ns_open_streetmap": {
+    "version": "12.0.2",
+    "t3_versions": [
+      12
+    ],
+    "description": "The TYPO3 OpenStreetMap extension allows you to effortlessly embed maps from OpenStreetMap into your TYPO3 website. It enables features such as 5+ OpenStreetMap styles, displaying physical addresses, location popups, and 10+ customization options, compatible with TYPO3 v12.",
+    "hash": "sha256-V9rbM92iLlE2XaB3GiAIpeRhbvyx0DqqsmP0oz4Ynfc="
   },
   "ns_openai": {
-    "version": "1.3.1",
+    "version": "1.3.2",
     "t3_versions": [
       10,
       11,
       12
     ],
-    "description": "First-ever ChatGPT (by OpenAI) feature-rich content assistance in TYPO3 that automates content creation and optimization. The extension comes with numerous features like SEO optimization, Create AI-Page, Language Translation, Chat assistance, Read-to-use helpful prompts, etc. Explore more https://t3planet.com/t3openai-typo3-chatgpt-extension",
-    "hash": "sha256-7P4jwGa5LQDs4CphNH+LNNZAzVo+WnLxMaOtD//QrM0="
+    "description": "T3AI — TYPO3 meets Artificial Intelligence with OpenAI (ChatGPT, DALL-E, etc). T3AI provides rich content assistance, automating tasks like content creation and SEO optimization. It offers wide range of features like quick sidebar options, AI page creation, RTE chatbot, Language translation, Chat assistance, and Helpful prompts and so on.",
+    "hash": "sha256-bSdw053IFFurfiQ6sa5d19IWaaZwc3amM4rfyS4r3ss="
   },
   "ns_personio": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "t3_versions": [
       9,
       10,
       11,
       12
     ],
-    "description": "This TYPO3 CMS extension seamlessly integrates a job portal from the Personio Recruiting API into TYPO3. It offers a range of features, including job listing, customizable layouts and designs, robust search and filtering options, and a user-friendly application form etc. Explore more https://t3planet.com/typo3-personio-extension",
-    "hash": "sha256-G8dS+M/G6i6v6PWneGP35I3rLnXKgE6OSEJ9eNWnZCs="
+    "description": "The extension offers various customization options for job listing, detail, and application pages on the frontend. Additionally, a scheduler ensures data synchronization. Directly list, view, and apply to Personio vacancies through the TYPO3 Backend. ",
+    "hash": "sha256-WqPKsgFIcCHZs/ACt5SXxA/faW/yCJPhktk6qhKKdM8="
   },
   "ns_protect_site": {
     "version": "2.0.4",
@@ -39302,28 +39309,28 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ns_revolution_slider": {
-    "version": "12.0.0",
+    "version": "12.0.1",
     "t3_versions": [
       12
     ],
-    "description": "World's most popular WordPress slider revolution is now available in TYPO3. We recommend to try our premium version, which includes backend slider revolution mdoule https://t3planet.com/revolution-slider-typo3-extension",
-    "hash": "sha256-Gy1PwW6weyXEkA8417ziuMb+xswL07fvAHI9nC+MxYs="
+    "description": "More than just a TYPO3 Slider! The TYPO3 Slider Revolution is developed in official partnership with Slider Revolution. It allows you to create effective sliders easily using the drag-and-drop feature. It comes with over 250+ modern slider templates and more than 2000+ pre-built slider elements, offering a wide range of transitions and effects.",
+    "hash": "sha256-HWJ14MqBLt8+z39ESl7hKsWAwjoVWSeYhC0LXAsIO04="
   },
   "ns_sharethis": {
-    "version": "12.0.0",
+    "version": "12.0.1",
     "t3_versions": [
       12
     ],
-    "description": "Easy to configure socially-share your TYPO3 site using www.Sharethis.com which is one of the most popular third-party social media platform! Live-Demo: https://demo.t3planet.com/t3t-extensions/ You can download PRO version for more-features & free-support at https://t3planet.com/typo3-sharethis-extension",
-    "hash": "sha256-Gq5f97M42dqRNDRKJMLT4MRrlI4y6mAy9sN1F0F+7TY="
+    "description": "With Help of TYPO3 ShareThis Extension, users can share the page/post with others effortlessly using the native share action.Additionally, you can choose which pages or posts to show the share buttons via our Settings page, making it simple to add the share feature to your websites.TYPO3 v12 Compitibilty is Plus! ",
+    "hash": "sha256-xVFsaavQo/WR6o5/G4USI5sRsKyHHXTzUfHQXbwD5lc="
   },
   "ns_snow": {
-    "version": "12.0.0",
+    "version": "12.0.2",
     "t3_versions": [
       12
     ],
-    "description": "Christmas Snow spreads the cheer of Christmas by adding beautiful snowflakes and snow-fall animation to your TYPO3 website with our little addon ns_snow and all the pages will show falling flakes of snow! LIVE Demo: https://demo.t3planet.com/t3t-extensions/snow/ PRO version: https://t3planet.com/snowfall-typo3-extension-free",
-    "hash": "sha256-9G+Xr27b8h0H0oI1LQG7JFEinIno99/IVq/LMMG5QdI="
+    "description": "Spread the joy of Christmas on your TYPO3 website with the Snowfall TYPO3 Extension. This addon, ns_snow, adds beautiful snowflakes and snowfall animation to all pages, creating a festive atmosphere. TYPO3 Snowfall Extension is also compatible with the latest TYPO3 Version 12. *** Live-Demo: https://demo.t3planet.com/t3-extensions/snow/ *** Documentation & Free Support: https://t3planet.com/typo3-snowfall-extension",
+    "hash": "sha256-Fuw21YuVRkOF9WiaugGVuGNngvMClVgl3NiemMzDFE8="
   },
   "ns_statcounter": {
     "version": "3.0.2",
@@ -39397,12 +39404,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ns_timeline": {
-    "version": "12.0.0",
+    "version": "12.0.1",
     "t3_versions": [
       12
     ],
-    "description": "All In One Timeline TYPO3 Extension lets you create stories, timelines, history, roadmap, and what not with unlimited possibilities and 18 unique styles and layouts. Live-Demo: https://demo.t3planet.com//t3t-extensions/timeline You can download PRO version for more-features & free-support at https://t3planet.com/ns-timeline-typo3-extension",
-    "hash": "sha256-yWn/0pkM5b6RWZ7dTGxTzfr9jQC0w/6dRa6oY9HNK7o="
+    "description": "Create engaging stories, timelines, histories, and roadmaps easily with the All In One Timeline TYPO3 Extension. With 18 unique styles and layouts, this extension offers unlimited possibilities for showcasing content on your TYPO3 website. Additionally, the TYPO3 Event extension integrates with TYPO3 Blog and TYPO3 News extensions allowing you to display timeline posts.",
+    "hash": "sha256-M6wLuB5sLSm5lvBJvKTb22bUG+lJkDxexx/Q6btl8pw="
   },
   "ns_twitter": {
     "version": "3.1.0",
@@ -39417,30 +39424,30 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ns_whatsapp": {
+    "version": "12.0.2",
+    "t3_versions": [
+      12
+    ],
+    "description": "Introducing the TYPO3 WhatsApp Chat Extension for your TYPO3 websites, seamlessly integrating WhatsApp chat into your site. Customize colors to match your brand, and personalize agent profiles with their image, job title, and button options. Plus, advanced chat settings! ",
+    "hash": "sha256-R9rRACp8+DXYwwYDc9x7FnBqEjy2A0rZTjFnhCGBc5A="
+  },
+  "ns_youtube": {
     "version": "12.0.1",
     "t3_versions": [
       12
     ],
-    "description": "TYPO3 WhatsApp Chat allows your visitors to start a WhatsApp conversation, share messages or join a group from your website with a single click. Live-Demo: https://demo.t3planet.com/t3t-extensions/social-networking/whats-app You can download PRO version for more-features & free-support at https://t3planet.com/typo3-whatsapp-chat-extension",
-    "hash": "sha256-6YP3yBl8aaSSHRK3B8SByNJxvH7Kro76j8BjU8wIrOs="
-  },
-  "ns_youtube": {
-    "version": "12.0.0",
-    "t3_versions": [
-      12
-    ],
-    "description": "One of the only TYPO3 extension which provides to integrate all the features of Youtube.com like Simple Video, Channel, Playlist and Live-stream to your TYPO3 site. Live-Demo: https://demo.t3planet.com/t3t-extensions/youtube/ You can download PRO version for more-features & free-support at https://t3planet.com/typo3-youtube-extension",
-    "hash": "sha256-6jr8dAw21puqbaGVWP6Cc94bCYHhv+IzZIvQ/GGxtUk="
+    "description": "Using Youtube TYPO3 Extension you can display your YouTube videos directly on your TYPO3 site within a video box, allowing visitors to view them without being redirected to www.youtube.com. It easily integrates all YouTube features, such as Simple Video, Channel and Playlist management, Live-streaming, and engagement options such as likes and subscribe. ",
+    "hash": "sha256-OMfJbHIe85k/0BTZiQcpWwkgoBsGvLDXke8bdLkr+B8="
   },
   "ns_zoho": {
-    "version": "1.0.2",
+    "version": "1.0.3",
     "t3_versions": [
       10,
       11,
       12
     ],
-    "description": "Easily install and configure your TYPO3 form with zoho CRM. Demo: https://demo.t3planet.com/t3-extensions/typo3-zoho-crm You can download PRO version for more-features & free-support at https://t3planet.com/typo3-zoho-extension",
-    "hash": "sha256-NQ0zhcHXKeR0PUNkrT6LCNH8RdVbhWIr0W2RMiiCoFA="
+    "description": "The TYPO3 Zoho Extension offers seamless integration between TYPO3 forms and Zoho CRM, streamlining the lead management process. By automatically capturing leads from your website, this innovative integration ensures no opportunity is missed. ",
+    "hash": "sha256-YzaGmQOfTZaTyNx6g/Xwfihk2sWehEc1apFnRVr5tRg="
   },
   "ns_zoho_crm": {
     "version": "3.0.0",
@@ -43729,6 +43736,14 @@
     "description": "Popup manager",
     "hash": "sha256-FPksWFGVJNXjbkh5cvv1NQwmwWzuX3aDX10gKH5LHgc="
   },
+  "popup_power": {
+    "version": "1.0.2",
+    "t3_versions": [
+      12
+    ],
+    "description": "Powerful TYPO3 extension to display popups.",
+    "hash": "sha256-GWlkxzSkD68mo28k5FOBQnBwqHUW6XBZC4LV/tg0PK0="
+  },
   "popup_sitemap": {
     "version": "1.1.2",
     "t3_versions": [],
@@ -43996,14 +44011,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "powermailrecaptcha": {
-    "version": "5.2.0",
+    "version": "5.2.1",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Google recaptcha extension for powermail",
-    "hash": "sha256-mFkRMreRR6gYxf0bBYLs6H8bi0yzaUVyVWa5JeSnpcg="
+    "hash": "sha256-iDqwAMrn9AAfY9Gt6eQRSlBRv1tuk2tWluYnTSj0FvI="
   },
   "powersearch": {
     "version": "1.0.2",
