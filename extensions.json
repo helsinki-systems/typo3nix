@@ -3525,12 +3525,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "aws_sdk_php": {
-    "version": "3.304.0",
+    "version": "3.304.1",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-a87wZT+IJrqua+/fQQhP3f6RId3Fb0fx8TlPfrfW9e8="
+    "hash": "sha256-fdkb/R9TE6nx3rWtGPxg7qplka5w38n7GwVFgUGeQMc="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -6814,12 +6814,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "camaliga": {
-    "version": "12.1.0",
+    "version": "13.0.0",
     "t3_versions": [
       12
     ],
     "description": "A carousel/gallery/map/list extension that can use the TYPO3 categories and different jQuery-plugins like Slick. Bootstrap 5 support. Indexer for ke_search.",
-    "hash": "sha256-NEty5EjyP370eLoC/5BJI9PThRpzdokaTAttLIgzBpk="
+    "hash": "sha256-JvRSULI5yAdakUSOLSSw+BYkR4Nq5V041p1BmyzGZ/Y="
   },
   "campaignmonitor": {
     "version": "2.0.0",
@@ -14022,12 +14022,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "div2007": {
-    "version": "2.1.2",
+    "version": "2.1.3",
     "t3_versions": [
       12
     ],
     "description": "This library offers classes and functions to other TYPO3 extensions. Replacement for tslib_pibase methods.",
-    "hash": "sha256-69L4RMmzZ2r4QEmmEQi9C546of//BnV9ovG3sVCoEZk="
+    "hash": "sha256-OV01dtHALHpAhKW5P619UtAC93QcIY4diQSDdRtpLl4="
   },
   "diva": {
     "version": "8.7.1",
@@ -21236,21 +21236,21 @@
     "hash": "sha256-BWibo3/20xqtaX8DidK/HYtgtpJvSyzjCx9HqXRROF8="
   },
   "fp_masterquiz": {
-    "version": "4.2.2",
+    "version": "5.0.1",
     "t3_versions": [
       12
     ],
     "description": "A modern extension that offers quiz, polls and tests. Ajax support. The result can be displayed as a chart too. Supports 8 question modes.",
-    "hash": "sha256-dYmm8TB/6q4XJxMsiMXSZqDq1t2KiDtpt027I7hf3Tk="
+    "hash": "sha256-Nr+QkYcU6tLHO1s06LggglYbjYT3vhTUk0ibonpdEeo="
   },
   "fp_newsletter": {
-    "version": "6.4.2",
+    "version": "7.0.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Plugin for newsletter subscription and unsubscription with double opt in (and double opt out). For: mail or luxletter / tt_address or fe_users. A log is written.",
-    "hash": "sha256-m05u0mmjBHB8jFIl1eAoubFC3jOezEkWo5d0ewBtzKI="
+    "hash": "sha256-E2buhm+EPjoX2Hlu39NRU73iWLVIXVm1GBwmeu/S6Tw="
   },
   "fp_product_features": {
     "version": "0.2.0",
@@ -23734,12 +23734,12 @@
     "hash": "sha256-e8c+S9ALI6DFfS4LVMPqVRBlVh6qjuZMJcujaSv0sVo="
   },
   "hh_simple_job_posts": {
-    "version": "3.3.0",
+    "version": "4.0.0",
     "t3_versions": [
       12
     ],
     "description": "Adds plugins for list / show job postings with meta-data and schema.org stuff. Uses tt_address for job-contacts and job-location.",
-    "hash": "sha256-zoiQyKgF8zzP3l1NKoYggjR05bJamOO7d+Gp+5Bk8t8="
+    "hash": "sha256-HcxzN6p6Qs62d63IlPR2X+A7W3U3RA9tP/1NaFyykBk="
   },
   "hh_slider": {
     "version": "0.5.1",
@@ -28009,12 +28009,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "jpfaq": {
-    "version": "12.4.2",
+    "version": "12.5.0",
     "t3_versions": [
       12
     ],
     "description": "Frequently Asked Questions (FAQ) plugin. With categories, on-the-fly search, customer helpfulness tracking and comments.",
-    "hash": "sha256-eQ7L+e9jwyfM+VdyWQESxQJIApZVQVBqcNN8uSEq92g="
+    "hash": "sha256-F9uGsQPZxWV154WIG/xqvSs21jDT2CqCqVnLuyWlUTA="
   },
   "jpgraph": {
     "version": "0.3.11",
@@ -39079,6 +39079,17 @@
     "description": "Using the TYPO3 Disqus Comment Extension you can connect DISQUS comments plugin into your website. This extension adds a DISQUS comments section to TYPO3 pages, allowing users to comment using their favorite social networks. Users can receive notifications about new replies, share messages, and engage with your content. ",
     "hash": "sha256-jLdfZ2syUjKweeeszZ7/GGaMcosoqXxv+8xVBKGerOI="
   },
+  "ns_event": {
+    "version": "1.0.0",
+    "t3_versions": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "description": "TYPO3 Event Manager is a full-featured events management extension that lets you create multiple events and get them listed on your website. TYPO3  Event Manager provides a user-friendly interface that allows you to effortlessly create and customize events. Specify event details such as date, time, location, ticket types, and more in a matter of minutes.",
+    "hash": "sha256-xO7DUczyRxMrVGleMs9bfDZXGvlimRwP+eztQ+NCE1o="
+  },
   "ns_ext_compatibility": {
     "version": "5.1.2",
     "t3_versions": [
@@ -43814,12 +43825,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "powermail": {
-    "version": "12.3.0",
+    "version": "12.3.1",
     "t3_versions": [
       12
     ],
     "description": "Powermail is a well-known, editor-friendly, powerful",
-    "hash": "sha256-nyeNRQQMDSew3kh7TUgiqNUQX3pJShU3gKsxRTGl9rQ="
+    "hash": "sha256-XHBSGF8WyHfw5+iI8by46jhyKLLjsucF+LVobRiRHkk="
   },
   "powermail2document": {
     "version": "1.6.1",
@@ -50600,12 +50611,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "simple_log404": {
-    "version": "1.2.0",
+    "version": "1.2.2",
     "t3_versions": [
       12
     ],
     "description": "Creates a log overview of 404 errors that have been handled by the standard PageErrorHandler but have not been logged anywhere yet.",
-    "hash": "sha256-1IMIcHwsQzUOgGY/4hjOtesoKuyl/83wSrLlS64JPI8="
+    "hash": "sha256-HUIKizBJvrAxSI6h/U+tUxQlDPW98ijYF+MrAOlf7Ak="
   },
   "simple_slider": {
     "version": "1.0.7",
