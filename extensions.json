@@ -3525,12 +3525,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "aws_sdk_php": {
-    "version": "3.304.1",
+    "version": "3.304.2",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-fdkb/R9TE6nx3rWtGPxg7qplka5w38n7GwVFgUGeQMc="
+    "hash": "sha256-qVX93E45j3k0qXrAXe9/HYwwR2Scv0E95AfhnVbH3k8="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -7921,14 +7921,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cewrap": {
-    "version": "5.0.1",
+    "version": "5.0.2",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Allows to wrap content elements with individual IDs and/or classes and select multiple predefined classes, e.g. to hide content elements dependent to screen width.",
-    "hash": "sha256-8PearG1GPaEIC5cGrU8jpTNAjDWOnuLRVQ80miUWhLE="
+    "hash": "sha256-K5axmLfMIjRKTJJvRglU683HrZLYsnTFDaT7akPkP7o="
   },
   "cewrap_space": {
     "version": "2.0.0",
@@ -9780,12 +9780,12 @@
     "hash": "sha256-zIEstPFHttAq2bRVbuXskLWhPbkZ++m4mcc7E46IM6s="
   },
   "content_blocks": {
-    "version": "0.7.2",
+    "version": "0.7.3",
     "t3_versions": [
       12
     ],
     "description": "TYPO3 CMS Content Blocks - Content Types API",
-    "hash": "sha256-nANrY1ceA/QywmZsTkLC9lqt1dq/Qujhq+oD1WSkGXE="
+    "hash": "sha256-SHZo7iuAF/xbLfPTtBiu/WUW+C4CJxG3oAWczEOwAP8="
   },
   "content_consent": {
     "version": "2.0.2",
@@ -18821,12 +18821,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "feed_display": {
-    "version": "2.0.0",
+    "version": "2.0.1",
     "t3_versions": [
       12
     ],
     "description": "Fetches and parses RSS and Atom web feeds with the SimplePie library and prepares them for frontend display",
-    "hash": "sha256-2FptuA5ckxUHFX6Dn409JBThX2sPBYCxAJvvPB8vQzc="
+    "hash": "sha256-Y3oQ55Gj3wQENmrIau/ch5mZOLpY9y39SWN5rcJVCeE="
   },
   "feed_generator": {
     "version": "0.7.0",
@@ -23717,13 +23717,13 @@
     "hash": "sha256-FynwZuS3lYQXNHkBSVDTo6+4I0SkInAoVb/o9UFw3fY="
   },
   "hh_powermail_checkboxlink": {
-    "version": "0.1.5",
+    "version": "0.1.6",
     "t3_versions": [
       11,
       12
     ],
     "description": "Additional field for EXT:powermail. Adds one checkbox with RTE as Label/Description. Usage for e. g. gdpr-checkbox with link.",
-    "hash": "sha256-hGttMbx2Z3XFs5Gl3QI4G1TM8rrOSbMuPVolDeWoP4I="
+    "hash": "sha256-TXHkjx84yo6BgjfQXcP16PHNMXSY0HeFpBYawj/94tg="
   },
   "hh_seo": {
     "version": "0.8.2",
@@ -31574,13 +31574,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "lux": {
-    "version": "35.0.0",
+    "version": "35.0.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Living User Experience - LUX - the Marketing Automation tool for TYPO3.",
-    "hash": "sha256-F0kazMfC7pP/UCfek6TKka6aviVJwSykZHLHdZiCIxQ="
+    "hash": "sha256-LNhkw/A7mEIQa8JT1xGRyBbyjyBPGddVmJRvaQrHgWI="
   },
   "luxletter": {
     "version": "26.0.0",
@@ -50358,13 +50358,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "shop": {
-    "version": "4.1.1",
+    "version": "4.1.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "Simple Shop for TYPO3 incl. PayPal, PayPal-Plus, Klarna, Stripe, Bookmarks, UPS-API, Invoice generation, backend module, compare feature, graduated prices and many more - note there is a Pro version as well!",
-    "hash": "sha256-rhUN3ELh4vBj1FgK0IafEkSB/diUNObB4qgKuHbd3f8="
+    "hash": "sha256-Ky5OmvSUVjmu4Sj6hBaN8s26i/KYqrOGGgy6po3f+3I="
   },
   "shop3ox": {
     "version": "0.0.3",
@@ -64219,14 +64219,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "wsm_form_spamshield": {
-    "version": "1.3.2",
+    "version": "1.3.3",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Adds a bot detection via JavaScript and a Validator to EXT:form, GDPR compliant without a captcha.",
-    "hash": "sha256-rHRu16GXcY7nuOmZKuRGJMeRc7NHkVn589ylac58nOE="
+    "hash": "sha256-l6/LVzKJ7x9G4r1/1LwgdNf46qOG9OSfyYrzM/XmT9U="
   },
   "wspowermail": {
     "version": "1.1.1",
