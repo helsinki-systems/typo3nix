@@ -3525,12 +3525,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "aws_sdk_php": {
-    "version": "3.304.2",
+    "version": "3.304.3",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-qVX93E45j3k0qXrAXe9/HYwwR2Scv0E95AfhnVbH3k8="
+    "hash": "sha256-7RcqogYdK1dgzm6aPN+VtuHCls3yzddgGX5eAkiCgsg="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -15344,13 +15344,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "dp_cookieconsent": {
-    "version": "12.2.4",
+    "version": "12.2.5",
     "t3_versions": [
       11,
       12
     ],
     "description": "Enable a cookie consent box. Let you visitors control the usage of cookies and load script or content after a consent. (ePrivacy, TTDSG)",
-    "hash": "sha256-2YqoOk1kuKfh7/MIiGVldJWJcMHyqY4Y/3maVGRbL3Y="
+    "hash": "sha256-F5yZt9ooB7F2a457QvWlD8u155AuZr402rrp52gzDkI="
   },
   "dp_editpanel": {
     "version": "0.0.2",
@@ -49947,7 +49947,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sg_cookie_optin": {
-    "version": "5.3.12",
+    "version": "5.4.0",
     "t3_versions": [
       9,
       10,
@@ -49955,7 +49955,7 @@
       12
     ],
     "description": "",
-    "hash": "sha256-3MAD7VRbjMXlEaIN+5L/286/iVBYSJlKklyQeX9z0hM="
+    "hash": "sha256-o6SxyguLYCmWLfm6G0T0hAxsHDN5hROPm6SGG55s9Ew="
   },
   "sg_cropscale": {
     "version": "0.5.0",
