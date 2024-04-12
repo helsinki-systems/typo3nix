@@ -8828,13 +8828,13 @@
     "hash": "sha256-CyYYDj2w3a9nPtj3bnZfWMLJ3YAwhqhr0wga+jqzUX0="
   },
   "clubmanager": {
-    "version": "1.1.1",
+    "version": "1.1.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "The TYPO3 module for managing clubs, foundations and associations. With Clubmanager, you get the tool to manage the organization AND public relations of your club or association in a cost-saving and effective way.",
-    "hash": "sha256-7ehGi1rSdIB5kBJChK7dtJXKUyiSGB4uTXitYMf8Drg="
+    "hash": "sha256-5se5Yjaj8YAt6Sfl/i+7lWCkb/xERg3LutrXBDG9Ea0="
   },
   "cm_ajax": {
     "version": "0.6.0",
@@ -18178,14 +18178,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fal_protect": {
-    "version": "1.5.3",
+    "version": "1.6.0",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Protect everything within /fileadmin/ based on associated folder and file restrictions (visibility, user groups and dates of publication).",
-    "hash": "sha256-94YooKHm4EjqCxXvxbf6uSXbnSUjjz4sqgKJFHbm3fM="
+    "hash": "sha256-7TK95945Mh6txuPoVkQ0WYy6Fesb42q1N3EnBripTDM="
   },
   "fal_quota": {
     "version": "1.8.0",
@@ -20782,12 +20782,12 @@
     "hash": "sha256-UmASge4oj+7axF2QsmMGU5O/Mo5zWqEJLRNCCB6Wdvc="
   },
   "form_email_contentblocks": {
-    "version": "2.1.3",
+    "version": "2.1.4",
     "t3_versions": [
       12
     ],
     "description": "Allows to add a content element at the beginning (introductory text) and/or at the end (email signature) of the email templates. Also, the background color and logo of the fluid email template can be edited.",
-    "hash": "sha256-a/NERkc0u55ZjmKK5p7AzjdRq6ZFffeehl2kCvOthvs="
+    "hash": "sha256-iDaeYBLUD6MgI5uRpy9npOtzwjV5ZgeTG1eXl03ESnI="
   },
   "form_extended": {
     "version": "11.0.8",
@@ -26987,13 +26987,13 @@
     "hash": "sha256-BCGr1OFl/gNTgQNdV4chyvt+N3/QARENfD32bgBqP34="
   },
   "jar_pugtemplate": {
-    "version": "1.0.10",
+    "version": "1.0.11",
     "t3_versions": [
       10,
       11
     ],
     "description": "Tools for rendering PUG templates in TYPO3",
-    "hash": "sha256-Z2bLSGhx+Jfyo4E72layZAmEUf2WxeuF62cs9ItGS2o="
+    "hash": "sha256-/sx+01F5PS0ebbV4BIZky1LLV0Cp98BaI3SqsXw6Xy0="
   },
   "jar_utilities": {
     "version": "2.0.5",
@@ -29173,13 +29173,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ke_search": {
-    "version": "5.3.0",
+    "version": "5.4.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Faceted fulltext search for TYPO3. Fast, flexible and easy to install and use. Indexes content directly from the databases. Features faceting / filtering, file indexing, images in result lists and respects access restrictions.",
-    "hash": "sha256-KM3oWOuUD9fX4P8EJ+XHarxRpmk9Q8um3CbZDZIOSXw="
+    "hash": "sha256-3JNB2qtEYvNFcAd0xeAWziDHBcCNxy74IuYbEoG1YmY="
   },
   "ke_search_dam_tags": {
     "version": "0.0.1",
@@ -31583,13 +31583,13 @@
     "hash": "sha256-LNhkw/A7mEIQa8JT1xGRyBbyjyBPGddVmJRvaQrHgWI="
   },
   "luxletter": {
-    "version": "26.0.0",
+    "version": "26.1.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Free newsletter extension for TYPO3 for an individual email marketing. A lot of analytics and modern concepts. Works with and without EXT:lux.",
-    "hash": "sha256-oGwCLzHtI826cwXb2VGu75dZHBFeSv13nXnnPIsZf/k="
+    "hash": "sha256-aoe6QZFy+g18D02a7iQzp8FG4x+1TLAXFqHzxlLQNaw="
   },
   "lvcleantemp": {
     "version": "1.0.4",
@@ -33425,12 +33425,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "meilisearch": {
-    "version": "0.4.3",
+    "version": "0.5.0",
     "t3_versions": [
       12
     ],
     "description": "This extension integrates \"meilisearch\" into your TYPO3.",
-    "hash": "sha256-h9PeZ3hGcQ7c+OmcR0qxeNKTCZBGKwbcRjP8FoKW1J8="
+    "hash": "sha256-LcM3nnrux6SZOXovaqO/hzSIYcbrjz+MlJG0U9pQXwQ="
   },
   "meinpraktikum_widget": {
     "version": "1.0.1",
@@ -39025,12 +39025,12 @@
     "hash": "sha256-cVNZM+egUt4nVMtA9qDSWqg8P5WfHGe43nAZOJ3eYzc="
   },
   "ns_comments": {
-    "version": "12.0.1",
+    "version": "12.1.0",
     "t3_versions": [
       12
     ],
     "description": "The TYPO3 Comment Extension simplifies the process for visitors to leave comments on your website's published pages. It utilizes nested comments to create a user-friendly experience. Admins receive email notifications, allowing them to easily manage comments either through email or the backend.",
-    "hash": "sha256-lpED6rGe5UWFi//9Rk2n8QB78eQjFULlmilmuuk4wOQ="
+    "hash": "sha256-VKlcUnKRIMVYNXn9y7wZk2BkPow8IUPnQxvq6BbVBt8="
   },
   "ns_cookiebot": {
     "version": "3.0.1",
@@ -39415,12 +39415,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ns_timeline": {
-    "version": "12.0.1",
+    "version": "12.1.0",
     "t3_versions": [
       12
     ],
     "description": "Create engaging stories, timelines, histories, and roadmaps easily with the All In One Timeline TYPO3 Extension. With 18 unique styles and layouts, this extension offers unlimited possibilities for showcasing content on your TYPO3 website. Additionally, the TYPO3 Event extension integrates with TYPO3 Blog and TYPO3 News extensions allowing you to display timeline posts.",
-    "hash": "sha256-M6wLuB5sLSm5lvBJvKTb22bUG+lJkDxexx/Q6btl8pw="
+    "hash": "sha256-UGDKpNpl3L67U8Q450vZCkAkNy81PCibW2Wbw6tW3eQ="
   },
   "ns_twitter": {
     "version": "3.1.0",
@@ -40807,13 +40807,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "org": {
-    "version": "11.0.11",
+    "version": "11.0.12",
     "t3_versions": [
       10,
       11
     ],
     "description": "The Organiser is a blog database for the lobby. It provides a lot of tables like boards, calendar, contacts, events, jobs, locations, news, organisers, staff, seminars and services.",
-    "hash": "sha256-Z4G/h4qQi9W9uwqtw06lBsplYhvAwjx1nq6TZp/+Afw="
+    "hash": "sha256-F0HgBycFyaSYG4z+d+rGXWBNkft9wpa5TtypkAz0Qus="
   },
   "org_installer": {
     "version": "8.0.22",
@@ -40881,12 +40881,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "osm": {
-    "version": "4.0.1",
+    "version": "4.0.2",
     "t3_versions": [
       12
     ],
     "description": "A smart OpenStreetMap solution in TYPO3",
-    "hash": "sha256-h//z4QCBEDQbanMlqGO9b5EkdjK7ifeHX+4aX/NFjMQ="
+    "hash": "sha256-sJJVqIJTQUD/kabDeL7DmeSkw6X82BqxVY96FAH0boQ="
   },
   "osmplus": {
     "version": "0.0.1",
@@ -58009,6 +58009,12 @@
     ],
     "description": "Theme to use Zurb Foundation 5",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "theme_portfolio": {
+    "version": "0.1.1",
+    "t3_versions": [],
+    "description": "TYPO3 theme for a portfolio website",
+    "hash": "sha256-pNO8otxJtyk+6k8mHrWptmgcC7TKRtOcemCBhH/Ozuo="
   },
   "theme_t3kit": {
     "version": "1.10.1",
