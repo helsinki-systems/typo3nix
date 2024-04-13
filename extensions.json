@@ -3525,12 +3525,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "aws_sdk_php": {
-    "version": "3.304.3",
+    "version": "3.304.4",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-7RcqogYdK1dgzm6aPN+VtuHCls3yzddgGX5eAkiCgsg="
+    "hash": "sha256-IfcK9cuTi1iNtvvpBmn4c0Y0mklkCPjye39hdVF6US8="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -6481,12 +6481,12 @@
     "hash": "sha256-UJjtX0P23zaHtAdr9hVLE7Oct0JbLZ0u96qTbNCP7So="
   },
   "cacheopt": {
-    "version": "10.0.0",
+    "version": "11.0.0",
     "t3_versions": [
-      10
+      11
     ],
     "description": "Optimizes automatic cache clearing.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-nI+ziN0wmHDOedA341DwbTjR/xcWgEl6Eok8+zzQriU="
   },
   "caddy": {
     "version": "10.0.9",
@@ -31962,13 +31962,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mail": {
-    "version": "2.5.7",
+    "version": "2.6.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Powerful newsletter system for TYPO3",
-    "hash": "sha256-e0d2TI5wLvyhN9cz+Vw3GD1yaGGdhAHqTX4anV7ViMo="
+    "hash": "sha256-R1njFDo5sLrJ4GEPDU3yb2vWNLNcdRemWtNmP4stuto="
   },
   "mail2news": {
     "version": "2.0.3",
@@ -49688,12 +49688,12 @@
     "hash": "sha256-YkZKrMTUerUy8yJmBkOYHP9WIEzgaGqMZkNqGeA4VIY="
   },
   "sf_event_mgt": {
-    "version": "7.4.2",
+    "version": "7.4.3",
     "t3_versions": [
       12
     ],
     "description": "Configurable event management and registration extension based on ExtBase and Fluid",
-    "hash": "sha256-U+rqeWxcnC9F/MC6mFTZY7+DWRVosb4uJryny3YTrAk="
+    "hash": "sha256-SbDEN7zZ4a9sKu+T+GC92Ab8MJir4jPBf7eQRkAk1aY="
   },
   "sf_event_mgt_contentelements": {
     "version": "2.0.1",
