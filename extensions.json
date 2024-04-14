@@ -12901,12 +12901,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "dd_deepl": {
-    "version": "12.5.0",
+    "version": "12.6.0",
     "t3_versions": [
       12
     ],
     "description": "Translates pages, content and records using DeepL",
-    "hash": "sha256-vsCJQLlyr/m2CEGUX6Kli79QSGPLgIbZKJRBPSTOhTA="
+    "hash": "sha256-U4OpIVopmRWDhK8zZv/qORFg99bO1yEdoIE/2vVP3HI="
   },
   "dd_download": {
     "version": "1.1.1",
@@ -19341,6 +19341,14 @@
     ],
     "description": "",
     "hash": "sha256-FJOKS+U9QwAw1nWsMFsoHdCfOj+XpEn8PneIUqAV4Qg="
+  },
+  "fieldencryption": {
+    "version": "1.0.0",
+    "t3_versions": [
+      12
+    ],
+    "description": "",
+    "hash": "sha256-UgocDvYGvi9sTALkzOsWCpucZ4LnsTCiuWSXSC/cX6E="
   },
   "file": {
     "version": "0.0.1",
