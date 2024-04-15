@@ -4884,12 +4884,12 @@
     "hash": "sha256-Zld5boOhYFkfHC/FmjG+xszdTE5+LY3paxVnSFYHffM="
   },
   "blog_example": {
-    "version": "12.0.3",
+    "version": "12.1.0",
     "t3_versions": [
       12
     ],
     "description": "This extension contains code examples used in TYPO3 explained to describe the use of Extbase",
-    "hash": "sha256-MkICiMLlUtfoRUnJBR1DmtV90hMxbfewPXdIqdslVLg="
+    "hash": "sha256-xny1kEFEl1RfpiAs7VdVBiqIOrs5vlwVPQWXaGWpJhc="
   },
   "blog_template": {
     "version": "1.2.2",
@@ -10391,12 +10391,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "core_upgrader2": {
-    "version": "12.0.1",
+    "version": "12.0.2",
     "t3_versions": [
       12
     ],
     "description": "Run upgrade wizards for multiple TYPO3 versions at once",
-    "hash": "sha256-EuIPDgDHYbhXmzB8KNDVnzr8jzeDAEwt6roOSkRvf+s="
+    "hash": "sha256-U47diRgC8SMz7+D0ozvt93/JQrE6kWDZGlfqa7pXawo="
   },
   "coreapi": {
     "version": "1.3.0",
@@ -39033,12 +39033,12 @@
     "hash": "sha256-cVNZM+egUt4nVMtA9qDSWqg8P5WfHGe43nAZOJ3eYzc="
   },
   "ns_comments": {
-    "version": "12.1.0",
+    "version": "12.1.1",
     "t3_versions": [
       12
     ],
     "description": "The TYPO3 Comment Extension simplifies the process for visitors to leave comments on your website's published pages. It utilizes nested comments to create a user-friendly experience. Admins receive email notifications, allowing them to easily manage comments either through email or the backend.",
-    "hash": "sha256-VKlcUnKRIMVYNXn9y7wZk2BkPow8IUPnQxvq6BbVBt8="
+    "hash": "sha256-/nCErF9GfkajD2X4ldK0SSmB4jP3CCXHKgXjF+1+Qe4="
   },
   "ns_cookiebot": {
     "version": "3.0.1",
@@ -57602,13 +57602,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "textimage_size": {
-    "version": "3.2.0",
+    "version": "3.3.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Use only with bootstrap 5 + boostrap package 12 to change the output size for standard bootstrap package output (column split 50% image - 50% text). For content types text/image (textpict), text/media and image",
-    "hash": "sha256-aDD+CXoK7yUYy05lNG/lQUXkiZ3rKOvbFy+4ZOX49QM="
+    "hash": "sha256-kNz7108AP+vv84zmbbhm7gcjPhn1v5ItXr7HwL+mhL0="
   },
   "textmedia_migration": {
     "version": "1.0.1",
@@ -64051,6 +64051,14 @@
     ],
     "description": "404 content page without redirection. Works with multilanguage, multidomain, multi page types(TypeNum)",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "ws_avif": {
+    "version": "12.0.0",
+    "t3_versions": [
+      12
+    ],
+    "description": "Creates Avif copies of all jpeg and png images",
+    "hash": "sha256-3KjHlSeUmheyNlkqKE2LxWcFAfj7DDVuqcgUpuFUQtc="
   },
   "ws_banner": {
     "version": "1.1.2",
