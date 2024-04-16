@@ -3541,12 +3541,12 @@
     "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
   },
   "aws_tools": {
-    "version": "11.0.1",
+    "version": "12.0.0",
     "t3_versions": [
-      11
+      12
     ],
     "description": "This extension connects your TYPO3 instance to Amazon CloudFront. It rewrites all file paths in the frontend to match your CDN domain. You also have the possibility to invalidate Amazon CloudFront entries.",
-    "hash": "sha256-j5rcAAuX6zUkmUFTIH8CQOjexub4HpalrhZwXGjAicU="
+    "hash": "sha256-kXVmDJj+V2Gjmgi8DvgTY/YNaRw3VHZxq8xLEI43tto="
   },
   "ax_https": {
     "version": "0.2.0",
@@ -3646,12 +3646,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "backendtools": {
-    "version": "5.1.2",
+    "version": "5.2.0",
     "t3_versions": [
       12
     ],
     "description": "9 admin tools: extension-list, recent pages & elements, backend layouts, redirects import & check, file-deletion, missing files, images with no alt or title and link-list.",
-    "hash": "sha256-WLC/wYzrD8ZtM+E64hG7TMHO2N6SXUKPlbdVOAuCRy0="
+    "hash": "sha256-j//kMUKEOtHNPr08R70itWzfOqNUrTgyVoVPU08gQVw="
   },
   "backendwiki": {
     "version": "0.1.1",
@@ -7949,12 +7949,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cf_cookiemanager": {
-    "version": "1.6.0",
+    "version": "1.6.1",
     "t3_versions": [
       12
     ],
     "description": "Unlock the full potential of your Typo3 website with CodingFreaks Typo3 Cookie Manager. Effortlessly manage and customize your website's services, cookies and scripts with our comprehensive extension. Streamline your workflow, enhance user experience, and ensure GDPR compliance with this powerful tool. Take control of your cookie management today and unleash the true potential of your Typo3 installation.",
-    "hash": "sha256-S3juGrgyvuJbPO7P6KuA5hCRyT6JIW61mJldOwa7f6w="
+    "hash": "sha256-yMHO5HZr+146ogpH6nacGFUq0SmVCqAuloxeKoSEVFE="
   },
   "cf_google_authenticator": {
     "version": "1.2.4",
@@ -16454,6 +16454,14 @@
     "description": "Synchronize xt:Commerce- and Typo3 FE- User at the register and change User Data Process. Single Sign On TYPO3 and xt:Commerce",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "editor_widgets": {
+    "version": "2.1.2",
+    "t3_versions": [
+      12
+    ],
+    "description": "Collection of useful dashboard widgets focused on editors",
+    "hash": "sha256-tOs4feWpCZ/h/hgAPTaLoHBY6abPovOSLErMmTJyy2E="
+  },
   "editors_choice": {
     "version": "2.1.0",
     "t3_versions": [
@@ -19124,13 +19132,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "feuserextrafields": {
-    "version": "6.1.0",
+    "version": "6.2.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Extra fields for TYPO3 frontend users and drop-in replacement for the removed FrontEndUser Core model",
-    "hash": "sha256-8jK6f8+RFZRMxZ4bdWh23CC3bkjJ4MuNpQyrYa08HNA="
+    "hash": "sha256-Zkbh60U8PYEd/2CnvJNtQm8z7h6eAwX4lXRPmlxgK0w="
   },
   "feuserfeediting": {
     "version": "0.0.2",
@@ -29606,13 +29614,13 @@
     "hash": "sha256-Vmm3REU+jyoA12EANPgkxJb/OV2UM7Vmq4irQ/Dm7hI="
   },
   "km_ttaddress_extension": {
-    "version": "6.1.0",
+    "version": "6.2.0",
     "t3_versions": [
       10,
       11
     ],
     "description": "Extends EXT:tt_address by adding fields like department, qualifications and vita.",
-    "hash": "sha256-75J4LzKbirhjqlhbU+zwGslZASU/YEcl5zuWSpEwhkk="
+    "hash": "sha256-gc/Mf/vSJa5EVjKWDuNMxXMhlAAOp2O6hvbkF1UI04Y="
   },
   "km_ttnews_extension": {
     "version": "2.0.1",
@@ -31970,13 +31978,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mail": {
-    "version": "2.6.0",
+    "version": "2.6.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Powerful newsletter system for TYPO3",
-    "hash": "sha256-R1njFDo5sLrJ4GEPDU3yb2vWNLNcdRemWtNmP4stuto="
+    "hash": "sha256-vfADoqtGZUy8fyVHIxq0v1xiRF25dyxY/MjwVl8i8qg="
   },
   "mail2news": {
     "version": "2.0.3",
@@ -38493,12 +38501,12 @@
     "hash": "sha256-D/FI8yV34h44qmE1VtAIRPo8YsM4nAGGEkz+0ge4e+o="
   },
   "nitsan_maintenance": {
-    "version": "12.0.1",
+    "version": "12.0.2",
     "t3_versions": [
       12
     ],
-    "description": "Do you want to make your site temporary offline like coming soon and maintenance mode? This extension will help you with simple plug & play to your TYPO3 instance. Demo: https://demo.t3terminal.com/t3t-extensions/maintenance-mode/ You can download PRO version for more-features & free-support at https://t3planet.com/typo3-maintenance-mode-extension",
-    "hash": "sha256-J4fH/5/8JLU0hsNiQfxtvv0BWE9pqLCLaf7W/w1UTCI="
+    "description": "This TYPO3 Maintenance extension will help you with simple plug & play which have a special TYPO3 Page & TYPO3 Template. It would be useful on criteria like to set Site Coming to Soon Page, Maintenance of Site, Offline while Upgrading your site, etc.",
+    "hash": "sha256-kPINmEojaLVUBul0+/kajbo8jBxHIVjzzFfm8yye0/c="
   },
   "nittygritty": {
     "version": "2.0.0",
@@ -39674,13 +39682,13 @@
     "hash": "sha256-3Qr9dpQ5dJf1Sr4y1JBIxIWQ0Nq8tGqns7ftIprGDCU="
   },
   "oauth2_server": {
-    "version": "1.5.1",
+    "version": "1.5.2",
     "t3_versions": [
       10,
       11
     ],
     "description": "OAuth2 server for TYPO3 based on PHP League's OAuth2 Server.",
-    "hash": "sha256-kNXY8tk+QOOYMMmjwcNG7w7YNT1ACaeWNtiBDtMfMrg="
+    "hash": "sha256-vKn8AKOzTwSHz1zicIyzAyAvKE/wdApKacolgAKj/dg="
   },
   "oauth_openid_single_sign_on": {
     "version": "1.0.8",
@@ -40239,13 +40247,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "oelib": {
-    "version": "5.2.2",
+    "version": "6.0.0",
     "t3_versions": [
-      10,
-      11
+      11,
+      12
     ],
     "description": "Useful stuff for TYPO3 extension development: helper functions for unit testing, templating and automatic configuration checks.",
-    "hash": "sha256-oQq4ahHU3fvIYtHa8heIL2JJkhFYwsYDtvaLo1wLga8="
+    "hash": "sha256-YG/uKgOqNvayG60Nio7KpugcDDB3wt/9MydZ7JyqPPc="
   },
   "oembed": {
     "version": "0.1.1",
@@ -49572,13 +49580,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "server_timing": {
-    "version": "1.9.1",
+    "version": "1.10.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Show timings of Database and HTTP Calls (send them to Sentry)",
-    "hash": "sha256-0x1nQ1Kfyahot6RzKv6VX7aQ50VBOrIkzcXXPdAeBLU="
+    "hash": "sha256-xxk5XHBY5BshqkuKPb4y0iFsFWC/AyK/85bh/wV6ovM="
   },
   "service_bw2": {
     "version": "7.0.0",
@@ -58423,12 +58431,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "tinyaccordion": {
-    "version": "8.0.0",
+    "version": "8.1.0",
     "t3_versions": [
       12
     ],
     "description": "An easy-to-use extension to display pages, tt_content or news elements as an Accordion. Runs with TinyAccordion or jQuery UI-Accordion.",
-    "hash": "sha256-aDvmO3+k2mCjFWdXSzQxNU8ZfOKpEJJVNRXwT4IohIk="
+    "hash": "sha256-w7irNhCE27Bj5INrDW/t6T4zt2dWatXhoA7hF9YRt5I="
   },
   "tinyimg": {
     "version": "1.7.0",
@@ -60386,13 +60394,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "tt_products": {
-    "version": "2.15.3",
+    "version": "2.15.4",
     "t3_versions": [
       11,
       12
     ],
     "description": "Advanced versions at ttproducts.de. Documented in the E-Book \"Der TYPO3-Webshop\" - Shop with listing in multiple languages, with order tracking, product variants, support for transactor extension, bill, creditpoint and voucher system.",
-    "hash": "sha256-sv2dpVy6hICSLXeiAeOJPMaJ3au9FA/Nmw5DdMgUb50="
+    "hash": "sha256-ayhK52TikFiRXLaFCehp4Kb0x/DfC3DM7kENimuoLaE="
   },
   "tt_products_foundby": {
     "version": "0.1.4",
