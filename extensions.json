@@ -1548,12 +1548,12 @@
     "hash": "sha256-ee1Rl3Ok1e1HP2daIVmwXQEzGrTz2ymo8zv8dhHnoHI="
   },
   "ai_suite": {
-    "version": "12.0.3",
+    "version": "12.1.0",
     "t3_versions": [
       12
     ],
     "description": "Adds a backend module as well as various helper functionalities and features to your TYPO3 backend, which are intended to make the daily work of editors easier and faster with the help of AI.",
-    "hash": "sha256-hyZIkTjhZbJ2sfWU6JTO1IXLAVebckSKrcDWXTqR70U="
+    "hash": "sha256-Axfzlkt/wu3jo7V4Gvb8Se9b/1vAdmr0wgDegOBucWM="
   },
   "ai_tools": {
     "version": "0.0.1",
@@ -3525,12 +3525,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "aws_sdk_php": {
-    "version": "3.304.4",
+    "version": "3.304.5",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-IfcK9cuTi1iNtvvpBmn4c0Y0mklkCPjye39hdVF6US8="
+    "hash": "sha256-zHoXPqO9opvs8agdBcYrOAApJdsPjDbNe34W2vOFeug="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -19132,13 +19132,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "feuserextrafields": {
-    "version": "6.2.0",
+    "version": "6.2.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Extra fields for TYPO3 frontend users and drop-in replacement for the removed FrontEndUser Core model",
-    "hash": "sha256-Zkbh60U8PYEd/2CnvJNtQm8z7h6eAwX4lXRPmlxgK0w="
+    "hash": "sha256-Revij/0HKXVdu+iMnokUs8P7OxniVbVtPy2lKCAgCqY="
   },
   "feuserfeediting": {
     "version": "0.0.2",
@@ -20943,13 +20943,13 @@
     "hash": "sha256-mdl+c92FpyNxfd3Dxwy5VVac9wL4EV8xgD7eVFkV17U="
   },
   "form_translator": {
-    "version": "2.0.1",
+    "version": "2.0.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "Provides a backend module and cli for translating forms.",
-    "hash": "sha256-sLtRND/xRCuTXfGUdMjj81O+Zp+zTF9OsFq/ZAIyhTE="
+    "hash": "sha256-Vf/ZzW03loePvymJsQs0YJyD1D2aWSILb1WqnCU8viQ="
   },
   "form_typolink_checkbox": {
     "version": "2.0.0",
@@ -27327,13 +27327,13 @@
     "hash": "sha256-7wijbRIl3TjoeylIbrlX4A/8w4vQta7m/RrMe7exJhY="
   },
   "jfmulticontent": {
-    "version": "2.15.1",
+    "version": "2.15.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "It arranges multiple contents into one content element with multiple columns, accordions, tabs, slider, slidedeck, easyAccordion or Booklet. This extension will also extend tt_news with two new lists.",
-    "hash": "sha256-5Iqm2x/jOWwKY8JYiyqyJQYIsiJnQRbEaRX5RUpnI88="
+    "hash": "sha256-H9hODqUZbJ1g/zdOxC6XZ1h1GXKVfA23y/HX/120E3o="
   },
   "jfmulticontent_viewdemo": {
     "version": "0.1.2",
@@ -34728,13 +34728,13 @@
     "hash": "sha256-E+7svnuwdC+xUAyYUKt31hbFsNgQ9TxtxRwGhb5jX3Y="
   },
   "mklog": {
-    "version": "12.0.1",
+    "version": "12.0.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "Keep track of developer logs. Provides automatic email notification about important errors.",
-    "hash": "sha256-gBg5bloTpUWJTb94BKiPtZB3/R5rSDHB/MyW9imCauw="
+    "hash": "sha256-pRmZdCpLk+rzm8DQ1z8z3NZqn48vThRfOUF+EtqjPT8="
   },
   "mkmailer": {
     "version": "9.0.0",
@@ -41181,12 +41181,12 @@
     "hash": "sha256-Sxw1g7QWNPE0RTYdLJRWmj9aLFKFeMnb7DZuP928kR0="
   },
   "page_callouts": {
-    "version": "4.0.2",
+    "version": "6.0.0",
     "t3_versions": [
       12
     ],
     "description": "Add callouts to page module in TYPO3 backend",
-    "hash": "sha256-0Zlt/Q1nSJrSBWyRGjeQulkec23QUyfNCuArDnTjD9Y="
+    "hash": "sha256-4uRnJZdAHFs/6CuCjNApyvx3fSF+WUOIa1H8Hwly49U="
   },
   "page_creator": {
     "version": "1.0.1",
@@ -55560,12 +55560,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "t3element": {
-    "version": "1.0.2",
+    "version": "1.0.5",
     "t3_versions": [
       12
     ],
     "description": "Create Custom Element using T3element",
-    "hash": "sha256-Aygmtbaqt0WlWCT8VBFl7HnbJvgyzYH2Mat9scfOMj8="
+    "hash": "sha256-3dejd1lur2cssfmQO8apwtU3ARPVhPwyWlnrx9NHnjc="
   },
   "t3essentials": {
     "version": "1.0.3",
