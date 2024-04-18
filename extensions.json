@@ -3525,12 +3525,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "aws_sdk_php": {
-    "version": "3.304.5",
+    "version": "3.304.6",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-zHoXPqO9opvs8agdBcYrOAApJdsPjDbNe34W2vOFeug="
+    "hash": "sha256-s/mXBtoj/ZkeLrp2xN1B3D9Ew4cRUVOwd0uy3ZUsWv0="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -23784,13 +23784,13 @@
     "hash": "sha256-x+CSVG68TMFcgxek+hK9/LnFX0suW3/1PIoMpRu+7Gs="
   },
   "hh_video_extender": {
-    "version": "0.2.2",
+    "version": "0.2.4",
     "t3_versions": [
       11,
       12
     ],
     "description": "Hauer-Heinrich - Extends sys_file_reference video/media. Added attributes to select in content element (eg textmedia) like: muted, loop, controls, previewImage and so on.",
-    "hash": "sha256-SfcjM0ekGvrahJHRRpXq9P7+Z5zaUGjWsxlyHBQ5320="
+    "hash": "sha256-iNaYQFpzJiLnHwdCSLetq6nsMDowpb0NKDWtFyBbG40="
   },
   "hhcanonical": {
     "version": "1.0.0",
@@ -31590,13 +31590,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "lux": {
-    "version": "35.0.1",
+    "version": "35.0.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "Living User Experience - LUX - the Marketing Automation tool for TYPO3.",
-    "hash": "sha256-LNhkw/A7mEIQa8JT1xGRyBbyjyBPGddVmJRvaQrHgWI="
+    "hash": "sha256-qAy/7QFcsd2aFWEQZlmHHbiPj3XxJ3xTrf5GU26Ooa0="
   },
   "luxletter": {
     "version": "26.1.0",
@@ -33441,12 +33441,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "meilisearch": {
-    "version": "0.5.0",
+    "version": "0.5.1",
     "t3_versions": [
       12
     ],
     "description": "This extension integrates \"meilisearch\" into your TYPO3.",
-    "hash": "sha256-LcM3nnrux6SZOXovaqO/hzSIYcbrjz+MlJG0U9pQXwQ="
+    "hash": "sha256-FsacIiA3RfjA/CBrpQN3Ts4iacl2nzIUIoueYnS0l5U="
   },
   "meinpraktikum_widget": {
     "version": "1.0.1",
@@ -39279,13 +39279,13 @@
     "hash": "sha256-K05vifu/avD/9wqf08bFcnS8lOD7YvrV5DD2wh0eQdQ="
   },
   "ns_news_comments": {
-    "version": "12.1.1",
+    "version": "12.2.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "All New TYPO3 News Comment Extension helps add comments to your news pages and articles. It comes with a variety of features for managing and customizing comments. It is designed to enhance user experience with a simple interface and is SEO-friendly.",
-    "hash": "sha256-WgyXQQwVpwdHxlEq8AkekBDMHgHpalGqAoo2VwQx1ps="
+    "hash": "sha256-R2VOgSVp5GouEPE8s156yyV/MQiJoq71PfLeCKUkdzc="
   },
   "ns_news_slider": {
     "version": "12.0.1",
@@ -39334,6 +39334,15 @@
     ],
     "description": "This extension will help you to quickly password protected TYPO3 pages without frontend users management, Check manual for more details. Live-Demo: https://demo.t3terminal.com/t3t-extensions/general-utility/protect-site?inavlid=1&type=88889 You can download PRO version for more-features & free-support at https://t3terminal.com/password-protect-site-typo3-plugin/",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "ns_pwa": {
+    "version": "1.0.0",
+    "t3_versions": [
+      11,
+      12
+    ],
+    "description": "Make your TYPO3 website lightning fast & work offline! Get our TYPO3 PWA extension for a better SEO & mobile experience. Install today!",
+    "hash": "sha256-6tPCn8uYwcD8JVVndK1J4JI1aK6g64k8N+a1nb1VwzI="
   },
   "ns_revolution_slider": {
     "version": "12.0.1",
@@ -50374,13 +50383,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "shop": {
-    "version": "4.1.2",
+    "version": "4.1.3",
     "t3_versions": [
       11,
       12
     ],
     "description": "Simple Shop for TYPO3 incl. PayPal, PayPal-Plus, Klarna, Stripe, Bookmarks, UPS-API, Invoice generation, backend module, compare feature, graduated prices and many more - note there is a Pro version as well!",
-    "hash": "sha256-Ky5OmvSUVjmu4Sj6hBaN8s26i/KYqrOGGgy6po3f+3I="
+    "hash": "sha256-t/RPtOhHNl0f4QReQhfaSDI/wGME3Ms2txo72GRRNIA="
   },
   "shop3ox": {
     "version": "0.0.3",
@@ -65623,12 +65632,12 @@
     "hash": "sha256-IcYOQD7UldEmteTtsBtrqQGnMBstvqzoBUhqCir1gP8="
   },
   "zabbix_client": {
-    "version": "12.2.0",
+    "version": "12.2.1",
     "t3_versions": [
       12
     ],
     "description": "Client for zabbix monitoring system. Secure up your TYPO3 Systems and detect errors and performance killers.",
-    "hash": "sha256-NXr8NyosTFWY5jkej3bfRXIFBt+DYcXHNineOZzZWkU="
+    "hash": "sha256-ItQkBwMyCNoXD2sN7CO6WS7DffICNfmnyo6rloekzTw="
   },
   "zadi_masterconfig": {
     "version": "0.0.7",
