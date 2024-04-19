@@ -3333,14 +3333,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "autotranslate": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "This extension provides automatic translation of pages and content elements via DeepL API.",
-    "hash": "sha256-ldXD/h3HvyXGMeH2ONhVKP9Kzznhl5em1d9MtvbVp1A="
+    "hash": "sha256-vZ1VZQdKQUz8CqKpo0qlqYcFq0lE6GruuznE5EhbYl0="
   },
   "autoupload_dummy": {
     "version": "1.0.2",
@@ -27830,13 +27830,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "job_finder": {
-    "version": "4.2.0",
+    "version": "4.3.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Job finder extension including job listing, details, application, microdata and more.",
-    "hash": "sha256-gNuksE5afNvMKEL+rAleslDQ0CNrpi22h0OPRzU3kOI="
+    "hash": "sha256-7I84GotREkgTYwkZETpbN0b07wOjGjvXdFlTBFpExko="
   },
   "job_market": {
     "version": "2.1.1",
@@ -29189,13 +29189,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ke_search": {
-    "version": "5.4.0",
+    "version": "5.4.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Faceted fulltext search for TYPO3. Fast, flexible and easy to install and use. Indexes content directly from the databases. Features faceting / filtering, file indexing, images in result lists and respects access restrictions.",
-    "hash": "sha256-3JNB2qtEYvNFcAd0xeAWziDHBcCNxy74IuYbEoG1YmY="
+    "hash": "sha256-tTS7arG73d6tUQ7+tEzv5RkPhqvfJiV4SzB+I+JvDxM="
   },
   "ke_search_dam_tags": {
     "version": "0.0.1",
@@ -32665,13 +32665,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "matomo_integration": {
-    "version": "2.0.0",
+    "version": "2.1.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Matomo integration for TYPO3",
-    "hash": "sha256-vDwx4OOgVGAQrKN24ufD+nzxOHKavCCcfdux8mF+RXU="
+    "hash": "sha256-Nt5xbZOYOdawgJ6pbKh6xA9oPPaSOkeZEfg3PB3OkM8="
   },
   "matomo_optout": {
     "version": "1.2.0",
@@ -53780,14 +53780,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "startgreen": {
-    "version": "10.1.0",
+    "version": "10.2.0",
     "t3_versions": [
       8,
       9,
       10
     ],
     "description": "TYPO3 für BÜNDNIS 90/DIE GRÜNEN. TYPO3 GRUENE ist ein Template und liefert eine Website im Design von BÜNDNIS 90/DIE GRÜNEN. Es ist responsive, optimiert für Smartphone, Tablet und Desktop. Mit Launch TYPO3 GRUENE! kannst Du eine schlüsselfertige GRÜNE Website in Betrieb nehmen. Bürgerinitiativen, Verbände und Vereine können mit wenigen Handgriffen das Grüne Design entfernen. Website: https://typo3-gruene.de/",
-    "hash": "sha256-3tlfuVJGagV8iJR2vh8TRwOcxj80lTu3fcE294yInqQ="
+    "hash": "sha256-U+ewX4/PDLptgIDbNZd13UvIyGABHpOi0lp3SGN78jY="
   },
   "starthansekontor": {
     "version": "0.0.4",
