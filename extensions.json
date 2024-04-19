@@ -3525,12 +3525,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "aws_sdk_php": {
-    "version": "3.304.6",
+    "version": "3.304.7",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-s/mXBtoj/ZkeLrp2xN1B3D9Ew4cRUVOwd0uy3ZUsWv0="
+    "hash": "sha256-jWa2COpYjDd1/WYTCiT9zb5GO9dSF1AA37/iB23caxE="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -43773,12 +43773,12 @@
     "hash": "sha256-FPksWFGVJNXjbkh5cvv1NQwmwWzuX3aDX10gKH5LHgc="
   },
   "popup_power": {
-    "version": "1.0.2",
+    "version": "1.0.3",
     "t3_versions": [
       12
     ],
     "description": "Powerful TYPO3 extension to display popups.",
-    "hash": "sha256-GWlkxzSkD68mo28k5FOBQnBwqHUW6XBZC4LV/tg0PK0="
+    "hash": "sha256-jXf8c0+ixYLhk+55OtzpOhlTR25CB5VRj+TCle3cvBk="
   },
   "popup_sitemap": {
     "version": "1.1.2",
@@ -60403,13 +60403,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "tt_products": {
-    "version": "2.15.4",
+    "version": "2.15.5",
     "t3_versions": [
       11,
       12
     ],
     "description": "Advanced versions at ttproducts.de. Documented in the E-Book \"Der TYPO3-Webshop\" - Shop with listing in multiple languages, with order tracking, product variants, support for transactor extension, bill, creditpoint and voucher system.",
-    "hash": "sha256-ayhK52TikFiRXLaFCehp4Kb0x/DfC3DM7kENimuoLaE="
+    "hash": "sha256-TmXu+wroekNgU0+lYWuH1ESTvpoXtkCeeSOip2EchEs="
   },
   "tt_products_foundby": {
     "version": "0.1.4",
