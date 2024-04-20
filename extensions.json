@@ -3525,12 +3525,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "aws_sdk_php": {
-    "version": "3.304.7",
+    "version": "3.304.8",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-jWa2COpYjDd1/WYTCiT9zb5GO9dSF1AA37/iB23caxE="
+    "hash": "sha256-dFDD3ZunNFCgb1z70Q+W/yC+HMTarwRsEu1tSTzJ4ug="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -34370,13 +34370,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mindshape_cookie_consent": {
-    "version": "3.2.0",
+    "version": "3.2.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "This extension provides functionality to create  a customizable cookie consent for your website. It is developed for flexibility to be customized in accordance to your data security guidelines.",
-    "hash": "sha256-GrB/p76nwYr2avmx9jKzl7z7U2M5AQA4TFoYityHaRc="
+    "hash": "sha256-ZpCxd4Hk9vLRnNrJ4WsWexnO0ixO0rss9jl6KLf/wIw="
   },
   "mindshape_cookie_hint": {
     "version": "1.1.0",
