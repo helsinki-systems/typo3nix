@@ -7949,12 +7949,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cf_cookiemanager": {
-    "version": "1.6.1",
+    "version": "1.6.2",
     "t3_versions": [
       12
     ],
     "description": "Unlock the full potential of your Typo3 website with CodingFreaks Typo3 Cookie Manager. Effortlessly manage and customize your website's services, cookies and scripts with our comprehensive extension. Streamline your workflow, enhance user experience, and ensure GDPR compliance with this powerful tool. Take control of your cookie management today and unleash the true potential of your Typo3 installation.",
-    "hash": "sha256-yMHO5HZr+146ogpH6nacGFUq0SmVCqAuloxeKoSEVFE="
+    "hash": "sha256-RTVWOqWqhrnOAClm9ucRKx1GS5mqwEGHtsRQu96z/Ss="
   },
   "cf_google_authenticator": {
     "version": "1.2.4",
@@ -15344,13 +15344,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "dp_cookieconsent": {
-    "version": "12.2.5",
+    "version": "12.2.6",
     "t3_versions": [
       11,
       12
     ],
     "description": "Enable a cookie consent box. Let you visitors control the usage of cookies and load script or content after a consent. (ePrivacy, TTDSG)",
-    "hash": "sha256-F5yZt9ooB7F2a457QvWlD8u155AuZr402rrp52gzDkI="
+    "hash": "sha256-6MmUL9+sVxNASdLbKJ3m5WWme0L+6pn8Un8VWfFhj6g="
   },
   "dp_editpanel": {
     "version": "0.0.2",
@@ -31886,15 +31886,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "macina_searchbox": {
-    "version": "3.0.6",
+    "version": "3.2.0",
     "t3_versions": [
-      7,
-      8,
-      9,
-      10
+      11,
+      12
     ],
     "description": "This Extension offers the possibility to add a searchbox to your Typo3 powered website which submits the searchvalue to the Indexed Search Engine  plugin without any result list output. The extension has a Fluid template which is easy to modify.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-pln3ZZRVt4/399NoxeBcqb2gfIpHt7IvAqox+tuIMK0="
   },
   "macina_testkit": {
     "version": "0.0.2",
@@ -49697,12 +49695,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sf_banners": {
-    "version": "7.0.3",
+    "version": "7.1.0",
     "t3_versions": [
       12
     ],
     "description": "Banner-Management Extension based on Extbase and Fluid. Loads banners asynchronously using JavaScript.",
-    "hash": "sha256-ISkoLfI0lDfGGbA47eUFImYup5HoccyiaOM+35JED5U="
+    "hash": "sha256-ADSfnGhgPuKvXKftw/pfQOAgLM9tVhH29DTvVMUWMBU="
   },
   "sf_books": {
     "version": "8.0.0",
