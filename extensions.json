@@ -18759,12 +18759,12 @@
     "hash": "sha256-8nBzr0+A2YTkv47ZKjiDTLNekamX4v3Q847ovQTsOcg="
   },
   "feature_flag": {
-    "version": "11.1.9",
+    "version": "11.3.0",
     "t3_versions": [
       11
     ],
     "description": "Add ability to use feature flags for extensions and content elements",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-kWER/BUJOC3QjHf5fprzau7LqFRWytZSC+Jz9A15J2Y="
   },
   "febe_smarty": {
     "version": "0.0.2",
@@ -19851,13 +19851,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "flat_urls": {
-    "version": "3.1.2",
+    "version": "3.1.3",
     "t3_versions": [
       11,
       12
     ],
     "description": "Flat URLs (like Stackoverflow) for TYPO3",
-    "hash": "sha256-D4EQNFzP+Mmfx03gNVUkZES8Nb7nUHTFM+rFAnCPyrU="
+    "hash": "sha256-JWP2+XLLvM/p7M6QrG5WyFXIqp55WGizmPd5MecDNqY="
   },
   "flatmgr": {
     "version": "2.8.2",
@@ -24691,14 +24691,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "iconpack": {
-    "version": "1.1.2",
+    "version": "1.1.4",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Provides an iconpack-registry for various iconpacks.",
-    "hash": "sha256-ma8VuflDhRgJLGwatmv+iA41o9F2hwc5wCO6cSLqvTg="
+    "hash": "sha256-8i3KhM7yae61RYx1n5L+bAlwnye3OC0cduA1G+pzn8k="
   },
   "iconpack_bootstrap": {
     "version": "1.3.1",
@@ -26455,12 +26455,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ipandlanguageredirect": {
-    "version": "5.1.2",
+    "version": "5.2.0",
     "t3_versions": [
-      11
+      11,
+      12
     ],
     "description": "TYPO3 extension to redirect a user based on location and browser language.",
-    "hash": "sha256-ngSeW8m5pkWLe3NomEg/QgL++aGRbIAREPB5T03SBQ0="
+    "hash": "sha256-6KSeu0K0TYnDRjpuKIIiYYjrTSVZ1bOwKlrzYKcJyng="
   },
   "ipayment": {
     "version": "0.0.1",
@@ -31590,13 +31591,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "lux": {
-    "version": "35.0.2",
+    "version": "35.1.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Living User Experience - LUX - the Marketing Automation tool for TYPO3.",
-    "hash": "sha256-qAy/7QFcsd2aFWEQZlmHHbiPj3XxJ3xTrf5GU26Ooa0="
+    "hash": "sha256-4jl2T52rSgoQLsUq9/rgbzXeec7EybECPBi4vPnIomc="
   },
   "luxletter": {
     "version": "26.1.0",
@@ -32001,13 +32002,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mail_css_inliner": {
-    "version": "3.1.1",
+    "version": "3.1.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "Inlines CSS in all outgoing TYPO3 mails.",
-    "hash": "sha256-jPv/y4yEofi7SRdacSphQPg9t13QM/BFiBcq1ENg8jY="
+    "hash": "sha256-t0gqOIUAOKi/kMXgs47/cwYU7JK/m7fcCg8s8Rhkm+g="
   },
   "mail_logger": {
     "version": "4.0.3",
@@ -34783,13 +34784,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mksanitizedparameters": {
-    "version": "12.0.0",
+    "version": "12.0.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Sanitize $_REQUEST, $_POST and $_GET before the processing of TYPO3 in backend or frontend starts. Take a look into the documentation how to add your own rules or see which one exist.",
-    "hash": "sha256-YeyOoLA8fuzWPmPGRo+0zTMCS0wvKZL79mGfCKN7lhk="
+    "hash": "sha256-bexSOSFAzhmqK0lhKe56dm0xoFNldqiB8hZL8iP6Z9Q="
   },
   "mksearch": {
     "version": "12.0.0",
@@ -39139,12 +39140,12 @@
     "hash": "sha256-wgMBhJui1rgYGR1krCBILgWnjKBfpQk85ASkJLOC2KY="
   },
   "ns_feedback": {
-    "version": "12.0.5",
+    "version": "12.1.0",
     "t3_versions": [
       12
     ],
     "description": "The TYPO3 Feedback Extension is a great tool for gathering feedback from visitors or customers on your website. With the All In One TYPO3 Feedback extension, website admin can easily add feedback forms in various styles to their website, allowing them to collect valuable insights from their visitors.",
-    "hash": "sha256-aBNroYe+ZUigDCePRh0IZ2rpzUtKozXICjLl41GhNwU="
+    "hash": "sha256-yp0p75/3DvOqBT0o7mxlbpHg91bZ+HM01clhKciZ+Jw="
   },
   "ns_friendlycaptcha": {
     "version": "12.0.2",
@@ -39302,14 +39303,14 @@
     "hash": "sha256-V9rbM92iLlE2XaB3GiAIpeRhbvyx0DqqsmP0oz4Ynfc="
   },
   "ns_openai": {
-    "version": "1.3.2",
+    "version": "1.3.3",
     "t3_versions": [
       10,
       11,
       12
     ],
-    "description": "T3AI — TYPO3 meets Artificial Intelligence with OpenAI (ChatGPT, DALL-E, etc). T3AI provides rich content assistance, automating tasks like content creation and SEO optimization. It offers wide range of features like quick sidebar options, AI page creation, RTE chatbot, Language translation, Chat assistance, and Helpful prompts and so on.",
-    "hash": "sha256-bSdw053IFFurfiQ6sa5d19IWaaZwc3amM4rfyS4r3ss="
+    "description": "T3OpenAI is now relaunched with T3AI. Please check here https://extensions.typo3.org/extension/ns_t3ai",
+    "hash": "sha256-eTZwEo9XdZ8Cg8V6jQhW8uL3ZSD+KkopQEk8JwrZkaM="
   },
   "ns_personio": {
     "version": "1.0.1",
@@ -39378,6 +39379,16 @@
     ],
     "description": "Statcounter extension brings you all the powerful StatCounter.com (free real time visitor stats) features to your TYPO3 site. Live-Demo: https://demo.t3terminal.com/t3t-extensions/ You can download PRO version for more-features & free-support at https://t3terminal.com/typo3-statcounter-plugin-free/",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "ns_t3ai": {
+    "version": "1.0.0",
+    "t3_versions": [
+      10,
+      11,
+      12
+    ],
+    "description": "T3AI — TYPO3 meets Artificial Intelligence with T3AI (ChatGPT, DALL-E, etc). T3AI provides rich content assistance, automating tasks like content creation and SEO optimization. It offers wide range of features like quick sidebar options, AI page creation, RTE chatbot, Language translation, Chat assistance, and Helpful prompts and so on.",
+    "hash": "sha256-2Km6KWQG//NZ3rIFT+iQXw3iKLwE19ghugVFGp5CInE="
   },
   "ns_theme_agency": {
     "version": "12.0.0",
@@ -39464,6 +39475,15 @@
     ],
     "description": "Introducing the TYPO3 WhatsApp Chat Extension for your TYPO3 websites, seamlessly integrating WhatsApp chat into your site. Customize colors to match your brand, and personalize agent profiles with their image, job title, and button options. Plus, advanced chat settings! ",
     "hash": "sha256-R9rRACp8+DXYwwYDc9x7FnBqEjy2A0rZTjFnhCGBc5A="
+  },
+  "ns_wp_migration": {
+    "version": "1.0.1",
+    "t3_versions": [
+      11,
+      12
+    ],
+    "description": "Plug-n-play TYPO3 extension to migrate wordpress page and page data to your TYPO3 site.",
+    "hash": "sha256-w/N9whwDtWULtEsGV7ulZYYfbyy9eY0DSC07DeyGXFg="
   },
   "ns_youtube": {
     "version": "12.0.1",
@@ -45284,13 +45304,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "questions": {
-    "version": "4.0.7",
+    "version": "4.0.8",
     "t3_versions": [
       11,
       12
     ],
     "description": "Questions is a frequently asked questions (FAQ) extension for TYPO3. It's compatible with following extensions: shop, ",
-    "hash": "sha256-dVgVSmKdcTHvAfSFY4/NnINVb2FbFvXJSm42ldZre+w="
+    "hash": "sha256-Q4hpma4OYy29IwXWKVwAG02tjJ+Ivi6vBS2ET7L0Hxg="
   },
   "quick_shop": {
     "version": "10.0.12",
@@ -54103,12 +54123,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "static_info_tables_nl": {
-    "version": "11.5.1",
+    "version": "12.4.0",
     "t3_versions": [
-      11
+      12
     ],
     "description": "(nl) language pack for the Static Info Tables providing localized names for countries, currencies and so on.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-zFbr1kFd4IgZ3F3kyEJAXFn/IdPHA2uGsKs8fxsCabw="
   },
   "static_info_tables_no": {
     "version": "6.4.0",
@@ -54127,12 +54147,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "static_info_tables_pt": {
-    "version": "11.5.1",
+    "version": "12.4.0",
     "t3_versions": [
-      11
+      12
     ],
     "description": "(pt) language pack for the Static Info Tables providing localized names for countries.",
-    "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
+    "hash": "sha256-dk3Rt9nKkDfSVzVBFNh4ZLp/X/QMhsSo9J2a6nM0hQ8="
   },
   "static_info_tables_pt_br": {
     "version": "7.0.0",
@@ -56113,12 +56133,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "t3sbootstrap": {
-    "version": "5.3.8",
+    "version": "5.3.10",
     "t3_versions": [
       12
     ],
     "description": "Startup extension to use bootstrap 5 classes, components and more out of the box. Example and info: www.t3sbootstrap.de",
-    "hash": "sha256-ZT5DIrA5CcDhwdkMHSPCUa2J7hN1bdnvatqhoLNCxfw="
+    "hash": "sha256-LXCYPIoU7WVJS1Aa8fws+1+sO4pyvYvz6ZSTuIpE3DM="
   },
   "t3sbootstrap_grid": {
     "version": "3.0.0",
@@ -61497,14 +61517,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "update_refindex": {
-    "version": "9.1.1",
+    "version": "11.0.0",
     "t3_versions": [
-      9,
-      10,
       11
     ],
     "description": "extension contains scheduler-task to update refindex of TYPO3",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-Nk9fgDUwpZCkvZUOga9yH/uorhrNuVd+fistNI4croE="
   },
   "updatetrustedhostfromsites": {
     "version": "1.1.0",
@@ -62875,14 +62893,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "we_cookie_consent": {
-    "version": "4.0.1",
+    "version": "4.0.3",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Cookie Consent Panel (Optin) with DSGVO/GDPR compliant use of cookies. Preconfigured modules for Google Analytics, Facebook and other frequently used services. Arbitrary expandability with tracking scripts that generate cookies on your website. Support for Google Tag Manager incl. Google Consent Mode and Google Consent Mode v2. Easy export for Google Tag Manager. Third-party cookies and scripts are only loaded when active consent is given. Website visitors can edit their privacy settings at any time. Automatic update of cookie information when new cookies/scripts are inserted with secure consent procedure. Cookies can be automatically added to the privacy policy via a plugin. Multilingual and full support for desktop, tablet and mobile. Four standard modes for displaying the content solution. Based on Klaro!.",
-    "hash": "sha256-jOlXmfGYQXX7N/c1FLZGmHyE/SFbkK0X6CcdCwFChxk="
+    "hash": "sha256-B87WI1bxxgEpFeygM8o/kF3JWXM9Nt1f8G/f6Ow2oqE="
   },
   "we_dam2fal": {
     "version": "1.0.12",
@@ -65630,12 +65648,12 @@
     "hash": "sha256-IcYOQD7UldEmteTtsBtrqQGnMBstvqzoBUhqCir1gP8="
   },
   "zabbix_client": {
-    "version": "12.2.1",
+    "version": "12.2.2",
     "t3_versions": [
       12
     ],
     "description": "Client for zabbix monitoring system. Secure up your TYPO3 Systems and detect errors and performance killers.",
-    "hash": "sha256-ItQkBwMyCNoXD2sN7CO6WS7DffICNfmnyo6rloekzTw="
+    "hash": "sha256-2a6OmLADkw8RhUpkQzN5FnDN7WiDdu3lx4UOSu6rwTc="
   },
   "zadi_masterconfig": {
     "version": "0.0.7",
