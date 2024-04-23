@@ -1572,12 +1572,12 @@
     "hash": "sha256-c50wcuwa9wr0vfLiQ3l6X0wcNYUeOOZtRY8R6mXu7/w="
   },
   "aimeos": {
-    "version": "23.10.6",
+    "version": "24.4.1",
     "t3_versions": [
       12
     ],
     "description": "Professional, full-featured and ultra-fast TYPO3 e-commerce extension for online shops, complex B2B applications and #gigacommerce. Turns TYPO3 into the best platform for content commerce and your e-commerce requirements (also available as TYPO3 distribution)",
-    "hash": "sha256-bfhMyLUdGpqYV5uRvBKeM1NC1rB8N6rRXxQgz0UcRXc="
+    "hash": "sha256-06eXgPPa3Xsi6AY11/aT61aBXocZiT6IPmk/c8EpJx8="
   },
   "aimeos_dist": {
     "version": "23.7.1",
@@ -3525,12 +3525,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "aws_sdk_php": {
-    "version": "3.304.8",
+    "version": "3.305.0",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-dFDD3ZunNFCgb1z70Q+W/yC+HMTarwRsEu1tSTzJ4ug="
+    "hash": "sha256-K2Th7i/LeabzP6zc9NDqDAfQ7bmVmLVcbbC8rYsetj0="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -9780,12 +9780,12 @@
     "hash": "sha256-zIEstPFHttAq2bRVbuXskLWhPbkZ++m4mcc7E46IM6s="
   },
   "content_blocks": {
-    "version": "0.7.3",
+    "version": "0.7.4",
     "t3_versions": [
       12
     ],
     "description": "TYPO3 CMS Content Blocks - Content Types API",
-    "hash": "sha256-SHZo7iuAF/xbLfPTtBiu/WUW+C4CJxG3oAWczEOwAP8="
+    "hash": "sha256-pjl2UOdrAFLGhbGVxgfXIrvKcHLXX3tnxCbbKO6EkyY="
   },
   "content_consent": {
     "version": "2.0.2",
@@ -24099,12 +24099,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "hreflang_pages": {
-    "version": "1.0.3",
+    "version": "1.1.0",
     "t3_versions": [
+      10,
       11
     ],
     "description": "Extends TYPO3 EXT:seo hreflang functionality",
-    "hash": "sha256-B6/VTHSwmtRA6O1BeRCRD0H/DYxb8TP6amUW4QQVMkA="
+    "hash": "sha256-QBI4nYqdgVVx67qi54fw45gI7NtJoxnz4ID6j1FfSpc="
   },
   "hriseo": {
     "version": "2.0.0",
@@ -26455,13 +26456,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ipandlanguageredirect": {
-    "version": "5.2.0",
+    "version": "5.2.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "TYPO3 extension to redirect a user based on location and browser language.",
-    "hash": "sha256-6KSeu0K0TYnDRjpuKIIiYYjrTSVZ1bOwKlrzYKcJyng="
+    "hash": "sha256-SGApMH1VRSjI3IYQQ3Q9zrw2zqMIMGP0rs3zT19cYcE="
   },
   "ipayment": {
     "version": "0.0.1",
@@ -31977,13 +31978,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mail": {
-    "version": "2.6.1",
+    "version": "2.6.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "Powerful newsletter system for TYPO3",
-    "hash": "sha256-vfADoqtGZUy8fyVHIxq0v1xiRF25dyxY/MjwVl8i8qg="
+    "hash": "sha256-YUTmqhr1a6J6+kONgZ3js1JV8MxE41kqeHJ/oOZQQ4A="
   },
   "mail2news": {
     "version": "2.0.3",
@@ -34369,13 +34370,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mindshape_cookie_consent": {
-    "version": "3.2.1",
+    "version": "3.2.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "This extension provides functionality to create  a customizable cookie consent for your website. It is developed for flexibility to be customized in accordance to your data security guidelines.",
-    "hash": "sha256-ZpCxd4Hk9vLRnNrJ4WsWexnO0ixO0rss9jl6KLf/wIw="
+    "hash": "sha256-71UOKf+1mW/414HYQEngCdF1TKpEBGdJ+I+OT6H2ZuI="
   },
   "mindshape_cookie_hint": {
     "version": "1.1.0",
@@ -39132,12 +39133,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ns_faq": {
-    "version": "12.0.3",
+    "version": "12.1.0",
     "t3_versions": [
       12
     ],
     "description": "The Ultimate FAQ TYPO3 Extension helps in managing Frequently Asked Questions easy and efficient for your TYPO3 website. With its user-friendly backend module, you can effortlessly add, customize, and style the FAQs. It's fully compatible with the latest TYPO3 Version",
-    "hash": "sha256-wgMBhJui1rgYGR1krCBILgWnjKBfpQk85ASkJLOC2KY="
+    "hash": "sha256-W9VPa0o65y7QGW2e64aEbeupuAcrlK8KscrrtpSnU+Q="
   },
   "ns_feedback": {
     "version": "12.1.0",
@@ -39156,12 +39157,12 @@
     "hash": "sha256-xc/cXKEr4b9XrLDL3fT9EqsL5TziUZ7Vt4UVkdn7hsc="
   },
   "ns_gallery": {
-    "version": "12.0.2",
+    "version": "12.1.0",
     "t3_versions": [
       12
     ],
     "description": "Using the All In One TYPO3 Gallery Extension, you can easily create beautiful lightbox image and video galleries with various grid layouts right from the TYPO3 dashboard in just a few clicks. Try the best TYPO3 gallery extension for adding custom, unique and responsive galleries to your website.",
-    "hash": "sha256-XsZdgwirSW6b4ejHdLo3HzkGVJH8gSrCAwStcS7pJmg="
+    "hash": "sha256-cnNL6BBacIr2mj6eACtnV568GAk7lUSy5vxwH1+bxNU="
   },
   "ns_google_map": {
     "version": "12.0.2",
@@ -49607,13 +49608,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "server_timing": {
-    "version": "1.10.0",
+    "version": "1.10.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Show timings of Database and HTTP Calls (send them to Sentry)",
-    "hash": "sha256-xxk5XHBY5BshqkuKPb4y0iFsFWC/AyK/85bh/wV6ovM="
+    "hash": "sha256-4s7FXDo71n+dO2Y3XCA+nMnqJv9C5ECph8EjmgvfDys="
   },
   "service_bw2": {
     "version": "7.0.0",
@@ -57076,14 +57077,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "tcpdfbill_tt_products": {
-    "version": "0.3.0",
+    "version": "0.3.1",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "tt_products Extension with automatic PDF bill generation using the TCPDF library. Works with tt_products 2.14.3-3.4.99",
-    "hash": "sha256-LTo5MeSjKJ0r3KTnB9T4lCXnhHsHXyHGUgK0VdvOR3g="
+    "hash": "sha256-M0/PL4f/18L7eMlG3fJGvEzn/WhPIr3cKg31bPxiJp8="
   },
   "td_calendar": {
     "version": "0.4.0",
@@ -62115,14 +62116,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "vhs": {
-    "version": "7.0.2",
+    "version": "7.0.3",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "A collection of ViewHelpers for performing rendering tasks that are not natively provided by the Fluid templating engine.",
-    "hash": "sha256-tNwZ1CtsAS0QWHP+dqhGsouqwrRV73s4W1eBSeIgZ40="
+    "hash": "sha256-emeyTfPSCgzVo8CqgmQIrJL2SveWMiXnWtavRcEUSKA="
   },
   "vhs_scss": {
     "version": "2.0.3",
