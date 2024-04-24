@@ -3525,12 +3525,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "aws_sdk_php": {
-    "version": "3.305.0",
+    "version": "3.305.1",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-K2Th7i/LeabzP6zc9NDqDAfQ7bmVmLVcbbC8rYsetj0="
+    "hash": "sha256-2mnl8xZ3IUmfa2/L8R0dX4rtrezgt+tXccz5KeCPuhA="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -21252,12 +21252,12 @@
     "hash": "sha256-BWibo3/20xqtaX8DidK/HYtgtpJvSyzjCx9HqXRROF8="
   },
   "fp_masterquiz": {
-    "version": "5.0.1",
+    "version": "5.1.4",
     "t3_versions": [
       12
     ],
     "description": "A modern extension that offers quiz, polls and tests. Ajax support. The result can be displayed as a chart too. Supports 8 question modes.",
-    "hash": "sha256-Nr+QkYcU6tLHO1s06LggglYbjYT3vhTUk0ibonpdEeo="
+    "hash": "sha256-5qCxAxu7FR1VNMc+jtVXKdJ/kXi3+RY+amTeiLH3cNU="
   },
   "fp_newsletter": {
     "version": "7.0.1",
@@ -29581,14 +29581,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "klaro_consent_manager": {
-    "version": "1.7.3",
+    "version": "1.7.4",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Functionally complete, flexible TYPO3 integration of Klaro! Consent Management by KIProtect. Klaro! is a powerful tool that protects your visitors' privacy and data and helps you run a GDPR compliant website.",
-    "hash": "sha256-Bwfqm9KjDBKG5XKJFNXqyxP8dyoNTZUdH8nam/JPHjY="
+    "hash": "sha256-vITaXettorSCQlD9H2sRC2HLw3MwazWyk6j2EXwXsDk="
   },
   "km_dam_extension": {
     "version": "1.0.2",
@@ -39336,13 +39336,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ns_pwa": {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Make your TYPO3 website lightning fast & work offline! Get our TYPO3 PWA extension for a better SEO & mobile experience. Install today!",
-    "hash": "sha256-6tPCn8uYwcD8JVVndK1J4JI1aK6g64k8N+a1nb1VwzI="
+    "hash": "sha256-uQrw7mXIMHuMHUGf0VTk1lrGqbCT7s5c8tBh2cA+fBk="
   },
   "ns_revolution_slider": {
     "version": "12.0.1",
@@ -44034,13 +44034,13 @@
     "hash": "sha256-Hhsjjvj4dpp/59XQayjBKKB+7U8hsMak4T93JUHDeoY="
   },
   "powermailcaptcha": {
-    "version": "1.4.3",
+    "version": "1.6.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Captcha Extension for Powermail",
-    "hash": "sha256-NyBMNgMKnaHXwwCMJec0Q/yTU92iq+JR0rL69cddV4o="
+    "hash": "sha256-zQaD3Xg71qkw6nnIFqJ7TpEDyz/Ll9ZMKBjmSdTT5DE="
   },
   "powermailcustomcss": {
     "version": "1.1.0",
@@ -62894,14 +62894,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "we_cookie_consent": {
-    "version": "4.0.3",
+    "version": "4.0.4",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Cookie Consent Panel (Optin) with DSGVO/GDPR compliant use of cookies. Preconfigured modules for Google Analytics, Facebook and other frequently used services. Arbitrary expandability with tracking scripts that generate cookies on your website. Support for Google Tag Manager incl. Google Consent Mode and Google Consent Mode v2. Easy export for Google Tag Manager. Third-party cookies and scripts are only loaded when active consent is given. Website visitors can edit their privacy settings at any time. Automatic update of cookie information when new cookies/scripts are inserted with secure consent procedure. Cookies can be automatically added to the privacy policy via a plugin. Multilingual and full support for desktop, tablet and mobile. Four standard modes for displaying the content solution. Based on Klaro!.",
-    "hash": "sha256-B87WI1bxxgEpFeygM8o/kF3JWXM9Nt1f8G/f6Ow2oqE="
+    "hash": "sha256-TD4PM8aWz98NtfAlKg1/nWkeba6/BKIPBSzxc03Q5Gw="
   },
   "we_dam2fal": {
     "version": "1.0.12",
