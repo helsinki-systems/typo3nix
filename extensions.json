@@ -1580,12 +1580,12 @@
     "hash": "sha256-06eXgPPa3Xsi6AY11/aT61aBXocZiT6IPmk/c8EpJx8="
   },
   "aimeos_dist": {
-    "version": "23.7.1",
+    "version": "24.4.1",
     "t3_versions": [
       12
     ],
     "description": "Professional, full-featured and ultra-fast TYPO3 e-commerce distribution for online shops, complex B2B applications and #gigacommerce. Turns TYPO3 into the best platform for content commerce and your e-commerce requirements",
-    "hash": "sha256-l+WdlIn4vPIzSAX9zZRDPVi+z0MiFDwqMMio8iE0Tb8="
+    "hash": "sha256-4Ld0eIlVho3FXdcT7vRD/C6oAARE2Mk7N9q4hfZXjqk="
   },
   "aimeos_migrate": {
     "version": "16.2.0",
@@ -3525,12 +3525,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "aws_sdk_php": {
-    "version": "3.305.1",
+    "version": "3.305.2",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-2mnl8xZ3IUmfa2/L8R0dX4rtrezgt+tXccz5KeCPuhA="
+    "hash": "sha256-e2JZiuyo5qfgqDgDeGB3DuONkQyFz8v2Uyg6N66RHCg="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -22345,12 +22345,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "gkh_rss_import": {
-    "version": "9.0.4",
+    "version": "10.0.0",
     "t3_versions": [
-      11
+      12
     ],
     "description": "Fetch an RSS / Atom Feed and display its content on the Frontend.",
-    "hash": "sha256-JuhTCHgeCoV9JYPZnUJQHTDmTW8Xl2qhr73mEhfx+uA="
+    "hash": "sha256-YHXMaKpGnYamhn0yxfUxI+UZCg3CTHhW86yTPGVClOk="
   },
   "gl_be_templates": {
     "version": "0.1.0",
@@ -29608,12 +29608,12 @@
     "hash": "sha256-oGwrcjkLrsWjEK1E9QUdRdfIO5TIq8bNNdqjMGlvVww="
   },
   "km_timeline": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "t3_versions": [
       11
     ],
     "description": "Creates a timeline of a chronicle.",
-    "hash": "sha256-Vmm3REU+jyoA12EANPgkxJb/OV2UM7Vmq4irQ/Dm7hI="
+    "hash": "sha256-KiIP4Z6Mh0ol/m/FKl+DgT6IGLtl4U7mxUukAMIxcw8="
   },
   "km_ttaddress_extension": {
     "version": "6.2.0",
@@ -32012,13 +32012,13 @@
     "hash": "sha256-t0gqOIUAOKi/kMXgs47/cwYU7JK/m7fcCg8s8Rhkm+g="
   },
   "mail_logger": {
-    "version": "4.0.3",
+    "version": "4.0.4",
     "t3_versions": [
       11,
       12
     ],
     "description": "This extension logs all your outgoing mails and provides email templates and debugging tools",
-    "hash": "sha256-QF4vbiOJ+/zQzeM3WMUzGAlaUaU5Yet7VB8AKjOXODM="
+    "hash": "sha256-Sl4TWLypSF2kgYabjcSOiiFFpjMFgZZx0G6+dFnGMHA="
   },
   "mail_spool": {
     "version": "1.2.0",
@@ -39107,17 +39107,18 @@
     "hash": "sha256-xO7DUczyRxMrVGleMs9bfDZXGvlimRwP+eztQ+NCE1o="
   },
   "ns_ext_compatibility": {
-    "version": "5.1.2",
+    "version": "6.0.0",
     "t3_versions": [
       4,
       6,
       7,
       8,
       9,
-      10
+      10,
+      11
     ],
     "description": "Are you in need of a TYPO3 Extension that offers features such as system information reporting, statistical analysis of TYPO3 extensions, downloadable compatibility options, and more? TYPO3 Extensions Compatibility Report, tailored to meet your specific requirements! Compatible with all major versions of TYPO3 , it assists you in assessing the feasibility and complexity of TYPO3 upgrades. ",
-    "hash": "sha256-0ZSoWUcfEsWx3D/uMJQnVuC66OwGoaAjE3GydAeaRGE="
+    "hash": "sha256-1VMuUT/2KFouBVoY4+xeAd9RhSouwf0n1gC73xrx7dc="
   },
   "ns_facebook_comment": {
     "version": "2.0.2",
