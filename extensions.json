@@ -3333,14 +3333,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "autotranslate": {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "This extension provides automatic translation of pages and content elements via DeepL API.",
-    "hash": "sha256-vZ1VZQdKQUz8CqKpo0qlqYcFq0lE6GruuznE5EhbYl0="
+    "hash": "sha256-mH1UwIzbWvywBlfhCUQXMmHOkr4gaKYToRJzRUE9jdo="
   },
   "autoupload_dummy": {
     "version": "1.0.2",
@@ -8828,13 +8828,13 @@
     "hash": "sha256-CyYYDj2w3a9nPtj3bnZfWMLJ3YAwhqhr0wga+jqzUX0="
   },
   "clubmanager": {
-    "version": "1.1.2",
+    "version": "1.1.3",
     "t3_versions": [
       11,
       12
     ],
     "description": "The TYPO3 module for managing clubs, foundations and associations. With Clubmanager, you get the tool to manage the organization AND public relations of your club or association in a cost-saving and effective way.",
-    "hash": "sha256-5se5Yjaj8YAt6Sfl/i+7lWCkb/xERg3LutrXBDG9Ea0="
+    "hash": "sha256-sg+9DLgl+IXNF9VNqt+Uc/p6A+alfdmiDsn8ZyQCJFc="
   },
   "cm_ajax": {
     "version": "0.6.0",
@@ -9780,12 +9780,12 @@
     "hash": "sha256-zIEstPFHttAq2bRVbuXskLWhPbkZ++m4mcc7E46IM6s="
   },
   "content_blocks": {
-    "version": "0.7.4",
+    "version": "0.7.5",
     "t3_versions": [
       12
     ],
     "description": "TYPO3 CMS Content Blocks - Content Types API",
-    "hash": "sha256-pjl2UOdrAFLGhbGVxgfXIrvKcHLXX3tnxCbbKO6EkyY="
+    "hash": "sha256-O7eM6Fdh0GKqdzwGgRtN6MfCQ3N8VJHhNk4S3LV4DVM="
   },
   "content_consent": {
     "version": "2.0.2",
@@ -31978,13 +31978,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mail": {
-    "version": "2.6.2",
+    "version": "2.6.3",
     "t3_versions": [
       11,
       12
     ],
     "description": "Powerful newsletter system for TYPO3",
-    "hash": "sha256-YUTmqhr1a6J6+kONgZ3js1JV8MxE41kqeHJ/oOZQQ4A="
+    "hash": "sha256-i+KeMwaYJPOd3cHr+HV7+aTgGNzvXL6Ywb2HDoaHXQc="
   },
   "mail2news": {
     "version": "2.0.3",
@@ -39107,7 +39107,7 @@
     "hash": "sha256-xO7DUczyRxMrVGleMs9bfDZXGvlimRwP+eztQ+NCE1o="
   },
   "ns_ext_compatibility": {
-    "version": "6.0.0",
+    "version": "6.0.1",
     "t3_versions": [
       4,
       6,
@@ -39118,7 +39118,7 @@
       11
     ],
     "description": "Are you in need of a TYPO3 Extension that offers features such as system information reporting, statistical analysis of TYPO3 extensions, downloadable compatibility options, and more? TYPO3 Extensions Compatibility Report, tailored to meet your specific requirements! Compatible with all major versions of TYPO3 , it assists you in assessing the feasibility and complexity of TYPO3 upgrades. ",
-    "hash": "sha256-1VMuUT/2KFouBVoY4+xeAd9RhSouwf0n1gC73xrx7dc="
+    "hash": "sha256-vylsq/QyL3Fu8r7bem8WjKOgVO5CnK4ISHTifN8wcnk="
   },
   "ns_facebook_comment": {
     "version": "2.0.2",
@@ -39236,15 +39236,16 @@
     "hash": "sha256-jCClL1DA/rkavnnbKWUmrPixckzDrF2k4ckp7pa7QU8="
   },
   "ns_instagram": {
-    "version": "3.0.4",
+    "version": "4.0.0",
     "t3_versions": [
       8,
       9,
       10,
-      11
+      11,
+      12
     ],
-    "description": "Plugin to display gallery, feeds and phototile with clean, customizable and responsive feeds from multiple Instagram accounts. Demo: https://demo.t3planet.com/t3t-extensions/ You can download PRO version for more-features & free-support at https://t3planet.com/typo3-instagram-extension",
-    "hash": "sha256-/gBQYME7s2M9q3CuWgaFhSs/qoiFIidxS4PKlGPD888="
+    "description": "The TYPO3 Instagram extension is a straightforward plugin that easily integrates to display your Instagram Feed. It offers clean, customizable, and responsive feeds directly from your Instagram account. Showcase galleries, feeds, and photo tiles from multiple Instagram accounts in an appealing format. It adds a visually attractive frontend display of Instagram posts to your TYPO3 website.  *** Live-Demo: https://demo.t3planet.com/t3t-extensions/instagram *** Documentation & Free Support: https://t3planet.com/typo3-instagram-extension",
+    "hash": "sha256-5gAy05ce1yv+8Ux643uQoL/Dt1NOqd57VhCkcgGG1Gc="
   },
   "ns_langtmplsel": {
     "version": "0.0.3",
@@ -55117,13 +55118,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sysinfo": {
-    "version": "1.0.7",
+    "version": "3.0.1",
     "t3_versions": [
-      10,
-      11
+      12
     ],
-    "description": "Provides a backend module for showing which templates included where. This supports Typo3 migration.",
-    "hash": "sha256-twAwXCqRdLXGCnS07ShRVgIRarq3EvhOwjVRDY5fDzE="
+    "description": "Provides a backend module for showing which templates included where, which extensions actually used as well as a couple of security and performance checks. This supports Typo3 maintenance, migration and security",
+    "hash": "sha256-gyUnHFSoHX5y323S3Lpl0DIbQa9657/FJvY/wilYSgA="
   },
   "syslanguage_flags": {
     "version": "1.1.0",
