@@ -3525,12 +3525,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "aws_sdk_php": {
-    "version": "3.305.3",
+    "version": "3.305.4",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-GTtyQVigAWIRS+T2HDXeY+TbpyGdoVrbW4NmCLQCmLk="
+    "hash": "sha256-sVhNSe7STUyVtBIu51zeh7kI4KsUhd19pVjiGt/6Lfg="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -8726,6 +8726,12 @@
     ],
     "description": "Browse for content elements and other records via CLI",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "cli_config": {
+    "version": "1.0.0",
+    "t3_versions": [],
+    "description": "TYPO3 CMS extension to provide a command to set or unset global system settings on CLI.",
+    "hash": "sha256-GPWqFJNJPKw3q5SxLW1NZUW0jHQ0S7I/HjBJKkhIk/8="
   },
   "cli_ensure_admin": {
     "version": "2.0.3",
@@ -14022,12 +14028,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "div2007": {
-    "version": "2.1.3",
+    "version": "2.1.4",
     "t3_versions": [
       12
     ],
     "description": "This library offers classes and functions to other TYPO3 extensions. Replacement for tslib_pibase methods.",
-    "hash": "sha256-OV01dtHALHpAhKW5P619UtAC93QcIY4diQSDdRtpLl4="
+    "hash": "sha256-wewc4DnIJgLTqmAeorSFQKJuSO7Nk8pURi73MpJopTw="
   },
   "diva": {
     "version": "8.7.1",
@@ -55118,12 +55124,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sysinfo": {
-    "version": "3.0.1",
+    "version": "3.0.2",
     "t3_versions": [
       12
     ],
     "description": "Provides a backend module for showing which templates included where, which extensions actually used as well as a couple of security and performance checks. This supports Typo3 maintenance, migration and security",
-    "hash": "sha256-gyUnHFSoHX5y323S3Lpl0DIbQa9657/FJvY/wilYSgA="
+    "hash": "sha256-OE4SwURtQi2l1ws1gUMsoNbEss+43KJ5R6bUF2HKou0="
   },
   "syslanguage_flags": {
     "version": "1.1.0",
