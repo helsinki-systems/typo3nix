@@ -21676,13 +21676,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fullscreen": {
-    "version": "1.0.1",
+    "version": "2.0.0",
     "t3_versions": [
-      10,
-      11
+      12
     ],
     "description": "This extension adds a fullscreen button to the toolbar.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-SPEEx7bSjf37X4MhNaPLsQ14M56ZbeldUC7SRQQDkt0="
   },
   "fullscreenslider": {
     "version": "1.3.0",
@@ -31598,13 +31597,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "lux": {
-    "version": "35.1.0",
+    "version": "35.2.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Living User Experience - LUX - the Marketing Automation tool for TYPO3.",
-    "hash": "sha256-4jl2T52rSgoQLsUq9/rgbzXeec7EybECPBi4vPnIomc="
+    "hash": "sha256-nwqm4IITR3dkX5FezUO+Xmcojp6AAfUoT6oKGfcxEwE="
   },
   "luxletter": {
     "version": "26.1.0",
@@ -55124,12 +55123,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sysinfo": {
-    "version": "3.0.2",
+    "version": "3.0.3",
     "t3_versions": [
       12
     ],
     "description": "Provides a backend module for showing which templates included where, which extensions actually used as well as a couple of security and performance checks. This supports Typo3 maintenance, migration and security",
-    "hash": "sha256-OE4SwURtQi2l1ws1gUMsoNbEss+43KJ5R6bUF2HKou0="
+    "hash": "sha256-IQbAMejI7HDy3nfeQXy0hDXwhrtpwdl1rE5nNR0QYrE="
   },
   "syslanguage_flags": {
     "version": "1.1.0",
