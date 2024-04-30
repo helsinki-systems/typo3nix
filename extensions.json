@@ -2781,13 +2781,15 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "asdis": {
-    "version": "8.0.1",
+    "version": "11.0.16",
     "t3_versions": [
       8,
-      9
+      9,
+      10,
+      11
     ],
     "description": "Distributes on page assets onto multiple servers.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-llNMBzqQj6PTFI9zbA+ZMceTPHmGLfnfYBv2hKazb0k="
   },
   "asfk_cklogin": {
     "version": "1.1.0",
@@ -3525,12 +3527,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "aws_sdk_php": {
-    "version": "3.305.4",
+    "version": "3.305.5",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-sVhNSe7STUyVtBIu51zeh7kI4KsUhd19pVjiGt/6Lfg="
+    "hash": "sha256-NlQu6zRb9JG4JDjMRqaCTf5q2j73GiW6h9KxPo94pgY="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -5699,6 +5701,14 @@
     ],
     "description": "Typo3 Event and Calendar Extension",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "bt_appointment": {
+    "version": "12.0.3",
+    "t3_versions": [
+      12
+    ],
+    "description": "Conveniently integrate bookingtime's online appointment booking into your website.",
+    "hash": "sha256-e+sF0Fa6DfOJdNQSWqkKYMdILZnWAl8bJaPQvmHVal8="
   },
   "bt_imprint": {
     "version": "2.0.0",
@@ -23553,12 +23563,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "happy_feet": {
-    "version": "11.3.0",
+    "version": "11.3.5",
     "t3_versions": [
       11
     ],
     "description": "Handles happy footnotes",
-    "hash": "sha256-9JJgVE2dVLlfKPVHHyHaPSFv9OoT3lMquBbEex64JVM="
+    "hash": "sha256-fBrCXBBVVWc9VbrwtFT9rsy78gW8Bh7/YfDMvoJcRFk="
   },
   "harz2night_de_flickrflashshow": {
     "version": "1.0.12",
@@ -23780,13 +23790,13 @@
     "hash": "sha256-/jR61A4Ct78lkWaI1fgVll8PuUruNlnBE2E98U97j/s="
   },
   "hh_tt_address_places": {
-    "version": "2.2.0",
+    "version": "2.3.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Simply adds places / companies TCA for EXT:tt_address.",
-    "hash": "sha256-x+CSVG68TMFcgxek+hK9/LnFX0suW3/1PIoMpRu+7Gs="
+    "hash": "sha256-nIJoZ6Zn3RAoQoMyXPNj6d4sjsvJbKEYoD81UNwW5BM="
   },
   "hh_video_extender": {
     "version": "0.2.4",
@@ -25639,6 +25649,14 @@
     "t3_versions": [],
     "description": "This is NOT a mailsystem or similar. This extension only loads an external HTML source in the \"content\" frame of the Typo3 backend. Here we load the current users webmail-interface. Created/tested for Ipswitch Imail ver. 6.x running  the standard webmail-",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "imgix": {
+    "version": "11.2.0",
+    "t3_versions": [
+      11
+    ],
+    "description": "Simple integration of imgix in TYPO3",
+    "hash": "sha256-P59RekFKogZe5t7o26/KrbiJ2/fY0xGs771A0eY6u7Y="
   },
   "imgmenu": {
     "version": "1.1.1",
@@ -29586,14 +29604,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "klaro_consent_manager": {
-    "version": "1.7.4",
+    "version": "1.8.0",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Functionally complete, flexible TYPO3 integration of Klaro! Consent Management by KIProtect. Klaro! is a powerful tool that protects your visitors' privacy and data and helps you run a GDPR compliant website.",
-    "hash": "sha256-vITaXettorSCQlD9H2sRC2HLw3MwazWyk6j2EXwXsDk="
+    "hash": "sha256-cZraW0jJvRt7w95f8SM/Wk/eZyTHKUlS4AuNyhsHBtY="
   },
   "km_dam_extension": {
     "version": "1.0.2",
@@ -40397,13 +40415,13 @@
     "hash": "sha256-wvnsWxwC4HPw3jSFImRFr4CfbTeLClBqNCIMoVZCpV4="
   },
   "oidc_client": {
-    "version": "0.2.3",
+    "version": "0.3.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "This extension allows to authenticate a user with one of predefined OpenID Connect providers.",
-    "hash": "sha256-aEcnP5f7HSLpyucjK43TQflVGLCEROg1avNhkGezi9c="
+    "hash": "sha256-j1Y6L4QqhugdraGHVD6ruYTULEd/e4JCQCMik9GTFAU="
   },
   "oidc_resource_ldap_proc": {
     "version": "0.1.0",
@@ -43799,12 +43817,12 @@
     "hash": "sha256-FPksWFGVJNXjbkh5cvv1NQwmwWzuX3aDX10gKH5LHgc="
   },
   "popup_power": {
-    "version": "1.0.3",
+    "version": "1.1.0",
     "t3_versions": [
       12
     ],
     "description": "Powerful TYPO3 extension to display popups.",
-    "hash": "sha256-jXf8c0+ixYLhk+55OtzpOhlTR25CB5VRj+TCle3cvBk="
+    "hash": "sha256-9R9kpB6IVyhmbCjSvSYlW+R1e4X+StZ1FqYHQ6QFeJo="
   },
   "popup_sitemap": {
     "version": "1.1.2",
