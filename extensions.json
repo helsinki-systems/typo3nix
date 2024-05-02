@@ -3527,12 +3527,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "aws_sdk_php": {
-    "version": "3.305.6",
+    "version": "3.305.7",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-HHx5TbAOXKxXautq7c4grJJc6bqRXEp7NZGvjNpB2fI="
+    "hash": "sha256-KoNstUtPxKVthxHoT/zFpeevQwW1+c7WObnsVdwJlPE="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -4886,12 +4886,10 @@
     "hash": "sha256-Zld5boOhYFkfHC/FmjG+xszdTE5+LY3paxVnSFYHffM="
   },
   "blog_example": {
-    "version": "12.1.0",
-    "t3_versions": [
-      12
-    ],
+    "version": "13.0.0",
+    "t3_versions": [],
     "description": "This extension contains code examples used in TYPO3 explained to describe the use of Extbase",
-    "hash": "sha256-xny1kEFEl1RfpiAs7VdVBiqIOrs5vlwVPQWXaGWpJhc="
+    "hash": "sha256-k3ZM1r+CU6//dOQB7AUqXRQ7bmy4dF3WaOKkHZrRthA="
   },
   "blog_template": {
     "version": "1.2.2",
@@ -6728,12 +6726,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "calendarize": {
-    "version": "13.0.3",
+    "version": "13.0.4",
     "t3_versions": [
       12
     ],
     "description": "Create a structure for timely controlled tables (e.g. events) and one plugin for the different output of calendar views (list, detail, month, year, day, week...). The extension is shipped with one default event table, but you can also \"calendarize\" your own table/model. It is completely independent and configurable! Use your own models as event items in this calender. Development on https://github.com/lochmueller/calendarize",
-    "hash": "sha256-7/svtNtynjqHhpo2LcZIjoNWxxr5VoSWVYZ3+rHxOlg="
+    "hash": "sha256-8mPxvDX1S362EWL3EhX9JzIrL1DK0+APL/O8KnsXehA="
   },
   "calendarize_address": {
     "version": "4.1.0",
@@ -9796,12 +9794,12 @@
     "hash": "sha256-zIEstPFHttAq2bRVbuXskLWhPbkZ++m4mcc7E46IM6s="
   },
   "content_blocks": {
-    "version": "0.7.6",
+    "version": "0.7.7",
     "t3_versions": [
       12
     ],
     "description": "TYPO3 CMS Content Blocks - Content Types API",
-    "hash": "sha256-WPK3VSh6vYy16T42qjUp60jEO0PC9Av6gOrqaYg8dT4="
+    "hash": "sha256-luwiWm5OnJQkpBLqQkTFdvrM2kDThEgoJYk9+qYGI9g="
   },
   "content_consent": {
     "version": "2.0.2",
@@ -25894,13 +25892,13 @@
     "hash": "sha256-1BtHqdHxMgqWSvwa9lEB9dgde/Cg811PY1DMDC7F9sQ="
   },
   "in2publish_core": {
-    "version": "12.4.0",
+    "version": "12.5.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Content publishing extension to connect stage and production server",
-    "hash": "sha256-TJAa7Ajw1k+MAoc7lxqJjhpL4iunb3H4kPkrqESmUa4="
+    "hash": "sha256-CX1NPghEMRn19oJePMqyMu8tzlHshqDSNwWXukbbgZo="
   },
   "in2rss": {
     "version": "0.2.2",
@@ -29603,14 +29601,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "klaro_consent_manager": {
-    "version": "1.8.1",
+    "version": "1.8.2",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Functionally complete, flexible TYPO3 integration of Klaro! Consent Management by KIProtect. Klaro! is a powerful tool that protects your visitors' privacy and data and helps you run a GDPR compliant website.",
-    "hash": "sha256-fozzgDCYzI10ZnLyYCQGZc6YKAga+OyQiyqLlX91gfk="
+    "hash": "sha256-Xg18wGIiorcc4AwnWavh08W6SOTpznDxntQTExfovnY="
   },
   "km_dam_extension": {
     "version": "1.0.2",
@@ -39045,13 +39043,13 @@
     "hash": "sha256-d4Nw3iziN5JMRFdP0lt9H1OzNvcVrnKnNbMFF8ZZjpU="
   },
   "ns_cache_webhook": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "t3_versions": [
       10,
       11
     ],
-    "description": "Add option at Flush cache menu call \"Flush Webhook Cache\" at TYPO3 backend. Call your Webhook configured at Settings > Configure extensions > EXT.ns_cache_webhook. Read more at documentation.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "description": "Introducing our Flush Webhook Cache Extension for TYPO3 Backend, designed to streamline your web development process. With just a click, you can instantly clear the webhook cache, ensuring that your website stays updated with the latest changes and configurations.",
+    "hash": "sha256-WgYFfbJb1bFc5Dqt1IqyVCjoRjCisihNmQmpw/4q8RQ="
   },
   "ns_cloudflare": {
     "version": "1.0.2",
@@ -39276,15 +39274,15 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ns_lazy_load": {
-    "version": "2.0.2",
+    "version": "2.0.3",
     "t3_versions": [
       8,
       9,
       10,
       11
     ],
-    "description": "Are you facing speed and performance issue due to heavy image-assets on your TYPO3 site? If yes, This plug-an-play extension reduces the number of HTTP requests mechanism and improves the loading time. Live-Demo: https://demo.t3terminal.com/t3t-extensions/lazy-load/ You can download PRO version for more-features & free-support at https://t3terminal.com/lazy-load-typo3-extension-free",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "description": "Are you facing speed and performance issues on your TYPO3 website? If yes, then install our ns_lazy_load plug-and-play extension, which can reduce HTTPS request mechanism and improve your loading time.",
+    "hash": "sha256-kPxKaPOFunsxkd20gpiPaMTtTkdDsAyhYtNQVZgoXGY="
   },
   "ns_license": {
     "version": "12.0.8",
@@ -54196,12 +54194,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "static_info_tables_ro": {
-    "version": "11.5.2",
+    "version": "12.4.0",
     "t3_versions": [
-      11
+      12
     ],
     "description": "(ro) language pack for the Static Info Tables providing localized names for countries.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-3t+pq11Yhbao2b+L+6z/A4YjprPoB2NUbADu0r0y68k="
   },
   "static_info_tables_ru": {
     "version": "12.4.0",
