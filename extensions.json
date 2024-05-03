@@ -3527,12 +3527,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "aws_sdk_php": {
-    "version": "3.305.7",
+    "version": "3.305.8",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-KoNstUtPxKVthxHoT/zFpeevQwW1+c7WObnsVdwJlPE="
+    "hash": "sha256-7x/+DSdPgOL+5ZBUDMxvh2zlRPtxZjkHH18AZcP6xjA="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -9794,12 +9794,12 @@
     "hash": "sha256-zIEstPFHttAq2bRVbuXskLWhPbkZ++m4mcc7E46IM6s="
   },
   "content_blocks": {
-    "version": "0.7.7",
+    "version": "0.7.8",
     "t3_versions": [
       12
     ],
     "description": "TYPO3 CMS Content Blocks - Content Types API",
-    "hash": "sha256-luwiWm5OnJQkpBLqQkTFdvrM2kDThEgoJYk9+qYGI9g="
+    "hash": "sha256-D44Ds2ggB4OU84EKgbk0UGYs5D1ES1SGUbzyzz8kWN0="
   },
   "content_consent": {
     "version": "2.0.2",
