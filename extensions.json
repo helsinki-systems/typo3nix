@@ -3335,14 +3335,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "autotranslate": {
-    "version": "1.0.2",
+    "version": "1.0.3",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "This extension provides automatic translation of pages and content elements via DeepL API.",
-    "hash": "sha256-mH1UwIzbWvywBlfhCUQXMmHOkr4gaKYToRJzRUE9jdo="
+    "hash": "sha256-bZPAZp2DTqaA5fNK9++Ke7iALSBxlMFP9m2Ee+QOCtA="
   },
   "autoupload_dummy": {
     "version": "1.0.2",
@@ -3631,12 +3631,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "backend_roles": {
-    "version": "3.0.3",
+    "version": "3.1.0",
     "t3_versions": [
       12
     ],
     "description": "Backend user group role management for TYPO3",
-    "hash": "sha256-b6/LO84sN0/Gyn7F2eVJKnL6LlNUwnFRgGvyZdN6p7Y="
+    "hash": "sha256-608yWT1itowt3FxCPUSIFyo77bcrcaJaLVEIGR+xvNI="
   },
   "backend_save_buttons": {
     "version": "1.0.1",
@@ -6726,12 +6726,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "calendarize": {
-    "version": "13.0.4",
+    "version": "13.0.5",
     "t3_versions": [
       12
     ],
     "description": "Create a structure for timely controlled tables (e.g. events) and one plugin for the different output of calendar views (list, detail, month, year, day, week...). The extension is shipped with one default event table, but you can also \"calendarize\" your own table/model. It is completely independent and configurable! Use your own models as event items in this calender. Development on https://github.com/lochmueller/calendarize",
-    "hash": "sha256-8mPxvDX1S362EWL3EhX9JzIrL1DK0+APL/O8KnsXehA="
+    "hash": "sha256-jonyuzUpud0zaOKXiC9TbWf9EXJS+ZmMHhpgyYUudjA="
   },
   "calendarize_address": {
     "version": "4.1.0",
@@ -43111,14 +43111,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "picture": {
-    "version": "2.0.3",
+    "version": "2.0.4",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Improved TYPO3 image ViewHelper creating picture elements with support for sizes, sources, additional image formats, etc.",
-    "hash": "sha256-6z94eetctmNVzH+yy25BR5UsPY2JCCOn/zd5s8Esywg="
+    "hash": "sha256-d6x7sPpopVISw5CK7HPwHRpi+IgJE9NUp6vdvHAjIkc="
   },
   "picturecredits": {
     "version": "2.1.0",
@@ -49082,13 +49082,13 @@
     "hash": "sha256-pbi7qVxv5+I6JbCj/dc4959Oobjl3FpEwDBWYZKUyvM="
   },
   "schema": {
-    "version": "3.4.0",
+    "version": "3.4.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "API and view helpers for schema.org markup",
-    "hash": "sha256-Y108PQnJrHNiXAIZhxVamtx5Jo+u2v1hSJQ2tjNboEs="
+    "hash": "sha256-KmeZtuO/QTMNPhKPAW0hXwLUMae3pwEG/VabpXZjyzQ="
   },
   "schema_auto": {
     "version": "2.1.0",
@@ -54161,12 +54161,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "static_info_tables_pl": {
-    "version": "11.5.1",
+    "version": "12.4.0",
     "t3_versions": [
-      11
+      12
     ],
     "description": "Polish (pl) language pack for the Static Info Tables providing localized names for countries, currencies and so on.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-QKde1wpmTvWbqHSd3rWNs1V9LGfvvffdiQ7qX5Jw+E4="
   },
   "static_info_tables_pt": {
     "version": "12.4.0",
@@ -62207,12 +62207,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "video_vtt": {
-    "version": "2.2.0",
+    "version": "2.2.1",
     "t3_versions": [
       12
     ],
     "description": "Extend TYPO3 Video functionality",
-    "hash": "sha256-RJX6fmWWQWt9E/GGhAMGebvp2/nsVEAeg5jKYtma4Jg="
+    "hash": "sha256-M6VBDcqv8eKNqiMuCgLtvI8cavop9MFVPiCjfCpv8ek="
   },
   "videoce": {
     "version": "0.10.0",
@@ -64233,12 +64233,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ws_slider": {
-    "version": "12.1.2",
+    "version": "12.1.3",
     "t3_versions": [
       12
     ],
     "description": "Universal slider carousel for Owl slider, flexslider, ... ",
-    "hash": "sha256-5YYRyO9YkzjqTIQoYZWiok//tz4/V+NIIUNLHQBLHOA="
+    "hash": "sha256-tlXlTGmIWdQ2gFUATRlggU5jEiCP4gmhuk0ScR3wlrs="
   },
   "ws_stats": {
     "version": "0.2.0",
@@ -64702,14 +64702,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "wv_deepltranslate": {
-    "version": "3.0.5",
+    "version": "4.3.1",
     "t3_versions": [
-      9,
-      10,
-      11
+      11,
+      12
     ],
-    "description": "This extension provides option to translate content element, and TCA record texts to DeepL and Google supported languages.",
-    "hash": "sha256-I8lI6eH99XmjIEqjCKukyqCcmz1I4mbi9GaUlkMBDZA="
+    "description": "This extension provides option to translate content element, and TCA record texts to DeepL supported languages.",
+    "hash": "sha256-N+/HOMxLSSeSEAnDXLBTjWMbxYiFHlrUiILYMRSWlqM="
   },
   "wv_file_cleanup": {
     "version": "1.0.1",
