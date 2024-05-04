@@ -3527,12 +3527,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "aws_sdk_php": {
-    "version": "3.305.8",
+    "version": "3.305.9",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-7x/+DSdPgOL+5ZBUDMxvh2zlRPtxZjkHH18AZcP6xjA="
+    "hash": "sha256-X6FV2qbFFGszfpoysPva9DJ+R/5m6erdVTXHXjYlcBo="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -9794,12 +9794,12 @@
     "hash": "sha256-zIEstPFHttAq2bRVbuXskLWhPbkZ++m4mcc7E46IM6s="
   },
   "content_blocks": {
-    "version": "0.7.8",
+    "version": "0.7.9",
     "t3_versions": [
       12
     ],
     "description": "TYPO3 CMS Content Blocks - Content Types API",
-    "hash": "sha256-D44Ds2ggB4OU84EKgbk0UGYs5D1ES1SGUbzyzz8kWN0="
+    "hash": "sha256-QM4LzCmjafTF4XWyvmRdDxTZWbthiTbWyOI0fWAqBj0="
   },
   "content_consent": {
     "version": "2.0.2",
@@ -17468,12 +17468,10 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "examples": {
-    "version": "12.0.5",
-    "t3_versions": [
-      12
-    ],
+    "version": "13.0.0",
+    "t3_versions": [],
     "description": "This extension packages a number of code examples from the Core Documentation.",
-    "hash": "sha256-lXhtifrN4/8qkzeW/ScErbkYL/nJUZ3sLtE/GWfH1qI="
+    "hash": "sha256-dZBhtO5jqWJKbIqo0Dg5qoVZNDzqeUPHqyuX5IUHnQw="
   },
   "excel": {
     "version": "0.0.1",
@@ -33332,12 +33330,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "media_processing": {
-    "version": "0.3.3",
+    "version": "0.4.0",
     "t3_versions": [
       12
     ],
     "description": "Integrates various image processing libraries and SaaS cloud services into TYPO3 by leveraging their APIs to process images.",
-    "hash": "sha256-ksvnOpPnjypJc3UgQtF7ZNmLprMz6JIcHyZKTBWpJl0="
+    "hash": "sha256-7qGknGNFZ5N0OeQScCYbXD/ofCiEFxHJhyHoBcfe08E="
   },
   "media_upload": {
     "version": "2.0.0",
@@ -39285,12 +39283,12 @@
     "hash": "sha256-kPxKaPOFunsxkd20gpiPaMTtTkdDsAyhYtNQVZgoXGY="
   },
   "ns_license": {
-    "version": "12.0.8",
+    "version": "12.0.9",
     "t3_versions": [
       12
     ],
     "description": "Manage License(s) of your purchased T3Planet's premium TYPO3 products. Know more at documentation https://docs.t3planet.com/en/latest/License/LicenseActivation/Index.html",
-    "hash": "sha256-PRl6opwFWuVralM20nSQwCqi/iKooM9i8vJBNHlJNns="
+    "hash": "sha256-btTO8zgnWbEbjcdflOoe6yGiWrLniR5YzXRPku1GWB8="
   },
   "ns_news_advancedsearch": {
     "version": "12.0.2",
@@ -51197,22 +51195,22 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sitemap_locator": {
-    "version": "0.1.3",
+    "version": "0.1.4",
     "t3_versions": [
       11,
       12
     ],
     "description": "Looks up XML sitemaps as part of a configured site. Supports various sitemap providers, e.g. by configured page type or robots.txt, and allows to implement custom providers.",
-    "hash": "sha256-yF9BwcWTrgw0LGR3M4mZdrowTEeB/N/TCjj/VQsR6R4="
+    "hash": "sha256-QAtQd/ousvIWSBA1h0aBHcnf6SzaGR7XweIOXhbPBnI="
   },
   "sitemap_robots": {
-    "version": "0.1.2",
+    "version": "0.1.3",
     "t3_versions": [
       11,
       12
     ],
     "description": "Enhances robots.txt with sitemap configurations to improve site visibility in terms of SEO. Injection of XML sitemaps can be managed on a per-site basis. Supports static routes as well as injection into local files.",
-    "hash": "sha256-uklYJyHiattDbeYyVmtZQXi80fAOEFY5czc2cq7207w="
+    "hash": "sha256-c8hIRILCbPBkBAtIbevgqp7fj52we5qNWI/oJF3zKEs="
   },
   "sitemgr": {
     "version": "2.9.1",
@@ -62769,12 +62767,12 @@
     "hash": "sha256-iiWYdagbP9r7uhKQF1GyUIsJ4mB4o9kg8JZ7Y2b6Qwo="
   },
   "warming": {
-    "version": "2.1.0",
+    "version": "2.2.0",
     "t3_versions": [
       12
     ],
     "description": "Warms up Frontend caches based on an XML sitemap. Cache warmup can be triggered via TYPO3 backend or using a console command. Supports multiple languages and custom crawler implementations.",
-    "hash": "sha256-NukIwIlcxP7f8rd37M7VHvyLCQKqXwUuaph9cXOcLig="
+    "hash": "sha256-d5WWnM6z5nc0f7Qg3iaUY188t1tqKbbPuaCkC+aF7N0="
   },
   "warmup": {
     "version": "1.3.1",
