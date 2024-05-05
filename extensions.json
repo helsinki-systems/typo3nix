@@ -40110,13 +40110,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ods_osm": {
-    "version": "4.2.1",
+    "version": "4.2.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "Add an interactive OpenStreetMap map to your website. Can also show other OpenLayers compatible maps.",
-    "hash": "sha256-tOGohaKy4W8oR3d1ysVUz89wNVKIVxPdaKTplMcAYcQ="
+    "hash": "sha256-TlDlUEkank1kvNzim8+tCpzgPSNKL03b2Gb6mzXJ8hA="
   },
   "ods_osm_cal": {
     "version": "1.0.0",
@@ -46114,12 +46114,12 @@
     "hash": "sha256-rWzI3L/FRsNEs+WPqt5wVrmnUBMf/rWiHFizZ8zjrzc="
   },
   "reint_file_timestamp": {
-    "version": "3.0.1",
+    "version": "4.0.0",
     "t3_versions": [
-      11
+      12
     ],
     "description": "Adds a parameter with the timestamp of last change to all public file uri to prevent browser from caching the file after update.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-qaFUHlaSCxtgNWUwIzI7gtvFM9/C1f/U5HzM49TzdBA="
   },
   "reint_filelist_extended": {
     "version": "1.2.1",
@@ -58566,12 +58566,10 @@
     "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
   },
   "tinyurls": {
-    "version": "12.1.0",
-    "t3_versions": [
-      12
-    ],
+    "version": "13.0.0",
+    "t3_versions": [],
     "description": "This extensions allows you to cut down long URLs. It basically works like bitly or TinyURL.",
-    "hash": "sha256-dzlfILy94bQU6vutwtwRAUNszHrLjD2dnIDW2vyz00s="
+    "hash": "sha256-UVJ17oUYL6YXvgO61EfXqnQqI3qounBxYeTh4RDYeV0="
   },
   "tipafriend": {
     "version": "1.2.4",
