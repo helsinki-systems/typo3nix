@@ -6489,12 +6489,12 @@
     "hash": "sha256-UJjtX0P23zaHtAdr9hVLE7Oct0JbLZ0u96qTbNCP7So="
   },
   "cacheopt": {
-    "version": "11.0.0",
+    "version": "12.0.0",
     "t3_versions": [
-      11
+      12
     ],
     "description": "Optimizes automatic cache clearing.",
-    "hash": "sha256-nI+ziN0wmHDOedA341DwbTjR/xcWgEl6Eok8+zzQriU="
+    "hash": "sha256-utcHH6+qaKOAZs1hvtkBDw1uhtdz4XRWN1PypgA31+E="
   },
   "caddy": {
     "version": "10.0.9",
@@ -9102,12 +9102,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "codehighlight": {
-    "version": "4.0.0",
+    "version": "4.1.0",
     "t3_versions": [
       12
     ],
     "description": "Code highlighter for various programming, markup and configuration languages based on PrismJS",
-    "hash": "sha256-whnsEcaXFQsw/fkYlqGGz+Q1X637oTNiWma92xBDOjk="
+    "hash": "sha256-3heR19cTN6QVNrMRzxrg7jWbtRx7dS4ads/B2Yz4ppA="
   },
   "codersquad_libs": {
     "version": "1.0.1",
@@ -20927,14 +20927,12 @@
     "hash": "sha256-6xlB/5rlnUbhQy9G12ASi7oabU2L/gzgqmgaN4cwF1g="
   },
   "form_serialnumber": {
-    "version": "1.1.1",
+    "version": "1.2.0",
     "t3_versions": [
-      9,
-      10,
-      11
+      12
     ],
     "description": "Provides serialnumber finisher for EXT:form",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-CN1nAK2dmfTk6hcy2nAercA6NbfnnBuOX1j95cmyle4="
   },
   "form_to_database": {
     "version": "3.0.0",
@@ -39356,13 +39354,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ns_pwa": {
-    "version": "1.1.0",
+    "version": "1.1.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Make your TYPO3 website lightning fast & work offline! Get our TYPO3 PWA extension for a better SEO & mobile experience. Install today!",
-    "hash": "sha256-uQrw7mXIMHuMHUGf0VTk1lrGqbCT7s5c8tBh2cA+fBk="
+    "hash": "sha256-+NCKHEVbPKz5W82/uo07uA/b8wLz+ecDmumdoqQ1hCk="
   },
   "ns_revolution_slider": {
     "version": "12.0.1",
@@ -50580,12 +50578,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sic_address": {
-    "version": "5.0.3",
+    "version": "5.0.4",
     "t3_versions": [
       12
     ],
     "description": "Address Extension that can either enhance or replace tt_address. You can add required fields dynamically like mask/powermail. Originally it was written in 2016 to replace extensions like nicos_directory, wt_directory or sp_directory and grew from there.",
-    "hash": "sha256-H/k6mDS05GD6XimT9yfBKbMXNj/lTumm6t1Qx9BMY/A="
+    "hash": "sha256-ZBw/ZDXLDKR8jwjdJVu0CCfVKsSruj787Cg31XSKpj8="
   },
   "sici_core": {
     "version": "2.0.0",
