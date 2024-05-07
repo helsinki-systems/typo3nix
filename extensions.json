@@ -3527,12 +3527,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "aws_sdk_php": {
-    "version": "3.305.9",
+    "version": "3.306.0",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-X6FV2qbFFGszfpoysPva9DJ+R/5m6erdVTXHXjYlcBo="
+    "hash": "sha256-SHxl4z+PwCXmosMrXPDG4REgyAr7E7zTdD1rdQhpoD8="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -6880,6 +6880,16 @@
     "description": "Avoid duplicate content if you are using mountpoints, \"Show content of this page\" and backPid of tt_news by using the canonical tag, for Google, Microsoft & Yahoo",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "canto_extension": {
+    "version": "1.4.1",
+    "t3_versions": [
+      10,
+      11,
+      12
+    ],
+    "description": "Connect canto flight to get resource",
+    "hash": "sha256-6wsHV8i9AZdNqN6FxAEI/ZWynDKyHHZYzAZf2qAW3Fg="
+  },
   "cap_flattr_news": {
     "version": "1.4.0",
     "t3_versions": [],
@@ -9794,12 +9804,12 @@
     "hash": "sha256-zIEstPFHttAq2bRVbuXskLWhPbkZ++m4mcc7E46IM6s="
   },
   "content_blocks": {
-    "version": "0.7.9",
+    "version": "0.7.10",
     "t3_versions": [
       12
     ],
     "description": "TYPO3 CMS Content Blocks - Content Types API",
-    "hash": "sha256-QM4LzCmjafTF4XWyvmRdDxTZWbthiTbWyOI0fWAqBj0="
+    "hash": "sha256-OVXvCjjK0iYqKbvVMrG9hIZgyviWJUpR+DK7QxLZ/9k="
   },
   "content_consent": {
     "version": "2.0.2",
@@ -9866,6 +9876,14 @@
     ],
     "description": "This extension provides useful information based on the content in your TYPO3 CMS installation.",
     "hash": "sha256-5k4Bl0MX43TsD0tLfDlGb9Ermp3i+FBrkeQYo3OQWmg="
+  },
+  "content_notes": {
+    "version": "1.0.0",
+    "t3_versions": [
+      11
+    ],
+    "description": "Adds Notes to Content Elements",
+    "hash": "sha256-GrqLXZDLmMjiLL0uZXdDcEa0hFMEqpIG5hnHKzIsE7U="
   },
   "content_overview": {
     "version": "0.3.1",
@@ -20325,14 +20343,14 @@
     "hash": "sha256-he4hDMN/tiAEANpUt8BteUsPUlpsO+LL5RTgO6t2Y2Q="
   },
   "flux": {
-    "version": "10.0.9",
+    "version": "10.0.10",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Drop-in page and content templates with nested content feature. Provides multiple condensed integration APIs to use advanced TYPO3 features with little effort.",
-    "hash": "sha256-7lmJ5P6rHCailhzQaL3GqGFbJ0vRr6oKPZFwB7pm9C4="
+    "hash": "sha256-9oXRSc7n27K9zS8WGAKB7XnyMWkMJI+dFG5eXOqGLMc="
   },
   "flux_elements": {
     "version": "1.4.1",
@@ -21679,12 +21697,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fullscreen": {
-    "version": "2.0.0",
+    "version": "2.0.1",
     "t3_versions": [
       12
     ],
     "description": "This extension adds a fullscreen button to the toolbar.",
-    "hash": "sha256-SPEEx7bSjf37X4MhNaPLsQ14M56ZbeldUC7SRQQDkt0="
+    "hash": "sha256-1X3kBrZK0+BLcr62P0AjFSNpwDSe9Cp81F7AmqmA7nM="
   },
   "fullscreenslider": {
     "version": "1.3.0",
@@ -27345,13 +27363,13 @@
     "hash": "sha256-7wijbRIl3TjoeylIbrlX4A/8w4vQta7m/RrMe7exJhY="
   },
   "jfmulticontent": {
-    "version": "2.15.2",
+    "version": "2.15.3",
     "t3_versions": [
       11,
       12
     ],
     "description": "It arranges multiple contents into one content element with multiple columns, accordions, tabs, slider, slidedeck, easyAccordion or Booklet. This extension will also extend tt_news with two new lists.",
-    "hash": "sha256-H9hODqUZbJ1g/zdOxC6XZ1h1GXKVfA23y/HX/120E3o="
+    "hash": "sha256-m+AbA7zPeKt9IEm+vD1z1uwHOxb+yKXbtk76PwWOIb8="
   },
   "jfmulticontent_viewdemo": {
     "version": "0.1.2",
@@ -31904,13 +31922,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "macina_searchbox": {
-    "version": "3.2.0",
+    "version": "3.2.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "This Extension offers the possibility to add a searchbox to your Typo3 powered website which submits the searchvalue to the Indexed Search Engine  plugin without any result list output. The extension has a Fluid template which is easy to modify.",
-    "hash": "sha256-pln3ZZRVt4/399NoxeBcqb2gfIpHt7IvAqox+tuIMK0="
+    "hash": "sha256-eIDHlhshinas9tFlQQMdHLkPt/itqd8KcGjKBOhIWVE="
   },
   "macina_testkit": {
     "version": "0.0.2",
@@ -32641,13 +32659,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mastertemplate": {
-    "version": "0.6.0",
+    "version": "0.6.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "This extension makes available the setup of the master template. Originally developed by the NRW user group.",
-    "hash": "sha256-RL/ijlDjQe3WAHyWCf4+14FglEOm3e3hxcZ5GFOwHIw="
+    "hash": "sha256-kv2sYMzKZ/ZyxJnM+P99L4QEEeT4MRw7jxk8OWKQkVg="
   },
   "mastodon_feed": {
     "version": "1.0.3",
@@ -36006,13 +36024,15 @@
     "hash": "sha256-jeY6kpYKdO+XO6m9TSm4oeu/qrPqf1VszZV6m5hZ6Ho="
   },
   "mst_reloadtrigger": {
-    "version": "0.1.5",
+    "version": "0.1.7",
     "t3_versions": [
+      9,
+      10,
       11,
       12
     ],
     "description": "add a trigger that can be watched by browsersync",
-    "hash": "sha256-FjSWSYwWDeKIzMmZmFVnHuXRd/7y8HGqzhNmRkTa0HA="
+    "hash": "sha256-630sGhZs0kajoIRCxAV6k87apquCF+EnRIP7b0oOUb8="
   },
   "mst_yaml2tca": {
     "version": "0.0.15",
@@ -45094,13 +45114,12 @@
     "hash": "sha256-gwX8nFkcjL9Up6wMVRmZoiWgTvtc4PH+T9QTRvCoFr0="
   },
   "qc_info_rights": {
-    "version": "1.2.7",
+    "version": "2.0.0",
     "t3_versions": [
-      10,
-      11
+      12
     ],
     "description": "Gives editors a view of BE users and group rights like the Access module but in read-only. Also provides BE users and BE User Groups list with CSV export.",
-    "hash": "sha256-VVOKoOZ6wO2URPT/0Uet68iFY8yW/lbMyguTaipOKBA="
+    "hash": "sha256-ki5BAUSYpsa1m6CLLYU5oo1b9DI/lz4m4Bl8OBVTYHQ="
   },
   "qc_redirects": {
     "version": "1.1.2",
@@ -45342,12 +45361,12 @@
     "hash": "sha256-xu/JTUz/B33FsjZ3nSBiWJ2gu97hDKDCIaVWu7zSCc8="
   },
   "quickedit": {
-    "version": "1.1.0",
+    "version": "2.0.0",
     "t3_versions": [
-      11
+      12
     ],
     "description": "This extension provides a configurable toolbar for editing page properties.",
-    "hash": "sha256-bj2Cg0vDTwhIFQNlvqf6kWy5y6YbMPn30gkQzfjB1g0="
+    "hash": "sha256-yoUSeL9pDwxmGusWk36COT/KAWcotmKXPaY4TVNpn6M="
   },
   "quickexplorer": {
     "version": "8.7.0",
@@ -55133,12 +55152,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sysinfo": {
-    "version": "3.0.3",
+    "version": "3.0.4",
     "t3_versions": [
       12
     ],
     "description": "Provides a backend module for showing which templates included where, which extensions actually used as well as a couple of security and performance checks. This supports Typo3 maintenance, migration and security",
-    "hash": "sha256-IQbAMejI7HDy3nfeQXy0hDXwhrtpwdl1rE5nNR0QYrE="
+    "hash": "sha256-YXlrGc3AtQJACj9m0OoX2CWzG3j5QMk1AvX7OfJg7x8="
   },
   "syslanguage_flags": {
     "version": "1.1.0",
