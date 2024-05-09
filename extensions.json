@@ -3527,12 +3527,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "aws_sdk_php": {
-    "version": "3.306.1",
+    "version": "3.306.2",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-oBLZJclrSRSwhvOEsB9EK9P+dwewg9i0qYcfPCyNhYU="
+    "hash": "sha256-SuuFE+kOT6zl3+PrjmkdGbgxJ4VMC71bJkp6EmzDttE="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -39336,12 +39336,12 @@
     "hash": "sha256-R2VOgSVp5GouEPE8s156yyV/MQiJoq71PfLeCKUkdzc="
   },
   "ns_news_slider": {
-    "version": "12.0.1",
+    "version": "12.0.2",
     "t3_versions": [
       12
     ],
     "description": "The TYPO3 News Slider extension lets you create an attractive news slider for your website. It offers several popular JQuery slider plugins like Owlcarousel Slider, Royal Slider, Slidejs Slider, and Slick Slider. It's an easy and convenient way to add a news slider to your site!",
-    "hash": "sha256-AeDN/eV0gwwcF7NhZaRhcpIx1vsygWVCaRFHVA+KEXs="
+    "hash": "sha256-NGwqriHd5h0Uwr1R0IYImJi6qLcjI+mHN1w8c8rSVNQ="
   },
   "ns_open_streetmap": {
     "version": "12.0.2",
@@ -50037,7 +50037,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sg_cookie_optin": {
-    "version": "5.4.0",
+    "version": "5.5.3",
     "t3_versions": [
       9,
       10,
@@ -50045,7 +50045,7 @@
       12
     ],
     "description": "",
-    "hash": "sha256-o6SxyguLYCmWLfm6G0T0hAxsHDN5hROPm6SGG55s9Ew="
+    "hash": "sha256-WBMhMSXfVzmfNxTMXcOSG8zuJHePhKk5vEV0t1vPRw4="
   },
   "sg_cropscale": {
     "version": "0.5.0",
