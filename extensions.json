@@ -30751,12 +30751,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "libconnect": {
-    "version": "9.0.2",
+    "version": "9.0.3",
     "t3_versions": [
       11
     ],
     "description": "Diese Extension ist von Avonis im Auftrag der Staats- und Universitaetsbibliothek Hamburg entwickelt worden. Mit ihr lassen sich Ergebnisse aus den Informationssystemen EZB und DBIS der Universitaet Regensburg direkt in das TYPO3-System einbinden.",
-    "hash": "sha256-PkQAxNGjdoBFE4oyNrrr4RNFcvJj+svEuUZR9mGK+YQ="
+    "hash": "sha256-yzHhL38c2BfCW1O2zuRcSXZW3/UJomUNnJtF8t+3usE="
   },
   "libideal": {
     "version": "1.0.0",
@@ -53371,12 +53371,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sr_email_subscribe": {
-    "version": "12.4.3",
+    "version": "12.4.4",
     "t3_versions": [
       12
     ],
     "description": "Email address subscription for TYPO3 CMS.",
-    "hash": "sha256-S1cBk/AtpEk2POAStk3F3Q4id4a6LUu8fSrO4Fs7UE0="
+    "hash": "sha256-P0+dS6BxxvvUDmUPLwQjjfsj4SmmPVJyPVf21TKe5Us="
   },
   "sr_feedit": {
     "version": "0.1.1",
@@ -53391,20 +53391,20 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sr_feuser_register": {
-    "version": "12.4.4",
+    "version": "12.4.5",
     "t3_versions": [
       12
     ],
     "description": "A self-registration variant of Kasper Skårhøj's Front End User Admin extension for TYPO3 CMS.",
-    "hash": "sha256-l1MB1wafNSeons5dipRs1uvaz9fWcB0S5+N09mPX5wc="
+    "hash": "sha256-hnP/j0rp1S96+k1KVNMB8kgxRjwTsgflVFYUjvE6AWY="
   },
   "sr_freecap": {
-    "version": "12.4.3",
+    "version": "12.4.4",
     "t3_versions": [
       12
     ],
     "description": "A TYPO3 integration of freeCap CAPTCHA.",
-    "hash": "sha256-hZMm7EoRAW0oyD9C/ybp31uY4FV7SRlXj7xVPo2gIOM="
+    "hash": "sha256-emXqYmax/zAyhXFACOoNwyeJoZSfP1M0NssgdZjYtxw="
   },
   "sr_guestbook": {
     "version": "2.0.0",
