@@ -3527,12 +3527,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "aws_sdk_php": {
-    "version": "3.306.2",
+    "version": "3.306.3",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-SuuFE+kOT6zl3+PrjmkdGbgxJ4VMC71bJkp6EmzDttE="
+    "hash": "sha256-VV1uQ9DtmCIEhwlrQdRm+9IPuCWpWvV+NQQfBmrM9u0="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -18989,12 +18989,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "femanager": {
-    "version": "8.0.1",
+    "version": "8.1.0",
     "t3_versions": [
       12
     ],
     "description": "TYPO3 Frontend User Registration and Management based on",
-    "hash": "sha256-2HprdgKviyRRsar2xGeYJ/quC9YHnHxyDYNK7e/z5YI="
+    "hash": "sha256-ZCMSr5W2F+bV1lAed6lV9cvuMY1LVo2Tjj7EfLdQW8Q="
   },
   "femanager_cleverreach": {
     "version": "3.0.0",
@@ -39265,12 +39265,12 @@
     "hash": "sha256-DSVYVOyfTNbpZqnbsFA6VVfQgOeCL3864aaWXJ+UHyA="
   },
   "ns_helpdesk": {
-    "version": "12.0.4",
+    "version": "12.1.0",
     "t3_versions": [
       12
     ],
     "description": "Manage customer support with the all-in-one TYPO3 Help Desk extension. This user-friendly tool lets you set up a support help desk quickly with support tickets, providing a dedicated dashboard, ticketing system, email notifications, restricted access, and options for file and media uploads.",
-    "hash": "sha256-t3fK78c6Tqwkwd9izWrInqaWVcR2f3bsCYAxypqI4ms="
+    "hash": "sha256-2S+TEcQQgSK8nZtvOXIKWWSRk0EGoxaqKBA739Bq65E="
   },
   "ns_hubspot": {
     "version": "1.0.1",
