@@ -2781,7 +2781,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "asdis": {
-    "version": "11.0.16",
+    "version": "11.0.17",
     "t3_versions": [
       8,
       9,
@@ -2789,7 +2789,7 @@
       11
     ],
     "description": "Distributes on page assets onto multiple servers.",
-    "hash": "sha256-llNMBzqQj6PTFI9zbA+ZMceTPHmGLfnfYBv2hKazb0k="
+    "hash": "sha256-6is8xNkU/Ta3MOvXcijLjHSHNWGA6WqkB6HtnJwM8qg="
   },
   "asfk_cklogin": {
     "version": "1.1.0",
@@ -12933,12 +12933,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "dd_deepl": {
-    "version": "12.6.0",
+    "version": "12.7.0",
     "t3_versions": [
       12
     ],
     "description": "Translates pages, content and records using DeepL",
-    "hash": "sha256-U4OpIVopmRWDhK8zZv/qORFg99bO1yEdoIE/2vVP3HI="
+    "hash": "sha256-7aUrnjUixE7J98lTwaUoJUcfcbN9z9inZBJAH9Xzr4s="
   },
   "dd_download": {
     "version": "1.1.1",
@@ -20927,13 +20927,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "form_rate_limit": {
-    "version": "1.5.0",
+    "version": "1.6.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "TYPO3 form finisher for rate limiting when sending a form",
-    "hash": "sha256-rIsrHuKSkTQwO3vL9c00P35ZK1GZpH9D1GuK8/UVoKE="
+    "hash": "sha256-fsh/NRD9DXr/+ev5kZxuoTlD420Zdr+u65HkBBUowEc="
   },
   "form_search": {
     "version": "2.0.0",
@@ -28674,12 +28674,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "jwtools2": {
-    "version": "7.0.0",
+    "version": "7.0.1",
     "t3_versions": [
       12
     ],
-    "description": "Jwtools2 contains a scheduler task for Solr to index multiple Pagetrees and a task to execute ",
-    "hash": "sha256-2ognIGXFQvLzsWmKKDJBwem2nJkHKQw885zNCg47tsI="
+    "description": "Jwtools2 contains a scheduler task for Solr to index multiple Pagetrees and a task to execute",
+    "hash": "sha256-sewKeqZHNOeVfTXte0qsRq3SCpIcZkRJdsJDdKJnl1A="
   },
   "k20events": {
     "version": "1.0.3",
@@ -33485,12 +33485,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "meilisearch": {
-    "version": "0.5.1",
+    "version": "0.5.2",
     "t3_versions": [
       12
     ],
     "description": "This extension integrates \"meilisearch\" into your TYPO3.",
-    "hash": "sha256-FsacIiA3RfjA/CBrpQN3Ts4iacl2nzIUIoueYnS0l5U="
+    "hash": "sha256-Zs07zs8UureeN6IqbSRBGFlWC7TmFeetp2eDAD/4RDU="
   },
   "meinpraktikum_widget": {
     "version": "1.0.1",
@@ -39344,12 +39344,12 @@
     "hash": "sha256-NGwqriHd5h0Uwr1R0IYImJi6qLcjI+mHN1w8c8rSVNQ="
   },
   "ns_open_streetmap": {
-    "version": "12.0.2",
+    "version": "12.1.0",
     "t3_versions": [
       12
     ],
     "description": "The TYPO3 OpenStreetMap extension allows you to effortlessly embed maps from OpenStreetMap into your TYPO3 website. It enables features such as 5+ OpenStreetMap styles, displaying physical addresses, location popups, and 10+ customization options, compatible with TYPO3 v12.",
-    "hash": "sha256-V9rbM92iLlE2XaB3GiAIpeRhbvyx0DqqsmP0oz4Ynfc="
+    "hash": "sha256-DpuX0EzwV1ByGGO32dSgVFLSX8TIqbwCowClI4Tvwwk="
   },
   "ns_openai": {
     "version": "1.3.3",
@@ -44502,13 +44502,13 @@
     "hash": "sha256-08KP0GMv5EED2lskpjCL9AiJEJmI94kpKIAj60tjjvE="
   },
   "proxycachemanager": {
-    "version": "4.0.0",
+    "version": "4.0.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "A flexible and generic way to track the pages that are cached by a reverse proxy like nginx HA or a CDN.",
-    "hash": "sha256-gU0H62GCEY88+QQLIzUnI8OEpUwkvqwx7la8ZyneX5Y="
+    "hash": "sha256-H07kPKg0/8aTmj7SPSD7XJn1RBDG+eJU08+k4WNSNoc="
   },
   "prsinfo": {
     "version": "0.0.1",
@@ -52810,12 +52810,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "solr": {
-    "version": "12.0.2",
+    "version": "12.0.3",
     "t3_versions": [
       12
     ],
     "description": "Apache Solr for TYPO3 is the enterprise search server you were looking for with special features such as Faceted Search or Synonym Support and incredibly fast response times of results within milliseconds.",
-    "hash": "sha256-+b8vIKa84TrXI5VUomG0BEOo25VczNwMpdv7j6YvMuE="
+    "hash": "sha256-iPXaYbLSf5b7jCX3abKHOiihTn+wEq8GcjOZjPgPO40="
   },
   "solr_boutique": {
     "version": "1.0.0",
