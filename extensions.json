@@ -609,6 +609,16 @@
     "description": "Educational Course page for TYPO3 with structured data based on sys_category",
     "hash": "sha256-T0y6c/asLUIuO8IBscaJ+F50IHAiSeuZFbpt3Mlk24A="
   },
+  "accelerator": {
+    "version": "12.4.4",
+    "t3_versions": [
+      10,
+      11,
+      12
+    ],
+    "description": "Speed up your TYPO3 installation: add Critical CSS (Above The Fold) inline, minify the HTML of your website, use subdomains as CDN to reduce page load, manage proxy-caching (e.g with Varnish) via page-properties, reduce database size when storing JSON-arrays with persisted objects to the database",
+    "hash": "sha256-PIFDlhdykVf5T/N/dSjN58WipDm1CQX4ZVjrwieQaAs="
+  },
   "access_control_sync": {
     "version": "0.2.7",
     "t3_versions": [
@@ -2603,13 +2613,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "app_routes": {
-    "version": "2.0.2",
+    "version": "2.0.3",
     "t3_versions": [
       11,
       12
     ],
     "description": "Easy way to route rest-like URLs to your code",
-    "hash": "sha256-yBd4j6NGZYjoT1w6+FC4K5/10q9qbOgRGTDdfZ5Ata4="
+    "hash": "sha256-SvsxPfG/Zfdyz+4P7y6z7/F/kjGnV0KtaIMStemyYCw="
   },
   "apples": {
     "version": "0.1.2",
@@ -3527,12 +3537,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "aws_sdk_php": {
-    "version": "3.306.5",
+    "version": "3.306.6",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-VG3K3oAZuXucJ5jrrH9gxSD6xoW4sKJzPh3Ya145iWI="
+    "hash": "sha256-codVbkRsSWW7i6wCOjXIEz9ULEsvw5mAPsJoWTafdi0="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -9804,12 +9814,12 @@
     "hash": "sha256-zIEstPFHttAq2bRVbuXskLWhPbkZ++m4mcc7E46IM6s="
   },
   "content_blocks": {
-    "version": "0.7.10",
+    "version": "0.7.12",
     "t3_versions": [
       12
     ],
     "description": "TYPO3 CMS Content Blocks - Content Types API",
-    "hash": "sha256-OVXvCjjK0iYqKbvVMrG9hIZgyviWJUpR+DK7QxLZ/9k="
+    "hash": "sha256-bpVSYiYW4HftxqZZ31RaDmgGnfgrfrIHY+ZIjwjaG4Y="
   },
   "content_consent": {
     "version": "2.0.2",
@@ -23776,12 +23786,12 @@
     "hash": "sha256-e8c+S9ALI6DFfS4LVMPqVRBlVh6qjuZMJcujaSv0sVo="
   },
   "hh_simple_job_posts": {
-    "version": "4.0.0",
+    "version": "4.1.0",
     "t3_versions": [
       12
     ],
     "description": "Adds plugins for list / show job postings with meta-data and schema.org stuff. Uses tt_address for job-contacts and job-location.",
-    "hash": "sha256-HcxzN6p6Qs62d63IlPR2X+A7W3U3RA9tP/1NaFyykBk="
+    "hash": "sha256-PReRPxqIhYFZj3/FjlBcu5na5V1myCKD7Vz0WtK/WfQ="
   },
   "hh_slider": {
     "version": "0.5.1",
@@ -29625,14 +29635,14 @@
     "hash": "sha256-Xg18wGIiorcc4AwnWavh08W6SOTpznDxntQTExfovnY="
   },
   "klarokratie": {
-    "version": "12.4.4",
+    "version": "12.4.5",
     "t3_versions": [
       10,
       11,
       12
     ],
-    "description": "Includes Klaro! Consent-Manager into TYPO3. Completely file-based configuration for versioning without having to take care of database-entries. This extension automatically adds a consent-overlay to embedded YouTube- and Vimeo-Videos.",
-    "hash": "sha256-bTVt8dUHC/kH4lrqljgQ4sEIAsKEg5CQI6A4RxPd870="
+    "description": "ncludes Klaro! Consent-Manager into TYPO3. Completely file-based configuration for versioning without having to take care of database-entries. This extension automatically adds a consent-overlay to embedded YouTube- and Vimeo-Videos.",
+    "hash": "sha256-O5soae+vMPFxNGogElMBGnJsRbe7wUeJyZsE0r2Derk="
   },
   "km_dam_extension": {
     "version": "1.0.2",
@@ -37848,13 +37858,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "news": {
-    "version": "11.4.1",
+    "version": "11.4.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "Versatile news system based on Extbase & Fluid and using the latest technologies provided by TYPO3 CMS.",
-    "hash": "sha256-FQhLUFZofBjkdiWgAjLcMF3WcuD9eZ30mIuZfTGtEVA="
+    "hash": "sha256-EuFF4npBoQv0wMsV5OwoYj67jX0a79bKmh+klPN3JcQ="
   },
   "news2facebook": {
     "version": "1.1.0",
@@ -41332,12 +41342,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "pagebased": {
-    "version": "1.3.0",
+    "version": "1.3.1",
     "t3_versions": [
       12
     ],
     "description": "The ultimate tool to create page based extensions",
-    "hash": "sha256-sjOMuEFAmE3++3q1X8n602bR+7t6zXpuzodN6cxzu3U="
+    "hash": "sha256-Ta/pJkx4xxefrxaD/5ow4TvM1hjiaKVdPwnkWq9TBKY="
   },
   "pagebased_blog": {
     "version": "1.1.0",
@@ -43840,12 +43850,12 @@
     "hash": "sha256-FPksWFGVJNXjbkh5cvv1NQwmwWzuX3aDX10gKH5LHgc="
   },
   "popup_power": {
-    "version": "1.1.0",
+    "version": "1.2.0",
     "t3_versions": [
       12
     ],
     "description": "Powerful TYPO3 extension to display popups.",
-    "hash": "sha256-9R9kpB6IVyhmbCjSvSYlW+R1e4X+StZ1FqYHQ6QFeJo="
+    "hash": "sha256-ese6nAaDsaJg7/JqUP5X12AoBoaemVWCYrdKQvfcpgQ="
   },
   "popup_sitemap": {
     "version": "1.1.2",
@@ -51192,13 +51202,12 @@
     "hash": "sha256-8jDClz4QubojAP3tWXx4v+RhuBJfpgjURsD8N04DDnQ="
   },
   "sitecrawler": {
-    "version": "2.0.1",
+    "version": "3.0.0",
     "t3_versions": [
-      10,
-      11
+      12
     ],
     "description": "This extension provides a Symfony command to crawl any sitemap including all sub sitemaps. It gathers all available urls and then calls each url. This way you can warm up the TYPO3 page cache. Any standard sitemap can be crawled: TYPO3, Shopware, ...",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-qB5v3Ok01DKtk0L68VWLBRQComvnc6+OdS5FOCExYKA="
   },
   "sitemap": {
     "version": "1.0.1",
