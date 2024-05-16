@@ -1558,12 +1558,12 @@
     "hash": "sha256-ee1Rl3Ok1e1HP2daIVmwXQEzGrTz2ymo8zv8dhHnoHI="
   },
   "ai_suite": {
-    "version": "12.1.0",
+    "version": "12.2.0",
     "t3_versions": [
       12
     ],
     "description": "Adds a backend module as well as various helper functionalities and features to your TYPO3 backend, which are intended to make the daily work of editors easier and faster with the help of AI.",
-    "hash": "sha256-Axfzlkt/wu3jo7V4Gvb8Se9b/1vAdmr0wgDegOBucWM="
+    "hash": "sha256-TbybJiMSCS6A9r1XsKStD/4O/AKIMuH/IT3VGi97TPE="
   },
   "ai_tools": {
     "version": "0.0.1",
@@ -3537,12 +3537,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "aws_sdk_php": {
-    "version": "3.306.6",
+    "version": "3.306.7",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-codVbkRsSWW7i6wCOjXIEz9ULEsvw5mAPsJoWTafdi0="
+    "hash": "sha256-rSYsDhKoNn/g5G/jnC9QSvxSXQUarqhHWWvHgKNEoak="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -17480,6 +17480,15 @@
     "description": "shows custom extension preview in page module",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "example_site_sets_compat": {
+    "version": "1.0.1",
+    "t3_versions": [
+      11,
+      12
+    ],
+    "description": "Example of how to provide site sets in an extension that is compatible with older TYPO3 versions",
+    "hash": "sha256-Cahn0s81ykb1K0VI+XmUCkRUpTxKgJ3C9AzkAgBunhM="
+  },
   "example_templates": {
     "version": "0.0.1",
     "t3_versions": [],
@@ -19172,13 +19181,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "feuserextrafields": {
-    "version": "6.2.1",
+    "version": "6.2.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "Extra fields for TYPO3 frontend users and drop-in replacement for the removed FrontEndUser Core model",
-    "hash": "sha256-Revij/0HKXVdu+iMnokUs8P7OxniVbVtPy2lKCAgCqY="
+    "hash": "sha256-oJ98vED5usGAWpKSdTTNoQxlcdfKq8brzC+CsWjl97k="
   },
   "feuserfeediting": {
     "version": "0.0.2",
@@ -33352,12 +33361,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "media2click": {
-    "version": "3.3.1",
+    "version": "3.3.3",
     "t3_versions": [
       12
     ],
     "description": "Render external content like videos and iframes with privacy in mind: User has to click on placeholder to load the actual content.",
-    "hash": "sha256-UEh9OcgvBBwq3NR0TxnjhlMsE67tcyUI8w8gjigb6Dg="
+    "hash": "sha256-FR3DokRPeFuSWHc0DF0b1HfPFhRPUWebz+6BnyjWRTY="
   },
   "media_center": {
     "version": "1.0.3",
@@ -51136,12 +51145,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "site_generator": {
-    "version": "3.1.0",
+    "version": "3.1.2",
     "t3_versions": [
       12
     ],
     "description": "Site generator wizard used to generate mini-website or duplicate tree model, it will automatically create associated BE/FE groups, create directories with associated files mount, add domain name, update Typoscript configuration (folders/pages ID and TCEMAIN.clearCacheCmd), update slugs.",
-    "hash": "sha256-Ddck80bJz9upfaiPuSwageggze1EnevdPGz9MK/wiQ4="
+    "hash": "sha256-OT4H30RoXrV3XrRKcURHDRtzfT98/pZmEZTAMKuDkv4="
   },
   "site_jtagcloud": {
     "version": "0.9.1",
