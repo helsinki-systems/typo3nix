@@ -12586,12 +12586,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "datamints_locallang_builder": {
-    "version": "12.4.2",
+    "version": "12.5.0",
     "t3_versions": [
       12
     ],
     "description": "Offers developers and editors a backend module for creating, changing and translating language files for your extensions. Significant improvement of the workflow by using an independent translation provider such as Azure, DeepL or Google Translate.",
-    "hash": "sha256-Q7ZldCfjY2MSAA76jOOwNOxo6+pzu3eChQQiVJw0CFc="
+    "hash": "sha256-NAdn9e1vsWeIgwis6MEAI+dKZrZogJstaGJJHiH3/ww="
   },
   "datamints_matomo": {
     "version": "1.4.0",
@@ -20946,13 +20946,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "form_rate_limit": {
-    "version": "1.6.0",
+    "version": "1.6.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "TYPO3 form finisher for rate limiting when sending a form",
-    "hash": "sha256-fsh/NRD9DXr/+ev5kZxuoTlD420Zdr+u65HkBBUowEc="
+    "hash": "sha256-tweUiLivIFaiSGL66ThgmDyft0aO3JhsHUC2EZ8Ysjw="
   },
   "form_search": {
     "version": "2.0.0",
@@ -23678,12 +23678,12 @@
     "hash": "sha256-qsVb91W381Ah5wL7o6z9RqpRGdTMCJ/CKYGdCc3xWoI="
   },
   "headless": {
-    "version": "4.2.7",
+    "version": "4.3.0",
     "t3_versions": [
       12
     ],
     "description": "Makes TYPO3 a headless CMS. Content and pages available in JSON format. Supports multilanguage, multidomain, forms, frontend login, workspaces and more. For JS frontend app see nuxt-typo3 package",
-    "hash": "sha256-1liCYoZnOybDUkYAhgTT0wlzydkc2m4BFuB3xg18b04="
+    "hash": "sha256-6CEAayrGX39+8Pd7TBDPCHyM20xjew9ENBeFFTEyAwI="
   },
   "headless_container": {
     "version": "2.0.0",
@@ -29244,13 +29244,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ke_search": {
-    "version": "5.4.1",
+    "version": "5.5.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Faceted fulltext search for TYPO3. Fast, flexible and easy to install and use. Indexes content directly from the databases. Features faceting / filtering, file indexing, images in result lists and respects access restrictions.",
-    "hash": "sha256-tTS7arG73d6tUQ7+tEzv5RkPhqvfJiV4SzB+I+JvDxM="
+    "hash": "sha256-M0HQ3dwN0VM0j7P5BUN6yoFQ8LV/GUYzMKOOgaB7IDU="
   },
   "ke_search_dam_tags": {
     "version": "0.0.1",
@@ -34857,13 +34857,13 @@
     "hash": "sha256-bexSOSFAzhmqK0lhKe56dm0xoFNldqiB8hZL8iP6Z9Q="
   },
   "mksearch": {
-    "version": "12.0.0",
+    "version": "12.0.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Generic highly adjustable and extendable search engine framework, using Zend Lucene, Apache Solr or ElasticSearch. But support for other search engines can be provided easily.",
-    "hash": "sha256-+U9HVHJvmpY8Mufz45e7jS0T9j0AJ2399XYPaxlP+4s="
+    "hash": "sha256-oNNAw113cxhpNHbwpezMiNp0knbi5FAxyGEEADcftnI="
   },
   "mktools": {
     "version": "12.0.1",
@@ -43859,12 +43859,12 @@
     "hash": "sha256-FPksWFGVJNXjbkh5cvv1NQwmwWzuX3aDX10gKH5LHgc="
   },
   "popup_power": {
-    "version": "1.2.0",
+    "version": "1.2.3",
     "t3_versions": [
       12
     ],
-    "description": "Powerful TYPO3 extension to display popups.",
-    "hash": "sha256-ese6nAaDsaJg7/JqUP5X12AoBoaemVWCYrdKQvfcpgQ="
+    "description": "Powerful TYPO3 extension to display popups. Buy the PRO Version here: https://popup-power.slavlee.de/buy-pro",
+    "hash": "sha256-C/c6r2U6uaWEgO2037dbEVTIu2uINy98ptxgzTUHuRA="
   },
   "popup_sitemap": {
     "version": "1.1.2",
