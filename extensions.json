@@ -3537,12 +3537,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "aws_sdk_php": {
-    "version": "3.306.7",
+    "version": "3.307.0",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-rSYsDhKoNn/g5G/jnC9QSvxSXQUarqhHWWvHgKNEoak="
+    "hash": "sha256-9PemqzTf5Gsd0lzXgeWL1dSA8qUkePhbAF68t5b5G/c="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -6736,12 +6736,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "calendarize": {
-    "version": "13.0.5",
+    "version": "13.0.6",
     "t3_versions": [
       12
     ],
     "description": "Create a structure for timely controlled tables (e.g. events) and one plugin for the different output of calendar views (list, detail, month, year, day, week...). The extension is shipped with one default event table, but you can also \"calendarize\" your own table/model. It is completely independent and configurable! Use your own models as event items in this calender. Development on https://github.com/lochmueller/calendarize",
-    "hash": "sha256-jonyuzUpud0zaOKXiC9TbWf9EXJS+ZmMHhpgyYUudjA="
+    "hash": "sha256-L/GTkjJBiWic0N0YGd16sVnNRlWi6u5tu89D+XCRl00="
   },
   "calendarize_address": {
     "version": "4.1.0",
@@ -9814,12 +9814,12 @@
     "hash": "sha256-zIEstPFHttAq2bRVbuXskLWhPbkZ++m4mcc7E46IM6s="
   },
   "content_blocks": {
-    "version": "0.7.12",
+    "version": "0.7.13",
     "t3_versions": [
       12
     ],
     "description": "TYPO3 CMS Content Blocks - Content Types API",
-    "hash": "sha256-bpVSYiYW4HftxqZZ31RaDmgGnfgrfrIHY+ZIjwjaG4Y="
+    "hash": "sha256-yOCj5hXBrckzNj5RB4UoUv2Zq8nc4e6iIdGm7OyJmpE="
   },
   "content_consent": {
     "version": "2.0.2",
@@ -31655,13 +31655,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "lux": {
-    "version": "35.2.0",
+    "version": "35.2.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Living User Experience - LUX - the Marketing Automation tool for TYPO3.",
-    "hash": "sha256-nwqm4IITR3dkX5FezUO+Xmcojp6AAfUoT6oKGfcxEwE="
+    "hash": "sha256-pE/UGj6/hXtlztBJInZqRcVoZDDhDypGaB4NWVvJBDQ="
   },
   "luxletter": {
     "version": "26.1.0",
@@ -60484,13 +60484,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "tt_products": {
-    "version": "2.15.5",
+    "version": "2.15.6",
     "t3_versions": [
       11,
       12
     ],
     "description": "Advanced versions at ttproducts.de. Documented in the E-Book \"Der TYPO3-Webshop\" - Shop with listing in multiple languages, with order tracking, product variants, support for transactor extension, bill, creditpoint and voucher system.",
-    "hash": "sha256-TmXu+wroekNgU0+lYWuH1ESTvpoXtkCeeSOip2EchEs="
+    "hash": "sha256-3Rh2DooCFzNPqXmpix1iBRy34wKrfqbcmUVQMISHDb4="
   },
   "tt_products_foundby": {
     "version": "0.1.4",
