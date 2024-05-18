@@ -3537,12 +3537,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "aws_sdk_php": {
-    "version": "3.307.0",
+    "version": "3.307.1",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-9PemqzTf5Gsd0lzXgeWL1dSA8qUkePhbAF68t5b5G/c="
+    "hash": "sha256-LHkUBC/9/NPZ0ljueNlLS+LNUpGhvZSitDV/8scaZZY="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -9804,14 +9804,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "content_animations": {
-    "version": "2.4.2",
+    "version": "2.4.3",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "This extension allows you to set nice animations to your content elements if they are scrolled into the browsers viewport. To install it include the static typoscript of content_animations to your template and you're good to go. Have fun! :-)",
-    "hash": "sha256-zIEstPFHttAq2bRVbuXskLWhPbkZ++m4mcc7E46IM6s="
+    "hash": "sha256-XMv2jq5x6yytPyER7yVjRV9/nZ+nL3HR8SiwiCkMkN4="
   },
   "content_blocks": {
     "version": "0.7.13",
@@ -10306,14 +10306,13 @@
     "hash": "sha256-tc63t1KRjhmPkoblRGcYvsE/ryRBBuYeH5RlDy+fLqQ="
   },
   "cookies": {
-    "version": "9.0.2",
+    "version": "9.0.4",
     "t3_versions": [
-      10,
       11,
       12
     ],
     "description": "Show cookie consent, optional with possibility to deactivate some or all of them.",
-    "hash": "sha256-y/dpyaJTBZAmq35KeP7+0fL80MQBqxx7ag6HLEooUmo="
+    "hash": "sha256-J0ivCpnWr/NV/n8l+ANFRW5qlakIkIzAv+kfIHNIar8="
   },
   "cookieshy": {
     "version": "2.0.0",
