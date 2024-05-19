@@ -1008,10 +1008,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "add_pwd_policy": {
-    "version": "1.0.0",
-    "t3_versions": [],
+    "version": "1.1.0",
+    "t3_versions": [
+      12
+    ],
     "description": "Additional password validators for usage in TYPO3 password policies",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-jxEk4yWqqr/uLkZ3ZtBqtWNziQspcEruhay4cEium5A="
   },
   "add_tags": {
     "version": "0.0.1",
@@ -56197,12 +56199,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "t3sbootstrap": {
-    "version": "5.3.10",
+    "version": "5.3.11",
     "t3_versions": [
       12
     ],
     "description": "Startup extension to use bootstrap 5 classes, components and more out of the box. Example and info: www.t3sbootstrap.de",
-    "hash": "sha256-LXCYPIoU7WVJS1Aa8fws+1+sO4pyvYvz6ZSTuIpE3DM="
+    "hash": "sha256-VWjyNrmD5mKaj8vKtriG6YX7f4uGKq07laWLOUO+kbo="
   },
   "t3sbootstrap_grid": {
     "version": "3.0.0",
