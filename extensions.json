@@ -18879,12 +18879,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "feed_display": {
-    "version": "2.0.1",
+    "version": "2.1.0",
     "t3_versions": [
       12
     ],
     "description": "Fetches and parses RSS and Atom web feeds with the SimplePie library and prepares them for frontend display",
-    "hash": "sha256-Y3oQ55Gj3wQENmrIau/ch5mZOLpY9y39SWN5rcJVCeE="
+    "hash": "sha256-V0yP35cpHG/twWM1ZhdF4h8YyYZt1bU0HEUGsLOt9Ak="
   },
   "feed_generator": {
     "version": "0.7.0",
@@ -31346,12 +31346,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "loginviaemail": {
-    "version": "3.0.1",
+    "version": "4.0.0",
     "t3_versions": [
-      11
+      12
     ],
     "description": "EN:",
-    "hash": "sha256-zVgIIQ6zClXR228riFNCv3hiDGdy83SEB/afc/aAP0g="
+    "hash": "sha256-+Mq/Vu25K212vhTBWyIunn4qdpxNZo642Q99DDzyuOE="
   },
   "logmail": {
     "version": "0.1.0",
@@ -49127,13 +49127,13 @@
     "hash": "sha256-pbi7qVxv5+I6JbCj/dc4959Oobjl3FpEwDBWYZKUyvM="
   },
   "schema": {
-    "version": "3.4.1",
+    "version": "3.5.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "API and view helpers for schema.org markup",
-    "hash": "sha256-KmeZtuO/QTMNPhKPAW0hXwLUMae3pwEG/VabpXZjyzQ="
+    "hash": "sha256-v/yGlkTgvlkWhXia1UeXbewIo8DRUVyCva8g1AFkdHM="
   },
   "schema_auto": {
     "version": "2.1.0",
@@ -49154,13 +49154,13 @@
     "hash": "sha256-yRQxzdIcSg26FDr+zM5dlZ7U/5TdhsfpJlBUo88JbqM="
   },
   "schema_health": {
-    "version": "2.2.0",
+    "version": "2.3.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Extend the schema extension with health-related terms",
-    "hash": "sha256-Ov/5Yfx7Loal9eoGLn5czY/If6sIExMvCujdAa8w5XE="
+    "hash": "sha256-Z3+NYL2G/Jcd8FKH7/J2fb3Y5IjLqoAHeDg6iFUKk18="
   },
   "schema_injector": {
     "version": "1.0.1",
@@ -49181,13 +49181,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "schema_pending": {
-    "version": "2.3.0",
+    "version": "2.4.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Extend the schema extension with pending terms",
-    "hash": "sha256-JJ9RK1/4/QXNhr3aEhoVfCJfZY334pqyVc3ZGUHhbZ8="
+    "hash": "sha256-t37vz2otAFOqv56Hr9bx80OHrw+Q7M6R5HzavLgU8FU="
   },
   "schema_virtuallocation": {
     "version": "2.1.0",
@@ -61756,12 +61756,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "usertools": {
-    "version": "2.3.0",
+    "version": "3.0.2",
     "t3_versions": [
-      11
+      12
     ],
     "description": "Collection of user tools:  ",
-    "hash": "sha256-ZZgl0t2zG+lWmxRcmaBv0p781E3lhk/vqWogV7TlV/c="
+    "hash": "sha256-cOGv8sNZFLkTVLU+fQJMgiQlTGAJ1JBnBT7sVLsyMA4="
   },
   "uuid": {
     "version": "0.2.2",
