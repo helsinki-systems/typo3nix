@@ -3099,13 +3099,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "auth0": {
-    "version": "5.0.0",
+    "version": "5.0.3",
     "t3_versions": [
       11,
       12
     ],
     "description": "This extension allows you to log into a TYPO3 backend or frontend via Auth0. Auth0 is the solution you need for web, mobile, IoT, and internal applications. Loved by developers and trusted by enterprises.",
-    "hash": "sha256-7/NcqQpS55+LT4+ko7zrPcf8MPBDW2ewfH7M3E/+XXE="
+    "hash": "sha256-fJNMHxgBx8D/c7sRE56P3gM7VyIRjxIOEWqZEnA6Q0c="
   },
   "auth_certificate": {
     "version": "0.2.0",
@@ -3539,12 +3539,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "aws_sdk_php": {
-    "version": "3.307.1",
+    "version": "3.307.2",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-LHkUBC/9/NPZ0ljueNlLS+LNUpGhvZSitDV/8scaZZY="
+    "hash": "sha256-cdLJ237SczO0UsX44Mykmldj7jN4qhmcXK63OPDHUFQ="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -7909,13 +7909,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "celum_connect_fal": {
-    "version": "2.0.11",
+    "version": "2.0.12",
     "t3_versions": [
       11,
       12
     ],
     "description": "Provides a FAL driver for the CELUM DAM.",
-    "hash": "sha256-gkq4gbYZ4cBoKIcFQ64S712DNRREaqcKSRxF149u/Tk="
+    "hash": "sha256-4lckyVv2hV3xnPkCJjan3csuNMU6zCGKhI+cGoLo+yg="
   },
   "cen_csvexport": {
     "version": "1.1.2",
@@ -10673,13 +10673,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "crawler": {
-    "version": "11.0.7",
+    "version": "12.0.0",
     "t3_versions": [
-      10,
-      11
+      12
     ],
     "description": "Libraries and scripts for crawling the TYPO3 page tree.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-DbSz1It8HMySsszVV4avz/AJ7wkarorzKfpohVTPc8M="
   },
   "createarp": {
     "version": "0.4.0",
@@ -16498,12 +16497,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "editor_widgets": {
-    "version": "2.1.2",
+    "version": "2.1.3",
     "t3_versions": [
       12
     ],
     "description": "Collection of useful dashboard widgets focused on editors",
-    "hash": "sha256-tOs4feWpCZ/h/hgAPTaLoHBY6abPovOSLErMmTJyy2E="
+    "hash": "sha256-bmxXtlFJiKHomQ4r2iERsrkJavjfFZ8XzMtV3YtXNME="
   },
   "editors_choice": {
     "version": "2.1.0",
@@ -19182,13 +19181,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "feuserextrafields": {
-    "version": "6.2.2",
+    "version": "6.3.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Extra fields for TYPO3 frontend users and drop-in replacement for the removed FrontEndUser Core model",
-    "hash": "sha256-oJ98vED5usGAWpKSdTTNoQxlcdfKq8brzC+CsWjl97k="
+    "hash": "sha256-U4+cPxZJPRrc88jbrdpP9hCptSuj0aMJn7Hq6hN552o="
   },
   "feuserfeediting": {
     "version": "0.0.2",
@@ -31176,12 +31175,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "locate": {
-    "version": "12.0.1",
+    "version": "12.0.3",
     "t3_versions": [
       12
     ],
     "description": "The users country, preferred language and other facts will be detected. Depending on configurable rules the user can be redirected to other languages or pages. Locate also provides geo blocking for configurable pages in configurable countries.",
-    "hash": "sha256-6v2xIKsUG2VB9XVHomYmESnNdnUczKv3OZmmMBGSF5E="
+    "hash": "sha256-jGP1lruAGuCFVo1A3Dy4oC0EmtdutTpjIjvewGQvSp8="
   },
   "location_manager": {
     "version": "1.1.0",
@@ -39331,12 +39330,12 @@
     "hash": "sha256-kPxKaPOFunsxkd20gpiPaMTtTkdDsAyhYtNQVZgoXGY="
   },
   "ns_license": {
-    "version": "12.0.9",
+    "version": "12.0.10",
     "t3_versions": [
       12
     ],
-    "description": "Manage License(s) of your purchased T3Planet's premium TYPO3 products. Know more at documentation https://docs.t3planet.com/en/latest/License/LicenseActivation/Index.html",
-    "hash": "sha256-btTO8zgnWbEbjcdflOoe6yGiWrLniR5YzXRPku1GWB8="
+    "description": "Manage License(s) of your purchased from T3Planet such as TYPO3 Templates and TYPO3 Extensions. Documentation & Free Support https://docs.t3planet.com/en/latest/License/LicenseActivation/Index.html",
+    "hash": "sha256-e6jIKXet8RXl1Hlg0w8m4RMquZdRZ5C2o9EDIAudLw4="
   },
   "ns_news_advancedsearch": {
     "version": "12.0.2",
