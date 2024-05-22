@@ -2344,16 +2344,15 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ameos_tarteaucitron": {
-    "version": "2.6.0",
+    "version": "3.0.1",
     "t3_versions": [
-      8,
       9,
       10,
       11,
       12
     ],
     "description": "Integrates tarteaucitron.js in TYPO3 (see : https://tarteaucitron.io )",
-    "hash": "sha256-vNQbYGppoiyNvSfOnjaXJZm3XoCH7cOH1ercHiCFdrU="
+    "hash": "sha256-t5WS1evsAgeH4ESlNgz3TDnalpTn3m+snX4f5B0ILDM="
   },
   "ameos_typo3_vulnerabilities": {
     "version": "1.0.0",
@@ -3539,12 +3538,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "aws_sdk_php": {
-    "version": "3.307.2",
+    "version": "3.308.0",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-cdLJ237SczO0UsX44Mykmldj7jN4qhmcXK63OPDHUFQ="
+    "hash": "sha256-2oNKCrm45hzy9udmSorhVh6lgAxeapGk+b7bPhel2v8="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -11910,20 +11909,20 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cy_newsletter": {
-    "version": "1.1.0",
+    "version": "2.0.0",
     "t3_versions": [
-      11
+      12
     ],
     "description": "This plugin contains a small service to send a newsletter for frontend user (based on the news extension).",
-    "hash": "sha256-P/EPY6eQLBdGCvZblOk5ePmgmBUUgWgDnOndyBQ1ilg="
+    "hash": "sha256-bicll6YrhRPXpz7VGPOx/rDG7L0Ul0LfK7XoMnMbg7s="
   },
   "cy_send_mails": {
-    "version": "1.2.0",
+    "version": "2.0.0",
     "t3_versions": [
-      11
+      12
     ],
     "description": "This extension allows frontend users to write emails to other ",
-    "hash": "sha256-nUsd2LunAsDWwhHvQtmvkwHRRAcOYXDlTVfJLMmewjY="
+    "hash": "sha256-1GNhrIK+12c9B7o33w/R2tTVgy5qK2svQS9k6UEYoSE="
   },
   "cy_twitter": {
     "version": "0.0.2",
@@ -17369,12 +17368,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "eventplanner": {
-    "version": "2.1.0",
+    "version": "3.0.0",
     "t3_versions": [
-      11
+      12
     ],
     "description": "You can organize helper for your event. Plan places of work and the front end users can register for it.",
-    "hash": "sha256-jQuZh0RqppRCH6KZb5G73jGVsG1mzdyhq57WTAN82lQ="
+    "hash": "sha256-fW7FJmsbuCfvKGtcrpJ6zM6iWzSVTnJkqvick5+P1mI="
   },
   "events2": {
     "version": "9.0.5",
@@ -20083,13 +20082,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fluid_components": {
-    "version": "3.7.0",
+    "version": "3.7.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Encapsulated frontend components with Fluid's ViewHelper syntax",
-    "hash": "sha256-JQsWVJKl5dK3uaYU1ZvXngPck7W/Rze9Wh7SkLS8dKg="
+    "hash": "sha256-XMbnCNxpCukLkfJCuqy/qGTD8/iKlyE/wQbv6cLXFCc="
   },
   "fluid_contentelements": {
     "version": "1.0.0",
@@ -23199,12 +23198,12 @@
     "hash": "sha256-y9zO+nFdrUc3TeKd1lMXNl8WCGJRWzGZ5Og7Sh0ABZA="
   },
   "gridtocontainer": {
-    "version": "12.0.9",
+    "version": "12.0.10",
     "t3_versions": [
       12
     ],
     "description": "EXT:gridtocontainer is a small migration extension with backend module for those who want to switch from EXT:gridelements to EXT:container.",
-    "hash": "sha256-0PbXygZJYMLZszfUHtQmYuhiPSxxS6wYyos60Lg5Fnk="
+    "hash": "sha256-aYnRmAco3fi3hw2FstJOoDdhfRpG7FUNj/WsS9C5sVY="
   },
   "group_mngr": {
     "version": "0.1.0",
@@ -30288,24 +30287,20 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "launchstart": {
-    "version": "7.1.6",
+    "version": "10.0.0",
     "t3_versions": [
-      8,
-      9,
       10
     ],
     "description": "Launches a ready-to-use responsive website. Gridelements enable nested layouts. Based on Start TYPO3 Responsive and the Foundation framework. ",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-fJC3SgDFaY4MeuSrvwyJds7qwSor9+lqbK5vP3UgBKU="
   },
   "launchstartgreen": {
-    "version": "10.4.0",
+    "version": "10.5.0",
     "t3_versions": [
-      8,
-      9,
       10
     ],
     "description": "Launches a ready-to-use website for BUENDNIS 90/DIE GRUENEN! Website is responsive. It contains a calendar-modul and a news-modul, sample layouts and sample content. You can be rid of the green corporate design by removing one TypoScript template.",
-    "hash": "sha256-ON6jdGYbJPgh4r7BBG0PkkqOCOTo1FkAfa7NqZPIn9E="
+    "hash": "sha256-VfrimNRdUZ2sgjuz0gHpzx7AMp3lS2BNubNizuK3kmI="
   },
   "layerslider": {
     "version": "5.6.2",
@@ -32041,13 +32036,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mail": {
-    "version": "2.6.3",
+    "version": "2.6.4",
     "t3_versions": [
       11,
       12
     ],
     "description": "Powerful newsletter system for TYPO3",
-    "hash": "sha256-i+KeMwaYJPOd3cHr+HV7+aTgGNzvXL6Ywb2HDoaHXQc="
+    "hash": "sha256-nMEloiMHbMI1lxQlcdAS5fd3mluQnoQElZbqbgNPWdo="
   },
   "mail2news": {
     "version": "2.0.3",
@@ -32728,13 +32723,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "matomo_integration": {
-    "version": "2.1.0",
+    "version": "2.1.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Matomo integration for TYPO3",
-    "hash": "sha256-Nt5xbZOYOdawgJ6pbKh6xA9oPPaSOkeZEfg3PB3OkM8="
+    "hash": "sha256-Aw5RikN2ZVm6eMc+cr7X6JphSVPzs3S31XwuyoYTLF8="
   },
   "matomo_optout": {
     "version": "1.2.0",
@@ -34711,13 +34706,13 @@
     "hash": "sha256-d7l9BhoZHhbjIWXTjqi1Kf0+CxQwYJbK4AnRsNw3ioo="
   },
   "mkcontentai": {
-    "version": "12.1.1",
+    "version": "12.1.2",
     "t3_versions": [
       11,
       12
     ],
-    "description": "MK Content AI Extension - OpenAI API",
-    "hash": "sha256-q+HJyki4W0QROm8RAeCTRnIRKCzEpYPExsVcoUIVleU="
+    "description": "MKContentAI Extension - OpenAI API",
+    "hash": "sha256-cFpDv8Rqp+HGTpNfEIm5TFZyocfz9WdMbR4ulxlH95g="
   },
   "mkdam2fal": {
     "version": "1.0.16",
@@ -39051,7 +39046,7 @@
     "hash": "sha256-AKlGC41Fz4epHhONd89Dvum6wR7rmUiGXbAqKrWalxk="
   },
   "ns_all_lightbox": {
-    "version": "12.0.1",
+    "version": "12.1.0",
     "t3_versions": [
       7,
       8,
@@ -39061,7 +39056,7 @@
       12
     ],
     "description": "Introducing the TYPO3 All-in-One Extension, a plugin that effortlessly integrates popular jQuery slider plugins into your website with just a few clicks! Enjoy a range of slider options including Nivo Slider, Royal Slider, Owlcarousel, Sliderjs Slider, and more.",
-    "hash": "sha256-Bv0AOFxEUI1FE4HbtNwD0m2CVbl97Y/RB+Zk71CxRns="
+    "hash": "sha256-Pz0DHW1O+QQnwduADluOQtxol/4MzBAk8577ixNmZJI="
   },
   "ns_all_sliders": {
     "version": "12.0.1",
