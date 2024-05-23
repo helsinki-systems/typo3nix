@@ -1090,13 +1090,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "additional_tca": {
-    "version": "1.15.7",
+    "version": "1.15.8",
     "t3_versions": [
       11,
       12
     ],
     "description": "Additional TCA fields and tools",
-    "hash": "sha256-UOKuNMoeg0F0jfD40Tr+Ya36zE0ASQ2B/pawAfdAdFg="
+    "hash": "sha256-IivtjvQWavovnTWjjx+kymSWMbkN41j6VGjunDPu42A="
   },
   "addlinkheader": {
     "version": "0.0.4",
@@ -3538,12 +3538,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "aws_sdk_php": {
-    "version": "3.308.0",
+    "version": "3.308.1",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-2oNKCrm45hzy9udmSorhVh6lgAxeapGk+b7bPhel2v8="
+    "hash": "sha256-Aj2Ja0SMgkfvqp+T3yqLVkcLtfyYCb7kbuLrxhcPOxA="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -39075,12 +39075,12 @@
     "hash": "sha256-GCMOaAbhVj1Ii9m2Z8UMP/+VyuTEGY1M7M80Xm9djQE="
   },
   "ns_basetheme": {
-    "version": "12.1.4",
+    "version": "12.2.0",
     "t3_versions": [
       12
     ],
     "description": "The architecture of parent/child TYPO3 theme concept. Explore https://t3planet.com and https://nitsantech.com",
-    "hash": "sha256-d4Nw3iziN5JMRFdP0lt9H1OzNvcVrnKnNbMFF8ZZjpU="
+    "hash": "sha256-NzJlheFbPPu2HQe/MwZ4SwXe7t3+ZIkuQlV5xzmx8Zs="
   },
   "ns_cache_webhook": {
     "version": "1.0.1",
@@ -39532,12 +39532,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ns_whatsapp": {
-    "version": "12.0.2",
+    "version": "12.1.0",
     "t3_versions": [
       12
     ],
     "description": "Introducing the TYPO3 WhatsApp Chat Extension for your TYPO3 websites, seamlessly integrating WhatsApp chat into your site. Customize colors to match your brand, and personalize agent profiles with their image, job title, and button options. Plus, advanced chat settings! ",
-    "hash": "sha256-R9rRACp8+DXYwwYDc9x7FnBqEjy2A0rZTjFnhCGBc5A="
+    "hash": "sha256-ODPREuoiz9Wd+79kcFUnrMD6Jyj4oYQ9WkwwnfdGR7A="
   },
   "ns_wp_migration": {
     "version": "1.0.1",
@@ -43854,12 +43854,12 @@
     "hash": "sha256-FPksWFGVJNXjbkh5cvv1NQwmwWzuX3aDX10gKH5LHgc="
   },
   "popup_power": {
-    "version": "1.2.3",
+    "version": "1.3.0",
     "t3_versions": [
       12
     ],
     "description": "Powerful TYPO3 extension to display popups. Buy the PRO Version here: https://popup-power.slavlee.de/buy-pro",
-    "hash": "sha256-C/c6r2U6uaWEgO2037dbEVTIu2uINy98ptxgzTUHuRA="
+    "hash": "sha256-SIGByMVAaGP3pgkbJ0igg/urwuTAoNjrF7nVIOFQwYA="
   },
   "popup_sitemap": {
     "version": "1.1.2",
@@ -47827,12 +47827,12 @@
     "hash": "sha256-OE68pCT+KlEVJ+RICFcNhbqd8HJ+BaVJTIManKjFjKU="
   },
   "rte_ckeditor_image": {
-    "version": "12.0.1",
+    "version": "12.0.2",
     "t3_versions": [
       12
     ],
     "description": "Adds FAL image support to CKEditor for TYPO3.",
-    "hash": "sha256-0EnOcYLXlxXoa7aVR22O4EDo1duUb40zedLLmg6lKls="
+    "hash": "sha256-mhzMtHz/pRrAraGEI9c5rOtJ9e5F+PiEvr2nhW4jWJ8="
   },
   "rte_ckeditor_microdata": {
     "version": "10.1.0",
