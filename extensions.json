@@ -2344,7 +2344,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ameos_tarteaucitron": {
-    "version": "3.0.1",
+    "version": "3.1.0",
     "t3_versions": [
       9,
       10,
@@ -2352,7 +2352,7 @@
       12
     ],
     "description": "Integrates tarteaucitron.js in TYPO3 (see : https://tarteaucitron.io )",
-    "hash": "sha256-t5WS1evsAgeH4ESlNgz3TDnalpTn3m+snX4f5B0ILDM="
+    "hash": "sha256-rU8oEk4lbMlvAHGHlXMwjBQN+ViOHxY5XJaX5v9fim4="
   },
   "ameos_typo3_vulnerabilities": {
     "version": "1.0.0",
@@ -10307,13 +10307,13 @@
     "hash": "sha256-tc63t1KRjhmPkoblRGcYvsE/ryRBBuYeH5RlDy+fLqQ="
   },
   "cookies": {
-    "version": "9.0.4",
+    "version": "9.0.5",
     "t3_versions": [
       11,
       12
     ],
     "description": "Show cookie consent, optional with possibility to deactivate some or all of them.",
-    "hash": "sha256-J0ivCpnWr/NV/n8l+ANFRW5qlakIkIzAv+kfIHNIar8="
+    "hash": "sha256-sYQtTRyR2UgeLMQK31qjpSrSRs1NCZPvVudQBfIpk2I="
   },
   "cookieshy": {
     "version": "2.0.0",
@@ -17943,13 +17943,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "external_import": {
-    "version": "7.2.4",
+    "version": "7.2.5",
     "t3_versions": [
       11,
       12
     ],
     "description": "Tool for importing data from external sources into the TYPO3 CMS database, using an extended TCA syntax. Provides a BE module, a Scheduler task, a command-line tool and an API.",
-    "hash": "sha256-9hV/CYv1TGt3qTUTODI637qWBK4hFp3Cje/B7D5Z0wc="
+    "hash": "sha256-U5T+0MIZ35BIksHHLkAvDyy8nMyVXGaGNIHq36v6krM="
   },
   "external_import_tt_products": {
     "version": "0.0.1",
@@ -33499,12 +33499,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "meilisearch": {
-    "version": "0.5.2",
+    "version": "0.5.3",
     "t3_versions": [
       12
     ],
     "description": "This extension integrates \"meilisearch\" into your TYPO3.",
-    "hash": "sha256-Zs07zs8UureeN6IqbSRBGFlWC7TmFeetp2eDAD/4RDU="
+    "hash": "sha256-gRNxTHBOlNbPTMaNk7MDIraCmFsxjAudYubq6cVX5/k="
   },
   "meinpraktikum_widget": {
     "version": "1.0.1",
@@ -34786,13 +34786,13 @@
     "hash": "sha256-E+7svnuwdC+xUAyYUKt31hbFsNgQ9TxtxRwGhb5jX3Y="
   },
   "mklog": {
-    "version": "12.0.2",
+    "version": "12.0.3",
     "t3_versions": [
       11,
       12
     ],
     "description": "Keep track of developer logs. Provides automatic email notification about important errors.",
-    "hash": "sha256-pRmZdCpLk+rzm8DQ1z8z3NZqn48vThRfOUF+EtqjPT8="
+    "hash": "sha256-gqpJThESGbCCbo4n/g6cHG5XUopf1HO6NuovbWiedkA="
   },
   "mkmailer": {
     "version": "9.0.0",
@@ -59839,13 +59839,13 @@
     "hash": "sha256-t1mWTkbgUEvH7RpuAUb5um5Sjzne+TKhd3VgKvIqC04="
   },
   "translatelabels": {
-    "version": "2.3.4",
+    "version": "2.3.5",
     "t3_versions": [
       10,
       11
     ],
     "description": "This extension extends the TYPO3 translation handling by translation records that can be edited by backend users. In this way backend users are able to translate labels without having access to the language files.",
-    "hash": "sha256-o1yb/m9a99JUptdzaPfiIaTCRc0A38G0xz2excgke4c="
+    "hash": "sha256-Wa9oKsh0wjTO7UpOrOls0qQNj46PB6tQuzWSLAeBrt8="
   },
   "translationapi": {
     "version": "2.0.0",
