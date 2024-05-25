@@ -3538,12 +3538,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "aws_sdk_php": {
-    "version": "3.308.2",
+    "version": "3.308.3",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-no710IbmJ8kn0EnPvM7p9xsoWjj+1pa9GaSUrsRtevE="
+    "hash": "sha256-KAAsZRbHS52jPENCWKj51GYTadECkfB+pV0UqpLVQOg="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -65118,12 +65118,12 @@
     "hash": "sha256-HayZS8G+lXzNVjOPhb2kpcypm4jFvzK5plJ+nDNXHJo="
   },
   "xm_formcycle": {
-    "version": "9.0.2",
+    "version": "9.0.3",
     "t3_versions": [
       12
     ],
     "description": "Embed XIMA Formcycle forms into your TYPO3 website",
-    "hash": "sha256-wQ/iaoZJz6NFXXtAp26WTHKMC7Mv3YOYhsAehmwjrPE="
+    "hash": "sha256-txwHWhjnYVQDKJfoQMQhDxuu1AxkY6iNni8lETs84Ik="
   },
   "xm_goaccess": {
     "version": "11.0.4",
