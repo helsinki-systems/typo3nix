@@ -9938,13 +9938,13 @@
     "hash": "sha256-7SKdm3qz68prxWJa2vxG9def5h0HEoWZTPP9NzSi1Ho="
   },
   "content_slug": {
-    "version": "3.1.0",
+    "version": "3.1.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Adds a slug field for human-readable anchors (\"domain.com/page/#my-section\") to TYPO3 content elements. By default, this anchor is rendered as the header's id attribute.",
-    "hash": "sha256-E6uvfoqK31EiR8B3fWSkXFXo4ec1okKnfSmyomLSgA8="
+    "hash": "sha256-FDzZR3e5jpbXlmR07i0EHzos6UtnCiIDfuqxqAkZrjo="
   },
   "content_uneraser": {
     "version": "0.2.0",
@@ -20916,6 +20916,14 @@
     ],
     "description": "This extension enhances the Email finishers of EXT:form by a new field \"Mail text\" (message) that allows the editor to define the mail text within the form plugin in the backend.",
     "hash": "sha256-1LFYemvwy3xOd6b5SQs7eOxJvCQGGkl2qIbEKN2geLE="
+  },
+  "form_module_enhancer": {
+    "version": "0.0.1",
+    "t3_versions": [
+      12
+    ],
+    "description": "Enhance ext:form backend module with a search bar and additional fields in the FormManager",
+    "hash": "sha256-Ul6r9ulgVh+P5gALTQ+AuKQ6VSjlmTcMB8d3Top0DAI="
   },
   "form_newsletter": {
     "version": "1.4.0",
