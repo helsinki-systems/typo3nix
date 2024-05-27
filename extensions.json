@@ -2344,7 +2344,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ameos_tarteaucitron": {
-    "version": "3.1.0",
+    "version": "3.2.0",
     "t3_versions": [
       9,
       10,
@@ -2352,7 +2352,7 @@
       12
     ],
     "description": "Integrates tarteaucitron.js in TYPO3 (see : https://tarteaucitron.io )",
-    "hash": "sha256-rU8oEk4lbMlvAHGHlXMwjBQN+ViOHxY5XJaX5v9fim4="
+    "hash": "sha256-QUlnDwutsi0Jrmq8B+J7bBI5s4bazE62Q+O+OsOj5e4="
   },
   "ameos_typo3_vulnerabilities": {
     "version": "1.0.0",
@@ -6849,22 +6849,22 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "campus_events_connector": {
-    "version": "4.0.1",
+    "version": "4.0.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "Connecting the event software campus events with TYPO3, to import the event data into TYPO3 as data records. Get further information about Campus Events: www.campus-events.com",
-    "hash": "sha256-3ZIi6FVYC4bDiWJzybhUVtWyF0llWt64gghQQpcTEQg="
+    "hash": "sha256-Qkl9ZqOGPxCQlPl/h7CBgtx1T/Rxt+RetQ5RmscmnD8="
   },
   "campus_events_convert2news": {
-    "version": "4.0.0",
+    "version": "4.0.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "",
-    "hash": "sha256-RmXA4ieMImaDDl+bfgO4exg3sHMTLvii+0PQlqSkt84="
+    "hash": "sha256-nusX0P9kOTgdF+IpWfEOUuLQL2BuPTs68R86BWyuqCg="
   },
   "campus_events_convert2ttnews": {
     "version": "1.0.1",
@@ -6877,13 +6877,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "campus_events_frontend": {
-    "version": "4.0.2",
+    "version": "4.0.3",
     "t3_versions": [
       11,
       12
     ],
     "description": "Frontend plugins for Campus Events",
-    "hash": "sha256-MVbzqXaI8BaNhyX6jNueb9GsPotGp2rvGVxPP0Elo4c="
+    "hash": "sha256-7YM+z1pTscflewjXEOqlxBBNOcMBa6QhC1IKxaIUHNk="
   },
   "canonical": {
     "version": "1.0.0",
@@ -8863,13 +8863,13 @@
     "hash": "sha256-CyYYDj2w3a9nPtj3bnZfWMLJ3YAwhqhr0wga+jqzUX0="
   },
   "clubmanager": {
-    "version": "1.1.4",
+    "version": "1.1.5",
     "t3_versions": [
       11,
       12
     ],
     "description": "The TYPO3 module for managing clubs, foundations and associations. With Clubmanager, you get the tool to manage the organization AND public relations of your club or association in a cost-saving and effective way.",
-    "hash": "sha256-Igxte+FkjcHmelqDSrfZENPcPjBY6DK/0I/nJxclEkw="
+    "hash": "sha256-yhumbW1nlw9MLyFE6Ex9oCE7uchu59/vXkPw/FMVuy0="
   },
   "cm_ajax": {
     "version": "0.6.0",
@@ -23685,12 +23685,12 @@
     "hash": "sha256-qsVb91W381Ah5wL7o6z9RqpRGdTMCJ/CKYGdCc3xWoI="
   },
   "headless": {
-    "version": "4.3.0",
+    "version": "4.3.1",
     "t3_versions": [
       12
     ],
     "description": "Makes TYPO3 a headless CMS. Content and pages available in JSON format. Supports multilanguage, multidomain, forms, frontend login, workspaces and more. For JS frontend app see nuxt-typo3 package",
-    "hash": "sha256-6CEAayrGX39+8Pd7TBDPCHyM20xjew9ENBeFFTEyAwI="
+    "hash": "sha256-qYYp2IPWKiBzCwiI7UOnm+j/FDW86ZOVszBnm92BpyQ="
   },
   "headless_container": {
     "version": "2.0.0",
@@ -31658,13 +31658,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "lux": {
-    "version": "35.2.1",
+    "version": "35.3.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Living User Experience - LUX - the Marketing Automation tool for TYPO3.",
-    "hash": "sha256-pE/UGj6/hXtlztBJInZqRcVoZDDhDypGaB4NWVvJBDQ="
+    "hash": "sha256-3Pxjga45kZQ0cPFS5LQUO20vkhM9jzb43RM2aHfTqOQ="
   },
   "luxletter": {
     "version": "26.1.0",
@@ -38569,12 +38569,12 @@
     "hash": "sha256-D/FI8yV34h44qmE1VtAIRPo8YsM4nAGGEkz+0ge4e+o="
   },
   "nitsan_maintenance": {
-    "version": "12.0.2",
+    "version": "12.1.0",
     "t3_versions": [
       12
     ],
     "description": "This TYPO3 Maintenance extension will help you with simple plug & play which have a special TYPO3 Page & TYPO3 Template. It would be useful on criteria like to set Site Coming to Soon Page, Maintenance of Site, Offline while Upgrading your site, etc.",
-    "hash": "sha256-kPINmEojaLVUBul0+/kajbo8jBxHIVjzzFfm8yye0/c="
+    "hash": "sha256-ARpdXgYbnf4aaaZ6OKG0TUBQrwgwmHMhCRcFUTcWSVk="
   },
   "nittygritty": {
     "version": "2.0.0",
@@ -39067,12 +39067,12 @@
     "hash": "sha256-Pz0DHW1O+QQnwduADluOQtxol/4MzBAk8577ixNmZJI="
   },
   "ns_all_sliders": {
-    "version": "12.0.1",
+    "version": "12.1.0",
     "t3_versions": [
       12
     ],
     "description": "TYPO3 Slider Extension - All In One TYPO3 Slider Extension. Experience the power of this versatile TYPO3 slider plugin, integrating the most popular jQuery slider plugins seamlessly into your website. With configurable options for Nivo Slider, Royal Slider, Owlcarousel, Sliderjs Slider, and more, our TYPO3 Slider Extension transforms your site's visual appeal.",
-    "hash": "sha256-Q/51jGC0KxgzZKRKzMgP7yaBSnH7DpIgjk6q+qNTOiM="
+    "hash": "sha256-uNZumijZb2FYbXoZ2hutZvsS5pbRyA3b0YT2gs/Ym2E="
   },
   "ns_backup": {
     "version": "12.1.0",
@@ -39262,12 +39262,12 @@
     "hash": "sha256-s4cYTJBuTkAxQZ4tnurGoPUtRV6ZgJ/0EgGc38W9cXA="
   },
   "ns_guestbook": {
-    "version": "12.0.1",
+    "version": "12.1.0",
     "t3_versions": [
       12
     ],
     "description": "TYPO3 Guestbook Extension easily integrates all the features of a guestbook, including a review form with email sending functionality. This TYPO3 guestbook plugin also includes spam protection and numerous customization options. Guests can share their reviews, ratings, and contact details, as well as personal experiences, through this Guestbook TYPO3 Extension. ",
-    "hash": "sha256-jS9Y33arJnq37nqR+/x/sboC4Cu+LBcOjhQ/uGO7S2c="
+    "hash": "sha256-N4lMxfniAXYDXN3H9lL36ZgYJnT+HBtevJE+vH6SNu0="
   },
   "ns_headless_blog": {
     "version": "1.0.0",
@@ -45146,12 +45146,12 @@
     "hash": "sha256-gwX8nFkcjL9Up6wMVRmZoiWgTvtc4PH+T9QTRvCoFr0="
   },
   "qc_info_rights": {
-    "version": "2.0.0",
+    "version": "2.0.1",
     "t3_versions": [
       12
     ],
     "description": "Gives editors a view of BE users and group rights like the Access module but in read-only. Also provides BE users and BE User Groups list with CSV export.",
-    "hash": "sha256-ki5BAUSYpsa1m6CLLYU5oo1b9DI/lz4m4Bl8OBVTYHQ="
+    "hash": "sha256-Rb///XR0T4HzCEbb6DrpXWchV5jIhOl4ixNf+b1O+Lc="
   },
   "qc_redirects": {
     "version": "1.1.2",
