@@ -610,14 +610,14 @@
     "hash": "sha256-T0y6c/asLUIuO8IBscaJ+F50IHAiSeuZFbpt3Mlk24A="
   },
   "accelerator": {
-    "version": "12.4.4",
+    "version": "12.4.8",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Speed up your TYPO3 installation: add Critical CSS (Above The Fold) inline, minify the HTML of your website, use subdomains as CDN to reduce page load, manage proxy-caching (e.g with Varnish) via page-properties, reduce database size when storing JSON-arrays with persisted objects to the database",
-    "hash": "sha256-PIFDlhdykVf5T/N/dSjN58WipDm1CQX4ZVjrwieQaAs="
+    "hash": "sha256-XLv5fWzFJRr+wnh9ovVsH8Z30rO8oxd0JTK5mYwSbnA="
   },
   "access_control_sync": {
     "version": "0.2.7",
@@ -6849,13 +6849,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "campus_events_connector": {
-    "version": "4.0.2",
+    "version": "4.0.3",
     "t3_versions": [
       11,
       12
     ],
     "description": "Connecting the event software campus events with TYPO3, to import the event data into TYPO3 as data records. Get further information about Campus Events: www.campus-events.com",
-    "hash": "sha256-Qkl9ZqOGPxCQlPl/h7CBgtx1T/Rxt+RetQ5RmscmnD8="
+    "hash": "sha256-vH1HIqfcgwutrfO6HtWQ13NKE+Kp0hq/OcmS676swxc="
   },
   "campus_events_convert2news": {
     "version": "4.0.1",
@@ -8863,13 +8863,13 @@
     "hash": "sha256-CyYYDj2w3a9nPtj3bnZfWMLJ3YAwhqhr0wga+jqzUX0="
   },
   "clubmanager": {
-    "version": "1.1.5",
+    "version": "1.1.7",
     "t3_versions": [
       11,
       12
     ],
     "description": "The TYPO3 module for managing clubs, foundations and associations. With Clubmanager, you get the tool to manage the organization AND public relations of your club or association in a cost-saving and effective way.",
-    "hash": "sha256-yhumbW1nlw9MLyFE6Ex9oCE7uchu59/vXkPw/FMVuy0="
+    "hash": "sha256-hrStgEKkmLrkMsFBp2VNNq3x4/ZBcJ+o2F5GiQmz14g="
   },
   "cm_ajax": {
     "version": "0.6.0",
@@ -9815,12 +9815,12 @@
     "hash": "sha256-XMv2jq5x6yytPyER7yVjRV9/nZ+nL3HR8SiwiCkMkN4="
   },
   "content_blocks": {
-    "version": "0.7.13",
+    "version": "0.7.14",
     "t3_versions": [
       12
     ],
     "description": "TYPO3 CMS Content Blocks - Content Types API",
-    "hash": "sha256-yOCj5hXBrckzNj5RB4UoUv2Zq8nc4e6iIdGm7OyJmpE="
+    "hash": "sha256-t88DsM4J8yhEd27EbSjwMmzhkJyJ0MBEY1rQS5PbnIc="
   },
   "content_consent": {
     "version": "2.0.2",
@@ -20794,13 +20794,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "form_consent": {
-    "version": "2.1.0",
+    "version": "2.2.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "An extension for TYPO3 CMS that adds double opt-in functionality to EXT:form. It allows the dynamic adaptation of the entire double opt-in process using various events. In addition, the extension integrates seamlessly into TYPO3, for example to delete outdated consents in compliance with the GDPR.",
-    "hash": "sha256-Q+xFQIZ2KPWgidGeLwZW5tEy+/Pqf2s4XvwKK8PqR7c="
+    "hash": "sha256-lYh5iALQaYiRlLz5zaFn/nmmqWCrZhKN6fpQchuPxEk="
   },
   "form_country_select": {
     "version": "3.0.0",
@@ -25932,13 +25932,13 @@
     "hash": "sha256-1BtHqdHxMgqWSvwa9lEB9dgde/Cg811PY1DMDC7F9sQ="
   },
   "in2publish_core": {
-    "version": "12.5.1",
+    "version": "12.5.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "Content publishing extension to connect stage and production server",
-    "hash": "sha256-WWY4cOr14aEgEfBarrK+/HYXBr1lUomyCbBg/svYTSQ="
+    "hash": "sha256-pFFwFVDu0xb2yrxt/Ma6+rF2RNHseCdQui7SKXFqdbc="
   },
   "in2rss": {
     "version": "0.2.2",
@@ -29190,10 +29190,10 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "kdstotop": {
-    "version": "12.0.0",
+    "version": "13.0.0",
     "t3_versions": [],
     "description": "Insert a scroll to top plugin",
-    "hash": "sha256-CcqQg2GEFRWQywd3A57Mf77QYZq12zuxOisQ39OWWik="
+    "hash": "sha256-BnWdqt0Gp5GQ8Vxz4uJDLy4QLfB3geZ/SJnGxCO4IiU="
   },
   "ke_contacts": {
     "version": "1.1.1",
@@ -39156,15 +39156,15 @@
     "hash": "sha256-eCq0aoyPQhyK2VlLDz4GiDj0Z/JfQMCGJDCSmZ0v1Ks="
   },
   "ns_disqus_comments": {
-    "version": "12.0.1",
+    "version": "12.1.0",
     "t3_versions": [
       12
     ],
     "description": "Using the TYPO3 Disqus Comment Extension you can connect DISQUS comments plugin into your website. This extension adds a DISQUS comments section to TYPO3 pages, allowing users to comment using their favorite social networks. Users can receive notifications about new replies, share messages, and engage with your content. ",
-    "hash": "sha256-jLdfZ2syUjKweeeszZ7/GGaMcosoqXxv+8xVBKGerOI="
+    "hash": "sha256-IVd7OmCnyOdNbzHDFsEIplinM5L8ObdGzCA35cnH5kg="
   },
   "ns_event": {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "t3_versions": [
       9,
       10,
@@ -39172,7 +39172,7 @@
       12
     ],
     "description": "TYPO3 Event Manager is a full-featured events management extension that lets you create multiple events and get them listed on your website. TYPO3  Event Manager provides a user-friendly interface that allows you to effortlessly create and customize events. Specify event details such as date, time, location, ticket types, and more in a matter of minutes.",
-    "hash": "sha256-xO7DUczyRxMrVGleMs9bfDZXGvlimRwP+eztQ+NCE1o="
+    "hash": "sha256-Zw/NkOtBf2x91kcBfMD1ODTs+Fxr5GU54zMM3o/mBF8="
   },
   "ns_ext_compatibility": {
     "version": "6.0.1",
@@ -39431,12 +39431,12 @@
     "hash": "sha256-xVFsaavQo/WR6o5/G4USI5sRsKyHHXTzUfHQXbwD5lc="
   },
   "ns_snow": {
-    "version": "12.0.2",
+    "version": "12.1.0",
     "t3_versions": [
       12
     ],
     "description": "Spread the joy of Christmas on your TYPO3 website with the Snowfall TYPO3 Extension. This addon, ns_snow, adds beautiful snowflakes and snowfall animation to all pages, creating a festive atmosphere. TYPO3 Snowfall Extension is also compatible with the latest TYPO3 Version 12. *** Live-Demo: https://demo.t3planet.com/t3-extensions/snow/ *** Documentation & Free Support: https://t3planet.com/typo3-snowfall-extension",
-    "hash": "sha256-Fuw21YuVRkOF9WiaugGVuGNngvMClVgl3NiemMzDFE8="
+    "hash": "sha256-aCFb5tPz9ZLwiKUlMtjsgcZBtpUNh7mhAzvSvKAYq5w="
   },
   "ns_statcounter": {
     "version": "3.0.2",
@@ -39557,12 +39557,12 @@
     "hash": "sha256-w/N9whwDtWULtEsGV7ulZYYfbyy9eY0DSC07DeyGXFg="
   },
   "ns_youtube": {
-    "version": "12.0.1",
+    "version": "12.1.0",
     "t3_versions": [
       12
     ],
     "description": "Using Youtube TYPO3 Extension you can display your YouTube videos directly on your TYPO3 site within a video box, allowing visitors to view them without being redirected to www.youtube.com. It easily integrates all YouTube features, such as Simple Video, Channel and Playlist management, Live-streaming, and engagement options such as likes and subscribe. ",
-    "hash": "sha256-OMfJbHIe85k/0BTZiQcpWwkgoBsGvLDXke8bdLkr+B8="
+    "hash": "sha256-eDccGnEuDYmR4P/gFM0/WTDRtcpscxpJRIwUArKTpow="
   },
   "ns_zoho": {
     "version": "1.0.3",
@@ -39653,14 +39653,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "nws_municipal_statutes": {
-    "version": "0.4.5",
+    "version": "0.4.6",
     "t3_versions": [
       9,
       10,
       11
     ],
     "description": "Reads all available municipal statutes from the TSA FullRest interface.",
-    "hash": "sha256-lL8aQ+hONJ/k8xrTRiWNsX5EPlMihh0DRa6X5Y7etyM="
+    "hash": "sha256-fDtdjicXGplDYU7QCH3YGERPupaZTd/39CawaiyF5NI="
   },
   "nwt_base": {
     "version": "0.1.0",
@@ -44104,13 +44104,13 @@
     "hash": "sha256-Hhsjjvj4dpp/59XQayjBKKB+7U8hsMak4T93JUHDeoY="
   },
   "powermailcaptcha": {
-    "version": "1.6.0",
+    "version": "1.6.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Captcha Extension for Powermail",
-    "hash": "sha256-zQaD3Xg71qkw6nnIFqJ7TpEDyz/Ll9ZMKBjmSdTT5DE="
+    "hash": "sha256-/crJlclPMxo9MBW3wD7DxeHOQ4jM2Q256/saQLwDqU4="
   },
   "powermailcustomcss": {
     "version": "1.1.0",
@@ -60487,13 +60487,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "tt_products": {
-    "version": "2.15.6",
+    "version": "2.15.7",
     "t3_versions": [
       11,
       12
     ],
     "description": "Advanced versions at ttproducts.de. Documented in the E-Book \"Der TYPO3-Webshop\" - Shop with listing in multiple languages, with order tracking, product variants, support for transactor extension, bill, creditpoint and voucher system.",
-    "hash": "sha256-3Rh2DooCFzNPqXmpix1iBRy34wKrfqbcmUVQMISHDb4="
+    "hash": "sha256-1kNoGVoygkBF+NuWfJBvfAv9XhP6Ajs7PHqv7vnLjOM="
   },
   "tt_products_foundby": {
     "version": "0.1.4",
