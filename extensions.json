@@ -3538,12 +3538,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "aws_sdk_php": {
-    "version": "3.308.3",
+    "version": "3.308.4",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-KAAsZRbHS52jPENCWKj51GYTadECkfB+pV0UqpLVQOg="
+    "hash": "sha256-ZQVZXfHvBxuwDONvtlbfGhUTKXelP8BnlZqjHiy7LRg="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -7880,12 +7880,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cefooter": {
-    "version": "2.1.0",
+    "version": "2.1.1",
     "t3_versions": [
       12
     ],
     "description": "Preview of settings in footer of tt_content element in page module.",
-    "hash": "sha256-NFGMc6HSXi+Yzq0soipxizrIsiF4GKaimTaOlpCFXws="
+    "hash": "sha256-n5ZkV/64VenffjBK42MrrtmfYjiQSOj/Zq4U0P3jtDY="
   },
   "celum_asset_picker": {
     "version": "1.0.8",
@@ -22013,13 +22013,13 @@
     "hash": "sha256-mTJNr9ruSpKiuan6222iSouGt8kqODW2vxxKmacYDiM="
   },
   "gdpr_extensions_com_youtube": {
-    "version": "1.0.2",
+    "version": "1.0.3",
     "t3_versions": [
       11,
       12
     ],
     "description": "The GDPR Youtube 2 Click Solution, brought to you by GDPR-Extensions.com, is a feature-rich solution designed to empower website owners in effectively managing Youtube videos and bolstering user privacy.",
-    "hash": "sha256-OzJ4IIGvLGxdNlN6wf+kpw97FId5jBOIYUF8bpwPtqs="
+    "hash": "sha256-LZJ0fClSh9/1DJX7cqQVfV+iIJJ/EfDOPSKsCUYaJaU="
   },
   "gdpr_youtube": {
     "version": "1.0.0",
@@ -29190,10 +29190,10 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "kdstotop": {
-    "version": "13.0.0",
+    "version": "13.0.2",
     "t3_versions": [],
     "description": "Insert a scroll to top plugin",
-    "hash": "sha256-BnWdqt0Gp5GQ8Vxz4uJDLy4QLfB3geZ/SJnGxCO4IiU="
+    "hash": "sha256-ypAIqHZKorvOHSrzMlUK+Pur4HzcPS/uTcwFy7WlcmU="
   },
   "ke_contacts": {
     "version": "1.1.1",
@@ -38555,7 +38555,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "nitsan_hellobar": {
-    "version": "6.0.1",
+    "version": "6.1.0",
     "t3_versions": [
       6,
       7,
@@ -38566,7 +38566,7 @@
       12
     ],
     "description": "The HelloBar TYPO3 Extension is a valuable tool for configuring and designing messages on your website. It provides tools and services to schedule messages for your guests exactly when you want them to see the messages. With Hello Bar, you can attract guests to your website and improve user engagement.",
-    "hash": "sha256-D/FI8yV34h44qmE1VtAIRPo8YsM4nAGGEkz+0ge4e+o="
+    "hash": "sha256-P4X4vMS5nM4P1SsezCWL8Kw6bCzIS0diir4PzaX1nIk="
   },
   "nitsan_maintenance": {
     "version": "12.1.0",
@@ -39117,7 +39117,7 @@
     "hash": "sha256-/nCErF9GfkajD2X4ldK0SSmB4jP3CCXHKgXjF+1+Qe4="
   },
   "ns_cookiebot": {
-    "version": "3.0.1",
+    "version": "3.0.2",
     "t3_versions": [
       6,
       7,
@@ -39128,7 +39128,7 @@
       12
     ],
     "description": "The Cookiebot.com GDPR Compliant TYPO3 Extension aids publishers, technology vendors, and advertisers in complying with GDPR and ePrivacy Directive regulations by ensuring transparency and obtaining user consent. T3Planet has developed a TYPO3 CMS extension to seamlessly integrate Cookiebot, one of the most popular solutions for managing cookies.",
-    "hash": "sha256-hw305seTlDMz0Ow9QZmWi63skxp6ydZJgoUI0++1ncU="
+    "hash": "sha256-ypKtP6ec184uwFryRav4P+ByfMbXTsNtSZZBc3Ycje4="
   },
   "ns_cookies": {
     "version": "2.0.1",
@@ -40460,13 +40460,13 @@
     "hash": "sha256-wvnsWxwC4HPw3jSFImRFr4CfbTeLClBqNCIMoVZCpV4="
   },
   "oidc_client": {
-    "version": "0.3.0",
+    "version": "0.3.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "This extension allows to authenticate a user with one of predefined OpenID Connect providers.",
-    "hash": "sha256-j1Y6L4QqhugdraGHVD6ruYTULEd/e4JCQCMik9GTFAU="
+    "hash": "sha256-yKkXvIgUGSPSs7jn7GRKv1lCewNEW7WIM2cCYhfV3mc="
   },
   "oidc_resource_ldap_proc": {
     "version": "0.1.0",
@@ -52724,14 +52724,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "social_gdpr": {
-    "version": "3.2.0",
+    "version": "3.3.0",
     "t3_versions": [
-      9,
       10,
-      11
+      11,
+      12
     ],
     "description": "Show social media after user confirmation",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-IC5XUcWIY6oIiP+Nq1Je6y+JoupNByAWMf6Dge3VyRk="
   },
   "social_media_buttons": {
     "version": "1.1.6",
@@ -58319,13 +58319,13 @@
     "hash": "sha256-V7UlPSqLKD5kapOcSId6gQRbKlTuz/HlU1qUOwCeGlI="
   },
   "tile_proxy": {
-    "version": "1.2.6",
+    "version": "1.2.7",
     "t3_versions": [
       11,
       12
     ],
     "description": "Integrate OpenStreetMap without the need for a cookie banner or content blocker - that is the purpose of ext:tile_maps. All requests for map tiles are routed through a configurable proxy url within your TYPO3-system. Since the client browser does not directly requests the OpenStreetMap-server no user confirmation and no content blockers are necessary (GDPR compliant). A proxy is also provided for geocoding nominatim. For a certain area (as specified in the TYPO3-backend) the tiles are cached to improve performance.",
-    "hash": "sha256-3XqB7MsPj7Mb3UFQOlU5mOG3/9G40VrANYRRO4QzJhM="
+    "hash": "sha256-EehZZqMXDS6JbEqDZGedAiupLl4p2O7/2+bIQpBLiEk="
   },
   "timecollect": {
     "version": "0.0.1",
@@ -62832,12 +62832,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "watchwords": {
-    "version": "2.1.3",
+    "version": "2.2.0",
     "t3_versions": [
-      11
+      12
     ],
     "description": "This extension adds a new content element which will get a new Christian Watchword (bible verse) every day.",
-    "hash": "sha256-GhC7Fmo9lX2jw0oq3Ow8g9rpqjSYzyas+eaxRNK+3pI="
+    "hash": "sha256-yQtq8/G3ps2MiMRm7wPp3cDtDbGajQ46vHfizo20Fck="
   },
   "way2enjoy": {
     "version": "1.3.5",
