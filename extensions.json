@@ -3538,12 +3538,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "aws_sdk_php": {
-    "version": "3.308.4",
+    "version": "3.308.5",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-ZQVZXfHvBxuwDONvtlbfGhUTKXelP8BnlZqjHiy7LRg="
+    "hash": "sha256-fYuwk8/bnkbC6KKWlo5qDTAtkaqQcBjcm8TvOQJ3Oe0="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -5331,12 +5331,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "brofix": {
-    "version": "6.0.2",
+    "version": "6.0.3",
     "t3_versions": [
       12
     ],
     "description": "Check for broken links and fix them via a backend module (forked from core linkvalidator)",
-    "hash": "sha256-dduYhOY2FdlmmS3w1lFwvgPvLCUnKs4mkHobOp+GWsI="
+    "hash": "sha256-hloDmiZk1xtz6Qg5YdfVK5QA51xLpbQvbxuSMu+CcBU="
   },
   "browser": {
     "version": "10.0.3",
@@ -10672,12 +10672,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "crawler": {
-    "version": "12.0.0",
+    "version": "12.0.3",
     "t3_versions": [
       12
     ],
     "description": "Libraries and scripts for crawling the TYPO3 page tree.",
-    "hash": "sha256-DbSz1It8HMySsszVV4avz/AJ7wkarorzKfpohVTPc8M="
+    "hash": "sha256-A9lxK/7UVV7YkZZmVClIEWrtRfXx/gOBi324Rz/migU="
   },
   "createarp": {
     "version": "0.4.0",
@@ -21995,14 +21995,22 @@
     "description": "Ensure GDPR compliance effortlessly. Our advanced scanner meticulously checks your website for cookies, external resources, and security issues. Generate detailed reports for validation and peace of mind.",
     "hash": "sha256-1nVStMsOtRCxN7GQGP1/Lcmjd9KkfdHfRQ3/i8sZ2GU="
   },
+  "gdpr_extensions_com_tiktok": {
+    "version": "1.0.1",
+    "t3_versions": [
+      11
+    ],
+    "description": "",
+    "hash": "sha256-fDKjLJ7ZA1CvNHCf7SAO8zLzFdXM57sTNtW5VuIOscQ="
+  },
   "gdpr_extensions_com_vimeo": {
-    "version": "1.0.6",
+    "version": "1.0.8",
     "t3_versions": [
       11,
       12
     ],
     "description": "The GDPR Vimeo 2 Click Solution, brought to you by GDPR-Extensions.com, is a feature-rich solution designed to empower website owners in effectively managing Vimeo videos and bolstering user privacy.",
-    "hash": "sha256-XGPgqz7quAlk0mL5tCHiDqHQoGmZwvddtEeC1mwozIU="
+    "hash": "sha256-kvsGDyCd/nyUTg8dZ+83aih1bp4/irv4mtCnfUnaeKs="
   },
   "gdpr_extensions_com_wm": {
     "version": "1.0.0",
@@ -22020,6 +22028,15 @@
     ],
     "description": "The GDPR Youtube 2 Click Solution, brought to you by GDPR-Extensions.com, is a feature-rich solution designed to empower website owners in effectively managing Youtube videos and bolstering user privacy.",
     "hash": "sha256-LZJ0fClSh9/1DJX7cqQVfV+iIJJ/EfDOPSKsCUYaJaU="
+  },
+  "gdpr_extensions_com_ytshorts": {
+    "version": "1.0.0",
+    "t3_versions": [
+      11,
+      12
+    ],
+    "description": "The GDPR Youtube Shorts 2 Click Solution, brought to you by GDPR-Extensions.com, is a feature-rich solution designed to empower website owners in effectively managing Youtube short videos and bolstering user privacy.",
+    "hash": "sha256-MGaal7WSw+Jiq9BT88pWLP2q/woqch7v9N+7UpxyLBo="
   },
   "gdpr_youtube": {
     "version": "1.0.0",
@@ -60318,13 +60335,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "tslib_fetce": {
-    "version": "0.8.0",
+    "version": "0.8.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "It brings the deprecated TYPO3 4.x class tslib_feTCE and the processScript FEData setup with new features partly back into TYPO3 10+. This is needed by extensions based on the former TYPO3 FORM like tt_board and tt_guest. Only form MAIL and form wizards additionally require code provided by the extension compatibility6.",
-    "hash": "sha256-axT2F9ntcK/Bd7fplrS4HF7kVFoY7PBgd5qCBhDzt/c="
+    "hash": "sha256-7lgwnyW2O9oVzeU0aUjXegOIIfCfYkzFXomSTk5BjoY="
   },
   "tslib_patcher": {
     "version": "0.1.4",
