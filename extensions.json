@@ -13193,12 +13193,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "deepltranslate": {
-    "version": "1.0.4",
+    "version": "1.0.5",
     "t3_versions": [
       9
     ],
-    "description": "This extension provides option to translate content element, and tca record texts to Deepl and Google supported languages.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "description": "This extension provides option to translate content element, and tca record texts to Deepl and Google supported languages.This extension no longer supported please use new extension AI Translate(ai_translate)",
+    "hash": "sha256-zubGGULUMiOLlijfkwn7FtLyHVbYdKVB2h8DBjoJVXg="
   },
   "default_upload_folder": {
     "version": "2.0.3",
@@ -39064,12 +39064,12 @@
     "hash": "sha256-oevUHYBYnEnCyZJQ8iZPusuhpo5IPKayTVJcaT2igSM="
   },
   "ns_all_chat": {
-    "version": "12.0.1",
+    "version": "12.1.0",
     "t3_versions": [
       12
     ],
     "description": "The All in One TYPO3 Chat Extension is the only TYPO3 extension that helps to integrate the most popular chat tools directly into your website. With this extension, you can easily connect various live chat tools such as zopim.com, livechatinc.com, purechat.com, and more. ",
-    "hash": "sha256-AKlGC41Fz4epHhONd89Dvum6wR7rmUiGXbAqKrWalxk="
+    "hash": "sha256-52MJpOZtqI4EU5blHA1qxWtSSloZEh6jIOKWdtrbGbk="
   },
   "ns_all_lightbox": {
     "version": "12.1.0",
@@ -39193,7 +39193,7 @@
     "hash": "sha256-Zw/NkOtBf2x91kcBfMD1ODTs+Fxr5GU54zMM3o/mBF8="
   },
   "ns_ext_compatibility": {
-    "version": "6.0.1",
+    "version": "6.1.0",
     "t3_versions": [
       4,
       6,
@@ -39204,7 +39204,7 @@
       11
     ],
     "description": "Are you in need of a TYPO3 Extension that offers features such as system information reporting, statistical analysis of TYPO3 extensions, downloadable compatibility options, and more? TYPO3 Extensions Compatibility Report, tailored to meet your specific requirements! Compatible with all major versions of TYPO3 , it assists you in assessing the feasibility and complexity of TYPO3 upgrades. ",
-    "hash": "sha256-vylsq/QyL3Fu8r7bem8WjKOgVO5CnK4ISHTifN8wcnk="
+    "hash": "sha256-1rHGduSV27mSIEg2tfWa0T38DnpE6ar741qRHbbs1mY="
   },
   "ns_facebook_comment": {
     "version": "2.0.2",
@@ -39236,12 +39236,12 @@
     "hash": "sha256-yp0p75/3DvOqBT0o7mxlbpHg91bZ+HM01clhKciZ+Jw="
   },
   "ns_friendlycaptcha": {
-    "version": "12.0.2",
+    "version": "12.1.0",
     "t3_versions": [
       12
     ],
     "description": "Friendly Captcha is a new way to protect your forms from bots without asking users to solve puzzles. It fully complies with GDPR regulations. Their device solves the challenge in the background, so they don't have to do anything extra. ",
-    "hash": "sha256-xc/cXKEr4b9XrLDL3fT9EqsL5TziUZ7Vt4UVkdn7hsc="
+    "hash": "sha256-M2NxtA5LK+GHuHSmLnybsa5pt2y4NYlDJy5KHOdgSvs="
   },
   "ns_gallery": {
     "version": "12.1.0",
@@ -46354,12 +46354,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "reserve": {
-    "version": "3.0.0",
+    "version": "3.0.1",
     "t3_versions": [
       12
     ],
     "description": "This extension allows you to reserve tickets for one or more persons using a period table and a form. Each reservation has it’s own QR Code that can be scanned at the event.",
-    "hash": "sha256-2C7AlsKL2xm88DD9XXoWzvm/p3SckPyQPNRCnIFvJvI="
+    "hash": "sha256-Y+9lG6cxXXeMzn0IdmncZ5dhtAVbBPKFiC/lrxrYLUY="
   },
   "resizable_modals": {
     "version": "1.0.1",
