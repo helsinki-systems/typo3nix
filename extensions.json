@@ -1576,12 +1576,12 @@
     "hash": "sha256-QckxUijIPEdD6LVvP3jLwr2sT0hqgrIdc0gptF3NW5Q="
   },
   "ai_translate": {
-    "version": "3.1.0",
+    "version": "3.1.1",
     "t3_versions": [
       12
     ],
-    "description": "This extension provides option to translate content element, and tca record texts to Deepl, Google, OpenAI and Gemini supported languages.",
-    "hash": "sha256-c50wcuwa9wr0vfLiQ3l6X0wcNYUeOOZtRY8R6mXu7/w="
+    "description": "This extension provides option to translate content element, and tca record texts to Deepl, Google, OpenAI,  Gemini and Claude supported languages.",
+    "hash": "sha256-LrZ+IK11SKP3RlLmJggx2X2/cL8lV1Xhd4R045LglW8="
   },
   "aimeos": {
     "version": "24.4.1",
@@ -3538,12 +3538,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "aws_sdk_php": {
-    "version": "3.308.5",
+    "version": "3.308.6",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-fYuwk8/bnkbC6KKWlo5qDTAtkaqQcBjcm8TvOQJ3Oe0="
+    "hash": "sha256-Bxhhq04z2Hjlxp1V4EAiDkLDQ8EHixCBK8jWna+8N9U="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -21996,12 +21996,13 @@
     "hash": "sha256-1nVStMsOtRCxN7GQGP1/Lcmjd9KkfdHfRQ3/i8sZ2GU="
   },
   "gdpr_extensions_com_tiktok": {
-    "version": "1.0.1",
+    "version": "1.0.3",
     "t3_versions": [
-      11
+      11,
+      12
     ],
-    "description": "",
-    "hash": "sha256-fDKjLJ7ZA1CvNHCf7SAO8zLzFdXM57sTNtW5VuIOscQ="
+    "description": "Add TikTok videos to your website and stay GDPR compliant! Your website viewers will be able to manage their cookie preferences and view the content only if consented. Stay GDPR compliant when your website is scanned by any Cookie or GDPR Scanner!",
+    "hash": "sha256-yWR2KDLiW3FsRtQG8IFI13ZmZqmYOIIBK47KgGzzGuU="
   },
   "gdpr_extensions_com_vimeo": {
     "version": "1.0.8",
