@@ -56219,12 +56219,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "t3sbootstrap": {
-    "version": "5.3.11",
+    "version": "5.3.12",
     "t3_versions": [
       12
     ],
     "description": "Startup extension to use bootstrap 5 classes, components and more out of the box. Example and info: www.t3sbootstrap.de",
-    "hash": "sha256-VWjyNrmD5mKaj8vKtriG6YX7f4uGKq07laWLOUO+kbo="
+    "hash": "sha256-zc1jgMlYuM2oA23srzHFe7xAXk+aOgY9zAzv7sXqCMw="
   },
   "t3sbootstrap_grid": {
     "version": "3.0.0",
