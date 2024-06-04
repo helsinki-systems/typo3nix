@@ -1560,12 +1560,12 @@
     "hash": "sha256-ee1Rl3Ok1e1HP2daIVmwXQEzGrTz2ymo8zv8dhHnoHI="
   },
   "ai_suite": {
-    "version": "12.2.0",
+    "version": "12.3.0",
     "t3_versions": [
       12
     ],
     "description": "Adds a backend module as well as various helper functionalities and features to your TYPO3 backend, which are intended to make the daily work of editors easier and faster with the help of AI.",
-    "hash": "sha256-TbybJiMSCS6A9r1XsKStD/4O/AKIMuH/IT3VGi97TPE="
+    "hash": "sha256-ic4Sjtk3em2yn3q0gWYk3BiXrPdNlvgIBug70WU9Fto="
   },
   "ai_tools": {
     "version": "0.0.1",
@@ -2207,12 +2207,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ameos_dailymotion": {
-    "version": "2.0.0",
+    "version": "2.1.0",
     "t3_versions": [
       12
     ],
     "description": "Dailymotion online media service",
-    "hash": "sha256-sBYRaE+mtAdvtdvj50qH5RSFsHPnIYnz/p61L9KO2LE="
+    "hash": "sha256-auzzVUoiCpoOWntMFRw6Xi+619+IWqaRD3yti/TIjUw="
   },
   "ameos_demo_formidable": {
     "version": "0.4.0",
@@ -2344,7 +2344,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ameos_tarteaucitron": {
-    "version": "3.2.0",
+    "version": "3.3.0",
     "t3_versions": [
       9,
       10,
@@ -2352,7 +2352,7 @@
       12
     ],
     "description": "Integrates tarteaucitron.js in TYPO3 (see : https://tarteaucitron.io )",
-    "hash": "sha256-QUlnDwutsi0Jrmq8B+J7bBI5s4bazE62Q+O+OsOj5e4="
+    "hash": "sha256-JlmFhxYcFv9QVPIuxV2rMhLKT38vKUjHtZAVFz7XtbY="
   },
   "ameos_typo3_vulnerabilities": {
     "version": "1.0.0",
@@ -3538,12 +3538,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "aws_sdk_php": {
-    "version": "3.308.7",
+    "version": "3.309.0",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-/aA/dFjzkDkLjT+AArV8lbNuyUMAMn+e+B8qbFZLtvA="
+    "hash": "sha256-wlu4jZecdMU6I2+z/HnmS7MYKPQcQevPXdDPLl/zZqU="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -11076,12 +11076,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cs_seo": {
-    "version": "8.1.2",
+    "version": "8.2.0",
     "t3_versions": [
       12
     ],
     "description": "SEO Extension: Enables important onpage features for search engine optimization (SEO). Expands",
-    "hash": "sha256-KHu7eytBh7snNA1ScpwLkrJqGi9w97ZEt7/Bn92daig="
+    "hash": "sha256-LYpX+sP+s/U1f28QMz1HM+abVdH3fyUftVoatjgtClY="
   },
   "cs_static_hide": {
     "version": "1.0.1",
@@ -21988,12 +21988,13 @@
     "hash": "sha256-GJzhCsAeFmHfFr0iZEObrmdYjO88pX9sXpnvboZ9l3w="
   },
   "gdpr_extensions_com_bmap": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "t3_versions": [
-      11
+      11,
+      12
     ],
     "description": "",
-    "hash": "sha256-F089GbZ3YXvSjYaFMysViBAG+0F8fShTS5Z/zX/qKL0="
+    "hash": "sha256-lydwyPy3VV4hU2/nQdSpq0JFmBgLF87rAK5NOA4F3KI="
   },
   "gdpr_extensions_com_cm": {
     "version": "1.0.0",
@@ -22002,6 +22003,15 @@
     ],
     "description": "Ensure GDPR compliance effortlessly. Our advanced scanner meticulously checks your website for cookies, external resources, and security issues. Generate detailed reports for validation and peace of mind.",
     "hash": "sha256-1nVStMsOtRCxN7GQGP1/Lcmjd9KkfdHfRQ3/i8sZ2GU="
+  },
+  "gdpr_extensions_com_gmap": {
+    "version": "1.0.1",
+    "t3_versions": [
+      11,
+      12
+    ],
+    "description": "Add Google Maps with single or multi location markers to your website and stay GDPR compliant! Your website viewers will be able to manage their cookie preferences and view the content only if consented. Stay GDPR compliant when your website is scanned by any Cookie or GDPR Scanner!",
+    "hash": "sha256-vpiY4HlMtCljI62RZQEoKfM9pZHg876Ytpq7o6oL0AM="
   },
   "gdpr_extensions_com_tiktok": {
     "version": "1.0.3",
@@ -39410,7 +39420,7 @@
     "hash": "sha256-eTZwEo9XdZ8Cg8V6jQhW8uL3ZSD+KkopQEk8JwrZkaM="
   },
   "ns_personio": {
-    "version": "1.0.1",
+    "version": "1.1.0",
     "t3_versions": [
       9,
       10,
@@ -39418,7 +39428,7 @@
       12
     ],
     "description": "The extension offers various customization options for job listing, detail, and application pages on the frontend. Additionally, a scheduler ensures data synchronization. Directly list, view, and apply to Personio vacancies through the TYPO3 Backend. ",
-    "hash": "sha256-WqPKsgFIcCHZs/ACt5SXxA/faW/yCJPhktk6qhKKdM8="
+    "hash": "sha256-YTkbX9K+1x7wG+4kHMNiFho0XpBdP3I2K2eYbpn4RzE="
   },
   "ns_protect_site": {
     "version": "2.0.4",
@@ -39574,13 +39584,13 @@
     "hash": "sha256-ODPREuoiz9Wd+79kcFUnrMD6Jyj4oYQ9WkwwnfdGR7A="
   },
   "ns_wp_migration": {
-    "version": "1.0.1",
+    "version": "1.1.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Plug-n-play TYPO3 extension to migrate wordpress page and page data to your TYPO3 site.",
-    "hash": "sha256-w/N9whwDtWULtEsGV7ulZYYfbyy9eY0DSC07DeyGXFg="
+    "hash": "sha256-hrks1LWCZh7LfUfMZ+edapH26cjxeyYwFLF7PB9mMFU="
   },
   "ns_youtube": {
     "version": "12.1.1",
