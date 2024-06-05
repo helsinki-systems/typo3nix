@@ -610,14 +610,14 @@
     "hash": "sha256-T0y6c/asLUIuO8IBscaJ+F50IHAiSeuZFbpt3Mlk24A="
   },
   "accelerator": {
-    "version": "12.4.8",
+    "version": "12.4.10",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Speed up your TYPO3 installation: add Critical CSS (Above The Fold) inline, minify the HTML of your website, use subdomains as CDN to reduce page load, manage proxy-caching (e.g with Varnish) via page-properties, reduce database size when storing JSON-arrays with persisted objects to the database",
-    "hash": "sha256-XLv5fWzFJRr+wnh9ovVsH8Z30rO8oxd0JTK5mYwSbnA="
+    "hash": "sha256-MiD8R+Ly7a9K9Mwo5utuxX10HvSnU05D+klf8UYY+X0="
   },
   "access_control_sync": {
     "version": "0.2.7",
@@ -1560,12 +1560,12 @@
     "hash": "sha256-ee1Rl3Ok1e1HP2daIVmwXQEzGrTz2ymo8zv8dhHnoHI="
   },
   "ai_suite": {
-    "version": "12.3.0",
+    "version": "12.3.1",
     "t3_versions": [
       12
     ],
     "description": "Adds a backend module as well as various helper functionalities and features to your TYPO3 backend, which are intended to make the daily work of editors easier and faster with the help of AI.",
-    "hash": "sha256-ic4Sjtk3em2yn3q0gWYk3BiXrPdNlvgIBug70WU9Fto="
+    "hash": "sha256-nxVqRRpKy8TXDpRk9riBpSAEy+lgKQrZlZp7JPg4KRw="
   },
   "ai_tools": {
     "version": "0.0.1",
@@ -2344,7 +2344,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ameos_tarteaucitron": {
-    "version": "3.3.0",
+    "version": "3.4.0",
     "t3_versions": [
       9,
       10,
@@ -2352,7 +2352,7 @@
       12
     ],
     "description": "Integrates tarteaucitron.js in TYPO3 (see : https://tarteaucitron.io )",
-    "hash": "sha256-JlmFhxYcFv9QVPIuxV2rMhLKT38vKUjHtZAVFz7XtbY="
+    "hash": "sha256-46AZ9N7hMSs7w6CSZ5Mfwj6xDWyoJv/R/CLCbKvjTNE="
   },
   "ameos_typo3_vulnerabilities": {
     "version": "1.0.0",
@@ -3538,12 +3538,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "aws_sdk_php": {
-    "version": "3.309.0",
+    "version": "3.310.0",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-wlu4jZecdMU6I2+z/HnmS7MYKPQcQevPXdDPLl/zZqU="
+    "hash": "sha256-6JtJLrY2nlY7nl5kEQyhyZI/L0y6yEb6hU180xm8n5k="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -6858,13 +6858,13 @@
     "hash": "sha256-vH1HIqfcgwutrfO6HtWQ13NKE+Kp0hq/OcmS676swxc="
   },
   "campus_events_convert2news": {
-    "version": "4.0.1",
+    "version": "4.0.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "",
-    "hash": "sha256-nusX0P9kOTgdF+IpWfEOUuLQL2BuPTs68R86BWyuqCg="
+    "hash": "sha256-dfWVota5+mk3VBCCZ8OC27nOkvFQb1Yr40Gfr5iggZU="
   },
   "campus_events_convert2ttnews": {
     "version": "1.0.1",
@@ -8784,6 +8784,14 @@
     ],
     "description": "",
     "hash": "sha256-iCxnGK6/3qVrE9m1EupmJEaFkLxd3Agb1+uKZysUtJE="
+  },
+  "clickskeks": {
+    "version": "2.0.2",
+    "t3_versions": [
+      12
+    ],
+    "description": "Clickskeks Cookie-Banner with Data-Protection Plugin. Requires a Clickskeks or an CCM19 subscription.",
+    "hash": "sha256-tJ8U9HyBLxpDUdk9iZCeX7B60zOS4MnH2WaL0pdhCTM="
   },
   "clicleaner": {
     "version": "1.0.0",
@@ -11917,12 +11925,12 @@
     "hash": "sha256-bicll6YrhRPXpz7VGPOx/rDG7L0Ul0LfK7XoMnMbg7s="
   },
   "cy_send_mails": {
-    "version": "2.0.0",
+    "version": "2.0.1",
     "t3_versions": [
       12
     ],
     "description": "This extension allows frontend users to write emails to other ",
-    "hash": "sha256-1GNhrIK+12c9B7o33w/R2tTVgy5qK2svQS9k6UEYoSE="
+    "hash": "sha256-ex86xRGnc8HEt8WPUVncHIkdeBzYDugcm2Ta0EjaMYM="
   },
   "cy_twitter": {
     "version": "0.0.2",
@@ -29687,14 +29695,14 @@
     "hash": "sha256-Xg18wGIiorcc4AwnWavh08W6SOTpznDxntQTExfovnY="
   },
   "klarokratie": {
-    "version": "12.4.5",
+    "version": "12.4.6",
     "t3_versions": [
       10,
       11,
       12
     ],
-    "description": "ncludes Klaro! Consent-Manager into TYPO3. Completely file-based configuration for versioning without having to take care of database-entries. This extension automatically adds a consent-overlay to embedded YouTube- and Vimeo-Videos.",
-    "hash": "sha256-O5soae+vMPFxNGogElMBGnJsRbe7wUeJyZsE0r2Derk="
+    "description": "Includes Klaro! Consent-Manager into TYPO3. Completely file-based configuration for versioning without having to take care of database-entries. This extension automatically adds a consent-overlay to embedded YouTube- and Vimeo-Videos.",
+    "hash": "sha256-GdaqJrol6fqL3riUAgA+XImQx3c4l0CTJRu86R6kHM4="
   },
   "km_dam_extension": {
     "version": "1.0.2",
@@ -33904,14 +33912,13 @@
     "hash": "sha256-KRUUId+yGTLXlpwDl+clK/Hm/fCsVN7fKi7NGm+mbeI="
   },
   "mfa_frontend": {
-    "version": "1.1.0",
+    "version": "1.2.0",
     "t3_versions": [
-      10,
       11,
       12
     ],
     "description": "Enable MFA (Multi-Factor Authentication) for Frontend accounts.",
-    "hash": "sha256-8PumkWXmgXEZLMzEHgWE5/WS+aRUSHcgvhZAA/mTh/s="
+    "hash": "sha256-PxOOOZBOoGRh6+3ftJKISRDeCbbmyIwq+GWJFyD7caM="
   },
   "mfa_hotp": {
     "version": "1.1.0",
