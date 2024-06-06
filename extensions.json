@@ -610,14 +610,14 @@
     "hash": "sha256-T0y6c/asLUIuO8IBscaJ+F50IHAiSeuZFbpt3Mlk24A="
   },
   "accelerator": {
-    "version": "12.4.10",
+    "version": "12.4.11",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Speed up your TYPO3 installation: add Critical CSS (Above The Fold) inline, minify the HTML of your website, use subdomains as CDN to reduce page load, manage proxy-caching (e.g with Varnish) via page-properties, reduce database size when storing JSON-arrays with persisted objects to the database",
-    "hash": "sha256-MiD8R+Ly7a9K9Mwo5utuxX10HvSnU05D+klf8UYY+X0="
+    "hash": "sha256-gFAkD7Ny+QU7gGTstwcSW1Z7QdoH+qz5BqlbhXplhLQ="
   },
   "access_control_sync": {
     "version": "0.2.7",
@@ -1584,12 +1584,12 @@
     "hash": "sha256-LrZ+IK11SKP3RlLmJggx2X2/cL8lV1Xhd4R045LglW8="
   },
   "aimeos": {
-    "version": "24.4.1",
+    "version": "24.4.2",
     "t3_versions": [
       12
     ],
     "description": "Professional, full-featured and ultra-fast TYPO3 e-commerce extension for online shops, complex B2B applications and #gigacommerce. Turns TYPO3 into the best platform for content commerce and your e-commerce requirements (also available as TYPO3 distribution)",
-    "hash": "sha256-06eXgPPa3Xsi6AY11/aT61aBXocZiT6IPmk/c8EpJx8="
+    "hash": "sha256-fW038LhMb/xY3EkqkG+rVLesbUeK4+o/8Mc7f3svfBk="
   },
   "aimeos_dist": {
     "version": "24.4.1",
@@ -3538,12 +3538,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "aws_sdk_php": {
-    "version": "3.310.0",
+    "version": "3.311.0",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-6JtJLrY2nlY7nl5kEQyhyZI/L0y6yEb6hU180xm8n5k="
+    "hash": "sha256-EXVx4bTwnybVY4fxPihBGfr6bfVy2nlBWFBY8i/o4C8="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -8786,12 +8786,12 @@
     "hash": "sha256-iCxnGK6/3qVrE9m1EupmJEaFkLxd3Agb1+uKZysUtJE="
   },
   "clickskeks": {
-    "version": "2.0.2",
+    "version": "2.0.3",
     "t3_versions": [
       12
     ],
-    "description": "Clickskeks Cookie-Banner with Data-Protection Plugin. Requires a Clickskeks or an CCM19 subscription.",
-    "hash": "sha256-tJ8U9HyBLxpDUdk9iZCeX7B60zOS4MnH2WaL0pdhCTM="
+    "description": "Clickskeks Cookie-Banner with Data-Protection Plugin. Requires an Clickskeks subscription.",
+    "hash": "sha256-LbmO/PnqI/OO0X2b5mCnWbzNa/+OkKpNttpDe1krBhI="
   },
   "clicleaner": {
     "version": "1.0.0",
@@ -11925,12 +11925,12 @@
     "hash": "sha256-bicll6YrhRPXpz7VGPOx/rDG7L0Ul0LfK7XoMnMbg7s="
   },
   "cy_send_mails": {
-    "version": "2.0.1",
+    "version": "2.0.2",
     "t3_versions": [
       12
     ],
     "description": "This extension allows frontend users to write emails to other ",
-    "hash": "sha256-ex86xRGnc8HEt8WPUVncHIkdeBzYDugcm2Ta0EjaMYM="
+    "hash": "sha256-UI55RqTok7NxmuLV/sSONmtl6CFO5WBbg8CPz62PDzs="
   },
   "cy_twitter": {
     "version": "0.0.2",
@@ -20926,12 +20926,12 @@
     "hash": "sha256-1LFYemvwy3xOd6b5SQs7eOxJvCQGGkl2qIbEKN2geLE="
   },
   "form_module_enhancer": {
-    "version": "0.0.1",
+    "version": "0.0.2",
     "t3_versions": [
       12
     ],
     "description": "Enhance ext:form backend module with a search bar and additional fields in the FormManager",
-    "hash": "sha256-Ul6r9ulgVh+P5gALTQ+AuKQ6VSjlmTcMB8d3Top0DAI="
+    "hash": "sha256-mg66ZbGwprmTVjDfP8ibiBdwSrUYketoBDiG4mxyPVs="
   },
   "form_newsletter": {
     "version": "1.4.0",
@@ -21313,21 +21313,21 @@
     "hash": "sha256-BWibo3/20xqtaX8DidK/HYtgtpJvSyzjCx9HqXRROF8="
   },
   "fp_masterquiz": {
-    "version": "5.1.4",
+    "version": "5.1.6",
     "t3_versions": [
       12
     ],
     "description": "A modern extension that offers quiz, polls and tests. Ajax support. The result can be displayed as a chart too. Supports 8 question modes.",
-    "hash": "sha256-5qCxAxu7FR1VNMc+jtVXKdJ/kXi3+RY+amTeiLH3cNU="
+    "hash": "sha256-C7j8xU8yoPuLtcYhYjMh3STeBoEX/YuU1SnPFhSlabo="
   },
   "fp_newsletter": {
-    "version": "7.0.1",
+    "version": "7.0.4",
     "t3_versions": [
       11,
       12
     ],
     "description": "Plugin for newsletter subscription and unsubscription with double opt in (and double opt out). For: mail or luxletter / tt_address or fe_users. A log is written.",
-    "hash": "sha256-E2buhm+EPjoX2Hlu39NRU73iWLVIXVm1GBwmeu/S6Tw="
+    "hash": "sha256-ri88Iu/tOFoI4aQF/Iqa7CPXMCtT5+ZlG/C/D7jZDRc="
   },
   "fp_product_features": {
     "version": "0.2.0",
@@ -28031,31 +28031,31 @@
     "hash": "sha256-kJ+TixUtpXxAiIlmw1A+TQA6QnpGsoqJhhF4VB3Uepw="
   },
   "jobrouter_connector": {
-    "version": "3.0.0",
+    "version": "3.0.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Connect TYPO3 with the JobRouter® digitalisation platform",
-    "hash": "sha256-LALyIXvZZtm2FjDloflcz/G7bECFtRgb+4mQrbkXxSU="
+    "hash": "sha256-P4pfcdp4YOL+rGnT6sJhdE52Ev2f4goRER0CGwxK6jQ="
   },
   "jobrouter_data": {
-    "version": "3.0.0",
+    "version": "3.0.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Connect JobRouter® JobData tables with TYPO3",
-    "hash": "sha256-3s9ICV5z4+/QBmGs8vkrcuN2oKaKgo/6RcqnaSigx90="
+    "hash": "sha256-lb52mvurVV5Oxpg8NcLxy2tIBZDNEvOZBEKq8P8yWcM="
   },
   "jobrouter_process": {
-    "version": "3.0.0",
+    "version": "3.0.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Connect JobRouter® processes with TYPO3",
-    "hash": "sha256-vcpJhBxAdkQ63Vwovreg+M+pSzQ4IfsBneqP35YZ09M="
+    "hash": "sha256-jZZSeoYCirfWMjRcuvvMfujgaDW9G2I2Tnw9pOrpoWA="
   },
   "jobrouter_rss_widgets": {
     "version": "1.4.0",
@@ -44030,13 +44030,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "powermail_country": {
-    "version": "11.0.0",
+    "version": "11.1.0",
     "t3_versions": [
       10,
       11
     ],
     "description": "Improve Country selection based on static_info_tables with Powermail",
-    "hash": "sha256-vwQ5Ugl1mnmaZv6+JPLAaxPCsrM94V+mfs+OWCYFsd4="
+    "hash": "sha256-nUG5Eps+s9FDG0wv+QZXe2/WXVg119N8fAHgHzx/eEI="
   },
   "powermail_fastexport": {
     "version": "1.0.5",
@@ -49681,12 +49681,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "seo_dynamic_tag": {
-    "version": "10.4.0",
+    "version": "10.4.1",
     "t3_versions": [
       10
     ],
     "description": "Search Engine Optimisation (SEO) for title tag, canonical tag, meta tags author, description and keywords and social media tags for google, opengraph/facebook and twitter.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-luStS/wbxMBBM6n+L007s2v0gTqYwpillsrSBsFviA4="
   },
   "seo_export": {
     "version": "0.0.2",
@@ -59890,13 +59890,13 @@
     "hash": "sha256-t1mWTkbgUEvH7RpuAUb5um5Sjzne+TKhd3VgKvIqC04="
   },
   "translatelabels": {
-    "version": "2.3.5",
+    "version": "2.3.7",
     "t3_versions": [
       10,
       11
     ],
     "description": "This extension extends the TYPO3 translation handling by translation records that can be edited by backend users. In this way backend users are able to translate labels without having access to the language files.",
-    "hash": "sha256-Wa9oKsh0wjTO7UpOrOls0qQNj46PB6tQuzWSLAeBrt8="
+    "hash": "sha256-Eq/RmuD4mXkJE9cDZXqXxpwNXJ5JQz5+lqZGsmHQZnw="
   },
   "translationapi": {
     "version": "2.0.0",
