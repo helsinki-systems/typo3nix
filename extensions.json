@@ -3538,12 +3538,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "aws_sdk_php": {
-    "version": "3.311.0",
+    "version": "3.311.1",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-EXVx4bTwnybVY4fxPihBGfr6bfVy2nlBWFBY8i/o4C8="
+    "hash": "sha256-vJYvNo8d2be+vYPznYhEJrQ/CCAJ8SGFNY0bTDzKRvI="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -13209,12 +13209,12 @@
     "hash": "sha256-zubGGULUMiOLlijfkwn7FtLyHVbYdKVB2h8DBjoJVXg="
   },
   "default_upload_folder": {
-    "version": "2.0.3",
+    "version": "2.0.4",
     "t3_versions": [
       12
     ],
     "description": "Make it possible to configure the default upload folder for a certain TCA column",
-    "hash": "sha256-efjy69OmYMP8j59mVJ9jRunYC0uO/vW0cp4NfICDoYM="
+    "hash": "sha256-B5QS++Nknzy4mtJmzamwRc/gf6zCmshlsSivHO15EWM="
   },
   "defaultcontent": {
     "version": "1.0.0",
@@ -52969,13 +52969,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "solver": {
-    "version": "0.2.10",
+    "version": "0.2.11",
     "t3_versions": [
       11,
       12
     ],
     "description": "Extends TYPO3's exception handling with AI generated solutions. Problems can also be solved from command line. Several OpenAI parameters are configurable and prompts and solution providers can be customized as desired.",
-    "hash": "sha256-knTNj3SE+uhFpOD2KXwqYveEjq9N4bfZqU8AjpM6uDI="
+    "hash": "sha256-QzNDpWrhvD0B3HDi1ymSyrbR4B26r9ipPoTUY5+LcNU="
   },
   "sorp": {
     "version": "0.1.0",
@@ -61411,6 +61411,15 @@
     ],
     "description": "Add double-opt-in newsletter subscription form connected with Maileon to your Typo3 sites",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "typo3_ohdear_health_check": {
+    "version": "11.4.0",
+    "t3_versions": [
+      10,
+      11
+    ],
+    "description": "TYPO3 Oh Dear Health Check",
+    "hash": "sha256-XOzv5hfunFRv80dx7yi6BsFxWAsCqPRwexm11RwzIAQ="
   },
   "typo3_phone": {
     "version": "1.3.0",
