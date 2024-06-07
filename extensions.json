@@ -4957,12 +4957,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "bm_image_gallery": {
-    "version": "6.1.0",
+    "version": "6.2.0",
     "t3_versions": [
       12
     ],
     "description": "Simple gallery using file collections.",
-    "hash": "sha256-v/M1tnoup2jFleXrmPn0aJG7PfDiALdcPYtbPHGWu7Q="
+    "hash": "sha256-PGzlcYzd26eQDKxOcru62oWtVG/P1uWJAYHnnLxceU0="
   },
   "bm_lofuc": {
     "version": "0.1.1",
@@ -17391,6 +17391,14 @@
     "description": "Create single and recurring events",
     "hash": "sha256-gbfeIMB+7d+LxjOnzjJDQBQAc+ypLIQKfx0sg0bdkew="
   },
+  "events2_reserve_connector": {
+    "version": "1.0.0",
+    "t3_versions": [
+      12
+    ],
+    "description": "This extension provides extended functionalities for integrating Events2 and Reserve extension.",
+    "hash": "sha256-o6yB2pPHiADHdq8EMCfykSa4VBbW7f6NuMpEdR045Mo="
+  },
   "evgallery": {
     "version": "2.9.0",
     "t3_versions": [
@@ -19447,14 +19455,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "file_list": {
-    "version": "3.1.1",
+    "version": "3.1.2",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "This extension provides a frontend plugin which shows a list of files and folders in a specified directory on the file system (comparable to Apache directory listing) or using more advanced FAL selectors (categories, collection of files, ...). This extension may also be used for creating image galleries. Default templates are Bootstrap-ready.",
-    "hash": "sha256-1JyESVQzyga8XbmzI5sPsOT/WtgcQays4i9QXl7iVXM="
+    "hash": "sha256-LFL1ZLKXgU3/k5vehvPiOH6cC5g5ygNtbdbqrdjz8pM="
   },
   "file_ref_list": {
     "version": "0.1.1",
@@ -43982,12 +43990,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "powermail": {
-    "version": "12.3.4",
+    "version": "12.3.5",
     "t3_versions": [
       12
     ],
     "description": "Powermail is a well-known, editor-friendly, powerful",
-    "hash": "sha256-f+J5ASQpsUBLvxv3i5Qp1rmLOxk0V+2b7WL0uht93Fo="
+    "hash": "sha256-F5NhqVfeiaJ9B9feeczZTSBvPPOhc5u5PhekjFtUGgo="
   },
   "powermail2document": {
     "version": "1.6.1",
@@ -59890,13 +59898,13 @@
     "hash": "sha256-t1mWTkbgUEvH7RpuAUb5um5Sjzne+TKhd3VgKvIqC04="
   },
   "translatelabels": {
-    "version": "2.3.7",
+    "version": "2.3.9",
     "t3_versions": [
       10,
       11
     ],
     "description": "This extension extends the TYPO3 translation handling by translation records that can be edited by backend users. In this way backend users are able to translate labels without having access to the language files.",
-    "hash": "sha256-Eq/RmuD4mXkJE9cDZXqXxpwNXJ5JQz5+lqZGsmHQZnw="
+    "hash": "sha256-sf4fkQTseDL+EdQH5v9oww6/n5MZ9WkoentgcLQRspQ="
   },
   "translationapi": {
     "version": "2.0.0",
