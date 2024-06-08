@@ -3538,12 +3538,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "aws_sdk_php": {
-    "version": "3.311.1",
+    "version": "3.311.2",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-vJYvNo8d2be+vYPznYhEJrQ/CCAJ8SGFNY0bTDzKRvI="
+    "hash": "sha256-dep8X8P0SZ9i6ApKTwYVvnvoRx4lGoNbL/4MgkB5v1I="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -5331,12 +5331,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "brofix": {
-    "version": "6.0.3",
+    "version": "6.0.4",
     "t3_versions": [
       12
     ],
     "description": "Check for broken links and fix them via a backend module (forked from core linkvalidator)",
-    "hash": "sha256-hloDmiZk1xtz6Qg5YdfVK5QA51xLpbQvbxuSMu+CcBU="
+    "hash": "sha256-dUkJJ/azI7Kk0qPQHwfdvx3sJOd93Ni0PqofDN5q4Fg="
   },
   "browser": {
     "version": "10.0.3",
@@ -15440,13 +15440,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "dpn_glossary": {
-    "version": "5.2.3",
+    "version": "5.2.4",
     "t3_versions": [
       11,
       12
     ],
     "description": "Glossary extension with page parser",
-    "hash": "sha256-b0vtfmam6UUaEL822brw7CQQWFj8mlueINmbN5pSDZ8="
+    "hash": "sha256-NBBMD7UITULD6jkDoFPUfpO55CsVOjS7ePTVZW5ogMk="
   },
   "dr_blob": {
     "version": "2.3.2",
@@ -20869,12 +20869,12 @@
     "hash": "sha256-iDaeYBLUD6MgI5uRpy9npOtzwjV5ZgeTG1eXl03ESnI="
   },
   "form_extended": {
-    "version": "12.1.0",
+    "version": "12.1.1",
     "t3_versions": [
       12
     ],
     "description": "Multi upload field, double opt in method and other",
-    "hash": "sha256-1trlrF8ZCSVSn46q/8imJghVY95YdLB6enrNk5Z2lps="
+    "hash": "sha256-cf5KpR7kapRZHwEnLoxG3VDs2nH4eQx4grR+BjwUneI="
   },
   "form_extension_tut": {
     "version": "0.0.1",
@@ -29693,14 +29693,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "klaro_consent_manager": {
-    "version": "1.8.2",
+    "version": "1.8.3",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Functionally complete, flexible TYPO3 integration of Klaro! Consent Management by KIProtect. Klaro! is a powerful tool that protects your visitors' privacy and data and helps you run a GDPR compliant website.",
-    "hash": "sha256-Xg18wGIiorcc4AwnWavh08W6SOTpznDxntQTExfovnY="
+    "hash": "sha256-UbKqRx3OxUATYtEBtQFQ07OHBYpyxL1/7MYrusNL/yc="
   },
   "klarokratie": {
     "version": "12.4.6",
@@ -33416,12 +33416,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "media2click": {
-    "version": "3.3.3",
+    "version": "3.4.0",
     "t3_versions": [
       12
     ],
     "description": "Render external content like videos and iframes with privacy in mind: User has to click on placeholder to load the actual content.",
-    "hash": "sha256-FR3DokRPeFuSWHc0DF0b1HfPFhRPUWebz+6BnyjWRTY="
+    "hash": "sha256-ZfBmM6lJCDYngouP6gX1VnLsnaS0/ZrVijYqlUwhE4g="
   },
   "media_center": {
     "version": "1.0.3",
@@ -39831,13 +39831,13 @@
     "hash": "sha256-3Qr9dpQ5dJf1Sr4y1JBIxIWQ0Nq8tGqns7ftIprGDCU="
   },
   "oauth2_server": {
-    "version": "1.5.2",
+    "version": "1.5.3",
     "t3_versions": [
       10,
       11
     ],
     "description": "OAuth2 server for TYPO3 based on PHP League's OAuth2 Server.",
-    "hash": "sha256-vKn8AKOzTwSHz1zicIyzAyAvKE/wdApKacolgAKj/dg="
+    "hash": "sha256-N476l/iBUh0Yju+gC2hd+EDgcG0vf3KmyVxiBN+OfVg="
   },
   "oauth_openid_single_sign_on": {
     "version": "1.0.8",
