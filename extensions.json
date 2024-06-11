@@ -3537,12 +3537,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "aws_sdk_php": {
-    "version": "3.311.2",
+    "version": "3.312.0",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-dep8X8P0SZ9i6ApKTwYVvnvoRx4lGoNbL/4MgkB5v1I="
+    "hash": "sha256-Nvbc7UgFKnv+34yL8t2+ewlXF/8q9/V3m23CHpnryhQ="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -6848,22 +6848,22 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "campus_events_connector": {
-    "version": "4.0.3",
+    "version": "4.0.4",
     "t3_versions": [
       11,
       12
     ],
     "description": "Connecting the event software campus events with TYPO3, to import the event data into TYPO3 as data records. Get further information about Campus Events: www.campus-events.com",
-    "hash": "sha256-vH1HIqfcgwutrfO6HtWQ13NKE+Kp0hq/OcmS676swxc="
+    "hash": "sha256-4ieM6LsyY/0QMi64gBnv+l3ePmNTpi488YRPz8MDYyw="
   },
   "campus_events_convert2news": {
-    "version": "4.0.2",
+    "version": "4.0.3",
     "t3_versions": [
       11,
       12
     ],
     "description": "",
-    "hash": "sha256-dfWVota5+mk3VBCCZ8OC27nOkvFQb1Yr40Gfr5iggZU="
+    "hash": "sha256-w0CWEMv+W+4rxflVHoUtnJkU1pKXw6NIpyl2ar5h9y8="
   },
   "campus_events_convert2ttnews": {
     "version": "1.0.1",
@@ -10512,6 +10512,14 @@
     ],
     "description": "Adds a better preview for the content elements: html, table and bullets.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "countdown_element": {
+    "version": "1.0.0",
+    "t3_versions": [
+      12
+    ],
+    "description": "Powerful TYPO3 extension to display countdown timers.",
+    "hash": "sha256-+vcyBBNs87iLpiElzqgNao3yQTFpytuw9W1OFM5TLsg="
   },
   "counter": {
     "version": "1.0.2",
@@ -18296,13 +18304,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fal_securedownload": {
-    "version": "5.0.6",
+    "version": "5.0.7",
     "t3_versions": [
       11,
       12
     ],
     "description": "Secure download of assets. Makes it possible to secure FE use of assets/files by setting permissions to folders/files for fe_groups.",
-    "hash": "sha256-MTilCZbSONmu0lhtdKtIOb0IQnAWlZY+nAc3CupxZ2I="
+    "hash": "sha256-dh2RqCcOwBG06curwt2jurt1iBmBHZLwaIE68rigwuI="
   },
   "fal_sftp": {
     "version": "4.3.0",
@@ -22037,6 +22045,15 @@
     "description": "Add Google Maps with single or multi location markers to your website and stay GDPR compliant! Your website viewers will be able to manage their cookie preferences and view the content only if consented. Stay GDPR compliant when your website is scanned by any Cookie or GDPR Scanner!",
     "hash": "sha256-vpiY4HlMtCljI62RZQEoKfM9pZHg876Ytpq7o6oL0AM="
   },
+  "gdpr_extensions_com_mt": {
+    "version": "1.0.0",
+    "t3_versions": [
+      11,
+      12
+    ],
+    "description": "Track your website viewers behavior and get your user analytics but only if they consent to! Stay GDPR compliant when your website is scanned by any Cookie or GDPR Scanner, when using Matomo Analytics.",
+    "hash": "sha256-o0jUdYh13vWGC1Hl5QQzgmO5yp6DAVZ9X/diIJ/4sgY="
+  },
   "gdpr_extensions_com_tiktok": {
     "version": "1.0.3",
     "t3_versions": [
@@ -23862,12 +23879,12 @@
     "hash": "sha256-e8c+S9ALI6DFfS4LVMPqVRBlVh6qjuZMJcujaSv0sVo="
   },
   "hh_simple_job_posts": {
-    "version": "4.1.0",
+    "version": "4.1.1",
     "t3_versions": [
       12
     ],
     "description": "Adds plugins for list / show job postings with meta-data and schema.org stuff. Uses tt_address for job-contacts and job-location.",
-    "hash": "sha256-PReRPxqIhYFZj3/FjlBcu5na5V1myCKD7Vz0WtK/WfQ="
+    "hash": "sha256-V8gsVhKmKdIFTYNpHbMuSOLPlYEeM52UohZLpNXs+Fo="
   },
   "hh_slider": {
     "version": "0.5.1",
@@ -32803,13 +32820,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "matomo_integration": {
-    "version": "2.1.1",
+    "version": "2.2.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Matomo integration for TYPO3",
-    "hash": "sha256-Aw5RikN2ZVm6eMc+cr7X6JphSVPzs3S31XwuyoYTLF8="
+    "hash": "sha256-390h1sKZXNrI43YiyhaaIWOvcX6WSN/oGaUAUYgwqB0="
   },
   "matomo_optout": {
     "version": "1.2.0",
@@ -39171,13 +39188,13 @@
     "hash": "sha256-WgYFfbJb1bFc5Dqt1IqyVCjoRjCisihNmQmpw/4q8RQ="
   },
   "ns_cloudflare": {
-    "version": "1.0.2",
+    "version": "1.0.3",
     "t3_versions": [
       11,
       12
     ],
-    "description": "The TYPO3 Cloudflare Extension simplifies cache management, offering an efficient solution for TYPO3 administrators and developers. Seamlessly integrating with Cloudflare, a global leader in web performance and security, this extension provides advanced features to optimize, secure, and structure your online presence.Compatible with TYPO3 version 12. ",
-    "hash": "sha256-cVNZM+egUt4nVMtA9qDSWqg8P5WfHGe43nAZOJ3eYzc="
+    "description": "",
+    "hash": "sha256-/280QR/TsvRchum0/fsMvTSUoWFnaH5cIQpLpz5roi8="
   },
   "ns_comments": {
     "version": "12.1.1",
@@ -65797,12 +65814,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "z7_semantilizer": {
-    "version": "4.1.0",
+    "version": "4.1.1",
     "t3_versions": [
       12
     ],
     "description": "Simplify your semantic heading structure.",
-    "hash": "sha256-IcYOQD7UldEmteTtsBtrqQGnMBstvqzoBUhqCir1gP8="
+    "hash": "sha256-SbpYXOXoC43hlHw/gYguHXFtallOVVBw5M60eoUMXOY="
   },
   "zabbix_client": {
     "version": "12.2.2",
