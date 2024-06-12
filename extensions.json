@@ -3537,12 +3537,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "aws_sdk_php": {
-    "version": "3.312.0",
+    "version": "3.313.0",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-Nvbc7UgFKnv+34yL8t2+ewlXF/8q9/V3m23CHpnryhQ="
+    "hash": "sha256-NQxO+graYFBGMWWw9L7sQdHV8SP8iSH88dSp76Tll/4="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -39429,21 +39429,21 @@
     "hash": "sha256-CmoOlOgLQMipD9K0zQUZCjcqUh8PRGFMoJX7UAkCXqA="
   },
   "ns_news_advancedsearch": {
-    "version": "12.0.2",
+    "version": "12.1.0",
     "t3_versions": [
       12
     ],
     "description": "Enhance your TYPO3 News Extension with the Advanced TYPO3 News Extension. Expand your news search capabilities with detailed, precise results and the ability to filter content by specific fields using the Advanced Extension. This extension incorporates specially crafted search algorithms to ensure both speed and relevance in your searches. ",
-    "hash": "sha256-K05vifu/avD/9wqf08bFcnS8lOD7YvrV5DD2wh0eQdQ="
+    "hash": "sha256-zQmWJSMinjB3D6hWGO0llBhi0U2FvcIa9/Lt1aXOBpc="
   },
   "ns_news_comments": {
-    "version": "12.2.0",
+    "version": "12.2.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "All New TYPO3 News Comment Extension helps add comments to your news pages and articles. It comes with a variety of features for managing and customizing comments. It is designed to enhance user experience with a simple interface and is SEO-friendly.",
-    "hash": "sha256-R2VOgSVp5GouEPE8s156yyV/MQiJoq71PfLeCKUkdzc="
+    "hash": "sha256-Hlgq6IiXuaXjmVCzX8zHUUTgTuWIGVHMOALHB/SGAPg="
   },
   "ns_news_slider": {
     "version": "12.0.2",
@@ -50395,20 +50395,20 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sg_vimeo": {
-    "version": "4.0.0",
+    "version": "4.2.0",
     "t3_versions": [
       12
     ],
     "description": "A solution for embedding Vimeo videos, playlists, or channels easily into TYPO3 pages.",
-    "hash": "sha256-yy0GTXHQDy8AmKTYytIoseVgNxfL/8tRxBWloWCpokY="
+    "hash": "sha256-s3MF/IL+FT+YLsR0dtPSpSHQCNN+IUsJfyUamcoAIvI="
   },
   "sg_youtube": {
-    "version": "7.0.0",
+    "version": "7.2.0",
     "t3_versions": [
       12
     ],
     "description": "A solution for embedding YouTube videos, playlists, or channels easily into TYPO3 pages.",
-    "hash": "sha256-P234OPU1GKMDMqR0WWIs1g0oXI1Js6D2bJeA3K7CvWg="
+    "hash": "sha256-orCzmRbCeNElnqHsx6wrgdJoWN/ZfR/FOHv/UgaIIOo="
   },
   "sg_zfeeditlib": {
     "version": "0.8.12",
@@ -63068,14 +63068,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "we_cookie_consent": {
-    "version": "4.0.4",
+    "version": "4.0.6",
     "t3_versions": [
       10,
       11,
       12
     ],
-    "description": "Cookie Consent Panel (Optin) with DSGVO/GDPR compliant use of cookies. Preconfigured modules for Google Analytics, Facebook and other frequently used services. Arbitrary expandability with tracking scripts that generate cookies on your website. Support for Google Tag Manager incl. Google Consent Mode and Google Consent Mode v2. Easy export for Google Tag Manager. Third-party cookies and scripts are only loaded when active consent is given. Website visitors can edit their privacy settings at any time. Automatic update of cookie information when new cookies/scripts are inserted with secure consent procedure. Cookies can be automatically added to the privacy policy via a plugin. Multilingual and full support for desktop, tablet and mobile. Four standard modes for displaying the content solution. Based on Klaro!.",
-    "hash": "sha256-TD4PM8aWz98NtfAlKg1/nWkeba6/BKIPBSzxc03Q5Gw="
+    "description": "Cookie Consent Panel (Optin) with DSGVO/GDPR-compliant use of cookies. Preconfigured modules for Google Analytics, Facebook and other frequently used services. Any extensibility with tracking scripts that generate cookies on your website Support for Google Tag Manager incl. Google Consent Mode and Google Consent Mode v2. Easy export for Google Tag Manager. Third-party cookies and scripts are only loaded if active consent has been given. Website visitors can edit their privacy settings at any time. Automatic update of cookie information when new cookies/scripts with secure consent procedure are inserted. Cookies can be automatically added to the privacy policy via a plugin Multilingual and full support for desktop, tablet and mobile. Four default modes for displaying the content solution, including the display of an always-on icon to access the privacy settings. Based on Klaro!",
+    "hash": "sha256-2JYIsswY9gJSNZnGKfONDrmcU/XuhsAxK8Rj6KHa4VM="
   },
   "we_dam2fal": {
     "version": "1.0.12",
