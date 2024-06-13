@@ -3537,12 +3537,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "aws_sdk_php": {
-    "version": "3.313.0",
+    "version": "3.314.0",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-NQxO+graYFBGMWWw9L7sQdHV8SP8iSH88dSp76Tll/4="
+    "hash": "sha256-vhfIOVr6BCCxotW1P875mGkUQvw4Rj6BKT86WTg6WFE="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -5956,13 +5956,12 @@
     "hash": "sha256-3ahWuDt6XEsqtoaamZ6X32py9VvRJUCYCMu/+UoQp88="
   },
   "bw_icons": {
-    "version": "2.1.4",
+    "version": "3.0.1",
     "t3_versions": [
-      10,
-      11
+      12
     ],
     "description": "Form element for icon selection. Generates a browsable gallery of your icon fonts and SVGs - just link your stylesheet or image directory that you use in the frontend! Works with FontAwesome, Bootstrap, Icomoon.. Optionally adds icon field to pages and tt_content.",
-    "hash": "sha256-l7Ke7OXseSTX2PdTSMy7XU4cPLjfa8LHl7q3AEDziHM="
+    "hash": "sha256-14jk3ILUY6K3dUNOBGbiu1jPhcrVAdoKttma4iapX/M="
   },
   "bw_jobs": {
     "version": "3.1.1",
@@ -10514,12 +10513,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "countdown_element": {
-    "version": "1.0.0",
+    "version": "1.0.2",
     "t3_versions": [
       12
     ],
     "description": "Powerful TYPO3 extension to display countdown timers.",
-    "hash": "sha256-+vcyBBNs87iLpiElzqgNao3yQTFpytuw9W1OFM5TLsg="
+    "hash": "sha256-gvWaczXO4+wy/EWwL+yrCIJFpCqTb4t4bgGBo3x6ITQ="
   },
   "counter": {
     "version": "1.0.2",
@@ -10687,12 +10686,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "crawler": {
-    "version": "12.0.3",
+    "version": "12.0.4",
     "t3_versions": [
       12
     ],
     "description": "Libraries and scripts for crawling the TYPO3 page tree.",
-    "hash": "sha256-A9lxK/7UVV7YkZZmVClIEWrtRfXx/gOBi324Rz/migU="
+    "hash": "sha256-zvPNlM1OFJNo7sffcTv+SGjAF7gA1dMeA4n4HKq1zOE="
   },
   "createarp": {
     "version": "0.4.0",
@@ -12784,13 +12783,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "daycarecenters": {
-    "version": "5.0.0",
+    "version": "6.0.0",
     "t3_versions": [
-      10,
-      11
+      12
     ],
     "description": "This extensions lets create and show you records of day care centers",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-Sp/5s7U5aRC4Ih7WTMkmUVgJyupdGpscxZ8Iy7pSN3Y="
   },
   "db_adm": {
     "version": "0.1.0",
@@ -39645,12 +39643,12 @@
     "hash": "sha256-hrks1LWCZh7LfUfMZ+edapH26cjxeyYwFLF7PB9mMFU="
   },
   "ns_youtube": {
-    "version": "12.1.1",
+    "version": "12.1.2",
     "t3_versions": [
       12
     ],
     "description": "Using Youtube TYPO3 Extension you can display your YouTube videos directly on your TYPO3 site within a video box, allowing visitors to view them without being redirected to www.youtube.com. It easily integrates all YouTube features, such as Simple Video, Channel and Playlist management, Live-streaming, and engagement options such as likes and subscribe. ",
-    "hash": "sha256-yOMvluIqOh19x2ilAsTC4Q9HYiVvA254a3FNEHH7c4o="
+    "hash": "sha256-ivbrcJzWZ9GfmuiYMo16UM7+FrorZltMhuDzrfl3Fr4="
   },
   "ns_zoho": {
     "version": "1.0.3",
@@ -56034,14 +56032,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "t3monitor": {
-    "version": "2.0.4",
+    "version": "2.0.5",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Monitors TYPO3 installation for updates and security issues (Requires an account on www.t3monitor.de)",
-    "hash": "sha256-B5DHlB22jm8PpnDKXu2zw1JVHBVVeLxxpRQ3nKLHRzA="
+    "hash": "sha256-6JJx+GxmrYuNsnzbWYKjIOcXLeAhi8H5LH3UVuiFrAk="
   },
   "t3monitoragent": {
     "version": "0.1.0",
@@ -62824,14 +62822,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "w_query2csv": {
-    "version": "0.6.6",
+    "version": "0.6.7",
     "t3_versions": [
-      9,
-      10,
-      11
+      12
     ],
     "description": "This is a CSV generator, which combines simplicity with high configurability and data processing powers. It provides download points",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-/9vdI9nlne3kmvM4iYrQpn95WViAc4lHRRqEcR2xB68="
   },
   "w_rating": {
     "version": "0.2.1",
@@ -65169,12 +65165,12 @@
     "hash": "sha256-QFor0i58XkyY4koHNHs8aWUSc/2nyIiPIy+Eru/mOJw="
   },
   "xima_typo3_manual": {
-    "version": "1.1.0",
+    "version": "1.2.0",
     "t3_versions": [
       12
     ],
     "description": "This extension provides a new page type for creating an editor manual right in the TYPO3 backend.",
-    "hash": "sha256-Q7OhZfFYXbX1xjXHmnpgNcKSv9s8SR824dhZBlmNTSY="
+    "hash": "sha256-Kbfq6NSBYFxtRRGaJpSez5egdGnA+xHIJf96Seeeppc="
   },
   "xing": {
     "version": "1.0.3",
