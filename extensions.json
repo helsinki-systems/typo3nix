@@ -3537,12 +3537,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "aws_sdk_php": {
-    "version": "3.314.0",
+    "version": "3.314.1",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-vhfIOVr6BCCxotW1P875mGkUQvw4Rj6BKT86WTg6WFE="
+    "hash": "sha256-2WzelTuK0JmN12ugLKdNN2KrczdHkIdjl+Yil7QLSrs="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -22051,6 +22051,15 @@
     ],
     "description": "Track your website viewers behavior and get your user analytics but only if they consent to! Stay GDPR compliant when your website is scanned by any Cookie or GDPR Scanner, when using Matomo Analytics.",
     "hash": "sha256-o0jUdYh13vWGC1Hl5QQzgmO5yp6DAVZ9X/diIJ/4sgY="
+  },
+  "gdpr_extensions_com_sfc": {
+    "version": "1.0.0",
+    "t3_versions": [
+      11,
+      12
+    ],
+    "description": "Add your social feed through curator.io with our 2xClick solution where the users can manage their cookie preferences any time!",
+    "hash": "sha256-eRU1pgkJBcgjlUCOGEtZZAlmuOjr3JauZu848kUV02Q="
   },
   "gdpr_extensions_com_tiktok": {
     "version": "1.0.3",
