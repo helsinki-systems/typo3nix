@@ -5956,12 +5956,12 @@
     "hash": "sha256-3ahWuDt6XEsqtoaamZ6X32py9VvRJUCYCMu/+UoQp88="
   },
   "bw_icons": {
-    "version": "3.0.1",
+    "version": "3.1.0",
     "t3_versions": [
       12
     ],
     "description": "Form element for icon selection. Generates a browsable gallery of your icon fonts and SVGs - just link your stylesheet or image directory that you use in the frontend! Works with FontAwesome, Bootstrap, Icomoon.. Optionally adds icon field to pages and tt_content.",
-    "hash": "sha256-14jk3ILUY6K3dUNOBGbiu1jPhcrVAdoKttma4iapX/M="
+    "hash": "sha256-BSVyleJhnW3VH5+Q5WdA4kH+rOw5W0vd96maLrxr6U0="
   },
   "bw_jobs": {
     "version": "3.1.1",
@@ -16220,12 +16220,13 @@
     "hash": "sha256-IURLA09rFCcs7/s8u2XiHi6X43OK4/RBYXs1T5hp5xU="
   },
   "easydb": {
-    "version": "2.0.0",
+    "version": "3.0.1",
     "t3_versions": [
-      11
+      11,
+      12
     ],
     "description": "Integration of easydb asset management in TYPO3 CMS",
-    "hash": "sha256-NdAMTAZemroXEI3PfCf6YSlso8FqrUKBTqx/bW0S46U="
+    "hash": "sha256-jLgLuXRpo2hk/z4whOTPLXfhNqp9eWZ/sR217DONY7k="
   },
   "easyforms": {
     "version": "0.9.5",
@@ -27161,21 +27162,21 @@
     "hash": "sha256-BCGr1OFl/gNTgQNdV4chyvt+N3/QARENfD32bgBqP34="
   },
   "jar_pugtemplate": {
-    "version": "1.0.11",
+    "version": "1.0.12",
     "t3_versions": [
       10,
       11
     ],
     "description": "Tools for rendering PUG templates in TYPO3",
-    "hash": "sha256-/sx+01F5PS0ebbV4BIZky1LLV0Cp98BaI3SqsXw6Xy0="
+    "hash": "sha256-iTF4mYfpa4Ls6iU9OiQL3mbSnwddK2lmKmVoKW4O4qY="
   },
   "jar_utilities": {
-    "version": "2.0.5",
+    "version": "2.0.7",
     "t3_versions": [
       12
     ],
     "description": "Utility classes that simplify TYPO3 development.",
-    "hash": "sha256-UjvzPZMOgMgzUgTHWxfPCijMOrnoO13b45dJgxxXV+o="
+    "hash": "sha256-XDCvQjcw6iPu9pfDpMSzDTDAuh2jgQuo+ajc2mbHSAs="
   },
   "jasmine": {
     "version": "0.1.0",
@@ -31754,13 +31755,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "lux": {
-    "version": "35.3.0",
+    "version": "35.4.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Living User Experience - LUX - the Marketing Automation tool for TYPO3.",
-    "hash": "sha256-3Pxjga45kZQ0cPFS5LQUO20vkhM9jzb43RM2aHfTqOQ="
+    "hash": "sha256-DSnJv7M+IZzFsfBgTsUeT0fJRfyBlPMn0Z7//Z614Z8="
   },
   "luxletter": {
     "version": "26.1.0",
@@ -33474,12 +33475,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "media_processing": {
-    "version": "0.4.0",
+    "version": "0.5.0",
     "t3_versions": [
       12
     ],
     "description": "Integrates various image processing libraries and SaaS cloud services into TYPO3 by leveraging their APIs to process images.",
-    "hash": "sha256-7qGknGNFZ5N0OeQScCYbXD/ofCiEFxHJhyHoBcfe08E="
+    "hash": "sha256-N0bNkJ08PCHULxoRRaU/OI63XvlgEeKegZvy8AO4clU="
   },
   "media_upload": {
     "version": "2.0.0",
@@ -58283,14 +58284,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "theodia": {
-    "version": "2.1.1",
+    "version": "2.2.0",
     "t3_versions": [
-      10,
       11,
       12
     ],
     "description": "Fetch data from theodia.org to display the Mass schedule for the various places of worship in a parish or pastoral unit.",
-    "hash": "sha256-K08Co2Ag994KNw8zG8pzQ+yUKvy66l/v8OmNjhOOanM="
+    "hash": "sha256-lWTxnZpbhHOXREl529zpXUj4+coGfrMk4iaUac0l/78="
   },
   "thomasnu": {
     "version": "6.0.0",
