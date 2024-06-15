@@ -3537,12 +3537,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "aws_sdk_php": {
-    "version": "3.314.1",
+    "version": "3.314.2",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-2WzelTuK0JmN12ugLKdNN2KrczdHkIdjl+Yil7QLSrs="
+    "hash": "sha256-PdTMA/KLZzd+6VA/XxHRIa+P3HDB6USApeLRCAGnIv0="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -14084,12 +14084,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "div2007": {
-    "version": "2.1.4",
+    "version": "2.1.5",
     "t3_versions": [
       12
     ],
     "description": "This library offers classes and functions to other TYPO3 extensions. Replacement for tslib_pibase methods.",
-    "hash": "sha256-wewc4DnIJgLTqmAeorSFQKJuSO7Nk8pURi73MpJopTw="
+    "hash": "sha256-MpjufySeNaieGqunFTlmxW7e2Dz4gHVYFuL0uG8EzTk="
   },
   "diva": {
     "version": "8.7.1",
@@ -16220,13 +16220,13 @@
     "hash": "sha256-IURLA09rFCcs7/s8u2XiHi6X43OK4/RBYXs1T5hp5xU="
   },
   "easydb": {
-    "version": "3.0.1",
+    "version": "3.0.2",
     "t3_versions": [
       11,
       12
     ],
-    "description": "Integration of easydb asset management in TYPO3 CMS",
-    "hash": "sha256-jLgLuXRpo2hk/z4whOTPLXfhNqp9eWZ/sR217DONY7k="
+    "description": "Integration of easydb / fylr asset management in TYPO3",
+    "hash": "sha256-msDiRIWJgL9FB8loeOil3TKSyVc38pl3uZkfBxSRuOU="
   },
   "easyforms": {
     "version": "0.9.5",
@@ -28712,13 +28712,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "jve_upgradewizard": {
-    "version": "12.4.11",
+    "version": "12.4.16",
     "t3_versions": [
       11,
       12
     ],
     "description": "Fixes the ways Typoscript and TSconfig included files have been added in database.",
-    "hash": "sha256-kaJ7+QHyQvvWqijsN/z4+uN4rqLA6lz5JmL/byebzB0="
+    "hash": "sha256-WdZef9Ssni20+gweHTANjYmzY0X8Qz6rAuEzzKGTGXY="
   },
   "jw_extjsdirect": {
     "version": "0.0.7",
