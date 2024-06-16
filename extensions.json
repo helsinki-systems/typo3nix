@@ -28712,13 +28712,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "jve_upgradewizard": {
-    "version": "12.4.16",
+    "version": "12.4.18",
     "t3_versions": [
       11,
       12
     ],
-    "description": "Fixes the ways Typoscript and TSconfig included files have been added in database.",
-    "hash": "sha256-WdZef9Ssni20+gweHTANjYmzY0X8Qz6rAuEzzKGTGXY="
+    "description": "Fixes the ways Typoscript and TSconfig included files: in database and in template extensions",
+    "hash": "sha256-StweayqpQ6js7iJyAdGzK9BcFOU+jNHZjmsieES6tR0="
   },
   "jw_extjsdirect": {
     "version": "0.0.7",
@@ -49908,12 +49908,12 @@
     "hash": "sha256-YkZKrMTUerUy8yJmBkOYHP9WIEzgaGqMZkNqGeA4VIY="
   },
   "sf_event_mgt": {
-    "version": "7.4.3",
+    "version": "7.5.0",
     "t3_versions": [
       12
     ],
     "description": "Configurable event management and registration extension based on ExtBase and Fluid",
-    "hash": "sha256-SbDEN7zZ4a9sKu+T+GC92Ab8MJir4jPBf7eQRkAk1aY="
+    "hash": "sha256-ip37sLmdg4MhOn/a6doIWMpgrpCjLGCHl1TeON8gICw="
   },
   "sf_event_mgt_contentelements": {
     "version": "2.0.1",
@@ -51899,12 +51899,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "skjsonlylightbox": {
-    "version": "0.4.0",
+    "version": "0.4.1",
     "t3_versions": [
       12
     ],
     "description": "Provides the pure Javascript GLightbox for text with image and tx_news. Based on jn_lighterbox",
-    "hash": "sha256-LvxITTif/6sX/YhPPg1dFuMHdLaieAB43rv7RB7KsRY="
+    "hash": "sha256-2Jbfcgfhzgl+lbxwuLS/vOECC1DZ7CE6bP7rtZzYfU8="
   },
   "skm_locallang_js": {
     "version": "1.0.0",
@@ -54446,14 +54446,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "static_info_tables_zh": {
-    "version": "7.0.1",
+    "version": "8.0.0",
     "t3_versions": [
-      9,
-      10,
-      11
+      12
     ],
     "description": "Chinese (zh) language pack for the Static Info Tables providing localized names for countries, currencies and so on. Dev on: https://github.com/lochmueller/static_info_tables_zh",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-2R8oCWKd5G3bZTY9MPatnegnTWtFW1aPq6WS5ZJLr1s="
   },
   "staticfilecache": {
     "version": "14.0.1",
