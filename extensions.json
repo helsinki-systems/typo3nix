@@ -10513,12 +10513,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "countdown_element": {
-    "version": "1.0.2",
+    "version": "1.1.0",
     "t3_versions": [
       12
     ],
     "description": "Powerful TYPO3 extension to display countdown timers.",
-    "hash": "sha256-gvWaczXO4+wy/EWwL+yrCIJFpCqTb4t4bgGBo3x6ITQ="
+    "hash": "sha256-6/rYnf8i16c7KvlR9D8xN7kdNNoL6Y5HyFb2PExo5V0="
   },
   "counter": {
     "version": "1.0.2",
@@ -11478,14 +11478,15 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "csv_labels": {
-    "version": "1.0.2",
+    "version": "1.0.3",
     "t3_versions": [
       9,
       10,
-      11
+      11,
+      12
     ],
     "description": "Use CSV files to provide translation labels to TYPO3",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-z3WiNDHYw3CKrIT5Dve0ZGbfBQjxCmMEGTC/1bZCdOs="
   },
   "csv_table": {
     "version": "0.1.0",
@@ -42771,13 +42772,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "personio_jobs": {
-    "version": "0.5.10",
+    "version": "0.5.11",
     "t3_versions": [
       11,
       12
     ],
     "description": "Extension to integrate jobs from Personio Recruiting API",
-    "hash": "sha256-3tPIK57N8OAa9WZ3JOWIK3hDHkxp1AJJXZ1wRg7TVKE="
+    "hash": "sha256-vPPumisLvajviQwp8j+8fRtAsjZ3IKw+i0uvq1cpgZ0="
   },
   "personnel": {
     "version": "4.0.2",
@@ -61519,6 +61520,16 @@
     "t3_versions": [],
     "description": "This extension provides a french translation of the documentation extension typo3_tut. This basic tutorial for editors explains how to add or change content on an existing website in TYPO3. It provides the most basic step-by-step instructions to get the j",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "typo3_vite": {
+    "version": "1.1.6",
+    "t3_versions": [
+      10,
+      11,
+      12
+    ],
+    "description": "Vite for Typo3",
+    "hash": "sha256-zNqyGA5Ed2hRNemq+EB6Oys5Rg4BPRwdBUQKRR2n9CQ="
   },
   "typo3_webservice": {
     "version": "0.3.8",
