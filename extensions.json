@@ -3097,13 +3097,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "auth0": {
-    "version": "5.0.3",
+    "version": "5.0.4",
     "t3_versions": [
       11,
       12
     ],
     "description": "This extension allows you to log into a TYPO3 backend or frontend via Auth0. Auth0 is the solution you need for web, mobile, IoT, and internal applications. Loved by developers and trusted by enterprises.",
-    "hash": "sha256-fJNMHxgBx8D/c7sRE56P3gM7VyIRjxIOEWqZEnA6Q0c="
+    "hash": "sha256-3ChuoDWP1WvxkEPUO4cpdk5XJR1Znsey4UcSwlr9eHA="
   },
   "auth_certificate": {
     "version": "0.2.0",
@@ -3537,12 +3537,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "aws_sdk_php": {
-    "version": "3.314.2",
+    "version": "3.314.3",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-PdTMA/KLZzd+6VA/XxHRIa+P3HDB6USApeLRCAGnIv0="
+    "hash": "sha256-ZTqyj3czog6f8IZVQdwdBGPbod83hfI0UelmuWcjCMg="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -4956,12 +4956,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "bm_image_gallery": {
-    "version": "6.2.0",
+    "version": "6.2.1",
     "t3_versions": [
       12
     ],
     "description": "Simple gallery using file collections.",
-    "hash": "sha256-PGzlcYzd26eQDKxOcru62oWtVG/P1uWJAYHnnLxceU0="
+    "hash": "sha256-/jfUhc6lbjTE4ALMwo9qFgDioW3vt61GSaD8Maq5ySk="
   },
   "bm_lofuc": {
     "version": "0.1.1",
@@ -7906,13 +7906,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "celum_connect_fal": {
-    "version": "2.0.12",
+    "version": "2.0.13",
     "t3_versions": [
       11,
       12
     ],
     "description": "Provides a FAL driver for the CELUM DAM.",
-    "hash": "sha256-4lckyVv2hV3xnPkCJjan3csuNMU6zCGKhI+cGoLo+yg="
+    "hash": "sha256-cU8nb4Fpzyam0W2x5OyZp4Nuk67+J2HKHK89eN7oUag="
   },
   "cen_csvexport": {
     "version": "1.1.2",
@@ -10513,12 +10513,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "countdown_element": {
-    "version": "1.1.0",
+    "version": "1.1.1",
     "t3_versions": [
       12
     ],
     "description": "Powerful TYPO3 extension to display countdown timers.",
-    "hash": "sha256-6/rYnf8i16c7KvlR9D8xN7kdNNoL6Y5HyFb2PExo5V0="
+    "hash": "sha256-WCmbxV8MX9j6MCfBdM6GyZSGMND1Bi4l+AzviM0+GDE="
   },
   "counter": {
     "version": "1.0.2",
@@ -15454,13 +15454,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "dpn_glossary": {
-    "version": "5.2.4",
+    "version": "5.3.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Glossary extension with page parser",
-    "hash": "sha256-NBBMD7UITULD6jkDoFPUfpO55CsVOjS7ePTVZW5ogMk="
+    "hash": "sha256-qUDyQ77qlAECMWtIJKOK5vPT5I4cguJOA9skxeJ2lrM="
   },
   "dr_blob": {
     "version": "2.3.2",
@@ -17399,12 +17399,12 @@
     "hash": "sha256-fW7FJmsbuCfvKGtcrpJ6zM6iWzSVTnJkqvick5+P1mI="
   },
   "events2": {
-    "version": "9.0.5",
+    "version": "9.0.6",
     "t3_versions": [
       12
     ],
     "description": "Create single and recurring events",
-    "hash": "sha256-gbfeIMB+7d+LxjOnzjJDQBQAc+ypLIQKfx0sg0bdkew="
+    "hash": "sha256-dMs/+tp4EocgBkDqitGbjE12cCqV/VGsH3QUHH8HW38="
   },
   "events2_reserve_connector": {
     "version": "1.0.0",
@@ -21489,13 +21489,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "friendlycaptcha_official": {
-    "version": "0.0.1",
+    "version": "0.1.4",
     "t3_versions": [
       11,
       12
     ],
     "description": "FriendlyCaptcha Integration for EXT:powermail and EXT:form and your custom implementation",
-    "hash": "sha256-376h8RjLmsDs2WZtrR45I1Jji4c9urWxVMEVrf0op0s="
+    "hash": "sha256-2sJWGOMAUYUOrHbnBw8jkBkcfeF0+m/Q5fORIzlx8Ic="
   },
   "frm2_newpm": {
     "version": "2.0.3",
