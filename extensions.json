@@ -44,12 +44,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "a21glossary": {
-    "version": "12.0.0",
+    "version": "12.0.1",
     "t3_versions": [
       12
     ],
     "description": "A21 Glossary - automatic conversion of all abbreviations and acronyms in the special tags for accessibility issues",
-    "hash": "sha256-lz6vx1ayuh8hwWJKIcTrkHAP/a13o7ADN1axBoaFvgA="
+    "hash": "sha256-LhAnRsJBBr9sM7HrxzNeLTeW5VWjF1f0F514yo2ttIM="
   },
   "a21glossary_advanced_output": {
     "version": "0.2.1",
@@ -541,13 +541,14 @@
     "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
   },
   "academic_bite_jobs": {
-    "version": "0.1.3",
+    "version": "1.0.1",
     "t3_versions": [
+      10,
       11,
       12
     ],
     "description": "The Academic Bite Jobs extension shows jobs from the B-Ite Job Board.",
-    "hash": "sha256-UNDYWlYgbJMH3cIRxbxpDtg7/Jh8ijDy2bJmd1AjxrY="
+    "hash": "sha256-d2ydtyPZg9WAYXoVWSaP1mQ2MIma2GfMoQhOZumQDsk="
   },
   "academic_jobs": {
     "version": "0.1.6",
@@ -3537,12 +3538,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "aws_sdk_php": {
-    "version": "3.314.3",
+    "version": "3.314.4",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-ZTqyj3czog6f8IZVQdwdBGPbod83hfI0UelmuWcjCMg="
+    "hash": "sha256-k5qTUuERqt5/+KPzDT3qdw4CuERCUiH1VXd6ndfzfF0="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -8784,12 +8785,12 @@
     "hash": "sha256-iCxnGK6/3qVrE9m1EupmJEaFkLxd3Agb1+uKZysUtJE="
   },
   "clickskeks": {
-    "version": "2.0.3",
+    "version": "2.1.0",
     "t3_versions": [
       12
     ],
     "description": "Clickskeks Cookie-Banner with Data-Protection Plugin. Requires an Clickskeks subscription.",
-    "hash": "sha256-LbmO/PnqI/OO0X2b5mCnWbzNa/+OkKpNttpDe1krBhI="
+    "hash": "sha256-54gu9sUhXHuRD9TxhP6ELUfyApEt5KAPQujuVGWCtHk="
   },
   "clicleaner": {
     "version": "1.0.0",
@@ -39446,13 +39447,13 @@
     "hash": "sha256-zQmWJSMinjB3D6hWGO0llBhi0U2FvcIa9/Lt1aXOBpc="
   },
   "ns_news_comments": {
-    "version": "12.2.1",
+    "version": "12.2.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "All New TYPO3 News Comment Extension helps add comments to your news pages and articles. It comes with a variety of features for managing and customizing comments. It is designed to enhance user experience with a simple interface and is SEO-friendly.",
-    "hash": "sha256-Hlgq6IiXuaXjmVCzX8zHUUTgTuWIGVHMOALHB/SGAPg="
+    "hash": "sha256-hTmLV6IOf1j28Zr/ZEF62nMVrnIxii5WhstxWR+Tkho="
   },
   "ns_news_slider": {
     "version": "12.0.2",
@@ -49530,13 +49531,14 @@
     "hash": "sha256-vZUu2/E12XBixt9FRR3MzcEr1M/bcXKvW+tKpYCPNDU="
   },
   "secure_filemount": {
-    "version": "1.1.1",
+    "version": "1.1.2",
     "t3_versions": [
+      10,
       11,
       12
     ],
     "description": "Allows a secure (non public) filemount for accessing only through logged in fe_user",
-    "hash": "sha256-5z+RHBBZoLznGID3srywoRclVfLbR68Dl+6L+XCUEak="
+    "hash": "sha256-ta4krw/A/QypWzIN9qXwVp1GTsWdS9yVQ4TYGHvBoGU="
   },
   "secure_login": {
     "version": "1.0.0",
@@ -64879,13 +64881,13 @@
     "hash": "sha256-N+/HOMxLSSeSEAnDXLBTjWMbxYiFHlrUiILYMRSWlqM="
   },
   "wv_file_cleanup": {
-    "version": "1.0.1",
+    "version": "2.0.1",
     "t3_versions": [
-      9,
-      10
+      11,
+      12
     ],
     "description": "Enables cleanup of unused fal records.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-deIQ1zWUUoMxokVT1SphsEbzkXSSzI808YBmXKCcQbg="
   },
   "wv_form_db_insert": {
     "version": "1.1.0",
