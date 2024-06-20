@@ -1124,10 +1124,12 @@
     "hash": "sha256-GPmlLA/TzRyGz+ZXS7ES9EuiiUjBSrXcszcZhqdf+RQ="
   },
   "address": {
-    "version": "0.1.0",
-    "t3_versions": [],
-    "description": "A basic vCard compatible data structure for address lists. You are encouraged to use this structure whenever you need addresses in your own extensions.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "version": "12.0.0",
+    "t3_versions": [
+      12
+    ],
+    "description": "Address extension with multiple contact types per address. Code is based on news extension.",
+    "hash": "sha256-BquS7gtzVhzELe6BW10csPuN3JRVVZoBGe9Bu0vk1Zw="
   },
   "address_manager": {
     "version": "4.0.7",
@@ -3538,12 +3540,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "aws_sdk_php": {
-    "version": "3.314.4",
+    "version": "3.314.5",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-k5qTUuERqt5/+KPzDT3qdw4CuERCUiH1VXd6ndfzfF0="
+    "hash": "sha256-HHXvlUp04D6lbhysxlJXbkNW01xdvDYJscEB8HwDDeQ="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -6832,12 +6834,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "camaliga": {
-    "version": "13.0.0",
+    "version": "13.0.3",
     "t3_versions": [
       12
     ],
     "description": "A carousel/gallery/map/list extension that can use the TYPO3 categories and different jQuery-plugins like Slick. Bootstrap 5 support. Indexer for ke_search.",
-    "hash": "sha256-JvRSULI5yAdakUSOLSSw+BYkR4Nq5V041p1BmyzGZ/Y="
+    "hash": "sha256-Mjqij9E/ErSvDPTCjH7g4NrzptQwJg7ZgvWZO9xzoIY="
   },
   "campaignmonitor": {
     "version": "2.0.0",
@@ -10514,12 +10516,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "countdown_element": {
-    "version": "1.1.1",
+    "version": "1.1.2",
     "t3_versions": [
       12
     ],
-    "description": "Powerful TYPO3 extension to display countdown timers.",
-    "hash": "sha256-WCmbxV8MX9j6MCfBdM6GyZSGMND1Bi4l+AzviM0+GDE="
+    "description": "Powerful TYPO3 extension to display countdown timers. Buy the PRO version: https://countdown-element.slavlee.de/free-vs-pro/",
+    "hash": "sha256-+XUHREkM/TvirxWkDje+XO6qADPnZ1YWdEEiVJXPDdU="
   },
   "counter": {
     "version": "1.0.2",
@@ -41878,13 +41880,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "partner_rating": {
-    "version": "2.0.0",
+    "version": "3.0.0",
     "t3_versions": [
-      11,
       12
     ],
     "description": "Extbase/Fluid extension that allows departments to rate collaboration partners via a front-end form. Rating values can be specified as a comma separated list of integer values. Rating values greater than a configurable limit value must be justified. This is possible either by predefined reasons or a free text input.",
-    "hash": "sha256-mCPU8kA7g+ruTLtUGbR0mwrYP1+HdQLUpWpnJqiEJ+M="
+    "hash": "sha256-KVpJuHQV45+h086GL2R63R9piVazfhKWXrkuFEOZjTg="
   },
   "party": {
     "version": "0.2.1",
