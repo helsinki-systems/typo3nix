@@ -3540,12 +3540,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "aws_sdk_php": {
-    "version": "3.314.5",
+    "version": "3.314.6",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-HHXvlUp04D6lbhysxlJXbkNW01xdvDYJscEB8HwDDeQ="
+    "hash": "sha256-bDIP4xVedh0VVXkn5JP3n3+jTJhEC+chGsYyxqxKigo="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -7019,13 +7019,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cart": {
-    "version": "8.2.0",
+    "version": "9.0.0",
     "t3_versions": [
-      10,
-      11
+      12
     ],
     "description": "Shopping Cart(s) for TYPO3",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-aHEgg/niT1umVm0Y1bVWdZeyM83N7xOhn9/eX5sdJf0="
   },
   "cart_basket_image": {
     "version": "1.0.3",
