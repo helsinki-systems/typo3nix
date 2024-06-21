@@ -14059,15 +14059,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "distributed_locks": {
-    "version": "1.4.0",
+    "version": "2.0.0",
     "t3_versions": [
-      8,
-      9,
-      10,
-      11
+      11,
+      12
     ],
     "description": "Adds a Locking Strategy for TYPO3 frontend page generation, useful on distributed systems with NFS.",
-    "hash": "sha256-grBs9KlQMv8MrH4EthgUmnb4Xaf1aKOQgMuMH6X7s0w="
+    "hash": "sha256-4e85P8KqBJcCvJ/reY8WxakRP0NUabMSEgEHG5koSO0="
   },
   "distribution_helper": {
     "version": "0.1.1",
@@ -17401,12 +17399,12 @@
     "hash": "sha256-fW7FJmsbuCfvKGtcrpJ6zM6iWzSVTnJkqvick5+P1mI="
   },
   "events2": {
-    "version": "9.0.6",
+    "version": "9.0.7",
     "t3_versions": [
       12
     ],
     "description": "Create single and recurring events",
-    "hash": "sha256-dMs/+tp4EocgBkDqitGbjE12cCqV/VGsH3QUHH8HW38="
+    "hash": "sha256-zRViIjXzNYILLVpAUuY87zBgYjXGZDQunuXPzs2fo+M="
   },
   "events2_reserve_connector": {
     "version": "1.0.0",
@@ -32178,13 +32176,13 @@
     "hash": "sha256-t0gqOIUAOKi/kMXgs47/cwYU7JK/m7fcCg8s8Rhkm+g="
   },
   "mail_logger": {
-    "version": "4.0.4",
+    "version": "4.0.5",
     "t3_versions": [
       11,
       12
     ],
     "description": "This extension logs all your outgoing mails and provides email templates and debugging tools",
-    "hash": "sha256-Sl4TWLypSF2kgYabjcSOiiFFpjMFgZZx0G6+dFnGMHA="
+    "hash": "sha256-uLT60h61785jo/wYK5GwCrwQQpb8qOJ+vtnkbACfEWM="
   },
   "mail_spool": {
     "version": "1.2.0",
@@ -34968,13 +34966,13 @@
     "hash": "sha256-HK+4lHUtaavXgTXTHM08r7xFB2jgGf3GMCCzgGFuY28="
   },
   "mktools": {
-    "version": "12.0.1",
+    "version": "12.0.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "Collection of some useful tools",
-    "hash": "sha256-aY3lIV+6bnwpFELaCXWUFyMpQA/Ebtzx1N5WgJ8FJiE="
+    "hash": "sha256-f57Dd7iMXErvW2eXGZ4JCxtEKjGlM+Sm3thMBYILcXY="
   },
   "mkvarnish": {
     "version": "12.0.0",
@@ -39339,6 +39337,16 @@
     ],
     "description": "Introducing the TYPO3 Google Map Extension! This TYPO3 extension enables you to seamlessly add and customize Google Maps to your website with ease. Designed with responsive layouts and SEO-friendly features, it ensures a smooth and optimized experience for your visitors.",
     "hash": "sha256-d56t0LV5x4uR80dXXh3q7LwLGRjbYG2k3bro0WJ82Og="
+  },
+  "ns_google_sitekit": {
+    "version": "1.0.0",
+    "t3_versions": [
+      10,
+      11,
+      12
+    ],
+    "description": "Connect Google Analytics, Search Console, PageSpeed Insights, and Tag Manager to your TYPO3 site without coding. Improve your website's performance and SEO with the Official Google Site Kit.",
+    "hash": "sha256-Wl6qb+Kwowu0nW9ZH52KDNsXjJIspGWfJFWVRSqRN14="
   },
   "ns_googledocs": {
     "version": "2.0.1",
