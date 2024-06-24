@@ -7978,12 +7978,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cf_cookiemanager": {
-    "version": "1.6.2",
+    "version": "1.6.3",
     "t3_versions": [
       12
     ],
     "description": "Unlock the full potential of your Typo3 website with CodingFreaks Typo3 Cookie Manager. Effortlessly manage and customize your website's services, cookies and scripts with our comprehensive extension. Streamline your workflow, enhance user experience, and ensure GDPR compliance with this powerful tool. Take control of your cookie management today and unleash the true potential of your Typo3 installation.",
-    "hash": "sha256-RTVWOqWqhrnOAClm9ucRKx1GS5mqwEGHtsRQu96z/Ss="
+    "hash": "sha256-o32kXoOpaB424Ta9c2i8v8z/EPo7Dg6dehRmPh4sDdc="
   },
   "cf_google_authenticator": {
     "version": "1.2.4",
@@ -22011,12 +22011,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "gdpr_extensions_com_bm": {
-    "version": "1.0.3",
+    "version": "1.0.5",
     "t3_versions": [
-      11
+      11,
+      12
     ],
     "description": "Add content elements for shuffling or sliding banners, boost revenue with custom banners. Create and manage campaigns easily with our code editor. Track impressions, clicks, and other metrics for maximum ROI.",
-    "hash": "sha256-GJzhCsAeFmHfFr0iZEObrmdYjO88pX9sXpnvboZ9l3w="
+    "hash": "sha256-qBVY2bz+NMMq0BayI8rKDy02+YD0mmergpPdiXEx6Ks="
   },
   "gdpr_extensions_com_bmap": {
     "version": "1.0.1",
@@ -22044,6 +22045,15 @@
     ],
     "description": "Add Google Maps with single or multi location markers to your website and stay GDPR compliant! Your website viewers will be able to manage their cookie preferences and view the content only if consented. Stay GDPR compliant when your website is scanned by any Cookie or GDPR Scanner!",
     "hash": "sha256-vpiY4HlMtCljI62RZQEoKfM9pZHg876Ytpq7o6oL0AM="
+  },
+  "gdpr_extensions_com_gt": {
+    "version": "1.0.0",
+    "t3_versions": [
+      11,
+      12
+    ],
+    "description": "Track your website viewers behavior and get your user analytics but only if they consent to!. Stay GDPR compliant when your website is scanned by any Cookie or GDPR Scanner, when using Google Analytics.",
+    "hash": "sha256-wkPEI6KHMEKrf+4/IznfuFLoXMSHTxLTpkb/G1SSivs="
   },
   "gdpr_extensions_com_mt": {
     "version": "1.0.0",
@@ -23888,12 +23898,12 @@
     "hash": "sha256-e8c+S9ALI6DFfS4LVMPqVRBlVh6qjuZMJcujaSv0sVo="
   },
   "hh_simple_job_posts": {
-    "version": "4.1.1",
+    "version": "4.1.3",
     "t3_versions": [
       12
     ],
     "description": "Adds plugins for list / show job postings with meta-data and schema.org stuff. Uses tt_address for job-contacts and job-location.",
-    "hash": "sha256-V8gsVhKmKdIFTYNpHbMuSOLPlYEeM52UohZLpNXs+Fo="
+    "hash": "sha256-TzxC6Xi/V5KSpXV4ikT0vNq7KKy9I/xqmgcCvsNcrus="
   },
   "hh_slider": {
     "version": "0.5.1",
@@ -24830,14 +24840,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "iconpack": {
-    "version": "1.1.4",
+    "version": "1.1.6",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Provides an iconpack-registry for various iconpacks.",
-    "hash": "sha256-8i3KhM7yae61RYx1n5L+bAlwnye3OC0cduA1G+pzn8k="
+    "hash": "sha256-oPki+ouXMQPXDa6MzKDNS2UERdFUQBWG29H3FDbG3Lk="
   },
   "iconpack_bootstrap": {
     "version": "1.3.1",
