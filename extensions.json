@@ -3540,12 +3540,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "aws_sdk_php": {
-    "version": "3.314.6",
+    "version": "3.314.7",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-bDIP4xVedh0VVXkn5JP3n3+jTJhEC+chGsYyxqxKigo="
+    "hash": "sha256-uQsjF6DtSH0VF2hsCHc9yayusZsCBet/V9roujBHgiM="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -6893,14 +6893,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "canto_extension": {
-    "version": "1.4.1",
+    "version": "1.4.2",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Connect canto flight to get resource",
-    "hash": "sha256-6wsHV8i9AZdNqN6FxAEI/ZWynDKyHHZYzAZf2qAW3Fg="
+    "hash": "sha256-UzAakIyIMiInmSo7vA4RWuPX+iepygnjIdZT0fo14f0="
   },
   "cap_flattr_news": {
     "version": "1.4.0",
@@ -35471,13 +35471,13 @@
     "hash": "sha256-QBq7RgOtpBz21jSQfzIxEurNCmBZlHvZXZt3wzoyyMw="
   },
   "modules": {
-    "version": "6.2.4",
+    "version": "6.2.5",
     "t3_versions": [
       11,
       12
     ],
     "description": "Modules - Little helper for creating frontend and backend modules in TYPO3",
-    "hash": "sha256-8EC5e8pEH7QPKpjgZ+PKLmRdXwnRZ6v95sNV/hk1cKY="
+    "hash": "sha256-ccaLZUaDhJXdOwwrJsLDrS84sy6MXX5RVkIA5QmjZL0="
   },
   "modulis_animated_gif": {
     "version": "0.0.4",
@@ -44669,12 +44669,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "psb_foundation": {
-    "version": "2.2.1",
+    "version": "2.2.2",
     "t3_versions": [
       12
     ],
     "description": "Configuration framework for TYPO3 extension development",
-    "hash": "sha256-uqbumNrT8vTNQGQmjbwAH4e35DGlPCK5iNncLPMI9vY="
+    "hash": "sha256-dzd9Qz77jnjg2zrcMQES3bJIAh4UmzSG2sAT06+wNX0="
   },
   "psb_view_helpers": {
     "version": "2.0.0",
@@ -55224,12 +55224,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sys_action": {
-    "version": "10.0.0",
+    "version": "11.0.0",
     "t3_versions": [
-      10
+      11
     ],
     "description": "Actions are 'programmed' admin tasks which can be performed by selected regular users from the Task Center. An action could be creation of backend users, fixed SQL SELECT queries, listing of records, direct edit access to selected records etc.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-m6/L95tTCReHshmmlO4JzWgF+9KcKxXVBnEoD041ovY="
   },
   "sys_notepad": {
     "version": "3.0.0",
@@ -57052,12 +57052,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "taskcenter": {
-    "version": "10.0.0",
+    "version": "11.0.0",
     "t3_versions": [
-      10
+      11
     ],
-    "description": "The Task Center is the framework for a host of other extensions.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "description": "The Task Center provides the framework into which other extensions hook, for example, the sys_action extension.",
+    "hash": "sha256-0DxQ4VXvYMmc/dxMZ6FdVbWG7YyNxbfe/OUrzGfpclA="
   },
   "taskcenter_modules": {
     "version": "0.1.0",
@@ -62478,13 +62478,12 @@
     "hash": "sha256-VvTMOeYIzaI5oT5rR1/3EJTgLZ9dyDnjcf04VyNSrIw="
   },
   "vimeovideo": {
-    "version": "1.1.0",
+    "version": "2.0.0",
     "t3_versions": [
-      11,
       12
     ],
-    "description": "Vimeo videos with custom cover images, gallery layout, pagination, GDPR options, and backend previews.",
-    "hash": "sha256-7rMX/3WejFPX1e7eFjcaLt9pI11tsM/lEmpHGy6uSfg="
+    "description": "Vimeo with custom cover images, gallery, pagination, GDPR, and backend previews. Demo: https://microtemplate.t3brightside.com",
+    "hash": "sha256-VQ6v6Dk6A4/cYaHYkD/n5PZGDFtGOMGFqWcyALHHvzo="
   },
   "vinou_connector": {
     "version": "5.7.2",
