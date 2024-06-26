@@ -3540,12 +3540,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "aws_sdk_php": {
-    "version": "3.314.7",
+    "version": "3.314.8",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-uQsjF6DtSH0VF2hsCHc9yayusZsCBet/V9roujBHgiM="
+    "hash": "sha256-El95m0VrIFc8LSuUfusxSROMtx38Ac6n25dxMr3XjAA="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -6437,6 +6437,15 @@
     "description": "New cache backend to use the Zend Data Cache component provides on Zend Server. Works on TYPO3 4.5 and higher. Have a look at the README.txt for more technical information.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "cache_bags": {
+    "version": "0.1.0",
+    "t3_versions": [
+      11,
+      12
+    ],
+    "description": "Allows to build and register cache bags during runtime. A cache bag can be used to define cache metadata like cache tags and calculate expiration dates for specific cache entries.",
+    "hash": "sha256-bmCpidq4qmfUXdzVGlfbRdDmmYGQTlQbFlFJQ7WQLRk="
+  },
   "cache_check": {
     "version": "1.0.0",
     "t3_versions": [
@@ -6738,12 +6747,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "calendarize": {
-    "version": "13.0.6",
+    "version": "13.0.7",
     "t3_versions": [
       12
     ],
     "description": "Create a structure for timely controlled tables (e.g. events) and one plugin for the different output of calendar views (list, detail, month, year, day, week...). The extension is shipped with one default event table, but you can also \"calendarize\" your own table/model. It is completely independent and configurable! Use your own models as event items in this calender. Development on https://github.com/lochmueller/calendarize",
-    "hash": "sha256-L/GTkjJBiWic0N0YGd16sVnNRlWi6u5tu89D+XCRl00="
+    "hash": "sha256-mxgUrgQ/VtiZwT4ME1PWHVDTD8HN6CodWX53kJyZqpY="
   },
   "calendarize_address": {
     "version": "4.1.0",
@@ -10441,12 +10450,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "core_upgrader2": {
-    "version": "12.0.2",
+    "version": "12.0.4",
     "t3_versions": [
       12
     ],
     "description": "Run upgrade wizards for multiple TYPO3 versions at once",
-    "hash": "sha256-U47diRgC8SMz7+D0ozvt93/JQrE6kWDZGlfqa7pXawo="
+    "hash": "sha256-Fn942w3/3RG3rHJOOqaYPyYvXEAC5hHaQpNYmmS68mA="
   },
   "coreapi": {
     "version": "1.3.0",
@@ -12835,13 +12844,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "db_rector": {
-    "version": "12.2.1",
+    "version": "12.3.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "This TYPO3 extension is an typo3-rector adapter with backend module to refactor sys_template.config data.",
-    "hash": "sha256-92/UxEenmi/5zaPRT4j9eG952AfBdx3+pTKZTpKMyM8="
+    "hash": "sha256-vVkqWFaeoGSFl3KcIadFyOV9jjcMV0XfPo6JvJDWItI="
   },
   "dbal": {
     "version": "8.4.1",
@@ -24840,14 +24849,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "iconpack": {
-    "version": "1.1.6",
+    "version": "1.1.7",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Provides an iconpack-registry for various iconpacks.",
-    "hash": "sha256-oPki+ouXMQPXDa6MzKDNS2UERdFUQBWG29H3FDbG3Lk="
+    "hash": "sha256-HgBzviPEzy1/w2vw9jnfXCThfUlZHb5uhgXQEE6ulJg="
   },
   "iconpack_bootstrap": {
     "version": "1.3.1",
@@ -31368,13 +31377,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "logformatter": {
-    "version": "1.5.0",
+    "version": "1.5.3",
     "t3_versions": [
       10,
-      11
+      11,
+      12
     ],
     "description": "A CLI tool to format and search TYPO3 Logfiles",
-    "hash": "sha256-1qfN6OXFYsPdScCYiQdCafzR5/JHnhgBIsPD7KIyLvc="
+    "hash": "sha256-cQlRyi5G4kMeODGlRo5yZb3xrnSRvyEC5lhPJWoojX8="
   },
   "logging": {
     "version": "1.0.0",
@@ -61422,13 +61432,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "typo3_docchecklogin": {
-    "version": "2.0.7",
+    "version": "2.0.8",
     "t3_versions": [
       11,
       12
     ],
     "description": "Integrate DocCheck Login with your Project",
-    "hash": "sha256-mR2CXDynj2kG+65/oXJLRLBP26vTPE0drPi6SK+3tbs="
+    "hash": "sha256-0FphpI270C2F0PKZqXeyXr4q6EJW8B9m/GkFRpq0trQ="
   },
   "typo3_dummy_extension": {
     "version": "1.1.0",
@@ -64263,6 +64273,14 @@
     "description": "Swiss Data & Delivery Service Premium Integration.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "wr_deepl_translate": {
+    "version": "1.0.2",
+    "t3_versions": [
+      12
+    ],
+    "description": "Translate TYPO3 pages with DeepL without headaches",
+    "hash": "sha256-1ZjoZksAixlnzILbHlUYPwspPP5ys0s8pO2NgJ/+PKI="
+  },
   "wrg_anotherbelogin": {
     "version": "0.0.4",
     "t3_versions": [],
@@ -65192,14 +65210,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "xima_typo3_mailcatcher": {
-    "version": "1.3.2",
+    "version": "1.4.0",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Backend module to display mails that were send to log file",
-    "hash": "sha256-QFor0i58XkyY4koHNHs8aWUSc/2nyIiPIy+Eru/mOJw="
+    "hash": "sha256-O6XoQea5pUcVJOIyWYm/RKpB1EBsy9r701pVkfwNGDM="
   },
   "xima_typo3_manual": {
     "version": "1.2.0",
