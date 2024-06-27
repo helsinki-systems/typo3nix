@@ -3540,12 +3540,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "aws_sdk_php": {
-    "version": "3.314.8",
+    "version": "3.315.0",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-El95m0VrIFc8LSuUfusxSROMtx38Ac6n25dxMr3XjAA="
+    "hash": "sha256-tCLFK/vyt1+ToUhiMLxT7h+j912EJ6umL9xZVYOdeU8="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -6902,14 +6902,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "canto_extension": {
-    "version": "1.4.2",
+    "version": "1.4.3",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Connect canto flight to get resource",
-    "hash": "sha256-UzAakIyIMiInmSo7vA4RWuPX+iepygnjIdZT0fo14f0="
+    "hash": "sha256-Kf6Z0o5FYmTQxycPvnL9PRKsDGWKoCBfDtqjfuo5pT8="
   },
   "cap_flattr_news": {
     "version": "1.4.0",
@@ -22054,6 +22054,42 @@
     ],
     "description": "Add Google Maps with single or multi location markers to your website and stay GDPR compliant! Your website viewers will be able to manage their cookie preferences and view the content only if consented. Stay GDPR compliant when your website is scanned by any Cookie or GDPR Scanner!",
     "hash": "sha256-vpiY4HlMtCljI62RZQEoKfM9pZHg876Ytpq7o6oL0AM="
+  },
+  "gdpr_extensions_com_grh": {
+    "version": "1.0.0",
+    "t3_versions": [
+      11,
+      12
+    ],
+    "description": "Show your Google reviews in your website in a GDPR conform reviews header content element. Powered by GDPR-extensions.com dashboard.",
+    "hash": "sha256-zc7SSDKSVM/ghiYuWEmTzPWdErgK+FNfeprLbCqMq1w="
+  },
+  "gdpr_extensions_com_grl": {
+    "version": "1.0.0",
+    "t3_versions": [
+      11,
+      12
+    ],
+    "description": "Show your Google reviews in your website in a GDPR conform reviews list content element. Powered by GDPR-extensions.com dashboard.",
+    "hash": "sha256-Q1bHtK+9JVs8FrscwwRU0CsFohaQk+NzIhPYeCZOgGE="
+  },
+  "gdpr_extensions_com_grthreec": {
+    "version": "1.0.0",
+    "t3_versions": [
+      11,
+      12
+    ],
+    "description": "Show your Google reviews in your website in a GDPR conform reviews 3-column grid design content element. Powered by GDPR-extensions.com dashboard.",
+    "hash": "sha256-KsK9DaIJPHQk8ip6bfdyGo6NcGHAmOTCF3si05WCvDA="
+  },
+  "gdpr_extensions_com_grtwoc": {
+    "version": "1.0.0",
+    "t3_versions": [
+      11,
+      12
+    ],
+    "description": "Show your Google reviews in your website in a GDPR conform reviews 2-column grid design content element. Powered by GDPR-extensions.com dashboard.",
+    "hash": "sha256-K7KhsoxNvs9b5dpZa8K9nWZx2apgdXhpSvoZ+J9tuQE="
   },
   "gdpr_extensions_com_gt": {
     "version": "1.0.0",
@@ -64274,12 +64310,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "wr_deepl_translate": {
-    "version": "1.0.2",
+    "version": "1.0.3",
     "t3_versions": [
       12
     ],
     "description": "Translate TYPO3 pages with DeepL without headaches",
-    "hash": "sha256-1ZjoZksAixlnzILbHlUYPwspPP5ys0s8pO2NgJ/+PKI="
+    "hash": "sha256-3WiOmz+LUQZ5avgbceoqTuuIJ+h5ldY3FkI6mWYfaXA="
   },
   "wrg_anotherbelogin": {
     "version": "0.0.4",
@@ -65077,13 +65113,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "xblog": {
-    "version": "11.3.1",
+    "version": "11.3.3",
     "t3_versions": [
       10,
       11
     ],
     "description": "Quickly assemble a TYPO3 frontend! Publish the data from the tables pages, tt_content and from any other database! No need to set up typoscript.",
-    "hash": "sha256-Y0FpFlRp5jTNs+cnrjRhQJu7ZwE8McyfZ4vM/pIUPdA="
+    "hash": "sha256-/kFIXwp6sQseHbp9Q/qw7Cc4lKVUMX7NJ6ayVPFcqUE="
   },
   "xdbmysql": {
     "version": "3.0.18",
