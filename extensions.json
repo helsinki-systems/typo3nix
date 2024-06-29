@@ -3540,12 +3540,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "aws_sdk_php": {
-    "version": "3.315.1",
+    "version": "3.315.2",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-0iiteuxIPoj2CiIESjMCNpLyMbtcSW0x/hJew7KFhgk="
+    "hash": "sha256-ALtGh6XTy6KuRjMOaYf2aqe/OfqQlWxlCyGSuLUla1s="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -41669,13 +41669,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "pagelist": {
-    "version": "3.8.0",
+    "version": "4.0.0",
     "t3_versions": [
-      11,
       12
     ],
-    "description": "Create news, events, products and vacancies or just page lists.",
-    "hash": "sha256-FkIh1d50/snWXlR6ErPDyTzuYCmUa5Jlsexiut4OFUg="
+    "description": "Page based news, events, products and vacancies or just page lists. Demo: microtemplate.t3brightside.com",
+    "hash": "sha256-sxYsfH5OpcRdR6+o7lTxH+SJSi2/oMHSrp57XFhfG7g="
   },
   "pagemanager": {
     "version": "0.7.1",
