@@ -65338,12 +65338,13 @@
     "hash": "sha256-HayZS8G+lXzNVjOPhb2kpcypm4jFvzK5plJ+nDNXHJo="
   },
   "xm_formcycle": {
-    "version": "9.0.3",
+    "version": "9.1.0",
     "t3_versions": [
+      11,
       12
     ],
     "description": "Embed XIMA Formcycle forms into your TYPO3 website",
-    "hash": "sha256-txwHWhjnYVQDKJfoQMQhDxuu1AxkY6iNni8lETs84Ik="
+    "hash": "sha256-NDnfOt5cMvszzEImcBNFQ7rUXmD5aDvASXpxzu6RT3o="
   },
   "xm_goaccess": {
     "version": "11.0.4",
