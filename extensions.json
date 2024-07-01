@@ -22081,6 +22081,15 @@
     "description": "Show your Google reviews in your website in a GDPR conform reviews list content element. Powered by GDPR-extensions.com dashboard.",
     "hash": "sha256-Q1bHtK+9JVs8FrscwwRU0CsFohaQk+NzIhPYeCZOgGE="
   },
+  "gdpr_extensions_com_grm": {
+    "version": "1.0.0",
+    "t3_versions": [
+      11,
+      12
+    ],
+    "description": "Show your Google reviews in your website in a GDPR conform reviews masonry styling content element. Powered by GDPR-extensions.com dashboard.",
+    "hash": "sha256-heQ9c9witMWFu4rs0kfGBbz6iUJLQUuZkGaKjng4JZQ="
+  },
   "gdpr_extensions_com_grs": {
     "version": "1.0.0",
     "t3_versions": [
@@ -22089,6 +22098,15 @@
     ],
     "description": "Show your Google reviews in your website in a GDPR conform reviews slider content element. Powered by GDPR-extensions.com dashboard.",
     "hash": "sha256-qfhtWkeiaYAxoqAOLxq+QqZOkz9yVjFq9lx8o1rCvT0="
+  },
+  "gdpr_extensions_com_grt": {
+    "version": "1.0.0",
+    "t3_versions": [
+      11,
+      12
+    ],
+    "description": "Show your Google reviews on your website in a GDPR-conform reviews masonry styling content element. Powered by GDPR-extensions.com dashboard.",
+    "hash": "sha256-p9OKnZkyQL7npYBpVys2gZsqKzEowUmyZjYOjUoul1c="
   },
   "gdpr_extensions_com_grthreec": {
     "version": "1.0.0",
@@ -44165,13 +44183,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "powermail_country": {
-    "version": "11.1.0",
+    "version": "11.2.0",
     "t3_versions": [
       10,
       11
     ],
     "description": "Improve Country selection based on static_info_tables with Powermail",
-    "hash": "sha256-nUG5Eps+s9FDG0wv+QZXe2/WXVg119N8fAHgHzx/eEI="
+    "hash": "sha256-fKcU9WziII300LutqXGgvj7TyOlztwDLmlf6UiC2JS0="
   },
   "powermail_fastexport": {
     "version": "1.0.5",
@@ -49745,13 +49763,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "seminars": {
-    "version": "5.5.1",
+    "version": "5.5.2",
     "t3_versions": [
       10,
       11
     ],
     "description": "Allows you to create and manage a list of seminars, workshops, lectures, theater performances and other events, allowing front-end users to sign up. FE users also can create and edit events.",
-    "hash": "sha256-zm8IVSYrDE5nQxqXiLZu5kteBk6wND4JFoD4tMBzk6M="
+    "hash": "sha256-+5pbUxTTwr0OydKRVlMbfQUP28RSnVtvQ6OYad6H37s="
   },
   "seminarscalredirect": {
     "version": "1.0.0",
@@ -56945,14 +56963,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "table": {
-    "version": "0.13.2",
+    "version": "0.13.3",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "This contains a base class which you can use to make your extensions independant from any specific table. And it can be used to make multiple language support with a separate language overlay table or by a CSV file.",
-    "hash": "sha256-ZHsRkt1xl3ByMHyt+qJ6E4QNWAtqi1gWP/cTY87s154="
+    "hash": "sha256-qtqOYsak+gr1PT0nvI/v5t1ENXzGsa2QgnI1wKz2g0Q="
   },
   "tablecleaner": {
     "version": "2.5.0",
@@ -60675,13 +60693,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "tt_products": {
-    "version": "2.15.7",
+    "version": "2.15.8",
     "t3_versions": [
       11,
       12
     ],
     "description": "Advanced versions at ttproducts.de. Documented in the E-Book \"Der TYPO3-Webshop\" - Shop with listing in multiple languages, with order tracking, product variants, support for transactor extension, bill, creditpoint and voucher system.",
-    "hash": "sha256-1kNoGVoygkBF+NuWfJBvfAv9XhP6Ajs7PHqv7vnLjOM="
+    "hash": "sha256-5MQwXGbJRCEKP9RrSn8Mr9oXJC1GWQkGD5wKsw2tANA="
   },
   "tt_products_foundby": {
     "version": "0.1.4",
@@ -62459,12 +62477,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "video_vtt": {
-    "version": "2.2.1",
+    "version": "2.2.5",
     "t3_versions": [
       12
     ],
     "description": "Extend TYPO3 Video functionality",
-    "hash": "sha256-M6VBDcqv8eKNqiMuCgLtvI8cavop9MFVPiCjfCpv8ek="
+    "hash": "sha256-3l75jLFftEkO5P8TzQlQDa1oT8FPrXZUxIosJ+8phcg="
   },
   "videoce": {
     "version": "0.10.0",
