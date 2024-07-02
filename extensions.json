@@ -3540,12 +3540,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "aws_sdk_php": {
-    "version": "3.315.2",
+    "version": "3.315.3",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-ALtGh6XTy6KuRjMOaYf2aqe/OfqQlWxlCyGSuLUla1s="
+    "hash": "sha256-WIdgZGMho+SGk1T1iy3swhH+e5GgZGR4EyJYNAe6fLI="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -17952,12 +17952,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "extension_builder": {
-    "version": "11.0.12",
+    "version": "11.0.13",
     "t3_versions": [
       11
     ],
     "description": "The Extension Builder helps you to develop a TYPO3 extension based on the domain-driven MVC framework Extbase and the templating engine Fluid.",
-    "hash": "sha256-v8GTYghi7l8KcCwBPyUnxjV3KNv8E6YAp15vzmlB+GQ="
+    "hash": "sha256-Lb0f56V3JtC041wBLbybvkkapIxAhH6L6Du3CCM9g0E="
   },
   "extension_compatibility_check": {
     "version": "1.0.2",
@@ -22046,13 +22046,22 @@
     "hash": "sha256-lydwyPy3VV4hU2/nQdSpq0JFmBgLF87rAK5NOA4F3KI="
   },
   "gdpr_extensions_com_cm": {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "Ensure GDPR compliance effortlessly. Our advanced scanner meticulously checks your website for cookies, external resources, and security issues. Generate detailed reports for validation and peace of mind.",
-    "hash": "sha256-KdRyWEXazMYN+tK26opZURkKYozpQfd2K+4omxCHXoU="
+    "hash": "sha256-uGFtQy12xC0QRZGyKYV+WDoZAnMDwpbKT24oX224gvE="
+  },
+  "gdpr_extensions_com_gm": {
+    "version": "1.0.0",
+    "t3_versions": [
+      11,
+      12
+    ],
+    "description": "GDPR Google Map empowers you to add content element Google Map. It supports single site and multisite on your TYPO3 project.",
+    "hash": "sha256-m19W94s3KTfDNoL2AGUJc6HtANvfK6zApU5I7lOiEAY="
   },
   "gdpr_extensions_com_gmap": {
     "version": "1.0.1",
@@ -22145,13 +22154,13 @@
     "hash": "sha256-o0jUdYh13vWGC1Hl5QQzgmO5yp6DAVZ9X/diIJ/4sgY="
   },
   "gdpr_extensions_com_sfc": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Add your social feed through curator.io with our 2xClick solution where the users can manage their cookie preferences any time!",
-    "hash": "sha256-eRU1pgkJBcgjlUCOGEtZZAlmuOjr3JauZu848kUV02Q="
+    "hash": "sha256-aFAReYNAkr8ocojyMapH+9YdoBt5upv7+GDXniWstr4="
   },
   "gdpr_extensions_com_tiktok": {
     "version": "1.0.3",
@@ -26192,14 +26201,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "includekrexx": {
-    "version": "5.0.2",
+    "version": "5.0.3",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Fluid and PHP debugger with backend access to logfiles, code generation to reach the displayed values and much more. We added some special stuff for Aimeos.",
-    "hash": "sha256-asy2dV9xHkUPoOPXzAVNfPZp5THQDjczZeBoFr6p0yA="
+    "hash": "sha256-/SvUpU2S26zy74lPtc6B1PhSWuILRd2fnw1LnSIRUnU="
   },
   "incore_twitter": {
     "version": "1.2.2",
@@ -53077,13 +53086,13 @@
     "hash": "sha256-Ra6eSXfGBOFzME41uE0MCD0zCz74YxSJkUL9/hn6rLA="
   },
   "solr_tools": {
-    "version": "2.0.1",
+    "version": "2.0.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "This Extension provides CLI Tools to initialize the EXT:solr index queues from the command line, and to scan for file-references in the content to add the corresponding sites to the sys_file metadata where a file is being used.",
-    "hash": "sha256-ZeVtuu2iR0vjAmRSGCM1627vMwcSBrxN4tBPSfEZO4U="
+    "hash": "sha256-K8HPFbtsW64xe/BD0hkV9GeT6l1meIbcv4/PoogIxSE="
   },
   "solradmin": {
     "version": "2.0.1",
