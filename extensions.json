@@ -3540,12 +3540,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "aws_sdk_php": {
-    "version": "3.315.3",
+    "version": "3.315.4",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-WIdgZGMho+SGk1T1iy3swhH+e5GgZGR4EyJYNAe6fLI="
+    "hash": "sha256-7p+T1+SmANxrOBn4B1lwdaO9fu0t0x7Gftlz+0H7FGw="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -8880,13 +8880,13 @@
     "hash": "sha256-CyYYDj2w3a9nPtj3bnZfWMLJ3YAwhqhr0wga+jqzUX0="
   },
   "clubmanager": {
-    "version": "1.1.7",
+    "version": "1.1.8",
     "t3_versions": [
       11,
       12
     ],
     "description": "The TYPO3 module for managing clubs, foundations and associations. With Clubmanager, you get the tool to manage the organization AND public relations of your club or association in a cost-saving and effective way.",
-    "hash": "sha256-hrStgEKkmLrkMsFBp2VNNq3x4/ZBcJ+o2F5GiQmz14g="
+    "hash": "sha256-8edszI3FVOQuro7v/wilMcscI0s5eoHC9O1JCCqD3WM="
   },
   "cm_ajax": {
     "version": "0.6.0",
@@ -16528,12 +16528,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "editor_widgets": {
-    "version": "2.1.3",
+    "version": "2.1.4",
     "t3_versions": [
       12
     ],
     "description": "Collection of useful dashboard widgets focused on editors",
-    "hash": "sha256-bmxXtlFJiKHomQ4r2iERsrkJavjfFZ8XzMtV3YtXNME="
+    "hash": "sha256-JF/h4OY7D+3FodvXB8u8u6zV/gmaWAwq2CVBmLzfOx0="
   },
   "editors_choice": {
     "version": "2.1.0",
@@ -31856,13 +31856,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "lux": {
-    "version": "35.4.0",
+    "version": "35.6.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Living User Experience - LUX - the Marketing Automation tool for TYPO3.",
-    "hash": "sha256-DSnJv7M+IZzFsfBgTsUeT0fJRfyBlPMn0Z7//Z614Z8="
+    "hash": "sha256-EjUR2/1IKwRoRv5FYqWpusO7fDjYBWr6b++ArtfX76g="
   },
   "luxletter": {
     "version": "26.1.0",
@@ -65365,13 +65365,13 @@
     "hash": "sha256-HayZS8G+lXzNVjOPhb2kpcypm4jFvzK5plJ+nDNXHJo="
   },
   "xm_formcycle": {
-    "version": "9.1.0",
+    "version": "9.1.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Embed XIMA Formcycle forms into your TYPO3 website",
-    "hash": "sha256-NDnfOt5cMvszzEImcBNFQ7rUXmD5aDvASXpxzu6RT3o="
+    "hash": "sha256-1Sd0cFPoXX3sojIqJozGYVy0c4lTgmR2TEh+2c/oMu8="
   },
   "xm_goaccess": {
     "version": "11.0.4",
