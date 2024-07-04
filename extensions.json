@@ -3540,12 +3540,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "aws_sdk_php": {
-    "version": "3.315.4",
+    "version": "3.315.5",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-7p+T1+SmANxrOBn4B1lwdaO9fu0t0x7Gftlz+0H7FGw="
+    "hash": "sha256-F2uCBhm0tm/qUToeXN2XTSGDiMYh0ic4F7Di32VxlN4="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -7917,13 +7917,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "celum_connect_fal": {
-    "version": "2.0.13",
+    "version": "2.0.14",
     "t3_versions": [
       11,
       12
     ],
     "description": "Provides a FAL driver for the CELUM DAM.",
-    "hash": "sha256-cU8nb4Fpzyam0W2x5OyZp4Nuk67+J2HKHK89eN7oUag="
+    "hash": "sha256-hVsqvj+ipU79S6b9gvLyeA3WNOZ5hWFGLezGgXlnyXY="
   },
   "cen_csvexport": {
     "version": "1.1.2",
@@ -18925,12 +18925,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "feed_display": {
-    "version": "2.1.0",
+    "version": "2.1.1",
     "t3_versions": [
       12
     ],
     "description": "Fetches and parses RSS and Atom web feeds with the SimplePie library and prepares them for frontend display",
-    "hash": "sha256-V0yP35cpHG/twWM1ZhdF4h8YyYZt1bU0HEUGsLOt9Ak="
+    "hash": "sha256-Yp7BVEtZdxBBkeNRiHvGfN7pLznD9iQxjROYnjShC9M="
   },
   "feed_generator": {
     "version": "0.7.0",
@@ -21265,6 +21265,14 @@
     "description": "Send unique vouchers with form e-mail finisher.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "formwebhooksend": {
+    "version": "1.0.4",
+    "t3_versions": [
+      12
+    ],
+    "description": "Webhook form finisher",
+    "hash": "sha256-wzGEmii2kbYoPMIKW5uYOfxNwe5wFEtnNzaEbcFx7CE="
+  },
   "formwidgets": {
     "version": "2.1.0",
     "t3_versions": [
@@ -22260,13 +22268,13 @@
     "hash": "sha256-v+CiJDvqHsSTrWl12GMt+rQTQCAIvPJ5yULk6ARfLW8="
   },
   "geo_redirect": {
-    "version": "1.0.2",
+    "version": "1.0.3",
     "t3_versions": [
       11,
       12
     ],
     "description": "Redirect users based on browser language and ip country to the right language version of the website",
-    "hash": "sha256-jyVzP65/mfEyo2SNMoW7rzsb78dh+P8DBhsnR3oMGx0="
+    "hash": "sha256-DypsPhl4ZdgxuP8KgsIc7lgX7lEyTRvkBzAZKgPL2dI="
   },
   "geocoding": {
     "version": "4.2.0",
@@ -23391,12 +23399,12 @@
     "hash": "sha256-y9zO+nFdrUc3TeKd1lMXNl8WCGJRWzGZ5Og7Sh0ABZA="
   },
   "gridtocontainer": {
-    "version": "12.0.10",
+    "version": "12.1.0",
     "t3_versions": [
       12
     ],
     "description": "EXT:gridtocontainer is a small migration extension with backend module for those who want to switch from EXT:gridelements to EXT:container.",
-    "hash": "sha256-aYnRmAco3fi3hw2FstJOoDdhfRpG7FUNj/WsS9C5sVY="
+    "hash": "sha256-mk43ymt48I5fATuygRnINOC11/Rp4CRQAvT6605Jhto="
   },
   "group_mngr": {
     "version": "0.1.0",
@@ -25341,7 +25349,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "idp": {
-    "version": "1.0.3",
+    "version": "1.0.4",
     "t3_versions": [
       8,
       9,
@@ -25350,7 +25358,7 @@
       12
     ],
     "description": "Typo3 as IdP Single Sign On (SSO) extension allows users residing in your Typo3 site to login to your SAML 2.0 Compliant Service Provider. Login into your websites (Service Providers) using Typo3 credentials. This extension enables your Typo3 site to operate as a SAML 2.0 Identity Provider, which can be set to build trust between the Typo3 site and multiple SAML 2.0 compliant Service Providers in order to securely authenticate users who use the Typo3 site.",
-    "hash": "sha256-40fPBvZEouvtjfJuYWercWZUG8w9BU52sYV4pia1xvU="
+    "hash": "sha256-WUAnF73n/Zgjy0vbfNJFGW2XHA1ZPsshqH6l9YmErqk="
   },
   "ie6basetag": {
     "version": "1.0.1",
@@ -29838,14 +29846,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "klaro_consent_manager": {
-    "version": "1.8.3",
+    "version": "2.0.2",
     "t3_versions": [
-      10,
-      11,
       12
     ],
     "description": "Functionally complete, flexible TYPO3 integration of Klaro! Consent Management by KIProtect. Klaro! is a powerful tool that protects your visitors' privacy and data and helps you run a GDPR compliant website.",
-    "hash": "sha256-UbKqRx3OxUATYtEBtQFQ07OHBYpyxL1/7MYrusNL/yc="
+    "hash": "sha256-uCFW7GoevlKtD7+XymHNhYEN7U2RTmTbQ4GmQFNtoXI="
   },
   "klarokratie": {
     "version": "12.4.6",
@@ -41851,13 +41857,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "paginatedprocessors": {
-    "version": "1.6.0",
+    "version": "1.6.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Data processors with pagination",
-    "hash": "sha256-bClI34YJt/nyWCBag4cK6NOsTCyTmHDwkbbOPKm9zzs="
+    "hash": "sha256-vW6fPUZUzodI2huJ2bPOfHyBgjZGrvuD2D1omfXOAbA="
   },
   "pandorabot_include": {
     "version": "0.1.0",
@@ -41986,12 +41992,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "partner_rating": {
-    "version": "3.0.0",
+    "version": "3.0.1",
     "t3_versions": [
       12
     ],
     "description": "Extbase/Fluid extension that allows departments to rate collaboration partners via a front-end form. Rating values can be specified as a comma separated list of integer values. Rating values greater than a configurable limit value must be justified. This is possible either by predefined reasons or a free text input.",
-    "hash": "sha256-KVpJuHQV45+h086GL2R63R9piVazfhKWXrkuFEOZjTg="
+    "hash": "sha256-nxyDDvkdookOKyqpRnVEHSj5xjCQGFScYRq0jlaJUe8="
   },
   "party": {
     "version": "0.2.1",
@@ -48054,6 +48060,14 @@
     ],
     "description": "Microdata integration for CKEditor.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "rte_ckeditor_textpartlanguage": {
+    "version": "12.0.0",
+    "t3_versions": [
+      12
+    ],
+    "description": "This extension implements the text part language feature for CKEditor 5",
+    "hash": "sha256-Guyrt3oS/gU/o0vkCIV2q2DD+4eSeyf2qNhs3QwN3R0="
   },
   "rte_class_wildcard": {
     "version": "1.0.0",
@@ -60657,13 +60671,13 @@
     "hash": "sha256-vQWLY6iNcZxt/sEaspgGL/eJxAPVZmFpOsNlhiJagWY="
   },
   "tt_board": {
-    "version": "1.14.1",
+    "version": "1.15.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Simple threaded (tree) or list message board (forum).",
-    "hash": "sha256-h7SP7h+jT+3H+9s7xJOgj3nRJ/YdIy+uA0LqOvds2NY="
+    "hash": "sha256-t+PqvZftF9aVX5N77Ee876lsaWLGI/xIQQQLjBigRG4="
   },
   "tt_calender": {
     "version": "1.0.5",
