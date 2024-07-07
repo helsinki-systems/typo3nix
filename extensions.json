@@ -3824,14 +3824,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "base_excel": {
-    "version": "1.29.0",
+    "version": "2.1.0",
     "t3_versions": [
-      10,
       11,
       12
     ],
-    "description": "This provides the PhpSpreadsheet library, formerly phpExcel from phpOffice. Version 1.28.0",
-    "hash": "sha256-vFo0JcAW9a6yIcLrvsZYfqrs4SXn1UfffWV9DDkIkC8="
+    "description": "This provides the PhpSpreadsheet library, formerly phpExcel from phpOffice.",
+    "hash": "sha256-EqENPxqFglyoPeZjF7V1XVXYscEs0r9rLiropuASBHY="
   },
   "base_font": {
     "version": "0.5.5",
@@ -9979,13 +9978,12 @@
     "hash": "sha256-7SKdm3qz68prxWJa2vxG9def5h0HEoWZTPP9NzSi1Ho="
   },
   "content_slug": {
-    "version": "3.1.1",
+    "version": "4.0.0",
     "t3_versions": [
-      11,
       12
     ],
     "description": "Adds a slug field for human-readable anchors (\"domain.com/page/#my-section\") to TYPO3 content elements. By default, this anchor is rendered as the header's id attribute.",
-    "hash": "sha256-FDzZR3e5jpbXlmR07i0EHzos6UtnCiIDfuqxqAkZrjo="
+    "hash": "sha256-H0/ZZazKVW3IR1KIu7PZsDPC+fOrA9prWcr++p0XJzU="
   },
   "content_uneraser": {
     "version": "0.2.0",
@@ -37195,13 +37193,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "myflat": {
-    "version": "1.1.3",
+    "version": "1.1.4",
     "t3_versions": [
       11,
       12
     ],
     "description": "Flat manager, shows bookings of holiday flats in calendars, availability check included.",
-    "hash": "sha256-lhMfWRzX9eu7bzwvVYJO+LQw8uJGiXEgHsyxRMhipcI="
+    "hash": "sha256-U9w+JP5c+TpGsAHDAoMWi3wQiCTU41d5dD674FRrfrs="
   },
   "mygeshi": {
     "version": "1.0.0",
@@ -37210,22 +37208,22 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "myleaflet": {
-    "version": "1.8.8",
+    "version": "1.8.9",
     "t3_versions": [
       11,
       12
     ],
     "description": "Leaflet / OpenStreetMap for tt_address data with radial search and categories. No registration and no API-keys necessary.",
-    "hash": "sha256-1+7yr5OvGvIQKpWafRIWVsikV1/z/sQ04dg7cXTEkPo="
+    "hash": "sha256-gusO/duN1AHz3gqq417Ys/jd8pUwXga3O9z8yEndSRk="
   },
   "mymap": {
-    "version": "1.7.2",
+    "version": "1.7.3",
     "t3_versions": [
       11,
       12
     ],
     "description": "Google maps with radial search and hierarchic categories (category tree). Show the results in responsive Google maps, traffic- and bicycling layer included and can be activated via constant editor.",
-    "hash": "sha256-9kQuHGIOnOUlKJECtVGEks3fUPphKnUtmge41UhuzlQ="
+    "hash": "sha256-ilXDr//vQN7vQi6Gy4JcI91222c5cyMcNEUFgg+eLA8="
   },
   "mypuzz_ftp": {
     "version": "1.1.1",
@@ -37317,13 +37315,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "myttaddressmap": {
-    "version": "2.2.5",
+    "version": "2.2.6",
     "t3_versions": [
       11,
       12
     ],
     "description": "Google maps for tt_address with radial search and categories",
-    "hash": "sha256-QDWNIJvpHt6X6yWGZu3nlzYu9LxWP81LWCD59OVLfLg="
+    "hash": "sha256-jK4vQCtxlK4XpocmZYSKJvW5F9/7xIl46bVLaYYGu4M="
   },
   "mytypo3": {
     "version": "0.1.1",
