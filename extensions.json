@@ -2076,12 +2076,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "altcha": {
-    "version": "0.2.1",
+    "version": "0.2.3",
     "t3_versions": [
       12
     ],
     "description": "TYPO3 form element for spam protection by utilizing the proof-of-work mechanism Altcha.",
-    "hash": "sha256-SICAuLy+trsWV+dmnsCHdQSunhtkIdz6KNqOjnhoE/o="
+    "hash": "sha256-WRjm4sQvkrWghrYRFKn4uTqCdR/khZAjeOB9cHLnnMQ="
   },
   "altern_lang_menu_page_title": {
     "version": "1.0.1",
@@ -21288,12 +21288,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "formwebhooksend": {
-    "version": "1.0.4",
+    "version": "1.1.0",
     "t3_versions": [
       12
     ],
     "description": "Webhook form finisher",
-    "hash": "sha256-wzGEmii2kbYoPMIKW5uYOfxNwe5wFEtnNzaEbcFx7CE="
+    "hash": "sha256-WF8NgFW77QCfQDmdUcJQ8RUnkyrloPd0CV+xE7HxhVw="
   },
   "formwidgets": {
     "version": "2.1.0",
@@ -41979,13 +41979,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "parsedown_extra": {
-    "version": "3.0.4",
+    "version": "3.0.5",
     "t3_versions": [
       11,
       12
     ],
     "description": "Provides a content element which displays markdown files. Parses email links with TYPO3 encryption. ViewHelper for parsing Markdown from individual sources. Defining abbreviations globally by using TypoScript. Code Highlighting.",
-    "hash": "sha256-Rh+8vWhqTarbE8eBbg4lVxE6KlSzZDToKdQL0nmqwFI="
+    "hash": "sha256-vH4vInntRj2nBsGPHndS2fJ9yS8bPSg9+VXLymnd2Lc="
   },
   "partner": {
     "version": "0.5.21",
@@ -50724,13 +50724,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "shop": {
-    "version": "4.2.0",
+    "version": "4.3.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Simple Shop for TYPO3 incl. PayPal, PayPal-Plus, Klarna, Stripe, Bookmarks, UPS-API, Invoice generation, backend module, compare feature, graduated prices and many more - note there is a Pro version as well!",
-    "hash": "sha256-wl0z1J+FQq+Wnh/Wx/Ot/a3q702ReDwNwnUd22qn3AE="
+    "hash": "sha256-ZJA46vSu5fIXzB4nxjUYG4dcJSzk+X7CgwgEQRNOXKk="
   },
   "shop3ox": {
     "version": "0.0.3",
@@ -60090,12 +60090,12 @@
     "hash": "sha256-BNgXT/XaxE7ArnrnrjouR7FBMMFTVYNUNIITm0MRQ38="
   },
   "translate_locallang": {
-    "version": "2.9.1",
+    "version": "3.0.0",
     "t3_versions": [
       12
     ],
     "description": "Backend Module for creating and editing of language files (locallang.xlf).",
-    "hash": "sha256-t1mWTkbgUEvH7RpuAUb5um5Sjzne+TKhd3VgKvIqC04="
+    "hash": "sha256-auSMLE9N+SBOY2zo1LstgaYELVD54cW8lRRmr8w9jWE="
   },
   "translatelabels": {
     "version": "2.3.9",
