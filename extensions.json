@@ -1141,12 +1141,12 @@
     "hash": "sha256-9R04ap1pdwL1ZnCzBW47nWCfarN00qS15S71veAE/mQ="
   },
   "addresses": {
-    "version": "1.0.2",
+    "version": "1.0.3",
     "t3_versions": [
       12
     ],
-    "description": "Address lists",
-    "hash": "sha256-3Zrz+F+wcWScBc0SSmebXYiiTRa7+NwFjO9vLAe0EAM="
+    "description": "Address lists or selected records. Demo at: microtemplate.t3brightside.com",
+    "hash": "sha256-2u/t0BaElAe1l8JeyK3Rb6Ugbx+ioNjzNnwgJcDyYhY="
   },
   "addressespersonnel": {
     "version": "1.0.0",
@@ -3564,12 +3564,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "aws_sdk_php": {
-    "version": "3.315.6",
+    "version": "3.316.0",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-8SkzWaQeFBRPbHAXuzwgdTY91rKfREmOySr2aEdiTuk="
+    "hash": "sha256-ZzxiFLmI9bbfb5QBWCdZ+FAjkT8wPG00p4wRpjZXTKA="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -5245,14 +5245,14 @@
     "hash": "sha256-dzYVNfYpzPxQ+7WvFPo16g5T8jdM7Ptrmvu1JHm0kLI="
   },
   "bootstrap_package_iconpack": {
-    "version": "0.2.2",
+    "version": "0.3.0",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Replaces the icons in bootstrap_package with iconpacks.",
-    "hash": "sha256-FpgyOIkJYweGSQ3u9AG5jmtANfcmbifAFdYGx69Mcag="
+    "hash": "sha256-nSAVM73duvbT71TILB+NHq06a4A2aC/VgGU55vdYX6o="
   },
   "bootstrapicons": {
     "version": "0.0.1",
@@ -35589,13 +35589,13 @@
     "hash": "sha256-QBq7RgOtpBz21jSQfzIxEurNCmBZlHvZXZt3wzoyyMw="
   },
   "modules": {
-    "version": "6.2.5",
+    "version": "6.2.6",
     "t3_versions": [
       11,
       12
     ],
     "description": "Modules - Little helper for creating frontend and backend modules in TYPO3",
-    "hash": "sha256-ccaLZUaDhJXdOwwrJsLDrS84sy6MXX5RVkIA5QmjZL0="
+    "hash": "sha256-fqbsj3JixbxpzHuDKl8PvpJqscwrN8EdUmkk3Ly5UvI="
   },
   "modulis_animated_gif": {
     "version": "0.0.4",
@@ -48084,12 +48084,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "rte_ckeditor_textpartlanguage": {
-    "version": "12.0.0",
+    "version": "12.1.0",
     "t3_versions": [
       12
     ],
     "description": "This extension implements the text part language feature for CKEditor 5",
-    "hash": "sha256-Guyrt3oS/gU/o0vkCIV2q2DD+4eSeyf2qNhs3QwN3R0="
+    "hash": "sha256-ny+yao9iqlxBkrFvUV/YwvtFFXgVMJrnIfR59KSvrX0="
   },
   "rte_class_wildcard": {
     "version": "1.0.0",
@@ -60738,13 +60738,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "tt_products": {
-    "version": "2.15.8",
+    "version": "2.15.9",
     "t3_versions": [
       11,
       12
     ],
     "description": "Advanced versions at ttproducts.de. Documented in the E-Book \"Der TYPO3-Webshop\" - Shop with listing in multiple languages, with order tracking, product variants, support for transactor extension, bill, creditpoint and voucher system.",
-    "hash": "sha256-5MQwXGbJRCEKP9RrSn8Mr9oXJC1GWQkGD5wKsw2tANA="
+    "hash": "sha256-jlZdGqUYa8V+Z20JuGJlilce/eC/t9MumYg6+OAJ4OI="
   },
   "tt_products_foundby": {
     "version": "0.1.4",
