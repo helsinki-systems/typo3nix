@@ -18,12 +18,12 @@
     "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
   },
   "a11y_me_video": {
-    "version": "2.0.2",
+    "version": "3.0.0",
     "t3_versions": [
       12
     ],
-    "description": "Accessible video player based on MediaElement.js and A11y Plugin and Fluid. The new content elements support mp4, webm, subtitles, sign language video, audio description, poster image, text alternative, etc.",
-    "hash": "sha256-GqJ/2IkwXjL6tnwgnncj+wn5uVOe2ZrhbCw+XoMeCNI="
+    "description": "Accessible video player based on MediaElement.js, A11y Plugin and Fluid. The new content elements support mp4, webm, subtitles, sign language video, audio description, poster image, text alternative, etc.",
+    "hash": "sha256-hc+D1CXaVuQPyenBxKkfLiWEjK8xg/gyJP4Usjvzbko="
   },
   "a1_teasermenu": {
     "version": "0.1.0",
@@ -3564,12 +3564,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "aws_sdk_php": {
-    "version": "3.316.0",
+    "version": "3.316.1",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-ZzxiFLmI9bbfb5QBWCdZ+FAjkT8wPG00p4wRpjZXTKA="
+    "hash": "sha256-CsEpcD9n8uTb7NbiDSaR49MVdgYmUOGcJsqVvlKKk2g="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -28927,12 +28927,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "jwtools2": {
-    "version": "7.0.1",
+    "version": "7.1.0",
     "t3_versions": [
       12
     ],
-    "description": "Jwtools2 contains a scheduler task for Solr to index multiple Pagetrees and a task to execute",
-    "hash": "sha256-sewKeqZHNOeVfTXte0qsRq3SCpIcZkRJdsJDdKJnl1A="
+    "description": "Jwtools2 contains a scheduler task for Solr to index multiple Pagetrees and a task to execute SQL-Queries. Further there are settings to enable some features in TYPO3 like showing the Page UID in Pagetree with a simple click in extensionmanager.",
+    "hash": "sha256-BHpEm+cECbGsEGLiIJNXr0bMtY5jeTnhtVAuY9zTvow="
   },
   "k20events": {
     "version": "1.0.3",
@@ -32860,13 +32860,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mask": {
-    "version": "8.3.10",
+    "version": "8.3.11",
     "t3_versions": [
       11,
       12
     ],
     "description": "Create your own content elements and page templates. Easy to use, even without programming skills because of the comfortable drag and drop system. Stored in structured database tables. Style your frontend with Fluid tags. Ideal, if you want to switch from Templavoila.",
-    "hash": "sha256-C/AVQAfrTBxODGp8dAEvA+3fELGwQcyxwVuO31X6PSo="
+    "hash": "sha256-YaUHRh7EBteR/ekl9uLB1CjtQP14MwhfTI4nS7FJuJ0="
   },
   "mask_export": {
     "version": "4.0.2",
@@ -60684,13 +60684,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "tt_address": {
-    "version": "8.1.0",
+    "version": "8.1.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Displays a list of addresses from an address table on the page.",
-    "hash": "sha256-vQWLY6iNcZxt/sEaspgGL/eJxAPVZmFpOsNlhiJagWY="
+    "hash": "sha256-a7P8CYUR1UidjsagAQU/8BXsel5P3wqvDiDWwH/m0nA="
   },
   "tt_board": {
     "version": "1.15.0",
