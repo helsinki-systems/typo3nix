@@ -57226,14 +57226,12 @@
     "hash": "sha256-+k+8G79XSClxIkW+xg7iRkU7tzifT4V1zlLIwS7SUlk="
   },
   "taxajax": {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "t3_versions": [
-      10,
-      11,
       12
     ],
     "description": "Enhancement to the xajax extension with TYPO3 specific code.",
-    "hash": "sha256-Rw2Jh++uHOAdvBfoWuj9/7pthm8qqlEiI8/BcElKjLQ="
+    "hash": "sha256-w0l14wCXcVp3SOfL2HLn9cNc629rCAHq9qK8M0uP71I="
   },
   "taywa_ccemailfield": {
     "version": "0.0.2",
