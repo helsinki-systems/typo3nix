@@ -3564,12 +3564,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "aws_sdk_php": {
-    "version": "3.316.2",
+    "version": "3.316.3",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-UFiVHsoqRyr9teW1VomUsrM94wLjSlu28ZeAMsJZTww="
+    "hash": "sha256-m2XN/yv6TKHgg4jm/iJg7wjaaV8Bfy9IVeU+JGLGETI="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -15491,13 +15491,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "dpn_glossary": {
-    "version": "5.3.0",
+    "version": "5.3.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Glossary extension with page parser",
-    "hash": "sha256-qUDyQ77qlAECMWtIJKOK5vPT5I4cguJOA9skxeJ2lrM="
+    "hash": "sha256-q2+I4GGFzOiZmsks3VyEO8P42cA9Lqlp/bbQol3aD/8="
   },
   "dr_blob": {
     "version": "2.3.2",
@@ -29874,12 +29874,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "klaro_consent_manager": {
-    "version": "2.0.3",
+    "version": "2.0.4",
     "t3_versions": [
       12
     ],
     "description": "Functionally complete, flexible TYPO3 integration of Klaro! Consent Management by KIProtect GmbH, a powerful tool that protects your visitors' privacy and data.",
-    "hash": "sha256-+tHeQ4bSuniQZJL4EKa1wq9c9Js7FcsMlXeOCwZ7bqw="
+    "hash": "sha256-S2Nih1bkFP3Z3m0NMtKQzvnxhS5bCuzByNr9pHLRi/M="
   },
   "klarokratie": {
     "version": "12.4.6",
@@ -55690,13 +55690,12 @@
     "hash": "sha256-1sVO90DqRum2QMl7PXb4mz7TW6K54nlEiX4NGfwtupA="
   },
   "t3api": {
-    "version": "2.0.0",
+    "version": "3.0.1",
     "t3_versions": [
-      10,
-      11
+      12
     ],
     "description": "REST API for your TYPO3 project. Config with annotations, build in filtering, pagination, typolinks, image processing, serialization contexts, responses in Hydra/JSON-LD format.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-S5iil2CcXXzBTLJCBsI73NnnY79ZsWTRfYL4Ejpkob8="
   },
   "t3blog": {
     "version": "1.2.0",
