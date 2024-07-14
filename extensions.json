@@ -52185,14 +52185,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "slick": {
-    "version": "12.0.1",
+    "version": "12.0.3",
     "t3_versions": [
-      10,
-      11,
       12
     ],
     "description": "Manage content elements, file collections and images with this responsive slider! Based on the slick carousel slider by Ken Wheeler. Scales with its container. Separate settings per breakpoint. Swipe, desktop mouse dragging, infinite looping, randomized order among others. Users can setup more than 50 properties by the plugin.",
-    "hash": "sha256-pX9v0Kn9z8WuHEPfN5HT7j35NhZm8Y9xzh8Ue1tBO8I="
+    "hash": "sha256-sNaHnwKe+Ic/h/VV43WF+KHPQPV456/O0OleshsHgrw="
   },
   "slickcarousel": {
     "version": "4.1.0",
@@ -53128,13 +53126,13 @@
     "hash": "sha256-Ra6eSXfGBOFzME41uE0MCD0zCz74YxSJkUL9/hn6rLA="
   },
   "solr_tools": {
-    "version": "2.0.2",
+    "version": "2.0.3",
     "t3_versions": [
       11,
       12
     ],
     "description": "This Extension provides CLI Tools to initialize the EXT:solr index queues from the command line, and to scan for file-references in the content to add the corresponding sites to the sys_file metadata where a file is being used.",
-    "hash": "sha256-K8HPFbtsW64xe/BD0hkV9GeT6l1meIbcv4/PoogIxSE="
+    "hash": "sha256-WI4K4LGe5hiVts+5x837jgK6Y9Scr6cHZXVRCWo/IkU="
   },
   "solradmin": {
     "version": "2.0.1",
@@ -55391,14 +55389,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sysfile_faker": {
-    "version": "1.6.0",
+    "version": "2.0.0",
     "t3_versions": [
-      8,
-      9,
-      10
+      12
     ],
     "description": "Creates dummy image files for sys_file records whose files went missing",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-rLm3f7LxOCG7g/lnGPFjZ+HYrmeatmJovBksI9aq98E="
   },
   "sysfire_cdlist": {
     "version": "3.0.3",
@@ -61985,12 +61981,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "usebouncer": {
-    "version": "1.1.0",
+    "version": "2.0.0",
     "t3_versions": [
-      11
+      11,
+      12
     ],
     "description": "Mail address validation via usebouncer.com (for powermail)",
-    "hash": "sha256-doLGexptl/25nCOMWEbmeoTcBbubGFq9GfVjEn4ZAOU="
+    "hash": "sha256-KCEGRNhKbnYuWQETnDEopTHbLS5BeKi5gjf2E+sXD6I="
   },
   "userbatch": {
     "version": "1.0.0",
