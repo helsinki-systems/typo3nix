@@ -6444,6 +6444,12 @@
     "description": "Simple caching framework: three lines of code and your extension records will be cached.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "cache_analyzer": {
+    "version": "1.0.1",
+    "t3_versions": [],
+    "description": "Analyze data sent to TYPO3 Caching Framework before it is written",
+    "hash": "sha256-Z2kc2M4ICQ3v3uFzhRaF3TZ924L9n39FDhUuypHjZkQ="
+  },
   "cache_automation": {
     "version": "1.1.2",
     "t3_versions": [
@@ -11517,7 +11523,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "csv_labels": {
-    "version": "1.0.3",
+    "version": "1.0.4",
     "t3_versions": [
       9,
       10,
@@ -11525,7 +11531,7 @@
       12
     ],
     "description": "Use CSV files to provide translation labels to TYPO3",
-    "hash": "sha256-z3WiNDHYw3CKrIT5Dve0ZGbfBQjxCmMEGTC/1bZCdOs="
+    "hash": "sha256-KZGJw6JsdPB5m3CODXPxfaq9UxAq9UL2ESh5gCOGayA="
   },
   "csv_table": {
     "version": "0.1.0",
@@ -18739,12 +18745,10 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fe_change_pwd": {
-    "version": "4.2.1",
-    "t3_versions": [
-      12
-    ],
+    "version": "5.0.0",
+    "t3_versions": [],
     "description": "Plugin to enable password change for frontend users. Contains configurable password",
-    "hash": "sha256-CqgkdDWQwZaO0XoBGSxcc/D84HGIe5IrDdOIDRDuIgk="
+    "hash": "sha256-Wzlaq6+x0HinlP2il3f8+hc8K1IuVSppOxha9cV/lcI="
   },
   "fe_changelog": {
     "version": "3.1.0",
@@ -29874,12 +29878,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "klaro_consent_manager": {
-    "version": "2.0.4",
+    "version": "2.0.5",
     "t3_versions": [
       12
     ],
     "description": "Functionally complete, flexible TYPO3 integration of Klaro! Consent Management by KIProtect GmbH, a powerful tool that protects your visitors' privacy and data.",
-    "hash": "sha256-S2Nih1bkFP3Z3m0NMtKQzvnxhS5bCuzByNr9pHLRi/M="
+    "hash": "sha256-kNdZm/syE1/t1/k//feJJRayF5IKpF/7XeQPoa5yfu4="
   },
   "klarokratie": {
     "version": "12.4.6",
@@ -33326,13 +33330,12 @@
     "hash": "sha256-sL/u97lcJMKObSLifjjvJRFNO/kVtJM/NxNYiBKapLk="
   },
   "md_eventmgt_frontend": {
-    "version": "1.0.0",
+    "version": "2.0.0",
     "t3_versions": [
-      10,
-      11
+      12
     ],
     "description": "Create and edit events for ext:sf_event_mgt in the frontend",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-QN+A1VcoX3s02TJIec1/6xqJef0asd9LN7fefGSO7k4="
   },
   "md_fullcalendar": {
     "version": "4.0.0",
@@ -33379,13 +33382,13 @@
     "hash": "sha256-rnWB+Ev9Jw5S9tL8nSrrLC9dl6frHlzcL+uWt/Y5rc4="
   },
   "md_unreadnews": {
-    "version": "4.0.1",
+    "version": "5.0.1",
     "t3_versions": [
-      10,
-      11
+      11,
+      12
     ],
     "description": "This extension adds unread information to the records of ext:news for frontend users.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-vr65MYQsxMulOmAvOE93ElZEU7jaC5b92fM95DwJNl8="
   },
   "mda_autopublish": {
     "version": "0.0.1",
@@ -51453,19 +51456,21 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "siteconfiggitsync": {
-    "version": "1.0.3",
+    "version": "1.0.4",
     "t3_versions": [
       11,
       12
     ],
     "description": "This extension will push changes to the site config yaml files back to your gitlab repository by creating a branch for the changes along with a merge-request. It is targeted towards automated CI/CD installations or sites in general where the site-config is git versioned. No local git binary or .git directory is needed. Requires EXT:siteconfigurationevents",
-    "hash": "sha256-XzvcrmVsjF0FHz6Wm2sTobczKXvB6dnBwpMLN3foqpo="
+    "hash": "sha256-n6NpTHYpruG1x1gknlu8Xd4+wYFHSsmZZE+Lu5nZUj8="
   },
   "siteconfigurationevents": {
-    "version": "1.1.0",
-    "t3_versions": [],
+    "version": "1.1.1",
+    "t3_versions": [
+      12
+    ],
     "description": "This extension will provide PSR-14 events for the SiteConfiguration Class methods write, rename and delete. This way 3rd party extensions can attach to these events when a site configuration has been created or updated",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-B1Zxmx3A5OXUNJywNDZhr13fGWfHLzRirOb9umoPFis="
   },
   "sitecopy": {
     "version": "0.0.1",
