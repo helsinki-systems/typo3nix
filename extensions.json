@@ -22532,12 +22532,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "gh_randomcontent": {
-    "version": "1.3.1",
+    "version": "1.3.2",
     "t3_versions": [
       12
     ],
     "description": "This frontend plugin shows random content elements from selected page(s).",
-    "hash": "sha256-rT1ugjlSw1MZ0IbmVhCjQQWeJJa3jbe+9YGEMFKzrR0="
+    "hash": "sha256-J5hnAfSyB+9XLxqj/hYqyMcWfqdLDqVanp8ILHPBmsY="
   },
   "gh_tabbedcontent": {
     "version": "0.3.0",
@@ -46756,12 +46756,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "restler": {
-    "version": "11.2.0",
+    "version": "12.0.3",
     "t3_versions": [
-      11
+      12
     ],
     "description": "This extension integrates the REST-API-framework \"restler\" in TYPO3",
-    "hash": "sha256-vMAfPkZplj2nog7QQQ4eYpJUqAJ4VSkcEWFrpXfWW0E="
+    "hash": "sha256-O3TeYOffLKF07yOQYyYE6cFkPLDQbcO8rrw0cPuVdRU="
   },
   "restler_examples": {
     "version": "10.1.1",
@@ -58621,12 +58621,12 @@
     "hash": "sha256-S8u1m0TDtFiTMavCrCo9DhLlpeJOhkG5uQc1R45OeXk="
   },
   "timer": {
-    "version": "12.3.1",
+    "version": "12.3.2",
     "t3_versions": [
       12
     ],
     "description": "The extension allow the usage of periodical timer for files, content-elements, pages and own content-elements. It can be extended by own timing-definitions i.e. fullmoontimer. The extension provide a viewhelper and a sheduler for the controllking of timemanagement. It contain a simple modell for event-presentation.",
-    "hash": "sha256-qrcrD249qC71K6tXYSP3UNczVhTV/ZCgd06FioLRNfY="
+    "hash": "sha256-Gvnc9jIM6dTTX1CdQiWRZfpt1H2g0eLDEt4iMHyva3c="
   },
   "timezones": {
     "version": "3.1.0",
