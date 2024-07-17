@@ -2518,12 +2518,13 @@
     "hash": "sha256-cp8ketccIrkv+g3FtK4J/JTZa/5bClKVRgploTOYADg="
   },
   "aoe_dbsequenzer": {
-    "version": "11.0.0",
+    "version": "11.1.0",
     "t3_versions": [
-      11
+      11,
+      12
     ],
     "description": "With this extension you can ensure different unique keys for the configured tables",
-    "hash": "sha256-iBGPzh/SS9iCPcEzMwqvp0NhDxmDFKZVuAfuyw1FvsQ="
+    "hash": "sha256-qrRnVFvTXjPLieodbJpYAGXFVWOODMQVNxPfwV6AJ0k="
   },
   "aoe_ipauth": {
     "version": "3.0.0",
@@ -6931,14 +6932,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "canto_extension": {
-    "version": "1.4.4",
+    "version": "1.4.5",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Connect canto flight to get resource",
-    "hash": "sha256-IXqvUKe16LH9HSnotFRBuSuCoZTggo/tWYsVFcwMMWA="
+    "hash": "sha256-zPtv1jzMap8DqlP0mJRaIZGuEQ7u/fzHPEpK7980vYc="
   },
   "cap_flattr_news": {
     "version": "1.4.0",
@@ -7327,12 +7328,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cb_kesearch_indexer": {
-    "version": "0.9.0",
+    "version": "0.9.5",
     "t3_versions": [
       12
     ],
     "description": "Extends ke_search with the possibility to index _Content Blocks_",
-    "hash": "sha256-wkXfCJ9AUyVECB3yWyk3EewpiPVkg9IGIdfEiKjg2SE="
+    "hash": "sha256-9j0s9Wm2wcT5Om27QRsAiA4XGrQ0PysXpjp/onOUQ1k="
   },
   "cb_newscal": {
     "version": "2.0.0",
@@ -15346,6 +15347,14 @@
     "t3_versions": [],
     "description": "Tutorial Introduction to  TYPO3",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "docuseal": {
+    "version": "1.0.0",
+    "t3_versions": [
+      12
+    ],
+    "description": "Allows TYPO3 to integrate with DocuSeal services, enabling frontend users to securely sign documents using the DocuSeal API",
+    "hash": "sha256-r8rlU1JA1mJG67nnYQkTK3yNCGuUVyfYnz17hPhOSZg="
   },
   "doktype_typolink": {
     "version": "3.0.0",
@@ -33742,12 +33751,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "meilisearch": {
-    "version": "0.5.3",
+    "version": "0.5.4",
     "t3_versions": [
       12
     ],
     "description": "This extension integrates \"meilisearch\" into your TYPO3.",
-    "hash": "sha256-gRNxTHBOlNbPTMaNk7MDIraCmFsxjAudYubq6cVX5/k="
+    "hash": "sha256-fcupgRStLEyoEg4OXpHXA+IG72CtfskFPbdKe2kL3iQ="
   },
   "meinpraktikum_widget": {
     "version": "1.0.1",
@@ -60743,13 +60752,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "tt_products": {
-    "version": "2.15.10",
+    "version": "2.15.11",
     "t3_versions": [
       11,
       12
     ],
     "description": "Advanced versions at ttproducts.de. Documented in the E-Book \"Der TYPO3-Webshop\" - Shop with listing in multiple languages, with order tracking, product variants, support for transactor extension, bill, creditpoint and voucher system.",
-    "hash": "sha256-LDqidOfWLQRGErDD0KX461Sz99UXMCr96KiV+mc0TaI="
+    "hash": "sha256-wmhj01s6BAR32zLPhnMsqK57svFM4RZ7kns49O8wYME="
   },
   "tt_products_foundby": {
     "version": "0.1.4",
