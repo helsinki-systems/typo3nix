@@ -1602,12 +1602,12 @@
     "hash": "sha256-LrZ+IK11SKP3RlLmJggx2X2/cL8lV1Xhd4R045LglW8="
   },
   "aimeos": {
-    "version": "24.4.2",
+    "version": "24.7.1",
     "t3_versions": [
       12
     ],
     "description": "Professional, full-featured and ultra-fast TYPO3 e-commerce extension for online shops, complex B2B applications and #gigacommerce. Turns TYPO3 into the best platform for content commerce and your e-commerce requirements (also available as TYPO3 distribution)",
-    "hash": "sha256-fW038LhMb/xY3EkqkG+rVLesbUeK4+o/8Mc7f3svfBk="
+    "hash": "sha256-bj+Rq333OqfaISyQRj8Uq7kX9fLc911BjdxJ9H3v6NE="
   },
   "aimeos_dist": {
     "version": "24.4.1",
@@ -2076,12 +2076,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "altcha": {
-    "version": "0.2.3",
+    "version": "0.3.0",
     "t3_versions": [
       12
     ],
     "description": "TYPO3 form element for spam protection by utilizing the proof-of-work mechanism Altcha.",
-    "hash": "sha256-WRjm4sQvkrWghrYRFKn4uTqCdR/khZAjeOB9cHLnnMQ="
+    "hash": "sha256-GPjv7iC8KIgtSpImgKTSUGGNKRA2PTtKTSohfsHZA0w="
   },
   "altern_lang_menu_page_title": {
     "version": "1.0.1",
@@ -18754,10 +18754,10 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fe_change_pwd": {
-    "version": "5.0.0",
+    "version": "5.1.0",
     "t3_versions": [],
     "description": "Plugin to enable password change for frontend users. Contains configurable password",
-    "hash": "sha256-Wzlaq6+x0HinlP2il3f8+hc8K1IuVSppOxha9cV/lcI="
+    "hash": "sha256-xBhINWibOo1uth8RGayORvdH2pJ+VsMxvmkkMoGbQbg="
   },
   "fe_changelog": {
     "version": "3.1.0",
@@ -24628,13 +24628,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "htmltables": {
-    "version": "0.9.6",
+    "version": "0.9.8",
     "t3_versions": [
       11,
       12
     ],
     "description": "Create sophisticated HTML tables easily using Inline Records (IRRE)",
-    "hash": "sha256-U01QmmsLWtlfrvI+RnB2d+bpwA5biLa/Arw/C09eGuc="
+    "hash": "sha256-oEgfZnb65Y2tcsBKCmpfHMoAmWuTEPzfELnPygkntWU="
   },
   "http2": {
     "version": "2.0.0",
@@ -31903,13 +31903,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "lux": {
-    "version": "35.7.0",
+    "version": "35.8.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Living User Experience - LUX - the Marketing Automation tool for TYPO3.",
-    "hash": "sha256-I17sgO0moi1FTYYoAij0lc12SzL4V+60//nbPfZaFJM="
+    "hash": "sha256-XSfS5LuT+Qk55ibpVCxxcQaEAmJbEJm2fDwDJM/Kc4o="
   },
   "luxletter": {
     "version": "26.1.0",
@@ -62545,12 +62545,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "video_vtt": {
-    "version": "2.2.5",
+    "version": "2.2.7",
     "t3_versions": [
       12
     ],
     "description": "Extend TYPO3 Video functionality",
-    "hash": "sha256-3l75jLFftEkO5P8TzQlQDa1oT8FPrXZUxIosJ+8phcg="
+    "hash": "sha256-svTBtJ7ZVRuXGcVr3NP95gCTee+iuEozr5LqACpHqK4="
   },
   "videoce": {
     "version": "0.10.0",
