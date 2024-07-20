@@ -21083,13 +21083,13 @@
     "hash": "sha256-mdl+c92FpyNxfd3Dxwy5VVac9wL4EV8xgD7eVFkV17U="
   },
   "form_translator": {
-    "version": "2.0.2",
+    "version": "2.0.3",
     "t3_versions": [
       11,
       12
     ],
     "description": "Provides a backend module and cli for translating forms.",
-    "hash": "sha256-Vf/ZzW03loePvymJsQs0YJyD1D2aWSILb1WqnCU8viQ="
+    "hash": "sha256-ODTtWY04OinP0KIlJU6Q8YqHDrvgFPOprb1YBa9arFo="
   },
   "form_typolink_checkbox": {
     "version": "2.0.0",
@@ -34152,12 +34152,10 @@
     "hash": "sha256-x5xldF3jfcX15bf+OvMn6M7RWlzozd9n4Hhf6HJ+G40="
   },
   "mfa_yubikey": {
-    "version": "2.0.2",
-    "t3_versions": [
-      12
-    ],
+    "version": "3.0.0",
+    "t3_versions": [],
     "description": "YubiKey OTP MFA provider for the TYPO3 backend login.",
-    "hash": "sha256-Kz4L5pFtgW9htpG2H9WKjytTOLCdn+PuF3s5kunNLfE="
+    "hash": "sha256-kfRYyNIMfCYPclv7mt3voMNQjSf/yrcU+mtTfUL8MIE="
   },
   "mfc_author": {
     "version": "2.0.0",
@@ -55697,12 +55695,12 @@
     "hash": "sha256-1sVO90DqRum2QMl7PXb4mz7TW6K54nlEiX4NGfwtupA="
   },
   "t3api": {
-    "version": "3.0.1",
+    "version": "3.0.2",
     "t3_versions": [
       12
     ],
     "description": "REST API for your TYPO3 project. Config with annotations, build in filtering, pagination, typolinks, image processing, serialization contexts, responses in Hydra/JSON-LD format.",
-    "hash": "sha256-S5iil2CcXXzBTLJCBsI73NnnY79ZsWTRfYL4Ejpkob8="
+    "hash": "sha256-gNKayJCXVujVUTN44iygcrryf/apSjdXPnrm6f2oM2Y="
   },
   "t3blog": {
     "version": "1.2.0",
