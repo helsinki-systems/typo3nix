@@ -2074,12 +2074,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "altcha": {
-    "version": "0.3.0",
+    "version": "0.3.2",
     "t3_versions": [
       12
     ],
     "description": "TYPO3 form element for spam protection by utilizing the proof-of-work mechanism Altcha.",
-    "hash": "sha256-GPjv7iC8KIgtSpImgKTSUGGNKRA2PTtKTSohfsHZA0w="
+    "hash": "sha256-Unsmb0dYgC3s5INQJvQNQfollwBnPi5AH7CBw6o4Rls="
   },
   "altern_lang_menu_page_title": {
     "version": "1.0.1",
@@ -3561,6 +3561,14 @@
     ],
     "description": "The AWS SDK for PHP makes it easy for developers to access Amazon Web Services in their PHP code, and build robust applications and software using services like Amazon S3, Amazon DynamoDB, Amazon Glacier, etc. Also install this extension via composer: composer require saschaende/typo3-aws",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "aws_cloudfront_manager": {
+    "version": "1.0.1",
+    "t3_versions": [
+      12
+    ],
+    "description": "Backend module that lets backend users trigger Amazon CloudFront invalidations",
+    "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
     "version": "3.316.4",
@@ -9866,12 +9874,12 @@
     "hash": "sha256-/5ucsE+5C2l4Skk/RThwkQiHU0a48OkYcBOpC0v4a2A="
   },
   "content_consent": {
-    "version": "2.0.2",
+    "version": "3.0.0",
     "t3_versions": [
       12
     ],
     "description": "Provides a content consent plugin to load any content elements and custom plugins by ajax without jQuery! So you can include Google Maps, YouTube- or Vimeo videos GDPR/DSGVO compliant. Best used with Bootstrap 5",
-    "hash": "sha256-LB1qIZOhCNEzbqj2aDXuKrg3euU0WpLGdjZeFu9Zs+M="
+    "hash": "sha256-P2TrqsPGIfoE69QqIxLy/Pxo9H8eOZv6+SvxAqiGUsg="
   },
   "content_defender": {
     "version": "3.4.3",
@@ -23434,12 +23442,12 @@
     "hash": "sha256-y9zO+nFdrUc3TeKd1lMXNl8WCGJRWzGZ5Og7Sh0ABZA="
   },
   "gridtocontainer": {
-    "version": "12.1.0",
+    "version": "12.2.0",
     "t3_versions": [
       12
     ],
     "description": "EXT:gridtocontainer is a small migration extension with backend module for those who want to switch from EXT:gridelements to EXT:container.",
-    "hash": "sha256-mk43ymt48I5fATuygRnINOC11/Rp4CRQAvT6605Jhto="
+    "hash": "sha256-B3fwzfAG+zQ4UIWQMh9/+8m/TZkp8EEZQcJzqQs/HRo="
   },
   "group_mngr": {
     "version": "0.1.0",
@@ -30662,12 +30670,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "lbo_notices": {
-    "version": "1.0.0",
+    "version": "12.0.1",
     "t3_versions": [
-      10
+      11,
+      12
     ],
     "description": "Use to display different level of notices in different pages of the website.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-6YI9maZzm6lj5krGmxGgYhrQlEvyoiXZ3OILE+fi9kw="
   },
   "lbo_vibeo": {
     "version": "1.0.0",
@@ -31897,13 +31906,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "lux": {
-    "version": "35.8.0",
+    "version": "35.9.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Living User Experience - LUX - the Marketing Automation tool for TYPO3.",
-    "hash": "sha256-XSfS5LuT+Qk55ibpVCxxcQaEAmJbEJm2fDwDJM/Kc4o="
+    "hash": "sha256-Tt6wAcJcKM/o1dx9RRy3rh7I7asP7VHCskyAK3g5k+8="
   },
   "luxletter": {
     "version": "26.1.0",
@@ -39376,7 +39385,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ns_cookieyes": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "t3_versions": [
       6,
       7,
@@ -39386,8 +39395,8 @@
       11,
       12
     ],
-    "description": "Quickly configure cookieyes.com to your TYPO3 site to helps make your use of cookies and online tracking GDPR and EPR compliant.",
-    "hash": "sha256-eCq0aoyPQhyK2VlLDz4GiDj0Z/JfQMCGJDCSmZ0v1Ks="
+    "description": "Implement GDPR/EPR Compliant at your TYPO3 website with our TYPO3 Cookiyes Extension. Ensuring Data & Cookie Protection on your website with ns_cookiyes extension.",
+    "hash": "sha256-suSjOla2+RnkZqTCiS7B1iwM14elba2rxqfARJZRdiI="
   },
   "ns_disqus_comments": {
     "version": "12.1.0",
@@ -53584,12 +53593,10 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "spt_socialmedia": {
-    "version": "5.1.0",
-    "t3_versions": [
-      12
-    ],
+    "version": "6.0.0",
+    "t3_versions": [],
     "description": "Extension to manage social media widgets.",
-    "hash": "sha256-wqod8dko6WavS6/Y5U2IcBQ13m86FqXVCYeBw520YX8="
+    "hash": "sha256-8El7LvU4aUYvehvMJ3vF+RlO8vAnpMEM1k/zSVFeHiQ="
   },
   "spt_storelocator": {
     "version": "1.0.1",
@@ -55639,14 +55646,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "t3_tcpdf": {
-    "version": "6.1.1",
+    "version": "6.2.0",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Make TCPDF library (www.tcpdf.org) available within TYPO3",
-    "hash": "sha256-gp/0HLGBo/8TQ9OHcDUebdz46PAEGF3MvngqqNj8syM="
+    "hash": "sha256-Hr8FLYengK4l+OXSrDFG1yoNgiWr+xcSOSrWsALJEBc="
   },
   "t3_translator": {
     "version": "1.0.2",
