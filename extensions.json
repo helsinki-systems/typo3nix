@@ -3571,12 +3571,12 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.316.4",
+    "version": "3.316.5",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-00XYG//HGmBnK0DqvLde0aaJdmWjmuw356ffLhVMt/c="
+    "hash": "sha256-mMykODe67M13yLEWHvxb0txSj1R0r18z03kOQ5wVMnk="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -6536,6 +6536,14 @@
     ],
     "description": "Page Cache Expires cares of tt_content starttime/endtime",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "cacheflow": {
+    "version": "1.0.3",
+    "t3_versions": [
+      12
+    ],
+    "description": "Continuous background refreshing of cached pages.",
+    "hash": "sha256-mlEHqceIA8k7u/hDpT/o+WFOLJ/vd+gJw9vuvNhPShQ="
   },
   "cachemgm": {
     "version": "11.0.0",
@@ -22785,13 +22793,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "glossaries": {
-    "version": "4.0.3",
+    "version": "4.0.4",
     "t3_versions": [
       11,
       12
     ],
     "description": "Extension for displaying and managing your website glossar. Includes a backend module, statistics, extended authorizations and much more.f",
-    "hash": "sha256-QFCnZaALw14q6lZC7FU9kZnnuH3Wk9SWh4Yqtb9KsYo="
+    "hash": "sha256-hHtgz0hqdHyvqdGnZG8opsqQOdNlKfic3qsz9LhB4QU="
   },
   "glossarify": {
     "version": "0.0.1",
@@ -30659,6 +30667,14 @@
     ],
     "description": "Fournir route pour vérifier l'état des services utilisés",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "lbo_image_quality": {
+    "version": "1.0.0",
+    "t3_versions": [
+      11
+    ],
+    "description": "",
+    "hash": "sha256-ZjQBbMIVlRX2FW3ekd/wFzE0U9whPd87xpCDTIg5b8o="
   },
   "lbo_links": {
     "version": "1.0.6",
@@ -39485,14 +39501,14 @@
     "hash": "sha256-d56t0LV5x4uR80dXXh3q7LwLGRjbYG2k3bro0WJ82Og="
   },
   "ns_google_sitekit": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "t3_versions": [
       10,
       11,
       12
     ],
-    "description": "Connect Google Analytics, Search Console, PageSpeed Insights, and Tag Manager to your TYPO3 site without coding. Improve your website's performance and SEO with the Official Google Site Kit.",
-    "hash": "sha256-Wl6qb+Kwowu0nW9ZH52KDNsXjJIspGWfJFWVRSqRN14="
+    "description": "Know what's going on with your TYPO3 site? How users visit and interact with your pages? Get Every Insights with single click button of Popular Google Tools including Google Analytics, Search Console, Google Ads & AdSense, and Tag Manager to your TYPO3 site without coding. Improve your website's performance and SEO.",
+    "hash": "sha256-eccEiIvPCVbag5YzVf9GWeHTDhHuYc3Y4y2sZrcFDkY="
   },
   "ns_googledocs": {
     "version": "2.0.1",
@@ -45625,13 +45641,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "questions": {
-    "version": "4.0.8",
+    "version": "4.0.11",
     "t3_versions": [
       11,
       12
     ],
     "description": "Questions is a frequently asked questions (FAQ) extension for TYPO3. It's compatible with following extensions: shop, ",
-    "hash": "sha256-Q4hpma4OYy29IwXWKVwAG02tjJ+Ivi6vBS2ET7L0Hxg="
+    "hash": "sha256-Wz1ZGobtb5a2/86YJnOdtAIaNgTzGl+HZK0ZC17VVdc="
   },
   "quick_shop": {
     "version": "10.0.12",
@@ -49400,13 +49416,13 @@
     "hash": "sha256-pbi7qVxv5+I6JbCj/dc4959Oobjl3FpEwDBWYZKUyvM="
   },
   "schema": {
-    "version": "3.5.0",
+    "version": "3.6.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "API and view helpers for schema.org markup",
-    "hash": "sha256-v/yGlkTgvlkWhXia1UeXbewIo8DRUVyCva8g1AFkdHM="
+    "hash": "sha256-n0i1c6Pgcv0PfstKMC/rFBGE2iOzq8f8lidt+3//Qpw="
   },
   "schema_auto": {
     "version": "2.1.0",
@@ -49454,13 +49470,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "schema_pending": {
-    "version": "2.4.0",
+    "version": "2.5.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Extend the schema extension with pending terms",
-    "hash": "sha256-t37vz2otAFOqv56Hr9bx80OHrw+Q7M6R5HzavLgU8FU="
+    "hash": "sha256-5fMcP3tT7Mue+2LysBAYaoZTZ6lcwTLlJldSKUQGZaA="
   },
   "schema_virtuallocation": {
     "version": "2.1.0",
@@ -50771,6 +50787,16 @@
     "description": "This extension generating simple list of predefined search request for Shop System (tt_products) items. Useful when you had to display on website not only list of categories but also special lists of results for some search requests (e.g. Item producer).",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "shop_stripe": {
+    "version": "7.128.0",
+    "t3_versions": [
+      10,
+      11,
+      12
+    ],
+    "description": "",
+    "hash": "sha256-UwnKhUMAQ8YNh+f4r0bcd9nW/y+pVlXaZK4J42EaqPY="
+  },
   "shopcart": {
     "version": "0.0.1",
     "t3_versions": [],
@@ -51337,14 +51363,15 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "single_site": {
-    "version": "1.2.0",
+    "version": "1.3.0",
     "t3_versions": [
       9,
       10,
-      11
+      11,
+      12
     ],
     "description": "Optimize TYPO3 site handling for a single site installation",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-Zn+Elfmc7g5jDbAIZWF9XFePv9YveecxvfvyDSfqwpI="
   },
   "sirr": {
     "version": "1.0.2",
