@@ -2074,12 +2074,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "altcha": {
-    "version": "0.3.2",
+    "version": "0.3.3",
     "t3_versions": [
       12
     ],
     "description": "TYPO3 form element for spam protection by utilizing the proof-of-work mechanism Altcha.",
-    "hash": "sha256-Unsmb0dYgC3s5INQJvQNQfollwBnPi5AH7CBw6o4Rls="
+    "hash": "sha256-o0pkTc0SkSstb29UzSLCm+5WPhCy1BmaMwHRfOzXz4o="
   },
   "altern_lang_menu_page_title": {
     "version": "1.0.1",
@@ -3571,12 +3571,12 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.316.5",
+    "version": "3.316.6",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-mMykODe67M13yLEWHvxb0txSj1R0r18z03kOQ5wVMnk="
+    "hash": "sha256-3/3gVRwoWV4/LOF8NSslet5UntjOn2jbvMyWFipxqrQ="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -23892,12 +23892,13 @@
     "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
   },
   "hd_structureddata": {
-    "version": "0.3.0",
+    "version": "0.5.0",
     "t3_versions": [
+      11,
       12
     ],
     "description": "Extension for adding structured JSON-LD into page headers",
-    "hash": "sha256-pAQWjBvlgW8/O765jCMOosNc8oZvt8IlAKY+RxzWSGo="
+    "hash": "sha256-2eH8tkpYId2Sm9cdy3i5m4RkobEvBNwMagUPQcsjQ+s="
   },
   "hd_translator": {
     "version": "1.0.9",
@@ -34776,14 +34777,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "miniorange_saml": {
-    "version": "2.0.7",
+    "version": "5.2.0",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Typo3 SAML Single Sign-On (SSO) extension allows your users to login to your Typo3 site by authenticating with their SAML 2.0 IdP (Identity Providers). SAML Authentication extension for Typo3 extension allows SSO with Azure AD, Azure AD B2C, Keycloak, ADFS, Okta, Shibboleth, Salesforce, GSuite / Google Apps, Office 365, SimpleSAMLphp, OpenAM, Centrify, Ping, RSA, IBM, Oracle, OneLogin, Bitium, WSO2, NetIQ, ClassLink, FusionAuth, Absorb LMS and all SAML 2.0 capable Identity Providers into your Typo3 site. Typo3 SAML SSO extension by miniOrange provides features like Attribute Mapping, Group Mapping, and Role Mapping which helps to map user data from your IdP to Typo3. You can add an SSO Login Button on both your Typo3 frontend and backend (Admin Panel) login page with our extension.",
-    "hash": "sha256-Ap77wi3ZPHBnGxTzCzkKT3q8u2P5/sKWheiDcZ3Op3o="
+    "hash": "sha256-XUHSsl2FrYsydP+hLiJOj1hkCeQ851IPihVCY23SrzM="
   },
   "miniredirect": {
     "version": "3.0.1",
@@ -40049,13 +40050,13 @@
     "hash": "sha256-3Qr9dpQ5dJf1Sr4y1JBIxIWQ0Nq8tGqns7ftIprGDCU="
   },
   "oauth2_server": {
-    "version": "1.5.3",
+    "version": "1.5.4",
     "t3_versions": [
       10,
       11
     ],
     "description": "OAuth2 server for TYPO3 based on PHP League's OAuth2 Server.",
-    "hash": "sha256-N476l/iBUh0Yju+gC2hd+EDgcG0vf3KmyVxiBN+OfVg="
+    "hash": "sha256-76d2d3Z7LyMOrQIF4jHrE10aIhiHlWwq7fBUd2eLIjo="
   },
   "oauth_openid_single_sign_on": {
     "version": "1.0.8",
@@ -40654,13 +40655,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "official_cleverreach": {
-    "version": "3.0.0",
+    "version": "3.0.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Are your clients already fans of your business? The perfect email newsletter software for your TYPO3 content management system: test CleverReach® now!",
-    "hash": "sha256-hkZx0zyZoFLCrqh5HHfKk+kCK57r7kU/1iAwebTNlMc="
+    "hash": "sha256-QPVP50reqUburVV8Qdh40B85euVz9rDoeUuHMrf3Gw4="
   },
   "og_base": {
     "version": "0.0.3",
@@ -49842,13 +49843,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "seminars": {
-    "version": "5.5.2",
+    "version": "5.5.3",
     "t3_versions": [
       10,
       11
     ],
     "description": "Allows you to create and manage a list of seminars, workshops, lectures, theater performances and other events, allowing front-end users to sign up. FE users also can create and edit events.",
-    "hash": "sha256-+5pbUxTTwr0OydKRVlMbfQUP28RSnVtvQ6OYad6H37s="
+    "hash": "sha256-ns/RclrDQPDXd4rNVNgWnvaEXg3VKlA+BVnGCyZiPFI="
   },
   "seminarscalredirect": {
     "version": "1.0.0",
@@ -50758,13 +50759,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "shop": {
-    "version": "4.3.0",
+    "version": "4.4.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Simple Shop for TYPO3 incl. PayPal, PayPal-Plus, Klarna, Stripe, Bookmarks, UPS-API, Invoice generation, backend module, compare feature, graduated prices and many more - note there is a Pro version as well!",
-    "hash": "sha256-ZJA46vSu5fIXzB4nxjUYG4dcJSzk+X7CgwgEQRNOXKk="
+    "hash": "sha256-+/0cKXJ7e9lSfQPrRSoD6MiqFiXFS0TAHSgYd/QvPX4="
   },
   "shop3ox": {
     "version": "0.0.3",
@@ -63032,12 +63033,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "w_query2csv": {
-    "version": "0.6.7",
+    "version": "0.6.8",
     "t3_versions": [
       12
     ],
     "description": "This is a CSV generator, which combines simplicity with high configurability and data processing powers. It provides download points",
-    "hash": "sha256-/9vdI9nlne3kmvM4iYrQpn95WViAc4lHRRqEcR2xB68="
+    "hash": "sha256-gY7Uku6amIe6MUOAh3Blc9ltsEM/jdQfSkPggS79xD4="
   },
   "w_rating": {
     "version": "0.2.1",
