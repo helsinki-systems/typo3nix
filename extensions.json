@@ -3571,12 +3571,12 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.316.6",
+    "version": "3.316.7",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-3/3gVRwoWV4/LOF8NSslet5UntjOn2jbvMyWFipxqrQ="
+    "hash": "sha256-KvckgcMM+cY46X7Lia5DwvhBVHqAWu9Q61Wfy2vJJrE="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -14048,13 +14048,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "diskusage": {
-    "version": "3.0.0",
+    "version": "3.1.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Extension to visualize disk usage of TYPO3 storages",
-    "hash": "sha256-bw9Awoj8d1AwqhzgWqHSaMBmjiltx5bWX4hncY4CCUE="
+    "hash": "sha256-yR0TGKlFGRhpWCZhKCIg67YMORhZ9gPqrOVDfc03zhA="
   },
   "display_cond_user_func": {
     "version": "6.2.0",
@@ -15379,13 +15379,13 @@
     "hash": "sha256-gW7MjfPZVKNO7ylcpehDx/yrBLldk4ajdAwr9f44UW4="
   },
   "domaincheck": {
-    "version": "2.0.0",
+    "version": "2.1.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Frontend plugin to check domains.",
-    "hash": "sha256-nYkJSO7V/CJI8ZxhZKzLE24vO0gHm1nehBiaASWdnOU="
+    "hash": "sha256-OS7En/jIqOeWCB2Y5fKmtverh+hZEYV2CQJ68nsXi0I="
   },
   "domb_fussballde_js": {
     "version": "1.0.3",
@@ -19142,12 +19142,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "femanager_mail_subscribe": {
-    "version": "2.0.0",
+    "version": "2.1.0",
     "t3_versions": [
       12
     ],
     "description": "Adds newsletter subscription fields for mail extension to femanager",
-    "hash": "sha256-Ln2CNEvcLtvCZhbarmBT2tAwW7DsFuSox3ZpQ8wwnZE="
+    "hash": "sha256-bY+iaIUELXqy+dQNMJn94RAVpgFxW3XOp0V6i+3dpR0="
   },
   "femanager_mailchimp": {
     "version": "2.0.1",
@@ -28149,13 +28149,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "job_finder": {
-    "version": "4.3.0",
+    "version": "4.3.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Job finder extension including job listing, details, application, microdata and more.",
-    "hash": "sha256-7I84GotREkgTYwkZETpbN0b07wOjGjvXdFlTBFpExko="
+    "hash": "sha256-EhTBhTRKpfkeL9ArmXaHPr469ZnWojBCBUc0SiqRr1w="
   },
   "job_market": {
     "version": "2.1.1",
@@ -30678,13 +30678,12 @@
     "hash": "sha256-ZjQBbMIVlRX2FW3ekd/wFzE0U9whPd87xpCDTIg5b8o="
   },
   "lbo_links": {
-    "version": "1.0.6",
+    "version": "12.0.0",
     "t3_versions": [
-      9,
-      10
+      12
     ],
     "description": "Manage file, internal and external links",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-g6ajZ9dY6iCKiJsNMc7qnKmaTsr7Vjk7kXbQd+4LBYo="
   },
   "lbo_notices": {
     "version": "12.0.1",
@@ -31923,13 +31922,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "lux": {
-    "version": "35.9.0",
+    "version": "35.11.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Living User Experience - LUX - the Marketing Automation tool for TYPO3.",
-    "hash": "sha256-Tt6wAcJcKM/o1dx9RRy3rh7I7asP7VHCskyAK3g5k+8="
+    "hash": "sha256-mrSdRuTOySfKGeC+1a8y4yHyCodPAc3HSgnwLlZZqCw="
   },
   "luxletter": {
     "version": "26.1.0",
@@ -33514,13 +33513,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "me_google_calendar": {
-    "version": "5.1.1",
+    "version": "5.2.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Includes the jQuery Plugin FullCalendar, which generates a skinable calendar with different views (month, week, day, week list, day list etc.) from Google Calendar XML Feed(s) - now with extbase/fluid.",
-    "hash": "sha256-fF5rNNUnN+TQtA1+OuJDnwJVNUCd+r1FP+Qn9XISj/E="
+    "hash": "sha256-+QyNBzqTjZ7Ko+Fy68QwFwhNGTeI6ezB8QhXGNVCOFE="
   },
   "me_media": {
     "version": "1.3.2",
@@ -44290,6 +44289,14 @@
     "description": "Full database plugin (List-, Detail-, Latestview) of powermail entries. Frontend edit possible. Extend powermail to an eventlist or a guestbook, e.g.",
     "hash": "sha256-Q06KDDhk5rbeYaX09KwVBnonhBfUIUl7GbCsUaEYnmA="
   },
+  "powermail_jira_issues": {
+    "version": "0.2.1",
+    "t3_versions": [
+      12
+    ],
+    "description": "Post powermail form submissions as jira issues",
+    "hash": "sha256-rr6X0cfpXOSgIQRHKcQPjKr+8ebn/byPV2FPAWY6PF0="
+  },
   "powermail_limits": {
     "version": "1.0.3",
     "t3_versions": [
@@ -45796,6 +45803,14 @@
     ],
     "description": "This is a TYPO3 extension. It randomizes content in the database or during an export. It's a wrapper for fakerphp/faker.",
     "hash": "sha256-wE8YETdAx9SJq6fbndHGE/zpbzJCLd+WbEdKCxOrpP8="
+  },
+  "randomquote": {
+    "version": "1.0.0",
+    "t3_versions": [
+      10
+    ],
+    "description": "Frontend plugin to display random quotes",
+    "hash": "sha256-wARoIghzLmAYwUX0xAVJsw7xsG+PNaYCBOD0XSmLg80="
   },
   "rates": {
     "version": "0.0.1",
@@ -53131,12 +53146,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "solr": {
-    "version": "12.0.3",
+    "version": "12.0.4",
     "t3_versions": [
       12
     ],
     "description": "Apache Solr for TYPO3 is the enterprise search server you were looking for with special features such as Faceted Search or Synonym Support and incredibly fast response times of results within milliseconds.",
-    "hash": "sha256-iPXaYbLSf5b7jCX3abKHOiihTn+wEq8GcjOZjPgPO40="
+    "hash": "sha256-eLRSbFliki5PGR2KrK7ghwb0wgzNTnEmDZx/3saV644="
   },
   "solr_boutique": {
     "version": "1.0.0",
@@ -58576,12 +58591,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "tika": {
-    "version": "12.0.2",
+    "version": "12.0.3",
     "t3_versions": [
       12
     ],
     "description": "Provides Tika services for TYPO3 to detect a document's language, extract meta data, and extract content from files. Can either use a stand alone Tika executable or Tika integrated in a Solr server with an activated extracting request handler.",
-    "hash": "sha256-q0ez3F0xrmtqv+3AtduUlIYjxM9cf0VNqNpfkHYoAT8="
+    "hash": "sha256-s6vqi0OvNNSMxlOVbTTjU+WDNc1UdxQjVlnwdc5AeK8="
   },
   "tiktok": {
     "version": "2.1.0",
@@ -65373,6 +65388,14 @@
     "description": "Change the a name\"{$uid}\"/a to span id\"ce_{$uid}\"/span",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "xima_typo3_content_planner": {
+    "version": "1.0.0",
+    "t3_versions": [
+      12
+    ],
+    "description": "This extension provides a page status functionality to support the planning of content work.",
+    "hash": "sha256-5G7mjV8y4E0LgcqcDPY2OG+FBfma9p8cYKO+zq5nTtM="
+  },
   "xima_typo3_mailcatcher": {
     "version": "1.4.0",
     "t3_versions": [
@@ -65390,6 +65413,15 @@
     ],
     "description": "This extension provides a new page type for creating an editor manual right in the TYPO3 backend.",
     "hash": "sha256-Kbfq6NSBYFxtRRGaJpSez5egdGnA+xHIJf96Seeeppc="
+  },
+  "xima_typo3_recent_updates": {
+    "version": "1.0.0",
+    "t3_versions": [
+      11,
+      12
+    ],
+    "description": "A widget for the dashboard to display new and recently updated elements.",
+    "hash": "sha256-+LM9vGdZ8oAs7Zs1E91YOOr10++0TlU+Hx0bg+W4LAo="
   },
   "xing": {
     "version": "1.0.3",
