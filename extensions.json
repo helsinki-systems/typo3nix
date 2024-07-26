@@ -14048,13 +14048,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "diskusage": {
-    "version": "3.1.1",
+    "version": "3.2.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Extension to visualize disk usage of TYPO3 storages",
-    "hash": "sha256-yR0TGKlFGRhpWCZhKCIg67YMORhZ9gPqrOVDfc03zhA="
+    "hash": "sha256-bypRzoh4fbpbZ12KlV6YK6mP70JUJ5evQN/v0miX8NY="
   },
   "display_cond_user_func": {
     "version": "6.2.0",
@@ -14143,12 +14143,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "div2007": {
-    "version": "2.1.5",
+    "version": "2.1.6",
     "t3_versions": [
       12
     ],
     "description": "This library offers classes and functions to other TYPO3 extensions. Replacement for tslib_pibase methods.",
-    "hash": "sha256-MpjufySeNaieGqunFTlmxW7e2Dz4gHVYFuL0uG8EzTk="
+    "hash": "sha256-0cBbhOseETgckdofvBm+Xi3fnGEzOddIe/MH4YrneQM="
   },
   "diva": {
     "version": "8.7.1",
@@ -29898,12 +29898,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "klaro_consent_manager": {
-    "version": "2.0.6",
+    "version": "2.0.7",
     "t3_versions": [
       12
     ],
     "description": "Functionally complete, flexible TYPO3 integration of Klaro! Consent Management by KIProtect GmbH, a powerful tool that protects your visitors' privacy and data.",
-    "hash": "sha256-EFcsVxEdBu8g+I+78DOPfYnSJ31GEh270Kx9yYzNsV0="
+    "hash": "sha256-AtNwNHCJ7ekU+Xg5e6M4Lt//eKH/TEV7O1tncRzrZ2s="
   },
   "klarokratie": {
     "version": "12.4.6",
@@ -34776,14 +34776,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "miniorange_saml": {
-    "version": "5.2.0",
+    "version": "5.3.0",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Typo3 SAML Single Sign-On (SSO) extension allows your users to login to your Typo3 site by authenticating with their SAML 2.0 IdP (Identity Providers). SAML Authentication extension for Typo3 extension allows SSO with Azure AD, Azure AD B2C, Keycloak, ADFS, Okta, Shibboleth, Salesforce, GSuite / Google Apps, Office 365, SimpleSAMLphp, OpenAM, Centrify, Ping, RSA, IBM, Oracle, OneLogin, Bitium, WSO2, NetIQ, ClassLink, FusionAuth, Absorb LMS and all SAML 2.0 capable Identity Providers into your Typo3 site. Typo3 SAML SSO extension by miniOrange provides features like Attribute Mapping, Group Mapping, and Role Mapping which helps to map user data from your IdP to Typo3. You can add an SSO Login Button on both your Typo3 frontend and backend (Admin Panel) login page with our extension.",
-    "hash": "sha256-XUHSsl2FrYsydP+hLiJOj1hkCeQ851IPihVCY23SrzM="
+    "hash": "sha256-Tu/C9UpSRjxJRX2BMQYlaOH0hBp8ZTuV8Zm+li64e0c="
   },
   "miniredirect": {
     "version": "3.0.1",
@@ -39602,12 +39602,12 @@
     "hash": "sha256-kPxKaPOFunsxkd20gpiPaMTtTkdDsAyhYtNQVZgoXGY="
   },
   "ns_license": {
-    "version": "12.0.11",
+    "version": "13.0.0",
     "t3_versions": [
       12
     ],
     "description": "Manage License(s) of your purchased from T3Planet such as TYPO3 Templates and TYPO3 Extensions. Documentation & Free Support https://docs.t3planet.com/en/latest/License/LicenseActivation/Index.html",
-    "hash": "sha256-CmoOlOgLQMipD9K0zQUZCjcqUh8PRGFMoJX7UAkCXqA="
+    "hash": "sha256-3izg7Z8sGhfK2tNGaDPSgAUksHEsGETOM9kJdKaTv8w="
   },
   "ns_news_advancedsearch": {
     "version": "12.1.0",
@@ -59670,14 +59670,14 @@
     "hash": "sha256-uvLYZfQ0gOjezTT5s5DhCWTw1AGV4eo1o3w7LxbTjWQ="
   },
   "tobserver": {
-    "version": "3.1.1",
+    "version": "3.1.2",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Extension to send TYPO3 instance data to tObserver Monitoring Service",
-    "hash": "sha256-yPrudg74UsgXw6mPrfg/KOlpKKi1+XZA2+SxgbnTH5U="
+    "hash": "sha256-woIkmk9Bt+LkeEyxtZNa/D6QvVXwve+YQYaqrzRGax0="
   },
   "toc": {
     "version": "0.9.0",
@@ -60739,13 +60739,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "tt_address": {
-    "version": "8.1.1",
+    "version": "9.0.0",
     "t3_versions": [
-      11,
       12
     ],
     "description": "Displays a list of addresses from an address table on the page.",
-    "hash": "sha256-a7P8CYUR1UidjsagAQU/8BXsel5P3wqvDiDWwH/m0nA="
+    "hash": "sha256-G4eQBeOe54j2+2yFI35VCjkQMDvfsaVI3gkS/+BceLk="
   },
   "tt_board": {
     "version": "1.15.0",
