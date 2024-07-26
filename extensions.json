@@ -3571,12 +3571,12 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.316.7",
+    "version": "3.316.8",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-KvckgcMM+cY46X7Lia5DwvhBVHqAWu9Q61Wfy2vJJrE="
+    "hash": "sha256-o10p0VZas+HIG7fWXtRJugHvzJYqLtkUBwLT/ad1Ss0="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -13248,12 +13248,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "debug_mysql_db": {
-    "version": "1.8.0",
+    "version": "1.8.1",
     "t3_versions": [
       12
     ],
     "description": "Extends \\TYPO3\\CMS\\Core\\Database\\DatabaseConnection and \\TYPO3\\CMS\\Core\\Database\\Connection to show Errors and Debug-Messages. Debugging of sql-queries by debug and FileWriter.",
-    "hash": "sha256-DLKvPKFb27HkcYibsRCROofZzIpRu4BwOXoovsVn7No="
+    "hash": "sha256-jJOjuqebtY8Vm56ItXkd56uw9ywR0XKgjCJJgqUenFs="
   },
   "debug_settings_task": {
     "version": "2.2.1",
@@ -30638,12 +30638,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "lbo_backend_shortcuts": {
-    "version": "11.0.2",
+    "version": "12.0.0",
     "t3_versions": [
-      11
+      12
     ],
     "description": "",
-    "hash": "sha256-AmipCdkNOpLstH2jk0q2RKfLcUv0eJfNAMsucfZ35X4="
+    "hash": "sha256-HtbeEEMLATaMe5RsDLTQjzPd3ajUQ9QAyGv/tvwMUWM="
   },
   "lbo_footnote": {
     "version": "1.0.0",
@@ -37251,13 +37251,13 @@
     "hash": "sha256-gusO/duN1AHz3gqq417Ys/jd8pUwXga3O9z8yEndSRk="
   },
   "mymap": {
-    "version": "1.7.3",
+    "version": "1.7.5",
     "t3_versions": [
       11,
       12
     ],
     "description": "Google maps with radial search and hierarchic categories (category tree). Show the results in responsive Google maps, traffic- and bicycling layer included and can be activated via constant editor.",
-    "hash": "sha256-ilXDr//vQN7vQi6Gy4JcI91222c5cyMcNEUFgg+eLA8="
+    "hash": "sha256-C4ihDxWXDNgEyIWg1e62itN0LN8bHU8nvMbVz4lWW+E="
   },
   "mypuzz_ftp": {
     "version": "1.1.1",
