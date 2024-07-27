@@ -37313,13 +37313,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mysql_widget": {
-    "version": "0.2.1",
+    "version": "1.0.1",
     "t3_versions": [
-      10,
-      11
+      12
     ],
     "description": "Add DashBoard widgets to show MySQL status",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-pc9xn0hdtWxWd/nMRU4RiGBh5IPMBYygn7Oq+1ruv18="
   },
   "mysqlprofiler": {
     "version": "1.0.2",
