@@ -31922,13 +31922,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "lux": {
-    "version": "35.11.0",
+    "version": "36.0.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Living User Experience - LUX - the Marketing Automation tool for TYPO3.",
-    "hash": "sha256-mrSdRuTOySfKGeC+1a8y4yHyCodPAc3HSgnwLlZZqCw="
+    "hash": "sha256-MHtmpj9L0wFz+9wvzSbqvB647Z8A7IMkrhSvaK6Z5Rk="
   },
   "luxletter": {
     "version": "26.1.0",
