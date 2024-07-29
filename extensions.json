@@ -1599,6 +1599,14 @@
     "description": "This extension provides option to translate content element, and tca record texts to Deepl, Google, OpenAI,  Gemini and Claude supported languages.",
     "hash": "sha256-LrZ+IK11SKP3RlLmJggx2X2/cL8lV1Xhd4R045LglW8="
   },
+  "aichemist": {
+    "version": "1.5.0",
+    "t3_versions": [
+      11
+    ],
+    "description": "Extension to do magic AI stuff around TYPO3",
+    "hash": "sha256-3JmynyVlhtsXuaXsRcZg9vPVC/xYjK5KzWYfTCezpqM="
+  },
   "aimeos": {
     "version": "24.7.1",
     "t3_versions": [
@@ -17104,12 +17112,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "error_log": {
-    "version": "12.4.1",
+    "version": "12.4.2",
     "t3_versions": [
       12
     ],
     "description": "Error log extension for TYPO3 CMS",
-    "hash": "sha256-6i3/kIvMtNrwLq0gPyoqVhWjIkXWwpupimzH7h09H5o="
+    "hash": "sha256-gzkP0m+ZnMJcFPjEZfTfEw8BWyjsTjjekwr37/CC7As="
   },
   "ers_qrcode": {
     "version": "0.2.3",
@@ -30695,12 +30703,12 @@
     "hash": "sha256-6YI9maZzm6lj5krGmxGgYhrQlEvyoiXZ3OILE+fi9kw="
   },
   "lbo_vibeo": {
-    "version": "1.0.0",
+    "version": "12.0.3",
     "t3_versions": [
-      10
+      12
     ],
     "description": "This extension integrates the Vibeo project, an accessible media player based on MediaElement.js that is meant to respect the SGQRI standards of the provincial government of Quebec. It supports all major video and audio formats, preview images, track files, and is able to fetch video files from Youtube and Vimeo. Vibeo is developed and maintained by LibÃÂ©o, this TYPO3 extension was built by Qc media.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-Hp6H5sSY5xjCSWxNMFpNhw58modoW3yN7YYtm3XrUFI="
   },
   "ldap_auth": {
     "version": "0.2.1",
@@ -34776,14 +34784,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "miniorange_saml": {
-    "version": "5.3.0",
+    "version": "5.4.0",
     "t3_versions": [
       10,
       11,
       12
     ],
-    "description": "Typo3 SAML Single Sign-On (SSO) extension allows your users to login to your Typo3 site by authenticating with their SAML 2.0 IdP (Identity Providers). SAML Authentication extension for Typo3 extension allows SSO with Azure AD, Azure AD B2C, Keycloak, ADFS, Okta, Shibboleth, Salesforce, GSuite / Google Apps, Office 365, SimpleSAMLphp, OpenAM, Centrify, Ping, RSA, IBM, Oracle, OneLogin, Bitium, WSO2, NetIQ, ClassLink, FusionAuth, Absorb LMS and all SAML 2.0 capable Identity Providers into your Typo3 site. Typo3 SAML SSO extension by miniOrange provides features like Attribute Mapping, Group Mapping, and Role Mapping which helps to map user data from your IdP to Typo3. You can add an SSO Login Button on both your Typo3 frontend and backend (Admin Panel) login page with our extension.",
-    "hash": "sha256-Tu/C9UpSRjxJRX2BMQYlaOH0hBp8ZTuV8Zm+li64e0c="
+    "description": "Typo3 SAML SSO for frontend and Backend",
+    "hash": "sha256-YWlXVEvf8DfU4zQDl2id3LwNbEFMLbiDkv2Srl0v7QA="
   },
   "miniredirect": {
     "version": "3.0.1",
@@ -44790,12 +44798,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "proxy": {
-    "version": "12.0.0",
+    "version": "12.0.1",
     "t3_versions": [
       12
     ],
     "description": "Proxy extension for embedding external HTML sources",
-    "hash": "sha256-08KP0GMv5EED2lskpjCL9AiJEJmI94kpKIAj60tjjvE="
+    "hash": "sha256-v51APybMIpP6anYGwadVwzObrNmCZagW1dRWkPFwz5E="
   },
   "proxycachemanager": {
     "version": "4.0.1",
@@ -44827,12 +44835,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "psb_foundation": {
-    "version": "2.2.2",
+    "version": "2.2.3",
     "t3_versions": [
       12
     ],
     "description": "Configuration framework for TYPO3 extension development",
-    "hash": "sha256-dzd9Qz77jnjg2zrcMQES3bJIAh4UmzSG2sAT06+wNX0="
+    "hash": "sha256-RXqcGDicz4hxoDgEee/jj2QoQZxB5F0tZdfORkx7hEA="
   },
   "psb_view_helpers": {
     "version": "2.0.0",
@@ -45804,12 +45812,13 @@
     "hash": "sha256-wE8YETdAx9SJq6fbndHGE/zpbzJCLd+WbEdKCxOrpP8="
   },
   "randomquote": {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "t3_versions": [
-      10
+      10,
+      11
     ],
     "description": "Frontend plugin to display random quotes",
-    "hash": "sha256-wARoIghzLmAYwUX0xAVJsw7xsG+PNaYCBOD0XSmLg80="
+    "hash": "sha256-v69kwCWv/GCEA8xEBITSDKbwvMd6phwsZyJOB5QTlRo="
   },
   "rates": {
     "version": "0.0.1",
@@ -49857,13 +49866,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "seminars": {
-    "version": "5.5.3",
+    "version": "5.6.0",
     "t3_versions": [
       10,
       11
     ],
     "description": "Allows you to create and manage a list of seminars, workshops, lectures, theater performances and other events, allowing front-end users to sign up. FE users also can create and edit events.",
-    "hash": "sha256-ns/RclrDQPDXd4rNVNgWnvaEXg3VKlA+BVnGCyZiPFI="
+    "hash": "sha256-BOEqDAOIWuCP2HGLjyQ05MXXuhENe3b7Zz83d/mIpdM="
   },
   "seminarscalredirect": {
     "version": "1.0.0",
@@ -65480,13 +65489,13 @@
     "hash": "sha256-HayZS8G+lXzNVjOPhb2kpcypm4jFvzK5plJ+nDNXHJo="
   },
   "xm_formcycle": {
-    "version": "9.1.1",
+    "version": "9.1.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "Embed XIMA Formcycle forms into your TYPO3 website",
-    "hash": "sha256-1Sd0cFPoXX3sojIqJozGYVy0c4lTgmR2TEh+2c/oMu8="
+    "hash": "sha256-0f4Y5BOAidCEeuAGgQo1texbTiosRqJmXByDR2dfjNE="
   },
   "xm_goaccess": {
     "version": "11.0.4",
