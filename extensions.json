@@ -1576,12 +1576,12 @@
     "hash": "sha256-ee1Rl3Ok1e1HP2daIVmwXQEzGrTz2ymo8zv8dhHnoHI="
   },
   "ai_suite": {
-    "version": "12.3.1",
+    "version": "12.4.0",
     "t3_versions": [
       12
     ],
     "description": "Adds a backend module as well as various helper functionalities and features to your TYPO3 backend, which are intended to make the daily work of editors easier and faster with the help of AI.",
-    "hash": "sha256-nxVqRRpKy8TXDpRk9riBpSAEy+lgKQrZlZp7JPg4KRw="
+    "hash": "sha256-zaGJpv5Mzxndpo7uBR7oTr73h+jK5S4401xG4SH0mAY="
   },
   "ai_tools": {
     "version": "0.0.1",
@@ -3579,12 +3579,12 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.316.8",
+    "version": "3.316.9",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-o10p0VZas+HIG7fWXtRJugHvzJYqLtkUBwLT/ad1Ss0="
+    "hash": "sha256-Sku0BxMWxneB1ZIN1WtyK1BLupoQfDRRpgMD5idSGJM="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -28965,12 +28965,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "jwtools2": {
-    "version": "7.1.0",
+    "version": "7.1.1",
     "t3_versions": [
       12
     ],
     "description": "Jwtools2 contains a scheduler task for Solr to index multiple Pagetrees and a task to execute SQL-Queries. Further there are settings to enable some features in TYPO3 like showing the Page UID in Pagetree with a simple click in extensionmanager.",
-    "hash": "sha256-BHpEm+cECbGsEGLiIJNXr0bMtY5jeTnhtVAuY9zTvow="
+    "hash": "sha256-KZtLD+eRVW6CRuSnAS25TH4oUh8t80ZOKPByodG1dKA="
   },
   "k20events": {
     "version": "1.0.3",
@@ -30686,12 +30686,12 @@
     "hash": "sha256-ZjQBbMIVlRX2FW3ekd/wFzE0U9whPd87xpCDTIg5b8o="
   },
   "lbo_links": {
-    "version": "12.0.0",
+    "version": "12.0.1",
     "t3_versions": [
       12
     ],
     "description": "Manage file, internal and external links",
-    "hash": "sha256-g6ajZ9dY6iCKiJsNMc7qnKmaTsr7Vjk7kXbQd+4LBYo="
+    "hash": "sha256-JbauQsxzO8oPYW3KM89BZin8D2kpTNNu1q1ekjYeGok="
   },
   "lbo_notices": {
     "version": "12.0.1",
@@ -53154,12 +53154,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "solr": {
-    "version": "12.0.4",
+    "version": "12.0.5",
     "t3_versions": [
       12
     ],
     "description": "Apache Solr for TYPO3 is the enterprise search server you were looking for with special features such as Faceted Search or Synonym Support and incredibly fast response times of results within milliseconds.",
-    "hash": "sha256-eLRSbFliki5PGR2KrK7ghwb0wgzNTnEmDZx/3saV644="
+    "hash": "sha256-0A1skZIc37YE1oQKI86WT8z1qslWUgOQvcjT9o2RWZw="
   },
   "solr_boutique": {
     "version": "1.0.0",
