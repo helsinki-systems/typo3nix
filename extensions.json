@@ -1600,12 +1600,12 @@
     "hash": "sha256-LrZ+IK11SKP3RlLmJggx2X2/cL8lV1Xhd4R045LglW8="
   },
   "aichemist": {
-    "version": "1.5.0",
+    "version": "2.0.0",
     "t3_versions": [
-      11
+      12
     ],
     "description": "Extension to do magic AI stuff around TYPO3",
-    "hash": "sha256-3JmynyVlhtsXuaXsRcZg9vPVC/xYjK5KzWYfTCezpqM="
+    "hash": "sha256-mLO7/zsLctavB/gvr5k6AC7eiEf9qNvZ/9WPt9NvfxY="
   },
   "aimeos": {
     "version": "24.7.1",
@@ -2825,15 +2825,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "asdis": {
-    "version": "11.0.17",
+    "version": "11.1.0",
     "t3_versions": [
-      8,
-      9,
-      10,
-      11
+      11,
+      12
     ],
     "description": "Distributes on page assets onto multiple servers.",
-    "hash": "sha256-6is8xNkU/Ta3MOvXcijLjHSHNWGA6WqkB6HtnJwM8qg="
+    "hash": "sha256-me5/uQC4PDcZy9UPHnmaJ/oeszbSugA8Cfzkm2KE47w="
   },
   "asfk_cklogin": {
     "version": "1.1.0",
@@ -3138,6 +3136,16 @@
     ],
     "description": "This extension allows you to log into a TYPO3 backend or frontend via Auth0. Auth0 is the solution you need for web, mobile, IoT, and internal applications. Loved by developers and trusted by enterprises.",
     "hash": "sha256-3ChuoDWP1WvxkEPUO4cpdk5XJR1Znsey4UcSwlr9eHA="
+  },
+  "auth0_sso": {
+    "version": "1.0.0",
+    "t3_versions": [
+      10,
+      11,
+      12
+    ],
+    "description": "Auth0 extension for Typo3 allows your backend and frontend users to log into TYPO3 using Auth0 credentials.",
+    "hash": "sha256-sNBmufDVKKWMEQtrtOA3WZEN0s6rm618KfIJFOLZfy4="
   },
   "auth_certificate": {
     "version": "0.2.0",
@@ -3579,12 +3587,12 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.316.9",
+    "version": "3.316.10",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-Sku0BxMWxneB1ZIN1WtyK1BLupoQfDRRpgMD5idSGJM="
+    "hash": "sha256-nitqMAOtMjIcWxmoWqmvg9v1w9cTEU9DGZcMZwQjJC8="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -18113,13 +18121,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "extpagetitle": {
-    "version": "1.3.0",
+    "version": "1.4.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Easy setting of the browser page title in extensions",
-    "hash": "sha256-MSTd3pcnIuuW74RIpig74pzIeqrHbe4tJnBPm7fAAhw="
+    "hash": "sha256-HLzJbyODOCk3+UbQRek9h/WLI8poYsDoMT6ZwTi1XPU="
   },
   "extra_tags": {
     "version": "0.0.1",
@@ -20905,13 +20913,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "form_consent": {
-    "version": "2.2.0",
+    "version": "2.3.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "An extension for TYPO3 CMS that adds double opt-in functionality to EXT:form. It allows the dynamic adaptation of the entire double opt-in process using various events. In addition, the extension integrates seamlessly into TYPO3, for example to delete outdated consents in compliance with the GDPR.",
-    "hash": "sha256-lYh5iALQaYiRlLz5zaFn/nmmqWCrZhKN6fpQchuPxEk="
+    "hash": "sha256-f3xdkBh1eLrD22/4Ptmiy0c342Z/1Khwc/b/61PFPcg="
   },
   "form_country_select": {
     "version": "3.0.0",
@@ -30703,12 +30711,12 @@
     "hash": "sha256-6YI9maZzm6lj5krGmxGgYhrQlEvyoiXZ3OILE+fi9kw="
   },
   "lbo_vibeo": {
-    "version": "12.0.3",
+    "version": "12.0.4",
     "t3_versions": [
       12
     ],
     "description": "This extension integrates the Vibeo project, an accessible media player based on MediaElement.js that is meant to respect the SGQRI standards of the provincial government of Quebec. It supports all major video and audio formats, preview images, track files, and is able to fetch video files from Youtube and Vimeo. Vibeo is developed and maintained by LibÃÂ©o, this TYPO3 extension was built by Qc media.",
-    "hash": "sha256-Hp6H5sSY5xjCSWxNMFpNhw58modoW3yN7YYtm3XrUFI="
+    "hash": "sha256-nlekbWZLrlYuwrvB/lc9qh+d+JGi3QpsOMWgTiipeI0="
   },
   "ldap_auth": {
     "version": "0.2.1",
@@ -31930,13 +31938,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "lux": {
-    "version": "36.0.0",
+    "version": "36.1.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Living User Experience - LUX - the Marketing Automation tool for TYPO3.",
-    "hash": "sha256-MHtmpj9L0wFz+9wvzSbqvB647Z8A7IMkrhSvaK6Z5Rk="
+    "hash": "sha256-IZCCfw0MO2NO8O17SWJlUHnmzj0JaAZIoI4T/izlJAI="
   },
   "luxletter": {
     "version": "26.1.0",
@@ -35632,13 +35640,13 @@
     "hash": "sha256-QBq7RgOtpBz21jSQfzIxEurNCmBZlHvZXZt3wzoyyMw="
   },
   "modules": {
-    "version": "6.2.6",
+    "version": "6.2.7",
     "t3_versions": [
       11,
       12
     ],
     "description": "Modules - Little helper for creating frontend and backend modules in TYPO3",
-    "hash": "sha256-fqbsj3JixbxpzHuDKl8PvpJqscwrN8EdUmkk3Ly5UvI="
+    "hash": "sha256-RTuOi8nMN1x8WcUZ66PmA8a0mHhn/g9UarlxhiPIHEo="
   },
   "modulis_animated_gif": {
     "version": "0.0.4",
@@ -44377,22 +44385,21 @@
     "hash": "sha256-DXTxBoXGmgNbYhRt8E6dooUNwnbuxOD6Bav9cbDhHs0="
   },
   "powermailautocomplete": {
-    "version": "2.3.2",
+    "version": "2.3.3",
     "t3_versions": [
       11,
       12
     ],
     "description": "Add autocomplete tokens to powermail fields",
-    "hash": "sha256-p9XAkV3kYcmOfqQ8QiYYH1XxxWyCUE5vi5fbCHzbNSc="
+    "hash": "sha256-ZTOmHsezUflaIC4+SLgNsUfzVBJLmQ9Nzh3i9upL0PY="
   },
   "powermailcaptcha": {
-    "version": "1.6.1",
+    "version": "2.0.0",
     "t3_versions": [
-      11,
       12
     ],
     "description": "Captcha Extension for Powermail",
-    "hash": "sha256-/crJlclPMxo9MBW3wD7DxeHOQ4jM2Q256/saQLwDqU4="
+    "hash": "sha256-NCtIDaRyPyaEkaV4sOl/jjROXVsLJ/GDSTZaZBKNw8I="
   },
   "powermailcustomcss": {
     "version": "1.1.0",
@@ -45812,13 +45819,13 @@
     "hash": "sha256-wE8YETdAx9SJq6fbndHGE/zpbzJCLd+WbEdKCxOrpP8="
   },
   "randomquote": {
-    "version": "1.1.0",
+    "version": "1.2.0",
     "t3_versions": [
       10,
       11
     ],
     "description": "Frontend plugin to display random quotes",
-    "hash": "sha256-v69kwCWv/GCEA8xEBITSDKbwvMd6phwsZyJOB5QTlRo="
+    "hash": "sha256-0Lucvzyhe5MlAWdne6j8SYE/gxfc52FurUyKvtmfy/M="
   },
   "rates": {
     "version": "0.0.1",
@@ -49848,6 +49855,14 @@
     "t3_versions": [],
     "description": "This extension provides components to consume and expose data of/to the Linked Data cloud. See EXT:semantic/Documentation/en/Manual.txt or http://forge.typo3.org/projects/extension-semantic for more information.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "semantic_suggestion": {
+    "version": "1.0.2",
+    "t3_versions": [
+      12
+    ],
+    "description": "TYPO3 extension for suggesting semantically related pages",
+    "hash": "sha256-j2f/g1hQQwrtG0Kni3jj0Tg7WQS9SN3Ao3SzMRuq8aE="
   },
   "semantify_it": {
     "version": "0.1.8",
