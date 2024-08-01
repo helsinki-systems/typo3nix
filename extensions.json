@@ -5936,13 +5936,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "bw_captcha": {
-    "version": "4.0.2",
+    "version": "4.1.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Captcha element with audio support for TYPO3 form components. The captcha generation does not rely on Google or third-party integrations.",
-    "hash": "sha256-jS1XsqFopa9iFzGXTC0ShWd1q2UD3+zGJvtmYvFTMRs="
+    "hash": "sha256-nizahhc5sFzLzRl/Nsxn21LhmCG5Ne6GMxoaPha5Gwc="
   },
   "bw_covid_numbers": {
     "version": "1.2.0",
@@ -13264,12 +13264,10 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "debug_mysql_db": {
-    "version": "1.8.1",
-    "t3_versions": [
-      12
-    ],
+    "version": "1.9.0",
+    "t3_versions": [],
     "description": "Extends \\TYPO3\\CMS\\Core\\Database\\DatabaseConnection and \\TYPO3\\CMS\\Core\\Database\\Connection to show Errors and Debug-Messages. Debugging of sql-queries by debug and FileWriter.",
-    "hash": "sha256-jJOjuqebtY8Vm56ItXkd56uw9ywR0XKgjCJJgqUenFs="
+    "hash": "sha256-oCjo/nj+N7tCW4dg9QlT3Vu+PESxEUjFZi490Ov/ayo="
   },
   "debug_settings_task": {
     "version": "2.2.1",
@@ -19421,14 +19419,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fh_debug": {
-    "version": "0.17.1",
+    "version": "0.17.2",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "This generates a PHP debug output file. FileWriter into debug",
-    "hash": "sha256-1cf+1MBumKcGnP+OkIpYdp3Jh81Xt+cmO4Q4ntM+BT0="
+    "hash": "sha256-qEP346PfhqmgZaA0/1JBboQvUqUPg0pr0GS3ZA1xHJ0="
   },
   "fh_library": {
     "version": "0.0.20",
@@ -31938,22 +31936,22 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "lux": {
-    "version": "36.1.0",
+    "version": "36.1.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Living User Experience - LUX - the Marketing Automation tool for TYPO3.",
-    "hash": "sha256-IZCCfw0MO2NO8O17SWJlUHnmzj0JaAZIoI4T/izlJAI="
+    "hash": "sha256-vJ6F5oyCf5N3eozeFOOadb6jljsGtp3Ol8jGXhDn2ZU="
   },
   "luxletter": {
-    "version": "26.1.0",
+    "version": "26.2.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Free newsletter extension for TYPO3 for an individual email marketing. A lot of analytics and modern concepts. Works with and without EXT:lux.",
-    "hash": "sha256-aoe6QZFy+g18D02a7iQzp8FG4x+1TLAXFqHzxlLQNaw="
+    "hash": "sha256-1UNfYBQLa16RbcB0wRPtKaqy1Cq8xAgGaXysJzh+Tvk="
   },
   "lvcleantemp": {
     "version": "1.0.4",
@@ -34685,12 +34683,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "min": {
-    "version": "3.0.1",
+    "version": "3.0.2",
     "t3_versions": [
       12
     ],
     "description": "Extends TYPO3's compressor for JS and CSS with minifier. This may save you up to 70% of default compressed file size. Also compresses HTML output of TYPO3. Full composer support.",
-    "hash": "sha256-oyORy4egB+q17CJLYSig6AytMKfve1z29cugFIh5QCw="
+    "hash": "sha256-/wl2yhO5hFoFPahvpkCb++2jOA6uMPFsH0bLC5ThZ6M="
   },
   "mindmap_import": {
     "version": "0.0.2",
@@ -39617,12 +39615,12 @@
     "hash": "sha256-kPxKaPOFunsxkd20gpiPaMTtTkdDsAyhYtNQVZgoXGY="
   },
   "ns_license": {
-    "version": "13.0.0",
+    "version": "13.0.1",
     "t3_versions": [
       12
     ],
     "description": "Manage License(s) of your purchased from T3Planet such as TYPO3 Templates and TYPO3 Extensions. Documentation & Free Support https://docs.t3planet.com/en/latest/License/LicenseActivation/Index.html",
-    "hash": "sha256-3izg7Z8sGhfK2tNGaDPSgAUksHEsGETOM9kJdKaTv8w="
+    "hash": "sha256-jxl12kdg8tyUIGZM8IEdXTuZqbJy9SbzS9/JflmNI2E="
   },
   "ns_news_advancedsearch": {
     "version": "12.1.0",
@@ -49857,12 +49855,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "semantic_suggestion": {
-    "version": "1.0.2",
+    "version": "1.0.3",
     "t3_versions": [
       12
     ],
     "description": "TYPO3 extension for suggesting semantically related pages",
-    "hash": "sha256-j2f/g1hQQwrtG0Kni3jj0Tg7WQS9SN3Ao3SzMRuq8aE="
+    "hash": "sha256-iCQe+nwDV2s9bWN0WPY+WcP4TGZfTh+WMoA1l92vX/8="
   },
   "semantify_it": {
     "version": "0.1.8",
@@ -56629,14 +56627,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "t3skin_icons": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "This library offers the t3skin icons.",
-    "hash": "sha256-PPwe+DN82EOkrc6vFX/HdrAsVACky2iotM55LDb7OOU="
+    "hash": "sha256-A1LhbpvAvxlfl6hYVeQuucg7rwmaMdejBJ6ybrS7lQQ="
   },
   "t3skin_improved": {
     "version": "1.7.1",
