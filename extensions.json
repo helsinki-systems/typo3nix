@@ -2082,12 +2082,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "altcha": {
-    "version": "0.3.3",
+    "version": "0.4.0",
     "t3_versions": [
       12
     ],
     "description": "TYPO3 form element for spam protection by utilizing the proof-of-work mechanism Altcha.",
-    "hash": "sha256-o0pkTc0SkSstb29UzSLCm+5WPhCy1BmaMwHRfOzXz4o="
+    "hash": "sha256-QhW+UDROQ6WCPTdNUUCazJ+A97pS5qQcem5SVJAu4l8="
   },
   "altern_lang_menu_page_title": {
     "version": "1.0.1",
@@ -3587,12 +3587,12 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.317.0",
+    "version": "3.318.0",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-SFh3yTztjl1LUPi+yMZNJj8Oxw3jXD+RbBq52X+rf40="
+    "hash": "sha256-Y3A7RpV51f3XVmTIeIbdnGY71QfQfNdN9UsgoqGvF+c="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -8047,12 +8047,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cf_cookiemanager": {
-    "version": "1.6.3",
+    "version": "1.6.4",
     "t3_versions": [
       12
     ],
-    "description": "Unlock the full potential of your Typo3 website with CodingFreaks Typo3 Cookie Manager. Effortlessly manage and customize your website's services, cookies and scripts with our comprehensive extension. Streamline your workflow, enhance user experience, and ensure GDPR compliance with this powerful tool. Take control of your cookie management today and unleash the true potential of your Typo3 installation.",
-    "hash": "sha256-o32kXoOpaB424Ta9c2i8v8z/EPo7Dg6dehRmPh4sDdc="
+    "description": "Manage cookies, scripts, and GDPR compliance on your Typo3 website with CodingFreaks Typo3 Cookie Manager. Customize cookie banners, streamline workflow, and enhance user experience. Ensure GDPR compliance and take control of cookie management with our Typo3 cookie management extension. Visit the official Typo3 Documentation page to learn more.",
+    "hash": "sha256-8GzVm7uUe210d2cxYaNcoNKsFyBiVA8kB1VfOiM9Xz8="
   },
   "cf_google_authenticator": {
     "version": "1.2.4",
@@ -11174,12 +11174,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cs_seo": {
-    "version": "8.2.0",
+    "version": "8.2.1",
     "t3_versions": [
       12
     ],
     "description": "SEO Extension: Enables important onpage features for search engine optimization (SEO). Expands",
-    "hash": "sha256-LYpX+sP+s/U1f28QMz1HM+abVdH3fyUftVoatjgtClY="
+    "hash": "sha256-f1Q0zrluUvfaSuvlCTZQkfx2+JdLZp1UmBAeB9xWI9c="
   },
   "cs_static_hide": {
     "version": "1.0.1",
@@ -11784,12 +11784,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cvc_twig": {
-    "version": "2.1.0",
+    "version": "3.0.0",
     "t3_versions": [
-      10
+      12
     ],
     "description": "Use the Twig template engine within your TYPO3 project. You can use Twig templates in TypoScript or together with Extbase.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-xRQVvPunSx3BocbKboJ5NvRrwiG26Nkj8CSXl8UKjGQ="
   },
   "cvc_webauthn": {
     "version": "1.2.0",
@@ -13005,12 +13005,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "dce": {
-    "version": "3.1.4",
+    "version": "3.2.0",
     "t3_versions": [
       12
     ],
     "description": "Best flexform based content elements since 2012. With TCA mapping feature, simple backend view and much more features which makes it super easy to create own content element types.",
-    "hash": "sha256-qDq2S90lKdkZMEbBq4A989TpZlSpLMxniqnq7097i4g="
+    "hash": "sha256-+t14fPU6f6a5o9itw7mjxbxT3GUkwYmCMXqMsdDVOZA="
   },
   "dcformcreator": {
     "version": "0.0.3",
@@ -15942,13 +15942,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "duty": {
-    "version": "11.0.2",
+    "version": "11.0.3",
     "t3_versions": [
       10,
       11
     ],
     "description": "Files: Clean up directory uploads and the database. Remove deprecated files from directories - in respect for GDPR/DSGVO. Reminds fe_users, if there are deprecated records.",
-    "hash": "sha256-Ue5SMRTlg9I+Oj1dWJvNsbtVRnT9zWrtX6Y/xXSjBuU="
+    "hash": "sha256-Rnq+2l7HclxEfzDLGdyJ+XuC+j3HXNpME2iNLq9Wj3g="
   },
   "dvdg_indexedsearch_patch": {
     "version": "0.0.1",
@@ -17069,13 +17069,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "er24_rechtstexte": {
-    "version": "2.0.2",
+    "version": "2.0.3",
     "t3_versions": [
       11,
       12
     ],
     "description": "This extension allows the easy integration of imprint and privacy policy of eRecht24.",
-    "hash": "sha256-RYelj0BQTUyCEz8fGP+9VZhwbC7psHDVY5sYj1UPqXY="
+    "hash": "sha256-jFV0UPTvCChHCFvPBNdB5HdSlCg1V6Peu3ntx02cEAU="
   },
   "erdal_googlemap": {
     "version": "0.1.2",
@@ -18388,16 +18388,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fal_s3": {
-    "version": "1.11.0",
+    "version": "2.1.1",
     "t3_versions": [
-      6,
-      7,
-      8,
-      9,
-      10
+      10,
+      11,
+      12
     ],
     "description": "Connect FAL/TYPO3 to any of the configured S3 buckets with a few clicks. File based configuration allows specific buckets depending on the context of your application.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-9gZRC1bq+gIHWnryy8Blb4NLj2pFdLhJL2T62VuzHuc="
   },
   "fal_securedownload": {
     "version": "5.0.7",
@@ -20974,12 +20972,12 @@
     "hash": "sha256-iDaeYBLUD6MgI5uRpy9npOtzwjV5ZgeTG1eXl03ESnI="
   },
   "form_extended": {
-    "version": "12.1.3",
+    "version": "12.1.4",
     "t3_versions": [
       12
     ],
     "description": "Multi upload field, double opt in method and other",
-    "hash": "sha256-thZaT9MnVG0W1iucnXMozW4c1pEr0zkyqZMha2fPVc0="
+    "hash": "sha256-lQNtiRK2H7zxoq415BzkW4cLQgL2xGO7snDdN5cIxWw="
   },
   "form_extension_tut": {
     "version": "0.0.1",
@@ -21339,12 +21337,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "formwebhooksend": {
-    "version": "1.1.0",
+    "version": "1.2.0",
     "t3_versions": [
       12
     ],
     "description": "Webhook form finisher",
-    "hash": "sha256-WF8NgFW77QCfQDmdUcJQ8RUnkyrloPd0CV+xE7HxhVw="
+    "hash": "sha256-IMwf8DqrgcwWaBCyioVq62Mf1U/tUgWeISDlmoUvu6s="
   },
   "formwidgets": {
     "version": "2.1.0",
@@ -23472,12 +23470,12 @@
     "hash": "sha256-y9zO+nFdrUc3TeKd1lMXNl8WCGJRWzGZ5Og7Sh0ABZA="
   },
   "gridtocontainer": {
-    "version": "12.2.0",
+    "version": "12.2.1",
     "t3_versions": [
       12
     ],
     "description": "EXT:gridtocontainer is a small migration extension with backend module for those who want to switch from EXT:gridelements to EXT:container.",
-    "hash": "sha256-B3fwzfAG+zQ4UIWQMh9/+8m/TZkp8EEZQcJzqQs/HRo="
+    "hash": "sha256-D0nSiH3Tw5Jymw5OLn8jp0jsfc1ssPB3CTOVuS/MVI0="
   },
   "group_mngr": {
     "version": "0.1.0",
@@ -23914,13 +23912,13 @@
     "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
   },
   "hd_structureddata": {
-    "version": "0.5.0",
+    "version": "0.6.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Extension for adding structured JSON-LD into page headers",
-    "hash": "sha256-2eH8tkpYId2Sm9cdy3i5m4RkobEvBNwMagUPQcsjQ+s="
+    "hash": "sha256-QOK9kzQXZfKm0OHyUe9hryLS4RRoPeAihgC35IB+2gU="
   },
   "hd_translator": {
     "version": "1.0.9",
@@ -27353,12 +27351,12 @@
     "hash": "sha256-iTF4mYfpa4Ls6iU9OiQL3mbSnwddK2lmKmVoKW4O4qY="
   },
   "jar_utilities": {
-    "version": "2.0.7",
+    "version": "2.0.8",
     "t3_versions": [
       12
     ],
     "description": "Utility classes that simplify TYPO3 development.",
-    "hash": "sha256-XDCvQjcw6iPu9pfDpMSzDTDAuh2jgQuo+ajc2mbHSAs="
+    "hash": "sha256-WUX8mXXqX14uAlQKWIM6nBzQborzytNka03wg7sWOAI="
   },
   "jasmine": {
     "version": "0.1.0",
@@ -29545,13 +29543,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ke_search_hooks": {
-    "version": "5.0.0",
+    "version": "5.1.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Hooks example for ke_search. Feel free to use this as a kickstarter for your own custom indexer or hooks. Implements a news indexer as example.",
-    "hash": "sha256-YAOzR07uk9DS1F4+EYdbHKt9ERpaWi7R9bJmvWM6bAY="
+    "hash": "sha256-xJXmwC6NFwE1bgEfU+PFTkfKByIPTB6S2r0mXCnDVVM="
   },
   "ke_search_newstags": {
     "version": "0.2.2",
@@ -29678,6 +29676,18 @@
     ],
     "description": "Indexer for shortcut elements, can handle mask records as well",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "keycloak_sso": {
+    "version": "1.0.1",
+    "t3_versions": [
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "description": "Keycloak SSO extension for Typo3 allows your backend and frontend users to log into TYPO3 using Keycloak credentials.",
+    "hash": "sha256-coYKaADpBXHRw07HSbfJogAJlNubvFirPT5S0bTNq+0="
   },
   "keywordsmenu": {
     "version": "0.0.3",
@@ -31942,13 +31952,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "lux": {
-    "version": "36.1.1",
+    "version": "36.2.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Living User Experience - LUX - the Marketing Automation tool for TYPO3.",
-    "hash": "sha256-vJ6F5oyCf5N3eozeFOOadb6jljsGtp3Ol8jGXhDn2ZU="
+    "hash": "sha256-G7CCUmqRVxf/1W1ETkTHodMVrEJTEc07TVfIYArkRNs="
   },
   "luxletter": {
     "version": "26.2.0",
@@ -32693,14 +32703,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "make": {
-    "version": "0.1.7",
+    "version": "0.1.8",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Kickstarter CLI tool for various TYPO3 functionalities",
-    "hash": "sha256-vcKp8oj2KrTuSEaj2rxh2J73LI0gSp1BV64gFMgj+g4="
+    "hash": "sha256-xwZLx+ffP9v+9n4BTJ9nMyZ4QzPHTfXctG9gbkuE2qE="
   },
   "make_printlink": {
     "version": "1.5.3",
@@ -34689,12 +34699,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "min": {
-    "version": "3.0.2",
+    "version": "3.1.0",
     "t3_versions": [
       12
     ],
     "description": "Extends TYPO3's compressor for JS and CSS with minifier. This may save you up to 70% of default compressed file size. Also compresses HTML output of TYPO3. Full composer support.",
-    "hash": "sha256-/wl2yhO5hFoFPahvpkCb++2jOA6uMPFsH0bLC5ThZ6M="
+    "hash": "sha256-fKpOx1n00lHBz3O/7HqHOjUTa3DQbNyemxME95YmwNI="
   },
   "mindmap_import": {
     "version": "0.0.2",
@@ -41900,13 +41910,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "pagetsconfig": {
-    "version": "1.2.0",
+    "version": "3.0.0",
     "t3_versions": [
-      6,
-      7
+      11,
+      12
     ],
-    "description": "Allows to modify TCA values via pagetsconfig for IRRE elements",
-    "hash": "sha256-Z1HPmNFrtuiPENv4HQ95Dwnc0yydEsWbssXAc0EvkNk="
+    "description": "Advanced configuration options for PageTSConfig",
+    "hash": "sha256-pY5bNHc4oiG1kjRLNBLhWndCrl00SBHra312QCZbajc="
   },
   "pagetype": {
     "version": "1.1.1",
@@ -42970,12 +42980,12 @@
     "hash": "sha256-vPPumisLvajviQwp8j+8fRtAsjZ3IKw+i0uvq1cpgZ0="
   },
   "personnel": {
-    "version": "4.1.0",
+    "version": "4.2.0",
     "t3_versions": [
       12
     ],
     "description": "Persons contact lists with vCard support. Demo: microtemplate.t3brightside.com",
-    "hash": "sha256-vKAMWhLlbAEQSj9Xg2AK7MLD7X+Ai4TM4hkFO31R3Ok="
+    "hash": "sha256-RmEA481XTU3pwamTgcz571YOvt3N32foqYxqm0TZ4Is="
   },
   "persons": {
     "version": "1.0.0",
@@ -43455,12 +43465,12 @@
     "hash": "sha256-d6x7sPpopVISw5CK7HPwHRpi+IgJE9NUp6vdvHAjIkc="
   },
   "picturecredits": {
-    "version": "2.1.0",
+    "version": "2.2.0",
     "t3_versions": [
       12
     ],
     "description": "Implements a central image rights management in FAL and automated rendering of picture credits on regular content pages.",
-    "hash": "sha256-44QLQRvEu8Sahrbrh1v1hTAp11w3T9dCNU4hqSioTVI="
+    "hash": "sha256-8KUe4XvNVrs+pOTXl+DTV0xxw/4bwODblL4vUIT6cPA="
   },
   "piflexformupdate": {
     "version": "0.0.3",
@@ -49861,12 +49871,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "semantic_suggestion": {
-    "version": "1.0.3",
+    "version": "1.0.7",
     "t3_versions": [
       12
     ],
     "description": "TYPO3 extension for suggesting semantically related pages",
-    "hash": "sha256-iCQe+nwDV2s9bWN0WPY+WcP4TGZfTh+WMoA1l92vX/8="
+    "hash": "sha256-fQ9IOxuSFkbaT2j3wA6e4P61gJgBgjGQRMIhmU8bcP8="
   },
   "semantify_it": {
     "version": "0.1.8",
@@ -50007,13 +50017,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "server_timing": {
-    "version": "1.10.1",
+    "version": "1.11.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "Show timings of Database and HTTP Calls (send them to Sentry)",
-    "hash": "sha256-4s7FXDo71n+dO2Y3XCA+nMnqJv9C5ECph8EjmgvfDys="
+    "hash": "sha256-4mGIyNt8PkpwU9P+1lJMDbC55JPHdmVsGYB5h855UWg="
   },
   "service_bw2": {
     "version": "7.0.0",
@@ -50626,12 +50636,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sg_vimeo": {
-    "version": "4.2.0",
+    "version": "4.2.1",
     "t3_versions": [
       12
     ],
     "description": "A solution for embedding Vimeo videos, playlists, or channels easily into TYPO3 pages.",
-    "hash": "sha256-s3MF/IL+FT+YLsR0dtPSpSHQCNN+IUsJfyUamcoAIvI="
+    "hash": "sha256-Zykwu+jAal16umkDdL5j52pqLMl19MTo5jrF+w0h+1g="
   },
   "sg_youtube": {
     "version": "7.2.0",
@@ -50801,13 +50811,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "shop": {
-    "version": "4.4.1",
+    "version": "4.5.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Simple Shop for TYPO3 incl. PayPal, PayPal-Plus, Klarna, Stripe, Bookmarks, UPS-API, Invoice generation, backend module, compare feature, graduated prices and many more - note there is a Pro version as well!",
-    "hash": "sha256-+/0cKXJ7e9lSfQPrRSoD6MiqFiXFS0TAHSgYd/QvPX4="
+    "hash": "sha256-FRi1g98J+VYS6N1KWTboQ2xF/kzRvhmUOWtxn5pIpZM="
   },
   "shop3ox": {
     "version": "0.0.3",
@@ -50970,12 +50980,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sic_address": {
-    "version": "5.0.4",
+    "version": "5.1.0",
     "t3_versions": [
       12
     ],
     "description": "Address Extension that can either enhance or replace tt_address. You can add required fields dynamically like mask/powermail. Originally it was written in 2016 to replace extensions like nicos_directory, wt_directory or sp_directory and grew from there.",
-    "hash": "sha256-ZBw/ZDXLDKR8jwjdJVu0CCfVKsSruj787Cg31XSKpj8="
+    "hash": "sha256-bYgfzakXCgQqkcIZgtVHxuhS5+EGUw54m/6juCzL5Z0="
   },
   "sici_core": {
     "version": "2.0.0",
@@ -51535,21 +51545,19 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "siteconfiggitsync": {
-    "version": "1.0.4",
+    "version": "1.0.5",
     "t3_versions": [
       11,
       12
     ],
     "description": "This extension will push changes to the site config yaml files back to your gitlab repository by creating a branch for the changes along with a merge-request. It is targeted towards automated CI/CD installations or sites in general where the site-config is git versioned. No local git binary or .git directory is needed. Requires EXT:siteconfigurationevents",
-    "hash": "sha256-n6NpTHYpruG1x1gknlu8Xd4+wYFHSsmZZE+Lu5nZUj8="
+    "hash": "sha256-jvj+V33ylnTQKtDqDRxJ97psjnS1iLjpAGcn71sXaeg="
   },
   "siteconfigurationevents": {
-    "version": "1.1.1",
-    "t3_versions": [
-      12
-    ],
+    "version": "1.2.1",
+    "t3_versions": [],
     "description": "This extension will provide PSR-14 events for the SiteConfiguration Class methods write, rename and delete. This way 3rd party extensions can attach to these events when a site configuration has been created or updated",
-    "hash": "sha256-B1Zxmx3A5OXUNJywNDZhr13fGWfHLzRirOb9umoPFis="
+    "hash": "sha256-DnC82Ve33XnJygQNeIw7I7vug/9ScJBPowhncK2Yu4U="
   },
   "sitecopy": {
     "version": "0.0.1",
@@ -56285,13 +56293,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "t3monitoring": {
-    "version": "2.0.0",
+    "version": "3.0.0",
     "t3_versions": [
-      8,
-      9
+      12
     ],
     "description": "",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-QQ1l6PK5NdFMUHjZ5sBdF0j27fFbRbXjC62izIbT9tw="
   },
   "t3monitoring_client": {
     "version": "9.2.0",
@@ -60766,12 +60773,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "tt_address": {
-    "version": "9.0.0",
+    "version": "9.0.1",
     "t3_versions": [
       12
     ],
     "description": "Displays a list of addresses from an address table on the page.",
-    "hash": "sha256-G4eQBeOe54j2+2yFI35VCjkQMDvfsaVI3gkS/+BceLk="
+    "hash": "sha256-KHFg2YrQeolZphyDlmmjTGp04I/6IU1WrktMh0c4lNQ="
   },
   "tt_board": {
     "version": "1.15.0",
@@ -60819,13 +60826,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "tt_products": {
-    "version": "2.15.11",
+    "version": "2.15.12",
     "t3_versions": [
       11,
       12
     ],
     "description": "Advanced versions at ttproducts.de. Documented in the E-Book \"Der TYPO3-Webshop\" - Shop with listing in multiple languages, with order tracking, product variants, support for transactor extension, bill, creditpoint and voucher system.",
-    "hash": "sha256-wmhj01s6BAR32zLPhnMsqK57svFM4RZ7kns49O8wYME="
+    "hash": "sha256-9YtoS712xgymS2NUBHz3I+cxuNE+LrPZzmjGhPT+HBI="
   },
   "tt_products_foundby": {
     "version": "0.1.4",
@@ -61670,12 +61677,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "typo3_graphql": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "t3_versions": [
       12
     ],
     "description": "This extension provides a GraphQL API for TYPO3.",
-    "hash": "sha256-QSQRzEWkvGups5ok+8aGD5t+q+LFttT7or+E4aDpV5E="
+    "hash": "sha256-NjKpT23iTf/LVRsEGNMTq3fptuIvRbzIvp1v1vmxaSU="
   },
   "typo3_hyphenator": {
     "version": "1.4.0",
@@ -62541,14 +62548,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "vhs": {
-    "version": "7.0.3",
+    "version": "7.0.5",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "A collection of ViewHelpers for performing rendering tasks that are not natively provided by the Fluid templating engine.",
-    "hash": "sha256-emeyTfPSCgzVo8CqgmQIrJL2SveWMiXnWtavRcEUSKA="
+    "hash": "sha256-82E/1SFpfZouhr8qWl7cGIhf7hfJyQ5wVsRuWFR50jY="
   },
   "vhs_scss": {
     "version": "2.0.3",
@@ -62791,13 +62798,13 @@
     "hash": "sha256-jWR/gqSKGzy0yv3fdtX0Dp3GycnE25dhtg/sCI8t/hI="
   },
   "vite_asset_collector": {
-    "version": "1.9.0",
+    "version": "1.11.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Bundle your TYPO3 frontend assets with Vite",
-    "hash": "sha256-XtBWajKQWj/pBmS/h8xJvvPmZomblZt+PzEADYdasWg="
+    "hash": "sha256-X4jSP/4DBRxkJxQT1RoXui66UG6P8ZL6UGl1FKRU1dw="
   },
   "vjchat": {
     "version": "0.3.4",
@@ -64479,12 +64486,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "wr_deepl_translate": {
-    "version": "1.0.3",
+    "version": "1.0.4",
     "t3_versions": [
       12
     ],
-    "description": "Translate TYPO3 pages with DeepL without headaches",
-    "hash": "sha256-3WiOmz+LUQZ5avgbceoqTuuIJ+h5ldY3FkI6mWYfaXA="
+    "description": "Automatic translations of entire TYPO3 websites with DeepL. Quick and easy. Without extra languages in the backend and without headaches.",
+    "hash": "sha256-hEEiU7ovzkG+yeJwVX3rxGftlXousEbLm1MCP99Hxw0="
   },
   "wrg_anotherbelogin": {
     "version": "0.0.4",
