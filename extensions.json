@@ -3587,12 +3587,12 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.318.0",
+    "version": "3.319.0",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-Y3A7RpV51f3XVmTIeIbdnGY71QfQfNdN9UsgoqGvF+c="
+    "hash": "sha256-gOOMdOaEmDnQN/dsQoK73zlvZH0yUwltmLL1Xg+8vZg="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -7619,14 +7619,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cc_routing": {
-    "version": "1.4.0",
+    "version": "2.0.1",
     "t3_versions": [
-      9,
-      10,
-      11
+      11,
+      12
     ],
     "description": "Extended routing with database persistence",
-    "hash": "sha256-XvDp562EioKq0njzEiUqawy8S4wIWt1Z5GqZ9lYGw6Q="
+    "hash": "sha256-75fNhnMJLWLtP2L77m4kfyT/gpf0bN7H1bNSn3lycOo="
   },
   "cc_screenres": {
     "version": "1.1.2",
@@ -8019,14 +8018,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cewrap": {
-    "version": "5.0.2",
+    "version": "5.0.3",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Allows to wrap content elements with individual IDs and/or classes and select multiple predefined classes, e.g. to hide content elements dependent to screen width.",
-    "hash": "sha256-K5axmLfMIjRKTJJvRglU683HrZLYsnTFDaT7akPkP7o="
+    "hash": "sha256-O1y50z68icmR1ifV880C+kdKo7VGNiy2Iz+2CYflIL8="
   },
   "cewrap_space": {
     "version": "2.0.0",
@@ -17126,12 +17125,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "error_log": {
-    "version": "12.4.2",
+    "version": "12.4.4",
     "t3_versions": [
       12
     ],
-    "description": "Error log extension for TYPO3 CMS",
-    "hash": "sha256-gzkP0m+ZnMJcFPjEZfTfEw8BWyjsTjjekwr37/CC7As="
+    "description": "This TYPO3 extension manages errors and exceptions, even before TYPO3 fully loads. It groups and displays errors in the backend, with detailed information and stack traces. Configurable notifications and reports via email and Slack keep you informed, while AI assistance aids in resolving issues.",
+    "hash": "sha256-0oO85H4+PUGjhm0lGX5J9quKO3dY8u7ccDe52rGh3NA="
   },
   "ers_qrcode": {
     "version": "0.2.3",
@@ -37357,13 +37356,10 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mysqlreport": {
-    "version": "3.0.4",
-    "t3_versions": [
-      11,
-      12
-    ],
+    "version": "4.0.0",
+    "t3_versions": [],
     "description": "Analyze and profile your TYPO3 database queries",
-    "hash": "sha256-UzX9E+cMmXn2cvmh55f9DCAceJvFNMB+RC6hmmkozBU="
+    "hash": "sha256-INwzGz9JOGD3Y1XNiAg+66QHbWnswWPFhsK3pVlRY88="
   },
   "mytemplate1": {
     "version": "0.0.2",
@@ -49871,12 +49867,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "semantic_suggestion": {
-    "version": "1.0.7",
+    "version": "1.0.8",
     "t3_versions": [
       12
     ],
     "description": "TYPO3 extension for suggesting semantically related pages",
-    "hash": "sha256-fQ9IOxuSFkbaT2j3wA6e4P61gJgBgjGQRMIhmU8bcP8="
+    "hash": "sha256-AVlCzkX0uGo2DTLN0GuBRJ5tbMO+s9LkoB7u92cR7B0="
   },
   "semantify_it": {
     "version": "0.1.8",
@@ -62548,14 +62544,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "vhs": {
-    "version": "7.0.5",
+    "version": "7.0.6",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "A collection of ViewHelpers for performing rendering tasks that are not natively provided by the Fluid templating engine.",
-    "hash": "sha256-82E/1SFpfZouhr8qWl7cGIhf7hfJyQ5wVsRuWFR50jY="
+    "hash": "sha256-2zKHYPBgP0TqwSqYgDUa9VaF7UpqgqPVsnZcN/kMKlw="
   },
   "vhs_scss": {
     "version": "2.0.3",
@@ -62691,13 +62687,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "view_statistics": {
-    "version": "4.0.2",
+    "version": "5.0.0",
     "t3_versions": [
-      10,
-      11
+      11,
+      12
     ],
     "description": "Logs frontend actions and display them in a backend module. Track page views, News, Downloads and custom objects. Optionally tracks frontend user logins and login durations. Alternative extension for Google-Analytics, Matomo, Piwik - this extension does not use any cookies! By default it does not track any personal data like IP address or even the user agent (though this can be activated optionally).",
-    "hash": "sha256-VvTMOeYIzaI5oT5rR1/3EJTgLZ9dyDnjcf04VyNSrIw="
+    "hash": "sha256-jOC/ZcE3SWUtqQ6t5aWu4kUrdJp36nCvNStUt+kASRg="
   },
   "vimeovideo": {
     "version": "2.0.0",
