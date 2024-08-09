@@ -3587,12 +3587,12 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.319.0",
+    "version": "3.319.1",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-gOOMdOaEmDnQN/dsQoK73zlvZH0yUwltmLL1Xg+8vZg="
+    "hash": "sha256-xNi6fRgyHa9Z0ILNTZHsrW+JM7grE4KJ2Ao0LevWJ7Q="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -20971,12 +20971,12 @@
     "hash": "sha256-iDaeYBLUD6MgI5uRpy9npOtzwjV5ZgeTG1eXl03ESnI="
   },
   "form_extended": {
-    "version": "12.1.4",
+    "version": "12.1.6",
     "t3_versions": [
       12
     ],
     "description": "Multi upload field, double opt in method and other",
-    "hash": "sha256-lQNtiRK2H7zxoq415BzkW4cLQgL2xGO7snDdN5cIxWw="
+    "hash": "sha256-qixvrX7ACnM3kMJvTszssFPp2OJqSztNzLRVq6qdtTo="
   },
   "form_extension_tut": {
     "version": "0.0.1",
@@ -37356,10 +37356,10 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mysqlreport": {
-    "version": "4.0.0",
+    "version": "4.0.1",
     "t3_versions": [],
     "description": "Analyze and profile your TYPO3 database queries",
-    "hash": "sha256-INwzGz9JOGD3Y1XNiAg+66QHbWnswWPFhsK3pVlRY88="
+    "hash": "sha256-f17j+Dzrr/ng/gg5OIae/L2nFQi6F+vXpTf9k7kQkuw="
   },
   "mytemplate1": {
     "version": "0.0.2",
@@ -49867,12 +49867,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "semantic_suggestion": {
-    "version": "1.0.8",
+    "version": "1.0.9",
     "t3_versions": [
       12
     ],
     "description": "TYPO3 extension for suggesting semantically related pages",
-    "hash": "sha256-AVlCzkX0uGo2DTLN0GuBRJ5tbMO+s9LkoB7u92cR7B0="
+    "hash": "sha256-5D7MDHHUeZk2QCO6tb/sWWgafogU9dvdFwpxNDGUtC8="
   },
   "semantify_it": {
     "version": "0.1.8",
