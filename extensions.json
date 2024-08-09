@@ -17125,12 +17125,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "error_log": {
-    "version": "12.4.4",
+    "version": "12.4.5",
     "t3_versions": [
       12
     ],
     "description": "This TYPO3 extension manages errors and exceptions, even before TYPO3 fully loads. It groups and displays errors in the backend, with detailed information and stack traces. Configurable notifications and reports via email and Slack keep you informed, while AI assistance aids in resolving issues.",
-    "hash": "sha256-0oO85H4+PUGjhm0lGX5J9quKO3dY8u7ccDe52rGh3NA="
+    "hash": "sha256-43YP1N69MJPqLapSfIiBfGOjT8GRgelx4Di39Ne5LB8="
   },
   "ers_qrcode": {
     "version": "0.2.3",
@@ -65424,6 +65424,14 @@
     ],
     "description": "This extension provides a page status functionality to support the planning of content work.",
     "hash": "sha256-5G7mjV8y4E0LgcqcDPY2OG+FBfma9p8cYKO+zq5nTtM="
+  },
+  "xima_typo3_frontend_edit": {
+    "version": "1.0.0",
+    "t3_versions": [
+      12
+    ],
+    "description": "This extension provides an edit button for editors within frontend content elements.",
+    "hash": "sha256-szq3/CmoATcjCKxoggk2+HLHX8UC97dp13tohQTh9N8="
   },
   "xima_typo3_mailcatcher": {
     "version": "1.4.0",
