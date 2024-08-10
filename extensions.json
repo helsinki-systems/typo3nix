@@ -3587,12 +3587,12 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.319.1",
+    "version": "3.319.2",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-xNi6fRgyHa9Z0ILNTZHsrW+JM7grE4KJ2Ao0LevWJ7Q="
+    "hash": "sha256-GXSZmcAZ3IvnepMv77Ud4DdNEp/FPPBdHW+pAEpfofU="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -5379,12 +5379,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "brofix": {
-    "version": "6.0.4",
+    "version": "6.0.5",
     "t3_versions": [
       12
     ],
     "description": "Check for broken links and fix them via a backend module (forked from core linkvalidator)",
-    "hash": "sha256-dUkJJ/azI7Kk0qPQHwfdvx3sJOd93Ni0PqofDN5q4Fg="
+    "hash": "sha256-a9Em2LdKtfP2n9tnFRNx+Lj75tLfSCo4EkhbdToVB5c="
   },
   "browser": {
     "version": "10.0.3",
@@ -14156,12 +14156,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "div2007": {
-    "version": "2.1.6",
+    "version": "2.2.0",
     "t3_versions": [
       12
     ],
     "description": "This library offers classes and functions to other TYPO3 extensions. Replacement for tslib_pibase methods.",
-    "hash": "sha256-0cBbhOseETgckdofvBm+Xi3fnGEzOddIe/MH4YrneQM="
+    "hash": "sha256-qW1kUKRJ99+1RAlU9eekUNhMtxdnkuqz71bRUCwFQ6o="
   },
   "diva": {
     "version": "8.7.1",
