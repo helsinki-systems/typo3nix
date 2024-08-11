@@ -8350,13 +8350,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "charts": {
-    "version": "3.0.1",
+    "version": "3.0.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "Extension to create datasets and show them as line, bar, pie or doughnut chart in frontend",
-    "hash": "sha256-hnEplpYl96vo2xJJiKFjIR2bUukjGaZr6/aGsYOixZ4="
+    "hash": "sha256-t1Bi1f3sC/1ALc2nIlQvejZ3C6Qi9vAk+X8ZKGCJF3o="
   },
   "chartum": {
     "version": "1.1.1",
@@ -17559,12 +17559,10 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ew_llxml2xliff": {
-    "version": "5.1.0",
-    "t3_versions": [
-      12
-    ],
+    "version": "6.0.0",
+    "t3_versions": [],
     "description": "Provides a backend module to convert locallang.xml and locallang.php files",
-    "hash": "sha256-5U7R/YftUAaJJ8mcQt46YyyppcqdBVpoLxJNYk3W1Ws="
+    "hash": "sha256-26Bao/d2qoJMeFqLFmotm3txV62DY9780lrpc/RR8lI="
   },
   "ew_socialfeedwall": {
     "version": "3.0.0",
@@ -17997,13 +17995,10 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "extender": {
-    "version": "10.1.1",
-    "t3_versions": [
-      11,
-      12
-    ],
+    "version": "11.0.0",
+    "t3_versions": [],
     "description": "A services that enables adding properties and functions",
-    "hash": "sha256-nYZkbSwn/SJ1Hhu8BNB1dlwlYBzze04s9qSh0jlJcvc="
+    "hash": "sha256-o0djg6KK2/DidcN9M7f/NZq7ZfDnEfLmYt/Xv4tmEps="
   },
   "extendmypage": {
     "version": "0.0.1",
@@ -53601,13 +53596,13 @@
     "hash": "sha256-No1JK3KFYUaqRS+mR2FRmLw40WGYz4eLCKQ7BFq8Ha0="
   },
   "spreadsheets": {
-    "version": "4.0.1",
+    "version": "4.0.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "Extension to add field definition and plugin to show and select information from spreadsheets",
-    "hash": "sha256-mtsH4RJoNQBEQQ9JiDic7jKISCBvJ77Av5YaCxGPtCQ="
+    "hash": "sha256-NhrkBu4avo3yFFycfol+V70k4TX6twUM/5nIxHhvs7E="
   },
   "spreadshop": {
     "version": "1.0.2",
@@ -56539,12 +56534,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "t3sbootstrap": {
-    "version": "5.3.12",
+    "version": "5.3.13",
     "t3_versions": [
       12
     ],
     "description": "Startup extension to use bootstrap 5 classes, components and more out of the box. Example and info: www.t3sbootstrap.de",
-    "hash": "sha256-zc1jgMlYuM2oA23srzHFe7xAXk+aOgY9zAzv7sXqCMw="
+    "hash": "sha256-j1r+TpC4ubQu9ulDMRM4CzJnEHkcIpMN7geCkcKsDoU="
   },
   "t3sbootstrap_grid": {
     "version": "3.0.0",
