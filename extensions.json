@@ -6562,12 +6562,12 @@
     "hash": "sha256-bEnP1Qzi++L2wHoBUz5PaiRAZgRLVIgN/Mlth7hK2vo="
   },
   "cachemgm": {
-    "version": "11.0.0",
+    "version": "12.0.2",
     "t3_versions": [
-      11
+      12
     ],
     "description": "Provides management of the page caching for high traffic websites.",
-    "hash": "sha256-UJjtX0P23zaHtAdr9hVLE7Oct0JbLZ0u96qTbNCP7So="
+    "hash": "sha256-mfnnEQXsqLdyJa/dAVKxGTT6CHXeeDIBTvXQkXI9RPs="
   },
   "cacheopt": {
     "version": "12.0.0",
@@ -17125,12 +17125,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "error_log": {
-    "version": "12.4.5",
+    "version": "12.4.6",
     "t3_versions": [
       12
     ],
     "description": "This TYPO3 extension manages errors and exceptions, even before TYPO3 fully loads. It groups and displays errors in the backend, with detailed information and stack traces. Configurable notifications and reports via email and Slack keep you informed, while AI assistance aids in resolving issues.",
-    "hash": "sha256-43YP1N69MJPqLapSfIiBfGOjT8GRgelx4Di39Ne5LB8="
+    "hash": "sha256-IH5whwdGYosEC0AWug4bsdMkQ4Ws2e8dM5QYZp9xlL0="
   },
   "ers_qrcode": {
     "version": "0.2.3",
@@ -24061,12 +24061,12 @@
     "hash": "sha256-e8c+S9ALI6DFfS4LVMPqVRBlVh6qjuZMJcujaSv0sVo="
   },
   "hh_simple_job_posts": {
-    "version": "4.1.3",
+    "version": "4.1.4",
     "t3_versions": [
       12
     ],
     "description": "Adds plugins for list / show job postings with meta-data and schema.org stuff. Uses tt_address for job-contacts and job-location.",
-    "hash": "sha256-TzxC6Xi/V5KSpXV4ikT0vNq7KKy9I/xqmgcCvsNcrus="
+    "hash": "sha256-l+OiDb+tmDOfS2vSkmOXM+DxqD13UBego2pIcp2/qkQ="
   },
   "hh_slider": {
     "version": "0.5.1",
@@ -35648,13 +35648,13 @@
     "hash": "sha256-QBq7RgOtpBz21jSQfzIxEurNCmBZlHvZXZt3wzoyyMw="
   },
   "modules": {
-    "version": "6.2.7",
+    "version": "6.2.8",
     "t3_versions": [
       11,
       12
     ],
     "description": "Modules - Little helper for creating frontend and backend modules in TYPO3",
-    "hash": "sha256-RTuOi8nMN1x8WcUZ66PmA8a0mHhn/g9UarlxhiPIHEo="
+    "hash": "sha256-LblrR6qKs//b5BdHXBMhGHzGmleNZnVd0u+MRV/Ig4w="
   },
   "modulis_animated_gif": {
     "version": "0.0.4",
