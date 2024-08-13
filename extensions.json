@@ -1124,12 +1124,12 @@
     "hash": "sha256-GPmlLA/TzRyGz+ZXS7ES9EuiiUjBSrXcszcZhqdf+RQ="
   },
   "address": {
-    "version": "12.0.0",
+    "version": "12.0.1",
     "t3_versions": [
       12
     ],
     "description": "Address extension with multiple contact types per address. Code is based on news extension.",
-    "hash": "sha256-BquS7gtzVhzELe6BW10csPuN3JRVVZoBGe9Bu0vk1Zw="
+    "hash": "sha256-vf5qqBHh+EXorIrntNNLMeopJxJGtDHqqQ+2K4X4QkQ="
   },
   "address_manager": {
     "version": "4.0.7",
@@ -3138,14 +3138,16 @@
     "hash": "sha256-3ChuoDWP1WvxkEPUO4cpdk5XJR1Znsey4UcSwlr9eHA="
   },
   "auth0_sso": {
-    "version": "1.0.0",
+    "version": "2.0.0",
     "t3_versions": [
+      8,
+      9,
       10,
       11,
       12
     ],
     "description": "Auth0 extension for Typo3 allows your backend and frontend users to log into TYPO3 using Auth0 credentials.",
-    "hash": "sha256-sNBmufDVKKWMEQtrtOA3WZEN0s6rm618KfIJFOLZfy4="
+    "hash": "sha256-rfbCcYNdB7RNNT0TvpLo9/BUMdAZz/8SjlvNGi7H/Co="
   },
   "auth_certificate": {
     "version": "0.2.0",
@@ -3587,12 +3589,12 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.319.2",
+    "version": "3.319.3",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-GXSZmcAZ3IvnepMv77Ud4DdNEp/FPPBdHW+pAEpfofU="
+    "hash": "sha256-Ih2tSDuLU46EvAV9JhuC5yU/5ZNOrD8p8jhZqMoPlOI="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -12006,6 +12008,14 @@
     "description": "krpano integration into TYPO3. At the moment integration is limited to panoramas of the type \"CYLINDER\", though other types can be integrated by directly putting the XML into the template. Licence required!",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "cy_lending": {
+    "version": "3.1.0",
+    "t3_versions": [
+      12
+    ],
+    "description": "You can organize lending of objects",
+    "hash": "sha256-LGXIUk7BICO8/uHoOKb5dwZCZfWDkCdovqYmBlLyGuY="
+  },
   "cy_newsletter": {
     "version": "2.0.0",
     "t3_versions": [
@@ -15437,6 +15447,14 @@
     "t3_versions": [],
     "description": "Just simple extension that extends CHC Forum. Displays latest posts, latest discussed threads or top discussed threads of CHC Forum. Look and feel configures through html template and css.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "dot_forms": {
+    "version": "1.0.1",
+    "t3_versions": [
+      12
+    ],
+    "description": "Create virtual fields just like flex forms, but with pure TCA.",
+    "hash": "sha256-NIUfMFbq8h65MjUcovTFUSCHF0ccjNkAYKTidWu2K5c="
   },
   "doubleoptin": {
     "version": "0.9.5",
@@ -19095,12 +19113,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "felogin_bruteforce_protection": {
-    "version": "11.0.3",
+    "version": "12.0.1",
     "t3_versions": [
-      11
+      12
     ],
     "description": "Protects TYPO3 frontend authentication (e.g. fe_login) against brute force attacks.",
-    "hash": "sha256-tB+85dPUp/CIaJUaqRndfnH1sqR9MtS449zY4BJlVMU="
+    "hash": "sha256-lX+HtdgrZ7CZzUwEkh1kLmwinp01oJ8giEnRdYoQfGQ="
   },
   "felogin_redirect2current": {
     "version": "0.2.0",
@@ -28163,13 +28181,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "job_finder": {
-    "version": "4.3.1",
+    "version": "4.3.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "Job finder extension including job listing, details, application, microdata and more.",
-    "hash": "sha256-EhTBhTRKpfkeL9ArmXaHPr469ZnWojBCBUc0SiqRr1w="
+    "hash": "sha256-UGdxBB7B1z1ZRCImmwBh3AN4OfSQf+JSimJF7nZU19g="
   },
   "job_market": {
     "version": "2.1.1",
@@ -29672,7 +29690,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "keycloak_sso": {
-    "version": "1.0.1",
+    "version": "2.0.0",
     "t3_versions": [
       8,
       9,
@@ -29681,7 +29699,7 @@
       12
     ],
     "description": "Keycloak SSO extension for Typo3 allows your backend and frontend users to log into TYPO3 using Keycloak credentials.",
-    "hash": "sha256-coYKaADpBXHRw07HSbfJogAJlNubvFirPT5S0bTNq+0="
+    "hash": "sha256-zqURJYZR70n9GHbAhWgxWmyQJQrhuY++wTme+4dR/P8="
   },
   "keywordsmenu": {
     "version": "0.0.3",
@@ -31062,12 +31080,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "libconnect": {
-    "version": "9.0.3",
+    "version": "10.0.0",
     "t3_versions": [
-      11
+      12
     ],
     "description": "Diese Extension ist von Avonis im Auftrag der Staats- und Universitaetsbibliothek Hamburg entwickelt worden. Mit ihr lassen sich Ergebnisse aus den Informationssystemen EZB und DBIS der Universitaet Regensburg direkt in das TYPO3-System einbinden.",
-    "hash": "sha256-yzHhL38c2BfCW1O2zuRcSXZW3/UJomUNnJtF8t+3usE="
+    "hash": "sha256-yNdiby+9dGxOGlwezhG76LLkQwUQtF66rgVwexvgLOw="
   },
   "libideal": {
     "version": "1.0.0",
@@ -37251,13 +37269,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "myflat": {
-    "version": "1.1.4",
+    "version": "1.2.1",
     "t3_versions": [
-      11,
       12
     ],
     "description": "Flat manager, shows bookings of holiday flats in calendars, availability check included.",
-    "hash": "sha256-U9w+JP5c+TpGsAHDAoMWi3wQiCTU41d5dD674FRrfrs="
+    "hash": "sha256-C8MtZalOnG+WWWADTOKl7vnVnvGdkoF6JAPQlnd3kLM="
   },
   "mygeshi": {
     "version": "1.0.0",
@@ -43660,13 +43677,13 @@
     "hash": "sha256-EN4WHPs4i2TW8bEpCJ+nB5XoCd0Gabx/mPZr/mdwuhY="
   },
   "pizpalue": {
-    "version": "16.1.0",
+    "version": "16.2.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Extension to create websites using bootstrap. It builds upon the bootstrap_package from Benjamin Kott and increases functionality by supporting the following extensions:  container_elements, news, eventnews, tt_address",
-    "hash": "sha256-mv+OPKH7FeiH+WyVypHIQS1duGB5lcgQu6sSsPObECE="
+    "hash": "sha256-zQ83ZXYWG4iIj0FpEOJ17SwBqHm/araMvG+44wpekj4="
   },
   "pizpalue_distribution": {
     "version": "7.0.1",
@@ -60170,12 +60187,12 @@
     "hash": "sha256-BNgXT/XaxE7ArnrnrjouR7FBMMFTVYNUNIITm0MRQ38="
   },
   "translate_locallang": {
-    "version": "3.0.0",
+    "version": "3.1.0",
     "t3_versions": [
       12
     ],
     "description": "Backend Module for creating and editing of language files (locallang.xlf).",
-    "hash": "sha256-auSMLE9N+SBOY2zo1LstgaYELVD54cW8lRRmr8w9jWE="
+    "hash": "sha256-3JHxjOO3NEu2a0jEVlu1NMmKMHmz7qotXxP9HlF778U="
   },
   "translatelabels": {
     "version": "2.3.9",
