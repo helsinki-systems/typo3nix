@@ -1090,13 +1090,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "additional_tca": {
-    "version": "1.15.8",
+    "version": "1.15.9",
     "t3_versions": [
       11,
       12
     ],
     "description": "Additional TCA fields and tools",
-    "hash": "sha256-IivtjvQWavovnTWjjx+kymSWMbkN41j6VGjunDPu42A="
+    "hash": "sha256-9wwvVjzob186+ttBmUPC1NSMILn0caNH4Znee/ogwKk="
   },
   "addlinkheader": {
     "version": "0.0.4",
@@ -1977,12 +1977,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "allinoneaccessibility": {
-    "version": "2.0.8",
+    "version": "2.2.2",
     "t3_versions": [
       12
     ],
     "description": "All in One Accessibility widget improves Typo3 website ADA compliance and browser experience for ADA, WCAG 2.1 & 2.2, Section 508, Australian DDA, European EAA EN 301 549, UK Equality Act (EA), Israeli Standard 5568, California Unruh, Ontario AODA, Canada ACA, German BITV, France RGAA, Brazilian Inclusion Law (LBI 13.146/2015), Spain UNE 139803:2012, JIS X 8341 (Japan), Italian Stanca Act and Switzerland DDA Standards.",
-    "hash": "sha256-U9Xc4BqbH8xol6AgrAozWTf2wgBaq/zUF6HFdq9aCA4="
+    "hash": "sha256-2vh/kmTOBZJIo5PLsE1BsP+C6A5uxj1VrpMZb1m3P6o="
   },
   "allnews": {
     "version": "0.2.6",
@@ -3589,12 +3589,12 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.319.3",
+    "version": "3.319.4",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-Ih2tSDuLU46EvAV9JhuC5yU/5ZNOrD8p8jhZqMoPlOI="
+    "hash": "sha256-GQfGi9HIZ4EAUwjTm59zjYvB54nf9koH7MBF3BvBA6g="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -7950,12 +7950,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cefooter": {
-    "version": "2.1.1",
+    "version": "2.1.2",
     "t3_versions": [
       12
     ],
     "description": "Preview of settings in footer of tt_content element in page module.",
-    "hash": "sha256-n5ZkV/64VenffjBK42MrrtmfYjiQSOj/Zq4U0P3jtDY="
+    "hash": "sha256-bjGfEUhaSVMweUQXt69kmCP32Oi2NQliNw3t50B+ePU="
   },
   "celum_asset_picker": {
     "version": "1.0.8",
@@ -21127,13 +21127,13 @@
     "hash": "sha256-mdl+c92FpyNxfd3Dxwy5VVac9wL4EV8xgD7eVFkV17U="
   },
   "form_translator": {
-    "version": "2.0.3",
+    "version": "2.0.4",
     "t3_versions": [
       11,
       12
     ],
     "description": "Provides a backend module and cli for translating forms.",
-    "hash": "sha256-ODTtWY04OinP0KIlJU6Q8YqHDrvgFPOprb1YBa9arFo="
+    "hash": "sha256-0g7fZ6pEv3xz4E12dX5Iyyb77wlCgKuxKoDXiDtA5+4="
   },
   "form_typolink_checkbox": {
     "version": "2.0.0",
@@ -24671,13 +24671,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "htmltables": {
-    "version": "0.9.8",
+    "version": "0.9.9",
     "t3_versions": [
       11,
       12
     ],
     "description": "Create sophisticated HTML tables easily using Inline Records (IRRE)",
-    "hash": "sha256-oEgfZnb65Y2tcsBKCmpfHMoAmWuTEPzfELnPygkntWU="
+    "hash": "sha256-+/ZiWy5hhAAHiQbKHLTUVMO6nm+OVlIXdhsYp9f3Vtc="
   },
   "http2": {
     "version": "2.0.0",
@@ -49879,12 +49879,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "semantic_suggestion": {
-    "version": "1.0.9",
+    "version": "1.1.0",
     "t3_versions": [
       12
     ],
     "description": "TYPO3 extension for suggesting semantically related pages",
-    "hash": "sha256-5D7MDHHUeZk2QCO6tb/sWWgafogU9dvdFwpxNDGUtC8="
+    "hash": "sha256-fJ/0NDOKcGYhMjstH/kc1bRNsykWQ08Gm6CUrmc2zfA="
   },
   "semantify_it": {
     "version": "0.1.8",
