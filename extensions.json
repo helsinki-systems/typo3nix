@@ -1008,12 +1008,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "add_pwd_policy": {
-    "version": "1.1.0",
+    "version": "1.1.1",
     "t3_versions": [
       12
     ],
     "description": "Additional password validators for usage in TYPO3 password policies",
-    "hash": "sha256-jxEk4yWqqr/uLkZ3ZtBqtWNziQspcEruhay4cEium5A="
+    "hash": "sha256-guIfDJZBDzefENdPUxNndJQrjLloP6oB6j3a1+Oq3fE="
   },
   "add_tags": {
     "version": "0.0.1",
@@ -3589,12 +3589,12 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.319.4",
+    "version": "3.320.0",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-GQfGi9HIZ4EAUwjTm59zjYvB54nf9koH7MBF3BvBA6g="
+    "hash": "sha256-3nc+eaZV3Y0sLtM09jlUd9gvx5anaLOxWS8InL7K+Ic="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -5381,12 +5381,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "brofix": {
-    "version": "6.0.5",
+    "version": "6.0.6",
     "t3_versions": [
       12
     ],
     "description": "Check for broken links and fix them via a backend module (forked from core linkvalidator)",
-    "hash": "sha256-a9Em2LdKtfP2n9tnFRNx+Lj75tLfSCo4EkhbdToVB5c="
+    "hash": "sha256-9GRQB1NqML+045T1+pdclAb4KYr+63brCLp3QJBgOBc="
   },
   "browser": {
     "version": "10.0.3",
@@ -14166,12 +14166,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "div2007": {
-    "version": "2.2.0",
+    "version": "2.2.1",
     "t3_versions": [
       12
     ],
     "description": "This library offers classes and functions to other TYPO3 extensions. Replacement for tslib_pibase methods.",
-    "hash": "sha256-qW1kUKRJ99+1RAlU9eekUNhMtxdnkuqz71bRUCwFQ6o="
+    "hash": "sha256-g3WMaWoO7vhUL1/cZCUew/+9ApWsuoLyMzy7QKXugoM="
   },
   "diva": {
     "version": "8.7.1",
