@@ -3589,12 +3589,12 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.320.1",
+    "version": "3.320.2",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-c/ZRTiKRbfygi1fhPv/pIdYbQ8u5GZjvMAZ3HEaVMTw="
+    "hash": "sha256-tdb3Q/ZLTdeY++WiGVxgRbauBhQG+cL5/FrLe+8Oosk="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -8847,13 +8847,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cli_toolbox": {
-    "version": "2.2.0",
+    "version": "3.0.1",
     "t3_versions": [
       10,
-      11
+      11,
+      12
     ],
     "description": "",
-    "hash": "sha256-iCxnGK6/3qVrE9m1EupmJEaFkLxd3Agb1+uKZysUtJE="
+    "hash": "sha256-jtZ/SVseorC61qUNj2/IeIXcQl/lcNEszt4h2D/WvVA="
   },
   "clickskeks": {
     "version": "2.1.0",
@@ -9837,13 +9838,13 @@
     "hash": "sha256-xfC4a0AQi5VXRNo1j9WQfFI80zySQiE1ybcbMBl6Mj0="
   },
   "container_elements": {
-    "version": "5.2.0",
+    "version": "5.3.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Provides content elements powered by container and bootstrap. Available elements: container, columns, grid, tabs, accordion, tile unit, card, randomizer and slider.",
-    "hash": "sha256-jxW497ItQwfZ5qVouWjHwgJQBEjb0Pk677vxZMDD9rM="
+    "hash": "sha256-aYyLpgWvnjN//echwJ6JdUXsr3KZMK1tqpmE5Our26Y="
   },
   "container_example": {
     "version": "1.0.0",
@@ -26517,13 +26518,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "infodienste_check": {
-    "version": "1.0.2",
+    "version": "1.0.3",
     "t3_versions": [
       10,
-      11
+      11,
+      12
     ],
     "description": "Mit dieser Extension werden die Serveranforderungen Ihres TYPO3 Systems für den Einsatz der Infodienste Extension \"t3infodienste\" geprüft. Hierfür wird ein Backendmodul bereitgestellt.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-SAghFSr4P5wmSfWXuyUCT6IJs5CLDXQPcMznaZx/uBw="
   },
   "ingmar_accessctrl": {
     "version": "1.0.1",
@@ -29540,13 +29542,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ke_search": {
-    "version": "5.5.0",
+    "version": "5.5.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Faceted fulltext search for TYPO3. Fast, flexible and easy to install and use. Indexes content directly from the databases. Features faceting / filtering, file indexing, images in result lists and respects access restrictions.",
-    "hash": "sha256-M0HQ3dwN0VM0j7P5BUN6yoFQ8LV/GUYzMKOOgaB7IDU="
+    "hash": "sha256-m97Grwg6EoLsQz7eh2YG4EBaaNeFkBWjcRf9NPDMBJo="
   },
   "ke_search_dam_tags": {
     "version": "0.0.1",
@@ -31964,13 +31966,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "lux": {
-    "version": "36.2.0",
+    "version": "36.3.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Living User Experience - LUX - the Marketing Automation tool for TYPO3.",
-    "hash": "sha256-G7CCUmqRVxf/1W1ETkTHodMVrEJTEc07TVfIYArkRNs="
+    "hash": "sha256-amZV0L36AkWoPeu+XPg2uSJ4t5KuDOtl+0EldE4ENkE="
   },
   "luxletter": {
     "version": "26.2.0",
@@ -34164,13 +34166,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mfa_email": {
-    "version": "1.0.3",
+    "version": "1.0.5",
     "t3_versions": [
       11,
       12
     ],
     "description": "Provides a multi-factor authentication via E-Mail for TYPO3",
-    "hash": "sha256-KRUUId+yGTLXlpwDl+clK/Hm/fCsVN7fKi7NGm+mbeI="
+    "hash": "sha256-0J1SjwxB4f6lGpBS9GNz2FanbKPlcRiO4fL0pO8g+hg="
   },
   "mfa_frontend": {
     "version": "1.2.0",
