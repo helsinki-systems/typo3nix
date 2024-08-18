@@ -12010,12 +12010,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cy_lending": {
-    "version": "3.1.0",
+    "version": "3.2.1",
     "t3_versions": [
       12
     ],
     "description": "You can organize lending of objects",
-    "hash": "sha256-LGXIUk7BICO8/uHoOKb5dwZCZfWDkCdovqYmBlLyGuY="
+    "hash": "sha256-FxDZ78PatltKmemKZkDNNq+2tM4T8FYcDOeCDkPA+gA="
   },
   "cy_newsletter": {
     "version": "2.0.0",
@@ -46222,12 +46222,10 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "recaptcha": {
-    "version": "12.0.1",
-    "t3_versions": [
-      12
-    ],
+    "version": "13.0.1",
+    "t3_versions": [],
     "description": "Integrates google reCAPTCHA and invisible reCAPTCHA in EXT:form, EXT:sf_register",
-    "hash": "sha256-8LrmcsyURqzVtL8aSwY8S1WVC3OutUGnK1RbulDdP9A="
+    "hash": "sha256-Tx+5UszJEFRHLxiEek+bnLw7V0GtZ4nelxcvR7IxhsA="
   },
   "recent_comments": {
     "version": "0.2.0",
@@ -49471,13 +49469,13 @@
     "hash": "sha256-pbi7qVxv5+I6JbCj/dc4959Oobjl3FpEwDBWYZKUyvM="
   },
   "schema": {
-    "version": "3.6.0",
+    "version": "3.6.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "API and view helpers for schema.org markup",
-    "hash": "sha256-n0i1c6Pgcv0PfstKMC/rFBGE2iOzq8f8lidt+3//Qpw="
+    "hash": "sha256-DRClmectyx5bUtriQ8g8Wd+SkDaDB6Q7Wf1O01FyGeQ="
   },
   "schema_auto": {
     "version": "2.1.0",
