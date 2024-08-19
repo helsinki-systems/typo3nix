@@ -15450,12 +15450,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "dot_forms": {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "t3_versions": [
       12
     ],
     "description": "Create virtual fields just like flex forms, but with pure TCA.",
-    "hash": "sha256-NIUfMFbq8h65MjUcovTFUSCHF0ccjNkAYKTidWu2K5c="
+    "hash": "sha256-f7DfdPR088hpT9J52EzI8SiM6Qs/YIDdtbfaEqKZCvw="
   },
   "doubleoptin": {
     "version": "0.9.5",
@@ -26953,6 +26953,15 @@
     "t3_versions": [],
     "description": "Allow sending of HTML mails to everyone, including plainlist addresses.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "it_kanzlei": {
+    "version": "2.0.2",
+    "t3_versions": [
+      11,
+      12
+    ],
+    "description": "",
+    "hash": "sha256-aSt8htPWhSqD5UYc2jjdrvC7EXdDtH1GBOZP42fyTrY="
   },
   "it_ttnews_extender": {
     "version": "0.1.1",
@@ -56551,12 +56560,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "t3sbootstrap": {
-    "version": "5.3.13",
+    "version": "5.3.14",
     "t3_versions": [
       12
     ],
     "description": "Startup extension to use bootstrap 5 classes, components and more out of the box. Example and info: www.t3sbootstrap.de",
-    "hash": "sha256-j1r+TpC4ubQu9ulDMRM4CzJnEHkcIpMN7geCkcKsDoU="
+    "hash": "sha256-w5TvGRQwlC0gZqTR6GsLYJCMWtYhkl9TSknsgJEM4TI="
   },
   "t3sbootstrap_grid": {
     "version": "3.0.0",
@@ -65438,12 +65447,12 @@
     "hash": "sha256-5G7mjV8y4E0LgcqcDPY2OG+FBfma9p8cYKO+zq5nTtM="
   },
   "xima_typo3_frontend_edit": {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "t3_versions": [
       12
     ],
     "description": "This extension provides an edit button for editors within frontend content elements.",
-    "hash": "sha256-szq3/CmoATcjCKxoggk2+HLHX8UC97dp13tohQTh9N8="
+    "hash": "sha256-3tHtlGGJtyen5JKQyFJpZxzbyBA7+YY1DLRoUPIddZs="
   },
   "xima_typo3_mailcatcher": {
     "version": "1.4.0",
@@ -65514,12 +65523,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "xlsexport": {
-    "version": "3.1.2",
+    "version": "3.1.8",
     "t3_versions": [
       11
     ],
     "description": "Excel exporter, fully configurable for every table",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-U5AfFQn/D+UIfFN0OIC50fOOlbWRw1/rt19pRego7/c="
   },
   "xlsimport": {
     "version": "5.0.5",
