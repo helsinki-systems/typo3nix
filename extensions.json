@@ -3589,12 +3589,12 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.320.2",
+    "version": "3.320.3",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-tdb3Q/ZLTdeY++WiGVxgRbauBhQG+cL5/FrLe+8Oosk="
+    "hash": "sha256-5FNC8VoGvt46hcmPm7rTLpwCHA3jgmln2/Y3a/M3M64="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -12010,12 +12010,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cy_lending": {
-    "version": "3.2.1",
+    "version": "3.2.2",
     "t3_versions": [
       12
     ],
     "description": "You can organize lending of objects",
-    "hash": "sha256-FxDZ78PatltKmemKZkDNNq+2tM4T8FYcDOeCDkPA+gA="
+    "hash": "sha256-ffRLD9qZtjZ2Gtkxn9aytGinPlHmQ/Hkn48YA98ClaU="
   },
   "cy_newsletter": {
     "version": "2.0.0",
@@ -23934,12 +23934,12 @@
     "hash": "sha256-QOK9kzQXZfKm0OHyUe9hryLS4RRoPeAihgC35IB+2gU="
   },
   "hd_translator": {
-    "version": "1.0.9",
+    "version": "1.1.0",
     "t3_versions": [
       12
     ],
     "description": "Translation of static strings from locallang.xlf files and export/import of database related content",
-    "hash": "sha256-oNWHS9r9BN84JOE0Ig0vR4niFIoN8+WpyL/g3vch330="
+    "hash": "sha256-TCxgfME5ZizrKSku7C8h14vJZwpZvdoEYzcRNsSlaJ8="
   },
   "header_flashexample": {
     "version": "0.1.2",
@@ -31975,13 +31975,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "lux": {
-    "version": "36.3.0",
+    "version": "36.3.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Living User Experience - LUX - the Marketing Automation tool for TYPO3.",
-    "hash": "sha256-amZV0L36AkWoPeu+XPg2uSJ4t5KuDOtl+0EldE4ENkE="
+    "hash": "sha256-2MDP0W9yqU/0C/l9wmTIGkCRvZOMrsQwYH2im1ZC2WA="
   },
   "luxletter": {
     "version": "26.2.0",
@@ -33823,12 +33823,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "meilisearch": {
-    "version": "0.5.4",
+    "version": "0.5.5",
     "t3_versions": [
       12
     ],
     "description": "This extension integrates \"meilisearch\" into your TYPO3.",
-    "hash": "sha256-fcupgRStLEyoEg4OXpHXA+IG72CtfskFPbdKe2kL3iQ="
+    "hash": "sha256-OEYxwYGr5Jdus75YdRM96/Ff4+bqp1bqZvSn7UKpfI4="
   },
   "meinpraktikum_widget": {
     "version": "1.0.1",
@@ -39691,14 +39691,14 @@
     "hash": "sha256-orbm3vuugnp6n2aVBo7E//zUpUH73gfloUs0Z0CQCV4="
   },
   "ns_openai": {
-    "version": "1.3.3",
+    "version": "2.0.0",
     "t3_versions": [
       10,
       11,
       12
     ],
-    "description": "T3OpenAI is now relaunched with T3AI. Please check here https://extensions.typo3.org/extension/ns_t3ai",
-    "hash": "sha256-eTZwEo9XdZ8Cg8V6jQhW8uL3ZSD+KkopQEk8JwrZkaM="
+    "description": "Meet T3AI- Experience AI-powered content generation, advanced SEO optimization, creative media production, easy language translation, and more—all within a few clicks, directly from your TYPO3 backend. Maximize your productivity by saving up to four times your time with T3AI.",
+    "hash": "sha256-rxC7Xh4SIE84kc6Cr0ncTzVUEAPSdzpH0bG0yoDjWs0="
   },
   "ns_personio": {
     "version": "1.1.0",
@@ -39769,14 +39769,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ns_t3ai": {
-    "version": "1.0.0",
+    "version": "2.0.0",
     "t3_versions": [
       10,
       11,
       12
     ],
-    "description": "T3AI — TYPO3 meets Artificial Intelligence with T3AI (ChatGPT, DALL-E, etc). T3AI provides rich content assistance, automating tasks like content creation and SEO optimization. It offers wide range of features like quick sidebar options, AI page creation, RTE chatbot, Language translation, Chat assistance, and Helpful prompts and so on.",
-    "hash": "sha256-2Km6KWQG//NZ3rIFT+iQXw3iKLwE19ghugVFGp5CInE="
+    "description": "Meet T3AI- Experience AI-powered content generation, advanced SEO optimization, creative media production, easy language translation, and more—all within a few clicks, directly from your TYPO3 backend. Maximize your productivity by saving up to four times your time with T3AI.",
+    "hash": "sha256-nCsK2yReNGBt6ByXLhseOqIim6236u3uQ6gCH7JOqc0="
   },
   "ns_theme_agency": {
     "version": "12.0.0",
@@ -61966,12 +61966,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "update_refindex": {
-    "version": "11.0.0",
+    "version": "11.1.1",
     "t3_versions": [
       11
     ],
     "description": "extension contains scheduler-task to update refindex of TYPO3",
-    "hash": "sha256-Nk9fgDUwpZCkvZUOga9yH/uorhrNuVd+fistNI4croE="
+    "hash": "sha256-ycD/yggJYhimjMfBuO4mLrFB2fu4UY1psL8UTd9rZEc="
   },
   "updatetrustedhostfromsites": {
     "version": "1.1.0",
@@ -65439,12 +65439,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "xima_typo3_content_planner": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "t3_versions": [
       12
     ],
     "description": "This extension provides a page status functionality to support the planning of content work.",
-    "hash": "sha256-5G7mjV8y4E0LgcqcDPY2OG+FBfma9p8cYKO+zq5nTtM="
+    "hash": "sha256-uQ4GBLN8ShXIUHsZQtKKQ6DOq4oDlVm7b+/fkeohmMk="
   },
   "xima_typo3_frontend_edit": {
     "version": "1.1.0",
