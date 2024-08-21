@@ -1977,12 +1977,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "allinoneaccessibility": {
-    "version": "2.2.2",
+    "version": "2.2.3",
     "t3_versions": [
       12
     ],
     "description": "All in One Accessibility widget improves Typo3 website ADA compliance and browser experience for ADA, WCAG 2.1 & 2.2, Section 508, Australian DDA, European EAA EN 301 549, UK Equality Act (EA), Israeli Standard 5568, California Unruh, Ontario AODA, Canada ACA, German BITV, France RGAA, Brazilian Inclusion Law (LBI 13.146/2015), Spain UNE 139803:2012, JIS X 8341 (Japan), Italian Stanca Act and Switzerland DDA Standards.",
-    "hash": "sha256-2vh/kmTOBZJIo5PLsE1BsP+C6A5uxj1VrpMZb1m3P6o="
+    "hash": "sha256-P/HPyVegOqH/6RgGOBiMAsbctmMeLuUygQjFacRXwoM="
   },
   "allnews": {
     "version": "0.2.6",
@@ -3589,12 +3589,12 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.320.3",
+    "version": "3.320.4",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-5FNC8VoGvt46hcmPm7rTLpwCHA3jgmln2/Y3a/M3M64="
+    "hash": "sha256-8IHhWgBsuVFhq5tR1+lFpOCeUAsYVHX45vAXgabfgW4="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -9900,12 +9900,12 @@
     "hash": "sha256-/5ucsE+5C2l4Skk/RThwkQiHU0a48OkYcBOpC0v4a2A="
   },
   "content_consent": {
-    "version": "3.0.0",
+    "version": "3.0.1",
     "t3_versions": [
       12
     ],
     "description": "Provides a content consent plugin to load any content elements and custom plugins by ajax without jQuery! So you can include Google Maps, YouTube- or Vimeo videos GDPR/DSGVO compliant. Best used with Bootstrap 5",
-    "hash": "sha256-P2TrqsPGIfoE69QqIxLy/Pxo9H8eOZv6+SvxAqiGUsg="
+    "hash": "sha256-2YlJYJUPnk62WA6ebh03szvjhLPY3cxd1FcEFDJlnOI="
   },
   "content_defender": {
     "version": "3.4.3",
@@ -15450,12 +15450,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "dot_forms": {
-    "version": "1.0.2",
+    "version": "1.0.3",
     "t3_versions": [
       12
     ],
     "description": "Create virtual fields just like flex forms, but with pure TCA.",
-    "hash": "sha256-f7DfdPR088hpT9J52EzI8SiM6Qs/YIDdtbfaEqKZCvw="
+    "hash": "sha256-60cNkek0ZZ3DMXEj2P1ZJtbQO9ahmifW0zRaE+ESb1M="
   },
   "doubleoptin": {
     "version": "0.9.5",
@@ -34829,14 +34829,16 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "miniorange_saml": {
-    "version": "5.4.0",
+    "version": "5.5.0",
     "t3_versions": [
+      8,
+      9,
       10,
       11,
       12
     ],
-    "description": "Typo3 SAML SSO for frontend and Backend",
-    "hash": "sha256-YWlXVEvf8DfU4zQDl2id3LwNbEFMLbiDkv2Srl0v7QA="
+    "description": "SAML SSO for Typo3 frontend and Backend",
+    "hash": "sha256-XnJiY+AoHeeCAn7uoEgiMwbaxT7cU0VI+e/59Av3ugY="
   },
   "miniredirect": {
     "version": "3.0.1",
@@ -39769,14 +39771,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ns_t3ai": {
-    "version": "2.0.0",
+    "version": "2.0.1",
     "t3_versions": [
       10,
       11,
       12
     ],
-    "description": "Meet T3AI- Experience AI-powered content generation, advanced SEO optimization, creative media production, easy language translation, and more—all within a few clicks, directly from your TYPO3 backend. Maximize your productivity by saving up to four times your time with T3AI.",
-    "hash": "sha256-nCsK2yReNGBt6ByXLhseOqIim6236u3uQ6gCH7JOqc0="
+    "description": "Meet T3AI- Experience AI-powered Models with ChatGPT, Gemini, Cloude & Azure AI for content generation, advanced SEO optimization, creative media production, easy language translation, and more—all within a few clicks, directly from your TYPO3 backend. Maximize your productivity by saving up to four times your time with T3AI.",
+    "hash": "sha256-UIhobi3TjLBMJT3wLXqTjETstRyk7i9MqFt8vtOmqWo="
   },
   "ns_theme_agency": {
     "version": "12.0.0",
@@ -56560,12 +56562,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "t3sbootstrap": {
-    "version": "5.3.14",
+    "version": "5.3.15",
     "t3_versions": [
       12
     ],
     "description": "Startup extension to use bootstrap 5 classes, components and more out of the box. Example and info: www.t3sbootstrap.de",
-    "hash": "sha256-w5TvGRQwlC0gZqTR6GsLYJCMWtYhkl9TSknsgJEM4TI="
+    "hash": "sha256-z8ta8TuvsAVgQthfFweCA9MbqO23O4wUgY/xuXF+9Bo="
   },
   "t3sbootstrap_grid": {
     "version": "3.0.0",
@@ -63340,14 +63342,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "we_cookie_consent": {
-    "version": "4.0.6",
+    "version": "4.0.7",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Cookie Consent Panel (Optin) with DSGVO/GDPR-compliant use of cookies. Preconfigured modules for Google Analytics, Facebook and other frequently used services. Any extensibility with tracking scripts that generate cookies on your website Support for Google Tag Manager incl. Google Consent Mode and Google Consent Mode v2. Easy export for Google Tag Manager. Third-party cookies and scripts are only loaded if active consent has been given. Website visitors can edit their privacy settings at any time. Automatic update of cookie information when new cookies/scripts with secure consent procedure are inserted. Cookies can be automatically added to the privacy policy via a plugin Multilingual and full support for desktop, tablet and mobile. Four default modes for displaying the content solution, including the display of an always-on icon to access the privacy settings. Based on Klaro!",
-    "hash": "sha256-2JYIsswY9gJSNZnGKfONDrmcU/XuhsAxK8Rj6KHa4VM="
+    "hash": "sha256-fb4WgZ6p+Y5OO8RodqZwcDV34oPRGbOLsmykkSBAZo8="
   },
   "we_dam2fal": {
     "version": "1.0.12",
