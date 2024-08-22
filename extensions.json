@@ -1090,13 +1090,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "additional_tca": {
-    "version": "1.15.9",
+    "version": "1.15.10",
     "t3_versions": [
       11,
       12
     ],
     "description": "Additional TCA fields and tools",
-    "hash": "sha256-9wwvVjzob186+ttBmUPC1NSMILn0caNH4Znee/ogwKk="
+    "hash": "sha256-lazPpZF6VpY3RHgpTlBBIlKEFE/wh+P+eZp4Q6/7XzY="
   },
   "addlinkheader": {
     "version": "0.0.4",
@@ -3589,12 +3589,12 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.320.4",
+    "version": "3.320.5",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-8IHhWgBsuVFhq5tR1+lFpOCeUAsYVHX45vAXgabfgW4="
+    "hash": "sha256-YWTeX+lyzVbYt1d2xLPfvBKEWr0rYyCPHmJFtfI/Iio="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -6564,12 +6564,12 @@
     "hash": "sha256-bEnP1Qzi++L2wHoBUz5PaiRAZgRLVIgN/Mlth7hK2vo="
   },
   "cachemgm": {
-    "version": "12.0.2",
+    "version": "12.0.4",
     "t3_versions": [
       12
     ],
     "description": "Provides management of the page caching for high traffic websites.",
-    "hash": "sha256-mfnnEQXsqLdyJa/dAVKxGTT6CHXeeDIBTvXQkXI9RPs="
+    "hash": "sha256-9l9jkMVcaODrnIwyPao8VD1x7w1MUWd80UkSGgwv3gk="
   },
   "cacheopt": {
     "version": "12.0.0",
@@ -14167,12 +14167,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "div2007": {
-    "version": "2.2.1",
+    "version": "2.2.2",
     "t3_versions": [
       12
     ],
     "description": "This library offers classes and functions to other TYPO3 extensions. Replacement for tslib_pibase methods.",
-    "hash": "sha256-g3WMaWoO7vhUL1/cZCUew/+9ApWsuoLyMzy7QKXugoM="
+    "hash": "sha256-HLNnbdEIsgWF5KhFyIemjoo6muaTIm0oFS1PT1DFSN4="
   },
   "diva": {
     "version": "8.7.1",
@@ -33403,29 +33403,29 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "md_calendarize_frontend": {
-    "version": "3.0.0",
+    "version": "3.0.1",
     "t3_versions": [
       12
     ],
     "description": "This extension enables frontend users to add ext:calendarize items in the frontend.",
-    "hash": "sha256-sL/u97lcJMKObSLifjjvJRFNO/kVtJM/NxNYiBKapLk="
+    "hash": "sha256-Kx7UsqM9fNjgInXofIkOvhB0bj6KUyGP65pXTxr95gE="
   },
   "md_eventmgt_frontend": {
-    "version": "2.0.0",
+    "version": "2.0.1",
     "t3_versions": [
       12
     ],
     "description": "Create and edit events for ext:sf_event_mgt in the frontend",
-    "hash": "sha256-QN+A1VcoX3s02TJIec1/6xqJef0asd9LN7fefGSO7k4="
+    "hash": "sha256-Is2BLyx93fuskjpNzfQi4HuQtVOGE3q6W/qxSHZO46c="
   },
   "md_fullcalendar": {
-    "version": "4.0.0",
+    "version": "4.0.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "This extension brings the FullCalendar.io with switchable views for month, week and day to ext:calendarize. It is also possible to filter calendars by categories.",
-    "hash": "sha256-BN8NR+k+avynC39UFE05ZiNUU+vEREE7uzOWvlcV+8o="
+    "hash": "sha256-MkrnLKm7o3PT9lUy+JpRdhYJ5349zjv6vMcALfQ4AhY="
   },
   "md_news_author": {
     "version": "7.0.2",
@@ -46853,13 +46853,12 @@
     "hash": "sha256-O3TeYOffLKF07yOQYyYE6cFkPLDQbcO8rrw0cPuVdRU="
   },
   "restler_examples": {
-    "version": "10.1.1",
+    "version": "11.0.1",
     "t3_versions": [
-      10,
       11
     ],
     "description": "Examples for using Restler in TYPO3",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-vsWGdUvYOWoWwyGNbfAzvJsOWc9OXwo1zS3fZOzwBuU="
   },
   "restrictfe": {
     "version": "10.0.0",
@@ -49890,12 +49889,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "semantic_suggestion": {
-    "version": "1.1.0",
+    "version": "1.2.0",
     "t3_versions": [
       12
     ],
     "description": "TYPO3 extension for suggesting semantically related pages",
-    "hash": "sha256-fJ/0NDOKcGYhMjstH/kc1bRNsykWQ08Gm6CUrmc2zfA="
+    "hash": "sha256-2FYnVb1y7daoYSdlIFNcNH3hnQpBbMqcepR/8k4DpCI="
   },
   "semantify_it": {
     "version": "0.1.8",
