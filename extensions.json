@@ -5938,13 +5938,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "bw_captcha": {
-    "version": "4.1.0",
+    "version": "4.1.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Captcha element with audio support for TYPO3 form components. The captcha generation does not rely on Google or third-party integrations.",
-    "hash": "sha256-nizahhc5sFzLzRl/Nsxn21LhmCG5Ne6GMxoaPha5Gwc="
+    "hash": "sha256-SbM6C109kWROi03IHNwJZTstBb97N1qBEbWOhade9wE="
   },
   "bw_covid_numbers": {
     "version": "1.2.0",
@@ -20218,13 +20218,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fluid_components": {
-    "version": "3.7.1",
+    "version": "3.8.0",
     "t3_versions": [
-      11,
       12
     ],
     "description": "Encapsulated frontend components with Fluid's ViewHelper syntax",
-    "hash": "sha256-XMbnCNxpCukLkfJCuqy/qGTD8/iKlyE/wQbv6cLXFCc="
+    "hash": "sha256-rnzvtoXvalcUFo90QjaBeQ+PwcHE7qfg6f+lYMArMXM="
   },
   "fluid_contentelements": {
     "version": "1.0.0",
@@ -20308,13 +20307,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fluid_styleguide": {
-    "version": "2.0.4",
+    "version": "2.1.2",
     "t3_versions": [
-      10,
-      11
+      12
     ],
     "description": "Living styleguide for Fluid Components",
-    "hash": "sha256-vwFLmzej3T2ekqeokRFZVHgj0ESnBBsm9nnRk03JKQU="
+    "hash": "sha256-HLatQVzn7uGCg/OkGXfU+4vhKEjpKFQ7LRmupwGw+cU="
   },
   "fluidbackend": {
     "version": "1.0.1",
@@ -27340,13 +27338,13 @@
     "hash": "sha256-kNZgnqy5dM8SzC4ilOl9DgHvwcNeiEAb/KXfh4cGUqg="
   },
   "jar_columnrow": {
-    "version": "1.0.21",
+    "version": "1.0.22",
     "t3_versions": [
       10,
       11
     ],
     "description": "Provides a freely definable and universal grid element with bootstrap-based output.",
-    "hash": "sha256-r+FpRvr8NPgcc3RK3ETgfRi36BSYXPplCrYus/4kjV4="
+    "hash": "sha256-/9c2FbJcWCD7KL/lI3f+XGSwUJ1P58JAu5odsApfRTQ="
   },
   "jar_dataflow": {
     "version": "2.0.4",
@@ -29551,13 +29549,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ke_search": {
-    "version": "5.5.1",
+    "version": "5.5.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "Faceted fulltext search for TYPO3. Fast, flexible and easy to install and use. Indexes content directly from the databases. Features faceting / filtering, file indexing, images in result lists and respects access restrictions.",
-    "hash": "sha256-m97Grwg6EoLsQz7eh2YG4EBaaNeFkBWjcRf9NPDMBJo="
+    "hash": "sha256-AQupnU6Vo+e6VLEDvsBx3EKLQs1+zatpqkMrXA5Felk="
   },
   "ke_search_dam_tags": {
     "version": "0.0.1",
@@ -36986,6 +36984,17 @@
     "description": "Multivote: vote on multiple items, for example for hitlists.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "mv_analysis_index": {
+    "version": "1.0.0",
+    "t3_versions": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "description": "Renders an analysis index based on medicalvalues data management.",
+    "hash": "sha256-flT+T+pOEVhJuWXX+12OxzaiPeLddcct0lW9cnMb3gI="
+  },
   "mv_columns_number": {
     "version": "0.3.0",
     "t3_versions": [],
@@ -39703,7 +39712,7 @@
     "hash": "sha256-rxC7Xh4SIE84kc6Cr0ncTzVUEAPSdzpH0bG0yoDjWs0="
   },
   "ns_personio": {
-    "version": "1.1.0",
+    "version": "1.1.1",
     "t3_versions": [
       9,
       10,
@@ -39711,7 +39720,7 @@
       12
     ],
     "description": "The extension offers various customization options for job listing, detail, and application pages on the frontend. Additionally, a scheduler ensures data synchronization. Directly list, view, and apply to Personio vacancies through the TYPO3 Backend. ",
-    "hash": "sha256-YTkbX9K+1x7wG+4kHMNiFho0XpBdP3I2K2eYbpn4RzE="
+    "hash": "sha256-DBUl/XnbddAlK9xL2KLxisrV3pK97ILswC4B6WZJbMo="
   },
   "ns_protect_site": {
     "version": "2.0.4",
@@ -39789,12 +39798,12 @@
     "hash": "sha256-Iyxc+LKptf4UBYTpYWwK/sGbbJA3S3wR9M7bHkVUIQw="
   },
   "ns_theme_cleanblog": {
-    "version": "12.0.0",
+    "version": "12.0.1",
     "t3_versions": [
       12
     ],
     "description": "T3 Clean Blog Free TYPO3 Template is a premium TYPO3 theme for personal or company blog with minimal & clean design, super easy settings, light, and ultra-fast page speed. Live-Demo: https://demo.t3terminal.com/?theme=t3t-cleanblog PRO version: https://t3planet.com/t3-clean-blog-free-typo3-template",
-    "hash": "sha256-vKqymNjP7bY8Nq/xVQDO0zQk7g6l97ni1djeCJaWv98="
+    "hash": "sha256-69ojUJQjC9qh3dDbsPeFCc2d7LrJUFwRJWbDiR+/nhM="
   },
   "ns_theme_comingsoon": {
     "version": "11.1.2",
@@ -40108,14 +40117,16 @@
     "hash": "sha256-76d2d3Z7LyMOrQIF4jHrE10aIhiHlWwq7fBUd2eLIjo="
   },
   "oauth_openid_single_sign_on": {
-    "version": "1.0.8",
+    "version": "1.0.9",
     "t3_versions": [
+      8,
+      9,
       10,
       11,
       12
     ],
     "description": "Typo3 OAuth / OpenID Connect Single Sign-On SSO extension by miniOrange allows your users (Frontend & Backend) to login (Single Sign-On) into Typo3 with Azure AD, Azure B2C, AWS Cognito, Office 365, WSO2, Okta, Salesforce, Discord, Keycloak, PingFederate, OneLogin or other custom OAuth 2.0 providers. Typo3 OAuth / OIDC extension can be used for authorization and authentication purposes with any OAuth / OIDC Provider that conforms to the OAuth 2.0 and OpenID Connect (OIDC) standards. Typo3 OAuth / OpenID Connect Single Sign-On SSO provides user authentication with OAuth & OpenID Connect protocol and allows authorized users to login into the Typo3 site. We provide features like Attribute Mapping & Role Mapping which help to map user data returned from your OAuth Provider to Typo3. You can add an SSO Login Button on both your Typo3 frontend and backend (Admin Panel) login page with our extension.",
-    "hash": "sha256-lppeaxtmIyg5twR2ZhBla8+UmyoCaoDdlHfPhxIp+/A="
+    "hash": "sha256-hm1taBTXQI7g9wo/DoHTW/lgiJSHN0RxHmdq7FaHcIA="
   },
   "objmgr": {
     "version": "1.0.0",
@@ -41314,12 +41325,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "osm": {
-    "version": "4.0.2",
+    "version": "4.0.3",
     "t3_versions": [
       12
     ],
     "description": "A smart OpenStreetMap solution in TYPO3",
-    "hash": "sha256-sJJVqIJTQUD/kabDeL7DmeSkw6X82BqxVY96FAH0boQ="
+    "hash": "sha256-oE+XbSuE2JdP5H7OvKf+ix/C5uVIyobvUrGhS8WaI+4="
   },
   "osmplus": {
     "version": "0.0.1",
