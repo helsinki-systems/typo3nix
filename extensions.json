@@ -1576,12 +1576,12 @@
     "hash": "sha256-ee1Rl3Ok1e1HP2daIVmwXQEzGrTz2ymo8zv8dhHnoHI="
   },
   "ai_suite": {
-    "version": "12.4.0",
+    "version": "12.5.0",
     "t3_versions": [
       12
     ],
     "description": "Adds a backend module as well as various helper functionalities and features to your TYPO3 backend, which are intended to make the daily work of editors easier and faster with the help of AI.",
-    "hash": "sha256-zaGJpv5Mzxndpo7uBR7oTr73h+jK5S4401xG4SH0mAY="
+    "hash": "sha256-ul5TZ6qRwOUO8LESG9MGCLkE6nuTEtxTpoTpLiaZzFs="
   },
   "ai_tools": {
     "version": "0.0.1",
@@ -3589,12 +3589,12 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.320.6",
+    "version": "3.320.7",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-qhSv/OQxCNk370EHODUWwWVO+0pNgL9I2n00t1p9SSI="
+    "hash": "sha256-P7qYIdU7S//seE4bx3Bw/8M7Z2aRemFs1rK57BWgWj8="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -8048,12 +8048,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cf_cookiemanager": {
-    "version": "1.6.4",
+    "version": "1.7.0",
     "t3_versions": [
       12
     ],
     "description": "Manage cookies, scripts, and GDPR compliance on your Typo3 website with CodingFreaks Typo3 Cookie Manager. Customize cookie banners, streamline workflow, and enhance user experience. Ensure GDPR compliance and take control of cookie management with our Typo3 cookie management extension. Visit the official Typo3 Documentation page to learn more.",
-    "hash": "sha256-8GzVm7uUe210d2cxYaNcoNKsFyBiVA8kB1VfOiM9Xz8="
+    "hash": "sha256-gKHiN6FKHtIcl3N791zXnyqhXGAgxhY3TlGEHY1jTwE="
   },
   "cf_google_authenticator": {
     "version": "1.2.4",
@@ -57128,14 +57128,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "table": {
-    "version": "0.13.3",
+    "version": "0.13.4",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "This contains a base class which you can use to make your extensions independant from any specific table. And it can be used to make multiple language support with a separate language overlay table or by a CSV file.",
-    "hash": "sha256-qtqOYsak+gr1PT0nvI/v5t1ENXzGsa2QgnI1wKz2g0Q="
+    "hash": "sha256-R03DllOohvPGUFN/64Gb4eyonDNcWdsdzPaQKt0EVYE="
   },
   "tablecleaner": {
     "version": "2.5.0",
