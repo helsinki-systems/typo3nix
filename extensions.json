@@ -24070,12 +24070,12 @@
     "hash": "sha256-TXHkjx84yo6BgjfQXcP16PHNMXSY0HeFpBYawj/94tg="
   },
   "hh_seo": {
-    "version": "0.8.2",
+    "version": "0.8.3",
     "t3_versions": [
       12
     ],
     "description": "Hauer-Heinrich - SEO - Meta-Tag - ViewHelpers",
-    "hash": "sha256-e8c+S9ALI6DFfS4LVMPqVRBlVh6qjuZMJcujaSv0sVo="
+    "hash": "sha256-bzaUU7wJze+SlY+JeVlEhO9u6om8i2kkCC0nQVaKc00="
   },
   "hh_simple_job_posts": {
     "version": "4.1.4",
@@ -26220,13 +26220,13 @@
     "hash": "sha256-1BtHqdHxMgqWSvwa9lEB9dgde/Cg811PY1DMDC7F9sQ="
   },
   "in2publish_core": {
-    "version": "12.5.2",
+    "version": "12.5.3",
     "t3_versions": [
       11,
       12
     ],
     "description": "Content publishing extension to connect stage and production server",
-    "hash": "sha256-pFFwFVDu0xb2yrxt/Ma6+rF2RNHseCdQui7SKXFqdbc="
+    "hash": "sha256-X5FbnyZl4D9GYxrUdUAaDkOqn+nUTCWX1CkILy6ricw="
   },
   "in2rss": {
     "version": "0.2.2",
@@ -26292,14 +26292,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "includekrexx": {
-    "version": "5.0.3",
+    "version": "5.0.4",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Fluid and PHP debugger with backend access to logfiles, code generation to reach the displayed values and much more. We added some special stuff for Aimeos.",
-    "hash": "sha256-/SvUpU2S26zy74lPtc6B1PhSWuILRd2fnw1LnSIRUnU="
+    "hash": "sha256-Xqs0LAE4Fj95YeC11gqobHbEnOHzedZ4GmbDRu4PS0E="
   },
   "incore_twitter": {
     "version": "1.2.2",
@@ -29976,6 +29976,16 @@
     "description": "This extension extends the dam extension by e.g. changing the description field into RTE.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "km_eventnews_filter": {
+    "version": "1.0.0",
+    "t3_versions": [
+      10,
+      11,
+      12
+    ],
+    "description": "Filter event news by organizer, location, categories, tags and time",
+    "hash": "sha256-cTJuyA9QVRSU/Mt45derKKbP4lXFrhdLyFqc+8jia2Q="
+  },
   "km_news_extension": {
     "version": "2.1.0",
     "t3_versions": [
@@ -32393,13 +32403,13 @@
     "hash": "sha256-t0gqOIUAOKi/kMXgs47/cwYU7JK/m7fcCg8s8Rhkm+g="
   },
   "mail_logger": {
-    "version": "4.0.5",
+    "version": "4.1.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "This extension logs all your outgoing mails and provides email templates and debugging tools",
-    "hash": "sha256-uLT60h61785jo/wYK5GwCrwQQpb8qOJ+vtnkbACfEWM="
+    "hash": "sha256-yuqZ1DMSEoOze82T468SElKaWqVQ9M1xcgBZ9md57aM="
   },
   "mail_spool": {
     "version": "1.2.0",
@@ -38635,13 +38645,13 @@
     "hash": "sha256-iuwtcMlSZTq4RbmiMlt+NiK26Zv9Vy251CVMFYV21VA="
   },
   "newsstylist": {
-    "version": "5.0.3",
+    "version": "5.1.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "all in one: one-touch settings within news plugin - fast & cool way to change the output of news, List view 5 layouts (default, card, carousel, newsletter) and swiper slider with some effects",
-    "hash": "sha256-7i0R3xrkXZ9PXJbbAXjrzFKrRuDCmlArg/3+ZzgUfNc="
+    "hash": "sha256-xQRzJ48g7EY99m1ZzdEgBzC8yjbo5tMQJWVgWiKSgLs="
   },
   "newssubmit": {
     "version": "1.0.0",
@@ -63350,14 +63360,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "we_cookie_consent": {
-    "version": "4.0.7",
+    "version": "4.0.8",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Cookie Consent Panel (Optin) with DSGVO/GDPR-compliant use of cookies. Preconfigured modules for Google Analytics, Facebook and other frequently used services. Any extensibility with tracking scripts that generate cookies on your website Support for Google Tag Manager incl. Google Consent Mode and Google Consent Mode v2. Easy export for Google Tag Manager. Third-party cookies and scripts are only loaded if active consent has been given. Website visitors can edit their privacy settings at any time. Automatic update of cookie information when new cookies/scripts with secure consent procedure are inserted. Cookies can be automatically added to the privacy policy via a plugin Multilingual and full support for desktop, tablet and mobile. Four default modes for displaying the content solution, including the display of an always-on icon to access the privacy settings. Based on Klaro!",
-    "hash": "sha256-fb4WgZ6p+Y5OO8RodqZwcDV34oPRGbOLsmykkSBAZo8="
+    "hash": "sha256-AGdXARhZQdp56n7YNdhBGIENTdWQDRuKlic9aDgbv0U="
   },
   "we_dam2fal": {
     "version": "1.0.12",
