@@ -3138,7 +3138,7 @@
     "hash": "sha256-3ChuoDWP1WvxkEPUO4cpdk5XJR1Znsey4UcSwlr9eHA="
   },
   "auth0_sso": {
-    "version": "2.0.0",
+    "version": "2.0.1",
     "t3_versions": [
       8,
       9,
@@ -3147,7 +3147,7 @@
       12
     ],
     "description": "Auth0 extension for Typo3 allows your backend and frontend users to log into TYPO3 using Auth0 credentials.",
-    "hash": "sha256-rfbCcYNdB7RNNT0TvpLo9/BUMdAZz/8SjlvNGi7H/Co="
+    "hash": "sha256-2QtmZdKb88HD9LTELuiR4HBTMmWhdJy+wcB8NyXOQU8="
   },
   "auth_certificate": {
     "version": "0.2.0",
@@ -3589,12 +3589,12 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.320.7",
+    "version": "3.320.8",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-P7qYIdU7S//seE4bx3Bw/8M7Z2aRemFs1rK57BWgWj8="
+    "hash": "sha256-S0rODeTGGuwCI6j3Vq3iW9LtE8BK1mGeR1+EOWNXi6U="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -5938,13 +5938,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "bw_captcha": {
-    "version": "4.1.1",
+    "version": "4.1.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "Captcha element with audio support for TYPO3 form components. The captcha generation does not rely on Google or third-party integrations.",
-    "hash": "sha256-SbM6C109kWROi03IHNwJZTstBb97N1qBEbWOhade9wE="
+    "hash": "sha256-eH/HDmX42yzDCgmUS8mcN1QVtwoJPKJ7Ilmklu6onhA="
   },
   "bw_covid_numbers": {
     "version": "1.2.0",
@@ -19183,12 +19183,12 @@
     "hash": "sha256-bY+iaIUELXqy+dQNMJn94RAVpgFxW3XOp0V6i+3dpR0="
   },
   "femanager_mailchimp": {
-    "version": "2.0.1",
+    "version": "3.0.0",
     "t3_versions": [
       12
     ],
     "description": "TYPO3 CMS Extension to connect femanager and mailchimp",
-    "hash": "sha256-YHkCjIVRdEzSbSRek3rAwvY7xSqyZye9jTlTXodr7ac="
+    "hash": "sha256-UntC84D4FJkkKiLs+YarDZhwARFBUYLDc8bJdqheQIg="
   },
   "femanagerextended": {
     "version": "0.1.2",
@@ -29699,7 +29699,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "keycloak_sso": {
-    "version": "2.0.0",
+    "version": "2.0.1",
     "t3_versions": [
       8,
       9,
@@ -29708,7 +29708,7 @@
       12
     ],
     "description": "Keycloak SSO extension for Typo3 allows your backend and frontend users to log into TYPO3 using Keycloak credentials.",
-    "hash": "sha256-zqURJYZR70n9GHbAhWgxWmyQJQrhuY++wTme+4dR/P8="
+    "hash": "sha256-hb2vV2lSk8eWaKg1f0KuauEMNjv459wB7VcgRWBurHk="
   },
   "keywordsmenu": {
     "version": "0.0.3",
@@ -31099,12 +31099,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "libconnect": {
-    "version": "10.0.0",
+    "version": "10.0.1",
     "t3_versions": [
       12
     ],
     "description": "Diese Extension ist von Avonis im Auftrag der Staats- und Universitaetsbibliothek Hamburg entwickelt worden. Mit ihr lassen sich Ergebnisse aus den Informationssystemen EZB und DBIS der Universitaet Regensburg direkt in das TYPO3-System einbinden.",
-    "hash": "sha256-yNdiby+9dGxOGlwezhG76LLkQwUQtF66rgVwexvgLOw="
+    "hash": "sha256-hR3N0ZhVl1FskiygZ16dvqITZswVlSQotRZfXkdnhM8="
   },
   "libideal": {
     "version": "1.0.0",
@@ -39776,6 +39776,17 @@
     "description": "Spread the joy of Christmas on your TYPO3 website with the Snowfall TYPO3 Extension. This addon, ns_snow, adds beautiful snowflakes and snowfall animation to all pages, creating a festive atmosphere. TYPO3 Snowfall Extension is also compatible with the latest TYPO3 Version 12. *** Live-Demo: https://demo.t3planet.com/t3-extensions/snow/ *** Documentation & Free Support: https://t3planet.com/typo3-snowfall-extension",
     "hash": "sha256-aCFb5tPz9ZLwiKUlMtjsgcZBtpUNh7mhAzvSvKAYq5w="
   },
+  "ns_social_login": {
+    "version": "1.0.0",
+    "t3_versions": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "description": "Meet our all-in-one TYPO3 Social Login and Register extension, which allows users to log in and register using various social media accounts directly from your TYPO3 frontend. With this extension, users can easily access your site using popular platforms like Facebook, Google, Twitter, LinkedIn, Instagram, OpenID, Apple, Discord, Keycloak, Slack, Telegram, Dropbox, and more. Get seamless, one-click frontend login with the TYPO3 Social Login extension. Explore the Demo, Product Page, Documentation & Support: https://t3planet.com/typo3-social-login-extension",
+    "hash": "sha256-2CfeOD/hXNIgdppUNSiCdF+V5OiUKBCpCzZN7+TRAXc="
+  },
   "ns_statcounter": {
     "version": "3.0.2",
     "t3_versions": [
@@ -40127,7 +40138,7 @@
     "hash": "sha256-76d2d3Z7LyMOrQIF4jHrE10aIhiHlWwq7fBUd2eLIjo="
   },
   "oauth_openid_single_sign_on": {
-    "version": "1.0.9",
+    "version": "1.1.0",
     "t3_versions": [
       8,
       9,
@@ -40136,7 +40147,7 @@
       12
     ],
     "description": "Typo3 OAuth / OpenID Connect Single Sign-On SSO extension by miniOrange allows your users (Frontend & Backend) to login (Single Sign-On) into Typo3 with Azure AD, Azure B2C, AWS Cognito, Office 365, WSO2, Okta, Salesforce, Discord, Keycloak, PingFederate, OneLogin or other custom OAuth 2.0 providers. Typo3 OAuth / OIDC extension can be used for authorization and authentication purposes with any OAuth / OIDC Provider that conforms to the OAuth 2.0 and OpenID Connect (OIDC) standards. Typo3 OAuth / OpenID Connect Single Sign-On SSO provides user authentication with OAuth & OpenID Connect protocol and allows authorized users to login into the Typo3 site. We provide features like Attribute Mapping & Role Mapping which help to map user data returned from your OAuth Provider to Typo3. You can add an SSO Login Button on both your Typo3 frontend and backend (Admin Panel) login page with our extension.",
-    "hash": "sha256-hm1taBTXQI7g9wo/DoHTW/lgiJSHN0RxHmdq7FaHcIA="
+    "hash": "sha256-nN4z6hcQRoRfx7fEcXVGTlpC8JMQ8CxVGMksmaXva/U="
   },
   "objmgr": {
     "version": "1.0.0",
@@ -44277,12 +44288,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "powermail": {
-    "version": "12.3.5",
+    "version": "12.4.0",
     "t3_versions": [
       12
     ],
     "description": "Powermail is a well-known, editor-friendly, powerful",
-    "hash": "sha256-F5NhqVfeiaJ9B9feeczZTSBvPPOhc5u5PhekjFtUGgo="
+    "hash": "sha256-tnYkLsfpFziFx1VZKI9x1Y7Gc9vX0WOqzoMmYAZ8aYw="
   },
   "powermail2document": {
     "version": "1.6.1",
@@ -49910,12 +49921,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "semantic_suggestion": {
-    "version": "1.3.0",
+    "version": "1.3.1",
     "t3_versions": [
       12
     ],
     "description": "TYPO3 extension for suggesting semantically related pages",
-    "hash": "sha256-d2O2GhElg5zdTdUgoiW+1+j7nac8ZKQqTRcaCSRJtxg="
+    "hash": "sha256-leYdb6XdNxS7vKesmPWaLX59ZS7N2AfHc8fmxHWapj8="
   },
   "semantify_it": {
     "version": "0.1.8",
@@ -62106,13 +62117,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "usebouncer": {
-    "version": "2.0.0",
+    "version": "2.0.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Mail address validation via usebouncer.com (for powermail)",
-    "hash": "sha256-KCEGRNhKbnYuWQETnDEopTHbLS5BeKi5gjf2E+sXD6I="
+    "hash": "sha256-2lD4Jrzt3gdE3JeVgoj7bFOOrLTvmTHjJTUvcvh5NY0="
   },
   "userbatch": {
     "version": "1.0.0",
@@ -63360,14 +63371,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "we_cookie_consent": {
-    "version": "4.0.8",
+    "version": "4.0.9",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Cookie Consent Panel (Optin) with DSGVO/GDPR-compliant use of cookies. Preconfigured modules for Google Analytics, Facebook and other frequently used services. Any extensibility with tracking scripts that generate cookies on your website Support for Google Tag Manager incl. Google Consent Mode and Google Consent Mode v2. Easy export for Google Tag Manager. Third-party cookies and scripts are only loaded if active consent has been given. Website visitors can edit their privacy settings at any time. Automatic update of cookie information when new cookies/scripts with secure consent procedure are inserted. Cookies can be automatically added to the privacy policy via a plugin Multilingual and full support for desktop, tablet and mobile. Four default modes for displaying the content solution, including the display of an always-on icon to access the privacy settings. Based on Klaro!",
-    "hash": "sha256-AGdXARhZQdp56n7YNdhBGIENTdWQDRuKlic9aDgbv0U="
+    "hash": "sha256-fCdMeBUNtu6jO8mjZ/oV3/fP0vp75ehF6ZwmqXLRvLo="
   },
   "we_dam2fal": {
     "version": "1.0.12",
