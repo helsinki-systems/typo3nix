@@ -28208,12 +28208,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "jobapplications": {
-    "version": "3.0.4",
+    "version": "3.0.5",
     "t3_versions": [
       12
     ],
     "description": "This extension enables you to manage job postings, provides you with an application form and a backend module to manage incoming applications.",
-    "hash": "sha256-gBjKTOAP0HkRKqek5hoXqHOtq/0iGof2DPw+xJOYG9U="
+    "hash": "sha256-Evu7BMSjUy++1b9Mm1Bqwmpxfrbm0E+SoWfrMvNd6lg="
   },
   "jobcenter": {
     "version": "3.2.1",
@@ -30613,20 +30613,20 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "launchstart": {
-    "version": "10.0.0",
+    "version": "10.3.1",
     "t3_versions": [
       10
     ],
     "description": "Launches a ready-to-use responsive website. Gridelements enable nested layouts. Based on Start TYPO3 Responsive and the Foundation framework. ",
-    "hash": "sha256-fJC3SgDFaY4MeuSrvwyJds7qwSor9+lqbK5vP3UgBKU="
+    "hash": "sha256-N+xp6GR6rkwlWn5B/CXrRNcf1y7IyHftV9Rt/dsvJo4="
   },
   "launchstartgreen": {
-    "version": "10.5.0",
+    "version": "10.6.0",
     "t3_versions": [
       10
     ],
     "description": "Launches a ready-to-use website for BUENDNIS 90/DIE GRUENEN! Website is responsive. It contains a calendar-modul and a news-modul, sample layouts and sample content. You can be rid of the green corporate design by removing one TypoScript template.",
-    "hash": "sha256-VfrimNRdUZ2sgjuz0gHpzx7AMp3lS2BNubNizuK3kmI="
+    "hash": "sha256-d/LBDlT1b2kcLgqKpLSjZMAyxdEHZxK4MJWUEc5RYa8="
   },
   "layerslider": {
     "version": "5.6.2",
@@ -46266,10 +46266,10 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "recaptcha": {
-    "version": "13.0.1",
+    "version": "13.0.2",
     "t3_versions": [],
     "description": "Integrates google reCAPTCHA and invisible reCAPTCHA in EXT:form, EXT:sf_register",
-    "hash": "sha256-Tx+5UszJEFRHLxiEek+bnLw7V0GtZ4nelxcvR7IxhsA="
+    "hash": "sha256-6tDcgriozoABxV+U4eFaWxVPqikYH7fgOtVoqtQqb30="
   },
   "recent_comments": {
     "version": "0.2.0",
@@ -54237,12 +54237,12 @@
     "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
   },
   "start": {
-    "version": "10.3.3",
+    "version": "10.3.5",
     "t3_versions": [
       10
     ],
     "description": "Start extends TYPO3 with the responsive framework Foundation (Zurb), a dozen responsive Backend Layouts and some responsive Gridelements. It enables editors, to create responsive nested layouts within a few minutes. It extends some backend forms for controlling the display of content elements depending on devices like smartphones, tablets and desktops. It extends TYPO3 content elements and menus with some helpful responsive Foundation features. A template for a responsive newsletter is included.",
-    "hash": "sha256-8Wl00joA+RcXUVrjvOVbTbUuwvwrX5fcLQVbOxarlYU="
+    "hash": "sha256-JEHzMoThl3Jp0jWue2pVcuQNOvo3EnSSXTh1HHNejtM="
   },
   "startcustomer": {
     "version": "8.7.12",
@@ -54263,14 +54263,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "startgreen": {
-    "version": "10.2.0",
+    "version": "10.3.1",
     "t3_versions": [
-      8,
-      9,
       10
     ],
     "description": "TYPO3 für BÜNDNIS 90/DIE GRÜNEN. TYPO3 GRUENE ist ein Template und liefert eine Website im Design von BÜNDNIS 90/DIE GRÜNEN. Es ist responsive, optimiert für Smartphone, Tablet und Desktop. Mit Launch TYPO3 GRUENE! kannst Du eine schlüsselfertige GRÜNE Website in Betrieb nehmen. Bürgerinitiativen, Verbände und Vereine können mit wenigen Handgriffen das Grüne Design entfernen. Website: https://typo3-gruene.de/",
-    "hash": "sha256-U+ewX4/PDLptgIDbNZd13UvIyGABHpOi0lp3SGN78jY="
+    "hash": "sha256-Tz1HaTSTHpq2h9PeUMDgKOf+UaudhDyfucgqh2/b4mU="
   },
   "starthansekontor": {
     "version": "0.0.4",
