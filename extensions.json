@@ -16287,13 +16287,12 @@
     "hash": "sha256-jnMJvJpPy2O6bB0EB2tCymIgfWSFDuNQig8A/OtWVGs="
   },
   "easy_verein": {
-    "version": "1.0.2",
+    "version": "1.0.3",
     "t3_versions": [
-      10,
       11
     ],
     "description": "Extension to connect TYPO3 with easyVerein association management software",
-    "hash": "sha256-Tq/kjfWFv+D+RrAkKvXygSHHjy1lozDdWdCK/fbeoc0="
+    "hash": "sha256-gcRpj+bqdgERbpKle43vE8fnNvyI7bfj6RPjUmKiP9U="
   },
   "easycal": {
     "version": "0.1.0",
@@ -33702,12 +33701,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "media_processing": {
-    "version": "0.6.0",
+    "version": "0.7.0",
     "t3_versions": [
       12
     ],
     "description": "Integrates various image processing libraries and SaaS cloud services into TYPO3 by leveraging their APIs to process images.",
-    "hash": "sha256-nKcAZd/ULovuWXCnmquB3kTI4izdKkVMZMEJdNoFklM="
+    "hash": "sha256-2RA6KbBk42sgqy6j6uxA/W1XlGINIvSOyNbopw02NFw="
   },
   "media_upload": {
     "version": "2.0.0",
@@ -46552,13 +46551,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "reint_powermail_country": {
-    "version": "3.0.0",
+    "version": "3.0.1",
     "t3_versions": [
       10,
       11
     ],
     "description": "An extended ViewHelper for the powermail country select field.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-69mKxrPZrA+5ViFwksDSANW1GlZa5/c2Hv6Zm6umZtY="
   },
   "reint_ttnewsdamtofal": {
     "version": "1.0.5",
@@ -59002,10 +59001,10 @@
     "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
   },
   "tinyurls": {
-    "version": "13.0.0",
+    "version": "13.2.0",
     "t3_versions": [],
     "description": "This extensions allows you to cut down long URLs. It basically works like bitly or TinyURL.",
-    "hash": "sha256-UVJ17oUYL6YXvgO61EfXqnQqI3qounBxYeTh4RDYeV0="
+    "hash": "sha256-fgVqVf9IGi51HJNX6gQW7ifo3R3zIssWFleR9ETdA/g="
   },
   "tipafriend": {
     "version": "1.2.4",
