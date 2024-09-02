@@ -28997,12 +28997,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "jwtools2": {
-    "version": "7.1.1",
+    "version": "7.1.2",
     "t3_versions": [
       12
     ],
     "description": "Jwtools2 contains a scheduler task for Solr to index multiple Pagetrees and a task to execute SQL-Queries. Further there are settings to enable some features in TYPO3 like showing the Page UID in Pagetree with a simple click in extensionmanager.",
-    "hash": "sha256-KZtLD+eRVW6CRuSnAS25TH4oUh8t80ZOKPByodG1dKA="
+    "hash": "sha256-tVKBVpDH1zdii7T2EvqX/EuetIxjQ7m6b7XZUSgXH9U="
   },
   "k20events": {
     "version": "1.0.3",
@@ -35034,6 +35034,15 @@
     ],
     "description": "",
     "hash": "sha256-d7l9BhoZHhbjIWXTjqi1Kf0+CxQwYJbK4AnRsNw3ioo="
+  },
+  "mkcleaner": {
+    "version": "12.0.1",
+    "t3_versions": [
+      11,
+      12
+    ],
+    "description": "Cleans files by removing any metadata with the help of mat2, exiftool and qpdf according to BSI guidelines.",
+    "hash": "sha256-6H05DwRy5TP7I2m3O6nKftHQjQVN7MRXdeMYYlAY3V8="
   },
   "mkcontentai": {
     "version": "12.1.2",
@@ -49945,13 +49954,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "seminars": {
-    "version": "5.6.0",
+    "version": "5.6.1",
     "t3_versions": [
       10,
       11
     ],
     "description": "Allows you to create and manage a list of seminars, workshops, lectures, theater performances and other events, allowing front-end users to sign up. FE users also can create and edit events.",
-    "hash": "sha256-BOEqDAOIWuCP2HGLjyQ05MXXuhENe3b7Zz83d/mIpdM="
+    "hash": "sha256-zgcLaYIqMy4bVxpl6DLcaceo+BaiDG6/rDbcFuOLvgw="
   },
   "seminarscalredirect": {
     "version": "1.0.0",
