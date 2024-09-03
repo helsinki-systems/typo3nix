@@ -28293,13 +28293,13 @@
     "hash": "sha256-P4pfcdp4YOL+rGnT6sJhdE52Ev2f4goRER0CGwxK6jQ="
   },
   "jobrouter_data": {
-    "version": "3.0.1",
+    "version": "3.0.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "Connect JobRouter® JobData tables with TYPO3",
-    "hash": "sha256-lb52mvurVV5Oxpg8NcLxy2tIBZDNEvOZBEKq8P8yWcM="
+    "hash": "sha256-XYsoudJ6fkNERYlxg5b6ctSBqucH3PUzg7gARv1LRzE="
   },
   "jobrouter_process": {
     "version": "3.0.1",
@@ -39317,6 +39317,14 @@
     "description": "An easy workspace administration tool for editors and reviewers.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "nr_image_sitemap": {
+    "version": "11.1.2",
+    "t3_versions": [
+      11
+    ],
+    "description": "Provides a data provider to use with the typo3/cms-seo extension, to create an image sitemap",
+    "hash": "sha256-z0CQA/GG9Llz6xTopXE55oDJ0HuIi4/yt09IKgfe2JE="
+  },
   "nr_indexedsearch_patch": {
     "version": "0.0.3",
     "t3_versions": [],
@@ -41784,12 +41792,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "pagedoctor": {
-    "version": "0.6.1",
+    "version": "0.7.2",
     "t3_versions": [
       12
     ],
     "description": "Rapidly build and deploy content elements for TYPO3 CMS without one line of code.",
-    "hash": "sha256-NHBqNKRUyL2h/oroaKqz5yIR3cYNlXvzhZvp1qo1/d4="
+    "hash": "sha256-CB6F2DFDyBYeakWlKtJJQjm21oEbVXspR9PfJ2LE4qU="
   },
   "pagedoctor_starter": {
     "version": "0.5.4",
@@ -54245,12 +54253,12 @@
     "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
   },
   "start": {
-    "version": "10.3.5",
+    "version": "10.3.6",
     "t3_versions": [
       10
     ],
     "description": "Start extends TYPO3 with the responsive framework Foundation (Zurb), a dozen responsive Backend Layouts and some responsive Gridelements. It enables editors, to create responsive nested layouts within a few minutes. It extends some backend forms for controlling the display of content elements depending on devices like smartphones, tablets and desktops. It extends TYPO3 content elements and menus with some helpful responsive Foundation features. A template for a responsive newsletter is included.",
-    "hash": "sha256-JEHzMoThl3Jp0jWue2pVcuQNOvo3EnSSXTh1HHNejtM="
+    "hash": "sha256-tSzUxGnY335811ZXoU5H98ZBWeUuC/BgDqnRgN251eo="
   },
   "startcustomer": {
     "version": "8.7.12",
