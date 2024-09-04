@@ -3589,12 +3589,12 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.321.2",
+    "version": "3.321.3",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-fPY1xd4l93MCg/BF5AhfTvDU5Aavz2PH9eYSumOr194="
+    "hash": "sha256-40RCsms0OCUf559b5dZv5G5vonY98FpvM16FtuUkJ04="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -14167,12 +14167,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "div2007": {
-    "version": "2.2.3",
+    "version": "2.2.4",
     "t3_versions": [
       12
     ],
     "description": "This library offers classes and functions to other TYPO3 extensions. Replacement for tslib_pibase methods.",
-    "hash": "sha256-i62m8R3Ixj15j5q8uTb2Zm1uFcoW1p9SeS6mC/BSPyQ="
+    "hash": "sha256-YME9DeNbej3L1lmoDi8Z2bSAyikhDPdz0U3LldDql5E="
   },
   "diva": {
     "version": "8.7.1",
@@ -53341,13 +53341,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "solver": {
-    "version": "0.2.12",
+    "version": "0.2.13",
     "t3_versions": [
       11,
       12
     ],
     "description": "Extends TYPO3's exception handling with AI generated solutions. Problems can also be solved from command line. Several OpenAI parameters are configurable and prompts and solution providers can be customized as desired.",
-    "hash": "sha256-OFrfVOa47pA2ENkOXOmIaZsNWlA/4FH1KgU8r1YRjEU="
+    "hash": "sha256-KpIm64xYg4JzZAyIw8TjH3zsuzeWwlQNP6b3diRdYKo="
   },
   "sorp": {
     "version": "0.1.0",
@@ -60889,13 +60889,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "tt_products": {
-    "version": "2.15.12",
+    "version": "2.15.13",
     "t3_versions": [
       11,
       12
     ],
     "description": "Advanced versions at ttproducts.de. Documented in the E-Book \"Der TYPO3-Webshop\" - Shop with listing in multiple languages, with order tracking, product variants, support for transactor extension, bill, creditpoint and voucher system.",
-    "hash": "sha256-9YtoS712xgymS2NUBHz3I+cxuNE+LrPZzmjGhPT+HBI="
+    "hash": "sha256-RanvcAS65s+ZdkvD8U4XLJjv57sRrj2FIqC1xN4yGAM="
   },
   "tt_products_foundby": {
     "version": "0.1.4",
@@ -62682,12 +62682,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "video_vtt": {
-    "version": "2.2.7",
+    "version": "2.3.0",
     "t3_versions": [
       12
     ],
     "description": "Extend TYPO3 Video functionality",
-    "hash": "sha256-svTBtJ7ZVRuXGcVr3NP95gCTee+iuEozr5LqACpHqK4="
+    "hash": "sha256-1KWSJOOYgxn2hAzApEx1X2GClRJIDKka/NEKVWg/oJU="
   },
   "videoce": {
     "version": "0.10.0",
@@ -63241,12 +63241,12 @@
     "hash": "sha256-iiWYdagbP9r7uhKQF1GyUIsJ4mB4o9kg8JZ7Y2b6Qwo="
   },
   "warming": {
-    "version": "2.3.0",
+    "version": "2.3.1",
     "t3_versions": [
       12
     ],
     "description": "Warms up Frontend caches based on an XML sitemap. Cache warmup can be triggered via TYPO3 backend or using a console command. Supports multiple languages and custom crawler implementations.",
-    "hash": "sha256-4p1abuDIjRgd4hsaWRiRrK+uNs4/gc2tTBX1esDxmZc="
+    "hash": "sha256-pfWIxhzkb41/xuz1oc7YQyrosB3fPPtlsd4+zSakFxs="
   },
   "warmup": {
     "version": "1.3.1",
@@ -65501,14 +65501,14 @@
     "hash": "sha256-3tHtlGGJtyen5JKQyFJpZxzbyBA7+YY1DLRoUPIddZs="
   },
   "xima_typo3_mailcatcher": {
-    "version": "1.4.0",
+    "version": "1.4.1",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Backend module to display mails that were send to log file",
-    "hash": "sha256-O6XoQea5pUcVJOIyWYm/RKpB1EBsy9r701pVkfwNGDM="
+    "hash": "sha256-zLSzVErVcPAvlY0EMmO80/0lpt31mdH6zm5eX2kaOBE="
   },
   "xima_typo3_manual": {
     "version": "1.2.0",
