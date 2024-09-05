@@ -3589,12 +3589,12 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.321.3",
+    "version": "3.321.4",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-40RCsms0OCUf559b5dZv5G5vonY98FpvM16FtuUkJ04="
+    "hash": "sha256-Mq3d3xnhYgddoYs4If13hem6E5e1Q0XWD66VOG5pT8E="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -10664,6 +10664,14 @@
     "t3_versions": [],
     "description": "Displays current events at the frondend.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "cps_myra_cloud": {
+    "version": "1.0.2",
+    "t3_versions": [
+      12
+    ],
+    "description": "Clear-Cache for MyraCloud systems",
+    "hash": "sha256-/Vslg5wSvIdAp/d5k4EtpFsjsOeUldY1Ik0k//cJw0Y="
   },
   "cps_searchhighlight": {
     "version": "1.0.1",
@@ -21148,10 +21156,10 @@
     "hash": "sha256-RvWJOu0SZhoTXoYxeQSoceqW4kcWDWjfXRLKLu3/NCk="
   },
   "format_t3tools": {
-    "version": "3.0.1",
+    "version": "13.0.0",
     "t3_versions": [],
     "description": "This TYPO3 extension checks the size of all database tables and/or the size of all log files at regular intervals. If a certain size is exceeded, a mail can be sent. There is a separate scheduler task for each check.",
-    "hash": "sha256-4fGSunUGrPRnMid2lg7LP1d4Ipr5fhHxr/0gT1lnzbA="
+    "hash": "sha256-dlTJoq+yMGvC5IzCRlL96s8en2oFiYvCV77jjJP19ZI="
   },
   "formbuilder": {
     "version": "0.1.0",
@@ -33444,13 +33452,13 @@
     "hash": "sha256-rAvXtHZfCLd9H+9HLN/RtGO630IgNYZkli3hCQ2pRb0="
   },
   "md_news_clickcount": {
-    "version": "3.0.1",
+    "version": "3.0.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "With this extension you are able to count views of ext:news records. You can display a list with most viewed news and delete the statistics automatically with a scheduler task.",
-    "hash": "sha256-Z3t7GR8qGAfhJ3mrJTCsGmDCCA3tLaBoy5qbSUp9X0c="
+    "hash": "sha256-XlM2RsidEpEIpNa1e+qBVeeogN/6fqsG5n8q5DulV7s="
   },
   "md_newsfrontend": {
     "version": "4.0.0",
@@ -35695,13 +35703,13 @@
     "hash": "sha256-QBq7RgOtpBz21jSQfzIxEurNCmBZlHvZXZt3wzoyyMw="
   },
   "modules": {
-    "version": "6.2.8",
+    "version": "6.2.9",
     "t3_versions": [
       11,
       12
     ],
     "description": "Modules - Little helper for creating frontend and backend modules in TYPO3",
-    "hash": "sha256-LblrR6qKs//b5BdHXBMhGHzGmleNZnVd0u+MRV/Ig4w="
+    "hash": "sha256-hQ6uFZFxwZ5E6Uxk6E0+TrLIAa1If/cPOmlCbjwiEDE="
   },
   "modulis_animated_gif": {
     "version": "0.0.4",
