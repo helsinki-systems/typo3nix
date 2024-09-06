@@ -3589,12 +3589,12 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.321.4",
+    "version": "3.321.5",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-Mq3d3xnhYgddoYs4If13hem6E5e1Q0XWD66VOG5pT8E="
+    "hash": "sha256-47dLPxjFYn9zAdAQXG6bi3ecIA9EDsVhVYZGygK13lw="
   },
   "aws_system_information": {
     "version": "1.0.0",
