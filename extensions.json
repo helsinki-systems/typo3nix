@@ -10666,12 +10666,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cps_myra_cloud": {
-    "version": "1.0.2",
+    "version": "1.0.3",
     "t3_versions": [
       12
     ],
     "description": "Clear-Cache for MyraCloud systems",
-    "hash": "sha256-/Vslg5wSvIdAp/d5k4EtpFsjsOeUldY1Ik0k//cJw0Y="
+    "hash": "sha256-9xurxS2UiXedNSQIzMB4uyuGNZcSq6Rp2FaZt9edQ6A="
   },
   "cps_searchhighlight": {
     "version": "1.0.1",
@@ -39461,12 +39461,12 @@
     "hash": "sha256-/280QR/TsvRchum0/fsMvTSUoWFnaH5cIQpLpz5roi8="
   },
   "ns_comments": {
-    "version": "12.1.1",
+    "version": "12.1.2",
     "t3_versions": [
       12
     ],
     "description": "The TYPO3 Comment Extension simplifies the process for visitors to leave comments on your website's published pages. It utilizes nested comments to create a user-friendly experience. Admins receive email notifications, allowing them to easily manage comments either through email or the backend.",
-    "hash": "sha256-/nCErF9GfkajD2X4ldK0SSmB4jP3CCXHKgXjF+1+Qe4="
+    "hash": "sha256-WDOECOdwXySE28Q0DCohOdHqwj0nQ9QPxIjZP1vPRp4="
   },
   "ns_cookiebot": {
     "version": "3.0.2",
@@ -44405,12 +44405,12 @@
     "hash": "sha256-rr6X0cfpXOSgIQRHKcQPjKr+8ebn/byPV2FPAWY6PF0="
   },
   "powermail_limits": {
-    "version": "1.0.3",
+    "version": "2.0.1",
     "t3_versions": [
-      11
+      12
     ],
     "description": "Addition to EXT:powermail which allows limits for form submissions",
-    "hash": "sha256-KuNlwkhJN8l6W6b8+cyQKELY6FB1YAZuFnDxZw/j8GU="
+    "hash": "sha256-ZddQwcb87og/KkzDa8VSfBN0G8PNOSQQzjAxwVU7AM8="
   },
   "powermail_mul": {
     "version": "1.0.3",
@@ -50884,13 +50884,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "shop": {
-    "version": "4.5.0",
+    "version": "4.6.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Simple Shop for TYPO3 incl. PayPal, PayPal-Plus, Klarna, Stripe, Bookmarks, UPS-API, Invoice generation, backend module, compare feature, graduated prices and many more - note there is a Pro version as well!",
-    "hash": "sha256-FRi1g98J+VYS6N1KWTboQ2xF/kzRvhmUOWtxn5pIpZM="
+    "hash": "sha256-NdtlB07hB06xYu3Ha94SY6JEVoxJ/ilraTBvB3bGaxg="
   },
   "shop3ox": {
     "version": "0.0.3",
@@ -65509,14 +65509,14 @@
     "hash": "sha256-3tHtlGGJtyen5JKQyFJpZxzbyBA7+YY1DLRoUPIddZs="
   },
   "xima_typo3_mailcatcher": {
-    "version": "1.4.1",
+    "version": "1.5.0",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Backend module to display mails that were send to log file",
-    "hash": "sha256-zLSzVErVcPAvlY0EMmO80/0lpt31mdH6zm5eX2kaOBE="
+    "hash": "sha256-tM9JBUlrSZfKZWuCANbK+Qr5UjUUlQwbOmtwr7zRMVs="
   },
   "xima_typo3_manual": {
     "version": "1.2.0",
