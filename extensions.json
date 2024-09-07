@@ -3589,12 +3589,12 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.321.5",
+    "version": "3.321.6",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-47dLPxjFYn9zAdAQXG6bi3ecIA9EDsVhVYZGygK13lw="
+    "hash": "sha256-CoW2UDL7TDuuxXIUA82U8mQdwizibv598orGFLMD5DI="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -30628,12 +30628,12 @@
     "hash": "sha256-N+xp6GR6rkwlWn5B/CXrRNcf1y7IyHftV9Rt/dsvJo4="
   },
   "launchstartgreen": {
-    "version": "10.6.0",
+    "version": "10.6.1",
     "t3_versions": [
       10
     ],
     "description": "Launches a ready-to-use website for BUENDNIS 90/DIE GRUENEN! Website is responsive. It contains a calendar-modul and a news-modul, sample layouts and sample content. You can be rid of the green corporate design by removing one TypoScript template.",
-    "hash": "sha256-d/LBDlT1b2kcLgqKpLSjZMAyxdEHZxK4MJWUEc5RYa8="
+    "hash": "sha256-WdLMonRs1Kx03RIOLNtFwmklx0GOPyYBG5czyPYxJJY="
   },
   "layerslider": {
     "version": "5.6.2",
@@ -62676,12 +62676,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "video_shariff": {
-    "version": "3.0.0",
+    "version": "3.1.0",
     "t3_versions": [
-      11
+      11,
+      12
     ],
     "description": "This extension provides more privacy when embedding videos in frontend.",
-    "hash": "sha256-8ksUWzUbQLy0UVKLQzsGRaZpohaZvrxUo4iLvnuyrvc="
+    "hash": "sha256-X9sT5gKBc3gtZ8ollsPqynhWatO9cZrY7A7kOCWKcZ4="
   },
   "video_validator": {
     "version": "3.0.1",
