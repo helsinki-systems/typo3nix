@@ -57282,6 +57282,15 @@
     "description": "Example extension using tailor cli tool for publishing to TER",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "tailwind_styled_content": {
+    "version": "1.0.0",
+    "t3_versions": [
+      11,
+      12
+    ],
+    "description": "Fluid templates for TYPO3 content elements with Tailwind CSS.",
+    "hash": "sha256-SVpkiduguGcfaY/ic+dhF9OmiIpp6kphN+frQRiS4Ys="
+  },
   "tako_qype": {
     "version": "1.0.0",
     "t3_versions": [],
