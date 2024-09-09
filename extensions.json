@@ -3389,14 +3389,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "autotranslate": {
-    "version": "1.0.4",
+    "version": "1.1.0",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "This extension provides automatic translation of pages and content elements via DeepL API.",
-    "hash": "sha256-fzpsjQgfVx+Dssft851mhHoFizDbuuIH+BCHX/wGStc="
+    "hash": "sha256-BBJvWXtFpiM+5xKvIEf0iUzR01jmyXiafwtByqoCiw0="
   },
   "autoupload_dummy": {
     "version": "1.0.2",
@@ -6556,20 +6556,20 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cacheflow": {
-    "version": "1.0.4",
+    "version": "1.0.5",
     "t3_versions": [
       12
     ],
     "description": "Continuous background refreshing of cached pages.",
-    "hash": "sha256-bEnP1Qzi++L2wHoBUz5PaiRAZgRLVIgN/Mlth7hK2vo="
+    "hash": "sha256-lGvofQfU0Vad6g5vmjYZbKEwt9W922khQ/cOnFW55+k="
   },
   "cachemgm": {
-    "version": "12.0.4",
+    "version": "12.0.5",
     "t3_versions": [
       12
     ],
     "description": "Provides management of the page caching for high traffic websites.",
-    "hash": "sha256-9l9jkMVcaODrnIwyPao8VD1x7w1MUWd80UkSGgwv3gk="
+    "hash": "sha256-XtRJ6ljWC8HcNgowHpSmqwBozGrAtl7JiSpi/CP/bEo="
   },
   "cacheopt": {
     "version": "12.0.0",
@@ -24085,12 +24085,12 @@
     "hash": "sha256-bzaUU7wJze+SlY+JeVlEhO9u6om8i2kkCC0nQVaKc00="
   },
   "hh_simple_job_posts": {
-    "version": "4.1.4",
+    "version": "4.1.5",
     "t3_versions": [
       12
     ],
     "description": "Adds plugins for list / show job postings with meta-data and schema.org stuff. Uses tt_address for job-contacts and job-location.",
-    "hash": "sha256-l+OiDb+tmDOfS2vSkmOXM+DxqD13UBego2pIcp2/qkQ="
+    "hash": "sha256-PICcv4RlSufRzOMAAckShocSyJ1KFspL4A9TDSTZ0cE="
   },
   "hh_slider": {
     "version": "0.5.1",
@@ -27379,12 +27379,12 @@
     "hash": "sha256-iTF4mYfpa4Ls6iU9OiQL3mbSnwddK2lmKmVoKW4O4qY="
   },
   "jar_utilities": {
-    "version": "2.0.8",
+    "version": "2.0.9",
     "t3_versions": [
       12
     ],
     "description": "Utility classes that simplify TYPO3 development.",
-    "hash": "sha256-WUX8mXXqX14uAlQKWIM6nBzQborzytNka03wg7sWOAI="
+    "hash": "sha256-hFx81tiALhnkKHTy7Gqv8prPqVg0/w3/Qz3ic9C2Erw="
   },
   "jasmine": {
     "version": "0.1.0",
@@ -28197,13 +28197,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "job_finder": {
-    "version": "4.3.2",
+    "version": "4.3.3",
     "t3_versions": [
       11,
       12
     ],
     "description": "Job finder extension including job listing, details, application, microdata and more.",
-    "hash": "sha256-UGdxBB7B1z1ZRCImmwBh3AN4OfSQf+JSimJF7nZU19g="
+    "hash": "sha256-45GOoI4r6XENF6v0nkVGDJlnJesgnFSjZIJvIKHKC68="
   },
   "job_market": {
     "version": "2.1.1",
