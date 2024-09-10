@@ -3589,12 +3589,12 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.321.6",
+    "version": "3.321.7",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-CoW2UDL7TDuuxXIUA82U8mQdwizibv598orGFLMD5DI="
+    "hash": "sha256-cUurVbGs6B2P6ru0CEiSKJPvtuI9X+a8FjgHUVrnvCg="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -9894,10 +9894,10 @@
     "hash": "sha256-XMv2jq5x6yytPyER7yVjRV9/nZ+nL3HR8SiwiCkMkN4="
   },
   "content_blocks": {
-    "version": "0.8.1",
+    "version": "0.8.2",
     "t3_versions": [],
     "description": "TYPO3 CMS Content Blocks - Content Types API",
-    "hash": "sha256-Gendy/SuDx9zxNCMiruxdT8iYfAgz1wJ0FTITi/3/Fo="
+    "hash": "sha256-MrTaATIaPgr8XaIszgvT0dl1/82hnl8th3zYYv9Lb+Q="
   },
   "content_consent": {
     "version": "3.0.1",
@@ -35053,13 +35053,12 @@
     "hash": "sha256-6H05DwRy5TP7I2m3O6nKftHQjQVN7MRXdeMYYlAY3V8="
   },
   "mkcontentai": {
-    "version": "12.1.2",
+    "version": "13.0.0",
     "t3_versions": [
-      11,
       12
     ],
     "description": "MKContentAI Extension - OpenAI API",
-    "hash": "sha256-cFpDv8Rqp+HGTpNfEIm5TFZyocfz9WdMbR4ulxlH95g="
+    "hash": "sha256-PJHA6ByK09aJ82XoFb9XNVgSv5pHAY52kWbp/KV3/N0="
   },
   "mkdam2fal": {
     "version": "1.0.16",
@@ -50884,13 +50883,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "shop": {
-    "version": "4.6.1",
+    "version": "4.6.3",
     "t3_versions": [
       11,
       12
     ],
     "description": "Simple Shop for TYPO3 incl. PayPal, PayPal-Plus, Klarna, Stripe, Bookmarks, UPS-API, Invoice generation, backend module, compare feature, graduated prices and many more - note there is a Pro version as well!",
-    "hash": "sha256-NdtlB07hB06xYu3Ha94SY6JEVoxJ/ilraTBvB3bGaxg="
+    "hash": "sha256-SuPCGHJBlUbme6AWbhAXSWG0dYFjCDcCApC+7I3A56w="
   },
   "shop3ox": {
     "version": "0.0.3",
