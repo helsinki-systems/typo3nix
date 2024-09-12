@@ -3589,12 +3589,12 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.321.8",
+    "version": "3.321.9",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-BZvSe8rImzSqeh0JAJnhqU0irMzAO02BcxY676VmMtg="
+    "hash": "sha256-0/P0wzQFecSWZ1TQxfbWhCH2SNaYlC80pC/rmQHkCXU="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -17520,12 +17520,12 @@
     "hash": "sha256-fW7FJmsbuCfvKGtcrpJ6zM6iWzSVTnJkqvick5+P1mI="
   },
   "events2": {
-    "version": "9.0.7",
+    "version": "9.0.8",
     "t3_versions": [
       12
     ],
     "description": "Create single and recurring events",
-    "hash": "sha256-zRViIjXzNYILLVpAUuY87zBgYjXGZDQunuXPzs2fo+M="
+    "hash": "sha256-nVRxEuABnyv98U5tkk2UvdFwZ6iuKl/83FYgW/wRhvI="
   },
   "events2_reserve_connector": {
     "version": "1.0.0",
@@ -19121,12 +19121,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "felogin_bruteforce_protection": {
-    "version": "12.1.0",
+    "version": "12.1.1",
     "t3_versions": [
       12
     ],
     "description": "Protects TYPO3 frontend authentication (e.g. fe_login) against brute force attacks.",
-    "hash": "sha256-qH2w49rXVBWghCE+NgZzvMOEF+IssUAWCYK2glsx+5c="
+    "hash": "sha256-uA+fbqys3FpYvrNIn8c68AN+/fgblbUEPbjYwFoWg8k="
   },
   "felogin_redirect2current": {
     "version": "0.2.0",
@@ -24110,13 +24110,13 @@
     "hash": "sha256-/jR61A4Ct78lkWaI1fgVll8PuUruNlnBE2E98U97j/s="
   },
   "hh_tt_address_places": {
-    "version": "2.3.0",
+    "version": "3.0.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Simply adds places / companies TCA for EXT:tt_address.",
-    "hash": "sha256-nIJoZ6Zn3RAoQoMyXPNj6d4sjsvJbKEYoD81UNwW5BM="
+    "hash": "sha256-+wpzi3I4/hO4ZPEN5rZKNO278xUespSZGRd+s8rgF8E="
   },
   "hh_video_extender": {
     "version": "0.2.4",
@@ -50883,13 +50883,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "shop": {
-    "version": "4.6.3",
+    "version": "4.6.5",
     "t3_versions": [
       11,
       12
     ],
     "description": "Simple Shop for TYPO3 incl. PayPal, PayPal-Plus, Klarna, Stripe, Bookmarks, UPS-API, Invoice generation, backend module, compare feature, graduated prices and many more - note there is a Pro version as well!",
-    "hash": "sha256-SuPCGHJBlUbme6AWbhAXSWG0dYFjCDcCApC+7I3A56w="
+    "hash": "sha256-0nNXJ1S/metIIOFrfU79L0XdAi/C765tlbfWcZqVeOQ="
   },
   "shop3ox": {
     "version": "0.0.3",
@@ -58642,6 +58642,14 @@
     ],
     "description": "Are you tired of manually creating content elements pages on your TYPO3 website? Introducing our innovative TYPO3 extension that simplifies the process by automatically generating a dedicated page containing all unique content elements present across your site.",
     "hash": "sha256-AGB8LkJwxqUoJfneDlYzPeFW0WP4Qok2pKssXjWYFrM="
+  },
+  "threeam_free_content_mode": {
+    "version": "1.0.1",
+    "t3_versions": [
+      12
+    ],
+    "description": "Adds a custom context menu option to make a page content mode FREE.",
+    "hash": "sha256-AZ/qqzf86Jh3A7v37HXkXyRP+OWQ5N6hcNg+xZ7ZTYY="
   },
   "threeme": {
     "version": "4.3.3",
