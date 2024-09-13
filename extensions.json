@@ -1576,12 +1576,12 @@
     "hash": "sha256-ee1Rl3Ok1e1HP2daIVmwXQEzGrTz2ymo8zv8dhHnoHI="
   },
   "ai_suite": {
-    "version": "12.5.0",
+    "version": "12.5.1",
     "t3_versions": [
       12
     ],
     "description": "Adds a backend module as well as various helper functionalities and features to your TYPO3 backend, which are intended to make the daily work of editors easier and faster with the help of AI.",
-    "hash": "sha256-ul5TZ6qRwOUO8LESG9MGCLkE6nuTEtxTpoTpLiaZzFs="
+    "hash": "sha256-hjpdLinXnHdXzgU2xHTd6MeSQTouWCn8s9F+xcqdyyw="
   },
   "ai_tools": {
     "version": "0.0.1",
