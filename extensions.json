@@ -3589,12 +3589,12 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.321.9",
+    "version": "3.321.10",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-0/P0wzQFecSWZ1TQxfbWhCH2SNaYlC80pC/rmQHkCXU="
+    "hash": "sha256-KWonZu3EBnKD8gd7WSBB0vvbWWhyaJcmHcBKLaibBt8="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -13282,10 +13282,10 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "debug_mysql_db": {
-    "version": "1.9.0",
+    "version": "1.9.1",
     "t3_versions": [],
     "description": "Extends \\TYPO3\\CMS\\Core\\Database\\DatabaseConnection and \\TYPO3\\CMS\\Core\\Database\\Connection to show Errors and Debug-Messages. Debugging of sql-queries by debug and FileWriter.",
-    "hash": "sha256-oCjo/nj+N7tCW4dg9QlT3Vu+PESxEUjFZi490Ov/ayo="
+    "hash": "sha256-SsO8rwbDBla+lzlrYA6Q64evkYGjqNo6OklLJuZtpIE="
   },
   "debug_settings_task": {
     "version": "2.2.1",
@@ -52177,12 +52177,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "skins": {
-    "version": "11.1.4",
+    "version": "11.1.6",
     "t3_versions": [
       12
     ],
     "description": "This extension adds a dark skin (dark theme) to the TYPO3 backend. The colors are customizable and can be changed to your favorite colors.",
-    "hash": "sha256-jA8Td//resJi6bXYK1PJVgq15k1/2eF+8shxpqUbalU="
+    "hash": "sha256-Pdznymtit/W/U2gvXqc30heoALhFMb/aUPg2JyoZ2pI="
   },
   "skip_page_is_being_generated": {
     "version": "1.1.7",
