@@ -48237,12 +48237,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "rte_ckeditor_textpartlanguage": {
-    "version": "12.1.0",
+    "version": "99.99.99",
     "t3_versions": [
       12
     ],
     "description": "This extension implements the text part language feature for CKEditor 5",
-    "hash": "sha256-ny+yao9iqlxBkrFvUV/YwvtFFXgVMJrnIfR59KSvrX0="
+    "hash": "sha256-/V+dAIttlZNN86I/zxm92JmAKUHLumtilwo1rMxuc0Q="
   },
   "rte_class_wildcard": {
     "version": "1.0.0",
