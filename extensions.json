@@ -17520,12 +17520,12 @@
     "hash": "sha256-fW7FJmsbuCfvKGtcrpJ6zM6iWzSVTnJkqvick5+P1mI="
   },
   "events2": {
-    "version": "9.0.8",
+    "version": "9.0.9",
     "t3_versions": [
       12
     ],
     "description": "Create single and recurring events",
-    "hash": "sha256-nVRxEuABnyv98U5tkk2UvdFwZ6iuKl/83FYgW/wRhvI="
+    "hash": "sha256-bMqaF64Xi1Q1Y2+b/vopHWMfixmMu1OFBxM/agzIvuA="
   },
   "events2_reserve_connector": {
     "version": "1.0.0",
@@ -31990,13 +31990,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "lux": {
-    "version": "36.3.1",
+    "version": "36.4.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Living User Experience - LUX - the Marketing Automation tool for TYPO3.",
-    "hash": "sha256-2MDP0W9yqU/0C/l9wmTIGkCRvZOMrsQwYH2im1ZC2WA="
+    "hash": "sha256-68s9YLH+FgpY2bBeYC/lCW+fqB2ayOKs9ESXFWANfps="
   },
   "luxletter": {
     "version": "26.2.0",
@@ -39695,12 +39695,12 @@
     "hash": "sha256-kPxKaPOFunsxkd20gpiPaMTtTkdDsAyhYtNQVZgoXGY="
   },
   "ns_license": {
-    "version": "13.0.1",
+    "version": "13.0.2",
     "t3_versions": [
       12
     ],
     "description": "Manage License(s) of your purchased from T3Planet such as TYPO3 Templates and TYPO3 Extensions. Documentation & Free Support https://docs.t3planet.com/en/latest/License/LicenseActivation/Index.html",
-    "hash": "sha256-jxl12kdg8tyUIGZM8IEdXTuZqbJy9SbzS9/JflmNI2E="
+    "hash": "sha256-7fs03/2H//HxXHf7yUJUM9Cb7HElwVMKhJVKAf2BLyA="
   },
   "ns_news_advancedsearch": {
     "version": "12.1.0",
@@ -40720,13 +40720,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "oelib": {
-    "version": "6.0.0",
+    "version": "6.0.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Useful stuff for TYPO3 extension development: helper functions for unit testing, templating and automatic configuration checks.",
-    "hash": "sha256-YG/uKgOqNvayG60Nio7KpugcDDB3wt/9MydZ7JyqPPc="
+    "hash": "sha256-dwQSPVyaE0M6U5803vy9eCGEVIL+FzhCqRyWkG0fKP8="
   },
   "oembed": {
     "version": "0.1.1",
@@ -62444,12 +62444,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "vcfqr": {
-    "version": "0.1.1",
+    "version": "0.1.2",
     "t3_versions": [
       12
     ],
     "description": "Create QR-Code with VCF card",
-    "hash": "sha256-9JcNr7Ja1AuiFsZVj9O5hqH2uJGiCeFJMUdQzSldYl0="
+    "hash": "sha256-8hxm+dmL2/XzkxO9FhsievD61cN0Uol1D22FYQ6USx0="
   },
   "vclibrary": {
     "version": "1.0.3",
@@ -63265,13 +63265,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "walls_io_proxy": {
-    "version": "6.0.0",
+    "version": "7.0.0",
     "t3_versions": [
-      10,
-      11
+      11,
+      12
     ],
     "description": "Cache and Proxy for walls.io, so no Cookie will be set on Client",
-    "hash": "sha256-iiWYdagbP9r7uhKQF1GyUIsJ4mB4o9kg8JZ7Y2b6Qwo="
+    "hash": "sha256-iM1zb6VUJMaSf/kBAMS/gJmRPCYAXh34cd/HNI7X37s="
   },
   "warming": {
     "version": "2.3.1",
@@ -64808,14 +64808,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "wsm_form_spamshield": {
-    "version": "1.3.3",
+    "version": "1.4.0",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Adds a bot detection via JavaScript and a Validator to EXT:form, GDPR compliant without a captcha.",
-    "hash": "sha256-l6/LVzKJ7x9G4r1/1LwgdNf46qOG9OSfyYrzM/XmT9U="
+    "hash": "sha256-hpiQ9vBDQ+iBsHWEuAJGSrP4TMpMJr9xSGga7HEnaC8="
   },
   "wspowermail": {
     "version": "1.1.1",
