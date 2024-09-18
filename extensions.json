@@ -3589,12 +3589,12 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.321.12",
+    "version": "3.321.13",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-1HlMf+Psj4+wtQDxJsMq1Y3yHiFV/sgd6fFgt/vMz8U="
+    "hash": "sha256-kVmU07DnT+Ma+rvrbgqCh33GAcDIP6hzTAprg63YuTQ="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -3605,12 +3605,12 @@
     "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
   },
   "aws_tools": {
-    "version": "12.0.0",
+    "version": "12.0.1",
     "t3_versions": [
       12
     ],
     "description": "This extension connects your TYPO3 instance to Amazon CloudFront. It rewrites all file paths in the frontend to match your CDN domain. You also have the possibility to invalidate Amazon CloudFront entries.",
-    "hash": "sha256-kXVmDJj+V2Gjmgi8DvgTY/YNaRw3VHZxq8xLEI43tto="
+    "hash": "sha256-WVRRLt0src6HrpwZRZTmcX13u4axAKzIvkRiqfGkpe8="
   },
   "ax_https": {
     "version": "0.2.0",
@@ -3710,12 +3710,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "backendtools": {
-    "version": "5.2.0",
+    "version": "5.3.2",
     "t3_versions": [
       12
     ],
     "description": "9 admin tools: extension-list, recent pages & elements, backend layouts, redirects import & check, file-deletion, missing files, images with no alt or title and link-list.",
-    "hash": "sha256-j//kMUKEOtHNPr08R70itWzfOqNUrTgyVoVPU08gQVw="
+    "hash": "sha256-Y6+zFEXW0gdImh5CO2Qs5B0Q62HRBpRtsoP0uyX34qQ="
   },
   "backendwiki": {
     "version": "0.1.1",
@@ -5007,12 +5007,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "bm_image_gallery": {
-    "version": "6.2.1",
+    "version": "6.2.2",
     "t3_versions": [
       12
     ],
     "description": "Simple gallery using file collections.",
-    "hash": "sha256-/jfUhc6lbjTE4ALMwo9qFgDioW3vt61GSaD8Maq5ySk="
+    "hash": "sha256-GlZPe+t9hj7IxaCFJRM+iNFr6Lgu3NJnsO5850QtKg4="
   },
   "bm_lofuc": {
     "version": "0.1.1",
@@ -14465,13 +14465,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "dlf": {
-    "version": "4.0.1",
+    "version": "5.0.4",
     "t3_versions": [
-      9,
-      10
+      10,
+      11
     ],
     "description": "Base plugins, modules, services and API of the Digital Library Framework. It is part of the community-based Kitodo Digitization Suite.",
-    "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
+    "hash": "sha256-u/vUBDAoYc28KlIzBjQJG3bUZWy59k4syZQAaVtMmLo="
   },
   "dlib": {
     "version": "0.0.6",
@@ -23938,12 +23938,12 @@
     "hash": "sha256-QOK9kzQXZfKm0OHyUe9hryLS4RRoPeAihgC35IB+2gU="
   },
   "hd_translator": {
-    "version": "1.1.0",
+    "version": "1.1.1",
     "t3_versions": [
       12
     ],
     "description": "Translation of static strings from locallang.xlf files and export/import of database related content",
-    "hash": "sha256-TCxgfME5ZizrKSku7C8h14vJZwpZvdoEYzcRNsSlaJ8="
+    "hash": "sha256-YBWR830e6acgkLjaWF6GtBcxOfpyOpzvBbL7LeYsM1w="
   },
   "header_flashexample": {
     "version": "0.1.2",
@@ -39433,12 +39433,12 @@
     "hash": "sha256-GCMOaAbhVj1Ii9m2Z8UMP/+VyuTEGY1M7M80Xm9djQE="
   },
   "ns_basetheme": {
-    "version": "12.2.2",
+    "version": "12.2.3",
     "t3_versions": [
       12
     ],
     "description": "The architecture of parent/child TYPO3 theme concept. Explore https://t3planet.com and https://nitsantech.com",
-    "hash": "sha256-cdqJhI8vFZy9JMXssp17oLLn5olBhYLXvz7QQRr6dQE="
+    "hash": "sha256-ogRsjhO4JBdRuLJhM4ezp4vZ0orop7tr6Om0AhAP3X4="
   },
   "ns_cache_webhook": {
     "version": "1.0.1",
@@ -43230,12 +43230,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "photoswipe": {
-    "version": "2.0.7",
+    "version": "2.0.8",
     "t3_versions": [
       12
     ],
     "description": "Enables Photoswipe for TYPO3's native image enlargement. Small js-lib and easy to install. It just works with plain javascript, no jQuery or other frameworks are needed.",
-    "hash": "sha256-KHB+TbYDvLpJxl6lVpHGmdfZG5hhigxGsLW7e1XkukY="
+    "hash": "sha256-VIWPZiH3v0zPfhd9PGx/HEDBkHwuFmDJhk/LAdDmOZo="
   },
   "php_acceleration": {
     "version": "0.1.1",
@@ -45525,12 +45525,12 @@
     "hash": "sha256-gwX8nFkcjL9Up6wMVRmZoiWgTvtc4PH+T9QTRvCoFr0="
   },
   "qc_info_rights": {
-    "version": "2.0.1",
+    "version": "2.0.4",
     "t3_versions": [
       12
     ],
     "description": "Gives editors a view of BE users and group rights like the Access module but in read-only. Also provides BE users and BE User Groups list with CSV export.",
-    "hash": "sha256-Rb///XR0T4HzCEbb6DrpXWchV5jIhOl4ixNf+b1O+Lc="
+    "hash": "sha256-EgKvTBP/jz3HMvH0X95snx8wGHO2cKu8rrAElmyQljM="
   },
   "qc_redirects": {
     "version": "1.1.2",
@@ -49818,12 +49818,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "secure_downloads": {
-    "version": "6.0.3",
+    "version": "6.0.4",
     "t3_versions": [
       12
     ],
     "description": "\"Secure Download\": Apply TYPO3 access rights to ALL file assets (PDFs, TGZs or JPGs etc. - configurable) - protect them from direct access.",
-    "hash": "sha256-vZUu2/E12XBixt9FRR3MzcEr1M/bcXKvW+tKpYCPNDU="
+    "hash": "sha256-qPZDUgm/VVtgPWxUZrBja/b439gki0S77+rdufBBu3E="
   },
   "secure_filemount": {
     "version": "1.1.2",
@@ -50090,13 +50090,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "server_timing": {
-    "version": "1.11.2",
+    "version": "1.11.3",
     "t3_versions": [
       11,
       12
     ],
     "description": "Show timings of Database and HTTP Calls (send them to Sentry)",
-    "hash": "sha256-4mGIyNt8PkpwU9P+1lJMDbC55JPHdmVsGYB5h855UWg="
+    "hash": "sha256-ry2dCx1PlZWZzAagA0g23Bt68JBBONzWNGB8AbvAB8Q="
   },
   "service_bw2": {
     "version": "7.0.0",
@@ -65532,14 +65532,13 @@
     "hash": "sha256-3tHtlGGJtyen5JKQyFJpZxzbyBA7+YY1DLRoUPIddZs="
   },
   "xima_typo3_mailcatcher": {
-    "version": "1.5.0",
+    "version": "1.6.0",
     "t3_versions": [
-      10,
       11,
       12
     ],
     "description": "Backend module to display mails that were send to log file",
-    "hash": "sha256-tM9JBUlrSZfKZWuCANbK+Qr5UjUUlQwbOmtwr7zRMVs="
+    "hash": "sha256-u+b2mji+2oOaaZ5SruLHYFoQsrlMnPI1VdBAMnk08RI="
   },
   "xima_typo3_manual": {
     "version": "1.2.0",
