@@ -610,14 +610,14 @@
     "hash": "sha256-T0y6c/asLUIuO8IBscaJ+F50IHAiSeuZFbpt3Mlk24A="
   },
   "accelerator": {
-    "version": "12.4.11",
+    "version": "12.4.15",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Speed up your TYPO3 installation: add Critical CSS (Above The Fold) inline, minify the HTML of your website, use subdomains as CDN to reduce page load, manage proxy-caching (e.g with Varnish) via page-properties, reduce database size when storing JSON-arrays with persisted objects to the database",
-    "hash": "sha256-gFAkD7Ny+QU7gGTstwcSW1Z7QdoH+qz5BqlbhXplhLQ="
+    "hash": "sha256-qyMutHrZuvKVrzKpceP6Deocp8inPBHm9MgHlGVf0go="
   },
   "access_control_sync": {
     "version": "0.2.7",
@@ -1141,12 +1141,12 @@
     "hash": "sha256-9R04ap1pdwL1ZnCzBW47nWCfarN00qS15S71veAE/mQ="
   },
   "addresses": {
-    "version": "1.0.3",
+    "version": "1.1.0",
     "t3_versions": [
       12
     ],
     "description": "Address lists or selected records. Demo at: microtemplate.t3brightside.com",
-    "hash": "sha256-2u/t0BaElAe1l8JeyK3Rb6Ugbx+ioNjzNnwgJcDyYhY="
+    "hash": "sha256-SVH2AcSl/ViG6Yq9KbL5bVoXhERPbS3Wt9e4veWDGhk="
   },
   "addressespersonnel": {
     "version": "1.0.0",
@@ -1608,12 +1608,12 @@
     "hash": "sha256-mLO7/zsLctavB/gvr5k6AC7eiEf9qNvZ/9WPt9NvfxY="
   },
   "aimeos": {
-    "version": "24.7.1",
+    "version": "24.7.2",
     "t3_versions": [
       12
     ],
     "description": "Professional, full-featured and ultra-fast TYPO3 e-commerce extension for online shops, complex B2B applications and #gigacommerce. Turns TYPO3 into the best platform for content commerce and your e-commerce requirements (also available as TYPO3 distribution)",
-    "hash": "sha256-bj+Rq333OqfaISyQRj8Uq7kX9fLc911BjdxJ9H3v6NE="
+    "hash": "sha256-FW5TdZj0t4biIfNCLYtB406ev5fBk4qmOO66jtl7FPA="
   },
   "aimeos_dist": {
     "version": "24.4.1",
@@ -3389,14 +3389,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "autotranslate": {
-    "version": "1.1.0",
+    "version": "1.1.1",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "This extension provides automatic translation of pages and content elements via DeepL API.",
-    "hash": "sha256-BBJvWXtFpiM+5xKvIEf0iUzR01jmyXiafwtByqoCiw0="
+    "hash": "sha256-YKApVzRIGPZAnAvEX6e1+e58ORmo80gFZrMGwcfuh4g="
   },
   "autoupload_dummy": {
     "version": "1.0.2",
@@ -3589,12 +3589,12 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.321.13",
+    "version": "3.322.0",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-kVmU07DnT+Ma+rvrbgqCh33GAcDIP6hzTAprg63YuTQ="
+    "hash": "sha256-8WO3GbTNedoFUPYp6EuWikIwpq1w/XscBjJrlG5MsBY="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -35188,13 +35188,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mksanitizedparameters": {
-    "version": "12.0.1",
+    "version": "12.0.3",
     "t3_versions": [
       11,
       12
     ],
     "description": "Sanitize $_REQUEST, $_POST and $_GET before the processing of TYPO3 in backend or frontend starts. Take a look into the documentation how to add your own rules or see which one exist.",
-    "hash": "sha256-bexSOSFAzhmqK0lhKe56dm0xoFNldqiB8hZL8iP6Z9Q="
+    "hash": "sha256-phRL0foWA1dZnNn7md29fWHqxnBhyYIrWqGysoS95EY="
   },
   "mksearch": {
     "version": "12.0.2",
@@ -45193,6 +45193,14 @@
     "description": "Publish your content for inclusion in extern TYPO3-installation",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "pubscheduler": {
+    "version": "1.0.0",
+    "t3_versions": [
+      12
+    ],
+    "description": "This plugin allows rescheduling the visibility of content elements and pages in Typo3.",
+    "hash": "sha256-Fp+KqyvSCAPAMal5xutfb7ZyGgRkTO/o8+S+vddKa40="
+  },
   "punycode": {
     "version": "1.0.0",
     "t3_versions": [
@@ -49534,13 +49542,13 @@
     "hash": "sha256-pbi7qVxv5+I6JbCj/dc4959Oobjl3FpEwDBWYZKUyvM="
   },
   "schema": {
-    "version": "3.6.1",
+    "version": "3.7.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "API and view helpers for schema.org markup",
-    "hash": "sha256-DRClmectyx5bUtriQ8g8Wd+SkDaDB6Q7Wf1O01FyGeQ="
+    "hash": "sha256-eG2I0R8RIw70S2FWinqpNWeLnlfoFmuPWzd6FwiCplQ="
   },
   "schema_auto": {
     "version": "2.1.0",
@@ -49561,13 +49569,13 @@
     "hash": "sha256-yRQxzdIcSg26FDr+zM5dlZ7U/5TdhsfpJlBUo88JbqM="
   },
   "schema_health": {
-    "version": "2.3.0",
+    "version": "2.4.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Extend the schema extension with health-related terms",
-    "hash": "sha256-Z3+NYL2G/Jcd8FKH7/J2fb3Y5IjLqoAHeDg6iFUKk18="
+    "hash": "sha256-6lREJiDZ1ztAPxDjQLshYWIiNZk4WCRi9Vn6O5Rvu7o="
   },
   "schema_injector": {
     "version": "1.0.1",
@@ -49588,13 +49596,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "schema_pending": {
-    "version": "2.5.0",
+    "version": "2.6.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Extend the schema extension with pending terms",
-    "hash": "sha256-5fMcP3tT7Mue+2LysBAYaoZTZ6lcwTLlJldSKUQGZaA="
+    "hash": "sha256-xUXJy9QxVFTmVdEGonehnPgKLQ8pD5N1PQHMPXg19Qg="
   },
   "schema_virtuallocation": {
     "version": "2.1.0",
