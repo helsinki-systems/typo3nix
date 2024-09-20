@@ -8917,13 +8917,13 @@
     "hash": "sha256-gF55Oa9X81SK/JprdpNGnEo5lViuqyHVqm+Y4bCk3gc="
   },
   "cloudflare": {
-    "version": "2.5.1",
+    "version": "2.6.0",
     "t3_versions": [
-      10,
-      11
+      11,
+      12
     ],
     "description": "The Cloudflare TYPO3 extension ensures your TYPO3 website is running optimally on the Cloudflare platform.",
-    "hash": "sha256-r+2n8a5RIz7iMrmpnb/KnEokos/5G/xy0UUQMbB0lcw="
+    "hash": "sha256-mPW3K5KT8tfV5IlvJJAyJwO5lCcmvf9gZF3o12JUnHI="
   },
   "clubcms": {
     "version": "0.2.2",
@@ -14465,13 +14465,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "dlf": {
-    "version": "5.0.4",
+    "version": "5.0.5",
     "t3_versions": [
       10,
       11
     ],
     "description": "Base plugins, modules, services and API of the Digital Library Framework. It is part of the community-based Kitodo Digitization Suite.",
-    "hash": "sha256-u/vUBDAoYc28KlIzBjQJG3bUZWy59k4syZQAaVtMmLo="
+    "hash": "sha256-R4A+qo6WGB1jw2sDGPJ67mzGO+7tmGg6zOZO6nZD8GM="
   },
   "dlib": {
     "version": "0.0.6",
@@ -23929,13 +23929,13 @@
     "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
   },
   "hd_structureddata": {
-    "version": "0.6.0",
+    "version": "0.8.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Extension for adding structured JSON-LD into page headers",
-    "hash": "sha256-QOK9kzQXZfKm0OHyUe9hryLS4RRoPeAihgC35IB+2gU="
+    "hash": "sha256-VXcU1tKdZNCM4fYpvvGdCo8SLCyuazaim2tkoLyZVyo="
   },
   "hd_translator": {
     "version": "1.1.1",
@@ -41010,13 +41010,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "onetimeaccount": {
-    "version": "6.4.0",
+    "version": "7.1.0",
     "t3_versions": [
-      10,
-      11
+      11,
+      12
     ],
-    "description": "Allow users to create a one-time FE account to which they will be automatically logged in (without having to enter a user name or password).",
-    "hash": "sha256-zTvv77sko/3B/iKkXRfnfM8iTGF8dExLwYdBJ7D9BYM="
+    "description": "Allow users to create a short-lived FE user account without having to enter a user name or password.",
+    "hash": "sha256-rGpssNfC03/ehd0xcctk3HSWv/L8QCbzhQvPmQfi/b0="
   },
   "onetimesecret": {
     "version": "1.2.1",
@@ -44345,12 +44345,12 @@
     "hash": "sha256-pmF02elaEIPa0hT7bj7fWRcPMiuXx70XLwBheXPHgcU="
   },
   "powermail_cond": {
-    "version": "11.2.2",
+    "version": "11.2.3",
     "t3_versions": [
       12
     ],
     "description": "Add conditions (via AJAX) to powermail forms for fields and pages",
-    "hash": "sha256-bqsh+zXty2FQAlfzjT+U8N2IlvY6oyqKqlG5+odOXAs="
+    "hash": "sha256-/OMABFNzsBbCdzl4sRkMoTu5bIPi+R6x1/L9aN0I4Dk="
   },
   "powermail_cond_jquery": {
     "version": "1.0.1",
@@ -50098,13 +50098,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "server_timing": {
-    "version": "1.11.3",
+    "version": "1.11.4",
     "t3_versions": [
       11,
       12
     ],
     "description": "Show timings of Database and HTTP Calls (send them to Sentry)",
-    "hash": "sha256-ry2dCx1PlZWZzAagA0g23Bt68JBBONzWNGB8AbvAB8Q="
+    "hash": "sha256-v5KsMdUC0s5ruktj2nLIcA9Tqp8PryiBCp/jYFATYxY="
   },
   "service_bw2": {
     "version": "7.0.0",
@@ -57289,13 +57289,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "tailwind_styled_content": {
-    "version": "1.0.0",
+    "version": "1.1.1",
     "t3_versions": [
       11,
       12
     ],
-    "description": "Fluid templates for TYPO3 content elements with Tailwind CSS.",
-    "hash": "sha256-SVpkiduguGcfaY/ic+dhF9OmiIpp6kphN+frQRiS4Ys="
+    "description": "Alternative for fluid_styled_content using Tailwind CSS, providing a clean, robust and modern starting point.",
+    "hash": "sha256-2o1gJ3c6USpLl/n39sMYNOP7Mi0zMMx3eQRz/z6csCc="
   },
   "tako_qype": {
     "version": "1.0.0",
@@ -58642,20 +58642,20 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "threeam_content_elements_page": {
-    "version": "1.1.3",
+    "version": "1.1.4",
     "t3_versions": [
       11
     ],
     "description": "Are you tired of manually creating content elements pages on your TYPO3 website? Introducing our innovative TYPO3 extension that simplifies the process by automatically generating a dedicated page containing all unique content elements present across your site.",
-    "hash": "sha256-AGB8LkJwxqUoJfneDlYzPeFW0WP4Qok2pKssXjWYFrM="
+    "hash": "sha256-6AgJGwUwPYI+d8xFE8B8C0BpPwY3vp4o4mapq2p+L0w="
   },
   "threeam_free_content_mode": {
-    "version": "1.0.1",
+    "version": "1.0.4",
     "t3_versions": [
       12
     ],
     "description": "Adds a custom context menu option to make a page content mode FREE.",
-    "hash": "sha256-AZ/qqzf86Jh3A7v37HXkXyRP+OWQ5N6hcNg+xZ7ZTYY="
+    "hash": "sha256-edEdTGDOr0YT2LJdUyOY6Z0gvDHo5RNc+hLAhBQVwvE="
   },
   "threeme": {
     "version": "4.3.3",
