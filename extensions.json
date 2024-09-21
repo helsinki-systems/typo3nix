@@ -3589,12 +3589,12 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.322.1",
+    "version": "3.322.2",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-gwle9qDuPLrkNXi/Sn4urctMkOzAl4ryTAW9hP58BiU="
+    "hash": "sha256-yUAtONIqpTEFyJmlOGi9/+7CVCR7RWFSNW6zsDvUsdE="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -8917,13 +8917,13 @@
     "hash": "sha256-gF55Oa9X81SK/JprdpNGnEo5lViuqyHVqm+Y4bCk3gc="
   },
   "cloudflare": {
-    "version": "2.6.0",
+    "version": "2.6.1",
     "t3_versions": [
       11,
       12
     ],
-    "description": "The Cloudflare TYPO3 extension ensures your TYPO3 website is running optimally on the Cloudflare platform.",
-    "hash": "sha256-mPW3K5KT8tfV5IlvJJAyJwO5lCcmvf9gZF3o12JUnHI="
+    "description": "The Cloudflare extension for TYPO3 is a powerful solution to integrate your website with Cloudflare, whose mission is to help build a better Internet. This extension provides a variety of features to ensure your website is running optimally on the Cloudflare platform, a global leader in web performance and security.",
+    "hash": "sha256-9TAgB5GUs3Pnu6XVBeOKyuGhf2TFGf9YigMo8vAsboo="
   },
   "clubcms": {
     "version": "0.2.2",
@@ -9202,12 +9202,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "codehighlight": {
-    "version": "4.1.0",
+    "version": "4.1.1",
     "t3_versions": [
       12
     ],
     "description": "Code highlighter for various programming, markup and configuration languages based on PrismJS",
-    "hash": "sha256-3heR19cTN6QVNrMRzxrg7jWbtRx7dS4ads/B2Yz4ppA="
+    "hash": "sha256-Xa7NJjhDOGfZ8YSkqocWgwxfoMx9JBCULrBIE7OHNjQ="
   },
   "codersquad_libs": {
     "version": "1.0.1",
@@ -52222,12 +52222,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "skjsonlylightbox": {
-    "version": "0.4.1",
+    "version": "0.4.2",
     "t3_versions": [
       12
     ],
     "description": "Provides the pure Javascript GLightbox for text with image and tx_news. Based on jn_lighterbox",
-    "hash": "sha256-2Jbfcgfhzgl+lbxwuLS/vOECC1DZ7CE6bP7rtZzYfU8="
+    "hash": "sha256-sz4hkQMKmhVKuzYtSyb7MT4gTW0Ayhn6bo1IdVryIk0="
   },
   "skm_locallang_js": {
     "version": "1.0.0",
@@ -52279,12 +52279,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "skvideo": {
-    "version": "2.1.1",
+    "version": "3.0.0",
     "t3_versions": [
       12
     ],
     "description": "TYPO3 content element to cache thumbnails of Youtube & Vimeo videos and play them after user confirmation. Options to remember user decision via cookie. Responsive display. Works with and without fluid_styled_content. No other dependencies.",
-    "hash": "sha256-zyGDqwylCaW6mXTjmmVH0YRKoD1aNEi2myE026xogIo="
+    "hash": "sha256-z/Z8I1pvtNBVV20HWg/35sUz1HadwFVLYtvc6XHsp+s="
   },
   "skwportfolio": {
     "version": "0.5.1",
