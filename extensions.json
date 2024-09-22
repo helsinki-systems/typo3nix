@@ -17585,10 +17585,10 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ew_llxml2xliff": {
-    "version": "6.0.0",
+    "version": "6.0.1",
     "t3_versions": [],
     "description": "Provides a backend module to convert locallang.xml and locallang.php files",
-    "hash": "sha256-26Bao/d2qoJMeFqLFmotm3txV62DY9780lrpc/RR8lI="
+    "hash": "sha256-oOVaF6IYDPrM6qloJ4b2LQapBTqIxS/X95C1j+0kwB8="
   },
   "ew_socialfeedwall": {
     "version": "3.0.0",
@@ -58798,12 +58798,10 @@
     "hash": "sha256-S8u1m0TDtFiTMavCrCo9DhLlpeJOhkG5uQc1R45OeXk="
   },
   "timer": {
-    "version": "12.3.2",
-    "t3_versions": [
-      12
-    ],
+    "version": "13.0.1",
+    "t3_versions": [],
     "description": "The extension allow the usage of periodical timer for files, content-elements, pages and own content-elements. It can be extended by own timing-definitions i.e. fullmoontimer. The extension provide a viewhelper and a sheduler for the controllking of timemanagement. It contain a simple modell for event-presentation.",
-    "hash": "sha256-Gvnc9jIM6dTTX1CdQiWRZfpt1H2g0eLDEt4iMHyva3c="
+    "hash": "sha256-2OBgMsEC54tmaw9mf7erVgJMpg5dt7n4n01iUUXdZCA="
   },
   "timezones": {
     "version": "3.1.0",
