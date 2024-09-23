@@ -1565,6 +1565,14 @@
     "description": "Closes the gap between the standard functions of the Office Line and things, that might be handled different by the owner or presents functions that might not be enclosed with the Office Line at all.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "ai_filemetadata": {
+    "version": "1.0.2",
+    "t3_versions": [
+      12
+    ],
+    "description": "Automatically generates FAL metadata for files by means of public LLMs",
+    "hash": "sha256-oCsFaEnHC0fQ0ySHU0A4bYAyNBpjGRVvFgmpdhbmkbE="
+  },
   "ai_seo_helper": {
     "version": "0.6.2",
     "t3_versions": [
@@ -22285,22 +22293,22 @@
     "hash": "sha256-mTJNr9ruSpKiuan6222iSouGt8kqODW2vxxKmacYDiM="
   },
   "gdpr_extensions_com_youtube": {
-    "version": "1.0.3",
+    "version": "1.0.5",
     "t3_versions": [
       11,
       12
     ],
     "description": "The GDPR Youtube 2 Click Solution, brought to you by GDPR-Extensions.com, is a feature-rich solution designed to empower website owners in effectively managing Youtube videos and bolstering user privacy.",
-    "hash": "sha256-LZJ0fClSh9/1DJX7cqQVfV+iIJJ/EfDOPSKsCUYaJaU="
+    "hash": "sha256-aH9TTPKXvwR8MR+ltkqBnqTZ7Fx3LIjLZ59NyIoe3WQ="
   },
   "gdpr_extensions_com_ytshorts": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "The GDPR Youtube Shorts 2 Click Solution, brought to you by GDPR-Extensions.com, is a feature-rich solution designed to empower website owners in effectively managing Youtube short videos and bolstering user privacy.",
-    "hash": "sha256-MGaal7WSw+Jiq9BT88pWLP2q/woqch7v9N+7UpxyLBo="
+    "hash": "sha256-OqpIbVG/bZsKvjnTri5Bm+h4YoOSWJL2yGLmBEO/D0U="
   },
   "gdpr_youtube": {
     "version": "1.0.0",
@@ -24523,13 +24531,15 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "html2pdf": {
-    "version": "2.1.1",
+    "version": "12.4.2",
     "t3_versions": [
       9,
-      10
+      10,
+      11,
+      12
     ],
     "description": "A wrapper to let TYPO3 generate PDF files from html pages. Uses wkhtmltopdf, a binary that is using the print functionality of the webkit render engine to create PDFs.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-WWsZYOSEXw1ocpCpjpVE/MDAD9FdU2AYH5wG852Kk9U="
   },
   "html2textlibrary": {
     "version": "5.0.0",
@@ -33081,12 +33091,12 @@
     "hash": "sha256-3mfOryBvxeFvY933oZWBVj/bmIpFQGdypv046cKB9QA="
   },
   "matomo_widgets": {
-    "version": "3.1.0",
+    "version": "3.1.1",
     "t3_versions": [
       12
     ],
     "description": "Dashboard widgets with Matomo reports",
-    "hash": "sha256-5Nmp89+nBctH+3ysBBWEiNPpA77+oG1mlg2t6K65smY="
+    "hash": "sha256-8C1DEXzzaj5tSZkbLU71V7iCTSrjnnRtK4V2G3TTfr4="
   },
   "matomoapi": {
     "version": "1.0.1",
@@ -39592,14 +39602,14 @@
     "hash": "sha256-d56t0LV5x4uR80dXXh3q7LwLGRjbYG2k3bro0WJ82Og="
   },
   "ns_google_sitekit": {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "t3_versions": [
       10,
       11,
       12
     ],
-    "description": "Know what's going on with your TYPO3 site? How users visit and interact with your pages? Get Every Insights with single click button of Popular Google Tools including Google Analytics, Search Console, Google Ads & AdSense, and Tag Manager to your TYPO3 site without coding. Improve your website's performance and SEO.",
-    "hash": "sha256-eccEiIvPCVbag5YzVf9GWeHTDhHuYc3Y4y2sZrcFDkY="
+    "description": "Know what's going on with your TYPO3 site? How users visit and interact with your pages? Get Every Insights with single click button of Popular Google Tools including Google Analytics, Search Console, Google Ads & AdSense, and Tag Manager to your TYPO3 site without coding. Improve your website's performance and SEO. *** Live Demo: https://t3planet.com/sitekit-by-google-for-typo3 *** Documentation & Free Support: https://docs.t3planet.com/en/latest/ExtNsGoogleSiteKit/Index.html",
+    "hash": "sha256-RroHcuQZPB50JHkHKAuAQOF1+V5oYTllB+SVwW6sVEw="
   },
   "ns_googledocs": {
     "version": "2.0.1",
@@ -54293,12 +54303,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "startgreen": {
-    "version": "10.3.1",
+    "version": "10.3.2",
     "t3_versions": [
       10
     ],
     "description": "TYPO3 für BÜNDNIS 90/DIE GRÜNEN. TYPO3 GRUENE ist ein Template und liefert eine Website im Design von BÜNDNIS 90/DIE GRÜNEN. Es ist responsive, optimiert für Smartphone, Tablet und Desktop. Mit Launch TYPO3 GRUENE! kannst Du eine schlüsselfertige GRÜNE Website in Betrieb nehmen. Bürgerinitiativen, Verbände und Vereine können mit wenigen Handgriffen das Grüne Design entfernen. Website: https://typo3-gruene.de/",
-    "hash": "sha256-Tz1HaTSTHpq2h9PeUMDgKOf+UaudhDyfucgqh2/b4mU="
+    "hash": "sha256-BlQiNXarzsF41Lqeg3kgn9yL5uiy57KIRZTyd3jbwlY="
   },
   "starthansekontor": {
     "version": "0.0.4",
