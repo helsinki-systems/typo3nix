@@ -1114,14 +1114,14 @@
     "hash": "sha256-t65ToUijZ7Vb7Fd2qbXxWumYqbm9UtklhJ3hiOoutGU="
   },
   "addons_tt_products": {
-    "version": "0.11.1",
+    "version": "0.11.2",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Many translations of standard texts for shops. Additional example templates and icons for the tt_products shop system version 2.14 and later.",
-    "hash": "sha256-GPmlLA/TzRyGz+ZXS7ES9EuiiUjBSrXcszcZhqdf+RQ="
+    "hash": "sha256-Qx7pEfxHzU21N5I2lCBk34qUvM/L0Ij1XDE7AIhUKNI="
   },
   "address": {
     "version": "12.0.1",
@@ -3597,12 +3597,12 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.322.2",
+    "version": "3.322.3",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-yUAtONIqpTEFyJmlOGi9/+7CVCR7RWFSNW6zsDvUsdE="
+    "hash": "sha256-zRYdG4DxzEMsUnFUPnxI+XEoKbQDwywrmU67pD8JM4w="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -13031,12 +13031,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "dce": {
-    "version": "3.2.1",
+    "version": "3.2.2",
     "t3_versions": [
       12
     ],
     "description": "Best flexform based content elements since 2012. With TCA mapping feature, simple backend view and much more features which makes it super easy to create own content element types.",
-    "hash": "sha256-mCwvjwc3/aWMP1f7EB0tFFLiz9k1gKXk/NASDrxrVM0="
+    "hash": "sha256-8fzEKe7t6YyjtMrZ+SFTtX2tpyuQ01Arpu/2dQNbUFk="
   },
   "dcformcreator": {
     "version": "0.0.3",
@@ -22267,13 +22267,13 @@
     "hash": "sha256-aFAReYNAkr8ocojyMapH+9YdoBt5upv7+GDXniWstr4="
   },
   "gdpr_extensions_com_tiktok": {
-    "version": "1.0.3",
+    "version": "1.0.5",
     "t3_versions": [
       11,
       12
     ],
     "description": "Add TikTok videos to your website and stay GDPR compliant! Your website viewers will be able to manage their cookie preferences and view the content only if consented. Stay GDPR compliant when your website is scanned by any Cookie or GDPR Scanner!",
-    "hash": "sha256-yWR2KDLiW3FsRtQG8IFI13ZmZqmYOIIBK47KgGzzGuU="
+    "hash": "sha256-xCLOFin4pSGBF5gpMkEIUEVu4+w4T+x5kwVzDgCDY+8="
   },
   "gdpr_extensions_com_vimeo": {
     "version": "1.0.8",
@@ -24092,12 +24092,12 @@
     "hash": "sha256-bzaUU7wJze+SlY+JeVlEhO9u6om8i2kkCC0nQVaKc00="
   },
   "hh_simple_job_posts": {
-    "version": "4.1.5",
+    "version": "4.1.6",
     "t3_versions": [
       12
     ],
     "description": "Adds plugins for list / show job postings with meta-data and schema.org stuff. Uses tt_address for job-contacts and job-location.",
-    "hash": "sha256-PICcv4RlSufRzOMAAckShocSyJ1KFspL4A9TDSTZ0cE="
+    "hash": "sha256-6qaH1F5WAKnOekO5ymOniV34mYpXOU1YD7HRoLc9vZ8="
   },
   "hh_slider": {
     "version": "0.5.1",
@@ -40729,13 +40729,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "oelib": {
-    "version": "6.0.1",
+    "version": "6.0.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "Useful stuff for TYPO3 extension development: helper functions for unit testing, templating and automatic configuration checks.",
-    "hash": "sha256-dwQSPVyaE0M6U5803vy9eCGEVIL+FzhCqRyWkG0fKP8="
+    "hash": "sha256-jobFqLSTbQQaQxU26jixDtrKZkojAo1y++UuRBYY5No="
   },
   "oembed": {
     "version": "0.1.1",
@@ -57581,14 +57581,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "tcpdfbill_tt_products": {
-    "version": "0.4.0",
+    "version": "0.4.1",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "tt_products Extension with automatic PDF bill generation using the TCPDF library. Works with tt_products 2.14.3-3.5.99",
-    "hash": "sha256-77lZ2XR2uragT0cCpnvmXoHpu4ykZtOCIUNX5H6bwks="
+    "hash": "sha256-/YMTLnMTsEVVaVJWzdsFVtLL4zlvPoCogXhhxUTtgjo="
   },
   "td_calendar": {
     "version": "0.4.0",
@@ -58612,13 +58612,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "theodia": {
-    "version": "2.2.0",
+    "version": "2.2.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Fetch data from theodia.org to display the Mass schedule for the various places of worship in a parish or pastoral unit.",
-    "hash": "sha256-lWTxnZpbhHOXREl529zpXUj4+coGfrMk4iaUac0l/78="
+    "hash": "sha256-mIbJ+yS1kY72bsGRs4u3A7tXP1rBFQOzKsTnErJnefE="
   },
   "thomasnu": {
     "version": "6.0.0",
@@ -60927,13 +60927,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "tt_products": {
-    "version": "2.15.13",
+    "version": "2.15.14",
     "t3_versions": [
       11,
       12
     ],
     "description": "Advanced versions at ttproducts.de. Documented in the E-Book \"Der TYPO3-Webshop\" - Shop with listing in multiple languages, with order tracking, product variants, support for transactor extension, bill, creditpoint and voucher system.",
-    "hash": "sha256-RanvcAS65s+ZdkvD8U4XLJjv57sRrj2FIqC1xN4yGAM="
+    "hash": "sha256-GgSpLSzy9pMIfRT3bbXqpqabOgFaYFfEpujKmOqKE3Q="
   },
   "tt_products_foundby": {
     "version": "0.1.4",
@@ -64596,12 +64596,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "wr_deepl_translate": {
-    "version": "1.0.4",
+    "version": "1.0.6",
     "t3_versions": [
       12
     ],
     "description": "Automatic translations of entire TYPO3 websites with DeepL. Quick and easy. Without extra languages in the backend and without headaches.",
-    "hash": "sha256-hEEiU7ovzkG+yeJwVX3rxGftlXousEbLm1MCP99Hxw0="
+    "hash": "sha256-lYtSEvf/0JB83A/5XmGFaoCyeWpAfQDcTB6tF4jlkcM="
   },
   "wrg_anotherbelogin": {
     "version": "0.0.4",
