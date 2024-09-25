@@ -2307,20 +2307,20 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ameos_filemanager": {
-    "version": "3.0.0",
+    "version": "3.0.4",
     "t3_versions": [
       12
     ],
     "description": "This will allow you to fully handle file upload in FE context",
-    "hash": "sha256-/AuTvTKgKGgYSdioeRD/jEY0tsNpZrqwoe3nIJUFU9c="
+    "hash": "sha256-FsHKazEO7HoEiUEpZ6XHI75NWh8oGtGduseSB/NpnU0="
   },
   "ameos_form": {
-    "version": "2.1.0",
+    "version": "2.1.1",
     "t3_versions": [
       12
     ],
     "description": "Form API for extbase and fluid",
-    "hash": "sha256-+9As8uW1OefsfzMdMjN8TPBlme1sHmO9PDfvvqHauWY="
+    "hash": "sha256-g17q0dIJfZNkqWHiyTDigae8zJVcPc//JAoZNY6iMrw="
   },
   "ameos_formidable": {
     "version": "2.1.2",
@@ -3597,12 +3597,12 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.322.3",
+    "version": "3.322.4",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-zRYdG4DxzEMsUnFUPnxI+XEoKbQDwywrmU67pD8JM4w="
+    "hash": "sha256-jy7g5UE3aKpbj9RDFR42pzIIERDJIRoRiJ5GNaeB3c8="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -8056,12 +8056,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cf_cookiemanager": {
-    "version": "1.7.0",
+    "version": "1.7.1",
     "t3_versions": [
       12
     ],
     "description": "Manage cookies, scripts, and GDPR compliance on your Typo3 website with CodingFreaks Typo3 Cookie Manager. Customize cookie banners, streamline workflow, and enhance user experience. Ensure GDPR compliance and take control of cookie management with our Typo3 cookie management extension. Visit the official Typo3 Documentation page to learn more.",
-    "hash": "sha256-gKHiN6FKHtIcl3N791zXnyqhXGAgxhY3TlGEHY1jTwE="
+    "hash": "sha256-aZFntsGPPxtB+QRa5M17Qqnlq+1vSvoWQ6C/pYNdbUA="
   },
   "cf_google_authenticator": {
     "version": "1.2.4",
@@ -24084,12 +24084,12 @@
     "hash": "sha256-TXHkjx84yo6BgjfQXcP16PHNMXSY0HeFpBYawj/94tg="
   },
   "hh_seo": {
-    "version": "0.8.3",
+    "version": "0.8.4",
     "t3_versions": [
       12
     ],
     "description": "Hauer-Heinrich - SEO - Meta-Tag - ViewHelpers",
-    "hash": "sha256-bzaUU7wJze+SlY+JeVlEhO9u6om8i2kkCC0nQVaKc00="
+    "hash": "sha256-NoKBdZ2iq93oQZFrJezP1NTEDe5lSDQXaBUxoMscegA="
   },
   "hh_simple_job_posts": {
     "version": "4.1.6",
@@ -24441,13 +24441,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "hreflang_pages": {
-    "version": "1.1.0",
+    "version": "2.1.1",
     "t3_versions": [
-      10,
-      11
+      12
     ],
     "description": "Extends TYPO3 EXT:seo hreflang functionality",
-    "hash": "sha256-QBI4nYqdgVVx67qi54fw45gI7NtJoxnz4ID6j1FfSpc="
+    "hash": "sha256-yUYxLymxGnTZxI0eOoAAT6Tfw8ocMARJ9HfP3WfSv68="
   },
   "hriseo": {
     "version": "2.0.0",
@@ -25824,13 +25823,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "image_jack": {
-    "version": "0.10.0",
+    "version": "0.11.0",
     "t3_versions": [
-      11,
       12
     ],
     "description": "Jack of all trades concerning image optimization. Also introduces the usage of next-gen-image-formats",
-    "hash": "sha256-4ECoowORecE1fdULXVUib4noJ6Khrh9ELEATpxnB4L8="
+    "hash": "sha256-RZqg41NPBGsHig5IjCbwXssxhIYQlGzyaP8nHViS0zA="
   },
   "image_slider": {
     "version": "1.0.2",
@@ -26236,13 +26234,13 @@
     "hash": "sha256-1BtHqdHxMgqWSvwa9lEB9dgde/Cg811PY1DMDC7F9sQ="
   },
   "in2publish_core": {
-    "version": "12.5.3",
+    "version": "12.5.4",
     "t3_versions": [
       11,
       12
     ],
     "description": "Content publishing extension to connect stage and production server",
-    "hash": "sha256-X5FbnyZl4D9GYxrUdUAaDkOqn+nUTCWX1CkILy6ricw="
+    "hash": "sha256-gzrredxkOI46l6Qp0PNxsgbPCxQkTg5LKLL/E3+ioB8="
   },
   "in2rss": {
     "version": "0.2.2",
@@ -39704,12 +39702,12 @@
     "hash": "sha256-kPxKaPOFunsxkd20gpiPaMTtTkdDsAyhYtNQVZgoXGY="
   },
   "ns_license": {
-    "version": "13.0.2",
+    "version": "13.0.3",
     "t3_versions": [
       12
     ],
     "description": "Manage License(s) of your purchased from T3Planet such as TYPO3 Templates and TYPO3 Extensions. Documentation & Free Support https://docs.t3planet.com/en/latest/License/LicenseActivation/Index.html",
-    "hash": "sha256-7fs03/2H//HxXHf7yUJUM9Cb7HElwVMKhJVKAf2BLyA="
+    "hash": "sha256-Bfp92T/pVDa67O9IGZ3N++Ah26U6i3IfhvfvM2JSw1g="
   },
   "ns_news_advancedsearch": {
     "version": "12.1.0",
@@ -43066,12 +43064,12 @@
     "hash": "sha256-vPPumisLvajviQwp8j+8fRtAsjZ3IKw+i0uvq1cpgZ0="
   },
   "personnel": {
-    "version": "4.2.0",
+    "version": "4.2.1",
     "t3_versions": [
       12
     ],
     "description": "Persons contact lists with vCard support. Demo: microtemplate.t3brightside.com",
-    "hash": "sha256-RmEA481XTU3pwamTgcz571YOvt3N32foqYxqm0TZ4Is="
+    "hash": "sha256-sZq/y5QTNrI+LoCHbr857MIqgxYREy7GonKRY61LM3c="
   },
   "persons": {
     "version": "1.0.0",
@@ -44494,12 +44492,12 @@
     "hash": "sha256-ZTOmHsezUflaIC4+SLgNsUfzVBJLmQ9Nzh3i9upL0PY="
   },
   "powermailcaptcha": {
-    "version": "2.0.0",
+    "version": "2.1.0",
     "t3_versions": [
       12
     ],
     "description": "Captcha Extension for Powermail",
-    "hash": "sha256-NCtIDaRyPyaEkaV4sOl/jjROXVsLJ/GDSTZaZBKNw8I="
+    "hash": "sha256-xEdt7WdYHCRmZ/2LvSqVXi9U40P6HbyDNA9cx2vHFWE="
   },
   "powermailcustomcss": {
     "version": "1.1.0",
@@ -57299,13 +57297,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "tailwind_styled_content": {
-    "version": "1.1.1",
+    "version": "1.2.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Alternative for fluid_styled_content using Tailwind CSS, providing a clean, robust and modern starting point.",
-    "hash": "sha256-2o1gJ3c6USpLl/n39sMYNOP7Mi0zMMx3eQRz/z6csCc="
+    "hash": "sha256-OifTX8TwDi21PtPsBFFJkVzay8iv5OkpXJGLkOIPiRM="
   },
   "tako_qype": {
     "version": "1.0.0",
