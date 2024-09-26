@@ -3597,12 +3597,12 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.322.4",
+    "version": "3.322.5",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-jy7g5UE3aKpbj9RDFR42pzIIERDJIRoRiJ5GNaeB3c8="
+    "hash": "sha256-8NPj1P8/N6rDerY83k0pIs6hMIc0cQSb3HOIjraG3RI="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -13394,13 +13394,10 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "deletefiles": {
-    "version": "1.3.0",
-    "t3_versions": [
-      11,
-      12
-    ],
+    "version": "1.4.0",
+    "t3_versions": [],
     "description": "Scheduler task for deleting old files and folder. Supports FAL. Useful for GDPR / DSGVO compliance.",
-    "hash": "sha256-ruBhf+q12ijIDUuBEyGXL67+oNNgCIQ547yn8kXy0n8="
+    "hash": "sha256-qWFSLMKctikGhLidP4yQKkp1Vl16snNMEwcLfSsztG4="
   },
   "demander": {
     "version": "0.2.0",
@@ -18917,13 +18914,12 @@
     "hash": "sha256-KKZZ8t1sbQKdtG8BOz0GVOyk6zxxC1LBlcfnEfHE+1Q="
   },
   "fe_performance": {
-    "version": "2.2.0",
+    "version": "2.3.0",
     "t3_versions": [
-      11,
       12
     ],
     "description": "This TYPO3 CMS extension improves your frontend performance. Adds JavaScript and HTML minification. Comes with some useful tweaks to improve asset rendering. See readme for more info.",
-    "hash": "sha256-/ik388dzC1sl7f4w70MXRXFCQul1p4KsCTwhtGDxb/o="
+    "hash": "sha256-6bWypodQLVqiZXOKtlLhxoKN5PxqZNY1YV9iozk1M0Q="
   },
   "fe_plzliste": {
     "version": "0.0.1",
@@ -20653,6 +20649,12 @@
     "t3_versions": [],
     "description": "Let you create javascript based foldoutmenus using ordered and unordered lists (OL/UL). Menus are created with standard TMENU objects.\r",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "font_downloader": {
+    "version": "13.0.1",
+    "t3_versions": [],
+    "description": "",
+    "hash": "sha256-YDNTb3w/4yISjHBYzPowASdF1WsF3suW6TBFr11L5tM="
   },
   "font_loader": {
     "version": "1.0.0",
@@ -24084,12 +24086,12 @@
     "hash": "sha256-TXHkjx84yo6BgjfQXcP16PHNMXSY0HeFpBYawj/94tg="
   },
   "hh_seo": {
-    "version": "0.8.4",
+    "version": "0.8.5",
     "t3_versions": [
       12
     ],
     "description": "Hauer-Heinrich - SEO - Meta-Tag - ViewHelpers",
-    "hash": "sha256-NoKBdZ2iq93oQZFrJezP1NTEDe5lSDQXaBUxoMscegA="
+    "hash": "sha256-M3+VjNXev9NAAhvzwcUv21N5RoJqOVqMjQbaMxBhoJg="
   },
   "hh_simple_job_posts": {
     "version": "4.1.6",
@@ -26967,13 +26969,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "it_kanzlei": {
-    "version": "2.0.2",
+    "version": "2.1.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "",
-    "hash": "sha256-aSt8htPWhSqD5UYc2jjdrvC7EXdDtH1GBOZP42fyTrY="
+    "hash": "sha256-WoPJ5RuXsxil9ZyJjlVUbVoQKh7svK/lTrUjrBR2W5M="
   },
   "it_ttnews_extender": {
     "version": "0.1.1",
@@ -32383,13 +32385,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mail": {
-    "version": "2.6.4",
+    "version": "3.0.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Powerful newsletter system for TYPO3",
-    "hash": "sha256-nMEloiMHbMI1lxQlcdAS5fd3mluQnoQElZbqbgNPWdo="
+    "hash": "sha256-K/YHOKzD5RBjtqzyJwhBaEJpEHzm2Qt9Lxy0g5tvzgI="
   },
   "mail2news": {
     "version": "2.0.3",
@@ -32458,12 +32460,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mailfiles": {
-    "version": "7.1.0",
+    "version": "8.0.0",
     "t3_versions": [
       12
     ],
     "description": "Upload files and send download links via email. Uses plupload. Please see readme file.",
-    "hash": "sha256-ITmtwMp14RbJVm3q+4oE+gI+rkqmG0qh9vmdGPpTwRc="
+    "hash": "sha256-M83tL1h2+2NpnI/XzSVoTsKFWbIyAibPwKy/7GNbHOA="
   },
   "mailform": {
     "version": "0.9.35",
@@ -43933,12 +43935,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "pluploadfe": {
-    "version": "7.0.0",
+    "version": "8.0.0",
     "t3_versions": [
       12
     ],
     "description": "Provides an API and a FE plugin for using plupload, a highly usable and advanced upload handler.",
-    "hash": "sha256-fVKJ+SU5Rr3x+VCQuej9KqXvc0hs3S3DkO6OibfKN5s="
+    "hash": "sha256-gA4FmqxBMfGf/b+XZKIZ4JY5Gs6DvvgYufFCY0S3Lg8="
   },
   "pluploadfe_powermail": {
     "version": "1.0.1",
@@ -49539,15 +49541,13 @@
     "hash": "sha256-M8ZhQ2/BPgAAaJKBojL+gR74egyIbUjfDYKGG6ncoaw="
   },
   "schedulermonitor": {
-    "version": "1.3.4",
+    "version": "1.4.0",
     "t3_versions": [
-      9,
-      10,
       11,
       12
     ],
-    "description": "Monitors scheduler tasks and send an email if a task has failed or is running too long.",
-    "hash": "sha256-pbi7qVxv5+I6JbCj/dc4959Oobjl3FpEwDBWYZKUyvM="
+    "description": "Monitors scheduler tasks and sends an email if a task has failed or is running too long.",
+    "hash": "sha256-bCMkdMOCy2wNJ3Gz6SWr7i1qZ9ZfxkhhegmjmYFHEdo="
   },
   "schema": {
     "version": "3.7.0",
@@ -56128,12 +56128,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "t3extblog": {
-    "version": "8.0.1",
+    "version": "8.0.2",
     "t3_versions": [
       12
     ],
     "description": "A record based blog extension for TYPO3 CMS. Easy to use and packed with features (incl.",
-    "hash": "sha256-qR4OE2pBZHLJpLE3BUXrCg083qMmo+EMfmNY5677h7M="
+    "hash": "sha256-G2F4e+qfa+dfUqMOWciSwYvlTJO4itiZwGsiKTnOE+o="
   },
   "t3extension_tools": {
     "version": "1.0.1",
@@ -64741,12 +64741,10 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ws_scss": {
-    "version": "12.0.5",
-    "t3_versions": [
-      12
-    ],
+    "version": "13.0.0",
+    "t3_versions": [],
     "description": "Compiles scss files to CSS files.",
-    "hash": "sha256-Fr9MLOIa16uMRn317FzhHhszSXy7OoDze67JYs3JZXQ="
+    "hash": "sha256-3VDTkOG4LdbGoHEmGz5DpLSqkgsmlFM2/B8OJOvMa0k="
   },
   "ws_sitemap": {
     "version": "0.4.8",
