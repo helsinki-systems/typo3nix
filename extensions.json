@@ -9870,6 +9870,15 @@
     "description": "Manipulate content elements which are children inside a EXT:container container",
     "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
   },
+  "container_wrap": {
+    "version": "1.1.1",
+    "t3_versions": [
+      11,
+      12
+    ],
+    "description": "Wrapper functions to make configuring b13/container easier",
+    "hash": "sha256-UM9X6AvEAJlfToFCcn3hkSnIPvHMuBkfwVG/yJRIIgg="
+  },
   "containeritems": {
     "version": "4.5.3",
     "t3_versions": [
@@ -12034,12 +12043,12 @@
     "hash": "sha256-ffRLD9qZtjZ2Gtkxn9aytGinPlHmQ/Hkn48YA98ClaU="
   },
   "cy_newsletter": {
-    "version": "2.0.0",
+    "version": "2.0.2",
     "t3_versions": [
       12
     ],
     "description": "This plugin contains a small service to send a newsletter for frontend user (based on the news extension).",
-    "hash": "sha256-bicll6YrhRPXpz7VGPOx/rDG7L0Ul0LfK7XoMnMbg7s="
+    "hash": "sha256-S/FHtajQvci1S04KlOUbqCqJKeKQHvc1p4pLp5mr1x4="
   },
   "cy_send_mails": {
     "version": "2.0.2",
@@ -15384,6 +15393,14 @@
     "t3_versions": [],
     "description": "",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "doctrine_migrations": {
+    "version": "1.0.1",
+    "t3_versions": [
+      12
+    ],
+    "description": "TYPO3 extension for versioned migration files, integrating doctrine/migrations",
+    "hash": "sha256-WoVOqdqVfIUJyA6VSDNBmHsj1ZPUpKw5lwTqNhtq2m8="
   },
   "doctrine_orm": {
     "version": "1.0.3",
@@ -50956,13 +50973,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "shortcodes": {
-    "version": "2.0.0",
+    "version": "2.0.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Wordpress-style shortcodes for TYPO3",
-    "hash": "sha256-eNF/XR6by0RWnHQkg545pUVeZH/4ax1uDKu+9fksFfo="
+    "hash": "sha256-3Lrq7/ZlcECUDgUnHUTeC+OV0C9wJzwsP8K8p5UeufM="
   },
   "shortcut_redirect": {
     "version": "0.0.2",
@@ -60925,13 +60942,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "tt_products": {
-    "version": "2.15.14",
+    "version": "2.15.15",
     "t3_versions": [
       11,
       12
     ],
     "description": "Advanced versions at ttproducts.de. Documented in the E-Book \"Der TYPO3-Webshop\" - Shop with listing in multiple languages, with order tracking, product variants, support for transactor extension, bill, creditpoint and voucher system.",
-    "hash": "sha256-GgSpLSzy9pMIfRT3bbXqpqabOgFaYFfEpujKmOqKE3Q="
+    "hash": "sha256-ACny2i9q/FHvfOU/FELYXszAYbVdTGlZI3svRJSNWhk="
   },
   "tt_products_foundby": {
     "version": "0.1.4",
