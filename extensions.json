@@ -3597,12 +3597,12 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.322.5",
+    "version": "3.322.6",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-8NPj1P8/N6rDerY83k0pIs6hMIc0cQSb3HOIjraG3RI="
+    "hash": "sha256-ap+S31ngibALHQa1n3tiqlvIBc0AYTGOyGk0C6pY+f8="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -62048,12 +62048,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "update_refindex": {
-    "version": "11.1.1",
+    "version": "12.0.0",
     "t3_versions": [
-      11
+      12
     ],
     "description": "extension contains scheduler-task to update refindex of TYPO3",
-    "hash": "sha256-ycD/yggJYhimjMfBuO4mLrFB2fu4UY1psL8UTd9rZEc="
+    "hash": "sha256-qd1LBpKiCT19TAh2JNuEbCWor8tvYlpA50kHvLkWOsw="
   },
   "updatetrustedhostfromsites": {
     "version": "1.1.0",
