@@ -3597,12 +3597,12 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.322.6",
+    "version": "3.322.7",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-ap+S31ngibALHQa1n3tiqlvIBc0AYTGOyGk0C6pY+f8="
+    "hash": "sha256-uvhKqIdF/tTktF794nagQAE31JaMIB7IooNaIY5ZE8k="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -25054,14 +25054,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "iconpack": {
-    "version": "1.1.7",
+    "version": "1.1.8",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Provides an iconpack-registry for various iconpacks.",
-    "hash": "sha256-HgBzviPEzy1/w2vw9jnfXCThfUlZHb5uhgXQEE6ulJg="
+    "hash": "sha256-/G3arw0BcBDxhOLdJVfVDmawnw2TNP7uYFfOc3E5rgk="
   },
   "iconpack_bootstrap": {
     "version": "1.3.1",
@@ -55878,12 +55878,12 @@
     "hash": "sha256-1sVO90DqRum2QMl7PXb4mz7TW6K54nlEiX4NGfwtupA="
   },
   "t3api": {
-    "version": "3.0.2",
+    "version": "3.0.3",
     "t3_versions": [
       12
     ],
     "description": "REST API for your TYPO3 project. Config with annotations, build in filtering, pagination, typolinks, image processing, serialization contexts, responses in Hydra/JSON-LD format.",
-    "hash": "sha256-gNKayJCXVujVUTN44iygcrryf/apSjdXPnrm6f2oM2Y="
+    "hash": "sha256-kqzM43viGRgqNZjxurKNPU6W7t7zRGGQYQWoKg1x52I="
   },
   "t3blog": {
     "version": "1.2.0",
@@ -57422,12 +57422,12 @@
     "hash": "sha256-+k+8G79XSClxIkW+xg7iRkU7tzifT4V1zlLIwS7SUlk="
   },
   "taxajax": {
-    "version": "1.1.0",
+    "version": "1.3.0",
     "t3_versions": [
       12
     ],
     "description": "Enhancement to the xajax extension with TYPO3 specific code.",
-    "hash": "sha256-w0l14wCXcVp3SOfL2HLn9cNc629rCAHq9qK8M0uP71I="
+    "hash": "sha256-yKqJuJe6iKIbMa2vjvduO+Ozc9bEoSo3dH2GqR//XBA="
   },
   "taywa_ccemailfield": {
     "version": "0.0.2",
