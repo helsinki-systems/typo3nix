@@ -21142,12 +21142,12 @@
     "hash": "sha256-CN1nAK2dmfTk6hcy2nAercA6NbfnnBuOX1j95cmyle4="
   },
   "form_to_database": {
-    "version": "3.0.0",
+    "version": "4.1.0",
     "t3_versions": [
-      11
+      12
     ],
     "description": "Extends the TYPO3 form with a very simple database finisher, to save the form-results in the database.",
-    "hash": "sha256-qolBOeN08WZ7aRCkXhF0uyyYRpaRO+AHTFLsKjrEwIQ="
+    "hash": "sha256-TZaFl8KYHpfI87tDOpgoRxbF0NkxqiTmaFsypNp/qcQ="
   },
   "form_tools": {
     "version": "2.0.1",
@@ -32402,13 +32402,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mail": {
-    "version": "3.0.0",
+    "version": "3.0.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Powerful newsletter system for TYPO3",
-    "hash": "sha256-K/YHOKzD5RBjtqzyJwhBaEJpEHzm2Qt9Lxy0g5tvzgI="
+    "hash": "sha256-GsoKrmhpyNyo7GGL4iNkbiUxOEsuYBcQtYcg8YraVlc="
   },
   "mail2news": {
     "version": "2.0.3",
