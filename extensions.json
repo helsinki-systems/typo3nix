@@ -3597,12 +3597,12 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.322.7",
+    "version": "3.322.8",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-uvhKqIdF/tTktF794nagQAE31JaMIB7IooNaIY5ZE8k="
+    "hash": "sha256-xdH33hWN5B32wzZ2f4pBUYwGJHCPY5K9s9gS5c6gads="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -16317,12 +16317,12 @@
     "hash": "sha256-jnMJvJpPy2O6bB0EB2tCymIgfWSFDuNQig8A/OtWVGs="
   },
   "easy_verein": {
-    "version": "1.0.3",
+    "version": "1.0.4",
     "t3_versions": [
       11
     ],
     "description": "Extension to connect TYPO3 with easyVerein association management software",
-    "hash": "sha256-gcRpj+bqdgERbpKle43vE8fnNvyI7bfj6RPjUmKiP9U="
+    "hash": "sha256-SNrRSjAXT/eA4GdzCUmlzhY8t+5NI0MK0Mq9JK0AGek="
   },
   "easycal": {
     "version": "0.1.0",
@@ -22169,13 +22169,13 @@
     "hash": "sha256-lydwyPy3VV4hU2/nQdSpq0JFmBgLF87rAK5NOA4F3KI="
   },
   "gdpr_extensions_com_cm": {
-    "version": "1.0.2",
+    "version": "1.0.4",
     "t3_versions": [
       11,
       12
     ],
     "description": "Ensure GDPR compliance effortlessly. Our advanced scanner meticulously checks your website for cookies, external resources, and security issues. Generate detailed reports for validation and peace of mind.",
-    "hash": "sha256-uGFtQy12xC0QRZGyKYV+WDoZAnMDwpbKT24oX224gvE="
+    "hash": "sha256-gJ9UpT+V9LnrdfPOvn+xJjvsUZqlmiS8eD2R1gwBxEg="
   },
   "gdpr_extensions_com_gm": {
     "version": "1.0.0",
@@ -28309,40 +28309,36 @@
     "hash": "sha256-jxSbZTh7Vjb4WmXhg3RSZKMQxtYwEtZX9lxVOVAKoZM="
   },
   "jobrouter_base": {
-    "version": "3.0.0",
+    "version": "4.0.0",
     "t3_versions": [
-      11,
       12
     ],
     "description": "Base extension for the TYPO3 JobRouter® extensions",
-    "hash": "sha256-kJ+TixUtpXxAiIlmw1A+TQA6QnpGsoqJhhF4VB3Uepw="
+    "hash": "sha256-gB9hSSHdJbUpMzT34RDCDyra0mIYqOR5PwnCllfpWqk="
   },
   "jobrouter_connector": {
-    "version": "3.0.1",
+    "version": "4.0.0",
     "t3_versions": [
-      11,
       12
     ],
     "description": "Connect TYPO3 with the JobRouter® digitalisation platform",
-    "hash": "sha256-P4pfcdp4YOL+rGnT6sJhdE52Ev2f4goRER0CGwxK6jQ="
+    "hash": "sha256-Lgpr4GnJ4V76v4yHuUA79p0nZcNBwYgF9Bz/sx2ucnc="
   },
   "jobrouter_data": {
-    "version": "3.0.2",
+    "version": "4.0.0",
     "t3_versions": [
-      11,
       12
     ],
     "description": "Connect JobRouter® JobData tables with TYPO3",
-    "hash": "sha256-XYsoudJ6fkNERYlxg5b6ctSBqucH3PUzg7gARv1LRzE="
+    "hash": "sha256-n8G/Ydlv85KOgDP8dn8cSX1WRYti4uXb/6Dg7Kv+eC8="
   },
   "jobrouter_process": {
-    "version": "3.0.1",
+    "version": "4.0.0",
     "t3_versions": [
-      11,
       12
     ],
     "description": "Connect JobRouter® processes with TYPO3",
-    "hash": "sha256-jZZSeoYCirfWMjRcuvvMfujgaDW9G2I2Tnw9pOrpoWA="
+    "hash": "sha256-2Jj7CjU81EB6+5JeE86b7+ZSRXzZHwB6IManTJxFEKA="
   },
   "jobrouter_rss_widgets": {
     "version": "1.4.0",
@@ -32016,13 +32012,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "lux": {
-    "version": "36.4.0",
+    "version": "36.5.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Living User Experience - LUX - the Marketing Automation tool for TYPO3.",
-    "hash": "sha256-68s9YLH+FgpY2bBeYC/lCW+fqB2ayOKs9ESXFWANfps="
+    "hash": "sha256-SgY6H5ZRlsU9FAN8wXF0JV47cpclCmt6utweTtxwmC8="
   },
   "luxletter": {
     "version": "26.2.0",
