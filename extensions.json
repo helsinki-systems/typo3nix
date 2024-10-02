@@ -1124,12 +1124,12 @@
     "hash": "sha256-Qx7pEfxHzU21N5I2lCBk34qUvM/L0Ij1XDE7AIhUKNI="
   },
   "address": {
-    "version": "12.0.1",
+    "version": "12.0.3",
     "t3_versions": [
       12
     ],
     "description": "Address extension with multiple contact types per address. Code is based on news extension.",
-    "hash": "sha256-vf5qqBHh+EXorIrntNNLMeopJxJGtDHqqQ+2K4X4QkQ="
+    "hash": "sha256-lJeA5q05Kbv2g0qUHBEL0VLoYozYPwYxnILfREr+Wxs="
   },
   "address_manager": {
     "version": "4.0.7",
@@ -3597,12 +3597,12 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.322.8",
+    "version": "3.322.9",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-xdH33hWN5B32wzZ2f4pBUYwGJHCPY5K9s9gS5c6gads="
+    "hash": "sha256-HMF78akkLL1P67iEwLMdJmeU5GKQ3WsIXxa1aKGU1BU="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -24053,13 +24053,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "hh_accordion": {
-    "version": "0.6.4",
+    "version": "0.6.5",
     "t3_versions": [
       11,
       12
     ],
     "description": "",
-    "hash": "sha256-U5O3qiFZ2csMCdTIK5tayRZdTHpiAN3imUjzYmbhvSA="
+    "hash": "sha256-Y2H+lMWr5ms+uVw6DBwZ8PJZ1lTVul/UQbc4hOlvgQU="
   },
   "hh_add_statuscode": {
     "version": "0.1.22",
@@ -24103,12 +24103,12 @@
     "hash": "sha256-TXHkjx84yo6BgjfQXcP16PHNMXSY0HeFpBYawj/94tg="
   },
   "hh_seo": {
-    "version": "0.8.5",
+    "version": "0.8.6",
     "t3_versions": [
       12
     ],
     "description": "Hauer-Heinrich - SEO - Meta-Tag - ViewHelpers",
-    "hash": "sha256-M3+VjNXev9NAAhvzwcUv21N5RoJqOVqMjQbaMxBhoJg="
+    "hash": "sha256-ImXoXuVmtCZjxa2Yb/SkV+JamrAgj+vbo6oXwiqbdFE="
   },
   "hh_simple_job_posts": {
     "version": "4.1.6",
@@ -26245,12 +26245,12 @@
     "hash": "sha256-Ybb7Hol6RMcd9OtLtTjU6WmHr+TcB8ciYxq30nm7f8g="
   },
   "in2help": {
-    "version": "7.0.0",
+    "version": "7.0.1",
     "t3_versions": [
       12
     ],
     "description": "Provides a Backend Help Modul, to display any page of the frontend in the backend. So you can use this module as an entry point for editors documentation.",
-    "hash": "sha256-1BtHqdHxMgqWSvwa9lEB9dgde/Cg811PY1DMDC7F9sQ="
+    "hash": "sha256-BFdTRWWeRaqtvDUFfouCjp9+is3B2SY0zKVQskUhklI="
   },
   "in2publish_core": {
     "version": "12.5.4",
@@ -44334,12 +44334,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "powermail": {
-    "version": "12.4.1",
+    "version": "12.4.2",
     "t3_versions": [
       12
     ],
     "description": "Powermail is a well-known, editor-friendly, powerful",
-    "hash": "sha256-9bDF04MMwsurOcuZkCtK6awLBPjsYyjBewgfzGKPL/E="
+    "hash": "sha256-V8yEUdjBiSw8ZmFGvp+Kqhyq1KoNEMTvCHytXvdW0eg="
   },
   "powermail2document": {
     "version": "1.6.1",
@@ -65566,12 +65566,12 @@
     "hash": "sha256-u+b2mji+2oOaaZ5SruLHYFoQsrlMnPI1VdBAMnk08RI="
   },
   "xima_typo3_manual": {
-    "version": "1.2.0",
+    "version": "1.3.0",
     "t3_versions": [
       12
     ],
     "description": "This extension provides a new page type for creating an editor manual right in the TYPO3 backend.",
-    "hash": "sha256-Kbfq6NSBYFxtRRGaJpSez5egdGnA+xHIJf96Seeeppc="
+    "hash": "sha256-ulgy+0AL7Flve/7JvfkSMg/LLBZ5JpRnVy/iioDcnag="
   },
   "xima_typo3_recent_updates": {
     "version": "1.0.0",
