@@ -1124,12 +1124,12 @@
     "hash": "sha256-Qx7pEfxHzU21N5I2lCBk34qUvM/L0Ij1XDE7AIhUKNI="
   },
   "address": {
-    "version": "12.0.3",
+    "version": "12.0.4",
     "t3_versions": [
       12
     ],
     "description": "Address extension with multiple contact types per address. Code is based on news extension.",
-    "hash": "sha256-lJeA5q05Kbv2g0qUHBEL0VLoYozYPwYxnILfREr+Wxs="
+    "hash": "sha256-SokGV0pAsoOsBT6UJAz9lJT3Z+L/eVRjTvAfsUOIC20="
   },
   "address_manager": {
     "version": "4.0.7",
@@ -1985,12 +1985,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "allinoneaccessibility": {
-    "version": "2.2.3",
+    "version": "2.2.4",
     "t3_versions": [
       12
     ],
-    "description": "All in One Accessibility widget improves Typo3 website ADA compliance and browser experience for ADA, WCAG 2.1 & 2.2, Section 508, Australian DDA, European EAA EN 301 549, UK Equality Act (EA), Israeli Standard 5568, California Unruh, Ontario AODA, Canada ACA, German BITV, France RGAA, Brazilian Inclusion Law (LBI 13.146/2015), Spain UNE 139803:2012, JIS X 8341 (Japan), Italian Stanca Act and Switzerland DDA Standards.",
-    "hash": "sha256-P/HPyVegOqH/6RgGOBiMAsbctmMeLuUygQjFacRXwoM="
+    "description": "WCAG Website Accessibility Widget improves Typo3 website ADA compliance and browser experience for ADA, WCAG 2.1 & 2.2, Section 508, Australian DDA, European EAA EN 301 549, UK Equality Act (EA), Israeli Standard 5568, California Unruh, Ontario AODA, Canada ACA, German BITV, France RGAA, Brazilian Inclusion Law (LBI 13.146/2015), Spain UNE 139803:2012, JIS X 8341 (Japan), Italian Stanca Act and Switzerland DDA Standards.",
+    "hash": "sha256-RacB/biq1gKYohQ0Y9ARruqNgTjENBnGLUtINeUZle8="
   },
   "allnews": {
     "version": "0.2.6",
@@ -2362,6 +2362,14 @@
     "t3_versions": [],
     "description": "In order to make assessment to pbsurvey",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "ameos_scim": {
+    "version": "1.0.4",
+    "t3_versions": [
+      12
+    ],
+    "description": "SCIM Extension for TYPO3",
+    "hash": "sha256-n7iXWiMnNZ3ZKdgqE+X7TROpSG9L5wUxMftbw82N190="
   },
   "ameos_sharebyemail": {
     "version": "1.0.4",
@@ -3597,12 +3605,12 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.322.9",
+    "version": "3.322.10",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-HMF78akkLL1P67iEwLMdJmeU5GKQ3WsIXxa1aKGU1BU="
+    "hash": "sha256-QQJNHsE+kMq+F5298XmXpdxM9v83NZU6UCvBGDpHOjM="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -18184,7 +18192,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "extractor": {
-    "version": "2.5.0",
+    "version": "2.5.1",
     "t3_versions": [
       8,
       9,
@@ -18193,7 +18201,7 @@
       12
     ],
     "description": "This extension detects and extracts metadata (EXIF / IPTC / XMP / ...) from potentially thousand different file types (such as MS Word/Powerpoint/Excel documents, PDF and images) and bring them automatically and natively to TYPO3 when uploading assets. Works with built-in PHP functions but takes advantage of Apache Tika and other external tools for enhanced metadata extraction.",
-    "hash": "sha256-F3i7GAu4dY0FxWq14f3gB2Hnd0GeGSKn1rJsZe9Dno4="
+    "hash": "sha256-8FazGLxKdx+Loy20X5SwUoq46hRA0U4fsVSTiPR7DBQ="
   },
   "extrasalt": {
     "version": "0.1.7",
@@ -18403,14 +18411,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fal_protect": {
-    "version": "1.6.0",
+    "version": "1.6.1",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Protect everything within /fileadmin/ based on associated folder and file restrictions (visibility, user groups and dates of publication).",
-    "hash": "sha256-7TK95945Mh6txuPoVkQ0WYy6Fesb42q1N3EnBripTDM="
+    "hash": "sha256-ipSrvWSxU6ygj3SpNt7BNnH6TEW/lR3gnCezjify8wg="
   },
   "fal_quota": {
     "version": "1.8.0",
@@ -19603,14 +19611,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "file_list": {
-    "version": "3.1.2",
+    "version": "3.2.0",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "This extension provides a frontend plugin which shows a list of files and folders in a specified directory on the file system (comparable to Apache directory listing) or using more advanced FAL selectors (categories, collection of files, ...). This extension may also be used for creating image galleries. Default templates are Bootstrap-ready.",
-    "hash": "sha256-LFL1ZLKXgU3/k5vehvPiOH6cC5g5ygNtbdbqrdjz8pM="
+    "hash": "sha256-oQb3rxZen2LCEgtOPuZdnGKKvvhv/1NT1hRU87X1ICY="
   },
   "file_ref_list": {
     "version": "0.1.1",
@@ -19619,6 +19627,14 @@
     ],
     "description": "Listing of files related to page content",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "filecollection_gallery": {
+    "version": "12.0.0",
+    "t3_versions": [
+      12
+    ],
+    "description": "Simple FileCollection Gallery with mobile and desktop view",
+    "hash": "sha256-xZms2m6ZQgFDfOJdUXaRiDXaQj+IoXMPNj9Y5+yWiyw="
   },
   "filecollector": {
     "version": "1.1.0",
@@ -25814,14 +25830,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "image_autoresize": {
-    "version": "2.4.1",
+    "version": "2.4.2",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Simplify the way your editors may upload their images: no complex local procedure needed, let TYPO3 automatically resize down their huge images/pictures on-the-fly during upload (or using a command for batch processing) and according to your own business rules (directory/groups). This will highly reduce the footprint on your server and speed-up response time if lots of images are rendered (e.g., in a gallery). Features an EXIF/IPTC extractor to ensure metadata may be used by the FAL indexer even if not preserved upon resizing.",
-    "hash": "sha256-5Q3NGH9IfnI4UDQHgds8R/7wC/sPXXpxGs94QWMHR5E="
+    "hash": "sha256-ws4+dRF91NqDrK5RJVzAQuPv3EYwFohD3Y3EW+uNDiE="
   },
   "image_copyright": {
     "version": "12.5.1",
@@ -39456,12 +39472,12 @@
     "hash": "sha256-GCMOaAbhVj1Ii9m2Z8UMP/+VyuTEGY1M7M80Xm9djQE="
   },
   "ns_basetheme": {
-    "version": "12.2.3",
+    "version": "12.2.4",
     "t3_versions": [
       12
     ],
     "description": "The architecture of parent/child TYPO3 theme concept. Explore https://t3planet.com and https://nitsantech.com",
-    "hash": "sha256-ogRsjhO4JBdRuLJhM4ezp4vZ0orop7tr6Om0AhAP3X4="
+    "hash": "sha256-faPo3wfZN1k91U5XNTCUenGCfUn6Ax9qO9mgzayFs/I="
   },
   "ns_cache_webhook": {
     "version": "1.0.1",
