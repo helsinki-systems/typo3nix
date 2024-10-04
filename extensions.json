@@ -1985,12 +1985,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "allinoneaccessibility": {
-    "version": "2.2.4",
+    "version": "2.2.5",
     "t3_versions": [
       12
     ],
     "description": "WCAG Website Accessibility Widget improves Typo3 website ADA compliance and browser experience for ADA, WCAG 2.1 & 2.2, Section 508, Australian DDA, European EAA EN 301 549, UK Equality Act (EA), Israeli Standard 5568, California Unruh, Ontario AODA, Canada ACA, German BITV, France RGAA, Brazilian Inclusion Law (LBI 13.146/2015), Spain UNE 139803:2012, JIS X 8341 (Japan), Italian Stanca Act and Switzerland DDA Standards.",
-    "hash": "sha256-RacB/biq1gKYohQ0Y9ARruqNgTjENBnGLUtINeUZle8="
+    "hash": "sha256-rLUmOdkNL1/j+6QTmXAmFET6Ebi05hgxj96viuhTcUU="
   },
   "allnews": {
     "version": "0.2.6",
@@ -19179,12 +19179,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "femanager": {
-    "version": "8.1.0",
+    "version": "8.2.0",
     "t3_versions": [
       12
     ],
     "description": "TYPO3 Frontend User Registration and Management based on",
-    "hash": "sha256-ZCMSr5W2F+bV1lAed6lV9cvuMY1LVo2Tjj7EfLdQW8Q="
+    "hash": "sha256-pJ8R7kXnTxdexWvk1nsc75U1WQ7f68vFXTtXpU2adSo="
   },
   "femanager_cleverreach": {
     "version": "3.0.0",
@@ -35161,13 +35161,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mklib": {
-    "version": "12.0.0",
+    "version": "12.0.3",
     "t3_versions": [
       11,
       12
     ],
     "description": "Utilities for extensions",
-    "hash": "sha256-E+7svnuwdC+xUAyYUKt31hbFsNgQ9TxtxRwGhb5jX3Y="
+    "hash": "sha256-L1eMgdoWIA438H/aCPkaYuz0SNfRgocuqGUwlh9mzlU="
   },
   "mklog": {
     "version": "12.0.3",
@@ -38615,12 +38615,12 @@
     "hash": "sha256-pp7RxGbrctngYRUNyD/475/61tA8/xZU6RM7yllT+uY="
   },
   "newsletter_subscribe": {
-    "version": "6.1.1",
+    "version": "6.2.0",
     "t3_versions": [
       12
     ],
     "description": "subscribe and unsubscribe to tt_address, generate static Link to unsubscribe (to use in Newsletter), remove unvalidated subscriptions with scheduler task",
-    "hash": "sha256-/qzdxVXsBcLF9EqKE6oTKY4GVkQaGHYpfjv9XRkTCbs="
+    "hash": "sha256-ez0lPb72kQiS4xsM6d1u4xCflnrTNqmJ3acAtNANio8="
   },
   "newslettermanager": {
     "version": "0.0.1",
@@ -44382,6 +44382,14 @@
     ],
     "description": "Displays all Powermail parameters: GET, POST and session data. Place the plugin before the Powermail plugin. Enter your IP address. Include the static template. That's all.",
     "hash": "sha256-pmF02elaEIPa0hT7bj7fWRcPMiuXx70XLwBheXPHgcU="
+  },
+  "powermail_cleaner": {
+    "version": "4.1.0",
+    "t3_versions": [
+      11
+    ],
+    "description": "A Powermail extension to clean up answers with files via Scheduler / Command line or Backend",
+    "hash": "sha256-Yxc2vmQ1FE0G010CWAxFNHuXQL/aULoz36Psc8wlARw="
   },
   "powermail_cond": {
     "version": "11.2.3",
@@ -51616,12 +51624,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "site_generator": {
-    "version": "3.1.2",
+    "version": "3.2.1",
     "t3_versions": [
       12
     ],
     "description": "Site generator wizard used to generate mini-website or duplicate tree model, it will automatically create associated BE/FE groups, create directories with associated files mount, add domain name, update Typoscript configuration (folders/pages ID and TCEMAIN.clearCacheCmd), update slugs.",
-    "hash": "sha256-OT4H30RoXrV3XrRKcURHDRtzfT98/pZmEZTAMKuDkv4="
+    "hash": "sha256-lOVeAT4d4ahSjCWUq3FKOV9rAc1MVPK1SKGO5WYWhHY="
   },
   "site_jtagcloud": {
     "version": "0.9.1",
