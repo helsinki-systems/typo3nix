@@ -3605,12 +3605,12 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.323.0",
+    "version": "3.323.1",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-JIGkXNEB5EkZVjY9L83DKhYGmRrK2pOiEtUR9CuZt+Q="
+    "hash": "sha256-/2y7WlBPRaIGgwbD3RzThteFQDdR6YZ1d2EhTGxPAGo="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -20978,12 +20978,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "form_consent": {
-    "version": "3.0.0",
+    "version": "3.0.1",
     "t3_versions": [
       12
     ],
     "description": "An extension for TYPO3 CMS that adds double opt-in functionality to EXT:form. It allows the dynamic adaptation of the entire double opt-in process using various events. In addition, the extension integrates seamlessly into TYPO3, for example to delete outdated consents in compliance with the GDPR.",
-    "hash": "sha256-nEqXzXTPtC7hZTXYfQfOQvz63VXXgpYfQRxM4yHl3Wk="
+    "hash": "sha256-wtREFTeI7c296KOphD5tjGuJh0lwuovXPsE3JE27SUY="
   },
   "form_country_select": {
     "version": "3.0.0",
@@ -21032,12 +21032,12 @@
     "hash": "sha256-iDaeYBLUD6MgI5uRpy9npOtzwjV5ZgeTG1eXl03ESnI="
   },
   "form_extended": {
-    "version": "12.2.0",
+    "version": "12.2.1",
     "t3_versions": [
       12
     ],
     "description": "Multi upload field, double opt in, tag select field and other",
-    "hash": "sha256-9R7aerv5P5lD0RvtLYAtiJiHkdZsQ6ZTH05lM1QXN0U="
+    "hash": "sha256-C432HQlQ+vY56uK/7yNpF54MWHmPsJShJC/EG88biQ4="
   },
   "form_extension_tut": {
     "version": "0.0.1",
