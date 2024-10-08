@@ -3605,12 +3605,12 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.323.1",
+    "version": "3.323.2",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-/2y7WlBPRaIGgwbD3RzThteFQDdR6YZ1d2EhTGxPAGo="
+    "hash": "sha256-hs8zNdfWrbcDxUWnCYH3swFoUm6aC8JfU3Tue+Yi1uY="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -24010,12 +24010,12 @@
     "hash": "sha256-qsVb91W381Ah5wL7o6z9RqpRGdTMCJ/CKYGdCc3xWoI="
   },
   "headless": {
-    "version": "4.4.0",
+    "version": "4.4.1",
     "t3_versions": [
       12
     ],
     "description": "Makes TYPO3 a headless CMS. Content and pages available in JSON format. Supports multilanguage, multidomain, forms, frontend login, workspaces and more. For JS frontend app see nuxt-typo3 package",
-    "hash": "sha256-wAnqys//CZvwkpYm/Dpt00FAN5WjYNx/nRIszU12TWw="
+    "hash": "sha256-L0B4O+EbFspgt1Ha+TRa6SR0QP1p2K0BTKhcSLJdvYw="
   },
   "headless_container": {
     "version": "2.0.0",
@@ -44441,13 +44441,29 @@
     "description": "Full database plugin (List-, Detail-, Latestview) of powermail entries. Frontend edit possible. Extend powermail to an eventlist or a guestbook, e.g.",
     "hash": "sha256-Q06KDDhk5rbeYaX09KwVBnonhBfUIUl7GbCsUaEYnmA="
   },
+  "powermail_jira": {
+    "version": "1.0.0",
+    "t3_versions": [
+      12
+    ],
+    "description": "Base extension - Post powermail form submissions as jira issues",
+    "hash": "sha256-d0Vh8Y2AHqT6+PiSzntogjljhy3otM88gi/n2IDQCo8="
+  },
   "powermail_jira_issues": {
-    "version": "0.2.1",
+    "version": "1.1.0",
+    "t3_versions": [
+      12
+    ],
+    "description": "JiraCloud extension - Post powermail form submissions as jira issues",
+    "hash": "sha256-3NhrKQMkH6I1xFesYbVRhfjz7fZNBzK+p06vWPYnMz4="
+  },
+  "powermail_jiraonpremise_issues": {
+    "version": "1.1.0",
     "t3_versions": [
       12
     ],
     "description": "Post powermail form submissions as jira issues",
-    "hash": "sha256-rr6X0cfpXOSgIQRHKcQPjKr+8ebn/byPV2FPAWY6PF0="
+    "hash": "sha256-ifQrnR7q2KfcC8OwGfkEkt3rUJWaZbah6Sa8I8MfSfE="
   },
   "powermail_limits": {
     "version": "2.0.1",
@@ -54312,12 +54328,12 @@
     "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
   },
   "start": {
-    "version": "10.3.6",
+    "version": "10.3.7",
     "t3_versions": [
       10
     ],
     "description": "Start extends TYPO3 with the responsive framework Foundation (Zurb), a dozen responsive Backend Layouts and some responsive Gridelements. It enables editors, to create responsive nested layouts within a few minutes. It extends some backend forms for controlling the display of content elements depending on devices like smartphones, tablets and desktops. It extends TYPO3 content elements and menus with some helpful responsive Foundation features. A template for a responsive newsletter is included.",
-    "hash": "sha256-tSzUxGnY335811ZXoU5H98ZBWeUuC/BgDqnRgN251eo="
+    "hash": "sha256-OnGbB/0Tk0Xdz7wukjw8L+yvcTZd7HiSemfJa24uKFw="
   },
   "startcustomer": {
     "version": "8.7.12",
