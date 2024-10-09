@@ -3605,12 +3605,12 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.323.2",
+    "version": "3.323.3",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-hs8zNdfWrbcDxUWnCYH3swFoUm6aC8JfU3Tue+Yi1uY="
+    "hash": "sha256-FzRoEdRaj8ioeDC4yEsnR6GEoENe9RrV0+JcBqpnFIM="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -19150,12 +19150,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "felogin_bruteforce_protection": {
-    "version": "12.1.2",
+    "version": "12.1.4",
     "t3_versions": [
       12
     ],
     "description": "Protects TYPO3 frontend authentication (e.g. fe_login) against brute force attacks.",
-    "hash": "sha256-kKZ0J6Jm226JVRE9MwP1p9NNsyB2IdcGyqNQGqiq1AU="
+    "hash": "sha256-LjnzBbddCD47DXwH6TXhPeixDroZ3Od1eSrgk+lluI8="
   },
   "felogin_redirect2current": {
     "version": "0.2.0",
@@ -26269,13 +26269,13 @@
     "hash": "sha256-BFdTRWWeRaqtvDUFfouCjp9+is3B2SY0zKVQskUhklI="
   },
   "in2publish_core": {
-    "version": "12.5.4",
+    "version": "12.5.5",
     "t3_versions": [
       11,
       12
     ],
     "description": "Content publishing extension to connect stage and production server",
-    "hash": "sha256-gzrredxkOI46l6Qp0PNxsgbPCxQkTg5LKLL/E3+ioB8="
+    "hash": "sha256-Nl6PjcEGF+M0O/bMefx8/+S/ELdpqdXEDFTwMyH5sxg="
   },
   "in2rss": {
     "version": "0.2.2",
@@ -35091,12 +35091,12 @@
     "hash": "sha256-6H05DwRy5TP7I2m3O6nKftHQjQVN7MRXdeMYYlAY3V8="
   },
   "mkcontentai": {
-    "version": "13.0.0",
+    "version": "13.0.3",
     "t3_versions": [
       12
     ],
     "description": "MKContentAI Extension - OpenAI API",
-    "hash": "sha256-PJHA6ByK09aJ82XoFb9XNVgSv5pHAY52kWbp/KV3/N0="
+    "hash": "sha256-CelcoX3SEtqsYgw9Bn7o6lb7k7ym/C689gPgmwgF8t0="
   },
   "mkdam2fal": {
     "version": "1.0.16",
@@ -39931,12 +39931,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ns_timeline": {
-    "version": "12.1.0",
+    "version": "12.1.1",
     "t3_versions": [
       12
     ],
     "description": "Create engaging stories, timelines, histories, and roadmaps easily with the All In One Timeline TYPO3 Extension. With 18 unique styles and layouts, this extension offers unlimited possibilities for showcasing content on your TYPO3 website. Additionally, the TYPO3 Event extension integrates with TYPO3 Blog and TYPO3 News extensions allowing you to display timeline posts.",
-    "hash": "sha256-UGDKpNpl3L67U8Q450vZCkAkNy81PCibW2Wbw6tW3eQ="
+    "hash": "sha256-lQRDQucguPHWRbxvMVfYiZV2PeFOfhsJ88a9kXbXQ6E="
   },
   "ns_twitter": {
     "version": "3.1.0",
@@ -44442,12 +44442,12 @@
     "hash": "sha256-Q06KDDhk5rbeYaX09KwVBnonhBfUIUl7GbCsUaEYnmA="
   },
   "powermail_jira": {
-    "version": "1.0.0",
+    "version": "1.0.2",
     "t3_versions": [
       12
     ],
     "description": "Base extension - Post powermail form submissions as jira issues",
-    "hash": "sha256-d0Vh8Y2AHqT6+PiSzntogjljhy3otM88gi/n2IDQCo8="
+    "hash": "sha256-OI++rnVN19qX2BrtvkjlI8CAzhIKo9goCO+BC5AS8/c="
   },
   "powermail_jira_issues": {
     "version": "1.1.0",
@@ -63340,12 +63340,12 @@
     "hash": "sha256-iM1zb6VUJMaSf/kBAMS/gJmRPCYAXh34cd/HNI7X37s="
   },
   "warming": {
-    "version": "3.0.0",
+    "version": "3.1.0",
     "t3_versions": [
       12
     ],
     "description": "Warms up Frontend caches based on an XML sitemap. Cache warmup can be triggered via TYPO3 backend or using a console command. Supports multiple languages and custom crawler implementations.",
-    "hash": "sha256-m8uPoNeeLY4pWoRK5Nj0pUqL5BAnh6WpZqztK/np80A="
+    "hash": "sha256-eUSo28lgR2pjxEA4TP9zz4Vdx6AusWv45meEbROdvRg="
   },
   "warmup": {
     "version": "1.3.1",
