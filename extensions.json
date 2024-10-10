@@ -3605,12 +3605,12 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.323.3",
+    "version": "3.323.4",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-FzRoEdRaj8ioeDC4yEsnR6GEoENe9RrV0+JcBqpnFIM="
+    "hash": "sha256-RCJvwxzsdiw28AbQQUJIWlKxq/fgUbTUPxa5wJtXBcQ="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -14487,13 +14487,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "dlf": {
-    "version": "5.0.5",
+    "version": "5.0.6",
     "t3_versions": [
       10,
       11
     ],
     "description": "Base plugins, modules, services and API of the Digital Library Framework. It is part of the community-based Kitodo Digitization Suite.",
-    "hash": "sha256-R4A+qo6WGB1jw2sDGPJ67mzGO+7tmGg6zOZO6nZD8GM="
+    "hash": "sha256-vuQf1uCgFTfXcBFPe/wimAz8Q6SoHYWlCYruTcB5vL0="
   },
   "dlib": {
     "version": "0.0.6",
@@ -30396,6 +30396,15 @@
     "description": "Allows tx_jetts to parse html5 documents/tags (nav, section, etc) without generating errors.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "kws_form_jsonpost": {
+    "version": "1.0.1",
+    "t3_versions": [
+      11,
+      12
+    ],
+    "description": "Provides HTTP JSON POST finisher for EXT:form",
+    "hash": "sha256-meCmBPsnkdJYcy69uaDEiD2qgZOCCW/cyr29tFd0c2k="
+  },
   "kyak_metaaudio": {
     "version": "0.1.0",
     "t3_versions": [],
@@ -32414,13 +32423,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mail": {
-    "version": "3.0.1",
+    "version": "3.0.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "Powerful newsletter system for TYPO3",
-    "hash": "sha256-GsoKrmhpyNyo7GGL4iNkbiUxOEsuYBcQtYcg8YraVlc="
+    "hash": "sha256-RXwiTZB6u1SqFoOEaJQfWqd0piQ6FGoUpPT8DQw9TmE="
   },
   "mail2news": {
     "version": "2.0.3",
@@ -39939,7 +39948,7 @@
     "hash": "sha256-lQRDQucguPHWRbxvMVfYiZV2PeFOfhsJ88a9kXbXQ6E="
   },
   "ns_twitter": {
-    "version": "3.1.0",
+    "version": "3.1.1",
     "t3_versions": [
       7,
       8,
@@ -39947,8 +39956,8 @@
       10,
       11
     ],
-    "description": "Twitter extension brings all your recent tweets to your TYPO3 site. LiveDemo: https://demo.t3planet.com/t3t-extensions/twitter Pro version: You can download PRO version for more-features & free-support at https://t3planet.com/typo3-twitter-extension",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "description": "Display fully customizable, responsive, and search engine crawlable  Twitter feeds on your TYPO3 website. The TYPO3 Twitter Extension easily integrates to display Tweets that perfectly match your site's appearance and offers many customization options. Easily embed Twitter Timelines, Feeds, Follow buttons, and Like buttons on posts, pages, and widget areas. ",
+    "hash": "sha256-wGosHSOLGy6KiFuKm80a+gEbSTLJWIYysRwnmUWUh6Y="
   },
   "ns_whatsapp": {
     "version": "12.1.0",
