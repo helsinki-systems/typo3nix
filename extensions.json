@@ -3605,12 +3605,12 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.323.4",
+    "version": "3.324.0",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-RCJvwxzsdiw28AbQQUJIWlKxq/fgUbTUPxa5wJtXBcQ="
+    "hash": "sha256-ec76ZlRW5knqAwv/P0tdOU076Gmr2hJQAb/CFXmnRJY="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -37043,12 +37043,12 @@
     "hash": "sha256-KON3MkLTQO2l6ymxUOD5oeEKPuXQf4ZiKgihG56TgiY="
   },
   "multisite_belogin": {
-    "version": "12.0.3",
+    "version": "12.0.4",
     "t3_versions": [
       12
     ],
     "description": "Cross site/domain backend login for TYPO3. It allows backend users to work in the frontend across domains.",
-    "hash": "sha256-mkG3cce4k6YIsW52SRcbcXwEcNrCwGyJ8ShteaHiWh8="
+    "hash": "sha256-RLm0ulGYuXBhSZY+1imLR/slj+1tT7xw0Rs9GucqbNs="
   },
   "multivote": {
     "version": "0.0.4",
