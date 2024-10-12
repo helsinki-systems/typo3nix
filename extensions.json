@@ -3605,12 +3605,12 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.324.0",
+    "version": "3.324.1",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-ec76ZlRW5knqAwv/P0tdOU076Gmr2hJQAb/CFXmnRJY="
+    "hash": "sha256-3Fxos0V2KPnCR9gWAPUZavUTXZTqmP7aXWWdvqC+SW0="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -5397,12 +5397,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "brofix": {
-    "version": "6.0.6",
+    "version": "6.2.0",
     "t3_versions": [
       12
     ],
     "description": "Check for broken links and fix them via a backend module (forked from core linkvalidator)",
-    "hash": "sha256-9GRQB1NqML+045T1+pdclAb4KYr+63brCLp3QJBgOBc="
+    "hash": "sha256-xCWgGdhW+gRLTyFhYIS6ALeiZfzJ1VCAzGg+QHrVJ7Q="
   },
   "browser": {
     "version": "10.0.3",
@@ -7106,12 +7106,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cart": {
-    "version": "9.0.0",
+    "version": "9.0.2",
     "t3_versions": [
       12
     ],
     "description": "Shopping Cart(s) for TYPO3",
-    "hash": "sha256-aHEgg/niT1umVm0Y1bVWdZeyM83N7xOhn9/eX5sdJf0="
+    "hash": "sha256-4wHPV3d8/E+8XaIiCrwCQPVX+RzH3x/lRMwg/M2aruM="
   },
   "cart_basket_image": {
     "version": "1.0.3",
@@ -16972,6 +16972,17 @@
     ],
     "description": "Converts all email addresses in TYPO3 Frontend to a link on a powermail form with the right receiver. Spam prevention because there are no email addresses in FE.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "email_template": {
+    "version": "1.1.0",
+    "t3_versions": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "description": "Build table based E-Mail templates with Inky tags.",
+    "hash": "sha256-LbJmcqUK2etth+51mLwtL5rc1MlOyzClpQ2omiS6kXM="
   },
   "emailimport": {
     "version": "0.0.1",
@@ -46364,10 +46375,10 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "recaptcha": {
-    "version": "13.0.2",
+    "version": "14.0.0",
     "t3_versions": [],
     "description": "Integrates google reCAPTCHA and invisible reCAPTCHA in EXT:form, EXT:sf_register",
-    "hash": "sha256-6tDcgriozoABxV+U4eFaWxVPqikYH7fgOtVoqtQqb30="
+    "hash": "sha256-rCxZVT0gBxawbcN2Kvyl0pkbcEFvSKh3AyDG2t+migs="
   },
   "recent_comments": {
     "version": "0.2.0",
