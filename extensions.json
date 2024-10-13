@@ -7106,12 +7106,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cart": {
-    "version": "9.0.2",
+    "version": "9.0.3",
     "t3_versions": [
       12
     ],
     "description": "Shopping Cart(s) for TYPO3",
-    "hash": "sha256-4wHPV3d8/E+8XaIiCrwCQPVX+RzH3x/lRMwg/M2aruM="
+    "hash": "sha256-mVQsdEnDmes4dOP5kIgWmCQIQb2lu+mOouyFVmuBosc="
   },
   "cart_basket_image": {
     "version": "1.0.3",
@@ -7202,12 +7202,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cart_products": {
-    "version": "5.0.1",
+    "version": "5.0.2",
     "t3_versions": [
       12
     ],
     "description": "Shopping Cart(s) for TYPO3 - Products",
-    "hash": "sha256-yy1ZTTOwS/YxfWJdphGUEpb0KlznHbfsKBzcljCGSbo="
+    "hash": "sha256-vV/7aSYG5+pOGMCtIH9TsDZA7FacaZ9qi0mk0dnpnpY="
   },
   "cart_saferpay": {
     "version": "3.0.1",
@@ -50400,12 +50400,10 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sf_yubikey": {
-    "version": "5.0.3",
-    "t3_versions": [
-      12
-    ],
+    "version": "6.0.0",
+    "t3_versions": [],
     "description": "An authentication service for TYPO3 which extends the backend/frontend login by YubiKey OTP two-factor authentication.",
-    "hash": "sha256-SM0qfZyJEU3CHR7L0Bdnimjv6xix2b6e/s/DvYmV1wo="
+    "hash": "sha256-B8ffTAdduk4bjthC6QRT6KQ3SY5JqpK2H85HLDK7P1o="
   },
   "sfdbutf8": {
     "version": "2.1.0",
@@ -60994,13 +60992,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "tt_products": {
-    "version": "2.15.15",
+    "version": "2.15.16",
     "t3_versions": [
       11,
       12
     ],
     "description": "Advanced versions at ttproducts.de. Documented in the E-Book \"Der TYPO3-Webshop\" - Shop with listing in multiple languages, with order tracking, product variants, support for transactor extension, bill, creditpoint and voucher system.",
-    "hash": "sha256-ACny2i9q/FHvfOU/FELYXszAYbVdTGlZI3svRJSNWhk="
+    "hash": "sha256-NUFZHQ9YmHjKSQraHd6mxYkiAU1yu7ndeyJh5x4xNq4="
   },
   "tt_products_foundby": {
     "version": "0.1.4",
