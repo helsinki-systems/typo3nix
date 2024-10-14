@@ -5277,13 +5277,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "bootstrap_package": {
-    "version": "14.0.7",
+    "version": "15.0.0",
     "t3_versions": [
-      11,
       12
     ],
     "description": "Bootstrap Package delivers a full configured frontend theme for TYPO3, based on the Bootstrap CSS Framework.",
-    "hash": "sha256-dzYVNfYpzPxQ+7WvFPo16g5T8jdM7Ptrmvu1JHm0kLI="
+    "hash": "sha256-hUBmvTS6VfAKHagqjqE33mkQKxXidiBTEW0BSemiG4I="
   },
   "bootstrap_package_iconpack": {
     "version": "0.3.0",
@@ -6980,14 +6979,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "canto_extension": {
-    "version": "1.4.5",
+    "version": "1.4.6",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Connect canto flight to get resource",
-    "hash": "sha256-zPtv1jzMap8DqlP0mJRaIZGuEQ7u/fzHPEpK7980vYc="
+    "hash": "sha256-PGnIEyydh/2ZPIkTU4Z10I8c0lwSf05rkKtjIRte6go="
   },
   "cap_flattr_news": {
     "version": "1.4.0",
@@ -7202,12 +7201,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cart_products": {
-    "version": "5.0.2",
+    "version": "5.0.4",
     "t3_versions": [
       12
     ],
     "description": "Shopping Cart(s) for TYPO3 - Products",
-    "hash": "sha256-vV/7aSYG5+pOGMCtIH9TsDZA7FacaZ9qi0mk0dnpnpY="
+    "hash": "sha256-1AeXxoYrNY5IxcqM4xU5c3bAh6RUDAGTvaQsqiS417k="
   },
   "cart_saferpay": {
     "version": "3.0.1",
@@ -20270,12 +20269,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fluid_components": {
-    "version": "3.8.1",
+    "version": "3.8.2",
     "t3_versions": [
       12
     ],
     "description": "Encapsulated frontend components with Fluid's ViewHelper syntax",
-    "hash": "sha256-Pzl7qC36ryjewrn8i2KnTMb1kDYl0ExoDuXEwZn1pCI="
+    "hash": "sha256-+n6Q/Wc9NT3J4WDQGToPvYksluYZ24OduOCl6gLTrcw="
   },
   "fluid_contentelements": {
     "version": "1.0.0",
@@ -30674,12 +30673,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "launchstart": {
-    "version": "10.3.1",
+    "version": "10.3.5",
     "t3_versions": [
       10
     ],
     "description": "Launches a ready-to-use responsive website. Gridelements enable nested layouts. Based on Start TYPO3 Responsive and the Foundation framework. ",
-    "hash": "sha256-N+xp6GR6rkwlWn5B/CXrRNcf1y7IyHftV9Rt/dsvJo4="
+    "hash": "sha256-OSAGmJ2W26GeSRqs2vdMnLdcm2i5gp2+2kj7gqUxx9s="
   },
   "launchstartgreen": {
     "version": "10.6.1",
@@ -34286,13 +34285,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mfa_webauthn": {
-    "version": "1.2.4",
+    "version": "1.2.5",
     "t3_versions": [
       11,
       12
     ],
     "description": "WebAuthn Provider for TYPO3 Multi Factor Authentication",
-    "hash": "sha256-x5xldF3jfcX15bf+OvMn6M7RWlzozd9n4Hhf6HJ+G40="
+    "hash": "sha256-O1bnX3wqx3vFVB+wQxLilB3n8xDFUDG3snY+mXZRhtg="
   },
   "mfa_yubikey": {
     "version": "3.0.0",
