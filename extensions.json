@@ -1584,12 +1584,12 @@
     "hash": "sha256-ee1Rl3Ok1e1HP2daIVmwXQEzGrTz2ymo8zv8dhHnoHI="
   },
   "ai_suite": {
-    "version": "12.5.1",
+    "version": "12.5.2",
     "t3_versions": [
       12
     ],
     "description": "Adds a backend module as well as various helper functionalities and features to your TYPO3 backend, which are intended to make the daily work of editors easier and faster with the help of AI.",
-    "hash": "sha256-hjpdLinXnHdXzgU2xHTd6MeSQTouWCn8s9F+xcqdyyw="
+    "hash": "sha256-0bGT9zFPZ/nDzGEWLCsnTy8EJZrbjXwk9lpBuDX+PNU="
   },
   "ai_tools": {
     "version": "0.0.1",
@@ -3605,12 +3605,12 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.324.1",
+    "version": "3.324.2",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-3Fxos0V2KPnCR9gWAPUZavUTXZTqmP7aXWWdvqC+SW0="
+    "hash": "sha256-OAz1wLilPYWGEais+hYkoXuXG81JSduF371OAymMqIQ="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -9842,14 +9842,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "container": {
-    "version": "2.3.6",
+    "version": "3.0.0",
     "t3_versions": [
-      10,
       11,
       12
     ],
     "description": "Create Custom Container Content Elements for TYPO3",
-    "hash": "sha256-xfC4a0AQi5VXRNo1j9WQfFI80zySQiE1ybcbMBl6Mj0="
+    "hash": "sha256-nojgxmC8j+XPLFm76DHFtvL1kWmSAQzZwGIl4IV9pQ0="
   },
   "container_elements": {
     "version": "5.3.0",
@@ -9917,10 +9916,10 @@
     "hash": "sha256-XMv2jq5x6yytPyER7yVjRV9/nZ+nL3HR8SiwiCkMkN4="
   },
   "content_blocks": {
-    "version": "0.8.2",
+    "version": "1.0.0",
     "t3_versions": [],
     "description": "TYPO3 CMS Content Blocks - Content Types API",
-    "hash": "sha256-MrTaATIaPgr8XaIszgvT0dl1/82hnl8th3zYYv9Lb+Q="
+    "hash": "sha256-OueGtgtnuzeNnG4Ezf8LGCP6PKzHkfGoLmQPf8FuWa8="
   },
   "content_consent": {
     "version": "3.0.1",
@@ -20985,12 +20984,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "form_consent": {
-    "version": "3.0.1",
+    "version": "3.1.0",
     "t3_versions": [
       12
     ],
     "description": "An extension for TYPO3 CMS that adds double opt-in functionality to EXT:form. It allows the dynamic adaptation of the entire double opt-in process using various events. In addition, the extension integrates seamlessly into TYPO3, for example to delete outdated consents in compliance with the GDPR.",
-    "hash": "sha256-wtREFTeI7c296KOphD5tjGuJh0lwuovXPsE3JE27SUY="
+    "hash": "sha256-uibWMcL680MSUa1oHcMCQU9knmKaym82i3kF+6LhFho="
   },
   "form_country_select": {
     "version": "3.0.0",
@@ -26347,14 +26346,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "includekrexx": {
-    "version": "5.0.5",
+    "version": "5.1.0",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Fluid and PHP debugger with backend access to logfiles, code generation to reach the displayed values and much more. We added some special stuff for Aimeos.",
-    "hash": "sha256-dG4RmDKmF/sKPCMjDONkGQd27iN39dSVC7SOd/QJDjw="
+    "hash": "sha256-Z+iJKVrrKlSveH2HQkZNa7QVBKvWSIz+YXthjWHBjdI="
   },
   "incore_twitter": {
     "version": "1.2.2",
@@ -26781,10 +26780,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "introduction": {
-    "version": "4.6.1",
-    "t3_versions": [],
-    "description": "This package delivers a new website (page tree) and shows all out-of-the-box features of TYPO3, and includes a theme based on Twitter Bootstrap 3, and a style editor to customize the design. Sample backend groups are added",
-    "hash": "sha256-MmuKmvtBZb2vzCtcZYoq8vxUiyRPZK7Fk8H746eKDEo="
+    "version": "4.7.0",
+    "t3_versions": [
+      12
+    ],
+    "description": "This is the Official TYPO3 Introduction Package, a carefully crafted TYPO3 distribution giving you a small insight in the powerful toolbox of the TYPO3 CMS framework. It comes with a full-fledged website based on Benjamin Kott's Bootstrap Package and Twitter Bootstrap, with simple options to customize the base theme.",
+    "hash": "sha256-++h7rg+xQNl6iMY3S85MtbOeuJOBfkWfDWf9t+dpWtU="
   },
   "introductionplus": {
     "version": "1.2.0",
@@ -30681,12 +30682,12 @@
     "hash": "sha256-OSAGmJ2W26GeSRqs2vdMnLdcm2i5gp2+2kj7gqUxx9s="
   },
   "launchstartgreen": {
-    "version": "10.6.1",
+    "version": "10.6.2",
     "t3_versions": [
       10
     ],
     "description": "Launches a ready-to-use website for BUENDNIS 90/DIE GRUENEN! Website is responsive. It contains a calendar-modul and a news-modul, sample layouts and sample content. You can be rid of the green corporate design by removing one TypoScript template.",
-    "hash": "sha256-WdLMonRs1Kx03RIOLNtFwmklx0GOPyYBG5czyPYxJJY="
+    "hash": "sha256-mldMmzaScU/tbCuL4auN9ZK92n9slW965N0UkqD6Pp4="
   },
   "layerslider": {
     "version": "5.6.2",
@@ -38842,12 +38843,12 @@
     "hash": "sha256-qbyVJsT9CxkqjimQqPDEToxSKQ/aF+E2vlrZu3FrUa8="
   },
   "nginx_cache": {
-    "version": "3.0.1",
+    "version": "3.0.2",
     "t3_versions": [
       12
     ],
     "description": "Add cache control header and purge nginx cache",
-    "hash": "sha256-1wDqRZhshNS8wDS6HhRQlfgbzmRv7UyeuXUs/X31XGg="
+    "hash": "sha256-1F83I7GYFpNqHv30uzbv/BVOcAJC6wxVEBnBFtt7pJY="
   },
   "nginx_connector": {
     "version": "1.0.2",
@@ -43585,14 +43586,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "picture": {
-    "version": "2.0.4",
+    "version": "3.0.1",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Improved TYPO3 image ViewHelper creating picture elements with support for sizes, sources, additional image formats, etc.",
-    "hash": "sha256-d6x7sPpopVISw5CK7HPwHRpi+IgJE9NUp6vdvHAjIkc="
+    "hash": "sha256-aG8hHS6w0jslPOI0Sxdmn1uUQzih+hZDZyUunBjMjfE="
   },
   "picturecredits": {
     "version": "2.2.0",
@@ -44833,6 +44834,12 @@
     "description": "Frontend presentation menu",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "preview": {
+    "version": "1.0.3",
+    "t3_versions": [],
+    "description": "Generate URLs that grant access to hidden languages without a backend login",
+    "hash": "sha256-Jj9DU9qHx0CzikIpU9ZNF7Toj+Zazf4MGnn3QUzWB3U="
+  },
   "privacy": {
     "version": "1.0.0",
     "t3_versions": [],
@@ -45380,12 +45387,10 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "px_dbsequencer": {
-    "version": "0.11.0",
-    "t3_versions": [
-      11
-    ],
-    "description": "With this extension you can ensure different unique keys for the configured tables (e.g.: pages, pages_language_overlay, tt_content)",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "version": "0.13.0",
+    "t3_versions": [],
+    "description": "With this extension you can ensure different unique keys for the configured tables (e.g.: pages, tt_content, ...)",
+    "hash": "sha256-spXWYAxdVfEs9YmGxo3O/emRhn7b3k9OReTGGIdf93c="
   },
   "px_direct_mail_smtp": {
     "version": "0.0.1",
@@ -51748,22 +51753,22 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sitemap_locator": {
-    "version": "0.1.6",
+    "version": "0.1.7",
     "t3_versions": [
       11,
       12
     ],
     "description": "Looks up XML sitemaps as part of a configured site. Supports various sitemap providers, e.g. by configured page type or robots.txt, and allows to implement custom providers.",
-    "hash": "sha256-ODhj9tGCXihRPAlfro9JKxyNhPygfUwN2qn+XbP5FCc="
+    "hash": "sha256-gqLnmDrPzTy2fQxxAybSR53QFY60vbANdz+4y4Rz3fg="
   },
   "sitemap_robots": {
-    "version": "0.1.5",
+    "version": "0.1.6",
     "t3_versions": [
       11,
       12
     ],
     "description": "Enhances robots.txt with sitemap configurations to improve site visibility in terms of SEO. Injection of XML sitemaps can be managed on a per-site basis. Supports static routes as well as injection into local files.",
-    "hash": "sha256-tiOEzJdSHMVf/4DOOltQSSaUv/d6bPvjigYeH+cTmfU="
+    "hash": "sha256-PerrrC3Ilseu05sfq0P89kch3NS3FyoA/bMpZisSb+M="
   },
   "sitemgr": {
     "version": "2.9.1",
@@ -52296,12 +52301,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "skjsonlylightbox": {
-    "version": "0.4.2",
+    "version": "0.5.0",
     "t3_versions": [
       12
     ],
     "description": "Provides the pure Javascript GLightbox for text with image and tx_news. Based on jn_lighterbox",
-    "hash": "sha256-sz4hkQMKmhVKuzYtSyb7MT4gTW0Ayhn6bo1IdVryIk0="
+    "hash": "sha256-cMltFO3/ZJDBFD4Gdae6yaiioEEpO0cVALAicG3o1zw="
   },
   "skm_locallang_js": {
     "version": "1.0.0",
@@ -52353,12 +52358,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "skvideo": {
-    "version": "3.0.0",
+    "version": "3.0.1",
     "t3_versions": [
       12
     ],
     "description": "TYPO3 content element to cache thumbnails of Youtube & Vimeo videos and play them after user confirmation. Options to remember user decision via cookie. Responsive display. Works with and without fluid_styled_content. No other dependencies.",
-    "hash": "sha256-z/Z8I1pvtNBVV20HWg/35sUz1HadwFVLYtvc6XHsp+s="
+    "hash": "sha256-bSnbSjfuDOj4MjC9WPBVLvuvW+lFBmHMJHURnXp4oDE="
   },
   "skwportfolio": {
     "version": "0.5.1",
@@ -53429,13 +53434,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "solver": {
-    "version": "0.2.14",
+    "version": "0.2.15",
     "t3_versions": [
       11,
       12
     ],
     "description": "Extends TYPO3's exception handling with AI generated solutions. Problems can also be solved from command line. Several OpenAI parameters are configurable and prompts and solution providers can be customized as desired.",
-    "hash": "sha256-vuSDnHsR3KTAeIAHypr5K/5gMg9vw2HRWcnHsXySOws="
+    "hash": "sha256-Loh2QsAfcKaVlbehZO9xAyKgOWgz7NDniZo9IGTIxHM="
   },
   "sorp": {
     "version": "0.1.0",
@@ -54341,12 +54346,12 @@
     "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
   },
   "start": {
-    "version": "10.3.7",
+    "version": "10.3.9",
     "t3_versions": [
       10
     ],
     "description": "Start extends TYPO3 with the responsive framework Foundation (Zurb), a dozen responsive Backend Layouts and some responsive Gridelements. It enables editors, to create responsive nested layouts within a few minutes. It extends some backend forms for controlling the display of content elements depending on devices like smartphones, tablets and desktops. It extends TYPO3 content elements and menus with some helpful responsive Foundation features. A template for a responsive newsletter is included.",
-    "hash": "sha256-OnGbB/0Tk0Xdz7wukjw8L+yvcTZd7HiSemfJa24uKFw="
+    "hash": "sha256-D3fqGabGiFjAISUZBisKw5+wwRQ1APXJMogSr06CyDg="
   },
   "startcustomer": {
     "version": "8.7.12",
@@ -54367,12 +54372,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "startgreen": {
-    "version": "10.3.2",
+    "version": "10.4.0",
     "t3_versions": [
       10
     ],
     "description": "TYPO3 für BÜNDNIS 90/DIE GRÜNEN. TYPO3 GRUENE ist ein Template und liefert eine Website im Design von BÜNDNIS 90/DIE GRÜNEN. Es ist responsive, optimiert für Smartphone, Tablet und Desktop. Mit Launch TYPO3 GRUENE! kannst Du eine schlüsselfertige GRÜNE Website in Betrieb nehmen. Bürgerinitiativen, Verbände und Vereine können mit wenigen Handgriffen das Grüne Design entfernen. Website: https://typo3-gruene.de/",
-    "hash": "sha256-BlQiNXarzsF41Lqeg3kgn9yL5uiy57KIRZTyd3jbwlY="
+    "hash": "sha256-aP0HhLQeyAcPyN523KnDq+JY4yFKL7LJgHXU+mdn1Wo="
   },
   "starthansekontor": {
     "version": "0.0.4",
@@ -63353,12 +63358,12 @@
     "hash": "sha256-iM1zb6VUJMaSf/kBAMS/gJmRPCYAXh34cd/HNI7X37s="
   },
   "warming": {
-    "version": "3.1.0",
+    "version": "3.2.0",
     "t3_versions": [
       12
     ],
     "description": "Warms up Frontend caches based on an XML sitemap. Cache warmup can be triggered via TYPO3 backend or using a console command. Supports multiple languages and custom crawler implementations.",
-    "hash": "sha256-eUSo28lgR2pjxEA4TP9zz4Vdx6AusWv45meEbROdvRg="
+    "hash": "sha256-cH7rAA50dkwDjIa4iG26Gq64NA9XKHdlC+Lle256vDw="
   },
   "warmup": {
     "version": "1.3.1",
@@ -66147,14 +66152,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "yoast_seo": {
-    "version": "9.0.3",
+    "version": "10.0.0",
     "t3_versions": [
-      10,
       11,
       12
     ],
     "description": "Optimise your website for search engines with Yoast SEO for TYPO3. With this extension you get all the technical SEO stuff you need and will help editors to write high quality content.",
-    "hash": "sha256-uyDJm2OCT3xWtkxlUkuVoRok0qld+8OwPqrtVO+4Y8E="
+    "hash": "sha256-PGFo5IYYsZKbp1N5fsQ/rrIpBm7Kjd1S9u0Z48/rPyo="
   },
   "yoo_blockimage": {
     "version": "1.0.0",
