@@ -3405,14 +3405,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "autotranslate": {
-    "version": "1.1.1",
+    "version": "1.2.0",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "This extension provides automatic translation of pages and content elements via DeepL API.",
-    "hash": "sha256-YKApVzRIGPZAnAvEX6e1+e58ORmo80gFZrMGwcfuh4g="
+    "hash": "sha256-S5xFCaE1zcPiht/LxDTEJQz9deq12JOEZhcBFHhOWJk="
   },
   "autoupload_dummy": {
     "version": "1.0.2",
@@ -3605,12 +3605,12 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.324.2",
+    "version": "3.324.3",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-OAz1wLilPYWGEais+hYkoXuXG81JSduF371OAymMqIQ="
+    "hash": "sha256-kZdAUtr+U9Cp7bz6KCJzK12YK320g+Pk57Fo4+fMgm0="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -4513,13 +4513,10 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "belogin_images": {
-    "version": "5.1.0",
-    "t3_versions": [
-      11,
-      12
-    ],
+    "version": "7.0.0",
+    "t3_versions": [],
     "description": "Display random Background Images from different sources at your TYPO3 BackendLogin Page.",
-    "hash": "sha256-7tA/Q2h9OaxpwWWGHB+6JQJIGASASUExtvqOcH4UsaM="
+    "hash": "sha256-LNZ8vyobMbunb+N7Yji7yng+6Wl2cVGvz4+bY/kPXLc="
   },
   "bepagination": {
     "version": "0.1.0",
@@ -9876,13 +9873,13 @@
     "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
   },
   "container_wrap": {
-    "version": "1.1.1",
+    "version": "2.0.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Wrapper functions to make configuring b13/container easier",
-    "hash": "sha256-UM9X6AvEAJlfToFCcn3hkSnIPvHMuBkfwVG/yJRIIgg="
+    "hash": "sha256-j4TMzh6y8V19qTgMsyte6Tl0k7xat9EQ/e3vVjjqWxM="
   },
   "containeritems": {
     "version": "4.5.3",
@@ -13043,12 +13040,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "dce": {
-    "version": "3.2.2",
+    "version": "3.2.3",
     "t3_versions": [
       12
     ],
     "description": "Best flexform based content elements since 2012. With TCA mapping feature, simple backend view and much more features which makes it super easy to create own content element types.",
-    "hash": "sha256-8fzEKe7t6YyjtMrZ+SFTtX2tpyuQ01Arpu/2dQNbUFk="
+    "hash": "sha256-g4NdHO53/CJG6Ah1mpi527yWtQ+iJP10PqMHhPcH16Q="
   },
   "dcformcreator": {
     "version": "0.0.3",
@@ -21013,12 +21010,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "form_dynamic_recipient": {
-    "version": "3.0.0",
+    "version": "3.1.0",
     "t3_versions": [
       12
     ],
     "description": "Adds new form select type, which shows recipient records of a given page. This information can be used as dynamic recipient for the form data.",
-    "hash": "sha256-uPq/xMGbtKJ+QwuPnuR96fFhFvv0AfsrtBY54YYCibs="
+    "hash": "sha256-f78GoEFlrUusXBXNVCD1ZkJKLaprWKYFGG+GaNOqlrI="
   },
   "form_element_linked_checkbox": {
     "version": "4.0.0",
@@ -22191,13 +22188,13 @@
     "hash": "sha256-lydwyPy3VV4hU2/nQdSpq0JFmBgLF87rAK5NOA4F3KI="
   },
   "gdpr_extensions_com_cm": {
-    "version": "1.0.4",
+    "version": "1.0.5",
     "t3_versions": [
       11,
       12
     ],
     "description": "Ensure GDPR compliance effortlessly. Our advanced scanner meticulously checks your website for cookies, external resources, and security issues. Generate detailed reports for validation and peace of mind.",
-    "hash": "sha256-gJ9UpT+V9LnrdfPOvn+xJjvsUZqlmiS8eD2R1gwBxEg="
+    "hash": "sha256-ctxTP1vWJ5U0qH7ki9eGj63uyyXfFrgIuu0vA02R+uc="
   },
   "gdpr_extensions_com_gm": {
     "version": "1.0.0",
@@ -22281,22 +22278,22 @@
     "hash": "sha256-K7KhsoxNvs9b5dpZa8K9nWZx2apgdXhpSvoZ+J9tuQE="
   },
   "gdpr_extensions_com_gt": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Track your website viewers behavior and get your user analytics but only if they consent to!. Stay GDPR compliant when your website is scanned by any Cookie or GDPR Scanner, when using Google Analytics.",
-    "hash": "sha256-wkPEI6KHMEKrf+4/IznfuFLoXMSHTxLTpkb/G1SSivs="
+    "hash": "sha256-sbu25IMRvxHXYDQtOIaGyw9kNu0cVHWHP1N4VfY7JXY="
   },
   "gdpr_extensions_com_mt": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Track your website viewers behavior and get your user analytics but only if they consent to! Stay GDPR compliant when your website is scanned by any Cookie or GDPR Scanner, when using Matomo Analytics.",
-    "hash": "sha256-o0jUdYh13vWGC1Hl5QQzgmO5yp6DAVZ9X/diIJ/4sgY="
+    "hash": "sha256-EuBNGhbFTdSzm/ihEoGpvpAdtt1LO3vd+l3qcquAfik="
   },
   "gdpr_extensions_com_sfc": {
     "version": "1.0.1",
@@ -33345,13 +33342,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mbox": {
-    "version": "2.1.0",
+    "version": "3.0.0",
     "t3_versions": [
-      11,
       12
     ],
     "description": "TYPO3 CMS backend module to view mbox file contents, like an email client.",
-    "hash": "sha256-6MRkcVWkmqWbzWKs9OAg9uuNcIK7v9dQ2bSTTl3juGo="
+    "hash": "sha256-7kSF+ntiTzW/F6qeMiSqkygDWfVdum4PJwVMH6mINRM="
   },
   "mbox_userimport": {
     "version": "0.0.1",
@@ -37370,12 +37366,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "myflat": {
-    "version": "1.2.1",
+    "version": "1.3.0",
     "t3_versions": [
       12
     ],
     "description": "Flat manager, shows bookings of holiday flats in calendars, availability check included.",
-    "hash": "sha256-C8MtZalOnG+WWWADTOKl7vnVnvGdkoF6JAPQlnd3kLM="
+    "hash": "sha256-jz5Nb4L22h3OAXAuRCUVX8CRJA9q4yxGcXDv6v+ehR4="
   },
   "mygeshi": {
     "version": "1.0.0",
@@ -37384,13 +37380,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "myleaflet": {
-    "version": "1.8.9",
+    "version": "2.0.0",
     "t3_versions": [
-      11,
       12
     ],
     "description": "Leaflet / OpenStreetMap for tt_address data with radial search and categories. No registration and no API-keys necessary.",
-    "hash": "sha256-gusO/duN1AHz3gqq417Ys/jd8pUwXga3O9z8yEndSRk="
+    "hash": "sha256-/fGcLGnDrfc33j21H/H0NxiGRCMjBFtcbeaB2bHXPhQ="
   },
   "mymap": {
     "version": "1.7.5",
@@ -37487,13 +37482,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "myttaddressmap": {
-    "version": "2.2.6",
+    "version": "2.3.2",
     "t3_versions": [
-      11,
       12
     ],
     "description": "Google maps for tt_address with radial search and categories",
-    "hash": "sha256-jK4vQCtxlK4XpocmZYSKJvW5F9/7xIl46bVLaYYGu4M="
+    "hash": "sha256-9sI+xoCxGhGLavmT7K8GFCf79Q1pBb4HC2QVgOdTRm0="
   },
   "mytypo3": {
     "version": "0.1.1",
@@ -43285,12 +43279,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "photoswipe": {
-    "version": "2.0.8",
+    "version": "2.0.9",
     "t3_versions": [
       12
     ],
     "description": "Enables Photoswipe for TYPO3's native image enlargement. Small js-lib and easy to install. It just works with plain javascript, no jQuery or other frameworks are needed.",
-    "hash": "sha256-VIWPZiH3v0zPfhd9PGx/HEDBkHwuFmDJhk/LAdDmOZo="
+    "hash": "sha256-dYEB1eRMQFtSXMb0iJFlIEYTEGdDbJWBOHKv3kPopOA="
   },
   "php_acceleration": {
     "version": "0.1.1",
@@ -44366,12 +44360,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "powermail": {
-    "version": "12.4.2",
+    "version": "12.4.3",
     "t3_versions": [
       12
     ],
     "description": "Powermail is a well-known, editor-friendly, powerful",
-    "hash": "sha256-V8yEUdjBiSw8ZmFGvp+Kqhyq1KoNEMTvCHytXvdW0eg="
+    "hash": "sha256-dvVJTUQzH9hW9whgXfboP1rLSK7uJWiGa5+YUqqoqkQ="
   },
   "powermail2document": {
     "version": "1.6.1",
@@ -44921,6 +44915,14 @@
     "t3_versions": [],
     "description": "This provide a easy way to document the roadmap of your application.",
     "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
+  },
+  "project_timeline": {
+    "version": "1.0.0",
+    "t3_versions": [
+      12
+    ],
+    "description": "Show your project history/timeline",
+    "hash": "sha256-U0bYJvxlmkgDnUvf3bF/3Kn8dsauczVRfJnqh+ko2wo="
   },
   "project_version": {
     "version": "1.0.0",
@@ -51753,13 +51755,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sitemap_locator": {
-    "version": "0.1.7",
+    "version": "0.1.8",
     "t3_versions": [
       11,
       12
     ],
     "description": "Looks up XML sitemaps as part of a configured site. Supports various sitemap providers, e.g. by configured page type or robots.txt, and allows to implement custom providers.",
-    "hash": "sha256-gqLnmDrPzTy2fQxxAybSR53QFY60vbANdz+4y4Rz3fg="
+    "hash": "sha256-MNw7EsEgfOKImz0zyvMP4Mjpna89Idlz+iXHgmp0uqM="
   },
   "sitemap_robots": {
     "version": "0.1.6",
@@ -53918,20 +53920,20 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sr_feuser_register": {
-    "version": "12.4.5",
+    "version": "12.4.6",
     "t3_versions": [
       12
     ],
     "description": "A self-registration variant of Kasper Skårhøj's Front End User Admin extension for TYPO3 CMS.",
-    "hash": "sha256-hnP/j0rp1S96+k1KVNMB8kgxRjwTsgflVFYUjvE6AWY="
+    "hash": "sha256-MCRNRnVCFWHNp5S44DPVb5YaluCB0Ehxi2QL4A++1cg="
   },
   "sr_freecap": {
-    "version": "12.4.4",
+    "version": "12.4.5",
     "t3_versions": [
       12
     ],
     "description": "A TYPO3 integration of freeCap CAPTCHA.",
-    "hash": "sha256-emXqYmax/zAyhXFACOoNwyeJoZSfP1M0NssgdZjYtxw="
+    "hash": "sha256-mimQ7CdjVR+DnV0NtKCc+boZlRe4MozAGKrjKvGlamI="
   },
   "sr_guestbook": {
     "version": "2.0.0",
@@ -54454,12 +54456,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "static_info_tables": {
-    "version": "12.4.3",
+    "version": "12.4.4",
     "t3_versions": [
       12
     ],
     "description": "Data and API for countries, languages and currencies for use in TYPO3 CMS.",
-    "hash": "sha256-eYNOhs5JJgr0cVKLdqex8Xectv8oOZmAGNpcif7kdpY="
+    "hash": "sha256-NfyQN2uv+dQ+yHN6ur5veRzFqJ8lY4rutePKcrmfqgc="
   },
   "static_info_tables_airports": {
     "version": "0.1.0",
@@ -55584,13 +55586,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "syntax": {
-    "version": "3.0.0",
+    "version": "4.0.0",
     "t3_versions": [
-      11,
       12
     ],
     "description": "Lightweight, robust, elegant syntax highlighting based on PrismJS",
-    "hash": "sha256-ngBgDtb6HBfYK6R5G1loccbFfgRcRQJbi9MM02MkLtA="
+    "hash": "sha256-S4FrrAuRbUo7oUNqD2PMPoIemPF4QCcowwjM1UiF7FI="
   },
   "syntaxhighlight": {
     "version": "1.0.0",
@@ -55698,13 +55699,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "syssy": {
-    "version": "3.0.3",
+    "version": "3.0.4",
     "t3_versions": [
       11,
       12
     ],
-    "description": "The extension connects your website to SYSSY and helps you manage and monitor your website. You receive notifications about website outages and security issues in TYPO3 and extensions.",
-    "hash": "sha256-UY2nNbkO/GObpT1+xiCp931uDuNK9CbdNnl3owfI5jc="
+    "description": "Connects your website to SYSSY.net to monitor your website. Get informed about website outages and security issues in TYPO3 and extensions.",
+    "hash": "sha256-P+vHqWAtW19GIre3+v0bTxMSXXHA+Fob3DMnibgqyv0="
   },
   "system_control": {
     "version": "0.0.8",
@@ -55932,12 +55933,12 @@
     "hash": "sha256-1sVO90DqRum2QMl7PXb4mz7TW6K54nlEiX4NGfwtupA="
   },
   "t3api": {
-    "version": "3.0.3",
+    "version": "3.0.4",
     "t3_versions": [
       12
     ],
     "description": "REST API for your TYPO3 project. Config with annotations, build in filtering, pagination, typolinks, image processing, serialization contexts, responses in Hydra/JSON-LD format.",
-    "hash": "sha256-kqzM43viGRgqNZjxurKNPU6W7t7zRGGQYQWoKg1x52I="
+    "hash": "sha256-gR8b4fya1tDnY1mBbVBFjbmjea4VPwHKOb8Fx+cLnRc="
   },
   "t3blog": {
     "version": "1.2.0",
@@ -58831,13 +58832,13 @@
     "hash": "sha256-V7UlPSqLKD5kapOcSId6gQRbKlTuz/HlU1qUOwCeGlI="
   },
   "tile_proxy": {
-    "version": "1.2.7",
+    "version": "1.2.8",
     "t3_versions": [
       11,
       12
     ],
     "description": "Integrate OpenStreetMap without the need for a cookie banner or content blocker - that is the purpose of ext:tile_maps. All requests for map tiles are routed through a configurable proxy url within your TYPO3-system. Since the client browser does not directly requests the OpenStreetMap-server no user confirmation and no content blockers are necessary (GDPR compliant). A proxy is also provided for geocoding nominatim. For a certain area (as specified in the TYPO3-backend) the tiles are cached to improve performance.",
-    "hash": "sha256-EehZZqMXDS6JbEqDZGedAiupLl4p2O7/2+bIQpBLiEk="
+    "hash": "sha256-CfIebxeWhOBzlFsb96XkFI7zxVzLprVJ1ge9JPj95BI="
   },
   "timecollect": {
     "version": "0.0.1",
@@ -59125,10 +59126,10 @@
     "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
   },
   "tinyurls": {
-    "version": "13.2.0",
+    "version": "13.4.0",
     "t3_versions": [],
     "description": "This extensions allows you to cut down long URLs. It basically works like bitly or TinyURL.",
-    "hash": "sha256-fgVqVf9IGi51HJNX6gQW7ifo3R3zIssWFleR9ETdA/g="
+    "hash": "sha256-DBDaAv1CNdNB13twUVur2EM5LasZT9Efokue2a9Gd4Y="
   },
   "tipafriend": {
     "version": "1.2.4",
@@ -63358,12 +63359,12 @@
     "hash": "sha256-iM1zb6VUJMaSf/kBAMS/gJmRPCYAXh34cd/HNI7X37s="
   },
   "warming": {
-    "version": "3.2.0",
+    "version": "3.2.1",
     "t3_versions": [
       12
     ],
     "description": "Warms up Frontend caches based on an XML sitemap. Cache warmup can be triggered via TYPO3 backend or using a console command. Supports multiple languages and custom crawler implementations.",
-    "hash": "sha256-cH7rAA50dkwDjIa4iG26Gq64NA9XKHdlC+Lle256vDw="
+    "hash": "sha256-2AVOQUxCbNpanLVSgUg1Hkt8erAIZg+8fHmsvgA13M8="
   },
   "warmup": {
     "version": "1.3.1",
