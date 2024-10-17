@@ -1090,13 +1090,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "additional_tca": {
-    "version": "1.15.10",
+    "version": "1.15.11",
     "t3_versions": [
       11,
       12
     ],
     "description": "Additional TCA fields and tools",
-    "hash": "sha256-lazPpZF6VpY3RHgpTlBBIlKEFE/wh+P+eZp4Q6/7XzY="
+    "hash": "sha256-sUdO1J3nTuH1OTi4nKPAlkNBQiT3BR0y/1V382XantA="
   },
   "addlinkheader": {
     "version": "0.0.4",
@@ -1124,12 +1124,12 @@
     "hash": "sha256-Qx7pEfxHzU21N5I2lCBk34qUvM/L0Ij1XDE7AIhUKNI="
   },
   "address": {
-    "version": "12.0.4",
+    "version": "12.0.5",
     "t3_versions": [
       12
     ],
     "description": "Address extension with multiple contact types per address. Code is based on news extension.",
-    "hash": "sha256-SokGV0pAsoOsBT6UJAz9lJT3Z+L/eVRjTvAfsUOIC20="
+    "hash": "sha256-pPfIqoSqDJDWCvIaWGkG4/RSJCXtyQFaJRbVrEtcrpg="
   },
   "address_manager": {
     "version": "4.0.7",
@@ -3605,12 +3605,12 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.324.3",
+    "version": "3.324.4",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-kZdAUtr+U9Cp7bz6KCJzK12YK320g+Pk57Fo4+fMgm0="
+    "hash": "sha256-/FiloVxP/et3388DXOGmSBvtf9rNJzP+7sPXEvpQaQY="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -4942,13 +4942,12 @@
     "hash": "sha256-ri5KkgZAoUCpjo27Z1tieNLrjm5ybj5QszyIP2E8sVA="
   },
   "blog": {
-    "version": "12.0.2",
+    "version": "13.0.0",
     "t3_versions": [
-      11,
       12
     ],
     "description": "This blog extension uses TYPO3s core concepts and elements to provide a full-blown blog that users of TYPO3 can instantly understand and use.",
-    "hash": "sha256-8VXmI1h05n6YaLaV9b0dOHehoKKMpOzlTT4zjWkQopI="
+    "hash": "sha256-sVFsSnysnTM33GBerCd0tk4IukeT4nGFufJeQ6V7IjU="
   },
   "blog_author": {
     "version": "1.0.0",
@@ -7198,12 +7197,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cart_products": {
-    "version": "5.0.4",
+    "version": "5.0.5",
     "t3_versions": [
       12
     ],
     "description": "Shopping Cart(s) for TYPO3 - Products",
-    "hash": "sha256-1AeXxoYrNY5IxcqM4xU5c3bAh6RUDAGTvaQsqiS417k="
+    "hash": "sha256-MjAJSdjUPpZt+O5m79BcHEtNG7RBuFbsE37OX/TRuUk="
   },
   "cart_saferpay": {
     "version": "3.0.1",
@@ -22179,13 +22178,12 @@
     "hash": "sha256-qBVY2bz+NMMq0BayI8rKDy02+YD0mmergpPdiXEx6Ks="
   },
   "gdpr_extensions_com_bmap": {
-    "version": "1.0.1",
+    "version": "1.0.3",
     "t3_versions": [
-      11,
-      12
+      11
     ],
     "description": "",
-    "hash": "sha256-lydwyPy3VV4hU2/nQdSpq0JFmBgLF87rAK5NOA4F3KI="
+    "hash": "sha256-0QfpVMdp1qpGMSE9f+nVWc7CbvSHpPXq6932bmo/4Mc="
   },
   "gdpr_extensions_com_cm": {
     "version": "1.0.5",
@@ -22206,13 +22204,13 @@
     "hash": "sha256-m19W94s3KTfDNoL2AGUJc6HtANvfK6zApU5I7lOiEAY="
   },
   "gdpr_extensions_com_gmap": {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "Add Google Maps with single or multi location markers to your website and stay GDPR compliant! Your website viewers will be able to manage their cookie preferences and view the content only if consented. Stay GDPR compliant when your website is scanned by any Cookie or GDPR Scanner!",
-    "hash": "sha256-vpiY4HlMtCljI62RZQEoKfM9pZHg876Ytpq7o6oL0AM="
+    "hash": "sha256-lz/NhB0dWS86Xppn3a5+1lqQhHjGfBJiLjHBKJ4GqnM="
   },
   "gdpr_extensions_com_grh": {
     "version": "1.0.0",
@@ -22305,22 +22303,22 @@
     "hash": "sha256-aFAReYNAkr8ocojyMapH+9YdoBt5upv7+GDXniWstr4="
   },
   "gdpr_extensions_com_tiktok": {
-    "version": "1.0.5",
+    "version": "1.0.6",
     "t3_versions": [
       11,
       12
     ],
     "description": "Add TikTok videos to your website and stay GDPR compliant! Your website viewers will be able to manage their cookie preferences and view the content only if consented. Stay GDPR compliant when your website is scanned by any Cookie or GDPR Scanner!",
-    "hash": "sha256-xCLOFin4pSGBF5gpMkEIUEVu4+w4T+x5kwVzDgCDY+8="
+    "hash": "sha256-45oGG2GsRw09GTS3DUx9F9FgQ6mvj+6uGnD5wCU9XAY="
   },
   "gdpr_extensions_com_vimeo": {
-    "version": "1.0.8",
+    "version": "1.0.9",
     "t3_versions": [
       11,
       12
     ],
     "description": "The GDPR Vimeo 2 Click Solution, brought to you by GDPR-Extensions.com, is a feature-rich solution designed to empower website owners in effectively managing Vimeo videos and bolstering user privacy.",
-    "hash": "sha256-kvsGDyCd/nyUTg8dZ+83aih1bp4/irv4mtCnfUnaeKs="
+    "hash": "sha256-JKmFllx4CbYrrnuOw+XSq2XqeRJox1I8LqoXOoot/tk="
   },
   "gdpr_extensions_com_wm": {
     "version": "1.0.0",
@@ -22331,22 +22329,22 @@
     "hash": "sha256-mTJNr9ruSpKiuan6222iSouGt8kqODW2vxxKmacYDiM="
   },
   "gdpr_extensions_com_youtube": {
-    "version": "1.0.5",
+    "version": "1.0.6",
     "t3_versions": [
       11,
       12
     ],
     "description": "The GDPR Youtube 2 Click Solution, brought to you by GDPR-Extensions.com, is a feature-rich solution designed to empower website owners in effectively managing Youtube videos and bolstering user privacy.",
-    "hash": "sha256-aH9TTPKXvwR8MR+ltkqBnqTZ7Fx3LIjLZ59NyIoe3WQ="
+    "hash": "sha256-8+RPZBikn8qFpg9hE+kWWhI+jjOmMvNgPsJQYg7mZvg="
   },
   "gdpr_extensions_com_ytshorts": {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "The GDPR Youtube Shorts 2 Click Solution, brought to you by GDPR-Extensions.com, is a feature-rich solution designed to empower website owners in effectively managing Youtube short videos and bolstering user privacy.",
-    "hash": "sha256-OqpIbVG/bZsKvjnTri5Bm+h4YoOSWJL2yGLmBEO/D0U="
+    "hash": "sha256-1qQ40ukEXl8P7sj2LRFZR1wuciEGOPlqb+Npad3NmvY="
   },
   "gdpr_youtube": {
     "version": "1.0.0",
@@ -25687,13 +25685,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ig_ldap_sso_auth": {
-    "version": "3.8.0",
+    "version": "4.0.0",
     "t3_versions": [
-      10,
-      11
+      11,
+      12
     ],
     "description": "This extension provides LDAP support for TYPO3 by delegating the authentication of frontend and/or backend users to the centrally-managed directory of your organization. It fully supports OpenLDAP and Active Directory and is capable of connecting securely to the authentication server using either TLS or SSL (ldaps://).",
-    "hash": "sha256-iblfO847lsIIeELWM1AWyMFZAHBNzaChwIAFgzCdGso="
+    "hash": "sha256-mo6bILETRG0okwxLh98cgM7XSsc1tDQZCmnENJ0UOtE="
   },
   "ig_log404errors": {
     "version": "1.0.0",
@@ -26254,13 +26252,13 @@
     "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
   },
   "in2frontendauthentication": {
-    "version": "9.0.0",
+    "version": "9.0.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Authenticate every visitor as a defined frontend user if IP matches",
-    "hash": "sha256-Ybb7Hol6RMcd9OtLtTjU6WmHr+TcB8ciYxq30nm7f8g="
+    "hash": "sha256-66N0Xf1+lt8z8JEqDo6EYdHuw/9B3NWviy5dYFVWZqY="
   },
   "in2help": {
     "version": "7.0.1",
@@ -32041,22 +32039,22 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "lux": {
-    "version": "36.5.0",
+    "version": "36.5.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Living User Experience - LUX - the Marketing Automation tool for TYPO3.",
-    "hash": "sha256-SgY6H5ZRlsU9FAN8wXF0JV47cpclCmt6utweTtxwmC8="
+    "hash": "sha256-ViSh3Aq0quMIkcOFMu0cw2m1CCDmP5GM4i006NIVE00="
   },
   "luxletter": {
-    "version": "26.3.0",
+    "version": "26.3.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Free newsletter extension for TYPO3 for an individual email marketing. A lot of analytics and modern concepts. Works with and without EXT:lux.",
-    "hash": "sha256-W797FolbR9/DTHl1pkti4SW3qqbaj5y23gG43tJymso="
+    "hash": "sha256-nk8b6AvCB3/lzULXz1pQUQMsSNepGU1RsPtvxlpfMsg="
   },
   "lvcleantemp": {
     "version": "1.0.4",
@@ -39883,12 +39881,10 @@
     "hash": "sha256-UIhobi3TjLBMJT3wLXqTjETstRyk7i9MqFt8vtOmqWo="
   },
   "ns_theme_agency": {
-    "version": "12.0.0",
-    "t3_versions": [
-      12
-    ],
+    "version": "13.0.0",
+    "t3_versions": [],
     "description": "Agency TYPO3 template is the ultimate tool to kickstart your project, either a software development company or a product startup or any new business. Live-Demo: https://demo.t3planet.com/?theme=t3t-agency PRO version: https://t3planet.com/t3-agency-free-business-typo3-template",
-    "hash": "sha256-Iyxc+LKptf4UBYTpYWwK/sGbbJA3S3wR9M7bHkVUIQw="
+    "hash": "sha256-wcGk40uWjE7VMIou2VRvaZ7hMKUHWDyyx3vBGcTG9+M="
   },
   "ns_theme_cleanblog": {
     "version": "12.0.2",
@@ -39916,20 +39912,16 @@
     "hash": "sha256-4QT5PQ+kht4V+mGCSr+iyi4N3tL20NjF4azcHqcqVIA="
   },
   "ns_theme_freelancer": {
-    "version": "12.0.0",
-    "t3_versions": [
-      12
-    ],
+    "version": "13.0.0",
+    "t3_versions": [],
     "description": "Every freelancer dream just came true, as we have ve made T3 freelancer, Free TYPO3 Portfolio Template! Live-Demo: https://demo.t3terminal.com/?theme=t3t-freelancer PRO-version: https://t3terminal.com/t3-freelancer-free-typo3-portfolio-template",
-    "hash": "sha256-Zs2n74V6Q39qlPdBYXuWI4i43MTG7PrAMRbc1d653Kw="
+    "hash": "sha256-W3T9fpk+gIdfbpn1dToIMZ8axDlMzxnBdIe7PCIQkxE="
   },
   "ns_theme_newage": {
-    "version": "12.0.0",
-    "t3_versions": [
-      12
-    ],
+    "version": "13.0.0",
+    "t3_versions": [],
     "description": "T3 New Age Landing TYPO3 Template is a Bootstrap minimal app landing page. This template has been designed for any need to showcase app or website, app landing page. Built it with twitter bootstrap 3, HTML5, CSS3 and SASS. Live-Demo: https://demo.t3planet.com/?theme=t3t-newage Pro-Version & Support: https://t3planet.com/t3-new-age-landing-typo3-template",
-    "hash": "sha256-Qjxh3K+0GT1c/BXp29lldSrx2UAMntKD+RI3Vm1GVM0="
+    "hash": "sha256-aZ7AIKODbYVjaenoP2vwYBX/FMzOcugpOoFfTCBuBCg="
   },
   "ns_theme_t3nitsan": {
     "version": "1.0.0",
