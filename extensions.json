@@ -9881,13 +9881,13 @@
     "hash": "sha256-j4TMzh6y8V19qTgMsyte6Tl0k7xat9EQ/e3vVjjqWxM="
   },
   "containeritems": {
-    "version": "4.5.3",
+    "version": "5.0.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "EXT:container layouts for columns, accordions, carousels, content sections and boxes. Demo at: https://microtemplate.t3brightside.com",
-    "hash": "sha256-xA/CcwFh1b7B/dXh62V3JzfGEZyACAgmHu3z289zM10="
+    "hash": "sha256-Uwobxdz4lwvPOsQxhBzdNtGNton61BWyDexEcN7xZes="
   },
   "content2rss": {
     "version": "0.2.0",
@@ -22204,13 +22204,13 @@
     "hash": "sha256-m19W94s3KTfDNoL2AGUJc6HtANvfK6zApU5I7lOiEAY="
   },
   "gdpr_extensions_com_gmap": {
-    "version": "1.0.2",
+    "version": "1.0.3",
     "t3_versions": [
       11,
       12
     ],
     "description": "Add Google Maps with single or multi location markers to your website and stay GDPR compliant! Your website viewers will be able to manage their cookie preferences and view the content only if consented. Stay GDPR compliant when your website is scanned by any Cookie or GDPR Scanner!",
-    "hash": "sha256-lz/NhB0dWS86Xppn3a5+1lqQhHjGfBJiLjHBKJ4GqnM="
+    "hash": "sha256-TRkO9kZB6xemDG26zdJ0a4O0K5S8ddA0ns5ZD7vi5JU="
   },
   "gdpr_extensions_com_grh": {
     "version": "1.0.0",
@@ -22284,6 +22284,15 @@
     "description": "Track your website viewers behavior and get your user analytics but only if they consent to!. Stay GDPR compliant when your website is scanned by any Cookie or GDPR Scanner, when using Google Analytics.",
     "hash": "sha256-sbu25IMRvxHXYDQtOIaGyw9kNu0cVHWHP1N4VfY7JXY="
   },
+  "gdpr_extensions_com_mp": {
+    "version": "1.0.0",
+    "t3_versions": [
+      11,
+      12
+    ],
+    "description": "Track your website viewers behavior and get your user analytics but only if they consent to! Stay GDPR compliant when your website is scanned by any Cookie or GDPR Scanner, when using Meta Pixel Analytics.",
+    "hash": "sha256-AX87B2Du/dZkCK1ffTBjE7fEv+26Qg0QSadQGJyO0vA="
+  },
   "gdpr_extensions_com_mt": {
     "version": "1.0.1",
     "t3_versions": [
@@ -22293,14 +22302,23 @@
     "description": "Track your website viewers behavior and get your user analytics but only if they consent to! Stay GDPR compliant when your website is scanned by any Cookie or GDPR Scanner, when using Matomo Analytics.",
     "hash": "sha256-EuBNGhbFTdSzm/ihEoGpvpAdtt1LO3vd+l3qcquAfik="
   },
+  "gdpr_extensions_com_pinterest": {
+    "version": "1.0.0",
+    "t3_versions": [
+      11,
+      12
+    ],
+    "description": "Add Pinterest Board to your website and stay GDPR compliant! Your website viewers will be able to manage their cookie preferences and view the content only if consented. Stay GDPR compliant when your website is scanned by any Cookie or GDPR Scanner!",
+    "hash": "sha256-Pl8YwM+1QtTVYE0jSho3NN5/Ca2z3f0GnkpVFPx4wnM="
+  },
   "gdpr_extensions_com_sfc": {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "Add your social feed through curator.io with our 2xClick solution where the users can manage their cookie preferences any time!",
-    "hash": "sha256-aFAReYNAkr8ocojyMapH+9YdoBt5upv7+GDXniWstr4="
+    "hash": "sha256-I8Jz9+5Ep/MXZ+eLq4k7VfLbRlJ7Vu5dU1zZtlh+b28="
   },
   "gdpr_extensions_com_tiktok": {
     "version": "1.0.6",
@@ -22312,13 +22330,13 @@
     "hash": "sha256-45oGG2GsRw09GTS3DUx9F9FgQ6mvj+6uGnD5wCU9XAY="
   },
   "gdpr_extensions_com_vimeo": {
-    "version": "1.0.9",
+    "version": "1.0.10",
     "t3_versions": [
       11,
       12
     ],
     "description": "The GDPR Vimeo 2 Click Solution, brought to you by GDPR-Extensions.com, is a feature-rich solution designed to empower website owners in effectively managing Vimeo videos and bolstering user privacy.",
-    "hash": "sha256-JKmFllx4CbYrrnuOw+XSq2XqeRJox1I8LqoXOoot/tk="
+    "hash": "sha256-mPlR0CiqHOAx+7BREzpcMcNpXT1e4sGJPJPFmsTGIKg="
   },
   "gdpr_extensions_com_wm": {
     "version": "1.0.0",
@@ -29596,13 +29614,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ke_search": {
-    "version": "5.5.2",
+    "version": "6.0.0",
     "t3_versions": [
-      11,
       12
     ],
     "description": "Faceted fulltext search for TYPO3. Fast, flexible and easy to install and use. Indexes content directly from the databases. Features faceting / filtering, file indexing, images in result lists and respects access restrictions.",
-    "hash": "sha256-AQupnU6Vo+e6VLEDvsBx3EKLQs1+zatpqkMrXA5Felk="
+    "hash": "sha256-wSHeOg8Pi4Ot29VNCY7l59CEMFd0FtN/fMly+thmumQ="
   },
   "ke_search_dam_tags": {
     "version": "0.0.1",
@@ -61887,16 +61904,6 @@
     ],
     "description": "TYPO3 Oh Dear Health Check",
     "hash": "sha256-XOzv5hfunFRv80dx7yi6BsFxWAsCqPRwexm11RwzIAQ="
-  },
-  "typo3_phone": {
-    "version": "1.3.0",
-    "t3_versions": [
-      8,
-      9,
-      10
-    ],
-    "description": "This is just a placeholder. Install via composer to get all the dependencies!",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "typo3_sentry_client": {
     "version": "1.6.0",
