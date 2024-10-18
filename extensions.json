@@ -3605,12 +3605,12 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.324.4",
+    "version": "3.324.5",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-/FiloVxP/et3388DXOGmSBvtf9rNJzP+7sPXEvpQaQY="
+    "hash": "sha256-Ee6eHZUx1QavA7DFS0WA77hMeSPVQpt+lzWB0ykDEe4="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -38835,12 +38835,12 @@
     "hash": "sha256-qbyVJsT9CxkqjimQqPDEToxSKQ/aF+E2vlrZu3FrUa8="
   },
   "nginx_cache": {
-    "version": "3.0.2",
+    "version": "3.0.3",
     "t3_versions": [
       12
     ],
     "description": "Add cache control header and purge nginx cache",
-    "hash": "sha256-1F83I7GYFpNqHv30uzbv/BVOcAJC6wxVEBnBFtt7pJY="
+    "hash": "sha256-jNvgXpbrFWWp5CB/EQDAxxNl4JPTq27JGh1zJkfvnyk="
   },
   "nginx_connector": {
     "version": "1.0.2",
