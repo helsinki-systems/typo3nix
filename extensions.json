@@ -3605,12 +3605,12 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.324.5",
+    "version": "3.324.6",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-Ee6eHZUx1QavA7DFS0WA77hMeSPVQpt+lzWB0ykDEe4="
+    "hash": "sha256-rWyyDY43f7LwbrX3OaZReK7adI3FXUzdK9IwaDPHhZU="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -21177,13 +21177,12 @@
     "hash": "sha256-mdl+c92FpyNxfd3Dxwy5VVac9wL4EV8xgD7eVFkV17U="
   },
   "form_translator": {
-    "version": "2.0.4",
+    "version": "3.0.1",
     "t3_versions": [
-      11,
       12
     ],
     "description": "Provides a backend module and cli for translating forms.",
-    "hash": "sha256-0g7fZ6pEv3xz4E12dX5Iyyb77wlCgKuxKoDXiDtA5+4="
+    "hash": "sha256-TMolJO76mNkbUwRgzRHFXjJWiJwiTTxh/VGzzGyd7j4="
   },
   "form_typolink_checkbox": {
     "version": "2.0.0",
@@ -37395,12 +37394,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "myleaflet": {
-    "version": "2.0.0",
+    "version": "2.0.1",
     "t3_versions": [
       12
     ],
     "description": "Leaflet / OpenStreetMap for tt_address data with radial search and categories. No registration and no API-keys necessary.",
-    "hash": "sha256-/fGcLGnDrfc33j21H/H0NxiGRCMjBFtcbeaB2bHXPhQ="
+    "hash": "sha256-nlkuw784DHFyrUqkKshItZMKRhaWta0oWv9ljQHPP3A="
   },
   "mymap": {
     "version": "1.7.5",
@@ -50805,20 +50804,20 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sg_vimeo": {
-    "version": "4.2.1",
+    "version": "5.0.0",
     "t3_versions": [
       12
     ],
     "description": "A solution for embedding Vimeo videos, playlists, or channels easily into TYPO3 pages.",
-    "hash": "sha256-Zykwu+jAal16umkDdL5j52pqLMl19MTo5jrF+w0h+1g="
+    "hash": "sha256-aowD45mAGmxaPpoz/5b8Hjppb1xkYW/9BAm6x7nyHu0="
   },
   "sg_youtube": {
-    "version": "7.2.0",
+    "version": "8.0.0",
     "t3_versions": [
       12
     ],
     "description": "A solution for embedding YouTube videos, playlists, or channels easily into TYPO3 pages.",
-    "hash": "sha256-orCzmRbCeNElnqHsx6wrgdJoWN/ZfR/FOHv/UgaIIOo="
+    "hash": "sha256-M5M9+N0BLFCfq+0SxOPPafsuYt8kQkFQzDbPaNUA0w4="
   },
   "sg_zfeeditlib": {
     "version": "0.8.12",
@@ -55942,12 +55941,12 @@
     "hash": "sha256-1sVO90DqRum2QMl7PXb4mz7TW6K54nlEiX4NGfwtupA="
   },
   "t3api": {
-    "version": "3.0.4",
+    "version": "4.0.1",
     "t3_versions": [
       12
     ],
     "description": "REST API for your TYPO3 project. Config with annotations, build in filtering, pagination, typolinks, image processing, serialization contexts, responses in Hydra/JSON-LD format.",
-    "hash": "sha256-gR8b4fya1tDnY1mBbVBFjbmjea4VPwHKOb8Fx+cLnRc="
+    "hash": "sha256-5fTwnH0aF3IbRGNvPF+aESTz1t/AOmntSBoTqPqZ69M="
   },
   "t3blog": {
     "version": "1.2.0",
@@ -65633,13 +65632,13 @@
     "hash": "sha256-ulgy+0AL7Flve/7JvfkSMg/LLBZ5JpRnVy/iioDcnag="
   },
   "xima_typo3_recent_updates": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "A widget for the dashboard to display new and recently updated elements.",
-    "hash": "sha256-+LM9vGdZ8oAs7Zs1E91YOOr10++0TlU+Hx0bg+W4LAo="
+    "hash": "sha256-i2N34/yLifSG3L095yCtkYDuXTFqR4vk7v4fpsO79ww="
   },
   "xing": {
     "version": "1.0.3",
