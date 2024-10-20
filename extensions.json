@@ -3210,13 +3210,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "authtoken": {
-    "version": "2.3.0",
+    "version": "2.4.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Once installed you can create authentication tokens for frontend users in the backend. You can then retrieve protected pages by submitting this token as an \"X-User-Token\" with the header.",
-    "hash": "sha256-vvWIeivePaVn6EQb9w3VMlcGU7fSIfdSodjPPcfqeos="
+    "hash": "sha256-41/Nk2AeGLHwG9+SNrollkxdQm0lW5zW6JNgV28zjgU="
   },
   "auto404": {
     "version": "1.1.2",
@@ -3405,14 +3405,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "autotranslate": {
-    "version": "1.2.0",
+    "version": "1.2.1",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "This extension provides automatic translation of pages and content elements via DeepL API.",
-    "hash": "sha256-S5xFCaE1zcPiht/LxDTEJQz9deq12JOEZhcBFHhOWJk="
+    "hash": "sha256-FehGqlMOQLaEsfyPGnzDv3l4pmxiCLAku6lB6HV1zn4="
   },
   "autoupload_dummy": {
     "version": "1.0.2",
@@ -9847,13 +9847,12 @@
     "hash": "sha256-nojgxmC8j+XPLFm76DHFtvL1kWmSAQzZwGIl4IV9pQ0="
   },
   "container_elements": {
-    "version": "5.3.0",
+    "version": "6.0.0",
     "t3_versions": [
-      11,
       12
     ],
     "description": "Provides content elements powered by container and bootstrap. Available elements: container, columns, grid, tabs, accordion, tile unit, card, randomizer and slider.",
-    "hash": "sha256-aYyLpgWvnjN//echwJ6JdUXsr3KZMK1tqpmE5Our26Y="
+    "hash": "sha256-H8CLl2oNITtMnLNxKPaEuY1ZikToUK1lAIjk/tBo66c="
   },
   "container_example": {
     "version": "1.0.0",
@@ -18840,10 +18839,10 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fe_change_pwd": {
-    "version": "5.1.0",
+    "version": "5.2.0",
     "t3_versions": [],
     "description": "Plugin to enable password change for frontend users. Contains configurable password",
-    "hash": "sha256-xBhINWibOo1uth8RGayORvdH2pJ+VsMxvmkkMoGbQbg="
+    "hash": "sha256-rwhR7yCcknGZkK3M7Xc0sKO1+0dYgIHbKZPVRcLaPsE="
   },
   "fe_changelog": {
     "version": "3.1.0",
@@ -21089,14 +21088,10 @@
     "hash": "sha256-UOLvZAmdrImJlknw6xHe/IlNUjhE/JQ1MaS1I+GKou4="
   },
   "form_mailtext": {
-    "version": "2.1.4",
-    "t3_versions": [
-      10,
-      11,
-      12
-    ],
+    "version": "3.0.0",
+    "t3_versions": [],
     "description": "This extension enhances the Email finishers of EXT:form by a new field \"Mail text\" (message) that allows the editor to define the mail text within the form plugin in the backend.",
-    "hash": "sha256-1LFYemvwy3xOd6b5SQs7eOxJvCQGGkl2qIbEKN2geLE="
+    "hash": "sha256-+7M+LEfENI7iLruavSCPaDJik7sFH89TffsN+X6C/do="
   },
   "form_module_enhancer": {
     "version": "0.0.2",
@@ -33274,14 +33269,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mbi_products_categories": {
-    "version": "0.9.1",
+    "version": "0.10.0",
     "t3_versions": [
-      10,
       11,
       12
     ],
     "description": "Hierarchical categories for tt_products. Works with tt_products and other tables.",
-    "hash": "sha256-etQXKNcSqMaIc3cFV9tohGQZS2vKS1TFyHxIRJiI2pQ="
+    "hash": "sha256-/XH9d2WLeXmNN13rk7RmyFpAudhSmlcOn8qzXKPcdtc="
   },
   "mbi_products_orders": {
     "version": "0.1.1",
@@ -37402,13 +37396,12 @@
     "hash": "sha256-nlkuw784DHFyrUqkKshItZMKRhaWta0oWv9ljQHPP3A="
   },
   "mymap": {
-    "version": "1.7.5",
+    "version": "2.0.0",
     "t3_versions": [
-      11,
       12
     ],
     "description": "Google maps with radial search and hierarchic categories (category tree). Show the results in responsive Google maps, traffic- and bicycling layer included and can be activated via constant editor.",
-    "hash": "sha256-C4ihDxWXDNgEyIWg1e62itN0LN8bHU8nvMbVz4lWW+E="
+    "hash": "sha256-IT4wSNl8zJ322RPBFLU2/zIY+fjnPCtKzQfH4NIuJV0="
   },
   "mypuzz_ftp": {
     "version": "1.1.1",
@@ -37496,12 +37489,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "myttaddressmap": {
-    "version": "2.3.2",
+    "version": "2.3.3",
     "t3_versions": [
       12
     ],
     "description": "Google maps for tt_address with radial search and categories",
-    "hash": "sha256-9sI+xoCxGhGLavmT7K8GFCf79Q1pBb4HC2QVgOdTRm0="
+    "hash": "sha256-NoX/iwv4cs8wQ0kaHwoFt2as3FMhy1fIjviDiTrZllA="
   },
   "mytypo3": {
     "version": "0.1.1",
@@ -41352,13 +41345,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "org": {
-    "version": "11.0.12",
+    "version": "11.0.13",
     "t3_versions": [
       10,
       11
     ],
     "description": "The Organiser is a blog database for the lobby. It provides a lot of tables like boards, calendar, contacts, events, jobs, locations, news, organisers, staff, seminars and services.",
-    "hash": "sha256-F0HgBycFyaSYG4z+d+rGXWBNkft9wpa5TtypkAz0Qus="
+    "hash": "sha256-qB9co657gJDnDnEOT3fG/HmjGYvhCUPseDYBMQ8fqKM="
   },
   "org_installer": {
     "version": "8.0.22",
@@ -45343,12 +45336,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "pvh": {
-    "version": "2.0.0",
+    "version": "3.0.0",
     "t3_versions": [
-      11
+      12
     ],
     "description": "A collection of view helpers used by pizpalue. Contains copies from vhs view helpers by Claus Due.",
-    "hash": "sha256-NZFCriIWjTKaYNjxVvSMUEosW64QnfCbwLkilKqRZoE="
+    "hash": "sha256-uxpoF1n2xGs9xShgyRl/PrBEGfehtJ2X6z/BcJAZj68="
   },
   "pw_comments": {
     "version": "6.0.0",
@@ -48776,13 +48769,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "rx_shariff": {
-    "version": "15.1.2",
+    "version": "15.2.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Shariff implementation for TYPO3 CMS including the backend module, a viewhelper and a plugin.",
-    "hash": "sha256-B48aVNAp4zYp2+pVsBZsSRQ64CYpZsVwsGrnkYAXM50="
+    "hash": "sha256-S3ZbewU2IbeXfR0odDurLPeFSfSxKaWnGghvm3gkzRE="
   },
   "rx_unrollsavebuttons": {
     "version": "1.1.1",
@@ -50311,12 +50304,12 @@
     "hash": "sha256-TT4LeoLSjr03Nn1/HOwr0qLAUg/Kg4GD6IIQfs+PBeE="
   },
   "sf_event_mgt": {
-    "version": "7.5.1",
+    "version": "7.6.0",
     "t3_versions": [
       12
     ],
     "description": "Configurable event management and registration extension based on ExtBase and Fluid",
-    "hash": "sha256-aTfJzLAqv/7kaZq9JAPo4kW4/TBDMoKgZAgaCmzgGMQ="
+    "hash": "sha256-VTNiEcjEyJ1praS0Dk0JDjmDAKdicdiIVsE7qYIC7Is="
   },
   "sf_event_mgt_contentelements": {
     "version": "2.0.1",
@@ -65466,13 +65459,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "xblog": {
-    "version": "11.3.5",
+    "version": "11.3.6",
     "t3_versions": [
       10,
       11
     ],
     "description": "Quickly assemble a TYPO3 frontend! Publish the data from the tables pages, tt_content and from any other database! No need to set up typoscript.",
-    "hash": "sha256-LEmr1iX/G51W7TUno6gfhqgHX4K3uzlMQXyiwWf2a5E="
+    "hash": "sha256-Iwr3OmA/Q+/uwKKyOJrYqlvf/rfu4glPrhNlBxqtLu8="
   },
   "xdbmysql": {
     "version": "3.0.18",
