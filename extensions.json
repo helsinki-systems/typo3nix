@@ -482,6 +482,14 @@
     "description": "This extension supports TYPO3 administrators in performing A/B tests. This is useful when a site owner want to measure whether a new version improves or reduces user interaction compared to the current version.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "abuseip": {
+    "version": "1.0.2",
+    "t3_versions": [
+      12
+    ],
+    "description": "Middleware to block IP addresses from known sources",
+    "hash": "sha256-hx91I1QUVU4NWEqXCt3VqjVwTcJDFy9lUqEcAYqQYjY="
+  },
   "abz_core_domainlink": {
     "version": "0.1.0",
     "t3_versions": [],
@@ -1090,13 +1098,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "additional_tca": {
-    "version": "1.15.11",
+    "version": "1.15.12",
     "t3_versions": [
       11,
       12
     ],
     "description": "Additional TCA fields and tools",
-    "hash": "sha256-sUdO1J3nTuH1OTi4nKPAlkNBQiT3BR0y/1V382XantA="
+    "hash": "sha256-rBjciVFv3XVyD2V478cw9sOI+lCvC/SweN9eEvSn5Sw="
   },
   "addlinkheader": {
     "version": "0.0.4",
@@ -5281,14 +5289,14 @@
     "hash": "sha256-hUBmvTS6VfAKHagqjqE33mkQKxXidiBTEW0BSemiG4I="
   },
   "bootstrap_package_iconpack": {
-    "version": "0.3.0",
+    "version": "0.3.1",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Replaces the icons in bootstrap_package with iconpacks.",
-    "hash": "sha256-nSAVM73duvbT71TILB+NHq06a4A2aC/VgGU55vdYX6o="
+    "hash": "sha256-aQX5AVUoe06PGziywcC0x2J6G2n5izj2I01QiN75868="
   },
   "bootstrapicons": {
     "version": "0.0.1",
@@ -8952,13 +8960,13 @@
     "hash": "sha256-CyYYDj2w3a9nPtj3bnZfWMLJ3YAwhqhr0wga+jqzUX0="
   },
   "clubmanager": {
-    "version": "1.1.8",
+    "version": "1.1.9",
     "t3_versions": [
       11,
       12
     ],
     "description": "The TYPO3 module for managing clubs, foundations and associations. With Clubmanager, you get the tool to manage the organization AND public relations of your club or association in a cost-saving and effective way.",
-    "hash": "sha256-8edszI3FVOQuro7v/wilMcscI0s5eoHC9O1JCCqD3WM="
+    "hash": "sha256-EBOgGmoYzVt7JX0S+n+qUamJVsxiYEw3fAykbAXU8Ao="
   },
   "cm_ajax": {
     "version": "0.6.0",
@@ -19412,13 +19420,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "feusersmap": {
-    "version": "2.0.4",
+    "version": "2.1.2",
     "t3_versions": [
-      11,
       12
     ],
     "description": "OpenstreetMap for fe_users",
-    "hash": "sha256-T4UXrPA1l1tlqbpsqZFEAtgNCYJijIRQtMZTb1alC1c="
+    "hash": "sha256-dFr4yemy/IbB74a9mrZIo8jGxye6RWlGsj2kayc7wYE="
   },
   "fewishlist": {
     "version": "0.0.1",
@@ -22295,6 +22302,24 @@
     ],
     "description": "Track your website viewers behavior and get your user analytics but only if they consent to! Stay GDPR compliant when your website is scanned by any Cookie or GDPR Scanner, when using Matomo Analytics.",
     "hash": "sha256-EuBNGhbFTdSzm/ihEoGpvpAdtt1LO3vd+l3qcquAfik="
+  },
+  "gdpr_extensions_com_pint_pin": {
+    "version": "1.0.0",
+    "t3_versions": [
+      11,
+      12
+    ],
+    "description": "Add Pinterest Pin to your website and stay GDPR compliant! Your website viewers will be able to manage their cookie preferences and view the content only if consented. Stay GDPR compliant when your website is scanned by any Cookie or GDPR Scanner!",
+    "hash": "sha256-YKM6FO3uAK6CKvNIChCvXaIeURw4XeGrx1I6RTxOBps="
+  },
+  "gdpr_extensions_com_pint_prof": {
+    "version": "1.0.0",
+    "t3_versions": [
+      11,
+      12
+    ],
+    "description": "Add Pinterest Profile to your website and stay GDPR compliant! Your website viewers will be able to manage their cookie preferences and view the content only if consented. Stay GDPR compliant when your website is scanned by any Cookie or GDPR Scanner!",
+    "hash": "sha256-9JkYzbxr4pYYeVVBWIg26SxizNw5Q11o0xufq2v5rBY="
   },
   "gdpr_extensions_com_pinterest": {
     "version": "1.0.0",
@@ -30460,12 +30485,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "l10ntable_extended": {
-    "version": "1.0.2",
+    "version": "1.0.3",
     "t3_versions": [
       12
     ],
     "description": "With the assistance of this extension, the localization overview within the Info module gains an enhanced \"Edit all language overlay records\" button, featuring individually customizable fields. This empowers users to conveniently perform batch edits on configurable page fields on page translations.",
-    "hash": "sha256-Y0p2qokpg1GD+iAkeeMDEUpX9SHDvP+Il2Mfas1lyIU="
+    "hash": "sha256-/0Aw43fuCFgudsZ24VgYtsHfpRYG4JKw4RqFJgqBNtk="
   },
   "la_form": {
     "version": "1.0.1",
@@ -31681,13 +31706,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "login_link": {
-    "version": "1.0.0",
+    "version": "2.0.0",
     "t3_versions": [
-      11,
       12
     ],
     "description": "Fast way to login as different backend or frontenduser by generating a link including a one-time token within the backend.",
-    "hash": "sha256-HmxMZF5Q01OaOXdMFrLx1iFZax0qIW5QNiNLg26aCaE="
+    "hash": "sha256-N5uUH+bLo8Shvch5/B10s+kEOZpHsB3KicL0Rzrv6qg="
   },
   "loginbox_macmade": {
     "version": "0.3.5",
@@ -38268,13 +38292,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "news": {
-    "version": "11.4.2",
+    "version": "12.0.0",
     "t3_versions": [
-      11,
       12
     ],
     "description": "Versatile news system based on Extbase & Fluid and using the latest technologies provided by TYPO3 CMS.",
-    "hash": "sha256-EuFF4npBoQv0wMsV5OwoYj67jX0a79bKmh+klPN3JcQ="
+    "hash": "sha256-tjF/mpf3M4MyySHuQsu78zKpTZZ1HwYOBgvdQgMtkck="
   },
   "news2facebook": {
     "version": "1.1.0",
@@ -39562,12 +39585,12 @@
     "hash": "sha256-suSjOla2+RnkZqTCiS7B1iwM14elba2rxqfARJZRdiI="
   },
   "ns_disqus_comments": {
-    "version": "12.1.0",
+    "version": "13.0.0",
     "t3_versions": [
       12
     ],
     "description": "Using the TYPO3 Disqus Comment Extension you can connect DISQUS comments plugin into your website. This extension adds a DISQUS comments section to TYPO3 pages, allowing users to comment using their favorite social networks. Users can receive notifications about new replies, share messages, and engage with your content. ",
-    "hash": "sha256-IVd7OmCnyOdNbzHDFsEIplinM5L8ObdGzCA35cnH5kg="
+    "hash": "sha256-Bkd/9HyCIyhEGv2nsDpknNjxu/55zOfGHQPV07i/DqY="
   },
   "ns_event": {
     "version": "1.1.0",
@@ -39848,12 +39871,12 @@
     "hash": "sha256-xVFsaavQo/WR6o5/G4USI5sRsKyHHXTzUfHQXbwD5lc="
   },
   "ns_snow": {
-    "version": "12.1.0",
+    "version": "13.0.0",
     "t3_versions": [
       12
     ],
     "description": "Spread the joy of Christmas on your TYPO3 website with the Snowfall TYPO3 Extension. This addon, ns_snow, adds beautiful snowflakes and snowfall animation to all pages, creating a festive atmosphere. TYPO3 Snowfall Extension is also compatible with the latest TYPO3 Version 12. *** Live-Demo: https://demo.t3planet.com/t3-extensions/snow/ *** Documentation & Free Support: https://t3planet.com/typo3-snowfall-extension",
-    "hash": "sha256-aCFb5tPz9ZLwiKUlMtjsgcZBtpUNh7mhAzvSvKAYq5w="
+    "hash": "sha256-/nhITowPjqStS4ucbLeUTJMtWro2aFac7j/FeImKICw="
   },
   "ns_social_login": {
     "version": "1.0.0",
@@ -40046,7 +40069,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "numbered_pagination": {
-    "version": "2.0.0",
+    "version": "2.1.0",
     "t3_versions": [
       9,
       10,
@@ -40054,7 +40077,7 @@
       12
     ],
     "description": "Improved pagination for TYPO3 10+",
-    "hash": "sha256-KTPXVRN2g/AnDaMipwrfp1E29nbW3FGWJMKzXJLCcqk="
+    "hash": "sha256-Ulxqg6nIWo0xPO0cLtD2ByUYEKHWdRluOqvcTzKjBEU="
   },
   "nuxos_randompassword": {
     "version": "1.0.2",
@@ -43591,12 +43614,12 @@
     "hash": "sha256-aG8hHS6w0jslPOI0Sxdmn1uUQzih+hZDZyUunBjMjfE="
   },
   "picturecredits": {
-    "version": "2.2.0",
+    "version": "2.3.1",
     "t3_versions": [
       12
     ],
     "description": "Implements a central image rights management in FAL and automated rendering of picture credits on regular content pages.",
-    "hash": "sha256-8KUe4XvNVrs+pOTXl+DTV0xxw/4bwODblL4vUIT6cPA="
+    "hash": "sha256-rIyDpwEhUoZVUY9GErcr/7JlAWAkcwTcQa48adT7CEo="
   },
   "piflexformupdate": {
     "version": "0.0.3",
@@ -46787,13 +46810,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "replacer": {
-    "version": "3.0.3",
+    "version": "3.0.4",
     "t3_versions": [
       11,
       12
     ],
     "description": "Replaces string patterns from the page. You can use it to replace URLs for Content Delivery Network (CDN).",
-    "hash": "sha256-aChnhGyaO8v8HkXefUpA5i7hZkGp7wHfz4NFYn+Gd6E="
+    "hash": "sha256-P9jI3C4Ic/zB+Ibd7FHL9H9FRuW5Wwmwnxq/O1gRK3k="
   },
   "reqmngmt": {
     "version": "0.0.1",
@@ -50304,12 +50327,10 @@
     "hash": "sha256-TT4LeoLSjr03Nn1/HOwr0qLAUg/Kg4GD6IIQfs+PBeE="
   },
   "sf_event_mgt": {
-    "version": "7.6.0",
-    "t3_versions": [
-      12
-    ],
+    "version": "8.0.0",
+    "t3_versions": [],
     "description": "Configurable event management and registration extension based on ExtBase and Fluid",
-    "hash": "sha256-VTNiEcjEyJ1praS0Dk0JDjmDAKdicdiIVsE7qYIC7Is="
+    "hash": "sha256-Vx4z8zBNaKfjpj1g0hc0+tBg+d85Po3RHKP88B/6QcQ="
   },
   "sf_event_mgt_contentelements": {
     "version": "2.0.1",
@@ -60790,13 +60811,12 @@
     "hash": "sha256-rxTyr8sdmbtrGXs/SelghoQD5exSVRLPF2jTOsJcOPc="
   },
   "tsconf": {
-    "version": "11.0.0",
+    "version": "12.4.0",
     "t3_versions": [
-      10,
-      11
+      12
     ],
     "description": "The Backend Simplifier offers the configuration of the eight most commonly used porperties for simplifying the TYPO3 backend by a mouse cklick. User interface is the extension manager. Enable pagetree uids, use TYPO3 icons or indvidual icons for the pagetree, activate the extended view and the clipboard and the admin panel for all users.",
-    "hash": "sha256-+uNcOmbizKj3lbGKct06OAqK3F1wXdFa6tzF8SKEZIk="
+    "hash": "sha256-N4Hu40jaRFLSiGGvtqwd0V48RnQugjhWckMCiuAhjgE="
   },
   "tsdisqus": {
     "version": "2.1.0",
@@ -62776,13 +62796,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "video_shariff": {
-    "version": "3.1.0",
+    "version": "3.2.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "This extension provides more privacy when embedding videos in frontend.",
-    "hash": "sha256-X9sT5gKBc3gtZ8ollsPqynhWatO9cZrY7A7kOCWKcZ4="
+    "hash": "sha256-I2LoZfJtYJSQ4kdWV1JCHWXtUTe35TsSsRlduE9rF8g="
   },
   "video_validator": {
     "version": "3.0.1",
@@ -65617,12 +65637,12 @@
     "hash": "sha256-u+b2mji+2oOaaZ5SruLHYFoQsrlMnPI1VdBAMnk08RI="
   },
   "xima_typo3_manual": {
-    "version": "1.3.0",
+    "version": "1.3.1",
     "t3_versions": [
       12
     ],
     "description": "This extension provides a new page type for creating an editor manual right in the TYPO3 backend.",
-    "hash": "sha256-ulgy+0AL7Flve/7JvfkSMg/LLBZ5JpRnVy/iioDcnag="
+    "hash": "sha256-spQyBYwT1MFXqTrtEOyQ35La0Ku+5tbiW+3OqGl/gZI="
   },
   "xima_typo3_recent_updates": {
     "version": "1.0.1",
