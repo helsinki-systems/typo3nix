@@ -618,14 +618,14 @@
     "hash": "sha256-T0y6c/asLUIuO8IBscaJ+F50IHAiSeuZFbpt3Mlk24A="
   },
   "accelerator": {
-    "version": "12.4.15",
+    "version": "12.4.21",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Speed up your TYPO3 installation: add Critical CSS (Above The Fold) inline, minify the HTML of your website, use subdomains as CDN to reduce page load, manage proxy-caching (e.g with Varnish) via page-properties, reduce database size when storing JSON-arrays with persisted objects to the database",
-    "hash": "sha256-qyMutHrZuvKVrzKpceP6Deocp8inPBHm9MgHlGVf0go="
+    "hash": "sha256-+/A0D3hsN4oYKQkAuelqJk5X1rr4lrkwzZjCNVUCWyM="
   },
   "access_control_sync": {
     "version": "0.2.7",
@@ -1624,12 +1624,12 @@
     "hash": "sha256-mLO7/zsLctavB/gvr5k6AC7eiEf9qNvZ/9WPt9NvfxY="
   },
   "aimeos": {
-    "version": "24.7.2",
+    "version": "24.10.1",
     "t3_versions": [
       12
     ],
     "description": "Professional, full-featured and ultra-fast TYPO3 e-commerce extension for online shops, complex B2B applications and #gigacommerce. Turns TYPO3 into the best platform for content commerce and your e-commerce requirements (also available as TYPO3 distribution)",
-    "hash": "sha256-FW5TdZj0t4biIfNCLYtB406ev5fBk4qmOO66jtl7FPA="
+    "hash": "sha256-7X5SWlpVx31dLc9++kcvVE8vG+E42DF9QHG617+QZNE="
   },
   "aimeos_dist": {
     "version": "24.4.1",
@@ -3613,12 +3613,12 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.324.6",
+    "version": "3.324.7",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-rWyyDY43f7LwbrX3OaZReK7adI3FXUzdK9IwaDPHhZU="
+    "hash": "sha256-wQyqND9lQSaQee5y7d5FljW2Dv1Yl7LApWncgiMS4GY="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -30042,14 +30042,14 @@
     "hash": "sha256-AtNwNHCJ7ekU+Xg5e6M4Lt//eKH/TEV7O1tncRzrZ2s="
   },
   "klarokratie": {
-    "version": "12.4.6",
+    "version": "12.4.8",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Includes Klaro! Consent-Manager into TYPO3. Completely file-based configuration for versioning without having to take care of database-entries. This extension automatically adds a consent-overlay to embedded YouTube- and Vimeo-Videos.",
-    "hash": "sha256-GdaqJrol6fqL3riUAgA+XImQx3c4l0CTJRu86R6kHM4="
+    "hash": "sha256-4DdnFHAfqQynedItagTTb14bK19bb+4P6VGPPgje6Ac="
   },
   "km_dam_extension": {
     "version": "1.0.2",
@@ -31960,12 +31960,10 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ls_security_headers": {
-    "version": "1.3.0",
-    "t3_versions": [
-      11
-    ],
+    "version": "2.0.0",
+    "t3_versions": [],
     "description": "Configures security headers like content security policy",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-+jTH80ghdRBlwifzMTJrRNdv8slOH2mmIGBCCFxZ4KI="
   },
   "lscache": {
     "version": "1.2.0",
@@ -41855,14 +41853,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "pageclasses": {
-    "version": "11.0.4",
+    "version": "12.0.0",
     "t3_versions": [
-      9,
-      10,
-      11
+      11,
+      12
     ],
-    "description": "Adding one or more CSS classes to the body tag of the rendered pages. The extension provides inheritance, separate handling of subpages and includes classes for frontend- and backend-layouts. Thanks to Florian Elischer for encouraging and supporting Update to Typo3 9/10 LTS.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "description": "Adding one or more CSS classes to the body tag of the rendered pages. The extension provides inheritance, separate handling of subpages and includes classes for frontend- and backend-layouts.",
+    "hash": "sha256-QbarZRBmPpy8L5NtizndpTtjKSnoaE6X4sF2F1WpDzs="
   },
   "pagecycle": {
     "version": "0.0.1",
@@ -42277,12 +42274,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "paste_reference": {
-    "version": "2.0.5",
+    "version": "3.0.0",
     "t3_versions": [
-      11
+      12
     ],
     "description": "Paste reference instead of copy for content elements",
-    "hash": "sha256-0CqwsWemiqCWE/6qWFEr0B6oPVRDdIkQK6WUOisACw8="
+    "hash": "sha256-iwpbIu+nJDh0C/gxe6s76GD+WbX++iUDuj7INeZjAWo="
   },
   "patch10011": {
     "version": "0.5.0",
@@ -49649,13 +49646,13 @@
     "hash": "sha256-bCMkdMOCy2wNJ3Gz6SWr7i1qZ9ZfxkhhegmjmYFHEdo="
   },
   "schema": {
-    "version": "3.7.0",
+    "version": "3.7.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "API and view helpers for schema.org markup",
-    "hash": "sha256-eG2I0R8RIw70S2FWinqpNWeLnlfoFmuPWzd6FwiCplQ="
+    "hash": "sha256-kE8rYhXx8WwWhf7DQdQmrPjSJG5Xhwi9Ms3ACNB1LAI="
   },
   "schema_auto": {
     "version": "2.1.0",
@@ -53500,7 +53497,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sourceopt": {
-    "version": "5.1.2",
+    "version": "5.2.0",
     "t3_versions": [
       9,
       10,
@@ -53508,7 +53505,7 @@
       12
     ],
     "description": "Optimization of the final page: reformatting the (x)HTML output & removal of new-lines, comments and generator-info including search and replace strings using your regular expressions. In addition combines all SVG selected within content-elements into one <symbol> file and replaces <img> by <use>.",
-    "hash": "sha256-ddeNV6A42+Tp7zo5icYKzo8edBCIP0P/dflulSVVYxk="
+    "hash": "sha256-GC8nqhjp3cerqbvOJVwj+IbxzK6jcD9JIAUjISDtsz0="
   },
   "sox_calendar": {
     "version": "1.0.11",
@@ -54370,12 +54367,12 @@
     "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
   },
   "start": {
-    "version": "10.3.9",
+    "version": "10.4.1",
     "t3_versions": [
       10
     ],
     "description": "Start extends TYPO3 with the responsive framework Foundation (Zurb), a dozen responsive Backend Layouts and some responsive Gridelements. It enables editors, to create responsive nested layouts within a few minutes. It extends some backend forms for controlling the display of content elements depending on devices like smartphones, tablets and desktops. It extends TYPO3 content elements and menus with some helpful responsive Foundation features. A template for a responsive newsletter is included.",
-    "hash": "sha256-D3fqGabGiFjAISUZBisKw5+wwRQ1APXJMogSr06CyDg="
+    "hash": "sha256-KianwBIX+vGZv/VWqBNK26/LCFoJ3alJ4fD2xkzkyYg="
   },
   "startcustomer": {
     "version": "8.7.12",
@@ -54396,12 +54393,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "startgreen": {
-    "version": "10.4.0",
+    "version": "10.4.1",
     "t3_versions": [
       10
     ],
     "description": "TYPO3 für BÜNDNIS 90/DIE GRÜNEN. TYPO3 GRUENE ist ein Template und liefert eine Website im Design von BÜNDNIS 90/DIE GRÜNEN. Es ist responsive, optimiert für Smartphone, Tablet und Desktop. Mit Launch TYPO3 GRUENE! kannst Du eine schlüsselfertige GRÜNE Website in Betrieb nehmen. Bürgerinitiativen, Verbände und Vereine können mit wenigen Handgriffen das Grüne Design entfernen. Website: https://typo3-gruene.de/",
-    "hash": "sha256-aP0HhLQeyAcPyN523KnDq+JY4yFKL7LJgHXU+mdn1Wo="
+    "hash": "sha256-QCyQCVmjn5Y/Mnbg8EL1LryclW+g0I9pBjHK5SvnNLA="
   },
   "starthansekontor": {
     "version": "0.0.4",
@@ -55955,12 +55952,12 @@
     "hash": "sha256-1sVO90DqRum2QMl7PXb4mz7TW6K54nlEiX4NGfwtupA="
   },
   "t3api": {
-    "version": "4.0.1",
+    "version": "4.0.2",
     "t3_versions": [
       12
     ],
     "description": "REST API for your TYPO3 project. Config with annotations, build in filtering, pagination, typolinks, image processing, serialization contexts, responses in Hydra/JSON-LD format.",
-    "hash": "sha256-5fTwnH0aF3IbRGNvPF+aESTz1t/AOmntSBoTqPqZ69M="
+    "hash": "sha256-aHaVcLf4MBt/9oo25WlNpsnTt5mI+0pUsims14n11R4="
   },
   "t3blog": {
     "version": "1.2.0",
@@ -60372,12 +60369,10 @@
     "hash": "sha256-BNgXT/XaxE7ArnrnrjouR7FBMMFTVYNUNIITm0MRQ38="
   },
   "translate_locallang": {
-    "version": "3.1.0",
-    "t3_versions": [
-      12
-    ],
+    "version": "3.1.1",
+    "t3_versions": [],
     "description": "Backend Module for creating and editing of language files (locallang.xlf).",
-    "hash": "sha256-3JHxjOO3NEu2a0jEVlu1NMmKMHmz7qotXxP9HlF778U="
+    "hash": "sha256-zGJX8s8riFP8dBNeA8s8OLfmE46YM4KztSLnm70jNwc="
   },
   "translatelabels": {
     "version": "2.3.9",
