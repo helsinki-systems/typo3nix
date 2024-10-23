@@ -1224,12 +1224,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "admiral_cloud_connector": {
-    "version": "2.0.0",
+    "version": "2.0.1",
     "t3_versions": [
       12
     ],
     "description": "AdmiralCloud Connector",
-    "hash": "sha256-jyfoEqXK2XFQ3i2kOfwWWtVJCibNsYhHcJwYiT7laVo="
+    "hash": "sha256-SfZMmXjUHcuYlCubJ2HzSwK6JDblGU31CzdSpw8q6ek="
   },
   "adodb": {
     "version": "8.4.0",
@@ -3613,12 +3613,12 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.324.7",
+    "version": "3.324.8",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-wQyqND9lQSaQee5y7d5FljW2Dv1Yl7LApWncgiMS4GY="
+    "hash": "sha256-fXh8y2WuZEe1if+G0n1yhGY2H7vRwO9U2+w6ULjv8aA="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -8935,13 +8935,13 @@
     "hash": "sha256-gF55Oa9X81SK/JprdpNGnEo5lViuqyHVqm+Y4bCk3gc="
   },
   "cloudflare": {
-    "version": "2.6.1",
+    "version": "2.6.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "The Cloudflare extension for TYPO3 is a powerful solution to integrate your website with Cloudflare, whose mission is to help build a better Internet. This extension provides a variety of features to ensure your website is running optimally on the Cloudflare platform, a global leader in web performance and security.",
-    "hash": "sha256-9TAgB5GUs3Pnu6XVBeOKyuGhf2TFGf9YigMo8vAsboo="
+    "hash": "sha256-tkIQWtIutiRWMqYikJjRHtCkFMDIt8g90C7JF0uMKRs="
   },
   "clubcms": {
     "version": "0.2.2",
@@ -30042,14 +30042,14 @@
     "hash": "sha256-AtNwNHCJ7ekU+Xg5e6M4Lt//eKH/TEV7O1tncRzrZ2s="
   },
   "klarokratie": {
-    "version": "12.4.8",
+    "version": "12.4.10",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Includes Klaro! Consent-Manager into TYPO3. Completely file-based configuration for versioning without having to take care of database-entries. This extension automatically adds a consent-overlay to embedded YouTube- and Vimeo-Videos.",
-    "hash": "sha256-4DdnFHAfqQynedItagTTb14bK19bb+4P6VGPPgje6Ac="
+    "hash": "sha256-Lm9Kmn3w3hbCrx/xFml82p2DS1FvHd6QdRO+Q7UnFlw="
   },
   "km_dam_extension": {
     "version": "1.0.2",
@@ -35563,20 +35563,20 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mmc_guestbook": {
-    "version": "3.0.2",
+    "version": "3.0.4",
     "t3_versions": [
       11
     ],
     "description": "A guestbook plugin providing several mechanisms for spam prevention",
-    "hash": "sha256-QMFuEsBPaw2BR7mOPaXXvfvQjj825gRvt23HMZUZZ5o="
+    "hash": "sha256-LtW3XY/TXdVJ87OxJhYK1ku7XO2t3w60/TQmidi1ytE="
   },
   "mmc_slideshow": {
-    "version": "3.0.0",
+    "version": "3.0.3",
     "t3_versions": [
       11
     ],
     "description": "Slideshow with multiple sequences, each sequence can be configured (interval, animation, random mode)",
-    "hash": "sha256-f9wFPMDzl9ggNuY3eavB34VD6F0r80aDpKEtwemRs/U="
+    "hash": "sha256-ssWesApldk1hNdN5ogoGXSD0uIXFo2azyOnBnEk7FU4="
   },
   "mmforeign": {
     "version": "0.4.0",
@@ -42533,12 +42533,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "pb_check_extensions": {
-    "version": "11.5.1",
+    "version": "12.4.0",
     "t3_versions": [
-      11
+      12
     ],
     "description": "Checks, if there are updates available for installed extensions and sends an email",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-alx3FWB3dLw/gWm7RU4tub2OHHdt3yA1UVmptZjyIqQ="
   },
   "pb_concertlist": {
     "version": "10.4.2",
@@ -48789,13 +48789,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "rx_shariff": {
-    "version": "15.2.0",
+    "version": "15.2.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Shariff implementation for TYPO3 CMS including the backend module, a viewhelper and a plugin.",
-    "hash": "sha256-S3ZbewU2IbeXfR0odDurLPeFSfSxKaWnGghvm3gkzRE="
+    "hash": "sha256-VLuIgvnyJ3oqFeaQCcDT6TvSrGFgskq9ajMuFvUIrPU="
   },
   "rx_unrollsavebuttons": {
     "version": "1.1.1",
@@ -53396,6 +53396,16 @@
     "description": "This extension gives you the capability to index individual documents using Solr.",
     "hash": "sha256-Ra6eSXfGBOFzME41uE0MCD0zCz74YxSJkUL9/hn6rLA="
   },
+  "solr_numbered_pagination": {
+    "version": "1.0.4",
+    "t3_versions": [
+      10,
+      11,
+      12
+    ],
+    "description": "Limit the amount of used pages in EXT:solr in the pagination",
+    "hash": "sha256-1nDr0b78bLEi5uFKBqhSKST0qw92Rpo76Y6fljbxazA="
+  },
   "solr_tools": {
     "version": "2.0.3",
     "t3_versions": [
@@ -53497,7 +53507,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sourceopt": {
-    "version": "5.2.0",
+    "version": "5.2.1",
     "t3_versions": [
       9,
       10,
@@ -53505,7 +53515,7 @@
       12
     ],
     "description": "Optimization of the final page: reformatting the (x)HTML output & removal of new-lines, comments and generator-info including search and replace strings using your regular expressions. In addition combines all SVG selected within content-elements into one <symbol> file and replaces <img> by <use>.",
-    "hash": "sha256-GC8nqhjp3cerqbvOJVwj+IbxzK6jcD9JIAUjISDtsz0="
+    "hash": "sha256-2gfkkSedlQXbmz3kuFrR8pn3hwR1ykk82njco5yoUNg="
   },
   "sox_calendar": {
     "version": "1.0.11",
@@ -60287,14 +60297,13 @@
     "hash": "sha256-WS/PMoXSVuKI7RQw6Ga/CJXVDaT6na2DVI7xjx770HI="
   },
   "transactor": {
-    "version": "0.10.1",
+    "version": "0.11.1",
     "t3_versions": [
-      10,
       11,
       12
     ],
     "description": "This is a basic API to develop extensions which connect to different payment transaction gateways.",
-    "hash": "sha256-e0290ZseJRziszIQCQrKmkcL4DaypkNbLaGk7Wt9MAw="
+    "hash": "sha256-wAqzcr+nFb8LTrq27daAOZJ7+U/YIkftt9qga4HiU2s="
   },
   "transactor_concardis": {
     "version": "0.2.0",
@@ -60329,14 +60338,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "transactor_paypal": {
-    "version": "0.3.2",
+    "version": "0.5.0",
     "t3_versions": [
-      9,
-      10,
-      11
+      11,
+      12
     ],
-    "description": "Provides the possibility to transact payments via PayPal using the Payment Transactor extension.",
-    "hash": "sha256-RIrRl6K9o6q5U0/wlyhdByS1XYlJbGs8aAl6nG/XsBc="
+    "description": "Provides the possibility to transact payments via PayPal based on Webpayment Standard using the Payment Transactor extension.",
+    "hash": "sha256-FAmaREqzEgGmiYC1JS7Ib3N9vniyK+DOnh93YBQ070U="
   },
   "transfusion": {
     "version": "0.0.1",
