@@ -1632,12 +1632,12 @@
     "hash": "sha256-7X5SWlpVx31dLc9++kcvVE8vG+E42DF9QHG617+QZNE="
   },
   "aimeos_dist": {
-    "version": "24.4.1",
+    "version": "24.10.1",
     "t3_versions": [
       12
     ],
     "description": "Professional, full-featured and ultra-fast TYPO3 e-commerce distribution for online shops, complex B2B applications and #gigacommerce. Turns TYPO3 into the best platform for content commerce and your e-commerce requirements",
-    "hash": "sha256-4Ld0eIlVho3FXdcT7vRD/C6oAARE2Mk7N9q4hfZXjqk="
+    "hash": "sha256-/DDETCPwVNPtTy/14EqkU23NeEcq6c29epC0b6HFvOA="
   },
   "aimeos_migrate": {
     "version": "16.2.0",
@@ -3613,12 +3613,12 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.324.8",
+    "version": "3.324.9",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-fXh8y2WuZEe1if+G0n1yhGY2H7vRwO9U2+w6ULjv8aA="
+    "hash": "sha256-GUqrPbgq0ftfXa3M3JCi5pUAKzIfcxAKgm+JpPrnx2M="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -9919,10 +9919,10 @@
     "hash": "sha256-XMv2jq5x6yytPyER7yVjRV9/nZ+nL3HR8SiwiCkMkN4="
   },
   "content_blocks": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "t3_versions": [],
     "description": "TYPO3 CMS Content Blocks - Content Types API",
-    "hash": "sha256-OueGtgtnuzeNnG4Ezf8LGCP6PKzHkfGoLmQPf8FuWa8="
+    "hash": "sha256-LIywCG+OpM6mM/YrNvReE8PfbhXccs1xl5tnnM1RMAM="
   },
   "content_consent": {
     "version": "3.0.1",
@@ -20270,12 +20270,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fluid_components": {
-    "version": "3.8.2",
+    "version": "3.8.3",
     "t3_versions": [
       12
     ],
     "description": "Encapsulated frontend components with Fluid's ViewHelper syntax",
-    "hash": "sha256-+n6Q/Wc9NT3J4WDQGToPvYksluYZ24OduOCl6gLTrcw="
+    "hash": "sha256-3/QHOQmrfKzskvnObLks/Nq2+riP+sOjUad4ow9imwk="
   },
   "fluid_contentelements": {
     "version": "1.0.0",
@@ -24018,12 +24018,10 @@
     "hash": "sha256-VXcU1tKdZNCM4fYpvvGdCo8SLCyuazaim2tkoLyZVyo="
   },
   "hd_translator": {
-    "version": "1.1.1",
-    "t3_versions": [
-      12
-    ],
+    "version": "2.0.0",
+    "t3_versions": [],
     "description": "Translation of static strings from locallang.xlf files and export/import of database related content",
-    "hash": "sha256-YBWR830e6acgkLjaWF6GtBcxOfpyOpzvBbL7LeYsM1w="
+    "hash": "sha256-sXuG5prKIliI5lbXGcfZoty+8l+HPDhoZ3gwoWEKuq0="
   },
   "header_flashexample": {
     "version": "0.1.2",
@@ -35133,12 +35131,12 @@
     "hash": "sha256-6H05DwRy5TP7I2m3O6nKftHQjQVN7MRXdeMYYlAY3V8="
   },
   "mkcontentai": {
-    "version": "13.0.3",
+    "version": "13.0.4",
     "t3_versions": [
       12
     ],
     "description": "MKContentAI Extension - OpenAI API",
-    "hash": "sha256-CelcoX3SEtqsYgw9Bn7o6lb7k7ym/C689gPgmwgF8t0="
+    "hash": "sha256-Llx+ufxbPNxqKMMlOnfcKn4snefHWpNZxZ1ldqfzyTQ="
   },
   "mkdam2fal": {
     "version": "1.0.16",
@@ -38974,7 +38972,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "nitsan_hellobar": {
-    "version": "6.1.0",
+    "version": "7.0.0",
     "t3_versions": [
       6,
       7,
@@ -38985,7 +38983,7 @@
       12
     ],
     "description": "The HelloBar TYPO3 Extension is a valuable tool for configuring and designing messages on your website. It provides tools and services to schedule messages for your guests exactly when you want them to see the messages. With Hello Bar, you can attract guests to your website and improve user engagement.",
-    "hash": "sha256-P4X4vMS5nM4P1SsezCWL8Kw6bCzIS0diir4PzaX1nIk="
+    "hash": "sha256-vyqcoq+2pqyHXzz//MY6IfTuUTX9xFYVClwqK8Iy+is="
   },
   "nitsan_maintenance": {
     "version": "12.1.0",
@@ -39473,12 +39471,12 @@
     "hash": "sha256-oevUHYBYnEnCyZJQ8iZPusuhpo5IPKayTVJcaT2igSM="
   },
   "ns_all_chat": {
-    "version": "12.1.0",
+    "version": "13.0.0",
     "t3_versions": [
       12
     ],
     "description": "The All in One TYPO3 Chat Extension is the only TYPO3 extension that helps to integrate the most popular chat tools directly into your website. With this extension, you can easily connect various live chat tools such as zopim.com, livechatinc.com, purechat.com, and more. ",
-    "hash": "sha256-52MJpOZtqI4EU5blHA1qxWtSSloZEh6jIOKWdtrbGbk="
+    "hash": "sha256-JApeV//um/A18+DWXO+oajvVvx2ffDUumjaqInXdiK0="
   },
   "ns_all_lightbox": {
     "version": "12.1.0",
@@ -39544,7 +39542,7 @@
     "hash": "sha256-WDOECOdwXySE28Q0DCohOdHqwj0nQ9QPxIjZP1vPRp4="
   },
   "ns_cookiebot": {
-    "version": "3.0.2",
+    "version": "4.0.0",
     "t3_versions": [
       6,
       7,
@@ -39555,7 +39553,7 @@
       12
     ],
     "description": "The Cookiebot.com GDPR Compliant TYPO3 Extension aids publishers, technology vendors, and advertisers in complying with GDPR and ePrivacy Directive regulations by ensuring transparency and obtaining user consent. T3Planet has developed a TYPO3 CMS extension to seamlessly integrate Cookiebot, one of the most popular solutions for managing cookies.",
-    "hash": "sha256-ypKtP6ec184uwFryRav4P+ByfMbXTsNtSZZBc3Ycje4="
+    "hash": "sha256-D/KqnqBVUzKROOcuiA/YK6vmX052sNIU72zfMYdZDkI="
   },
   "ns_cookies": {
     "version": "2.0.1",
@@ -50330,12 +50328,10 @@
     "hash": "sha256-Vx4z8zBNaKfjpj1g0hc0+tBg+d85Po3RHKP88B/6QcQ="
   },
   "sf_event_mgt_contentelements": {
-    "version": "2.0.1",
-    "t3_versions": [
-      12
-    ],
+    "version": "3.0.0",
+    "t3_versions": [],
     "description": "Adds a relation field for content elements to events",
-    "hash": "sha256-zodPLTQF+LEwwI+7LjI5f2WxZ+82UOELt7aLAm9+CMs="
+    "hash": "sha256-FLlrVPXAuOUpTRfRTwuGwx2dSRQZ1gTELSlQrKadFQU="
   },
   "sf_event_mgt_indexer": {
     "version": "4.0.1",
@@ -50990,13 +50986,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "shop": {
-    "version": "4.6.5",
+    "version": "4.7.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Simple Shop for TYPO3 incl. PayPal, PayPal-Plus, Klarna, Stripe, Bookmarks, UPS-API, Invoice generation, backend module, compare feature, graduated prices and many more - note there is a Pro version as well!",
-    "hash": "sha256-0nNXJ1S/metIIOFrfU79L0XdAi/C765tlbfWcZqVeOQ="
+    "hash": "sha256-ME7a3/YXf8fMkl60o3BfIkpRwwCeLvE1WhmbuHBVSjQ="
   },
   "shop3ox": {
     "version": "0.0.3",
@@ -64681,12 +64677,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "wr_deepl_translate": {
-    "version": "1.0.6",
+    "version": "1.0.8",
     "t3_versions": [
       12
     ],
     "description": "Automatic translations of entire TYPO3 websites with DeepL. Quick and easy. Without extra languages in the backend and without headaches.",
-    "hash": "sha256-lYtSEvf/0JB83A/5XmGFaoCyeWpAfQDcTB6tF4jlkcM="
+    "hash": "sha256-q+9gu5J1rVgkefcHIFuVbD6IcgXTlgxij2x4svUa7lw="
   },
   "wrg_anotherbelogin": {
     "version": "0.0.4",
