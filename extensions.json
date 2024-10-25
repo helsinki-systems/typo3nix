@@ -9919,10 +9919,10 @@
     "hash": "sha256-XMv2jq5x6yytPyER7yVjRV9/nZ+nL3HR8SiwiCkMkN4="
   },
   "content_blocks": {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "t3_versions": [],
     "description": "TYPO3 CMS Content Blocks - Content Types API",
-    "hash": "sha256-LIywCG+OpM6mM/YrNvReE8PfbhXccs1xl5tnnM1RMAM="
+    "hash": "sha256-0Zdagay8zh97x5e7EPkU6Z0CPsJBvMwal6dv7Gv4/l0="
   },
   "content_consent": {
     "version": "3.0.1",
@@ -18847,10 +18847,10 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fe_change_pwd": {
-    "version": "5.2.0",
+    "version": "5.3.0",
     "t3_versions": [],
     "description": "Plugin to enable password change for frontend users. Contains configurable password",
-    "hash": "sha256-rwhR7yCcknGZkK3M7Xc0sKO1+0dYgIHbKZPVRcLaPsE="
+    "hash": "sha256-G758FD3KNJJJtadh9pNIAh0sH750OAYNP0sS9aM429s="
   },
   "fe_changelog": {
     "version": "3.1.0",
@@ -19058,12 +19058,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "feed_display": {
-    "version": "2.1.1",
+    "version": "2.1.2",
     "t3_versions": [
       12
     ],
     "description": "Fetches and parses RSS and Atom web feeds with the SimplePie library and prepares them for frontend display",
-    "hash": "sha256-Yp7BVEtZdxBBkeNRiHvGfN7pLznD9iQxjROYnjShC9M="
+    "hash": "sha256-H9l+6K6KQeMuBatiE7lkC3lW1lp5upQHPrEfG2hQPwY="
   },
   "feed_generator": {
     "version": "0.7.0",
@@ -22759,12 +22759,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "gkh_rss_import": {
-    "version": "10.0.0",
+    "version": "10.0.1",
     "t3_versions": [
       12
     ],
     "description": "Fetch an RSS / Atom Feed and display its content on the Frontend.",
-    "hash": "sha256-YHXMaKpGnYamhn0yxfUxI+UZCg3CTHhW86yTPGVClOk="
+    "hash": "sha256-2VNcKAIhu9JKfElNqtYZiKyQ8BBcEcGi1ebMmlxSIFM="
   },
   "gl_be_templates": {
     "version": "0.1.0",
@@ -26376,14 +26376,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "includekrexx": {
-    "version": "5.1.0",
+    "version": "5.1.1",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Fluid and PHP debugger with backend access to logfiles, code generation to reach the displayed values and much more. We added some special stuff for Aimeos.",
-    "hash": "sha256-Z+iJKVrrKlSveH2HQkZNa7QVBKvWSIz+YXthjWHBjdI="
+    "hash": "sha256-N0K3MFNeqUvwRvLkXFJZX9z9C87wwNqpwRfNreu7wN8="
   },
   "incore_twitter": {
     "version": "1.2.2",
@@ -29631,12 +29631,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ke_search": {
-    "version": "6.0.0",
+    "version": "6.0.1",
     "t3_versions": [
       12
     ],
     "description": "Faceted fulltext search for TYPO3. Fast, flexible and easy to install and use. Indexes content directly from the databases. Features faceting / filtering, file indexing, images in result lists and respects access restrictions.",
-    "hash": "sha256-wSHeOg8Pi4Ot29VNCY7l59CEMFd0FtN/fMly+thmumQ="
+    "hash": "sha256-tLCSkSvJ1Hwu3yeISls/vXFti3wQ7Cd+qlveKgEzv9Q="
   },
   "ke_search_dam_tags": {
     "version": "0.0.1",
@@ -32070,13 +32070,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "lux": {
-    "version": "36.5.1",
+    "version": "37.0.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Living User Experience - LUX - the Marketing Automation tool for TYPO3.",
-    "hash": "sha256-ViSh3Aq0quMIkcOFMu0cw2m1CCDmP5GM4i006NIVE00="
+    "hash": "sha256-XMz17zQWiIrtlXCz8A/v2aUwUpqvDV+2c7pnkJQ11sE="
   },
   "luxletter": {
     "version": "26.3.1",
@@ -38651,12 +38651,12 @@
     "hash": "sha256-pp7RxGbrctngYRUNyD/475/61tA8/xZU6RM7yllT+uY="
   },
   "newsletter_subscribe": {
-    "version": "6.2.0",
+    "version": "7.0.0",
     "t3_versions": [
       12
     ],
     "description": "subscribe and unsubscribe to tt_address, generate static Link to unsubscribe (to use in Newsletter), remove unvalidated subscriptions with scheduler task",
-    "hash": "sha256-ez0lPb72kQiS4xsM6d1u4xCflnrTNqmJ3acAtNANio8="
+    "hash": "sha256-QqC77GSl6+HJfedOMezfysjWvUqdwC5MzBeRXsk6H+g="
   },
   "newslettermanager": {
     "version": "0.0.1",
@@ -39479,7 +39479,7 @@
     "hash": "sha256-JApeV//um/A18+DWXO+oajvVvx2ffDUumjaqInXdiK0="
   },
   "ns_all_lightbox": {
-    "version": "12.1.0",
+    "version": "13.0.0",
     "t3_versions": [
       7,
       8,
@@ -39489,7 +39489,7 @@
       12
     ],
     "description": "Introducing the TYPO3 All-in-One Extension, a plugin that effortlessly integrates popular jQuery slider plugins into your website with just a few clicks! Enjoy a range of slider options including Nivo Slider, Royal Slider, Owlcarousel, Sliderjs Slider, and more.",
-    "hash": "sha256-Pz0DHW1O+QQnwduADluOQtxol/4MzBAk8577ixNmZJI="
+    "hash": "sha256-f0+D0JjeFnrLFxDufCES8MtUycrxADyyYmo4dLaIEmw="
   },
   "ns_all_sliders": {
     "version": "12.1.0",
@@ -39777,12 +39777,12 @@
     "hash": "sha256-bpSo9Iv+sfCGNJylOgoOU1Sf6Qa8Z1PhKlfqDkhqHRY="
   },
   "ns_news_advancedsearch": {
-    "version": "12.1.0",
+    "version": "13.0.0",
     "t3_versions": [
       12
     ],
     "description": "Enhance your TYPO3 News Extension with the Advanced TYPO3 News Extension. Expand your news search capabilities with detailed, precise results and the ability to filter content by specific fields using the Advanced Extension. This extension incorporates specially crafted search algorithms to ensure both speed and relevance in your searches. ",
-    "hash": "sha256-zQmWJSMinjB3D6hWGO0llBhi0U2FvcIa9/Lt1aXOBpc="
+    "hash": "sha256-K/57p/jayI26fpgfM9gkq6lhcvJSuer1I5/PbsJCics="
   },
   "ns_news_comments": {
     "version": "12.2.3",
@@ -39909,10 +39909,12 @@
     "hash": "sha256-UIhobi3TjLBMJT3wLXqTjETstRyk7i9MqFt8vtOmqWo="
   },
   "ns_theme_agency": {
-    "version": "13.0.0",
-    "t3_versions": [],
+    "version": "13.0.2",
+    "t3_versions": [
+      12
+    ],
     "description": "Agency TYPO3 template is the ultimate tool to kickstart your project, either a software development company or a product startup or any new business. Live-Demo: https://demo.t3planet.com/?theme=t3t-agency PRO version: https://t3planet.com/t3-agency-free-business-typo3-template",
-    "hash": "sha256-wcGk40uWjE7VMIou2VRvaZ7hMKUHWDyyx3vBGcTG9+M="
+    "hash": "sha256-iZqPYk8tWb2RY+aGOpfla6nriYABdSu3KSMxPqyUvJY="
   },
   "ns_theme_cleanblog": {
     "version": "12.0.2",
@@ -50334,13 +50336,12 @@
     "hash": "sha256-FLlrVPXAuOUpTRfRTwuGwx2dSRQZ1gTELSlQrKadFQU="
   },
   "sf_event_mgt_indexer": {
-    "version": "4.0.1",
+    "version": "5.0.0",
     "t3_versions": [
-      11,
       12
     ],
     "description": "Indexer for ke_search which indexed sf_event_mgt records",
-    "hash": "sha256-DpxiEN0HGphIelYtuzYK5fbsOpWrJJfQx0iExiDtv+E="
+    "hash": "sha256-Ht3Mf3S8yNUYqVUkvkwtMDEj1DqfB5pSJi5kMouVl5k="
   },
   "sf_event_mgt_multidates": {
     "version": "0.0.6",
@@ -59070,14 +59071,10 @@
     "hash": "sha256-w7irNhCE27Bj5INrDW/t6T4zt2dWatXhoA7hF9YRt5I="
   },
   "tinyimg": {
-    "version": "1.7.0",
-    "t3_versions": [
-      10,
-      11,
-      12
-    ],
+    "version": "1.8.0",
+    "t3_versions": [],
     "description": "Image compression for all pngs and jpgs uploaded to the backend (using the tinypng API)",
-    "hash": "sha256-C1/Fq783LWud3IylDjNKF+W6JBJ+to5HT1l+rPvX5k8="
+    "hash": "sha256-yCGM3/0L0wMruO6jaSOCoOwCzHc/wgtNpSMcDrCfLo4="
   },
   "tinymce": {
     "version": "5.0.4",
@@ -61800,13 +61797,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "typo3_console": {
-    "version": "8.2.0",
+    "version": "8.2.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "A reliable and powerful command line interface for TYPO3 CMS",
-    "hash": "sha256-CEOV+kSedFReNb77S4QCuRFj02UTnjPI+xJuVAjNtPA="
+    "hash": "sha256-W6XfCjF+D1MF2x4lo1hEefAKKGd2ee+iZQzFO0+k5BM="
   },
   "typo3_console_cleartempfiles": {
     "version": "1.0.0",
