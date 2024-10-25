@@ -3613,12 +3613,12 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.324.9",
+    "version": "3.324.10",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-GUqrPbgq0ftfXa3M3JCi5pUAKzIfcxAKgm+JpPrnx2M="
+    "hash": "sha256-xlFU8JJlutnE38fiVovN8opCUhPEnttkIYCwoBEhp3M="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -56242,10 +56242,10 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "t3extensions_widget": {
-    "version": "2.0.2",
+    "version": "2.2.0",
     "t3_versions": [],
     "description": "Dashboard widget that displays the most recent TYPO3 extensions published/updated at the TER",
-    "hash": "sha256-vm6PPTgqNKA3tUd0IpAdtsbo20LQxjXXXmi3TqVMtjg="
+    "hash": "sha256-VO/ax1+WGPboWGMvfbgalWPJaLJ8SEbRdgOadIYQoiw="
   },
   "t3ezlogger": {
     "version": "1.0.0",
@@ -56894,7 +56894,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "t3sportstats": {
-    "version": "1.5.0",
+    "version": "1.5.1",
     "t3_versions": [
       8,
       9,
@@ -56903,7 +56903,7 @@
       12
     ],
     "description": "Statistics extension for T3sports.",
-    "hash": "sha256-+pV4DoNvQ6RfUy7R/+1RdIWy+J4v5CwmP9sUovKPjQk="
+    "hash": "sha256-TzyvghNMIOrQiWhP0yDsE1e4CALRHXA9GIdSCLdw7l0="
   },
   "t3sugar": {
     "version": "0.0.11",
@@ -61800,13 +61800,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "typo3_console": {
-    "version": "8.1.1",
+    "version": "8.2.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "A reliable and powerful command line interface for TYPO3 CMS",
-    "hash": "sha256-Zy22blhvjfU4h9XvPvyPa6b4ltp15kB/bJ7G2ooFbeo="
+    "hash": "sha256-CEOV+kSedFReNb77S4QCuRFj02UTnjPI+xJuVAjNtPA="
   },
   "typo3_console_cleartempfiles": {
     "version": "1.0.0",
