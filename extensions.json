@@ -7303,12 +7303,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "category_treebuilder": {
-    "version": "3.0.0",
+    "version": "3.1.0",
     "t3_versions": [
       12
     ],
-    "description": "Build and manage easily your category tree.",
-    "hash": "sha256-Ep/42XXb9l9AOjf2QqrmKv2U6Q4bh8IZhrySMbK+LXk="
+    "description": "Build and manage your category tree.",
+    "hash": "sha256-mIi9Cf/j1q6SBxMLMOkj5Lzj2ioiVvyZnMwSQ4ntcqw="
   },
   "category_types": {
     "version": "1.0.1",
@@ -8064,12 +8064,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cf_cookiemanager": {
-    "version": "1.7.1",
+    "version": "1.7.2",
     "t3_versions": [
       12
     ],
     "description": "Manage cookies, scripts, and GDPR compliance on your Typo3 website with CodingFreaks Typo3 Cookie Manager. Customize cookie banners, streamline workflow, and enhance user experience. Ensure GDPR compliance and take control of cookie management with our Typo3 cookie management extension. Visit the official Typo3 Documentation page to learn more.",
-    "hash": "sha256-aZFntsGPPxtB+QRa5M17Qqnlq+1vSvoWQ6C/pYNdbUA="
+    "hash": "sha256-wiwTSb82ceXTOkf7tLUKyLfWa9bZoWIME069HundK+c="
   },
   "cf_google_authenticator": {
     "version": "1.2.4",
@@ -49117,14 +49117,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sav_charts": {
-    "version": "11.5.0",
+    "version": "13.4.0",
     "t3_versions": [
-      9,
-      10,
-      11
+      12
     ],
-    "description": "Extension which displays charts using the charts.js library",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "description": "Extension which displays charts using the chart.js library",
+    "hash": "sha256-0psO9TrWV3ufykyBJYtm9Mucpb7Afznuy68A0IrtmAE="
   },
   "sav_download": {
     "version": "9.5.0",
@@ -56726,12 +56724,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "t3sbootstrap": {
-    "version": "5.3.16",
+    "version": "5.3.17",
     "t3_versions": [
       12
     ],
     "description": "Startup extension to use bootstrap 5 classes, components and more out of the box. Example and info: www.t3sbootstrap.de",
-    "hash": "sha256-iOrOpuyrg895ViPoSDWpWzMow6VnSvkqNgUscxItigk="
+    "hash": "sha256-PWjebAUcZW+8wLMf3q97iMMTBf2zpK5dvum6sD9Pq/A="
   },
   "t3sbootstrap_grid": {
     "version": "3.0.0",
@@ -62819,12 +62817,10 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "videos": {
-    "version": "12.0.9",
-    "t3_versions": [
-      12
-    ],
+    "version": "13.0.0",
+    "t3_versions": [],
     "description": "Extends video file properties and provides a player for playlists, cue points and subtitles",
-    "hash": "sha256-YJEEi8+GeuX5y4tOpgktll6HQ4Z2zNc+uKVpPIPqjLU="
+    "hash": "sha256-v9dB+jSl4obKP9HEf1xb1hCBDTY/M+LxqadMI3qmpcE="
   },
   "videoswitcher": {
     "version": "0.0.4",
@@ -64817,10 +64813,10 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ws_scss": {
-    "version": "13.0.0",
+    "version": "13.0.1",
     "t3_versions": [],
     "description": "Compiles scss files to CSS files.",
-    "hash": "sha256-3VDTkOG4LdbGoHEmGz5DpLSqkgsmlFM2/B8OJOvMa0k="
+    "hash": "sha256-rLMcip3s/ze5GSDBmSLSnyTauBj+EcNuFBYvR+xVGNU="
   },
   "ws_sitemap": {
     "version": "0.4.8",
