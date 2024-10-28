@@ -3413,14 +3413,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "autotranslate": {
-    "version": "1.2.1",
+    "version": "1.2.2",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "This extension provides automatic translation of pages and content elements via DeepL API.",
-    "hash": "sha256-FehGqlMOQLaEsfyPGnzDv3l4pmxiCLAku6lB6HV1zn4="
+    "hash": "sha256-U2yGuLrP3AUzLpPfV7KjjYuA8SqsEroQApKmYJ4SDC0="
   },
   "autoupload_dummy": {
     "version": "1.0.2",
@@ -5398,12 +5398,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "brofix": {
-    "version": "6.2.0",
+    "version": "6.3.0",
     "t3_versions": [
       12
     ],
     "description": "Check for broken links and fix them via a backend module (forked from core linkvalidator)",
-    "hash": "sha256-xCWgGdhW+gRLTyFhYIS6ALeiZfzJ1VCAzGg+QHrVJ7Q="
+    "hash": "sha256-MVmPGfkxLxM47TLdCJPUAiwO9XCHpYjGOh8e3lCgPfU="
   },
   "browser": {
     "version": "10.0.3",
@@ -6048,15 +6048,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "bw_jsoneditor": {
-    "version": "1.1.0",
+    "version": "2.0.0",
     "t3_versions": [
-      8,
-      9,
-      10,
-      11
+      12
     ],
-    "description": "JSON form editor for the TYPO3 backend. View and edit JSON data with code formatting and syntax highlighting.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "description": "Adds a JSON Form Editor type to the TYPO3 Backend. Edit JSON data with code formatting, syntax highlighting, auto repair and more.",
+    "hash": "sha256-aeMO0+lfwxa0KNPyCZ07zLs2Ow0vhb5X/53szP6wEqk="
   },
   "bw_operavisits": {
     "version": "1.0.1",
@@ -9923,10 +9920,10 @@
     "hash": "sha256-XMv2jq5x6yytPyER7yVjRV9/nZ+nL3HR8SiwiCkMkN4="
   },
   "content_blocks": {
-    "version": "1.0.2",
+    "version": "1.0.3",
     "t3_versions": [],
     "description": "TYPO3 CMS Content Blocks - Content Types API",
-    "hash": "sha256-0Zdagay8zh97x5e7EPkU6Z0CPsJBvMwal6dv7Gv4/l0="
+    "hash": "sha256-5GG8Sn3DfvfPcsb+bpczdk3PZlc0VQHe/9dHI1NchbI="
   },
   "content_consent": {
     "version": "3.0.1",
@@ -25724,13 +25721,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ig_ldap_sso_auth": {
-    "version": "4.0.0",
+    "version": "4.0.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "This extension provides LDAP support for TYPO3 by delegating the authentication of frontend and/or backend users to the centrally-managed directory of your organization. It fully supports OpenLDAP and Active Directory and is capable of connecting securely to the authentication server using either TLS or SSL (ldaps://).",
-    "hash": "sha256-mo6bILETRG0okwxLh98cgM7XSsc1tDQZCmnENJ0UOtE="
+    "hash": "sha256-RZKVrkFp3WmhW02y2++wrXc2U27yPFjArycZSK1zR9s="
   },
   "ig_log404errors": {
     "version": "1.0.0",
@@ -27462,12 +27459,12 @@
     "hash": "sha256-iTF4mYfpa4Ls6iU9OiQL3mbSnwddK2lmKmVoKW4O4qY="
   },
   "jar_utilities": {
-    "version": "2.0.9",
+    "version": "2.0.10",
     "t3_versions": [
       12
     ],
     "description": "Utility classes that simplify TYPO3 development.",
-    "hash": "sha256-hFx81tiALhnkKHTy7Gqv8prPqVg0/w3/Qz3ic9C2Erw="
+    "hash": "sha256-IhKBzHMKodZJciOrIPL6PwPo78KBYe4138C96gpT9es="
   },
   "jasmine": {
     "version": "0.1.0",
@@ -39771,12 +39768,12 @@
     "hash": "sha256-kPxKaPOFunsxkd20gpiPaMTtTkdDsAyhYtNQVZgoXGY="
   },
   "ns_license": {
-    "version": "13.0.4",
+    "version": "13.0.5",
     "t3_versions": [
       12
     ],
     "description": "Manage License(s) of your purchased from T3Planet such as TYPO3 Templates and TYPO3 Extensions. Documentation & Free Support https://docs.t3planet.com/en/latest/License/LicenseActivation/Index.html",
-    "hash": "sha256-bpSo9Iv+sfCGNJylOgoOU1Sf6Qa8Z1PhKlfqDkhqHRY="
+    "hash": "sha256-ImXsM4ZGzjSxycZNa+82MmRRr2tGvSbRwGcqFJElT4c="
   },
   "ns_news_advancedsearch": {
     "version": "13.0.0",
@@ -65625,12 +65622,12 @@
     "hash": "sha256-u+b2mji+2oOaaZ5SruLHYFoQsrlMnPI1VdBAMnk08RI="
   },
   "xima_typo3_manual": {
-    "version": "1.3.1",
+    "version": "1.3.2",
     "t3_versions": [
       12
     ],
     "description": "This extension provides a new page type for creating an editor manual right in the TYPO3 backend.",
-    "hash": "sha256-spQyBYwT1MFXqTrtEOyQ35La0Ku+5tbiW+3OqGl/gZI="
+    "hash": "sha256-/LDk0WjLLCJfucnlx3Bxi6LXzyZJ8jBVX3PrABwzv8k="
   },
   "xima_typo3_recent_updates": {
     "version": "1.0.1",
@@ -66287,12 +66284,10 @@
     "hash": "sha256-SbpYXOXoC43hlHw/gYguHXFtallOVVBw5M60eoUMXOY="
   },
   "zabbix_client": {
-    "version": "12.2.2",
-    "t3_versions": [
-      12
-    ],
+    "version": "13.2.0",
+    "t3_versions": [],
     "description": "Client for zabbix monitoring system. Secure up your TYPO3 Systems and detect errors and performance killers.",
-    "hash": "sha256-2a6OmLADkw8RhUpkQzN5FnDN7WiDdu3lx4UOSu6rwTc="
+    "hash": "sha256-K9JgabAjHCL6jioU+N7Pt66+fNyMVUdY7kRHZPFZAhQ="
   },
   "zadi_masterconfig": {
     "version": "0.0.7",
