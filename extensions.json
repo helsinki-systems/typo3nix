@@ -1113,13 +1113,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "addons_em": {
-    "version": "0.9.0",
+    "version": "0.9.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Enhancements to the Extension Manager (em].",
-    "hash": "sha256-t65ToUijZ7Vb7Fd2qbXxWumYqbm9UtklhJ3hiOoutGU="
+    "hash": "sha256-iZLYSqLjeqzCF2fyqlCnffiyCF/cm5VhLkgkgN6Lxzs="
   },
   "addons_tt_products": {
     "version": "0.11.2",
@@ -3613,12 +3613,12 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.324.11",
+    "version": "3.324.12",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-9+CjbYKPOw2iBCk7jxMFPY66dESReQlAv4C4seBBW+8="
+    "hash": "sha256-o5oyBwkw1uxrSXtMkxED3eEAEKjXZii/SjSj+TL3Tkg="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -9856,12 +9856,12 @@
     "hash": "sha256-nojgxmC8j+XPLFm76DHFtvL1kWmSAQzZwGIl4IV9pQ0="
   },
   "container_elements": {
-    "version": "6.0.0",
+    "version": "6.0.1",
     "t3_versions": [
       12
     ],
     "description": "Provides content elements powered by container and bootstrap. Available elements: container, columns, grid, tabs, accordion, tile unit, card, randomizer and slider.",
-    "hash": "sha256-H8CLl2oNITtMnLNxKPaEuY1ZikToUK1lAIjk/tBo66c="
+    "hash": "sha256-Z685YOm6xP2KwE5OD17wR0FvaaFb775hgaLVMp7GNio="
   },
   "container_example": {
     "version": "1.0.0",
@@ -16653,12 +16653,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "editor_widgets": {
-    "version": "2.1.4",
+    "version": "2.1.5",
     "t3_versions": [
       12
     ],
     "description": "Collection of useful dashboard widgets focused on editors",
-    "hash": "sha256-JF/h4OY7D+3FodvXB8u8u6zV/gmaWAwq2CVBmLzfOx0="
+    "hash": "sha256-CiGHcU2dNV7J6eV27BhCjqWKEqkRyV5GG+SneAWEH7o="
   },
   "editors_choice": {
     "version": "2.1.0",
@@ -24679,12 +24679,10 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "html5mediakit": {
-    "version": "12.1.1",
-    "t3_versions": [
-      12
-    ],
+    "version": "13.4.0",
+    "t3_versions": [],
     "description": "Allows easy embedding of HTML5 video and audio elements.",
-    "hash": "sha256-6Q/p02W6lj3ETQTJKvMg686fzF8bUg3KyiYEOQtxhEg="
+    "hash": "sha256-/4hGG45quAgSwJr9gMqEqul/4og/wA4v5uBE3wa0f9Q="
   },
   "html5meta_t3lib_pagerenderer": {
     "version": "0.1.0",
@@ -27774,13 +27772,12 @@
     "hash": "sha256-7wijbRIl3TjoeylIbrlX4A/8w4vQta7m/RrMe7exJhY="
   },
   "jfmulticontent": {
-    "version": "2.15.3",
+    "version": "2.15.4",
     "t3_versions": [
-      11,
       12
     ],
     "description": "It arranges multiple contents into one content element with multiple columns, accordions, tabs, slider, slidedeck, easyAccordion or Booklet. This extension will also extend tt_news with two new lists.",
-    "hash": "sha256-m+AbA7zPeKt9IEm+vD1z1uwHOxb+yKXbtk76PwWOIb8="
+    "hash": "sha256-rb5ntDJPLNnAp1K4spiQ5yo3Os16dphErBiKGYFefg8="
   },
   "jfmulticontent_viewdemo": {
     "version": "0.1.2",
@@ -33868,12 +33865,10 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mediaoembed": {
-    "version": "12.0.0",
-    "t3_versions": [
-      12
-    ],
+    "version": "13.4.1",
+    "t3_versions": [],
     "description": "External media (YouTube, Flickr, ...) content elements using the http://oembed.com/ standard.",
-    "hash": "sha256-qL9lwZZQ63YUOVNBU7CWDRCERL/eAOFmWKoRJYXyrTo="
+    "hash": "sha256-QmNRPmN5qhQUU2/sbLsam1pg+eNEraqpxqhsUfJ0tT4="
   },
   "mediaplayerstatistics": {
     "version": "2.0.0",
@@ -34843,13 +34838,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mindshape_cookie_consent": {
-    "version": "3.2.2",
+    "version": "4.0.0",
     "t3_versions": [
-      11,
       12
     ],
     "description": "This extension provides functionality to create  a customizable cookie consent for your website. It is developed for flexibility to be customized in accordance to your data security guidelines.",
-    "hash": "sha256-71UOKf+1mW/414HYQEngCdF1TKpEBGdJ+I+OT6H2ZuI="
+    "hash": "sha256-/pSEKfn8UGGClrOjXYVGHazwS0D06JfhFDcp9bmKdT4="
   },
   "mindshape_cookie_hint": {
     "version": "1.1.0",
@@ -39999,12 +39993,12 @@
     "hash": "sha256-hrks1LWCZh7LfUfMZ+edapH26cjxeyYwFLF7PB9mMFU="
   },
   "ns_youtube": {
-    "version": "12.1.2",
+    "version": "13.0.0",
     "t3_versions": [
       12
     ],
     "description": "Using Youtube TYPO3 Extension you can display your YouTube videos directly on your TYPO3 site within a video box, allowing visitors to view them without being redirected to www.youtube.com. It easily integrates all YouTube features, such as Simple Video, Channel and Playlist management, Live-streaming, and engagement options such as likes and subscribe. ",
-    "hash": "sha256-ivbrcJzWZ9GfmuiYMo16UM7+FrorZltMhuDzrfl3Fr4="
+    "hash": "sha256-LXhKIpHVriHjbLlUa5YbGwEl+GydOBrMEILSoavbfoU="
   },
   "ns_zoho": {
     "version": "1.0.3",
@@ -42348,13 +42342,10 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "patchlayout": {
-    "version": "0.2.1",
-    "t3_versions": [
-      11,
-      12
-    ],
+    "version": "0.3.0",
+    "t3_versions": [],
     "description": "Collection of patches for the Backend Layout",
-    "hash": "sha256-pU6OMHabt725fSTXAyCflMAffaqhwxuCvRbAOLQejYM="
+    "hash": "sha256-Bii0VqWZprYZaPUCMKqe8z4HH9fdaoyPrRRuhLNZjcQ="
   },
   "paymentlib": {
     "version": "0.3.2",
@@ -50075,13 +50066,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "seminars": {
-    "version": "5.7.1",
+    "version": "5.8.0",
     "t3_versions": [
       10,
       11
     ],
     "description": "Allows you to create and manage a list of seminars, workshops, lectures, theater performances and other events, allowing front-end users to sign up. FE users also can create and edit events.",
-    "hash": "sha256-AF3jxvExX8khMFfLLMBzmZ/pMBP64B39jIhmfX0qWyc="
+    "hash": "sha256-fsmHYpEfbJII5Pf8BjZYyQMFOgucBn5LMbvNp2Zugks="
   },
   "seminarscalredirect": {
     "version": "1.0.0",
@@ -53499,15 +53490,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sourceopt": {
-    "version": "5.2.1",
+    "version": "5.2.2",
     "t3_versions": [
-      9,
-      10,
-      11,
       12
     ],
     "description": "Optimization of the final page: reformatting the (x)HTML output & removal of new-lines, comments and generator-info including search and replace strings using your regular expressions. In addition combines all SVG selected within content-elements into one <symbol> file and replaces <img> by <use>.",
-    "hash": "sha256-2gfkkSedlQXbmz3kuFrR8pn3hwR1ykk82njco5yoUNg="
+    "hash": "sha256-Yq7qxVUgi8eMNDQg0W1pDdIAxM+q57ufhfznItu/tHw="
   },
   "sox_calendar": {
     "version": "1.0.11",
@@ -54538,31 +54526,31 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "static_info_tables_da": {
-    "version": "11.5.2",
+    "version": "11.5.3",
     "t3_versions": [
       11,
       12
     ],
     "description": "Danish (da) language pack for the Static Info Tables providing localized names for countries, currencies and so on.",
-    "hash": "sha256-IDTzB/ew4GpWmJ3unrgr6r9E8Mipc1WPQEOl9kFv2LA="
+    "hash": "sha256-XkMjLJP/kHLzxvBNOlBmiwssEhq8tC+CzWpPEUHUSTs="
   },
   "static_info_tables_de": {
-    "version": "11.5.3",
+    "version": "11.5.4",
     "t3_versions": [
       11,
       12
     ],
     "description": "German (de) language pack for the Static Info Tables providing localized names for countries, currencies and so on.",
-    "hash": "sha256-bH7koT4DKd6ZpH7ImFkC8jebgtn/O7PUWcznJXooQ6g="
+    "hash": "sha256-mJ85v/cJDhjBQAMhEdsOJiJ2YquthtEuO3CkxR9pBi4="
   },
   "static_info_tables_es": {
-    "version": "11.5.3",
+    "version": "11.5.4",
     "t3_versions": [
       11,
       12
     ],
     "description": "Spanish (es) language pack for the Static Info Tables providing localized names for countries, currencies and so on.",
-    "hash": "sha256-bCgV4/xSEoj2e9xKkosEN0I+qgsCAhEarkcfxPCtk7g="
+    "hash": "sha256-nNsBHjEelPMv94DhWVgFXB7rZF7p7AWdqcOgjPSinHk="
   },
   "static_info_tables_extbase": {
     "version": "1.2.0",
@@ -54652,13 +54640,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "static_info_tables_it": {
-    "version": "11.5.2",
+    "version": "11.5.3",
     "t3_versions": [
       11,
       12
     ],
     "description": "Italian (it) language pack for the Static Info Tables providing localized names for countries, currencies and so on.",
-    "hash": "sha256-uL5YEHXd75yeLI0gZDm6TeyboFuXtjPxUwQ8/jqyq2M="
+    "hash": "sha256-ovf5ymG3MqhEW6E3x7AbI3pSPwLrhV/UfBxvZjWeiIk="
   },
   "static_info_tables_it_621": {
     "version": "6.2.1",
@@ -64663,12 +64651,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "wr_deepl_translate": {
-    "version": "1.0.8",
+    "version": "1.0.9",
     "t3_versions": [
       12
     ],
     "description": "Automatic translations of entire TYPO3 websites with DeepL. Quick and easy. Without extra languages in the backend and without headaches.",
-    "hash": "sha256-q+9gu5J1rVgkefcHIFuVbD6IcgXTlgxij2x4svUa7lw="
+    "hash": "sha256-N19ejsZJMZDPoMDtzOF6dGNmcIwK2ZptSGP3Z3vAF+o="
   },
   "wrg_anotherbelogin": {
     "version": "0.0.4",
