@@ -3613,12 +3613,12 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.324.12",
+    "version": "3.324.13",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-o5oyBwkw1uxrSXtMkxED3eEAEKjXZii/SjSj+TL3Tkg="
+    "hash": "sha256-UOvsw34hUFHZLZZBXA/blwB/ga74HitJFQdRbYEzVI0="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -4579,12 +4579,10 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "beuser_fastswitch": {
-    "version": "4.0.3",
-    "t3_versions": [
-      11
-    ],
+    "version": "6.0.0",
+    "t3_versions": [],
     "description": "Fast backend user switch for TYPO3 CMS administrator users.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-AGpMrx65oLfn4mUJV+Q5KzTau01uTOH+6mZRn6yzy/U="
   },
   "beuser_ip_lock": {
     "version": "1.0.3",
@@ -13553,6 +13551,16 @@
     "description": "Extension to help developers",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "development_only": {
+    "version": "2.0.0",
+    "t3_versions": [
+      10,
+      11,
+      12
+    ],
+    "description": "Development Only settings for TYPO3 CMS projects",
+    "hash": "sha256-mF7aE9H+1UbPkdR58IRvCuPBojyCYR2ikxadSretq04="
+  },
   "device": {
     "version": "11.0.1",
     "t3_versions": [
@@ -17670,13 +17678,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "example_site_sets_compat": {
-    "version": "1.0.1",
+    "version": "1.1.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Example of how to provide site sets in an extension that is compatible with older TYPO3 versions",
-    "hash": "sha256-Cahn0s81ykb1K0VI+XmUCkRUpTxKgJ3C9AzkAgBunhM="
+    "hash": "sha256-zi234TRQ7OijOcTbHwNAMxsbJLLZjuX9y18od4mJg/s="
   },
   "example_templates": {
     "version": "0.0.1",
@@ -19638,12 +19646,10 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "filecollection_gallery": {
-    "version": "12.0.0",
-    "t3_versions": [
-      12
-    ],
+    "version": "13.0.0",
+    "t3_versions": [],
     "description": "Simple FileCollection Gallery with mobile and desktop view",
-    "hash": "sha256-xZms2m6ZQgFDfOJdUXaRiDXaQj+IoXMPNj9Y5+yWiyw="
+    "hash": "sha256-0gYtjrqnZbvHge9IeHXJ3JyXRJexYVBsMznhdsk+GAM="
   },
   "filecollector": {
     "version": "1.1.0",
@@ -24276,12 +24282,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "hide_sys_template": {
-    "version": "4.0.0",
+    "version": "4.0.2",
     "t3_versions": [
       12
     ],
     "description": "Make sys_template records vanish everywhere (Prevents TYPO3 admins from using sys_template database records)",
-    "hash": "sha256-EcVp8AP07Im1x8fC2hS8iN+za3fR4Ij6Yiv3Zl238wM="
+    "hash": "sha256-DJpUNZNnRHEeK3jMjswV9mGfmt8pgBkxebruiOJW7q8="
   },
   "hide_used_content": {
     "version": "1.1.0",
@@ -24847,12 +24853,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "httpseverywhere": {
-    "version": "1.0.1",
+    "version": "1.0.5",
     "t3_versions": [
-      11
+      11,
+      12
     ],
     "description": "Middleware for forcing HTTPS",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-4GKOimX13CIHWTalREullKfGUnf2nhaf0U7amFF6paE="
   },
   "htw_download": {
     "version": "0.1.1",
@@ -32068,13 +32075,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "lux": {
-    "version": "37.0.0",
+    "version": "37.1.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Living User Experience - LUX - the Marketing Automation tool for TYPO3.",
-    "hash": "sha256-XMz17zQWiIrtlXCz8A/v2aUwUpqvDV+2c7pnkJQ11sE="
+    "hash": "sha256-UGsYovHuqCkC2eqlH+IibjHGzJDrhWh2Zukor77zjS8="
   },
   "luxletter": {
     "version": "26.3.1",
@@ -42275,14 +42282,12 @@
     "hash": "sha256-iwpbIu+nJDh0C/gxe6s76GD+WbX++iUDuj7INeZjAWo="
   },
   "patch10011": {
-    "version": "0.5.0",
+    "version": "0.6.0",
     "t3_versions": [
-      9,
-      10,
-      11
+      12
     ],
     "description": "TypoScript condition which will only be executed if a named extension has been installed in a given version number. Add parameters and a return value comparison to userFunc. TYPO3 core patch #10011.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-DMC3q3KWQiyuJZZPSTvouzkSYzJA3J+v4GEBdxBsLTs="
   },
   "patch1822": {
     "version": "0.0.10",
@@ -42583,12 +42588,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "pb_fileinfo": {
-    "version": "11.5.3",
+    "version": "12.4.0",
     "t3_versions": [
-      11
+      12
     ],
     "description": "Adds infos to linked files in your website (filetype and -size).",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-aSU1/u6fuzm7saTq1cryh3tciE+BSaUf9+Zf+XHxS5Q="
   },
   "pb_filelist": {
     "version": "3.0.2",
@@ -42642,12 +42647,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "pb_rel_nofollow": {
-    "version": "11.5.1",
+    "version": "12.4.0",
     "t3_versions": [
-      11
+      12
     ],
     "description": "Adds a rel-nofollow-attribute to extern links. You can exclude URLs by typoscript.",
-    "hash": "sha256-r/YJurfrOQSJxTO4OK4C6HBzbgmh4DtdDIGqLMMQISQ="
+    "hash": "sha256-9jeWbBb/+xbq33CXPO5LwF0VH9NumAyv49Pjymidy1U="
   },
   "pb_rsslaufschrift": {
     "version": "1.0.1",
@@ -50117,13 +50122,15 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "seo_aspect_ratios": {
-    "version": "1.0.1",
+    "version": "1.0.4",
     "t3_versions": [
       9,
-      10
+      10,
+      11,
+      12
     ],
     "description": "Common aspect ratios for the TYPO3 CMS system extension typo3/cms-seo",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-g6+IWiyqIRPKUznLxoporofSsS2WzDH8qYdqJ58Ij2s="
   },
   "seo_basics": {
     "version": "0.10.1",
@@ -53490,12 +53497,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sourceopt": {
-    "version": "5.2.2",
+    "version": "5.2.3",
     "t3_versions": [
       12
     ],
     "description": "Optimization of the final page: reformatting the (x)HTML output & removal of new-lines, comments and generator-info including search and replace strings using your regular expressions. In addition combines all SVG selected within content-elements into one <symbol> file and replaces <img> by <use>.",
-    "hash": "sha256-Yq7qxVUgi8eMNDQg0W1pDdIAxM+q57ufhfznItu/tHw="
+    "hash": "sha256-eYQ6ZUlJF7uZglAY15x1JRxoG+xqRqjNDm0X/QqeQ/k="
   },
   "sox_calendar": {
     "version": "1.0.11",
@@ -54797,14 +54804,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "static_info_tables_taxes": {
-    "version": "0.7.1",
+    "version": "0.7.2",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Tables and functions used for dealing with taxes",
-    "hash": "sha256-tWeELsb1wLzjnR8FL4e83F7LuC5Ur+rqMEuL4cHQ9Ls="
+    "hash": "sha256-W600toKbbF5rN70b8hge0GeBLjV9sLb3KbEZBRZeVuI="
   },
   "static_info_tables_th": {
     "version": "7.0.0",
@@ -57660,14 +57667,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "tcpdfbill_tt_products": {
-    "version": "0.4.1",
+    "version": "0.4.3",
     "t3_versions": [
-      10,
       11,
       12
     ],
     "description": "tt_products Extension with automatic PDF bill generation using the TCPDF library. Works with tt_products 2.14.3-3.5.99",
-    "hash": "sha256-/YMTLnMTsEVVaVJWzdsFVtLL4zlvPoCogXhhxUTtgjo="
+    "hash": "sha256-qJwK1jtUPpmRENd/I4o9ylMaxGayv8+3xPY9BRI0CbY="
   },
   "td_calendar": {
     "version": "0.4.0",
@@ -63343,12 +63349,12 @@
     "hash": "sha256-iM1zb6VUJMaSf/kBAMS/gJmRPCYAXh34cd/HNI7X37s="
   },
   "warming": {
-    "version": "3.3.0",
+    "version": "3.3.1",
     "t3_versions": [
       12
     ],
     "description": "Warms up Frontend caches based on an XML sitemap. Cache warmup can be triggered via TYPO3 backend or using a console command. Supports multiple languages and custom crawler implementations.",
-    "hash": "sha256-hu5K4y7ZRhd9hAVA6NSJW8KgTl68B8rMFwZIovpUeig="
+    "hash": "sha256-UgTdBV1jF01PzlxpmqxjOSMzjC9jFjflZzQRViI4Ee8="
   },
   "warmup": {
     "version": "1.3.1",
@@ -64813,12 +64819,10 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ws_slider": {
-    "version": "12.1.4",
-    "t3_versions": [
-      12
-    ],
+    "version": "13.1.0",
+    "t3_versions": [],
     "description": "Universal slider carousel for Owl slider, flexslider, ... ",
-    "hash": "sha256-1kHS1W1S4sYl//ZWDngefztN1ok856FJIFUTpHFizGE="
+    "hash": "sha256-eIa5KZJ7Fg3P0a2uFxYSOgsjB0o9AvMfVmU5Hxi6xeA="
   },
   "ws_stats": {
     "version": "0.2.0",
