@@ -3613,12 +3613,12 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.324.13",
+    "version": "3.325.0",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-UOvsw34hUFHZLZZBXA/blwB/ga74HitJFQdRbYEzVI0="
+    "hash": "sha256-oBtya5C3B2JQ6EAYR+EvTEDbhSDPXZK2182rFoqlgko="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -3732,12 +3732,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "backendtools": {
-    "version": "5.3.2",
+    "version": "6.0.1",
     "t3_versions": [
       12
     ],
-    "description": "9 admin tools: extension-list, recent pages & elements, backend layouts, redirects import & check, file-deletion, missing files, images with no alt or title and link-list.",
-    "hash": "sha256-Y6+zFEXW0gdImh5CO2Qs5B0Q62HRBpRtsoP0uyX34qQ="
+    "description": "8 admin tools: extension-list, recent pages & elements, backend layouts, redirects import & check, missing files, images with no alt or title and link-list.",
+    "hash": "sha256-84XGE0LJuEaoYPR26cpoVpRPtZNbo65eieRIwn3erbU="
   },
   "backendwiki": {
     "version": "0.1.1",
@@ -10978,14 +10978,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cropvariantsbuilder": {
-    "version": "1.0.1",
+    "version": "2.0.1",
     "t3_versions": [
-      8,
-      9,
-      10
+      11,
+      12
     ],
     "description": "Simplify writing cropVariants for TYPO3 Integrators/Developers",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-Q5z2PROavy3uDmPUEXzSHrDU6fnW6VyuvMQvMv/RlAg="
   },
   "crossadsens": {
     "version": "1.0.1",
@@ -15550,13 +15549,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "dp_cookieconsent": {
-    "version": "12.2.6",
+    "version": "13.0.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Enable a cookie consent box. Let you visitors control the usage of cookies and load script or content after a consent. (ePrivacy, TTDSG)",
-    "hash": "sha256-6MmUL9+sVxNASdLbKJ3m5WWme0L+6pn8Un8VWfFhj6g="
+    "hash": "sha256-e1870c5BXqbgDg6DVd7qMRCBK+x6Maxda7Vu8EBY6sg="
   },
   "dp_editpanel": {
     "version": "0.0.2",
@@ -29649,6 +29648,15 @@
     "description": "Addition for ke_search: Adds an additional field to DAM that lets you assign ke_search tags to DAM records",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "ke_search_honeypot": {
+    "version": "11.5.2",
+    "t3_versions": [
+      10,
+      11
+    ],
+    "description": "",
+    "hash": "sha256-vSQoKrpHh6CGlkq0G1jC3zktOMWMSNipDyXy/tQsn9o="
+  },
   "ke_search_hooks": {
     "version": "5.1.0",
     "t3_versions": [
@@ -32461,13 +32469,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mail": {
-    "version": "3.0.2",
+    "version": "3.1.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Powerful newsletter system for TYPO3",
-    "hash": "sha256-RXwiTZB6u1SqFoOEaJQfWqd0piQ6FGoUpPT8DQw9TmE="
+    "hash": "sha256-r2+ITqykqBNS7AswSEGNA5R5tTwF2inC/pFyy08/MZM="
   },
   "mail2news": {
     "version": "2.0.3",
@@ -50384,12 +50392,10 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sf_register": {
-    "version": "12.0.1",
-    "t3_versions": [
-      12
-    ],
+    "version": "13.0.1",
+    "t3_versions": [],
     "description": "Offers the possibility to maintain the fe_user data in frontend by the user self.",
-    "hash": "sha256-+UMdxE0/g0SnyLPvvh2MwIRNTVG/cxqfcV9UYb2NVsY="
+    "hash": "sha256-1MxHgoCrYBiISg5kOKKj90xM29KBGPq4Wlf/KdJHDv8="
   },
   "sf_simple_faq": {
     "version": "1.3.0",
@@ -53497,12 +53503,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sourceopt": {
-    "version": "5.2.3",
+    "version": "5.2.4",
     "t3_versions": [
       12
     ],
     "description": "Optimization of the final page: reformatting the (x)HTML output & removal of new-lines, comments and generator-info including search and replace strings using your regular expressions. In addition combines all SVG selected within content-elements into one <symbol> file and replaces <img> by <use>.",
-    "hash": "sha256-eYQ6ZUlJF7uZglAY15x1JRxoG+xqRqjNDm0X/QqeQ/k="
+    "hash": "sha256-GItGb3uy+WK+GdWoIhSdLz+j5IKUbRl/lYPoGn2/0LI="
   },
   "sox_calendar": {
     "version": "1.0.11",
@@ -62969,13 +62975,13 @@
     "hash": "sha256-jWR/gqSKGzy0yv3fdtX0Dp3GycnE25dhtg/sCI8t/hI="
   },
   "vite_asset_collector": {
-    "version": "1.11.0",
+    "version": "1.12.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Bundle your TYPO3 frontend assets with Vite",
-    "hash": "sha256-X4jSP/4DBRxkJxQT1RoXui66UG6P8ZL6UGl1FKRU1dw="
+    "hash": "sha256-WyR9C3dMtw5hRtWCWBOamoe/iPxRjBJI4PSBHzNu6k4="
   },
   "vjchat": {
     "version": "0.3.4",
