@@ -3613,12 +3613,12 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.325.1",
+    "version": "3.325.2",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-l+867xF7Ma69Fad4mXjUwYik69r9gab/c/iEka7vylI="
+    "hash": "sha256-1hWLa/lROPjuJ+fTVBOYR3zSLSTENTbbQhV0fDThQIg="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -28930,13 +28930,10 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "just_news": {
-    "version": "3.0.0",
-    "t3_versions": [
-      11,
-      12
-    ],
+    "version": "4.0.0",
+    "t3_versions": [],
     "description": "Easy, flexible and lightweight news extension. No extra tables needed, using pages for news articles.",
-    "hash": "sha256-+1+COzZDPO5E2BizseT2Xr7P+HYxCvHsghtvSXk1mYE="
+    "hash": "sha256-qJMQaTrrNi14qko7Bl1+mt8gBzc0dtVOdd0xL7ad6U8="
   },
   "just_realurl": {
     "version": "0.0.1",
@@ -30053,14 +30050,14 @@
     "hash": "sha256-B8cG5VGOBsXGaVdfZV82qp+AvGJ278Fn2fifVEeWrBk="
   },
   "klarokratie": {
-    "version": "12.4.10",
+    "version": "12.4.13",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Includes Klaro! Consent-Manager into TYPO3. Completely file-based configuration for versioning without having to take care of database-entries. This extension automatically adds a consent-overlay to embedded YouTube- and Vimeo-Videos.",
-    "hash": "sha256-Lm9Kmn3w3hbCrx/xFml82p2DS1FvHd6QdRO+Q7UnFlw="
+    "hash": "sha256-3kFC42sv1KAMxCSz8EhTKTW/rwO1v13ShbVnmukSKOw="
   },
   "km_dam_extension": {
     "version": "1.0.2",
@@ -41325,13 +41322,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "operations": {
-    "version": "8.0.5",
+    "version": "8.1.0",
     "t3_versions": [
-      11,
       12
     ],
     "description": "TYPO3 extension to manage firefighter operations with detailed reports, images, used resources or vehicles, map view for locations.",
-    "hash": "sha256-fkT0bGqHPr22209P34jH7h2lxeajRrNQzuTkHvRvC4o="
+    "hash": "sha256-2cgNiZXgQqzD3ZgTWRjt62uPACZzbkSrCMvTmN3Dy38="
   },
   "opetraining": {
     "version": "0.0.1",
@@ -43902,12 +43898,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "plain_faq": {
-    "version": "4.0.2",
+    "version": "4.0.3",
     "t3_versions": [
       12
     ],
     "description": "Plain FAQ extension with list and detail view. Migration commands to migrate data and plugin settings from ext:irfaq",
-    "hash": "sha256-B9kAMc1cyAfivkUTch9AuObY7qZuycn4n3uj3Fxsw78="
+    "hash": "sha256-DDVqfj7vvuxIlM+iaNLA/jo5Y4+M8wBIK6xAVx99I0s="
   },
   "plainlynx": {
     "version": "0.0.1",
@@ -50311,18 +50307,16 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sf_banners": {
-    "version": "7.1.0",
-    "t3_versions": [
-      12
-    ],
+    "version": "8.0.0",
+    "t3_versions": [],
     "description": "Banner-Management Extension based on Extbase and Fluid. Loads banners asynchronously using JavaScript.",
-    "hash": "sha256-ADSfnGhgPuKvXKftw/pfQOAgLM9tVhH29DTvVMUWMBU="
+    "hash": "sha256-nk6QyRtptgf9DP0vKYT3qllWU31vfbAWhLyiG61a1/E="
   },
   "sf_books": {
-    "version": "9.0.1",
+    "version": "10.0.0",
     "t3_versions": [],
     "description": "Managing lots of books is not easy without a good tool.",
-    "hash": "sha256-TT4LeoLSjr03Nn1/HOwr0qLAUg/Kg4GD6IIQfs+PBeE="
+    "hash": "sha256-/r5QtxBPyy7fk2HDRAxvBYt9RtyQI1Zf4XEYkPUxxYE="
   },
   "sf_event_mgt": {
     "version": "8.0.0",
@@ -54874,12 +54868,12 @@
     "hash": "sha256-2R8oCWKd5G3bZTY9MPatnegnTWtFW1aPq6WS5ZJLr1s="
   },
   "staticfilecache": {
-    "version": "14.0.1",
+    "version": "15.0.2",
     "t3_versions": [
       12
     ],
     "description": "Transparent static file cache solution using mod_rewrite and mod_expires. Increase performance for static pages by a factor of 230!!",
-    "hash": "sha256-ktXp6SslWvwZfcGh2t6NyEM+uizyMB14FFsBc7v4vv8="
+    "hash": "sha256-O5zvDlRiML0jXASA8XETgXXrTiWoxFYUgf+7Dw1dJrw="
   },
   "staticpathrouteresolver": {
     "version": "1.3.0",
@@ -55103,12 +55097,10 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "store_finder": {
-    "version": "7.0.14",
-    "t3_versions": [
-      12
-    ],
+    "version": "8.0.0",
+    "t3_versions": [],
     "description": "Manage store locations, search by distance and show Google maps.",
-    "hash": "sha256-42NCuE7KEaiZ+R29nOPFTSjCo2wknS++AYEWfxlkcLU="
+    "hash": "sha256-e0opsTwBlxc+oDEFX05ZnMf3D/+Z9faTB7uJI8RhcqQ="
   },
   "store_hours": {
     "version": "0.1.1",
@@ -57579,13 +57571,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "tcabuilder": {
-    "version": "3.2.0",
+    "version": "3.3.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Utility to easily maintain and create your TCA forms",
-    "hash": "sha256-aWfO6CZlmP0bnrDJ7TczdPXriHMWGS9ramelw3bXAy0="
+    "hash": "sha256-oJ0na2AaU7FqHkuv1Y/YjRnU4cjv0kWo7zgw4iLRYTE="
   },
   "tcamanipulate": {
     "version": "0.1.7",
