@@ -9854,12 +9854,12 @@
     "hash": "sha256-nojgxmC8j+XPLFm76DHFtvL1kWmSAQzZwGIl4IV9pQ0="
   },
   "container_elements": {
-    "version": "6.0.1",
+    "version": "6.0.2",
     "t3_versions": [
       12
     ],
     "description": "Provides content elements powered by container and bootstrap. Available elements: container, columns, grid, tabs, accordion, tile unit, card, randomizer and slider.",
-    "hash": "sha256-Z685YOm6xP2KwE5OD17wR0FvaaFb775hgaLVMp7GNio="
+    "hash": "sha256-uW6rh+6L33awJDKwaXsgPDx0WUHU8rc2yCpoBKZA2gM="
   },
   "container_example": {
     "version": "1.0.0",
@@ -46401,10 +46401,10 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "recaptcha": {
-    "version": "14.0.0",
+    "version": "14.0.2",
     "t3_versions": [],
     "description": "Integrates google reCAPTCHA and invisible reCAPTCHA in EXT:form, EXT:sf_register",
-    "hash": "sha256-rCxZVT0gBxawbcN2Kvyl0pkbcEFvSKh3AyDG2t+migs="
+    "hash": "sha256-01sEm449wA5CKJPF92gBPZTaq2fn91ArKdyz/XmVWRI="
   },
   "recent_comments": {
     "version": "0.2.0",
