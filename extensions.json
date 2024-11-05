@@ -1592,12 +1592,10 @@
     "hash": "sha256-ee1Rl3Ok1e1HP2daIVmwXQEzGrTz2ymo8zv8dhHnoHI="
   },
   "ai_suite": {
-    "version": "12.5.2",
-    "t3_versions": [
-      12
-    ],
+    "version": "13.0.0",
+    "t3_versions": [],
     "description": "Adds a backend module as well as various helper functionalities and features to your TYPO3 backend, which are intended to make the daily work of editors easier and faster with the help of AI.",
-    "hash": "sha256-0bGT9zFPZ/nDzGEWLCsnTy8EJZrbjXwk9lpBuDX+PNU="
+    "hash": "sha256-rcwlgd2lIinnYlyoJWwRwIa2xnWTcE8B7hS8WRCRvL0="
   },
   "ai_tools": {
     "version": "0.0.1",
@@ -13044,12 +13042,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "dce": {
-    "version": "3.2.3",
+    "version": "3.2.4",
     "t3_versions": [
       12
     ],
     "description": "Best flexform based content elements since 2012. With TCA mapping feature, simple backend view and much more features which makes it super easy to create own content element types.",
-    "hash": "sha256-g4NdHO53/CJG6Ah1mpi527yWtQ+iJP10PqMHhPcH16Q="
+    "hash": "sha256-KGOlk2gFsQFgTTCLf8WNJAzt1itjw9wNEkhx9jLeZ20="
   },
   "dcformcreator": {
     "version": "0.0.3",
@@ -18137,13 +18135,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "external_import": {
-    "version": "7.2.6",
+    "version": "7.2.7",
     "t3_versions": [
       11,
       12
     ],
     "description": "Tool for importing data from external sources into the TYPO3 CMS database, using an extended TCA syntax. Provides a BE module, a Scheduler task, a command-line tool and an API.",
-    "hash": "sha256-bcPponM1boXCYVb/nrhJmTJ2WzCHaaouqGbuUWMz5+s="
+    "hash": "sha256-qLpheiqSED26kzYCW2vVB1c15ND8vMfrJHH1mO7Yp9M="
   },
   "external_import_tt_products": {
     "version": "0.0.1",
@@ -30050,14 +30048,14 @@
     "hash": "sha256-B8cG5VGOBsXGaVdfZV82qp+AvGJ278Fn2fifVEeWrBk="
   },
   "klarokratie": {
-    "version": "12.4.13",
+    "version": "12.4.14",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Includes Klaro! Consent-Manager into TYPO3. Completely file-based configuration for versioning without having to take care of database-entries. This extension automatically adds a consent-overlay to embedded YouTube- and Vimeo-Videos.",
-    "hash": "sha256-3kFC42sv1KAMxCSz8EhTKTW/rwO1v13ShbVnmukSKOw="
+    "hash": "sha256-YDo+7xFXoKs+CsbxXUlSKK2XVsTIV3RB50ohXCjfvLg="
   },
   "km_dam_extension": {
     "version": "1.0.2",
@@ -53455,13 +53453,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "solver": {
-    "version": "0.2.15",
+    "version": "0.2.16",
     "t3_versions": [
       11,
       12
     ],
     "description": "Extends TYPO3's exception handling with AI generated solutions. Problems can also be solved from command line. Several OpenAI parameters are configurable and prompts and solution providers can be customized as desired.",
-    "hash": "sha256-Loh2QsAfcKaVlbehZO9xAyKgOWgz7NDniZo9IGTIxHM="
+    "hash": "sha256-bMqums5pnOo3r2CneIMmFaCeLoMBa/u+ETx62HAOers="
   },
   "sorp": {
     "version": "0.1.0",
@@ -53936,12 +53934,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sr_feuser_register": {
-    "version": "12.4.6",
+    "version": "12.4.7",
     "t3_versions": [
       12
     ],
     "description": "A self-registration variant of Kasper Skårhøj's Front End User Admin extension for TYPO3 CMS.",
-    "hash": "sha256-MCRNRnVCFWHNp5S44DPVb5YaluCB0Ehxi2QL4A++1cg="
+    "hash": "sha256-nBNKw/Yl9XfAgg/hlrC9xwVW1vHPHE6vbvxYaI7Z8QE="
   },
   "sr_freecap": {
     "version": "12.4.5",
@@ -61888,13 +61886,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "typo3_ohdear_health_check": {
-    "version": "11.4.0",
+    "version": "12.4.1",
     "t3_versions": [
       10,
-      11
+      11,
+      12
     ],
     "description": "TYPO3 Oh Dear Health Check",
-    "hash": "sha256-XOzv5hfunFRv80dx7yi6BsFxWAsCqPRwexm11RwzIAQ="
+    "hash": "sha256-PSykNuixNSBQh6UeEOB3YU1hVossC53SinmAx1mpJOg="
   },
   "typo3_sentry_client": {
     "version": "1.6.0",
