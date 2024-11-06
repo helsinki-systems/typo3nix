@@ -4517,10 +4517,10 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "belogin_images": {
-    "version": "7.0.0",
+    "version": "7.1.0",
     "t3_versions": [],
     "description": "Display random Background Images from different sources at your TYPO3 BackendLogin Page.",
-    "hash": "sha256-LNZ8vyobMbunb+N7Yji7yng+6Wl2cVGvz4+bY/kPXLc="
+    "hash": "sha256-qRtTDmaK6nYZXCw30eR0eHWjD6FSDST2+7+kbKjVKbM="
   },
   "bepagination": {
     "version": "0.1.0",
@@ -8870,6 +8870,12 @@
     ],
     "description": "",
     "hash": "sha256-jtZ/SVseorC61qUNj2/IeIXcQl/lcNEszt4h2D/WvVA="
+  },
+  "clickio_consent": {
+    "version": "1.2.15",
+    "t3_versions": [],
+    "description": "The fastest way to activate Clickio Consent in Typo3. Comply with GDPR, TCF and Consent Mode in minutes.",
+    "hash": "sha256-S3eWb2yLVNbw9VFDbRLBmaX8SjqpZw+/ffVDGCPlFxA="
   },
   "clickskeks": {
     "version": "2.1.0",
@@ -18536,7 +18542,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fancybox": {
-    "version": "1.0.6",
+    "version": "1.1.0",
     "t3_versions": [
       8,
       9,
@@ -18545,7 +18551,7 @@
       12
     ],
     "description": "Adds the fancyBox of fancyapps to the website.",
-    "hash": "sha256-TMR8DLcylcVqfjNcxMp5OD5czAbWQFxrwSFR+ZrAxsU="
+    "hash": "sha256-jJ6fylNXzdK/V/B69y8io3eDBdlW5lLvUgJdCXR3fu8="
   },
   "fancyboxcontent": {
     "version": "9.5.0",
@@ -23563,12 +23569,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "gridgallery": {
-    "version": "1.1.0",
+    "version": "1.2.0",
     "t3_versions": [
       12
     ],
     "description": "Adds a modern gridgallery content element to the website.",
-    "hash": "sha256-y9zO+nFdrUc3TeKd1lMXNl8WCGJRWzGZ5Og7Sh0ABZA="
+    "hash": "sha256-WqrKbXiHqFsgZFEpA9X3nIwBZpl639pFM55WokGJT9Q="
   },
   "gridtocontainer": {
     "version": "12.2.1",
@@ -27042,13 +27048,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "it_kanzlei": {
-    "version": "2.1.1",
+    "version": "2.1.2",
     "t3_versions": [
       11,
       12
     ],
-    "description": "",
-    "hash": "sha256-WoPJ5RuXsxil9ZyJjlVUbVoQKh7svK/lTrUjrBR2W5M="
+    "description": "This extension is no longer supported. Please use the itrk_legaltexts_typo3 extension instead.",
+    "hash": "sha256-M/wKX6MSXYkHjgSyUvyQbkjUn8BPqV8CAu0nbUJ1dtc="
   },
   "it_ttnews_extender": {
     "version": "0.1.1",
@@ -27090,6 +27096,16 @@
     ],
     "description": "With this extension you can build your own industry directory for IT and Media",
     "hash": "sha256-MU2LYimY9CgdhXAkWY++DAG+5widZLn2IGr2rvxO6Jc="
+  },
+  "itrk_legaltexts_typo3": {
+    "version": "3.0.1",
+    "t3_versions": [
+      10,
+      11,
+      12
+    ],
+    "description": "A TYPO3 extension that integrates legally compliant documents, such as terms and conditions or privacy policies, directly into your TYPO3 site from the IT-Recht Kanzlei service. This extension requires an active IT-Recht Kanzlei subscription to receive the latest legal texts automatically pushed and updated within TYPO3.",
+    "hash": "sha256-bygLgDiPJavPtxM7i8zm+acUrCymSeFQCFKUIlKMB3A="
   },
   "its_addmark_tt_products": {
     "version": "0.0.2",
@@ -29644,13 +29660,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ke_search_honeypot": {
-    "version": "11.5.2",
+    "version": "11.5.3",
     "t3_versions": [
       10,
       11
     ],
     "description": "",
-    "hash": "sha256-vSQoKrpHh6CGlkq0G1jC3zktOMWMSNipDyXy/tQsn9o="
+    "hash": "sha256-HXLwEYPaOJ3NfIqp33LlTyiPMS3jEjDHDllAgeDSBko="
   },
   "ke_search_hooks": {
     "version": "5.1.0",
@@ -32464,13 +32480,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mail": {
-    "version": "3.1.1",
+    "version": "3.2.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Powerful newsletter system for TYPO3",
-    "hash": "sha256-ZQ1S5EK+4BEJNLdJGEn4NzpKExfpqDLZRgoVU0ReYqo="
+    "hash": "sha256-uJLQNwrj3ZhMh7XixoIjD0GAVp2O5DRw3YuYXrCLN5c="
   },
   "mail2news": {
     "version": "2.0.3",
@@ -39788,13 +39804,13 @@
     "hash": "sha256-K/57p/jayI26fpgfM9gkq6lhcvJSuer1I5/PbsJCics="
   },
   "ns_news_comments": {
-    "version": "12.2.3",
+    "version": "13.0.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "All New TYPO3 News Comment Extension helps add comments to your news pages and articles. It comes with a variety of features for managing and customizing comments. It is designed to enhance user experience with a simple interface and is SEO-friendly.",
-    "hash": "sha256-vnHknNZ1rxmqey6yHyWY5At/O+M+zWtqK8Hp6uEVwyU="
+    "hash": "sha256-3JUafyWieLeiN5q4cKB8nNEFnlAjq5onkTbIrXrrYDo="
   },
   "ns_news_slider": {
     "version": "12.0.2",
@@ -44301,12 +44317,12 @@
     "hash": "sha256-FPksWFGVJNXjbkh5cvv1NQwmwWzuX3aDX10gKH5LHgc="
   },
   "popup_power": {
-    "version": "1.3.0",
+    "version": "1.3.4",
     "t3_versions": [
       12
     ],
     "description": "Powerful TYPO3 extension to display popups. Buy the PRO Version here: https://popup-power.slavlee.de/buy-pro",
-    "hash": "sha256-SIGByMVAaGP3pgkbJ0igg/urwuTAoNjrF7nVIOFQwYA="
+    "hash": "sha256-xg6oJCEDgsdhpqwpkHm6NORWxlXk0h45JqJ2u+W7Z1k="
   },
   "popup_sitemap": {
     "version": "1.1.2",
@@ -50978,13 +50994,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "shop": {
-    "version": "4.7.0",
+    "version": "4.7.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Simple Shop for TYPO3 incl. PayPal, PayPal-Plus, Klarna, Stripe, Bookmarks, UPS-API, Invoice generation, backend module, compare feature, graduated prices and many more - note there is a Pro version as well!",
-    "hash": "sha256-ME7a3/YXf8fMkl60o3BfIkpRwwCeLvE1WhmbuHBVSjQ="
+    "hash": "sha256-YcR+x6/8UlSmnIj1TAcwpm2iBqc0THHJ1fxxErxsJVU="
   },
   "shop3ox": {
     "version": "0.0.3",
@@ -53495,12 +53511,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sourceopt": {
-    "version": "5.2.4",
+    "version": "5.2.5",
     "t3_versions": [
       12
     ],
     "description": "Optimization of the final page: reformatting the (x)HTML output & removal of new-lines, comments and generator-info including search and replace strings using your regular expressions. In addition combines all SVG selected within content-elements into one <symbol> file and replaces <img> by <use>.",
-    "hash": "sha256-GItGb3uy+WK+GdWoIhSdLz+j5IKUbRl/lYPoGn2/0LI="
+    "hash": "sha256-hIEUmANYqFGEtPyK78jnhsSaCiWHWeiKpwMpCatQvFg="
   },
   "sox_calendar": {
     "version": "1.0.11",
@@ -66264,12 +66280,10 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "z7_semantilizer": {
-    "version": "4.1.1",
-    "t3_versions": [
-      12
-    ],
+    "version": "4.2.0",
+    "t3_versions": [],
     "description": "Simplify your semantic heading structure.",
-    "hash": "sha256-SbpYXOXoC43hlHw/gYguHXFtallOVVBw5M60eoUMXOY="
+    "hash": "sha256-UkFTjBA6jtXipYTLNXZe9HTSIOk9dHqvqmi0X+p2pfI="
   },
   "zabbix_client": {
     "version": "13.2.0",
