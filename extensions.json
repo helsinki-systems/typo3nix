@@ -1598,12 +1598,13 @@
     "hash": "sha256-rcwlgd2lIinnYlyoJWwRwIa2xnWTcE8B7hS8WRCRvL0="
   },
   "ai_tools": {
-    "version": "0.0.1",
+    "version": "0.0.8",
     "t3_versions": [
-      11
+      11,
+      12
     ],
     "description": "Use A.I. Tools in the TYPO3 backend. Generate Images, Image Variants and Describe Images.",
-    "hash": "sha256-QckxUijIPEdD6LVvP3jLwr2sT0hqgrIdc0gptF3NW5Q="
+    "hash": "sha256-PXHzQixN6uAhitdRZwCWEdNKlEmRBeArgVr3X+3FDS0="
   },
   "ai_translate": {
     "version": "3.1.1",
@@ -3611,12 +3612,12 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.325.2",
+    "version": "3.325.3",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-1hWLa/lROPjuJ+fTVBOYR3zSLSTENTbbQhV0fDThQIg="
+    "hash": "sha256-60ciLN9ZheiFC6QfI1qNFD9bZY18kvY6P4koSajyzHc="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -25114,14 +25115,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "iconpack": {
-    "version": "1.1.8",
+    "version": "1.1.9",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Provides an iconpack-registry for various iconpacks.",
-    "hash": "sha256-/G3arw0BcBDxhOLdJVfVDmawnw2TNP7uYFfOc3E5rgk="
+    "hash": "sha256-dGwSx5kfa37VHZDCp1GKWhRjST9LKTl62WKwuvlUjHc="
   },
   "iconpack_bootstrap": {
     "version": "1.3.1",
@@ -26000,12 +26001,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "imageoptimizer": {
-    "version": "4.0.1",
+    "version": "4.0.3",
     "t3_versions": [
       12
     ],
     "description": "Optimize uploaded/processed images with binaries of your choice",
-    "hash": "sha256-uDroHPhW0Zn2UdlnXHUrELdVlQXbHNXxh8xkI0syKk8="
+    "hash": "sha256-TgDWfVrX6k36F1N6aiIw2vxnAVSPrb76q1/OHUG/1x8="
   },
   "imagerotation": {
     "version": "0.1.1",
@@ -26313,13 +26314,13 @@
     "hash": "sha256-BFdTRWWeRaqtvDUFfouCjp9+is3B2SY0zKVQskUhklI="
   },
   "in2publish_core": {
-    "version": "12.5.5",
+    "version": "12.5.6",
     "t3_versions": [
       11,
       12
     ],
     "description": "Content publishing extension to connect stage and production server",
-    "hash": "sha256-Nl6PjcEGF+M0O/bMefx8/+S/ELdpqdXEDFTwMyH5sxg="
+    "hash": "sha256-STCg5lvTBRK4c4mjxeN+G7jM2W6vv7sur9tuhWCePBc="
   },
   "in2rss": {
     "version": "0.2.2",
@@ -49847,6 +49848,14 @@
     "description": "improve indexed_search with the phonex algorithm to correct bad spelling and/or suggest other words who sounds like searched term.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "searchable": {
+    "version": "5.3.2",
+    "t3_versions": [
+      11
+    ],
+    "description": "Elasticsearch companion API for TYPO3",
+    "hash": "sha256-kQSpSYlURik5TpCibjme3mLkmw4jO9nokS0itk3qYdA="
+  },
   "searchbar": {
     "version": "2.0.1",
     "t3_versions": [
@@ -50994,13 +51003,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "shop": {
-    "version": "4.7.1",
+    "version": "4.7.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "Simple Shop for TYPO3 incl. PayPal, PayPal-Plus, Klarna, Stripe, Bookmarks, UPS-API, Invoice generation, backend module, compare feature, graduated prices and many more - note there is a Pro version as well!",
-    "hash": "sha256-YcR+x6/8UlSmnIj1TAcwpm2iBqc0THHJ1fxxErxsJVU="
+    "hash": "sha256-D7swNeZzxywuH8Uyydl8PIzGVqso9Znb6dNZHTN/ve4="
   },
   "shop3ox": {
     "version": "0.0.3",
@@ -56736,12 +56745,10 @@
     "hash": "sha256-PWjebAUcZW+8wLMf3q97iMMTBf2zpK5dvum6sD9Pq/A="
   },
   "t3sbootstrap_grid": {
-    "version": "3.0.0",
-    "t3_versions": [
-      12
-    ],
+    "version": "4.0.0",
+    "t3_versions": [],
     "description": "Bootstrap 5 grid system from the EXT:t3sbootstrap. Example and info: www.t3sbootstrap.de/dokumentation/extensions/t3sbootstrap-grid - This extension was sponsored by Michael Baer.",
-    "hash": "sha256-1h+z/BqT6SzZ9qeWcaq88sgPgKfGvO6KHvkNFA14BiI="
+    "hash": "sha256-j8dc5BJZEe5kypV8D729TObMrDGcG3VhlJ8g11g9r6I="
   },
   "t3scodehighlight": {
     "version": "0.1.2",
@@ -62016,12 +62023,12 @@
     "hash": "sha256-dlN/719ZingF4xM+3z3d5FqB2vVw8c6w8SfziiSslyE="
   },
   "typoscript_code": {
-    "version": "6.3.1",
+    "version": "7.0.0",
     "t3_versions": [
-      11
+      12
     ],
     "description": "This extension allows you to insert any TypoScript code to a page as a normal content element.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-0zNNvLiF6uhDI0FEo+kKz/Tp9J1/k8CWrNWQH3t8JOs="
   },
   "typoscript_conditions": {
     "version": "1.0.0",
@@ -62790,13 +62797,10 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "video_shariff": {
-    "version": "3.2.0",
-    "t3_versions": [
-      11,
-      12
-    ],
+    "version": "4.0.0",
+    "t3_versions": [],
     "description": "This extension provides more privacy when embedding videos in frontend.",
-    "hash": "sha256-I2LoZfJtYJSQ4kdWV1JCHWXtUTe35TsSsRlduE9rF8g="
+    "hash": "sha256-VfWKibh+93U32C3RFch5159Xl9p3mQZFXFET8vYP3ds="
   },
   "video_validator": {
     "version": "4.0.0",
@@ -65609,12 +65613,12 @@
     "hash": "sha256-uQ4GBLN8ShXIUHsZQtKKQ6DOq4oDlVm7b+/fkeohmMk="
   },
   "xima_typo3_frontend_edit": {
-    "version": "1.1.0",
+    "version": "1.2.0",
     "t3_versions": [
       12
     ],
     "description": "This extension provides an edit button for editors within frontend content elements.",
-    "hash": "sha256-3tHtlGGJtyen5JKQyFJpZxzbyBA7+YY1DLRoUPIddZs="
+    "hash": "sha256-+30Z0diahs9VTtySxR01XKHvbRXTmAWnDJjAYIqwtG0="
   },
   "xima_typo3_mailcatcher": {
     "version": "1.6.0",
