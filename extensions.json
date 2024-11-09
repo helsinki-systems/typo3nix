@@ -3612,12 +3612,12 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.325.4",
+    "version": "3.325.5",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-6mwTKv7hspO/Lj0+XWhe9k7hrel+x3GXKvWUli2t0sY="
+    "hash": "sha256-hRJW9LfH4vAcwP99EMFsONuH5tVoKSWE/GpgfkzL9LM="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -19495,14 +19495,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fh_debug": {
-    "version": "0.17.2",
+    "version": "0.17.3",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "This generates a PHP debug output file. FileWriter into debug",
-    "hash": "sha256-qEP346PfhqmgZaA0/1JBboQvUqUPg0pr0GS3ZA1xHJ0="
+    "hash": "sha256-/f2dsGvSJLoy6DM0zsTuLWOBaxwtPi+atbzAeiZOQNM="
   },
   "fh_library": {
     "version": "0.0.20",
@@ -32490,13 +32490,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mail": {
-    "version": "3.2.1",
+    "version": "3.2.3",
     "t3_versions": [
       11,
       12
     ],
     "description": "Powerful newsletter system for TYPO3",
-    "hash": "sha256-wwlwt6G7TRV8UUt36pHIjHh0chqioV0KTTpvxuaM9xk="
+    "hash": "sha256-8V+iPuWuPhLbbex/Tekx+edB/Q1xWHk+vAFzjT+qf2E="
   },
   "mail2news": {
     "version": "2.0.3",
@@ -38755,12 +38755,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "newsslider": {
-    "version": "6.0.1",
+    "version": "7.0.0",
     "t3_versions": [
       12
     ],
     "description": "Slider Template-Layout for versatile news extension (tx_news).",
-    "hash": "sha256-iuwtcMlSZTq4RbmiMlt+NiK26Zv9Vy251CVMFYV21VA="
+    "hash": "sha256-uJeJf/6bZopKPPRCHLAzV4hwnQUCUb38OyhmDoGAfLc="
   },
   "newsstylist": {
     "version": "5.1.0",
@@ -44404,12 +44404,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "powermail": {
-    "version": "12.4.3",
+    "version": "12.4.4",
     "t3_versions": [
       12
     ],
     "description": "Powermail is a well-known, editor-friendly, powerful",
-    "hash": "sha256-dvVJTUQzH9hW9whgXfboP1rLSK7uJWiGa5+YUqqoqkQ="
+    "hash": "sha256-XcHX89FSZ1pWG7pdalG1HjhA7kJyOOkjUFhJ2mLG4fM="
   },
   "powermail2document": {
     "version": "1.6.1",
@@ -56746,12 +56746,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "t3sbootstrap": {
-    "version": "5.3.17",
+    "version": "5.3.18",
     "t3_versions": [
       12
     ],
     "description": "Startup extension to use bootstrap 5 classes, components and more out of the box. Example and info: www.t3sbootstrap.de",
-    "hash": "sha256-PWjebAUcZW+8wLMf3q97iMMTBf2zpK5dvum6sD9Pq/A="
+    "hash": "sha256-/ILueaFUlrYCOHUFyzPMS1geooBuKhDAds3WVbMJ2NI="
   },
   "t3sbootstrap_grid": {
     "version": "4.0.0",
