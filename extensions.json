@@ -60861,13 +60861,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "tslib_fetce": {
-    "version": "0.8.1",
+    "version": "0.9.0",
     "t3_versions": [
-      11,
       12
     ],
-    "description": "It brings the deprecated TYPO3 4.x class tslib_feTCE and the processScript FEData setup with new features partly back into TYPO3 10+. This is needed by extensions based on the former TYPO3 FORM like tt_board and tt_guest. Only form MAIL and form wizards additionally require code provided by the extension compatibility6.",
-    "hash": "sha256-7lgwnyW2O9oVzeU0aUjXegOIIfCfYkzFXomSTk5BjoY="
+    "description": "It brings the deprecated TYPO3 4.x class tslib_feTCE and the processScript FEData setup with new features partly back into TYPO3 10 and later. This is needed by extensions based on the former TYPO3 FORM like tt_board and tt_guest. Only form MAIL and form wizards additionally require code provided by the extension compatibility6.",
+    "hash": "sha256-Ri0jjfOz2blPnk40VXT9gRqXuS6WOqlfDcW9r2RMdSk="
   },
   "tslib_patcher": {
     "version": "0.1.4",
