@@ -1598,13 +1598,13 @@
     "hash": "sha256-m7u9OV6tuBfrVIKtffIvac3emCW2JcX7uxDr+de8Z7k="
   },
   "ai_tools": {
-    "version": "0.0.8",
+    "version": "0.0.9",
     "t3_versions": [
       11,
       12
     ],
     "description": "Use A.I. Tools in the TYPO3 backend. Generate Images, Image Variants and Describe Images.",
-    "hash": "sha256-PXHzQixN6uAhitdRZwCWEdNKlEmRBeArgVr3X+3FDS0="
+    "hash": "sha256-Rjo9qSCgGUEd+mxM4tvZCOb42IcElXznGGpE+2rJ63U="
   },
   "ai_translate": {
     "version": "3.1.1",
@@ -19201,12 +19201,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "femanager": {
-    "version": "8.2.0",
+    "version": "8.2.1",
     "t3_versions": [
       12
     ],
     "description": "TYPO3 Frontend User Registration and Management based on",
-    "hash": "sha256-pJ8R7kXnTxdexWvk1nsc75U1WQ7f68vFXTtXpU2adSo="
+    "hash": "sha256-Vh05oTEk99CMa2RmWVv8XRUutoJe7gJrF+7bEiEiO5M="
   },
   "femanager_cleverreach": {
     "version": "3.0.0",
@@ -21005,10 +21005,12 @@
     "hash": "sha256-uibWMcL680MSUa1oHcMCQU9knmKaym82i3kF+6LhFho="
   },
   "form_country_select": {
-    "version": "3.0.0",
-    "t3_versions": [],
+    "version": "3.1.0",
+    "t3_versions": [
+      12
+    ],
     "description": "Form element for selecting a country from a localised list",
-    "hash": "sha256-xHMUmUruf2U8HfHh1n+Hwg1F4FBnYhvxxRYQdSlrBAc="
+    "hash": "sha256-zI/AhMUQpm4wg0ertfHnjOmH0n9HXCXpmryClbhsTnI="
   },
   "form_crshield": {
     "version": "2.0.0",
@@ -21147,13 +21149,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "form_rate_limit": {
-    "version": "1.6.1",
+    "version": "1.7.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "TYPO3 form finisher for rate limiting when sending a form",
-    "hash": "sha256-tweUiLivIFaiSGL66ThgmDyft0aO3JhsHUC2EZ8Ysjw="
+    "hash": "sha256-UlrCMJQPOa37JdC05lt4bTLPiMzGrfNcMxR5mOMiofc="
   },
   "form_search": {
     "version": "2.0.0",
@@ -31826,12 +31828,12 @@
     "hash": "sha256-vaz0VX+HGkCuFUxa9HPgD2Qb/Dw2xRWHmQY3J1A/WOY="
   },
   "loki": {
-    "version": "1.1.0",
+    "version": "1.1.1",
     "t3_versions": [
       11
     ],
     "description": "Transport or prepare TYPO3 log messages for Loki.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-gAgtiq+qrjgR5BzPgUEXT0gJ9mejel25hllLKUT3eg0="
   },
   "lonewsaddress": {
     "version": "3.1.0",
@@ -32490,13 +32492,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mail": {
-    "version": "3.2.3",
+    "version": "3.2.5",
     "t3_versions": [
       11,
       12
     ],
     "description": "Powerful newsletter system for TYPO3",
-    "hash": "sha256-8V+iPuWuPhLbbex/Tekx+edB/Q1xWHk+vAFzjT+qf2E="
+    "hash": "sha256-UhmDcfxbcRtHbbNuKH5mEfcevIckZQULMhKI3tXJnh8="
   },
   "mail2news": {
     "version": "2.0.3",
@@ -33564,13 +33566,13 @@
     "hash": "sha256-rAvXtHZfCLd9H+9HLN/RtGO630IgNYZkli3hCQ2pRb0="
   },
   "md_news_clickcount": {
-    "version": "3.0.2",
+    "version": "3.0.3",
     "t3_versions": [
       11,
       12
     ],
     "description": "With this extension you are able to count views of ext:news records. You can display a list with most viewed news and delete the statistics automatically with a scheduler task.",
-    "hash": "sha256-XlM2RsidEpEIpNa1e+qBVeeogN/6fqsG5n8q5DulV7s="
+    "hash": "sha256-4ewB6d0RuySa4/McRJWbGZ7NJK/32HiV2dJD9vw9yz4="
   },
   "md_newsfrontend": {
     "version": "4.0.0",
@@ -62748,14 +62750,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "vhs": {
-    "version": "7.0.6",
+    "version": "7.0.7",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "A collection of ViewHelpers for performing rendering tasks that are not natively provided by the Fluid templating engine.",
-    "hash": "sha256-2zKHYPBgP0TqwSqYgDUa9VaF7UpqgqPVsnZcN/kMKlw="
+    "hash": "sha256-Y25RntChPyVveeJfn72eD8tR848kBQ9HOEH9tyAUlOU="
   },
   "vhs_scss": {
     "version": "2.0.3",
@@ -64681,12 +64683,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "wr_deepl_translate": {
-    "version": "1.1.2",
+    "version": "1.1.5",
     "t3_versions": [
       12
     ],
     "description": "Automatic translations of entire TYPO3 websites with DeepL. Quick and easy. Without extra languages in the backend and without headaches.",
-    "hash": "sha256-zj4wEWKZUF9QtSOoTuOaN+/GrJUbKM0ZQEyheqwwEiE="
+    "hash": "sha256-uuWVNmUU3XV3aJzLPFQxHiCwrg9j4/HaPSQDF+I8AIo="
   },
   "wrg_anotherbelogin": {
     "version": "0.0.4",
