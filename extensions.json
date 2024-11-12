@@ -3612,12 +3612,12 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.325.5",
+    "version": "3.325.6",
     "t3_versions": [
       12
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-hRJW9LfH4vAcwP99EMFsONuH5tVoKSWE/GpgfkzL9LM="
+    "hash": "sha256-yFTOk3sE+aZKhKqrCC9G59ze4ObV0j44ZVnhqWsmKxY="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -9923,10 +9923,12 @@
     "hash": "sha256-XMv2jq5x6yytPyER7yVjRV9/nZ+nL3HR8SiwiCkMkN4="
   },
   "content_blocks": {
-    "version": "1.0.3",
-    "t3_versions": [],
+    "version": "1.0.4",
+    "t3_versions": [
+      13
+    ],
     "description": "TYPO3 CMS Content Blocks - Content Types API",
-    "hash": "sha256-5GG8Sn3DfvfPcsb+bpczdk3PZlc0VQHe/9dHI1NchbI="
+    "hash": "sha256-cS8WA4yOLPV/Cj2vvU6Gf5nWVWdavfDRehtBrjleYqg="
   },
   "content_consent": {
     "version": "3.0.1",
@@ -15414,12 +15416,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "doctrine_migrations": {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "t3_versions": [
+      11,
       12
     ],
     "description": "TYPO3 extension for versioned migration files, integrating doctrine/migrations",
-    "hash": "sha256-WoVOqdqVfIUJyA6VSDNBmHsj1ZPUpKw5lwTqNhtq2m8="
+    "hash": "sha256-OyuaAl/MDIxxXzyqZvBUdraK3mX/AZMi0P/7L/ijNyg="
   },
   "doctrine_orm": {
     "version": "1.0.3",
@@ -17572,12 +17575,12 @@
     "hash": "sha256-fW7FJmsbuCfvKGtcrpJ6zM6iWzSVTnJkqvick5+P1mI="
   },
   "events2": {
-    "version": "9.0.9",
+    "version": "9.1.0",
     "t3_versions": [
       12
     ],
     "description": "Create single and recurring events",
-    "hash": "sha256-bMqaF64Xi1Q1Y2+b/vopHWMfixmMu1OFBxM/agzIvuA="
+    "hash": "sha256-KWf9vb01T+jzOwuiJT7hRAnLSlsGTDfAVSjsPp8PVmw="
   },
   "events2_reserve_connector": {
     "version": "1.0.0",
@@ -23302,13 +23305,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "gotobackend": {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "t3_versions": [
       10,
       11
     ],
     "description": "Add a button in Admin Panel to jump from a frontend page into the according backend area",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-P8v7ZAsUrirOC1Rw6Cga7oxtS9bW4XsVlX/4O2Hxtvg="
   },
   "gotoedit": {
     "version": "0.0.4",
@@ -39565,12 +39568,13 @@
     "hash": "sha256-/280QR/TsvRchum0/fsMvTSUoWFnaH5cIQpLpz5roi8="
   },
   "ns_comments": {
-    "version": "12.1.2",
+    "version": "13.0.0",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "The TYPO3 Comment Extension simplifies the process for visitors to leave comments on your website's published pages. It utilizes nested comments to create a user-friendly experience. Admins receive email notifications, allowing them to easily manage comments either through email or the backend.",
-    "hash": "sha256-WDOECOdwXySE28Q0DCohOdHqwj0nQ9QPxIjZP1vPRp4="
+    "hash": "sha256-MpBliwWpAjfKgTo/8onMYHPz9gIqC1H5vbqbkMMBULw="
   },
   "ns_cookiebot": {
     "version": "4.0.0",
@@ -44406,12 +44410,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "powermail": {
-    "version": "12.4.4",
+    "version": "12.5.0",
     "t3_versions": [
       12
     ],
     "description": "Powermail is a well-known, editor-friendly, powerful",
-    "hash": "sha256-XcHX89FSZ1pWG7pdalG1HjhA7kJyOOkjUFhJ2mLG4fM="
+    "hash": "sha256-UMRdfgDC+Md52bHkyd+B8aV7hUWYOUNrvbC+unZb1r8="
   },
   "powermail2document": {
     "version": "1.6.1",
@@ -53970,20 +53974,18 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sr_feuser_register": {
-    "version": "12.4.7",
+    "version": "12.4.8",
     "t3_versions": [
       12
     ],
     "description": "A self-registration variant of Kasper Skårhøj's Front End User Admin extension for TYPO3 CMS.",
-    "hash": "sha256-nBNKw/Yl9XfAgg/hlrC9xwVW1vHPHE6vbvxYaI7Z8QE="
+    "hash": "sha256-B2RRiXafrwofIbQ3qMuehJMqv1p9dFTXBKcvF2/ELc0="
   },
   "sr_freecap": {
-    "version": "12.4.5",
-    "t3_versions": [
-      12
-    ],
+    "version": "13.4.0",
+    "t3_versions": [],
     "description": "A TYPO3 integration of freeCap CAPTCHA.",
-    "hash": "sha256-mimQ7CdjVR+DnV0NtKCc+boZlRe4MozAGKrjKvGlamI="
+    "hash": "sha256-PpKvG1geoW+G4e24Jo9Z1oOmTCKsU2AHyldiwHpDbkY="
   },
   "sr_guestbook": {
     "version": "2.0.0",
@@ -54506,12 +54508,10 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "static_info_tables": {
-    "version": "12.4.4",
-    "t3_versions": [
-      12
-    ],
+    "version": "13.4.0",
+    "t3_versions": [],
     "description": "Data and API for countries, languages and currencies for use in TYPO3 CMS.",
-    "hash": "sha256-NfyQN2uv+dQ+yHN6ur5veRzFqJ8lY4rutePKcrmfqgc="
+    "hash": "sha256-S0iz0HNw4o1VaHQO5OFJkkWoZyVxSnYm5W8VeFfYW1U="
   },
   "static_info_tables_airports": {
     "version": "0.1.0",
@@ -60985,13 +60985,12 @@
     "hash": "sha256-KHFg2YrQeolZphyDlmmjTGp04I/6IU1WrktMh0c4lNQ="
   },
   "tt_board": {
-    "version": "1.15.0",
+    "version": "1.16.0",
     "t3_versions": [
-      11,
       12
     ],
     "description": "Simple threaded (tree) or list message board (forum).",
-    "hash": "sha256-t+PqvZftF9aVX5N77Ee876lsaWLGI/xIQQQLjBigRG4="
+    "hash": "sha256-jgXjWGi2b1mvyXGp6UI/BM7ura8XU+P6yYIzkIJZjsM="
   },
   "tt_calender": {
     "version": "1.0.5",
@@ -63323,12 +63322,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "wacon_cookie_management": {
-    "version": "5.0.0",
+    "version": "5.0.1",
     "t3_versions": [
       12
     ],
     "description": "WCM is a typo3 extension that enables website visitors to control and manage the usage of cookies on the website (commonly known as \"cookie consent box\"). Thus it helps website owner to be in line with the rules of the General Data Protection Regulation (GDPR) which took effect on 25 May 2018.",
-    "hash": "sha256-9QbwgOBuMgOE1+6bjMIrZCCSrH6askVYKnTHJsnAauU="
+    "hash": "sha256-WjJH0HJX/msh8mxxGeZmCMx1kMganJsys0q5x2jY6Pg="
   },
   "wacon_csv2html": {
     "version": "2.0.0",
@@ -63375,12 +63374,12 @@
     "hash": "sha256-iM1zb6VUJMaSf/kBAMS/gJmRPCYAXh34cd/HNI7X37s="
   },
   "warming": {
-    "version": "3.3.1",
+    "version": "3.3.2",
     "t3_versions": [
       12
     ],
     "description": "Warms up Frontend caches based on an XML sitemap. Cache warmup can be triggered via TYPO3 backend or using a console command. Supports multiple languages and custom crawler implementations.",
-    "hash": "sha256-UgTdBV1jF01PzlxpmqxjOSMzjC9jFjflZzQRViI4Ee8="
+    "hash": "sha256-txehw2ibEhZ+ZtODPj0mKx3d22Hs6yst8SkOCNM1284="
   },
   "warmup": {
     "version": "1.3.1",
@@ -63643,13 +63642,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "webcare": {
-    "version": "2.0.0",
+    "version": "3.0.0",
     "t3_versions": [
-      10,
-      11
+      12,
+      13
     ],
     "description": "",
-    "hash": "sha256-mjZ7Sn6TYSE+J1EQPwAQl0Y0SLY4BULMX/ESQSXblx4="
+    "hash": "sha256-xUrvvRmvGqfacJTdJBl5IFyWrViXC3vyJOg7iVmhVys="
   },
   "webcon_ftptransfer": {
     "version": "1.0.0",
