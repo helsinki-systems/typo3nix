@@ -3612,12 +3612,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.325.6",
+    "version": "3.325.7",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-yFTOk3sE+aZKhKqrCC9G59ze4ObV0j44ZVnhqWsmKxY="
+    "hash": "sha256-pR2/rYv7Odz1z3OUvGIqBUNmOe4m8iyS+PYX6NSDAWY="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -25744,13 +25745,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ig_ldap_sso_auth": {
-    "version": "4.0.1",
+    "version": "4.0.2",
     "t3_versions": [
       11,
-      12
+      12,
+      13
     ],
     "description": "This extension provides LDAP support for TYPO3 by delegating the authentication of frontend and/or backend users to the centrally-managed directory of your organization. It fully supports OpenLDAP and Active Directory and is capable of connecting securely to the authentication server using either TLS or SSL (ldaps://).",
-    "hash": "sha256-RZKVrkFp3WmhW02y2++wrXc2U27yPFjArycZSK1zR9s="
+    "hash": "sha256-YrJaSK+Fe4hcLffxyvqFPRcaHPz23eM9ur8NVrZfhzo="
   },
   "ig_log404errors": {
     "version": "1.0.0",
@@ -33085,13 +33087,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mask": {
-    "version": "8.3.11",
+    "version": "9.0.0",
     "t3_versions": [
-      11,
-      12
+      12,
+      13
     ],
     "description": "Create your own content elements and page templates. Easy to use, even without programming skills because of the comfortable drag and drop system. Stored in structured database tables. Style your frontend with Fluid tags. Ideal, if you want to switch from Templavoila.",
-    "hash": "sha256-YaUHRh7EBteR/ekl9uLB1CjtQP14MwhfTI4nS7FJuJ0="
+    "hash": "sha256-uJXfZ0OWHodHo2IsUR/PHzj0GpD2sKjj5XjUD3J1Hs0="
   },
   "mask_export": {
     "version": "4.0.2",
@@ -39542,12 +39544,13 @@
     "hash": "sha256-GCMOaAbhVj1Ii9m2Z8UMP/+VyuTEGY1M7M80Xm9djQE="
   },
   "ns_basetheme": {
-    "version": "12.2.4",
+    "version": "13.0.0",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "The architecture of parent/child TYPO3 theme concept. Explore https://t3planet.com and https://nitsantech.com",
-    "hash": "sha256-faPo3wfZN1k91U5XNTCUenGCfUn6Ax9qO9mgzayFs/I="
+    "hash": "sha256-Gp1Qrz8x/3g0237tSXmbqvTzz++tdWGfPDKA7b5jR1g="
   },
   "ns_cache_webhook": {
     "version": "1.0.1",
@@ -47041,12 +47044,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "restler": {
-    "version": "12.0.3",
+    "version": "12.0.4",
     "t3_versions": [
       12
     ],
     "description": "This extension integrates the REST-API-framework \"restler\" in TYPO3",
-    "hash": "sha256-O3TeYOffLKF07yOQYyYE6cFkPLDQbcO8rrw0cPuVdRU="
+    "hash": "sha256-zVM8zGMBTT6dbyZZYo0NQ03hepWyzf/uEKAKOMUKIVw="
   },
   "restler_examples": {
     "version": "11.0.1",
