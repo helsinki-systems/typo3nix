@@ -1582,14 +1582,14 @@
     "hash": "sha256-oCsFaEnHC0fQ0ySHU0A4bYAyNBpjGRVvFgmpdhbmkbE="
   },
   "ai_seo_helper": {
-    "version": "0.6.2",
+    "version": "0.7.0",
     "t3_versions": [
-      10,
       11,
-      12
+      12,
+      13
     ],
     "description": "Generates SEO metadata based on content using AI. Currently several metadata for pages and articles of EXT:news can be generated using an additional button next to the corresponding input fields.",
-    "hash": "sha256-ee1Rl3Ok1e1HP2daIVmwXQEzGrTz2ymo8zv8dhHnoHI="
+    "hash": "sha256-VjFx9kagkYZ+UP502oKGTs64zlOsNZ0JCvSkQosql58="
   },
   "ai_suite": {
     "version": "13.0.1",
@@ -3612,13 +3612,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.325.7",
+    "version": "3.326.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-pR2/rYv7Odz1z3OUvGIqBUNmOe4m8iyS+PYX6NSDAWY="
+    "hash": "sha256-xNufbFEjC7Rv9v4wQIFVh0CBwCG9iNLYeHpgxH79mtI="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -6504,13 +6504,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cache_bags": {
-    "version": "0.1.0",
+    "version": "0.2.0",
     "t3_versions": [
       11,
-      12
+      12,
+      13
     ],
     "description": "Allows to build and register cache bags during runtime. A cache bag can be used to define cache metadata like cache tags and calculate expiration dates for specific cache entries.",
-    "hash": "sha256-bmCpidq4qmfUXdzVGlfbRdDmmYGQTlQbFlFJQ7WQLRk="
+    "hash": "sha256-GnW3uWuBZvPZW85D2Lp1H2ZfKE5dDMin731s1r8zcZM="
   },
   "cache_check": {
     "version": "1.0.0",
@@ -21112,10 +21113,12 @@
     "hash": "sha256-UOLvZAmdrImJlknw6xHe/IlNUjhE/JQ1MaS1I+GKou4="
   },
   "form_mailtext": {
-    "version": "3.0.0",
-    "t3_versions": [],
+    "version": "3.0.1",
+    "t3_versions": [
+      13
+    ],
     "description": "This extension enhances the Email finishers of EXT:form by a new field \"Mail text\" (message) that allows the editor to define the mail text within the form plugin in the backend.",
-    "hash": "sha256-+7M+LEfENI7iLruavSCPaDJik7sFH89TffsN+X6C/do="
+    "hash": "sha256-0OP95Z1ueDH2hDG9sehdLqQkCShOJ3xP0xQpcgxWLPY="
   },
   "form_module_enhancer": {
     "version": "0.0.2",
@@ -21153,13 +21156,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "form_rate_limit": {
-    "version": "1.7.0",
+    "version": "1.7.1",
     "t3_versions": [
       11,
-      12
+      12,
+      13
     ],
     "description": "TYPO3 form finisher for rate limiting when sending a form",
-    "hash": "sha256-UlrCMJQPOa37JdC05lt4bTLPiMzGrfNcMxR5mOMiofc="
+    "hash": "sha256-m/2VGyloXleXI8qochITaH/NCo25dMoMF2ce5pf3obk="
   },
   "form_search": {
     "version": "2.0.0",
@@ -22945,13 +22949,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "glossary2": {
-    "version": "6.0.1",
+    "version": "7.0.0",
     "t3_versions": [
-      11,
-      12
+      13
     ],
     "description": "This TYPO3 extension creates a glossary with A-Z links for you",
-    "hash": "sha256-31NQJvtCXfLHkefauKKNQHAlUKn9SvW710kGEhrUjP8="
+    "hash": "sha256-wrG//h/TV9aQ268H/fhkfObJ47Id2azcp0diYJVmqLY="
   },
   "glossary_one": {
     "version": "1.0.4",
@@ -32701,13 +32704,14 @@
     "hash": "sha256-at4B3Q17Tq8FpS0iDk/j8VFn3jRbYoE5u+7vTFE1a0w="
   },
   "mailqueue": {
-    "version": "0.3.2",
+    "version": "0.4.0",
     "t3_versions": [
       11,
-      12
+      12,
+      13
     ],
     "description": "Extension to improve TYPO3's mail spooler with additional components",
-    "hash": "sha256-m42CcM8bOyzM+eUHZQV2eSbgJbKgEQKlz1Q+dtkXrJk="
+    "hash": "sha256-818qM5dH/QK6wr70FjzooYYovuyyIyFi20zFMfISOII="
   },
   "mailupload": {
     "version": "0.0.1",
@@ -36510,24 +36514,26 @@
     "hash": "sha256-jeY6kpYKdO+XO6m9TSm4oeu/qrPqf1VszZV6m5hZ6Ho="
   },
   "mst_reloadtrigger": {
-    "version": "0.1.7",
+    "version": "0.1.8",
     "t3_versions": [
       9,
       10,
       11,
-      12
+      12,
+      13
     ],
     "description": "add a trigger that can be watched by browsersync",
-    "hash": "sha256-630sGhZs0kajoIRCxAV6k87apquCF+EnRIP7b0oOUb8="
+    "hash": "sha256-gW358m+R8mod7IoHifrW9yYgI/ozKYDTFVZhwSyiS1g="
   },
   "mst_yaml2tca": {
-    "version": "0.0.15",
+    "version": "0.0.18",
     "t3_versions": [
       11,
-      12
+      12,
+      13
     ],
     "description": "Load contentelements from yaml in register in new element wizard",
-    "hash": "sha256-WJb/KecSZVwQu4HvxkK/xxuTWDp9bJyWZzM9xmGatMA="
+    "hash": "sha256-6OOfYuKxrNpRqzwELJ1cQsbQnprT3aHWtqnm2Im2Nvw="
   },
   "msw_shoutbox": {
     "version": "1.0.0",
@@ -40969,6 +40975,25 @@
     "description": "OpenID Connect Server.",
     "hash": "sha256-K/P/DecwHkA4wPEkCss5SmiAM8xp8FtK8eNDQZB2ln4="
   },
+  "ok_exchange365_mailer": {
+    "version": "3.0.2",
+    "t3_versions": [
+      11,
+      12,
+      13
+    ],
+    "description": "A TYPO3 extension for sending emails using Exchange 365 and Microsoft Graph API",
+    "hash": "sha256-A5hhR9Inp3ofYU8OYpOmlSZ1sdWwF+P1Dnm03ECIb6M="
+  },
+  "ok_typo3_helper": {
+    "version": "3.0.2",
+    "t3_versions": [
+      12,
+      13
+    ],
+    "description": "A TYPO3 extension with helper traits and utilities.",
+    "hash": "sha256-3QSPnduVzGX8WYRtimrvODmxlGm2QJZBdyNQDqrF09Q="
+  },
   "ol_donationmeter": {
     "version": "1.1.1",
     "t3_versions": [],
@@ -41119,13 +41144,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "onetimeaccount": {
-    "version": "7.1.0",
+    "version": "7.1.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Allow users to create a short-lived FE user account without having to enter a user name or password.",
-    "hash": "sha256-rGpssNfC03/ehd0xcctk3HSWv/L8QCbzhQvPmQfi/b0="
+    "hash": "sha256-B76e6Wglku+1OCgnVkQ1TZU2a8I3B8ArbMB5lIyR1uQ="
   },
   "onetimesecret": {
     "version": "1.2.1",
@@ -44447,12 +44472,12 @@
     "hash": "sha256-pmF02elaEIPa0hT7bj7fWRcPMiuXx70XLwBheXPHgcU="
   },
   "powermail_cleaner": {
-    "version": "4.1.0",
+    "version": "12.0.0",
     "t3_versions": [
-      11
+      12
     ],
     "description": "A Powermail extension to clean up answers with files via Scheduler / Command line or Backend",
-    "hash": "sha256-Yxc2vmQ1FE0G010CWAxFNHuXQL/aULoz36Psc8wlARw="
+    "hash": "sha256-3LdQALLY43/Ufj4yP0Ztg5o0o4vFujokFNnp6XsV3DU="
   },
   "powermail_cond": {
     "version": "11.2.3",
@@ -54905,12 +54930,13 @@
     "hash": "sha256-2R8oCWKd5G3bZTY9MPatnegnTWtFW1aPq6WS5ZJLr1s="
   },
   "staticfilecache": {
-    "version": "15.0.2",
+    "version": "15.1.0",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "Transparent static file cache solution using mod_rewrite and mod_expires. Increase performance for static pages by a factor of 230!!",
-    "hash": "sha256-O5zvDlRiML0jXASA8XETgXXrTiWoxFYUgf+7Dw1dJrw="
+    "hash": "sha256-XXGcKQhnE09L4w+yDNYU+LvDhNUrWTW9+PQl4a5btCo="
   },
   "staticpathrouteresolver": {
     "version": "1.3.0",
@@ -62998,13 +63024,13 @@
     "hash": "sha256-jWR/gqSKGzy0yv3fdtX0Dp3GycnE25dhtg/sCI8t/hI="
   },
   "vite_asset_collector": {
-    "version": "1.12.0",
+    "version": "1.13.0",
     "t3_versions": [
-      11,
-      12
+      12,
+      13
     ],
     "description": "Bundle your TYPO3 frontend assets with Vite",
-    "hash": "sha256-WyR9C3dMtw5hRtWCWBOamoe/iPxRjBJI4PSBHzNu6k4="
+    "hash": "sha256-bVD/03aktix5TrftkUnvPyVRUSgAUCWodrF5T9Wy0cE="
   },
   "vjchat": {
     "version": "0.3.4",
