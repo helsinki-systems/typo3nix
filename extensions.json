@@ -3612,13 +3612,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.327.1",
+    "version": "3.328.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-fBSnodIjIM/uBM7b+/vtbyNDdhAvRP7CGS+J0lJl0pU="
+    "hash": "sha256-od6lMB2SsGYkc82A0v35pXblHhfgpA2Y0eKODdG+INY="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -14212,12 +14212,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "div2007": {
-    "version": "2.2.4",
+    "version": "2.2.5",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "This library offers classes and functions to other TYPO3 extensions. Replacement for tslib_pibase methods.",
-    "hash": "sha256-YME9DeNbej3L1lmoDi8Z2bSAyikhDPdz0U3LldDql5E="
+    "hash": "sha256-J797xNaPnkBLxLvJMgTIWYBoc+KyuoTf9S/e71HxtWo="
   },
   "diva": {
     "version": "8.7.1",
@@ -42340,12 +42341,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "paste_reference": {
-    "version": "3.0.0",
+    "version": "4.0.0",
     "t3_versions": [
-      12
+      13
     ],
     "description": "Paste reference instead of copy for content elements",
-    "hash": "sha256-iwpbIu+nJDh0C/gxe6s76GD+WbX++iUDuj7INeZjAWo="
+    "hash": "sha256-QnR0rCVI1JYuWVMhOMCe9Qd/QMT+jIRYFwUZCwLKJbs="
   },
   "patch10011": {
     "version": "0.6.0",
@@ -43960,12 +43961,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "plain_faq": {
-    "version": "4.0.3",
+    "version": "5.0.1",
     "t3_versions": [
-      12
+      13
     ],
-    "description": "Plain FAQ extension with list and detail view. Migration commands to migrate data and plugin settings from ext:irfaq",
-    "hash": "sha256-DDVqfj7vvuxIlM+iaNLA/jo5Y4+M8wBIK6xAVx99I0s="
+    "description": "Plain FAQ extension with list and detail view",
+    "hash": "sha256-4lNXkSLIIecJ5z2pvYFTZmUvUkiMwGjV7wm8EGmcQEM="
   },
   "plainlynx": {
     "version": "0.0.1",
@@ -47764,7 +47765,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "rn_base": {
-    "version": "1.19.0",
+    "version": "1.19.1",
     "t3_versions": [
       8,
       9,
@@ -47773,7 +47774,7 @@
       12
     ],
     "description": "TYPO3 plugins based on rn_base can use MVC design principles and domain driven development. This extension also provides an abstraction layer for TYPO3 API to support LTS version since 6.2.",
-    "hash": "sha256-Omkwt1GLCxAW48+h4zbC1U1OqT3zL7e4M5tNc30AcJc="
+    "hash": "sha256-I+SFv3SBcAS9dpXnKM8nu3QX2J/KzW67BuDv/StPbHc="
   },
   "rn_memento": {
     "version": "0.0.1",
