@@ -15607,13 +15607,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "dpn_glossary": {
-    "version": "5.3.2",
+    "version": "6.0.0",
     "t3_versions": [
-      11,
-      12
+      12,
+      13
     ],
     "description": "Glossary extension with page parser",
-    "hash": "sha256-w9Q/sS3rn2vBpvMtDdl3RB3/s2X/vU6uQJsn6KlUvn8="
+    "hash": "sha256-cgRzyTn/P5yiVY15PTKotMtivQAi62TszI6wLhlHuIE="
   },
   "dr_blob": {
     "version": "2.3.2",
@@ -32392,6 +32392,54 @@
     "description": "Subscribe and unsubscribe for Newsletter",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "maagitblog": {
+    "version": "13.4.1",
+    "t3_versions": [
+      13
+    ],
+    "description": "Versatile agenda system based on Extbase & Fluid and using latest technologies provided by TYPO3 CMS.",
+    "hash": "sha256-Bar2oRsxHyv/K6l9DoxTxc4Dc7632z03vEH2wDnxukY="
+  },
+  "maagitcookie": {
+    "version": "13.4.1",
+    "t3_versions": [
+      13
+    ],
+    "description": "Cookie consent functionality for using websites provided by TYPO3 CMS.",
+    "hash": "sha256-134KKdtKxDPfD5CEQoBZI0fn5GFG5QQSglpprS3v7Iw="
+  },
+  "maagitevent": {
+    "version": "13.4.1",
+    "t3_versions": [
+      13
+    ],
+    "description": "Versatile agenda system based on Extbase & Fluid and using latest technologies provided by TYPO3 CMS.",
+    "hash": "sha256-xhkYowafmXVaWagrysq9TmiERExvLyzpliphO5VkNF4="
+  },
+  "maagitproduct": {
+    "version": "13.4.1",
+    "t3_versions": [
+      13
+    ],
+    "description": "Versatile shop system based on Extbase & Fluid and using latest technologies provided by TYPO3 CMS.",
+    "hash": "sha256-yl5DJQMoRrmzRCHJ53Rm7bb/8IGRsmbQ5AJ1J0VwkKk="
+  },
+  "maagitseclink": {
+    "version": "13.4.1",
+    "t3_versions": [
+      13
+    ],
+    "description": "Secure download functionality for Typo3 Websites provided by TYPO3 CMS.",
+    "hash": "sha256-ipfsTky6zcZGT9iK2igR+s92uYVkpJzSGLijnlKDC4w="
+  },
+  "maagituser": {
+    "version": "13.4.1",
+    "t3_versions": [
+      13
+    ],
+    "description": "Versatile login and user system based on Extbase & Fluid and using latest technologies provided by TYPO3 CMS.",
+    "hash": "sha256-goZawcpgULpzoJUpfP4MshNbFi7v/xLJY0yJPTYaWtY="
+  },
   "maca_clubadmin": {
     "version": "0.1.4",
     "t3_versions": [
@@ -33152,13 +33200,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mastertemplate": {
-    "version": "0.6.1",
+    "version": "0.6.2",
     "t3_versions": [
       11,
-      12
+      12,
+      13
     ],
     "description": "This extension makes available the setup of the master template. Originally developed by the NRW user group.",
-    "hash": "sha256-kv2sYMzKZ/ZyxJnM+P99L4QEEeT4MRw7jxk8OWKQkVg="
+    "hash": "sha256-O880QFOgeiKLMvuDyF1wTYXWNwFBeFRQpbBh7MOArjY="
   },
   "mastodon_feed": {
     "version": "1.0.3",
@@ -34775,13 +34824,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "migrate2composer": {
-    "version": "11.0.1",
+    "version": "12.0.0",
     "t3_versions": [
-      11,
-      12
+      12,
+      13
     ],
     "description": "This extension dumps information about currently loaded extensions to screen to be used as composer.json or to run composer commands.",
-    "hash": "sha256-t7klJk04LnwvoVpLnZs/TXNWHKzbGtD6eJKQzEfeoWU="
+    "hash": "sha256-8I+3V7qWlOvQgOaFM+Tbm5lPxdz40c8XWQjuW74lwVo="
   },
   "migrate_redirects": {
     "version": "0.1.1",
@@ -57449,13 +57498,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "tailwind_styled_content": {
-    "version": "1.2.0",
+    "version": "1.2.1",
     "t3_versions": [
       11,
-      12
+      12,
+      13
     ],
     "description": "Alternative for fluid_styled_content using Tailwind CSS, providing a clean, robust and modern starting point.",
-    "hash": "sha256-OifTX8TwDi21PtPsBFFJkVzay8iv5OkpXJGLkOIPiRM="
+    "hash": "sha256-UbigVwP/1k5rk0X0UUBpIFEEoBLNnIF2qGQdZ9RGuTY="
   },
   "tako_qype": {
     "version": "1.0.0",
