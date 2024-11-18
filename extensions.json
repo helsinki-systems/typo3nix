@@ -30210,6 +30210,14 @@
     "description": "Distribution package for initial TYPO3 setup",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "komm_one_jobs": {
+    "version": "1.1.0",
+    "t3_versions": [
+      11
+    ],
+    "description": "Use komm.ONE jobs API to show jobs",
+    "hash": "sha256-SdzFWPyQfsjQ5m5kxrIm02LFvALn09ZkTsAeQoWKPlI="
+  },
   "koning_api_queue": {
     "version": "1.0.4",
     "t3_versions": [
@@ -33144,12 +33152,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mask": {
-    "version": "9.0.1",
+    "version": "9.0.2",
     "t3_versions": [
+      12,
       13
     ],
     "description": "Create your own content elements and page templates. Easy to use, even without programming skills because of the comfortable drag and drop system. Stored in structured database tables. Style your frontend with Fluid tags. Ideal, if you want to switch from Templavoila.",
-    "hash": "sha256-Hualq/W3PY4MLe2KAmk4rgDSUsc4ikMR6eYEdZk5Fq4="
+    "hash": "sha256-cln7nsPovCELFnc8ReDYLxn7VKZqK73oKl6sfctrLto="
   },
   "mask_export": {
     "version": "4.0.2",
@@ -41840,12 +41849,13 @@
     "hash": "sha256-Sxw1g7QWNPE0RTYdLJRWmj9aLFKFeMnb7DZuP928kR0="
   },
   "page_callouts": {
-    "version": "6.0.0",
+    "version": "6.1.0",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "Add callouts to page module in TYPO3 backend",
-    "hash": "sha256-4uRnJZdAHFs/6CuCjNApyvx3fSF+WUOIa1H8Hwly49U="
+    "hash": "sha256-57TI2kqGBXWHi0cOkCFfgZXx2S6IKXpdKFS/NcYMajI="
   },
   "page_creator": {
     "version": "1.0.1",
@@ -42390,12 +42400,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "paste_reference": {
-    "version": "4.0.0",
+    "version": "4.0.1",
     "t3_versions": [
       13
     ],
     "description": "Paste reference instead of copy for content elements",
-    "hash": "sha256-QnR0rCVI1JYuWVMhOMCe9Qd/QMT+jIRYFwUZCwLKJbs="
+    "hash": "sha256-dK23R8XTb6dKZYD3tF7BDty0/ecpVtBukQ9OoONP77Y="
   },
   "patch10011": {
     "version": "0.6.0",
@@ -58811,13 +58821,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "theodia": {
-    "version": "2.2.1",
+    "version": "2.2.2",
     "t3_versions": [
       11,
-      12
+      12,
+      13
     ],
     "description": "Fetch data from theodia.org to display the Mass schedule for the various places of worship in a parish or pastoral unit.",
-    "hash": "sha256-mIbJ+yS1kY72bsGRs4u3A7tXP1rBFQOzKsTnErJnefE="
+    "hash": "sha256-m2SiZ3hP2ih5J+zLLU2ykPbxk/f09hx9zM0UHE/3TOQ="
   },
   "thomasnu": {
     "version": "6.0.0",
@@ -60947,12 +60958,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "tslib_fetce": {
-    "version": "0.9.0",
+    "version": "0.9.1",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "It brings the deprecated TYPO3 4.x class tslib_feTCE and the processScript FEData setup with new features partly back into TYPO3 10 and later. This is needed by extensions based on the former TYPO3 FORM like tt_board and tt_guest. Only form MAIL and form wizards additionally require code provided by the extension compatibility6.",
-    "hash": "sha256-Ri0jjfOz2blPnk40VXT9gRqXuS6WOqlfDcW9r2RMdSk="
+    "hash": "sha256-DXs2YCefpioNHHqujxg7uu1QEX9nasj3sLiDFTaWw/Q="
   },
   "tslib_patcher": {
     "version": "0.1.4",
@@ -61069,12 +61081,13 @@
     "hash": "sha256-KHFg2YrQeolZphyDlmmjTGp04I/6IU1WrktMh0c4lNQ="
   },
   "tt_board": {
-    "version": "1.16.0",
+    "version": "1.16.1",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "Simple threaded (tree) or list message board (forum).",
-    "hash": "sha256-jgXjWGi2b1mvyXGp6UI/BM7ura8XU+P6yYIzkIJZjsM="
+    "hash": "sha256-EKNPlBNDnTqgEWQIz6WoIAhyLLzEn7rawG4CHCD+QKE="
   },
   "tt_calender": {
     "version": "1.0.5",
