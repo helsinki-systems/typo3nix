@@ -3612,13 +3612,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.328.0",
+    "version": "3.328.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-od6lMB2SsGYkc82A0v35pXblHhfgpA2Y0eKODdG+INY="
+    "hash": "sha256-W476BozZxoVbnVNf297Xx47HYLrlzT59tefFRWUpj4c="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -9915,14 +9915,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "content_animations": {
-    "version": "2.4.3",
+    "version": "2.5.1",
     "t3_versions": [
-      10,
-      11,
-      12
+      12,
+      13
     ],
     "description": "This extension allows you to set nice animations to your content elements if they are scrolled into the browsers viewport. To install it include the static typoscript of content_animations to your template and you're good to go. Have fun! :-)",
-    "hash": "sha256-XMv2jq5x6yytPyER7yVjRV9/nZ+nL3HR8SiwiCkMkN4="
+    "hash": "sha256-hmUwMGm8chMoX1ZoeXUFSkCvFcDvvz1N6LFu0TZm40c="
   },
   "content_blocks": {
     "version": "1.0.4",
@@ -20677,12 +20676,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "focuspoint": {
-    "version": "6.0.4",
+    "version": "7.0.0",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "Focuspoint integrate the focal point method to crop images in the frontend of the web page. Use the jQuery-focuspoint plugin (https://github.com/jonom/jquery-focuspoint example http://jonom.github.io/jquery-focuspoint/demos/helper/index.html) to crop the images. Use the function as wizard in the file list view and directly in the content element.",
-    "hash": "sha256-PtMukWjBaiNn/ANgYDRg4yIq/3R8aGoIKNnWAD/dRdY="
+    "hash": "sha256-iHcs3DggGoFLGZmQl+Kgil96e0Q8qE5/pFeegpXXRfk="
   },
   "folder": {
     "version": "0.0.7",
@@ -34168,14 +34168,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "menus": {
-    "version": "1.0.3",
+    "version": "1.1.1",
     "t3_versions": [
-      10,
       11,
-      12
+      12,
+      13
     ],
     "description": "Various Menu functionality for TYPO3 Frontend",
-    "hash": "sha256-0lU0QtkVjTB7jIj6VGuZJk9Rv/DXpo1CW0q6uurm9QU="
+    "hash": "sha256-wxptzBkoIpHqVz46Khs9cSs/yH4+CftXcNwQjW1M144="
   },
   "menustop": {
     "version": "0.0.2",
@@ -40016,12 +40016,13 @@
     "hash": "sha256-UIhobi3TjLBMJT3wLXqTjETstRyk7i9MqFt8vtOmqWo="
   },
   "ns_theme_agency": {
-    "version": "13.0.3",
+    "version": "13.0.4",
     "t3_versions": [
-      12
+      12,
+      13
     ],
-    "description": "Agency TYPO3 template is the ultimate tool to kickstart your project, either a software development company or a product startup or any new business. Live-Demo: https://demo.t3planet.com/?theme=t3t-agency PRO version: https://t3planet.com/t3-agency-free-business-typo3-template",
-    "hash": "sha256-GF8nlNlB01+f2fPRKAz+6/rYF5Ontr611DofWVg/TXE="
+    "description": "T3 Agency Template for TYPO3 Website, for Build your TYPO3 website for a software development company, a product startup or any new business. plus its compatible with the latest TYPO3 v12 & v13.",
+    "hash": "sha256-jGZlFBNuU594cOvwCicK1ImSM3IJX7HQ4M8Eh9uln0s="
   },
   "ns_theme_cleanblog": {
     "version": "12.0.2",
@@ -40049,10 +40050,13 @@
     "hash": "sha256-4QT5PQ+kht4V+mGCSr+iyi4N3tL20NjF4azcHqcqVIA="
   },
   "ns_theme_freelancer": {
-    "version": "13.0.0",
-    "t3_versions": [],
-    "description": "Every freelancer dream just came true, as we have ve made T3 freelancer, Free TYPO3 Portfolio Template! Live-Demo: https://demo.t3terminal.com/?theme=t3t-freelancer PRO-version: https://t3terminal.com/t3-freelancer-free-typo3-portfolio-template",
-    "hash": "sha256-W3T9fpk+gIdfbpn1dToIMZ8axDlMzxnBdIe7PCIQkxE="
+    "version": "13.0.1",
+    "t3_versions": [
+      12,
+      13
+    ],
+    "description": "Are you a TYPO3 freelancer? Are you looking for a free TYPO3 template for your portfolio? Create an eye-catching portfolio and showcase your skills with the T3 Freelancer Template. This template is perfect for illustrating your portfolio and allows you to create stylish presentations.",
+    "hash": "sha256-JPLOtiKU3UDOMVL8TEs7bRfNSmv10GezEVYigyysf1k="
   },
   "ns_theme_newage": {
     "version": "13.0.0",
@@ -47003,14 +47007,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "responsive_images": {
-    "version": "3.1.3",
+    "version": "4.0.0",
     "t3_versions": [
-      10,
-      11,
-      12
+      12,
+      13
     ],
     "description": "Adds responsive images support for many browser types to TYPO3 using the picture tag.",
-    "hash": "sha256-VotJXxntXbXoXwmvPxvO+8mzjVZ29Y3wWmxqZi6YQLQ="
+    "hash": "sha256-D55sqg8Qeet2iTj9F8FMjwPgtmFXXKlrcCcFa4a7arQ="
   },
   "responsive_picture": {
     "version": "1.0.1",
@@ -50699,15 +50702,16 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sg_cookie_optin": {
-    "version": "5.5.3",
+    "version": "6.0.0",
     "t3_versions": [
       9,
       10,
       11,
-      12
+      12,
+      13
     ],
     "description": "",
-    "hash": "sha256-WBMhMSXfVzmfNxTMXcOSG8zuJHePhKk5vEV0t1vPRw4="
+    "hash": "sha256-J02+cN5dr7yldMwdpngmSzBJ5Ls2OqkZAGOs0BNZrCg="
   },
   "sg_cropscale": {
     "version": "0.5.0",
