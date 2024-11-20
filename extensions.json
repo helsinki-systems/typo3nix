@@ -3612,13 +3612,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.328.1",
+    "version": "3.328.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-W476BozZxoVbnVNf297Xx47HYLrlzT59tefFRWUpj4c="
+    "hash": "sha256-wUV0zOSxXtWkor9P9g+6gZKtRztysGf/9AO6XKcTgrw="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -29034,13 +29034,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "jve_upgradewizard": {
-    "version": "12.4.22",
+    "version": "12.4.25",
     "t3_versions": [
       11,
       12
     ],
     "description": "Fixes the ways Typoscript and TSconfig included files: in database and in template extensions",
-    "hash": "sha256-YgTthbK4rZoWr3Tpf+B6bqZtLJe5VT0mEGTkGhDvEMI="
+    "hash": "sha256-h2pTj14H4rSjOslnmcktYDtxaTbJWgXw8vsUUA8DPXc="
   },
   "jw_extjsdirect": {
     "version": "0.0.7",
@@ -33637,13 +33637,13 @@
     "hash": "sha256-rAvXtHZfCLd9H+9HLN/RtGO630IgNYZkli3hCQ2pRb0="
   },
   "md_news_clickcount": {
-    "version": "3.0.3",
+    "version": "3.0.4",
     "t3_versions": [
       11,
       12
     ],
     "description": "With this extension you are able to count views of ext:news records. You can display a list with most viewed news and delete the statistics automatically with a scheduler task.",
-    "hash": "sha256-4ewB6d0RuySa4/McRJWbGZ7NJK/32HiV2dJD9vw9yz4="
+    "hash": "sha256-cWB55GnH/9A/oMTyezNnHRPWs6yGv9SWXX9ELKEHXUY="
   },
   "md_newsfrontend": {
     "version": "4.0.0",
@@ -39830,12 +39830,13 @@
     "hash": "sha256-DSVYVOyfTNbpZqnbsFA6VVfQgOeCL3864aaWXJ+UHyA="
   },
   "ns_helpdesk": {
-    "version": "12.1.0",
+    "version": "13.0.0",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "Manage customer support with the all-in-one TYPO3 Help Desk extension. This user-friendly tool lets you set up a support help desk quickly with support tickets, providing a dedicated dashboard, ticketing system, email notifications, restricted access, and options for file and media uploads.",
-    "hash": "sha256-2S+TEcQQgSK8nZtvOXIKWWSRk0EGoxaqKBA739Bq65E="
+    "hash": "sha256-qSyxALEXkCDkGn41rWZSM05PFcALJvs3b0T/71h0OmQ="
   },
   "ns_hubspot": {
     "version": "1.0.1",
@@ -43726,14 +43727,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "picture": {
-    "version": "3.0.1",
+    "version": "3.0.2",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Improved TYPO3 image ViewHelper creating picture elements with support for sizes, sources, additional image formats, etc.",
-    "hash": "sha256-aG8hHS6w0jslPOI0Sxdmn1uUQzih+hZDZyUunBjMjfE="
+    "hash": "sha256-vyx2EHgqjCEQcFxgNC055zO/yVJZcmaOlo7O+l2rPf4="
   },
   "picturecredits": {
     "version": "2.3.1",
@@ -44429,12 +44430,13 @@
     "hash": "sha256-FPksWFGVJNXjbkh5cvv1NQwmwWzuX3aDX10gKH5LHgc="
   },
   "popup_power": {
-    "version": "1.3.4",
+    "version": "2.0.0",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "Powerful TYPO3 extension to display popups. Buy the PRO Version here: https://popup-power.slavlee.de/buy-pro",
-    "hash": "sha256-xg6oJCEDgsdhpqwpkHm6NORWxlXk0h45JqJ2u+W7Z1k="
+    "hash": "sha256-k6CjmfAtLCknGjDA3Iusi/QkZ7phDQuUj6vlgNQFyV0="
   },
   "popup_sitemap": {
     "version": "1.1.2",
@@ -54998,13 +55000,13 @@
     "hash": "sha256-2R8oCWKd5G3bZTY9MPatnegnTWtFW1aPq6WS5ZJLr1s="
   },
   "staticfilecache": {
-    "version": "15.1.0",
+    "version": "15.1.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "Transparent static file cache solution using mod_rewrite and mod_expires. Increase performance for static pages by a factor of 230!!",
-    "hash": "sha256-XXGcKQhnE09L4w+yDNYU+LvDhNUrWTW9+PQl4a5btCo="
+    "hash": "sha256-NjyxGAdUvnZrM8VB5IbSVwkA+c2jOMe25NvEEq/ltHo="
   },
   "staticpathrouteresolver": {
     "version": "1.3.0",
@@ -63621,14 +63623,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "we_cookie_consent": {
-    "version": "4.1.0",
+    "version": "4.1.1",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Cookie Consent Panel (Optin) with DSGVO/GDPR-compliant use of cookies. Preconfigured modules for Google Analytics, Facebook and other frequently used services. Any extensibility with tracking scripts that generate cookies on your website Support for Google Tag Manager incl. Google Consent Mode and Google Consent Mode v2. Easy export for Google Tag Manager. Third-party cookies and scripts are only loaded if active consent has been given. Website visitors can edit their privacy settings at any time. Automatic update of cookie information when new cookies/scripts with secure consent procedure are inserted. Cookies can be automatically added to the privacy policy via a plugin Multilingual and full support for desktop, tablet and mobile. Four default modes for displaying the content solution, including the display of an always-on icon to access the privacy settings. Based on Klaro!",
-    "hash": "sha256-Ku+E/6414U9K128hHsybVmjtc5dITbDjcItTcSby7vQ="
+    "hash": "sha256-zsCZaCDonk/zfvUcCFc7I89eQXJrebTbNirGeblB8Rk="
   },
   "we_dam2fal": {
     "version": "1.0.12",
