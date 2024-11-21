@@ -1592,10 +1592,12 @@
     "hash": "sha256-VjFx9kagkYZ+UP502oKGTs64zlOsNZ0JCvSkQosql58="
   },
   "ai_suite": {
-    "version": "13.0.1",
-    "t3_versions": [],
+    "version": "13.0.2",
+    "t3_versions": [
+      13
+    ],
     "description": "Adds a backend module as well as various helper functionalities and features to your TYPO3 backend, which are intended to make the daily work of editors easier and faster with the help of AI.",
-    "hash": "sha256-m7u9OV6tuBfrVIKtffIvac3emCW2JcX7uxDr+de8Z7k="
+    "hash": "sha256-9l+hxt6In1KgppFpKk8Up0kj/v6FqdyggZr0hCNEWGU="
   },
   "ai_tools": {
     "version": "0.0.9",
@@ -1623,12 +1625,13 @@
     "hash": "sha256-mLO7/zsLctavB/gvr5k6AC7eiEf9qNvZ/9WPt9NvfxY="
   },
   "aimeos": {
-    "version": "24.10.1",
+    "version": "24.10.2",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "Professional, full-featured and ultra-fast TYPO3 e-commerce extension for online shops, complex B2B applications and #gigacommerce. Turns TYPO3 into the best platform for content commerce and your e-commerce requirements (also available as TYPO3 distribution)",
-    "hash": "sha256-7X5SWlpVx31dLc9++kcvVE8vG+E42DF9QHG617+QZNE="
+    "hash": "sha256-bMcGVcURJ/H0FiCb7g4Bo4eBkXvXgoYQFcTiZcCxeL0="
   },
   "aimeos_dist": {
     "version": "24.10.1",
@@ -3612,13 +3615,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.328.2",
+    "version": "3.328.3",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-wUV0zOSxXtWkor9P9g+6gZKtRztysGf/9AO6XKcTgrw="
+    "hash": "sha256-eDzwg3cSf8GWJRTga33tOTER7qTqwG8bcKrdzz+sG3k="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -3732,12 +3735,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "backendtools": {
-    "version": "6.0.1",
+    "version": "6.0.3",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "8 admin tools: extension-list, recent pages & elements, backend layouts, redirects import & check, missing files, images with no alt or title and link-list.",
-    "hash": "sha256-84XGE0LJuEaoYPR26cpoVpRPtZNbo65eieRIwn3erbU="
+    "hash": "sha256-v2JOXWfFTEbiy/kulANR1JWTiP8e44/+yL7KWGdBNVo="
   },
   "backendwiki": {
     "version": "0.1.1",
@@ -8152,7 +8156,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cfc_league": {
-    "version": "1.11.7",
+    "version": "1.11.8",
     "t3_versions": [
       8,
       9,
@@ -8161,7 +8165,7 @@
       12
     ],
     "description": "Umfangreiche Extension zur Verwaltung von Sportvereinen und -wettbewerben. Extensive extension to manage sports clubs and competitions. https://github.com/digedag/cfc_league",
-    "hash": "sha256-Y6VOt4+LynodUYOKLRhi492ul7wh87wZe+hOqkiLQq0="
+    "hash": "sha256-wGZyPdEj8bYghsC3TRm4n4IA1FF4sRjTH6MBER2vsz8="
   },
   "cfc_league_fe": {
     "version": "1.11.3",
@@ -11018,13 +11022,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "crowdin": {
-    "version": "2.0.1",
+    "version": "3.0.0",
     "t3_versions": [
-      10,
-      11
+      11,
+      12,
+      13
     ],
-    "description": "In-Context localization of XLF files handled by crowdin directly in the backend",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "description": "In-Context localization of XLF files handled by Crowdin directly in the backend.",
+    "hash": "sha256-ra1jbwg8lGyZKx3spfEgokJ7JuBHqOgVl1yiLyUshps="
   },
   "crt_bodytext_variables": {
     "version": "1.0.2",
@@ -18616,12 +18621,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "favicon": {
-    "version": "1.1.1",
+    "version": "1.2.0",
     "t3_versions": [
-      11
+      11,
+      12,
+      13
     ],
     "description": "Add favicon through page settings. Renders icons for different devices.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-1o8ukZ3+AH0TufhJccKIBQ5KTwyq0KtjKtPXyD4b7v8="
   },
   "favicon_manager": {
     "version": "1.0.0",
@@ -20676,13 +20683,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "focuspoint": {
-    "version": "7.0.0",
+    "version": "7.0.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "Focuspoint integrate the focal point method to crop images in the frontend of the web page. Use the jQuery-focuspoint plugin (https://github.com/jonom/jquery-focuspoint example http://jonom.github.io/jquery-focuspoint/demos/helper/index.html) to crop the images. Use the function as wizard in the file list view and directly in the content element.",
-    "hash": "sha256-iHcs3DggGoFLGZmQl+Kgil96e0Q8qE5/pFeegpXXRfk="
+    "hash": "sha256-M4TEU3EjOm/Kw0nQAY5Y3u/TzuVnwcjOCkoI3F14M5k="
   },
   "folder": {
     "version": "0.0.7",
@@ -21518,12 +21525,12 @@
     "hash": "sha256-BWibo3/20xqtaX8DidK/HYtgtpJvSyzjCx9HqXRROF8="
   },
   "fp_masterquiz": {
-    "version": "5.1.7",
+    "version": "5.2.0",
     "t3_versions": [
       12
     ],
     "description": "A modern extension that offers quiz, polls and tests. Ajax support. The result can be displayed as a chart too. Supports 8 question modes.",
-    "hash": "sha256-zk8Kq/lu7DSPS7jLC+9JiVVpqhVG+dY+glw5Q9muMKQ="
+    "hash": "sha256-4F0NW8mDDWi5tE6NCVqQLz/vpQ1hwOIe/JijHaiZSKo="
   },
   "fp_newsletter": {
     "version": "7.0.4",
@@ -30632,13 +30639,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "language_detection": {
-    "version": "4.0.3",
+    "version": "5.0.0",
     "t3_versions": [
-      11,
-      12
+      12,
+      13
     ],
     "description": "Modern language detection middleware for TYPO3. Based on PSR-7, PSR-14 & PSR-15.",
-    "hash": "sha256-5Zoipe3asnZruVebgHYbiHWrlMCGIJZwCrSDQN7eebQ="
+    "hash": "sha256-qN21P4x2ssKOpYCmOqzLxF8/cuCG6I//rxcQQvgCPMY="
   },
   "language_redirect": {
     "version": "1.0.3",
@@ -40026,12 +40033,13 @@
     "hash": "sha256-jGZlFBNuU594cOvwCicK1ImSM3IJX7HQ4M8Eh9uln0s="
   },
   "ns_theme_cleanblog": {
-    "version": "12.0.2",
+    "version": "13.0.0",
     "t3_versions": [
-      12
+      12,
+      13
     ],
-    "description": "T3 Clean Blog Free TYPO3 Template is a premium TYPO3 theme for personal or company blog with minimal & clean design, super easy settings, light, and ultra-fast page speed. Live-Demo: https://demo.t3terminal.com/?theme=t3t-cleanblog PRO version: https://t3planet.com/t3-clean-blog-free-typo3-template",
-    "hash": "sha256-c3fBSuv/6fkqMKL25S/keqc405l6i3SBO9jV94wkKNk="
+    "description": "T3 Clean Blog is a premium TYPO3 template for personal or company blogs. Developed with meticulous attention to detail and minimal design aesthetics, it offers effortless settings, easy configuration, and prioritizes SEO and optimized page speed.",
+    "hash": "sha256-5FlDr+8+qkl0sDjtZN18ioQWnR6wLvUvdG2ZRZvz1kI="
   },
   "ns_theme_comingsoon": {
     "version": "11.1.2",
@@ -48458,12 +48466,12 @@
     "hash": "sha256-OE68pCT+KlEVJ+RICFcNhbqd8HJ+BaVJTIManKjFjKU="
   },
   "rte_ckeditor_image": {
-    "version": "12.0.2",
+    "version": "12.0.4",
     "t3_versions": [
       12
     ],
     "description": "Adds FAL image support to CKEditor for TYPO3.",
-    "hash": "sha256-mhzMtHz/pRrAraGEI9c5rOtJ9e5F+PiEvr2nhW4jWJ8="
+    "hash": "sha256-76OQQE2DPxDxIAM+vNp23Lx7vkoxAhy6/DDjkF593bw="
   },
   "rte_ckeditor_microdata": {
     "version": "10.1.0",
