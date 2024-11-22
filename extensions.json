@@ -18152,13 +18152,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "external_import": {
-    "version": "7.2.7",
+    "version": "7.2.8",
     "t3_versions": [
       11,
       12
     ],
     "description": "Tool for importing data from external sources into the TYPO3 CMS database, using an extended TCA syntax. Provides a BE module, a Scheduler task, a command-line tool and an API.",
-    "hash": "sha256-qLpheiqSED26kzYCW2vVB1c15ND8vMfrJHH1mO7Yp9M="
+    "hash": "sha256-yAR8uLLHzw3YJixrr8L1zeHmOZGOFyeAuC8ROinWCZg="
   },
   "external_import_tt_products": {
     "version": "0.0.1",
@@ -28343,12 +28343,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "jobapplications": {
-    "version": "3.0.5",
+    "version": "4.0.0",
     "t3_versions": [
-      12
+      13
     ],
     "description": "This extension enables you to manage job postings, provides you with an application form and a backend module to manage incoming applications.",
-    "hash": "sha256-Evu7BMSjUy++1b9Mm1Bqwmpxfrbm0E+SoWfrMvNd6lg="
+    "hash": "sha256-UiV4ENeK3s25DNBoplclJy/WMzTOQ8D+byxmMmEIxAk="
   },
   "jobcenter": {
     "version": "3.2.1",
@@ -33159,13 +33159,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mask": {
-    "version": "9.0.2",
+    "version": "9.0.3",
     "t3_versions": [
       12,
       13
     ],
     "description": "Create your own content elements and page templates. Easy to use, even without programming skills because of the comfortable drag and drop system. Stored in structured database tables. Style your frontend with Fluid tags. Ideal, if you want to switch from Templavoila.",
-    "hash": "sha256-cln7nsPovCELFnc8ReDYLxn7VKZqK73oKl6sfctrLto="
+    "hash": "sha256-F4fcd5qxrNnNp8i7Z8bheXVJwAK2b/diTE3DCGEa4E8="
   },
   "mask_export": {
     "version": "4.0.2",
@@ -39917,12 +39917,13 @@
     "hash": "sha256-NGwqriHd5h0Uwr1R0IYImJi6qLcjI+mHN1w8c8rSVNQ="
   },
   "ns_open_streetmap": {
-    "version": "12.1.1",
+    "version": "13.0.0",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "The TYPO3 OpenStreetMap extension allows you to effortlessly embed maps from OpenStreetMap into your TYPO3 website. It enables features such as 5+ OpenStreetMap styles, displaying physical addresses, location popups, and 10+ customization options, compatible with TYPO3 v12.",
-    "hash": "sha256-orbm3vuugnp6n2aVBo7E//zUpUH73gfloUs0Z0CQCV4="
+    "hash": "sha256-maC6Zls9cxstbJp+Ag3sTdTnjkyis3hG/GOEuH7pGjw="
   },
   "ns_openai": {
     "version": "2.0.0",
@@ -46949,13 +46950,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "replacer": {
-    "version": "3.0.4",
+    "version": "4.0.0",
     "t3_versions": [
-      11,
-      12
+      13
     ],
     "description": "Replaces string patterns from the page. You can use it to replace URLs for Content Delivery Network (CDN).",
-    "hash": "sha256-P9jI3C4Ic/zB+Ibd7FHL9H9FRuW5Wwmwnxq/O1gRK3k="
+    "hash": "sha256-jcdNjKKkARdIm4N4BDPU2Ae4fGhRAeenLqWL0U38Bvw="
   },
   "reqmngmt": {
     "version": "0.0.1",
