@@ -3615,13 +3615,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.329.0",
+    "version": "3.330.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-x7r8KOoNUCqigk8qc3LkHZzZCuCMTNlDUUZXIBV1BYs="
+    "hash": "sha256-PO/aT/qmzatZnONB91wL/SWdUnX2Vg7mslkh3v1RG7o="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -5957,13 +5957,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "bw_captcha": {
-    "version": "4.1.2",
+    "version": "4.2.0",
     "t3_versions": [
       11,
-      12
+      12,
+      13
     ],
     "description": "Captcha element with audio support for TYPO3 form components. The captcha generation does not rely on Google or third-party integrations.",
-    "hash": "sha256-eH/HDmX42yzDCgmUS8mcN1QVtwoJPKJ7Ilmklu6onhA="
+    "hash": "sha256-sr9Qylg5JlS6/TYQx+xWse2xz9wb+Un9BzUPkB3zRew="
   },
   "bw_covid_numbers": {
     "version": "1.2.0",
@@ -49785,13 +49786,14 @@
     "hash": "sha256-bCMkdMOCy2wNJ3Gz6SWr7i1qZ9ZfxkhhegmjmYFHEdo="
   },
   "schema": {
-    "version": "3.7.1",
+    "version": "3.8.0",
     "t3_versions": [
       11,
-      12
+      12,
+      13
     ],
     "description": "API and view helpers for schema.org markup",
-    "hash": "sha256-kE8rYhXx8WwWhf7DQdQmrPjSJG5Xhwi9Ms3ACNB1LAI="
+    "hash": "sha256-0088PkA2GYrEyILvcJxqwHmUxkKbsP9117esCP4Lev4="
   },
   "schema_auto": {
     "version": "2.1.0",
@@ -49803,22 +49805,24 @@
     "hash": "sha256-s5jOLQwidGvHLgI5Gd0DppFTEGkqcpa78aawlxetx5w="
   },
   "schema_bib": {
-    "version": "2.1.0",
+    "version": "2.2.0",
     "t3_versions": [
       11,
-      12
+      12,
+      13
     ],
     "description": "Extend the schema extension with bibliographic-related terms",
-    "hash": "sha256-yRQxzdIcSg26FDr+zM5dlZ7U/5TdhsfpJlBUo88JbqM="
+    "hash": "sha256-iewWmmv3h3Kat8DTkvUMMgXGaZKOt+pmuCJS428dR3g="
   },
   "schema_health": {
-    "version": "2.4.0",
+    "version": "2.5.0",
     "t3_versions": [
       11,
-      12
+      12,
+      13
     ],
     "description": "Extend the schema extension with health-related terms",
-    "hash": "sha256-6lREJiDZ1ztAPxDjQLshYWIiNZk4WCRi9Vn6O5Rvu7o="
+    "hash": "sha256-TDdWD2V0DflvdQOVjcW7YL28QOagg9wZLV2k7RH6F2c="
   },
   "schema_injector": {
     "version": "1.0.1",
@@ -49839,13 +49843,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "schema_pending": {
-    "version": "2.6.0",
+    "version": "2.7.0",
     "t3_versions": [
       11,
-      12
+      12,
+      13
     ],
     "description": "Extend the schema extension with pending terms",
-    "hash": "sha256-xUXJy9QxVFTmVdEGonehnPgKLQ8pD5N1PQHMPXg19Qg="
+    "hash": "sha256-ECa30nVX1vmkiU6Ktm3IJ4/vZJqGSBvVjzjMRik2qSg="
   },
   "schema_virtuallocation": {
     "version": "2.1.0",
