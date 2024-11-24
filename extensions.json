@@ -5957,14 +5957,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "bw_captcha": {
-    "version": "4.2.0",
+    "version": "4.2.1",
     "t3_versions": [
-      11,
       12,
       13
     ],
     "description": "Captcha element with audio support for TYPO3 form components. The captcha generation does not rely on Google or third-party integrations.",
-    "hash": "sha256-sr9Qylg5JlS6/TYQx+xWse2xz9wb+Un9BzUPkB3zRew="
+    "hash": "sha256-PT4VYuB+sLwFLOwY6SZCvIhgcTlKXbiMbn5HEhEmVVk="
   },
   "bw_covid_numbers": {
     "version": "1.2.0",
@@ -18153,13 +18152,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "external_import": {
-    "version": "7.2.8",
+    "version": "7.2.9",
     "t3_versions": [
       11,
       12
     ],
     "description": "Tool for importing data from external sources into the TYPO3 CMS database, using an extended TCA syntax. Provides a BE module, a Scheduler task, a command-line tool and an API.",
-    "hash": "sha256-yAR8uLLHzw3YJixrr8L1zeHmOZGOFyeAuC8ROinWCZg="
+    "hash": "sha256-h1xiy8ORM9/vc7HWKEPGIeu9PuPygEaRaB47f5Pp5pI="
   },
   "external_import_tt_products": {
     "version": "0.0.1",
@@ -24785,13 +24784,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "htmltables": {
-    "version": "0.9.9",
+    "version": "0.9.10",
     "t3_versions": [
       11,
-      12
+      12,
+      13
     ],
     "description": "Create sophisticated HTML tables easily using Inline Records (IRRE)",
-    "hash": "sha256-+/ZiWy5hhAAHiQbKHLTUVMO6nm+OVlIXdhsYp9f3Vtc="
+    "hash": "sha256-NsZnm0r+tRi0pcNrTwavM78dUGwEniXcLx3JDQ0cOH4="
   },
   "http2": {
     "version": "2.0.0",
