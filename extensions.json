@@ -1600,13 +1600,13 @@
     "hash": "sha256-9l+hxt6In1KgppFpKk8Up0kj/v6FqdyggZr0hCNEWGU="
   },
   "ai_tools": {
-    "version": "0.0.9",
+    "version": "1.0.0",
     "t3_versions": [
       11,
       12
     ],
-    "description": "Use A.I. Tools in the TYPO3 backend. Generate Images, Image Variants and Describe Images.",
-    "hash": "sha256-Rjo9qSCgGUEd+mxM4tvZCOb42IcElXznGGpE+2rJ63U="
+    "description": "A TYPO3 extension that leverages artificial intelligence to enhance content and accessibility",
+    "hash": "sha256-4AOJwWDMs8yQNPsKYefOf6dfq8MKl6+5G6RqLMagnDE="
   },
   "ai_translate": {
     "version": "3.1.1",
@@ -9919,13 +9919,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "content_animations": {
-    "version": "2.5.1",
+    "version": "2.5.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "This extension allows you to set nice animations to your content elements if they are scrolled into the browsers viewport. To install it include the static typoscript of content_animations to your template and you're good to go. Have fun! :-)",
-    "hash": "sha256-hmUwMGm8chMoX1ZoeXUFSkCvFcDvvz1N6LFu0TZm40c="
+    "hash": "sha256-swl5ajaf2Tyj4uzUtaeqk+T3dClLNfG6Zauq599D4/8="
   },
   "content_blocks": {
     "version": "1.0.4",
@@ -19321,13 +19321,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fetchurl": {
-    "version": "5.0.0",
+    "version": "5.0.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "Fetch an url and show the content in frontend. Inline or iframe display possible",
-    "hash": "sha256-FI4WEmL/68JIxvkxim1u33rWmUY/3QSIo6rkl1UDnXM="
+    "hash": "sha256-K8HSt6RuKVnS4PFlABctucDcAEdHxYeNUWV+wNQgZiA="
   },
   "fete": {
     "version": "0.0.1",
@@ -22388,12 +22388,12 @@
     "hash": "sha256-mPlR0CiqHOAx+7BREzpcMcNpXT1e4sGJPJPFmsTGIKg="
   },
   "gdpr_extensions_com_wm": {
-    "version": "1.0.0",
+    "version": "1.0.2",
     "t3_versions": [
       11
     ],
     "description": "Manage your websites and add various content elements that are GDPR compliant to your website, GDPR Website Manager is your first step to ensure your user’s privacy.",
-    "hash": "sha256-mTJNr9ruSpKiuan6222iSouGt8kqODW2vxxKmacYDiM="
+    "hash": "sha256-QoCbFpUB3dAVbbU67FAeAAsFQp/Po3uSXCD5vLATO1o="
   },
   "gdpr_extensions_com_youtube": {
     "version": "1.0.6",
@@ -26327,6 +26327,14 @@
     "description": "Adds Open Graph Meta Tags to a Page: Tell Facebook which image and which text should be shown",
     "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
   },
+  "in2faq": {
+    "version": "7.0.1",
+    "t3_versions": [
+      12
+    ],
+    "description": "Simple FAQ extension with a cli command to import faq from extension irfaq",
+    "hash": "sha256-UZV44SN2n7AvtZqpfjPN9tUQa7eVW393wQ6YjSI3ifg="
+  },
   "in2frontendauthentication": {
     "version": "9.0.1",
     "t3_versions": [
@@ -30219,12 +30227,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "komm_one_jobs": {
-    "version": "1.1.0",
+    "version": "1.1.1",
     "t3_versions": [
       11
     ],
     "description": "Use komm.ONE jobs API to show jobs",
-    "hash": "sha256-SdzFWPyQfsjQ5m5kxrIm02LFvALn09ZkTsAeQoWKPlI="
+    "hash": "sha256-x7UGjNriaHWToK71hENG74try/Mrp8VHN5PMa4khWv0="
   },
   "koning_api_queue": {
     "version": "1.0.4",
@@ -32135,13 +32143,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "lux": {
-    "version": "37.1.0",
+    "version": "38.0.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Living User Experience - LUX - the Marketing Automation tool for TYPO3.",
-    "hash": "sha256-UGsYovHuqCkC2eqlH+IibjHGzJDrhWh2Zukor77zjS8="
+    "hash": "sha256-trpmdEMxekzlhJ05xIKk3Nwubqz8iLBYycXX1SECU4I="
   },
   "luxletter": {
     "version": "26.3.1",
@@ -33160,13 +33168,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mask": {
-    "version": "9.0.3",
+    "version": "9.0.4",
     "t3_versions": [
       12,
       13
     ],
     "description": "Create your own content elements and page templates. Easy to use, even without programming skills because of the comfortable drag and drop system. Stored in structured database tables. Style your frontend with Fluid tags. Ideal, if you want to switch from Templavoila.",
-    "hash": "sha256-F4fcd5qxrNnNp8i7Z8bheXVJwAK2b/diTE3DCGEa4E8="
+    "hash": "sha256-H7n6gUzrvPbuXZK/cco0e2U0OQ1dC0C19n9qW2xEhDE="
   },
   "mask_export": {
     "version": "4.0.2",
@@ -33258,13 +33266,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "matomo_integration": {
-    "version": "2.2.0",
+    "version": "2.3.0",
     "t3_versions": [
       11,
-      12
+      12,
+      13
     ],
     "description": "Matomo integration for TYPO3",
-    "hash": "sha256-390h1sKZXNrI43YiyhaaIWOvcX6WSN/oGaUAUYgwqB0="
+    "hash": "sha256-PQXKi1mO1UokioRolEC7L3c8JyVx3xQX5LCqIVHetw0="
   },
   "matomo_optout": {
     "version": "1.2.0",
