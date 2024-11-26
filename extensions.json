@@ -3615,13 +3615,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.330.0",
+    "version": "3.330.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-PO/aT/qmzatZnONB91wL/SWdUnX2Vg7mslkh3v1RG7o="
+    "hash": "sha256-eyuPh+MsL/C5++d9BcVLsBq12kwnwiagYmCV2k4qw1A="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -17582,12 +17582,12 @@
     "hash": "sha256-fW7FJmsbuCfvKGtcrpJ6zM6iWzSVTnJkqvick5+P1mI="
   },
   "events2": {
-    "version": "9.1.0",
+    "version": "9.1.3",
     "t3_versions": [
       12
     ],
     "description": "Create single and recurring events",
-    "hash": "sha256-KWf9vb01T+jzOwuiJT7hRAnLSlsGTDfAVSjsPp8PVmw="
+    "hash": "sha256-RM+JLx/ZfEPAg6lNLBX56vHxfXqhQLRedxc//f65Mr0="
   },
   "events2_reserve_connector": {
     "version": "1.0.0",
@@ -19321,13 +19321,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fetchurl": {
-    "version": "5.0.2",
+    "version": "5.0.3",
     "t3_versions": [
       11,
       12
     ],
     "description": "Fetch an url and show the content in frontend. Inline or iframe display possible",
-    "hash": "sha256-K8HSt6RuKVnS4PFlABctucDcAEdHxYeNUWV+wNQgZiA="
+    "hash": "sha256-sg3ODv5JE7UQ/qRrxbTVF/rKk1gVC7c9m3zCMTKacjA="
   },
   "fete": {
     "version": "0.0.1",
@@ -26425,14 +26425,15 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "includekrexx": {
-    "version": "5.1.1",
+    "version": "5.1.2",
     "t3_versions": [
       10,
       11,
-      12
+      12,
+      13
     ],
     "description": "Fluid and PHP debugger with backend access to logfiles, code generation to reach the displayed values and much more. We added some special stuff for Aimeos.",
-    "hash": "sha256-N0K3MFNeqUvwRvLkXFJZX9z9C87wwNqpwRfNreu7wN8="
+    "hash": "sha256-UPHUXjL7ryrTrK8Xhm438V81gzOyq5y2gyCAuuEN1K8="
   },
   "incore_twitter": {
     "version": "1.2.2",
@@ -32143,13 +32144,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "lux": {
-    "version": "38.0.0",
+    "version": "38.0.1",
     "t3_versions": [
-      11,
-      12
+      12,
+      13
     ],
     "description": "Living User Experience - LUX - the Marketing Automation tool for TYPO3.",
-    "hash": "sha256-trpmdEMxekzlhJ05xIKk3Nwubqz8iLBYycXX1SECU4I="
+    "hash": "sha256-cFb9l3meyrwicTc11OpthBaomQEZ6rThSYepcKer8Ts="
   },
   "luxletter": {
     "version": "26.3.1",
