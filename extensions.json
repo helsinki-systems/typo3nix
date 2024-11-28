@@ -2443,6 +2443,14 @@
     "description": "Extension to fetch items from multiple feeds (RSS2 and Atom) and show them on the website",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "amt_pinecone": {
+    "version": "0.1.0",
+    "t3_versions": [
+      12
+    ],
+    "description": "AMT_Pinecone Extension",
+    "hash": "sha256-ft18OPkihow1Fkd1PxlV7dTgWB1p820iTwxWvtaNsq4="
+  },
   "an_combase": {
     "version": "0.2.0",
     "t3_versions": [],
@@ -3615,13 +3623,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.330.2",
+    "version": "3.331.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-0Q1QIkFhi9fY0oOZdXCs/yhCltHKwEVDTLOO4uu5o5k="
+    "hash": "sha256-bbaQOzel/egT6Ds1ro+H4XyCY8Kghaqy1TNz3uSfKW0="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -18443,14 +18451,15 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fal_protect": {
-    "version": "1.6.1",
+    "version": "1.6.2",
     "t3_versions": [
       10,
       11,
-      12
+      12,
+      13
     ],
     "description": "Protect everything within /fileadmin/ based on associated folder and file restrictions (visibility, user groups and dates of publication).",
-    "hash": "sha256-ipSrvWSxU6ygj3SpNt7BNnH6TEW/lR3gnCezjify8wg="
+    "hash": "sha256-rYDYnDphIHPObg5sNZwlverkfDeWPhJK5bSqfEEqzd0="
   },
   "fal_quota": {
     "version": "1.8.0",
@@ -27477,12 +27486,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "jar_assets": {
-    "version": "2.0.3",
+    "version": "2.0.6",
     "t3_versions": [
       12
     ],
     "description": "Includes all CSS and JavaScript files of a folder.",
-    "hash": "sha256-kNZgnqy5dM8SzC4ilOl9DgHvwcNeiEAb/KXfh4cGUqg="
+    "hash": "sha256-lkh/tM6KYVlLaeomiaJxdpg1ZaI57X1AeQgkmj3fgXQ="
   },
   "jar_columnrow": {
     "version": "1.0.22",
@@ -32033,10 +32042,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ls_security_headers": {
-    "version": "2.0.0",
-    "t3_versions": [],
+    "version": "2.1.0",
+    "t3_versions": [
+      13
+    ],
     "description": "Configures security headers like content security policy",
-    "hash": "sha256-+jTH80ghdRBlwifzMTJrRNdv8slOH2mmIGBCCFxZ4KI="
+    "hash": "sha256-OwY23nOfxJNcW48nXIDxmYWtSL9XF21bXfF4a0zmoFc="
   },
   "lscache": {
     "version": "1.2.0",
@@ -39824,12 +39835,13 @@
     "hash": "sha256-Xv/Doq8TMQyjs2h3fvvrix6YddPXrzem1g6gQyRjFOU="
   },
   "ns_guestbook": {
-    "version": "12.1.0",
+    "version": "13.0.0",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "TYPO3 Guestbook Extension easily integrates all the features of a guestbook, including a review form with email sending functionality. This TYPO3 guestbook plugin also includes spam protection and numerous customization options. Guests can share their reviews, ratings, and contact details, as well as personal experiences, through this Guestbook TYPO3 Extension. ",
-    "hash": "sha256-N4lMxfniAXYDXN3H9lL36ZgYJnT+HBtevJE+vH6SNu0="
+    "hash": "sha256-ogeTkT8fLP5XQa3G70LjQouFE0cd4d9e1+bLprb0clo="
   },
   "ns_headless_blog": {
     "version": "1.0.0",
@@ -39867,16 +39879,17 @@
     "hash": "sha256-jCClL1DA/rkavnnbKWUmrPixckzDrF2k4ckp7pa7QU8="
   },
   "ns_instagram": {
-    "version": "4.0.0",
+    "version": "5.0.0",
     "t3_versions": [
       8,
       9,
       10,
       11,
-      12
+      12,
+      13
     ],
     "description": "The TYPO3 Instagram extension is a straightforward plugin that easily integrates to display your Instagram Feed. It offers clean, customizable, and responsive feeds directly from your Instagram account. Showcase galleries, feeds, and photo tiles from multiple Instagram accounts in an appealing format. It adds a visually attractive frontend display of Instagram posts to your TYPO3 website.  *** Live-Demo: https://demo.t3planet.com/t3t-extensions/instagram *** Documentation & Free Support: https://t3planet.com/typo3-instagram-extension",
-    "hash": "sha256-5gAy05ce1yv+8Ux643uQoL/Dt1NOqd57VhCkcgGG1Gc="
+    "hash": "sha256-4NFrz5GLIvgM9xzLlg//QNZ0azUG6FQGVDMCDwh8W5o="
   },
   "ns_langtmplsel": {
     "version": "0.0.3",
@@ -44571,12 +44584,12 @@
     "hash": "sha256-3LdQALLY43/Ufj4yP0Ztg5o0o4vFujokFNnp6XsV3DU="
   },
   "powermail_cond": {
-    "version": "11.2.3",
+    "version": "11.2.4",
     "t3_versions": [
       12
     ],
     "description": "Add conditions (via AJAX) to powermail forms for fields and pages",
-    "hash": "sha256-/OMABFNzsBbCdzl4sRkMoTu5bIPi+R6x1/L9aN0I4Dk="
+    "hash": "sha256-yedsxb4IacGMR9CDNI2yijdErWXMfBvH/qeeJ+bEzpA="
   },
   "powermail_cond_jquery": {
     "version": "1.0.1",
@@ -50093,12 +50106,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "secure_downloads": {
-    "version": "6.0.4",
+    "version": "6.1.0",
     "t3_versions": [
       12
     ],
     "description": "\"Secure Download\": Apply TYPO3 access rights to ALL file assets (PDFs, TGZs or JPGs etc. - configurable) - protect them from direct access.",
-    "hash": "sha256-qPZDUgm/VVtgPWxUZrBja/b439gki0S77+rdufBBu3E="
+    "hash": "sha256-5YvAXGmTwhHlKsXR54DZFS4kh3eh7apeiUf5ans9zuA="
   },
   "secure_filemount": {
     "version": "1.1.2",
@@ -51943,13 +51956,14 @@
     "hash": "sha256-8a03cB5c31BfNayUf/K2K5YLDNdUIzRS9hb3WqD/JUE="
   },
   "sitemap_robots": {
-    "version": "0.1.6",
+    "version": "0.1.7",
     "t3_versions": [
       11,
-      12
+      12,
+      13
     ],
     "description": "Enhances robots.txt with sitemap configurations to improve site visibility in terms of SEO. Injection of XML sitemaps can be managed on a per-site basis. Supports static routes as well as injection into local files.",
-    "hash": "sha256-PerrrC3Ilseu05sfq0P89kch3NS3FyoA/bMpZisSb+M="
+    "hash": "sha256-RX4RFC8U1GqaEwet3Xa6hGHu970fh5U4vevGJyjk8kc="
   },
   "sitemgr": {
     "version": "2.9.1",
@@ -53625,13 +53639,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "solver": {
-    "version": "0.2.16",
+    "version": "0.2.17",
     "t3_versions": [
       11,
-      12
+      12,
+      13
     ],
     "description": "Extends TYPO3's exception handling with AI generated solutions. Problems can also be solved from command line. Several OpenAI parameters are configurable and prompts and solution providers can be customized as desired.",
-    "hash": "sha256-bMqums5pnOo3r2CneIMmFaCeLoMBa/u+ETx62HAOers="
+    "hash": "sha256-ZACyy/hw6hJiyAbXqK/qjPTE9H2trzTO5b0d5iZPNTo="
   },
   "sorp": {
     "version": "0.1.0",
@@ -63511,13 +63526,13 @@
     "hash": "sha256-iM1zb6VUJMaSf/kBAMS/gJmRPCYAXh34cd/HNI7X37s="
   },
   "warming": {
-    "version": "3.3.3",
+    "version": "3.3.4",
     "t3_versions": [
       12,
       13
     ],
     "description": "Warms up Frontend caches based on an XML sitemap. Cache warmup can be triggered via TYPO3 backend or using a console command. Supports multiple languages and custom crawler implementations.",
-    "hash": "sha256-VCPgYGkSE8BZktn+o2snCke3njVqEUZn7sGphTbShiU="
+    "hash": "sha256-JLfJ/xQo7wIAWdZhQYZl5rrRMcLHCkaQxTs9gzPzuGw="
   },
   "warmup": {
     "version": "1.3.1",
