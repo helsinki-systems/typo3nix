@@ -4989,6 +4989,14 @@
     "description": "Blogging with TYPO3",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "blogext": {
+    "version": "1.0.3",
+    "t3_versions": [
+      13
+    ],
+    "description": "Simple TYPO3 blog extension.",
+    "hash": "sha256-EHxRVzo3ERiaqU8p2sDfWgpRzaFrvm9zpq7YLY+XsTo="
+  },
   "blogging": {
     "version": "1.4.3",
     "t3_versions": [
@@ -21019,13 +21027,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "form_consent": {
-    "version": "3.1.1",
+    "version": "3.1.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "An extension for TYPO3 CMS that adds double opt-in functionality to EXT:form. It allows the dynamic adaptation of the entire double opt-in process using various events. In addition, the extension integrates seamlessly into TYPO3, for example to delete outdated consents in compliance with the GDPR.",
-    "hash": "sha256-qt7w91p8U2PwLy6h1K/Ukg7cEPKF8pXxPXXqH1KXK5w="
+    "hash": "sha256-ZAGc9mABA4KXuN7c1jIkiGnveAYM6OhEOdfXgO/bVq8="
   },
   "form_country_select": {
     "version": "3.1.0",
@@ -21068,12 +21076,12 @@
     "hash": "sha256-UmASge4oj+7axF2QsmMGU5O/Mo5zWqEJLRNCCB6Wdvc="
   },
   "form_email_contentblocks": {
-    "version": "3.0.0",
+    "version": "3.0.1",
     "t3_versions": [
       13
     ],
     "description": "Allows to add a content element at the beginning (introductory text) and/or at the end (email signature) of the email templates. Also, the background color and logo of the fluid email template can be edited.",
-    "hash": "sha256-Q/ZYpwTtuuXpikLuN36zWFmCMQZbabmq8IHzVQ5shto="
+    "hash": "sha256-UpKRNctLe+3qWBZ07ZQavX1RyfkZZdDhVtxgCw8YFG0="
   },
   "form_extended": {
     "version": "12.2.1",
@@ -36618,14 +36626,14 @@
     "hash": "sha256-gW358m+R8mod7IoHifrW9yYgI/ozKYDTFVZhwSyiS1g="
   },
   "mst_yaml2tca": {
-    "version": "0.0.18",
+    "version": "1.0.7",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "Load contentelements from yaml in register in new element wizard",
-    "hash": "sha256-6OOfYuKxrNpRqzwELJ1cQsbQnprT3aHWtqnm2Im2Nvw="
+    "hash": "sha256-TXeFpsVAoX+znNi6wm1ZcdWDSRvRy4TSG3Be2u8Mm4A="
   },
   "msw_shoutbox": {
     "version": "1.0.0",
@@ -39780,12 +39788,13 @@
     "hash": "sha256-yp0p75/3DvOqBT0o7mxlbpHg91bZ+HM01clhKciZ+Jw="
   },
   "ns_friendlycaptcha": {
-    "version": "12.1.0",
+    "version": "13.0.0",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "Friendly Captcha is a new way to protect your forms from bots without asking users to solve puzzles. It fully complies with GDPR regulations. Their device solves the challenge in the background, so they don't have to do anything extra. ",
-    "hash": "sha256-M2NxtA5LK+GHuHSmLnybsa5pt2y4NYlDJy5KHOdgSvs="
+    "hash": "sha256-Aq/7MxNJItvPiBf5j0XKlGYCOeUGNkfKKYdvlcECBOg="
   },
   "ns_gallery": {
     "version": "12.1.0",
