@@ -4990,12 +4990,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "blogext": {
-    "version": "1.0.3",
+    "version": "1.0.4",
     "t3_versions": [
       13
     ],
-    "description": "Simple TYPO3 blog extension.",
-    "hash": "sha256-EHxRVzo3ERiaqU8p2sDfWgpRzaFrvm9zpq7YLY+XsTo="
+    "description": "With this record-based extension for TYPO3, it is easy to run a blog on your TYPO3 website, including RSS functionality and integration into the Google Sitemap with route enhancers for SEO-friendly links.",
+    "hash": "sha256-+ix9D6wx6ROZi/Vptht2cAMlOjR0D4oWxaZzcGwO4hA="
   },
   "blogging": {
     "version": "1.4.3",
