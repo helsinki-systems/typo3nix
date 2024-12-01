@@ -4990,12 +4990,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "blogext": {
-    "version": "1.0.4",
+    "version": "1.1.1",
     "t3_versions": [
       13
     ],
     "description": "With this record-based extension for TYPO3, it is easy to run a blog on your TYPO3 website, including RSS functionality and integration into the Google Sitemap with route enhancers for SEO-friendly links.",
-    "hash": "sha256-+ix9D6wx6ROZi/Vptht2cAMlOjR0D4oWxaZzcGwO4hA="
+    "hash": "sha256-S7VvZl88u6L+BmoOjsGTE7h2L4gCGZnnZ7+G2RO1Q2A="
   },
   "blogging": {
     "version": "1.4.3",
@@ -38877,13 +38877,13 @@
     "hash": "sha256-uJeJf/6bZopKPPRCHLAzV4hwnQUCUb38OyhmDoGAfLc="
   },
   "newsstylist": {
-    "version": "5.1.0",
+    "version": "6.0.0",
     "t3_versions": [
-      11,
-      12
+      12,
+      13
     ],
     "description": "all in one: one-touch settings within news plugin - fast & cool way to change the output of news, List view 5 layouts (default, card, carousel, newsletter) and swiper slider with some effects",
-    "hash": "sha256-xQRzJ48g7EY99m1ZzdEgBzC8yjbo5tMQJWVgWiKSgLs="
+    "hash": "sha256-x1yOkm5F5w3QpaPpqhyCv3CbnJQtVT2CZgg4FGJoCCg="
   },
   "newssubmit": {
     "version": "1.0.0",
@@ -63554,12 +63554,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "watchwords": {
-    "version": "2.2.0",
+    "version": "2.3.0",
     "t3_versions": [
-      12
+      13
     ],
     "description": "This extension adds a new content element which will get a new Christian Watchword (bible verse) every day.",
-    "hash": "sha256-yQtq8/G3ps2MiMRm7wPp3cDtDbGajQ46vHfizo20Fck="
+    "hash": "sha256-pRSOkGo5sLeDov6oq8gjSFPQ2h19nH4lwCLwIM2LxEo="
   },
   "way2enjoy": {
     "version": "1.3.5",
