@@ -2444,12 +2444,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "amt_pinecone": {
-    "version": "0.1.0",
+    "version": "0.2.0",
     "t3_versions": [
-      12
+      12,
+      13
     ],
-    "description": "AMT_Pinecone Extension",
-    "hash": "sha256-ft18OPkihow1Fkd1PxlV7dTgWB1p820iTwxWvtaNsq4="
+    "description": "AMT_Pinecone is a TYPO3 extension that integrates semantic search capabilities into your website using OpenAI embedding models and the Pinecone vector database. Semantic search focuses on understanding the meaning and context of search queries rather than relying on exact keyword matches. It enables more intuitive and relevant search results by analyzing the relationships between words and their meanings. This extension leverages advanced AI models to provide users with highly accurate and context-aware search experiences.",
+    "hash": "sha256-AKoRQXD/jujCQasGbq7LYH2SRLBd+LXVLcgv3hPSZq8="
   },
   "an_combase": {
     "version": "0.2.0",
@@ -3163,13 +3164,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "auth0": {
-    "version": "5.0.4",
+    "version": "5.0.5",
     "t3_versions": [
       11,
       12
     ],
     "description": "This extension allows you to log into a TYPO3 backend or frontend via Auth0. Auth0 is the solution you need for web, mobile, IoT, and internal applications. Loved by developers and trusted by enterprises.",
-    "hash": "sha256-3ChuoDWP1WvxkEPUO4cpdk5XJR1Znsey4UcSwlr9eHA="
+    "hash": "sha256-4dxmuB0XqSnzQRk6H7jqVoxRfCldLJb4foDx7QL+XJI="
   },
   "auth0_sso": {
     "version": "2.0.1",
@@ -3623,13 +3624,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.331.0",
+    "version": "3.332.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-bbaQOzel/egT6Ds1ro+H4XyCY8Kghaqy1TNz3uSfKW0="
+    "hash": "sha256-WSfFFHcyozo6MvpGHh+zKpxP34WqYc2gLBq4Kcj00dw="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -4990,12 +4991,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "blogext": {
-    "version": "1.1.1",
+    "version": "1.2.0",
     "t3_versions": [
       13
     ],
     "description": "With this record-based extension for TYPO3, it is easy to run a blog on your TYPO3 website, including RSS functionality and integration into the Google Sitemap with route enhancers for SEO-friendly links.",
-    "hash": "sha256-S7VvZl88u6L+BmoOjsGTE7h2L4gCGZnnZ7+G2RO1Q2A="
+    "hash": "sha256-jxslaTajTCjzBaVLPNjGsNzJdgbazZwz+wF/5KpMLDw="
   },
   "blogging": {
     "version": "1.4.3",
@@ -9960,14 +9961,14 @@
     "hash": "sha256-2YlJYJUPnk62WA6ebh03szvjhLPY3cxd1FcEFDJlnOI="
   },
   "content_defender": {
-    "version": "3.4.3",
+    "version": "3.5.0",
     "t3_versions": [
-      10,
       11,
-      12
+      12,
+      13
     ],
     "description": "Define allowed or denied content element types in your backend layouts",
-    "hash": "sha256-+uyVgWkzEabtUFmyTqiyDy+gRDkvrYADwLxCfEL0RyY="
+    "hash": "sha256-yum5ZBh18I040vsNjNa+EXfsGZvCyrtgyWTHiAp8IMs="
   },
   "content_designer": {
     "version": "3.0.7",
@@ -33307,12 +33308,13 @@
     "hash": "sha256-3mfOryBvxeFvY933oZWBVj/bmIpFQGdypv046cKB9QA="
   },
   "matomo_widgets": {
-    "version": "3.1.1",
+    "version": "3.1.2",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "Dashboard widgets with Matomo reports",
-    "hash": "sha256-8C1DEXzzaj5tSZkbLU71V7iCTSrjnnRtK4V2G3TTfr4="
+    "hash": "sha256-OnHenYFMzdnYvLxZNyLAqM5femH7Gl4953BTHSNavb4="
   },
   "matomoapi": {
     "version": "1.0.1",
@@ -40378,13 +40380,13 @@
     "hash": "sha256-3Qr9dpQ5dJf1Sr4y1JBIxIWQ0Nq8tGqns7ftIprGDCU="
   },
   "oauth2_server": {
-    "version": "1.5.4",
+    "version": "2.0.0",
     "t3_versions": [
-      10,
-      11
+      12,
+      13
     ],
     "description": "OAuth2 server for TYPO3 based on PHP League's OAuth2 Server.",
-    "hash": "sha256-76d2d3Z7LyMOrQIF4jHrE10aIhiHlWwq7fBUd2eLIjo="
+    "hash": "sha256-mDv4pPnhFck7SXXDXMU3Y9QXo/srFPZl+xqlNOCco8c="
   },
   "oauth_openid_single_sign_on": {
     "version": "1.1.0",
@@ -44748,12 +44750,12 @@
     "hash": "sha256-ZTOmHsezUflaIC4+SLgNsUfzVBJLmQ9Nzh3i9upL0PY="
   },
   "powermailcaptcha": {
-    "version": "2.1.0",
+    "version": "2.1.2",
     "t3_versions": [
       12
     ],
     "description": "Captcha Extension for Powermail",
-    "hash": "sha256-xEdt7WdYHCRmZ/2LvSqVXi9U40P6HbyDNA9cx2vHFWE="
+    "hash": "sha256-8pvX/QWXS+08kSa3IqPwcn0totmGceJh5YCHw3dAFMM="
   },
   "powermailcustomcss": {
     "version": "1.1.0",
