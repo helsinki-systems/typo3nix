@@ -3624,13 +3624,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.332.0",
+    "version": "3.332.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-WSfFFHcyozo6MvpGHh+zKpxP34WqYc2gLBq4Kcj00dw="
+    "hash": "sha256-oa06dbDL1RThWBkL0Tjs4OOuXZTi7qxwGj/bKqcK+5I="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -3847,22 +3847,24 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "base_cache": {
-    "version": "3.0.1",
-    "t3_versions": [
-      10,
-      11
-    ],
-    "description": "Common interfaces for simple caching psr/simple-cache.",
-    "hash": "sha256-hrjq6aqTuqljkTQlorSWkjq+6StcIxGK5PvJhb/ibBM="
-  },
-  "base_complex": {
     "version": "3.0.2",
     "t3_versions": [
-      10,
-      11
+      11,
+      12,
+      13
+    ],
+    "description": "Common interfaces for simple caching psr/simple-cache.",
+    "hash": "sha256-v+rIoBgFlTNAQb4/cDQx39TuLKrJyTbXNKKUygGzhsw="
+  },
+  "base_complex": {
+    "version": "3.0.3",
+    "t3_versions": [
+      11,
+      12,
+      13
     ],
     "description": "A library to deal with complex numbers. (PHPComplex)",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-UVhCJrkxzu06YQdFLI2wRSJTVPkesQPrwi+ChBlnF1U="
   },
   "base_css": {
     "version": "0.0.3",
@@ -3884,40 +3886,44 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "base_excel": {
-    "version": "2.1.0",
+    "version": "3.5.0",
     "t3_versions": [
       11,
-      12
+      12,
+      13
     ],
     "description": "This provides the PhpSpreadsheet library, formerly phpExcel from phpOffice.",
-    "hash": "sha256-EqENPxqFglyoPeZjF7V1XVXYscEs0r9rLiropuASBHY="
+    "hash": "sha256-71o5ImTSkLxJWIp+k+KoHnMoKC3pZUTKefNGnme/bTk="
   },
   "base_font": {
-    "version": "0.5.5",
+    "version": "1.0.0",
     "t3_versions": [
-      10,
-      11
+      11,
+      12,
+      13
     ],
     "description": "This provides the dompdf PHP Font Lib (php-font-lib].",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-uJ3BJo+easd8/RsmkOxOuQ0qmSVr0H7Kf0H/I+W7qjU="
   },
   "base_html": {
-    "version": "4.15.0",
+    "version": "4.15.1",
     "t3_versions": [
-      10,
-      11
+      11,
+      12,
+      13
     ],
     "description": "Standards compliant HTML filter written in PHP (htmlpurifier)",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-8YugKJEvVMjrfhbixcNfUiw24B9v/PpQdS0IgMWZneA="
   },
   "base_htmlparser": {
-    "version": "2.8.0",
+    "version": "2.9.0",
     "t3_versions": [
-      10,
-      11
+      11,
+      12,
+      13
     ],
     "description": "Standards compliant HTML5 parser and serializer written in PHP (html5-php)",
-    "hash": "sha256-PtlgCZMDwx8smTL5ehFHg3E+FkNZX30BBsdVPZZljRQ="
+    "hash": "sha256-L0irixSKzMRWmwOE3e7a95S+lCh7wbSn6ebICBJR/rU="
   },
   "base_jobmarket": {
     "version": "1.3.3",
@@ -3926,22 +3932,24 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "base_matrix": {
-    "version": "3.0.1",
+    "version": "3.0.2",
     "t3_versions": [
-      10,
-      11
+      11,
+      12,
+      13
     ],
     "description": "Library for handling Matrices (PHPMatrix)",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-8Ox9weOrB2Damn0EZpPXi9F3vrMJ+aql8YVBrsT8Sak="
   },
   "base_pdf": {
-    "version": "2.0.5",
+    "version": "3.0.0",
     "t3_versions": [
-      10,
-      11
+      11,
+      12,
+      13
     ],
-    "description": "This provides the DOMPDF library. It also includes the libraries html5lib, php-css-parser, php-font-lib and php-svg-lib.",
-    "hash": "sha256-Jwf+aodsLBwy8/4Hh4mirsEMZqGg7Iio8CbDLIa0KBM="
+    "description": "This provides the DOMPDF library. Consider to install the extensions base_font, base_htmlparser and base_svg .",
+    "hash": "sha256-XojACFyjryRszlzksOjgJwqUbH1YX7StTL3sBVwm5+U="
   },
   "base_quickshop": {
     "version": "6.1.1",
@@ -4991,12 +4999,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "blogext": {
-    "version": "1.2.0",
+    "version": "1.3.0",
     "t3_versions": [
       13
     ],
     "description": "With this record-based extension for TYPO3, it is easy to run a blog on your TYPO3 website, including RSS functionality and integration into the Google Sitemap with route enhancers for SEO-friendly links.",
-    "hash": "sha256-jxslaTajTCjzBaVLPNjGsNzJdgbazZwz+wF/5KpMLDw="
+    "hash": "sha256-0UF5DejfJcXVBb3f4b98F/SCTtw5GzgECk2EDTnH2GY="
   },
   "blogging": {
     "version": "1.4.3",
@@ -21068,13 +21076,13 @@
     "hash": "sha256-f78GoEFlrUusXBXNVCD1ZkJKLaprWKYFGG+GaNOqlrI="
   },
   "form_element_linked_checkbox": {
-    "version": "4.0.0",
+    "version": "5.0.2",
     "t3_versions": [
-      11,
-      12
+      12,
+      13
     ],
     "description": "Adds a new form element which allows the editor to create a checkbox with a linked label text.",
-    "hash": "sha256-UmASge4oj+7axF2QsmMGU5O/Mo5zWqEJLRNCCB6Wdvc="
+    "hash": "sha256-hBjmSVjRbCQ3T5ftDpNSUpOhssizlr+Yuwfj2UQzOFI="
   },
   "form_email_contentblocks": {
     "version": "3.0.1",
@@ -41080,13 +41088,13 @@
     "hash": "sha256-ujf7XmxXjga+TT+lq1fXiUEhn9DuKq1SsjF0YF4ghBM="
   },
   "oidc_server": {
-    "version": "1.1.1",
+    "version": "2.0.0",
     "t3_versions": [
-      10,
-      11
+      12,
+      13
     ],
-    "description": "OpenID Connect Server.",
-    "hash": "sha256-K/P/DecwHkA4wPEkCss5SmiAM8xp8FtK8eNDQZB2ln4="
+    "description": "OpenID Connect server for TYPO3.",
+    "hash": "sha256-ktZqJaDwjcJoXxv6kJwF/AZ4I90f1S6QIY/a/WRw40I="
   },
   "ok_exchange365_mailer": {
     "version": "3.0.2",
@@ -42712,12 +42720,12 @@
     "hash": "sha256-alx3FWB3dLw/gWm7RU4tub2OHHdt3yA1UVmptZjyIqQ="
   },
   "pb_concertlist": {
-    "version": "10.4.2",
+    "version": "12.4.0",
     "t3_versions": [
-      10
+      12
     ],
     "description": "This extension generates a list of concerts for bands",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-Wi5yeVCZJxOKjO+dw6ygcGucgDCAAwLvi31/YtlkPVY="
   },
   "pb_cpuinfo": {
     "version": "0.0.1",
@@ -43288,13 +43296,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "personio_jobs": {
-    "version": "0.5.11",
+    "version": "0.5.12",
     "t3_versions": [
       11,
-      12
+      12,
+      13
     ],
     "description": "Extension to integrate jobs from Personio Recruiting API",
-    "hash": "sha256-vPPumisLvajviQwp8j+8fRtAsjZ3IKw+i0uvq1cpgZ0="
+    "hash": "sha256-oR6bvdz6yyeltAzMQE453OrglP627OnNKuS/YYSEoWU="
   },
   "personnel": {
     "version": "4.2.1",
@@ -46969,12 +46978,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "repeatable_form_elements": {
-    "version": "3.1.1",
+    "version": "5.0.0",
     "t3_versions": [
-      11
+      12,
+      13
     ],
     "description": "Adds a new form element which allows the editor to create new container elements with any type fields in them. In the frontend, a user can create any number of new containers. This is an extension for TYPO3 CMS.",
-    "hash": "sha256-EhIcUQy32AMlIOO27e/raZ9C0bleZcnyWLPubBNhFCk="
+    "hash": "sha256-wyTl1eS0YDXntE0UM9mGNnQm0C0jzi+xbPMb0x3uud4="
   },
   "replacecontent": {
     "version": "2.0.4",
@@ -55767,12 +55777,12 @@
     "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
   },
   "sync_crop_areas": {
-    "version": "3.0.0",
+    "version": "4.0.0",
     "t3_versions": [
-      11
+      13
     ],
     "description": "Sync first found crop area to all other CropVariants",
-    "hash": "sha256-vz+p5vpjtM2aDlubcg+HBjkMUhK3X43cPsv2N+/hwgw="
+    "hash": "sha256-Xyurn7+2WEPJp5xPvaama1rqCf8YjHspAb27xygISzo="
   },
   "synchronize": {
     "version": "0.9.0",
@@ -56641,14 +56651,15 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "t3monitor": {
-    "version": "2.0.5",
+    "version": "2.1.0",
     "t3_versions": [
       10,
       11,
-      12
+      12,
+      13
     ],
     "description": "Monitors TYPO3 installation for updates and security issues (Requires an account on www.t3monitor.de)",
-    "hash": "sha256-6JJx+GxmrYuNsnzbWYKjIOcXLeAhi8H5LH3UVuiFrAk="
+    "hash": "sha256-dy7hY01X/ls5CS/1Tn6K61waW0vbyAEjWvwIQaWfms4="
   },
   "t3monitoragent": {
     "version": "0.1.0",
@@ -62577,13 +62588,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "vardumper": {
-    "version": "6.3.4",
+    "version": "7.2.0",
     "t3_versions": [
-      11,
-      12
+      12,
+      13
     ],
     "description": "Symfony VarDumper",
-    "hash": "sha256-DlDqiQCHCH4sRMFtuaX8p/Gy3y4iMsFerswnQiNifDQ="
+    "hash": "sha256-nmU1hArB0t4vnSqfiB2TN6la8BNORwD/osWmT7DA2iU="
   },
   "varfeform": {
     "version": "1.2.0",
