@@ -3867,14 +3867,14 @@
     "hash": "sha256-UVhCJrkxzu06YQdFLI2wRSJTVPkesQPrwi+ChBlnF1U="
   },
   "base_css": {
-    "version": "0.0.3",
+    "version": "8.7.0",
     "t3_versions": [
-      9,
-      10,
-      11
+      11,
+      12,
+      13
     ],
     "description": "This provides the PHP-CSS-Parser.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-zGGZEuYnTTNewmJ2o2Fljgz3GKers6iVJye04A6mjow="
   },
   "base_enum": {
     "version": "3.0.2",
@@ -3961,32 +3961,34 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "base_svg": {
-    "version": "0.5.0",
-    "t3_versions": [
-      10,
-      11
-    ],
-    "description": "A library to read, parse and export to PDF SVG files.",
-    "hash": "sha256-qAbps0jRpikNC3eDoyRcW8cS64jIr71CnUlvUAhRbTc="
-  },
-  "base_word": {
     "version": "1.0.0",
     "t3_versions": [
-      10,
-      11
+      11,
+      12,
+      13
+    ],
+    "description": "A library to read, parse and export to PDF SVG files.",
+    "hash": "sha256-l8PBJJwDFJIwWZRT8RDeVcxlOwCHEA4ifkv6GxnaxD0="
+  },
+  "base_word": {
+    "version": "1.3.0",
+    "t3_versions": [
+      11,
+      12,
+      13
     ],
     "description": "This provides the PHPWord library from phpOffice.",
-    "hash": "sha256-urvrBWsab06p8pgm8bNq1ZRVsidDeJLfNo0Gg5Ev9k8="
+    "hash": "sha256-dpYIT/5Uh/MhRS/dkGrM9DmO/+7txMoUUfGaShBNdWg="
   },
   "base_zip": {
-    "version": "3.0.2",
+    "version": "3.1.1",
     "t3_versions": [
-      10,
       11,
-      12
+      12,
+      13
     ],
     "description": "A library to download ZIP files. ZipStream-PHP",
-    "hash": "sha256-swo1woKPegw1iBxSpUCerJcZVGxl2ojxZiJsNAEsDBE="
+    "hash": "sha256-z5BU+kw4ezOq4f0HUD1YbQWq3mCnIOtoPrIoMQjm5tw="
   },
   "baseorg": {
     "version": "6.0.2",
@@ -5982,13 +5984,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "bw_captcha": {
-    "version": "4.2.1",
+    "version": "4.2.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "Captcha element with audio support for TYPO3 form components. The captcha generation does not rely on Google or third-party integrations.",
-    "hash": "sha256-PT4VYuB+sLwFLOwY6SZCvIhgcTlKXbiMbn5HEhEmVVk="
+    "hash": "sha256-f4JYtn7tUKUb4zM97YmJZAdpfpNRrBR0yhPlcOFZm8s="
   },
   "bw_covid_numbers": {
     "version": "1.2.0",
@@ -10420,12 +10422,12 @@
     "hash": "sha256-RbhGP0thpWqFqC/65d/8Ty8ALDK1PXbNl+L6pSPBbOM="
   },
   "cookieman": {
-    "version": "2.16.3",
+    "version": "2.16.5",
     "t3_versions": [
       11
     ],
     "description": "Provides a user consent popup. It asks for approval to include tracking objects (cookies, images or any HTML) and includes the objects when consented. It also removes cookies after the consent has been revoked.",
-    "hash": "sha256-m8Xk0YJAzbLgsfIBk+EQ45XmcnU28AkSpLcb/gRetUw="
+    "hash": "sha256-b8qxF8N1VMoLS2wSYTGve8GidM5/h3R5yude1UROIlQ="
   },
   "cookiepro": {
     "version": "1.0.3",
@@ -17607,12 +17609,12 @@
     "hash": "sha256-fW7FJmsbuCfvKGtcrpJ6zM6iWzSVTnJkqvick5+P1mI="
   },
   "events2": {
-    "version": "9.1.4",
+    "version": "9.1.7",
     "t3_versions": [
       12
     ],
     "description": "Create single and recurring events",
-    "hash": "sha256-iPlbugdC1k9yqgc6N+QQQOVjrWubVAhDWSm1FFQItwg="
+    "hash": "sha256-SC6aCquEzI8m5uI7mYK9dM35C9/Mc5izzYEC89OlutA="
   },
   "events2_reserve_connector": {
     "version": "1.0.0",
@@ -23544,13 +23546,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "grid_for_container": {
-    "version": "2.1.1",
+    "version": "3.0.0",
     "t3_versions": [
-      10,
-      11
+      11,
+      12,
+      13
     ],
     "description": "Add an easy to use grid element for Container. It's Framework independent. Prepared for Bootstrap (3, 4, 5).",
-    "hash": "sha256-4I/iLNQuone5jegN8CjdqPnpHr4pKkGciUA/iFkZU0A="
+    "hash": "sha256-KSICAVzMHkfZtNHbHiDrhzZqnrssZ/ZLmfl9QPie7no="
   },
   "grid_for_gridelements": {
     "version": "2.2.0",
@@ -26540,6 +26543,15 @@
     ],
     "description": "Adds a crawler for tt_news entries into the indexed_search configuration",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "indexnow": {
+    "version": "0.0.4",
+    "t3_versions": [
+      10,
+      11
+    ],
+    "description": "TYPO3 extension to send a request to indexnow.org for re-indexing after modifying content",
+    "hash": "sha256-89KiFhjoIxVBpHF2Qt4BkJIKStRV1I4rmmytRzsJAQA="
   },
   "indieweb": {
     "version": "0.1.1",
@@ -40388,13 +40400,13 @@
     "hash": "sha256-3Qr9dpQ5dJf1Sr4y1JBIxIWQ0Nq8tGqns7ftIprGDCU="
   },
   "oauth2_server": {
-    "version": "2.0.0",
+    "version": "2.0.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "OAuth2 server for TYPO3 based on PHP League's OAuth2 Server.",
-    "hash": "sha256-mDv4pPnhFck7SXXDXMU3Y9QXo/srFPZl+xqlNOCco8c="
+    "hash": "sha256-fL5VlNAuJUgBuasQvwBmLlPXe0328Mg1PJMaoDXLkFE="
   },
   "oauth_openid_single_sign_on": {
     "version": "1.1.0",
@@ -42807,20 +42819,20 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "pb_news_jobs": {
-    "version": "11.5.1",
+    "version": "12.4.1",
     "t3_versions": [
-      11
+      12
     ],
     "description": "Extends the Extension news with additional fields for jobs offers.",
-    "hash": "sha256-1A5hiWUodD465q3e3UMr+quwHxIH9aaipQULhYhxqBw="
+    "hash": "sha256-xVgCYe2g/Xu6nGwGHCsJwfTiSI8ikYtiEQpPCnjALiU="
   },
   "pb_notifications": {
-    "version": "11.5.1",
+    "version": "12.4.2",
     "t3_versions": [
-      11
+      12
     ],
     "description": "Manages notifications for editors in the backend",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-o1r9BwPSE/e+ADszReo6T/BSfBLf3j3HtmiJQv65P+E="
   },
   "pb_pdf": {
     "version": "10.4.0",
@@ -47997,13 +48009,13 @@
     "hash": "sha256-JNH8ynsVG3ypiqgyw6VGgeKcFthV/YgNCbCf6Grh2vY="
   },
   "rollovercollection4": {
-    "version": "7.0.4",
+    "version": "8.0.0",
     "t3_versions": [
-      11,
-      12
+      12,
+      13
     ],
     "description": "only for bootstrap5 + boostrap package v.12+ - cool multicolumn rendering with seven boxes layouts for cType textmedia, media, textpic and images; bootstrap package needed. Useful for menu, gallery, other. Highly customizable.",
-    "hash": "sha256-kNURTfvs/4U5wQsJBw7vu8WP+plbj814dYuNzZvofNw="
+    "hash": "sha256-gjildteKSuNnmzqc654Loj18RpTEuw4PBbm5EGk/VGI="
   },
   "root_meltwater": {
     "version": "1.0.1",
@@ -50127,12 +50139,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "secure_downloads": {
-    "version": "6.1.0",
+    "version": "6.1.1",
     "t3_versions": [
       12
     ],
     "description": "\"Secure Download\": Apply TYPO3 access rights to ALL file assets (PDFs, TGZs or JPGs etc. - configurable) - protect them from direct access.",
-    "hash": "sha256-5YvAXGmTwhHlKsXR54DZFS4kh3eh7apeiUf5ans9zuA="
+    "hash": "sha256-8b23S+gcSKkYu/0yqx640yBhVUYF/WJuX62YFbWjhs0="
   },
   "secure_filemount": {
     "version": "1.1.2",
@@ -58427,13 +58439,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "textimage_size": {
-    "version": "3.3.0",
+    "version": "4.0.1",
     "t3_versions": [
-      11,
-      12
+      12,
+      13
     ],
     "description": "Use only with bootstrap 5 + boostrap package 12 to change the output size for standard bootstrap package output (column split 50% image - 50% text). For content types text/image (textpict), text/media and image",
-    "hash": "sha256-kNz7108AP+vv84zmbbhm7gcjPhn1v5ItXr7HwL+mhL0="
+    "hash": "sha256-Om8QQuufwwjHluxD6SQ9TPfIu6riw0+3C1ss6djaHks="
   },
   "textmedia_migration": {
     "version": "1.0.1",
