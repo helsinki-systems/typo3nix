@@ -3624,13 +3624,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.332.2",
+    "version": "3.334.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-oa06dbDL1RThWBkL0Tjs4OOuXZTi7qxwGj/bKqcK+5I="
+    "hash": "sha256-0nDW8uclWNhzWu3/J/nXTEvwAjYUZkAzH1bmNlIiXHE="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -26545,13 +26545,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "indexnow": {
-    "version": "0.0.4",
+    "version": "0.0.6",
     "t3_versions": [
-      10,
-      11
+      12,
+      13
     ],
-    "description": "TYPO3 extension to send a request to indexnow.org for re-indexing after modifying content",
-    "hash": "sha256-89KiFhjoIxVBpHF2Qt4BkJIKStRV1I4rmmytRzsJAQA="
+    "description": "TYPO3 extension to inform various search engines over IndexNow endpoint about content updates",
+    "hash": "sha256-iz1+qS9hUZDndzWAwrNVB/RXjPLh9Q2WyQ0KjtP6B7Y="
   },
   "indieweb": {
     "version": "0.1.1",
@@ -27178,14 +27178,15 @@
     "hash": "sha256-MU2LYimY9CgdhXAkWY++DAG+5widZLn2IGr2rvxO6Jc="
   },
   "itrk_legaltexts_typo3": {
-    "version": "3.0.1",
+    "version": "3.0.2",
     "t3_versions": [
       10,
       11,
-      12
+      12,
+      13
     ],
     "description": "A TYPO3 extension that integrates legally compliant documents, such as terms and conditions or privacy policies, directly into your TYPO3 site from the IT-Recht Kanzlei service. This extension requires an active IT-Recht Kanzlei subscription to receive the latest legal texts automatically pushed and updated within TYPO3.",
-    "hash": "sha256-bygLgDiPJavPtxM7i8zm+acUrCymSeFQCFKUIlKMB3A="
+    "hash": "sha256-fS1LAca7eZGahJfjBvKysf4UVv8hc+jWa2RbwBWq1UE="
   },
   "its_addmark_tt_products": {
     "version": "0.0.2",
@@ -35374,13 +35375,13 @@
     "hash": "sha256-L1eMgdoWIA438H/aCPkaYuz0SNfRgocuqGUwlh9mzlU="
   },
   "mklog": {
-    "version": "12.0.4",
+    "version": "13.0.1",
     "t3_versions": [
-      11,
-      12
+      12,
+      13
     ],
     "description": "Keep track of developer logs. Provides automatic email notification about important errors.",
-    "hash": "sha256-SD+/W/JOF2mlMPhR/4gV/RBJ7Wkt+mmtzBJPlg18A7M="
+    "hash": "sha256-4YnWNWEjFsPsDZ8hDOhc0OqCnUU3EAVPeChO4mnrE24="
   },
   "mkmailer": {
     "version": "9.0.0",
@@ -39756,15 +39757,16 @@
     "hash": "sha256-Bkd/9HyCIyhEGv2nsDpknNjxu/55zOfGHQPV07i/DqY="
   },
   "ns_event": {
-    "version": "1.1.0",
+    "version": "2.0.0",
     "t3_versions": [
       9,
       10,
       11,
-      12
+      12,
+      13
     ],
     "description": "TYPO3 Event Manager is a full-featured events management extension that lets you create multiple events and get them listed on your website. TYPO3  Event Manager provides a user-friendly interface that allows you to effortlessly create and customize events. Specify event details such as date, time, location, ticket types, and more in a matter of minutes.",
-    "hash": "sha256-Zw/NkOtBf2x91kcBfMD1ODTs+Fxr5GU54zMM3o/mBF8="
+    "hash": "sha256-Igo0MLpfD5Bn75SurWBI3xWtkucD6E1hnduyq6pw5rA="
   },
   "ns_ext_compatibility": {
     "version": "6.1.0",
@@ -39802,12 +39804,13 @@
     "hash": "sha256-W9VPa0o65y7QGW2e64aEbeupuAcrlK8KscrrtpSnU+Q="
   },
   "ns_feedback": {
-    "version": "12.1.0",
+    "version": "13.0.0",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "The TYPO3 Feedback Extension is a great tool for gathering feedback from visitors or customers on your website. With the All In One TYPO3 Feedback extension, website admin can easily add feedback forms in various styles to their website, allowing them to collect valuable insights from their visitors.",
-    "hash": "sha256-yp0p75/3DvOqBT0o7mxlbpHg91bZ+HM01clhKciZ+Jw="
+    "hash": "sha256-WNjGJvs7EykFUet4ElDx9BJhEqtxu1WJ6imBbJbC4m0="
   },
   "ns_friendlycaptcha": {
     "version": "13.0.0",
@@ -51020,20 +51023,22 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sg_vimeo": {
-    "version": "5.0.0",
+    "version": "5.1.0",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "A solution for embedding Vimeo videos, playlists, or channels easily into TYPO3 pages.",
-    "hash": "sha256-aowD45mAGmxaPpoz/5b8Hjppb1xkYW/9BAm6x7nyHu0="
+    "hash": "sha256-fbYyClVvYFxUlHsM5JNfk4VT36VXVcdkkOGIMbeYnn0="
   },
   "sg_youtube": {
-    "version": "8.0.0",
+    "version": "8.1.0",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "A solution for embedding YouTube videos, playlists, or channels easily into TYPO3 pages.",
-    "hash": "sha256-M5M9+N0BLFCfq+0SxOPPafsuYt8kQkFQzDbPaNUA0w4="
+    "hash": "sha256-DWOWW4LGGXTI2bjkI8NLFCA8foOkJCO2VA1NAVNI+gI="
   },
   "sg_zfeeditlib": {
     "version": "0.8.12",
