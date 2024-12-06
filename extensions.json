@@ -6974,13 +6974,13 @@
     "hash": "sha256-4ieM6LsyY/0QMi64gBnv+l3ePmNTpi488YRPz8MDYyw="
   },
   "campus_events_convert2news": {
-    "version": "4.0.3",
+    "version": "4.0.4",
     "t3_versions": [
       11,
       12
     ],
     "description": "",
-    "hash": "sha256-w0CWEMv+W+4rxflVHoUtnJkU1pKXw6NIpyl2ar5h9y8="
+    "hash": "sha256-eQ98IakQ6IHIhVBmkwd+HuJYZIWx3HjWIDKEoE+tM1I="
   },
   "campus_events_convert2ttnews": {
     "version": "1.0.1",
@@ -9892,12 +9892,13 @@
     "hash": "sha256-Bj054TXGdx1NaMCgJPC0479kH9gvZDYmd9bjNMhK4Pk="
   },
   "container_elements": {
-    "version": "6.0.2",
+    "version": "6.0.3",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "Provides content elements powered by container and bootstrap. Available elements: container, columns, grid, tabs, accordion, tile unit, card, randomizer and slider.",
-    "hash": "sha256-uW6rh+6L33awJDKwaXsgPDx0WUHU8rc2yCpoBKZA2gM="
+    "hash": "sha256-PX1h5WsykWrznTfe9AyTi4AeHXGxCuJCCa8iwdawii4="
   },
   "container_example": {
     "version": "1.0.0",
@@ -26366,13 +26367,13 @@
     "hash": "sha256-UZV44SN2n7AvtZqpfjPN9tUQa7eVW393wQ6YjSI3ifg="
   },
   "in2frontendauthentication": {
-    "version": "9.0.1",
+    "version": "9.0.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "Authenticate every visitor as a defined frontend user if IP matches",
-    "hash": "sha256-66N0Xf1+lt8z8JEqDo6EYdHuw/9B3NWviy5dYFVWZqY="
+    "hash": "sha256-ZB123KW/2Iwz2rWViVyBofjJ7KSa9F6CWTgh5HMjMlw="
   },
   "in2help": {
     "version": "7.0.1",
@@ -33955,12 +33956,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "media_processing": {
-    "version": "0.7.0",
+    "version": "0.8.0",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "Integrates various image processing libraries and SaaS cloud services into TYPO3 by leveraging their APIs to process images.",
-    "hash": "sha256-2RA6KbBk42sgqy6j6uxA/W1XlGINIvSOyNbopw02NFw="
+    "hash": "sha256-k39fFJ1HFv6alUN6fuAu4buLTTH0WddRB5c88h2m7TU="
   },
   "media_upload": {
     "version": "2.0.0",
@@ -34485,10 +34487,12 @@
     "hash": "sha256-O1bnX3wqx3vFVB+wQxLilB3n8xDFUDG3snY+mXZRhtg="
   },
   "mfa_yubikey": {
-    "version": "3.0.0",
-    "t3_versions": [],
+    "version": "3.0.1",
+    "t3_versions": [
+      13
+    ],
     "description": "YubiKey OTP MFA provider for the TYPO3 backend login.",
-    "hash": "sha256-kfRYyNIMfCYPclv7mt3voMNQjSf/yrcU+mtTfUL8MIE="
+    "hash": "sha256-ZRpIhSeX50soyZLWh4EX4qhMdhccVS/d2JdorPRaLaM="
   },
   "mfc_author": {
     "version": "2.0.0",
@@ -39968,12 +39972,13 @@
     "hash": "sha256-3JUafyWieLeiN5q4cKB8nNEFnlAjq5onkTbIrXrrYDo="
   },
   "ns_news_slider": {
-    "version": "12.0.2",
+    "version": "13.0.0",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "The TYPO3 News Slider extension lets you create an attractive news slider for your website. It offers several popular JQuery slider plugins like Owlcarousel Slider, Royal Slider, Slidejs Slider, and Slick Slider. It's an easy and convenient way to add a news slider to your site!",
-    "hash": "sha256-NGwqriHd5h0Uwr1R0IYImJi6qLcjI+mHN1w8c8rSVNQ="
+    "hash": "sha256-+2Ob+LNLSpNHlgtrhhoJQobrl1pe002osseJh5U7aEA="
   },
   "ns_open_streetmap": {
     "version": "13.0.0",
@@ -45562,12 +45567,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "pvh": {
-    "version": "3.0.0",
+    "version": "3.1.0",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "A collection of view helpers used by pizpalue. Contains copies from vhs view helpers by Claus Due.",
-    "hash": "sha256-uxpoF1n2xGs9xShgyRl/PrBEGfehtJ2X6z/BcJAZj68="
+    "hash": "sha256-bJ7OKXnBLUFC95JigPESPpnaYEfqCmJONG44zRVu9u8="
   },
   "pw_comments": {
     "version": "6.0.0",
@@ -47995,31 +48001,31 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "rollovercollection2": {
-    "version": "7.0.5",
-    "t3_versions": [
-      11,
-      12
-    ],
-    "description": "CIRCLE rollover effetcts from tympanus for cType textmedia, media, images, textpic - Only for bootstrap package 12+ with Bootstrap 5.x (SCSS) (bootstrap_package) library",
-    "hash": "sha256-rrPl+xy8lGTuncL6JP0gZQ9SlGxmETOXcgjSAmp9/6M="
-  },
-  "rollovercollection3": {
-    "version": "7.0.6",
-    "t3_versions": [
-      11,
-      12
-    ],
-    "description": "ORIGINAL HOVER EFFECTS  - cType supported: textmedia, media and images (https://tympanus.net/Tutorials/OriginalHoverEffects/index.html) -  Only for Bootstrap Package 12 +  Bootstrap 5.x (SCSS) (bootstrap_package)",
-    "hash": "sha256-JNH8ynsVG3ypiqgyw6VGgeKcFthV/YgNCbCf6Grh2vY="
-  },
-  "rollovercollection4": {
     "version": "8.0.0",
     "t3_versions": [
       12,
       13
     ],
+    "description": "CIRCLE rollover effetcts from tympanus for cType textmedia, media, images, textpic - Only for bootstrap package 12+ with Bootstrap 5.x (SCSS) (bootstrap_package) library",
+    "hash": "sha256-IY1aIq9k2rNfciUk+Dxf01StSP0GV9qPwNEBpezzAk8="
+  },
+  "rollovercollection3": {
+    "version": "8.0.0",
+    "t3_versions": [
+      12,
+      13
+    ],
+    "description": "ORIGINAL HOVER EFFECTS  - cType supported: textmedia, media and images (https://tympanus.net/Tutorials/OriginalHoverEffects/index.html) -  Only for Bootstrap Package 12 +  Bootstrap 5.x (SCSS) (bootstrap_package)",
+    "hash": "sha256-sPi39h/032p5YwMebMdx80oGsbPp+Raos/i89lm7Bco="
+  },
+  "rollovercollection4": {
+    "version": "8.0.2",
+    "t3_versions": [
+      12,
+      13
+    ],
     "description": "only for bootstrap5 + boostrap package v.12+ - cool multicolumn rendering with seven boxes layouts for cType textmedia, media, textpic and images; bootstrap package needed. Useful for menu, gallery, other. Highly customizable.",
-    "hash": "sha256-gjildteKSuNnmzqc654Loj18RpTEuw4PBbm5EGk/VGI="
+    "hash": "sha256-nW5YxaicvbhKvfPGD15+JP/q9PMrY1kSapQVtIyWIP8="
   },
   "root_meltwater": {
     "version": "1.0.1",
