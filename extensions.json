@@ -40143,12 +40143,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ns_timeline": {
-    "version": "12.1.2",
+    "version": "13.0.0",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "Create engaging stories, timelines, histories, and roadmaps easily with the All In One Timeline TYPO3 Extension. With 18 unique styles and layouts, this extension offers unlimited possibilities for showcasing content on your TYPO3 website. Additionally, the TYPO3 Event extension integrates with TYPO3 Blog and TYPO3 News extensions allowing you to display timeline posts.",
-    "hash": "sha256-wGrNMyaIE3PpbGgsgzmdOotGGfb27js5w4KihzcKtss="
+    "hash": "sha256-D8BO8ZpAHN38kkaAIa+nwmfPJGB2LyRe6cwQ7LGzuG0="
   },
   "ns_twitter": {
     "version": "3.1.1",
