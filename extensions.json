@@ -9892,13 +9892,13 @@
     "hash": "sha256-Bj054TXGdx1NaMCgJPC0479kH9gvZDYmd9bjNMhK4Pk="
   },
   "container_elements": {
-    "version": "6.0.3",
+    "version": "6.0.4",
     "t3_versions": [
       12,
       13
     ],
     "description": "Provides content elements powered by container and bootstrap. Available elements: container, columns, grid, tabs, accordion, tile unit, card, randomizer and slider.",
-    "hash": "sha256-PX1h5WsykWrznTfe9AyTi4AeHXGxCuJCCa8iwdawii4="
+    "hash": "sha256-9dMqn8DZfoPeQF8LJgvMxRFQwLR2nlfKTd8i13PZG+o="
   },
   "container_example": {
     "version": "1.0.0",
