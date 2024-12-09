@@ -1600,13 +1600,13 @@
     "hash": "sha256-9l+hxt6In1KgppFpKk8Up0kj/v6FqdyggZr0hCNEWGU="
   },
   "ai_tools": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "A TYPO3 extension that leverages artificial intelligence to enhance content and accessibility",
-    "hash": "sha256-4AOJwWDMs8yQNPsKYefOf6dfq8MKl6+5G6RqLMagnDE="
+    "hash": "sha256-mZnqzJat+pGrC9K8hJir4P8dQ3X7wTYEV8N1Ekb6Y7w="
   },
   "ai_translate": {
     "version": "3.1.1",
@@ -5001,12 +5001,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "blogext": {
-    "version": "1.3.0",
+    "version": "1.4.0",
     "t3_versions": [
       13
     ],
     "description": "With this record-based extension for TYPO3, it is easy to run a blog on your TYPO3 website, including RSS functionality and integration into the Google Sitemap with route enhancers for SEO-friendly links.",
-    "hash": "sha256-0UF5DejfJcXVBb3f4b98F/SCTtw5GzgECk2EDTnH2GY="
+    "hash": "sha256-+Nvyk7K/IPKPQXzsZ1RoVHcXN1A8XdvFl2gQBqolIpg="
   },
   "blogging": {
     "version": "1.4.3",
@@ -6965,22 +6965,22 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "campus_events_connector": {
-    "version": "4.0.4",
+    "version": "5.0.0",
     "t3_versions": [
-      11,
-      12
+      12,
+      13
     ],
     "description": "Connecting the event software campus events with TYPO3, to import the event data into TYPO3 as data records. Get further information about Campus Events: www.campus-events.com",
-    "hash": "sha256-4ieM6LsyY/0QMi64gBnv+l3ePmNTpi488YRPz8MDYyw="
+    "hash": "sha256-kiSVvfUJuJShv4wuFwqH+o4BNf9JuVWqWbdndCF1QtU="
   },
   "campus_events_convert2news": {
-    "version": "4.0.4",
+    "version": "5.0.0",
     "t3_versions": [
-      11,
-      12
+      12,
+      13
     ],
     "description": "",
-    "hash": "sha256-eQ98IakQ6IHIhVBmkwd+HuJYZIWx3HjWIDKEoE+tM1I="
+    "hash": "sha256-PU6czv7wq1aL9nlUsrMfPprD7dC32ZPR0XfJB/8sLOo="
   },
   "campus_events_convert2ttnews": {
     "version": "1.0.1",
@@ -6993,13 +6993,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "campus_events_frontend": {
-    "version": "4.0.3",
+    "version": "5.0.0",
     "t3_versions": [
-      11,
-      12
+      12,
+      13
     ],
     "description": "Frontend plugins for Campus Events",
-    "hash": "sha256-7YM+z1pTscflewjXEOqlxBBNOcMBa6QhC1IKxaIUHNk="
+    "hash": "sha256-4ybXHp63fMKektMhbNiF27gUOP+Xld+gD8pdN1JlaO4="
   },
   "canonical": {
     "version": "1.0.0",
@@ -8091,12 +8091,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cf_cookiemanager": {
-    "version": "1.7.2",
+    "version": "1.7.3",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "Manage cookies, scripts, and GDPR compliance on your Typo3 website with CodingFreaks Typo3 Cookie Manager. Customize cookie banners, streamline workflow, and enhance user experience. Ensure GDPR compliance and take control of cookie management with our Typo3 cookie management extension. Visit the official Typo3 Documentation page to learn more.",
-    "hash": "sha256-wiwTSb82ceXTOkf7tLUKyLfWa9bZoWIME069HundK+c="
+    "hash": "sha256-uvIKBpGilsXmq57+z2tNawur6G2155Y7+texfBlcAR8="
   },
   "cf_google_authenticator": {
     "version": "1.2.4",
@@ -9972,14 +9973,14 @@
     "hash": "sha256-2YlJYJUPnk62WA6ebh03szvjhLPY3cxd1FcEFDJlnOI="
   },
   "content_defender": {
-    "version": "3.5.0",
+    "version": "3.5.1",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "Define allowed or denied content element types in your backend layouts",
-    "hash": "sha256-yum5ZBh18I040vsNjNa+EXfsGZvCyrtgyWTHiAp8IMs="
+    "hash": "sha256-JMblQthWXBPAocwRU2DdtXHZadtDJUV3rKjLTRWFLgA="
   },
   "content_designer": {
     "version": "3.0.7",
@@ -20599,14 +20600,14 @@
     "hash": "sha256-u8kkaL8ssqqKfFhkOasaU5xGbAu9t+OlMiw7I3163zo="
   },
   "flux": {
-    "version": "10.0.10",
+    "version": "10.1.0",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Drop-in page and content templates with nested content feature. Provides multiple condensed integration APIs to use advanced TYPO3 features with little effort.",
-    "hash": "sha256-9oXRSc7n27K9zS8WGAKB7XnyMWkMJI+dFG5eXOqGLMc="
+    "hash": "sha256-b+D4Fw9hf62A1liQdLk8OID8iyu3awxHW8z0lY0SOks="
   },
   "flux_elements": {
     "version": "1.4.1",
@@ -32187,22 +32188,22 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "lux": {
-    "version": "38.0.1",
+    "version": "38.1.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Living User Experience - LUX - the Marketing Automation tool for TYPO3.",
-    "hash": "sha256-cFb9l3meyrwicTc11OpthBaomQEZ6rThSYepcKer8Ts="
+    "hash": "sha256-c4UtdoRUB7SNWBuoz29osw5My5/rbNj4fgBDV/aNWP4="
   },
   "luxletter": {
-    "version": "26.3.1",
+    "version": "27.0.0",
     "t3_versions": [
-      11,
-      12
+      12,
+      13
     ],
     "description": "Free newsletter extension for TYPO3 for an individual email marketing. A lot of analytics and modern concepts. Works with and without EXT:lux.",
-    "hash": "sha256-nk8b6AvCB3/lzULXz1pQUQMsSNepGU1RsPtvxlpfMsg="
+    "hash": "sha256-ZkkxaMffUYFzqYDGVubqY831SehZcZ3OdlqjnIra9aM="
   },
   "lvcleantemp": {
     "version": "1.0.4",
@@ -42828,12 +42829,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "pb_news_jobs": {
-    "version": "12.4.1",
+    "version": "12.4.2",
     "t3_versions": [
       12
     ],
     "description": "Extends the Extension news with additional fields for jobs offers.",
-    "hash": "sha256-xVgCYe2g/Xu6nGwGHCsJwfTiSI8ikYtiEQpPCnjALiU="
+    "hash": "sha256-wlX+RaDeE5GxBqJl0wm/u3/qcO7uBv7DUkiXEvBTOBc="
   },
   "pb_notifications": {
     "version": "12.4.2",
@@ -44771,13 +44772,13 @@
     "hash": "sha256-DXTxBoXGmgNbYhRt8E6dooUNwnbuxOD6Bav9cbDhHs0="
   },
   "powermailautocomplete": {
-    "version": "2.3.3",
+    "version": "2.3.5",
     "t3_versions": [
       11,
       12
     ],
     "description": "Add autocomplete tokens to powermail fields",
-    "hash": "sha256-ZTOmHsezUflaIC4+SLgNsUfzVBJLmQ9Nzh3i9upL0PY="
+    "hash": "sha256-9BFys6Z7/6cdzX25j1/CGVQ1yqZRiXhVnsMnSFCgaws="
   },
   "powermailcaptcha": {
     "version": "2.1.2",
@@ -55605,58 +55606,58 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "svconnector": {
-    "version": "5.1.0",
+    "version": "6.0.0",
     "t3_versions": [
-      11,
-      12
+      12,
+      13
     ],
     "description": "This family of services is used to connect to external data sources and fetch data from them. This is just a base class which cannot be used by itself. Implementations are done for specific subtypes.",
-    "hash": "sha256-UgPILiSxeKlYKgtWVVyeqqReyRmSD93/LZoqfrYJpC0="
+    "hash": "sha256-rS1Gu4xbwiy4sdrl4/+8jFRiOYN57tmpRc6ARRm4GyQ="
   },
   "svconnector_csv": {
-    "version": "4.1.0",
+    "version": "5.0.0",
     "t3_versions": [
-      11,
-      12
+      12,
+      13
     ],
     "description": "Connector service for reading a CSV or similar flat file",
-    "hash": "sha256-/iAk8JlD5x24AWb/QLSPJdy9ZA10WWWQzL5wtxRZ1e4="
+    "hash": "sha256-GhO8sRM//BnWx5/3n60A2nbRqsn/rBVPStQTs63v0us="
   },
   "svconnector_feed": {
-    "version": "4.1.0",
+    "version": "5.0.0",
     "t3_versions": [
-      11,
-      12
+      12,
+      13
     ],
     "description": "Connector service for XML files or RSS feeds",
-    "hash": "sha256-T9p0vAP9nq/j0i3hu7Q4kdzV2EoKMN+3w6lltZIjj3c="
+    "hash": "sha256-sHq7VT/7ZdaQe5pOfmRIPVDK3hm52UUmXyyYLv8ZepU="
   },
   "svconnector_json": {
-    "version": "4.2.0",
+    "version": "5.0.0",
     "t3_versions": [
-      11,
-      12
+      12,
+      13
     ],
     "description": "Connector service for JSON data",
-    "hash": "sha256-U5VURsOJgxhx3AwHQwh4NwpBRE/A2DOYAvZ9cVgsgyM="
+    "hash": "sha256-eUvzqeswnhHK9nS3fTrVfjiEjWn7excsuPv5FktEu8o="
   },
   "svconnector_sql": {
-    "version": "4.1.0",
+    "version": "5.0.0",
     "t3_versions": [
-      11,
-      12
+      12,
+      13
     ],
     "description": "Connector service for any SQL-based database via Doctrine DBAL.",
-    "hash": "sha256-brJuvt7gs8BOaPZS6Y8U+W1CzKexnAdh1c5bsG3yV0M="
+    "hash": "sha256-l3POFT0AOrvICZho0ulwts4oF1R+1diGFLY0XESRykU="
   },
   "svconnector_xls": {
-    "version": "3.1.0",
+    "version": "3.2.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Connector service for reading a XLS(X) file",
-    "hash": "sha256-e6WJv1+ATU+IQtkmOjPaz3b0K76DmVmSWUZux7TGptQ="
+    "hash": "sha256-FrJjSzZz5dHwCB1Wb+Kt0BHA0CEaFDuPiwxjx9F7iwo="
   },
   "svg_embed": {
     "version": "0.10.0",
@@ -63277,14 +63278,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "voucher": {
-    "version": "0.6.1",
+    "version": "0.7.0",
     "t3_versions": [
-      9,
-      10,
-      11
+      11,
+      12
     ],
     "description": "Backend extension to manage voucher codes for FE users. This works together with tt_products and agency.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-hz5HfAlQzzvvuw2QkxWIiOJYdRogt2YMYppsAyje7m4="
   },
   "vqmod": {
     "version": "1.0.0",
