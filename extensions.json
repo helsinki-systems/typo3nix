@@ -3624,13 +3624,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.334.2",
+    "version": "3.334.3",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-G1MvLfj4GVZDSt50SqCmQ6N7skH+PmNoq2FeVSEN2RY="
+    "hash": "sha256-G/WKflf8tMehzto/zY8j9nuDUv21vVEuSsD1wEEW1Mw="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -5001,12 +5001,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "blogext": {
-    "version": "1.4.0",
+    "version": "1.5.0",
     "t3_versions": [
       13
     ],
     "description": "With this record-based extension for TYPO3, it is easy to run a blog on your TYPO3 website, including RSS functionality and integration into the Google Sitemap with route enhancers for SEO-friendly links.",
-    "hash": "sha256-+Nvyk7K/IPKPQXzsZ1RoVHcXN1A8XdvFl2gQBqolIpg="
+    "hash": "sha256-85tawZSJgwcRe3bOfFUkvJKVoR8iyOjHwTIlvSKFa3k="
   },
   "blogging": {
     "version": "1.4.3",
@@ -10424,12 +10424,12 @@
     "hash": "sha256-RbhGP0thpWqFqC/65d/8Ty8ALDK1PXbNl+L6pSPBbOM="
   },
   "cookieman": {
-    "version": "2.16.5",
+    "version": "2.16.6",
     "t3_versions": [
       11
     ],
     "description": "Provides a user consent popup. It asks for approval to include tracking objects (cookies, images or any HTML) and includes the objects when consented. It also removes cookies after the consent has been revoked.",
-    "hash": "sha256-b8qxF8N1VMoLS2wSYTGve8GidM5/h3R5yude1UROIlQ="
+    "hash": "sha256-qpbwzKnrGIslRsMek+k8TJHD2+wXBl1Ty+PvtST5DSc="
   },
   "cookiepro": {
     "version": "1.0.3",
@@ -24943,14 +24943,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "hubspot_forms": {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "Automatically load HubSpot forms in TYPO3 pages via the HubSpot API",
-    "hash": "sha256-wqhNE8/46yaLW4HAYmbwTTIa0Kc66xG39tQE3pouMqM="
+    "hash": "sha256-8GUbxU2uawrxKC/OsUsGg6Wfzq1JNslrmiNVqnpD4NA="
   },
   "humhub": {
     "version": "12.4.8",
@@ -32463,52 +32463,52 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "maagitblog": {
-    "version": "13.4.1",
+    "version": "13.4.2",
     "t3_versions": [
       13
     ],
     "description": "Versatile agenda system based on Extbase & Fluid and using latest technologies provided by TYPO3 CMS.",
-    "hash": "sha256-Bar2oRsxHyv/K6l9DoxTxc4Dc7632z03vEH2wDnxukY="
+    "hash": "sha256-kEihbo33vL7Rxe+h9JSOD6d6RzJ9YuuWTh76eBiIy14="
   },
   "maagitcookie": {
-    "version": "13.4.1",
+    "version": "13.4.2",
     "t3_versions": [
       13
     ],
     "description": "Cookie consent functionality for using websites provided by TYPO3 CMS.",
-    "hash": "sha256-134KKdtKxDPfD5CEQoBZI0fn5GFG5QQSglpprS3v7Iw="
+    "hash": "sha256-kFt7bZqlef6hJum7a2EES8HQv7k+HSXdUJto9PkwIXc="
   },
   "maagitevent": {
-    "version": "13.4.1",
+    "version": "13.4.2",
     "t3_versions": [
       13
     ],
     "description": "Versatile agenda system based on Extbase & Fluid and using latest technologies provided by TYPO3 CMS.",
-    "hash": "sha256-xhkYowafmXVaWagrysq9TmiERExvLyzpliphO5VkNF4="
+    "hash": "sha256-Xxr4OsS0JloeGHzaRVjHE2LyHXyehQQDIDq6h/FuoWw="
   },
   "maagitproduct": {
-    "version": "13.4.1",
+    "version": "13.4.2",
     "t3_versions": [
       13
     ],
     "description": "Versatile shop system based on Extbase & Fluid and using latest technologies provided by TYPO3 CMS.",
-    "hash": "sha256-yl5DJQMoRrmzRCHJ53Rm7bb/8IGRsmbQ5AJ1J0VwkKk="
+    "hash": "sha256-o6wVuEelPMXmWr7YPpTy9m16N/iQEjl5/BapjUErWW4="
   },
   "maagitseclink": {
-    "version": "13.4.1",
+    "version": "13.4.2",
     "t3_versions": [
       13
     ],
     "description": "Secure download functionality for Typo3 Websites provided by TYPO3 CMS.",
-    "hash": "sha256-ipfsTky6zcZGT9iK2igR+s92uYVkpJzSGLijnlKDC4w="
+    "hash": "sha256-KSmkmlg0f794hnOTNSR+d8NrfQ1xvNXxIy3BEZjQhUQ="
   },
   "maagituser": {
-    "version": "13.4.1",
+    "version": "13.4.2",
     "t3_versions": [
       13
     ],
     "description": "Versatile login and user system based on Extbase & Fluid and using latest technologies provided by TYPO3 CMS.",
-    "hash": "sha256-goZawcpgULpzoJUpfP4MshNbFi7v/xLJY0yJPTYaWtY="
+    "hash": "sha256-Ufr4AOAW8J358lNqvODRvC+BwogTJxmFwIWcLLvqMWc="
   },
   "maca_clubadmin": {
     "version": "0.1.4",
@@ -44813,14 +44813,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "powermailrecaptcha": {
-    "version": "5.2.2",
+    "version": "5.2.3",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Google recaptcha extension for powermail",
-    "hash": "sha256-uomFRKO6FKgZuKTH3ML5K6LcM5EEU1HBiweqwGosLqk="
+    "hash": "sha256-sLi3LDMZGEfQZjaqiKzCYdT3Z5OgwMdVY4e2cY9cCsw="
   },
   "powersearch": {
     "version": "1.0.2",
@@ -65511,13 +65511,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "wv_deepltranslate": {
-    "version": "4.3.1",
+    "version": "4.4.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "This extension provides option to translate content element, and TCA record texts to DeepL supported languages.",
-    "hash": "sha256-N+/HOMxLSSeSEAnDXLBTjWMbxYiFHlrUiILYMRSWlqM="
+    "hash": "sha256-+awF0CMs5RTAPqtMQ8cFCMwRynHqrxo57ZrVB3+EPeE="
   },
   "wv_file_cleanup": {
     "version": "2.0.1",
