@@ -1625,13 +1625,13 @@
     "hash": "sha256-mLO7/zsLctavB/gvr5k6AC7eiEf9qNvZ/9WPt9NvfxY="
   },
   "aimeos": {
-    "version": "24.10.2",
+    "version": "24.10.3",
     "t3_versions": [
       12,
       13
     ],
     "description": "Professional, full-featured and ultra-fast TYPO3 e-commerce extension for online shops, complex B2B applications and #gigacommerce. Turns TYPO3 into the best platform for content commerce and your e-commerce requirements (also available as TYPO3 distribution)",
-    "hash": "sha256-bMcGVcURJ/H0FiCb7g4Bo4eBkXvXgoYQFcTiZcCxeL0="
+    "hash": "sha256-nws2QrnONR3GK7EB9pxJfDEfla92S1wQ/srPUNQkpLQ="
   },
   "aimeos_dist": {
     "version": "24.10.1",
@@ -3624,13 +3624,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.334.3",
+    "version": "3.334.4",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-G/WKflf8tMehzto/zY8j9nuDUv21vVEuSsD1wEEW1Mw="
+    "hash": "sha256-JmzJpqptIsm4HOneKv3MI80krtoREZ87wJFAE+UQQPM="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -5001,12 +5001,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "blogext": {
-    "version": "1.5.0",
+    "version": "1.5.1",
     "t3_versions": [
       13
     ],
     "description": "With this record-based extension for TYPO3, it is easy to run a blog on your TYPO3 website, including RSS functionality and integration into the Google Sitemap with route enhancers for SEO-friendly links.",
-    "hash": "sha256-85tawZSJgwcRe3bOfFUkvJKVoR8iyOjHwTIlvSKFa3k="
+    "hash": "sha256-C3PYAdGOHmxgNREZuI0N4QZZs0s8R9+7nCsneRdwLSg="
   },
   "blogging": {
     "version": "1.4.3",
@@ -7559,14 +7559,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cc_image": {
-    "version": "1.3.0",
+    "version": "1.4.0",
     "t3_versions": [
-      10,
       11,
-      12
+      12,
+      13
     ],
     "description": "Provide image viewhelpers and support for WebP",
-    "hash": "sha256-6+jVgW0Kbqix7/lvdXLTAiRZLjZ7TFfhwC/CHdpeiPI="
+    "hash": "sha256-xOTYSSKCBiNH/Hq6ElgmrjquvDr6aOtWk2S55x+RaoU="
   },
   "cc_infotablesmgm": {
     "version": "2.2.3",
@@ -22988,12 +22988,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "glossary2": {
-    "version": "7.0.0",
+    "version": "7.0.1",
     "t3_versions": [
       13
     ],
     "description": "This TYPO3 extension creates a glossary with A-Z links for you",
-    "hash": "sha256-wrG//h/TV9aQ268H/fhkfObJ47Id2azcp0diYJVmqLY="
+    "hash": "sha256-eLFdVgXqThsssIRfwXfx5iVPAqt724rZGhzMBdRkhQU="
   },
   "glossary_one": {
     "version": "1.0.4",
@@ -32198,13 +32198,13 @@
     "hash": "sha256-c4UtdoRUB7SNWBuoz29osw5My5/rbNj4fgBDV/aNWP4="
   },
   "luxletter": {
-    "version": "27.0.0",
+    "version": "27.0.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "Free newsletter extension for TYPO3 for an individual email marketing. A lot of analytics and modern concepts. Works with and without EXT:lux.",
-    "hash": "sha256-ZkkxaMffUYFzqYDGVubqY831SehZcZ3OdlqjnIra9aM="
+    "hash": "sha256-P8lUZLm5i3R6hO3AC6KT5N3ZuPmPHjaeo+XW8EVcm5o="
   },
   "lvcleantemp": {
     "version": "1.0.4",
@@ -33691,13 +33691,13 @@
     "hash": "sha256-MkrnLKm7o3PT9lUy+JpRdhYJ5349zjv6vMcALfQ4AhY="
   },
   "md_news_author": {
-    "version": "7.0.2",
+    "version": "7.0.3",
     "t3_versions": [
       11,
       12
     ],
     "description": "Adds one or more authors to a tx_news record, show a list of all authors and display a detail page of the author containing the attached news entries.",
-    "hash": "sha256-rAvXtHZfCLd9H+9HLN/RtGO630IgNYZkli3hCQ2pRb0="
+    "hash": "sha256-dNMQnlchAqZJ+M5lZy+dVc0QtSSkpK2Ju94aFVVZV/c="
   },
   "md_news_clickcount": {
     "version": "3.0.4",
@@ -38905,13 +38905,13 @@
     "hash": "sha256-uJeJf/6bZopKPPRCHLAzV4hwnQUCUb38OyhmDoGAfLc="
   },
   "newsstylist": {
-    "version": "6.0.0",
+    "version": "6.0.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "all in one: one-touch settings within news plugin - fast & cool way to change the output of news, List view 5 layouts (default, card, carousel, newsletter) and swiper slider with some effects",
-    "hash": "sha256-x1yOkm5F5w3QpaPpqhyCv3CbnJQtVT2CZgg4FGJoCCg="
+    "hash": "sha256-tdCusgPhYG1Kq34PtMCj0pOiK6v4fYpFaSsvNbQSIwQ="
   },
   "newssubmit": {
     "version": "1.0.0",
@@ -60505,13 +60505,14 @@
     "hash": "sha256-WS/PMoXSVuKI7RQw6Ga/CJXVDaT6na2DVI7xjx770HI="
   },
   "transactor": {
-    "version": "0.11.1",
+    "version": "0.12.0",
     "t3_versions": [
       11,
-      12
+      12,
+      13
     ],
     "description": "This is a basic API to develop extensions which connect to different payment transaction gateways.",
-    "hash": "sha256-wAqzcr+nFb8LTrq27daAOZJ7+U/YIkftt9qga4HiU2s="
+    "hash": "sha256-clUUtx7j15BzMQhxk3EjVX0S90pTkKDZ2SSTRLEMp5A="
   },
   "transactor_concardis": {
     "version": "0.2.0",
@@ -60546,13 +60547,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "transactor_paypal": {
-    "version": "0.5.0",
+    "version": "0.6.0",
     "t3_versions": [
-      11,
-      12
+      12,
+      13
     ],
     "description": "Provides the possibility to transact payments via PayPal based on Webpayment Standard using the Payment Transactor extension.",
-    "hash": "sha256-FAmaREqzEgGmiYC1JS7Ib3N9vniyK+DOnh93YBQ070U="
+    "hash": "sha256-X2TbmK8G7WTY3gky2IiDw2/UJwVW8O9wdsUZQlCNjCU="
   },
   "transfusion": {
     "version": "0.0.1",
@@ -63776,12 +63777,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "weather2": {
-    "version": "5.0.0",
+    "version": "6.0.0",
     "t3_versions": [
-      12
+      13
     ],
     "description": "Display weather forecasts and weather alerts using various Weather APIs. Default APIs: OpenWeatherMap and Deutscher Wetterdienst",
-    "hash": "sha256-sIh9qaFFRCbZR8onvpkwAgaS/2+H8BjaOXfslNGAk4Q="
+    "hash": "sha256-U+rD49gFTalEEQyZqLfcaf1Ou6PPd31OuFMsCLQr8to="
   },
   "weather_widget": {
     "version": "3.0.0",
