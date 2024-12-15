@@ -5002,12 +5002,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "blogext": {
-    "version": "1.5.3",
+    "version": "1.6.0",
     "t3_versions": [
       13
     ],
     "description": "With this record-based extension for TYPO3, it is easy to run a blog on your TYPO3 website, including RSS functionality and integration into the Google Sitemap with route enhancers for SEO-friendly links.",
-    "hash": "sha256-TaC1+tJfiomP81uLBDjhJ6/VJLSWH84saf19Pip57tE="
+    "hash": "sha256-hXQ4lYOKVWpeYn20Q6JgKNiHwlhDdwaTdhhbRy2yEWA="
   },
   "blogging": {
     "version": "1.4.3",
@@ -33710,13 +33710,13 @@
     "hash": "sha256-cWB55GnH/9A/oMTyezNnHRPWs6yGv9SWXX9ELKEHXUY="
   },
   "md_newsfrontend": {
-    "version": "4.0.0",
+    "version": "4.0.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "This extension enables frontend users to created news records in the frontend.",
-    "hash": "sha256-+W93FsFJTiAIgjSfAl+9CB6BdhyXUDtR6AqXc5CKGf0="
+    "hash": "sha256-hscCihSA8CbpdeeraI7ZJ7SK0bjMitFNl7wH/of/8ak="
   },
   "md_saml": {
     "version": "3.0.5",
@@ -33727,13 +33727,13 @@
     "hash": "sha256-rnWB+Ev9Jw5S9tL8nSrrLC9dl6frHlzcL+uWt/Y5rc4="
   },
   "md_unreadnews": {
-    "version": "5.0.1",
+    "version": "5.0.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "This extension adds unread information to the records of ext:news for frontend users.",
-    "hash": "sha256-vr65MYQsxMulOmAvOE93ElZEU7jaC5b92fM95DwJNl8="
+    "hash": "sha256-Io+PIElbkVXUvNfJi1e/NmQLrHAHyTx+ra9EpeCfwxo="
   },
   "mda_autopublish": {
     "version": "0.0.1",
