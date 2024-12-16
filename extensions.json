@@ -1098,13 +1098,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "additional_tca": {
-    "version": "1.16.1",
+    "version": "1.16.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "Additional TCA fields and tools",
-    "hash": "sha256-Bh7al+G9YAkfKiV4J8iZyFmsvpFRQ/cZDglJsrJFWUo="
+    "hash": "sha256-Cwhb/UnFb92GN9kPwXEdaAJqrjKrXZIdb+yyTt8KwV0="
   },
   "addlinkheader": {
     "version": "0.0.4",
@@ -24225,12 +24225,12 @@
     "hash": "sha256-ImXoXuVmtCZjxa2Yb/SkV+JamrAgj+vbo6oXwiqbdFE="
   },
   "hh_simple_job_posts": {
-    "version": "4.1.6",
+    "version": "4.2.0",
     "t3_versions": [
       12
     ],
     "description": "Adds plugins for list / show job postings with meta-data and schema.org stuff. Uses tt_address for job-contacts and job-location.",
-    "hash": "sha256-6qaH1F5WAKnOekO5ymOniV34mYpXOU1YD7HRoLc9vZ8="
+    "hash": "sha256-gq0UAEKGdXILEkUk+jVt6p0UJbv+5r9au+PjCsUWiaM="
   },
   "hh_slider": {
     "version": "0.5.1",
@@ -35302,12 +35302,13 @@
     "hash": "sha256-6H05DwRy5TP7I2m3O6nKftHQjQVN7MRXdeMYYlAY3V8="
   },
   "mkcontentai": {
-    "version": "13.0.4",
+    "version": "13.0.5",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "MKContentAI Extension - OpenAI API",
-    "hash": "sha256-Llx+ufxbPNxqKMMlOnfcKn4snefHWpNZxZ1ldqfzyTQ="
+    "hash": "sha256-b0d69L9J50ceIH9ch45x/XS5/X32pbwXg99GMXi9/2c="
   },
   "mkdam2fal": {
     "version": "1.0.16",
@@ -35951,13 +35952,13 @@
     "hash": "sha256-QBq7RgOtpBz21jSQfzIxEurNCmBZlHvZXZt3wzoyyMw="
   },
   "modules": {
-    "version": "6.2.9",
+    "version": "7.0.0",
     "t3_versions": [
-      11,
-      12
+      12,
+      13
     ],
     "description": "Modules - Little helper for creating frontend and backend modules in TYPO3",
-    "hash": "sha256-hQ6uFZFxwZ5E6Uxk6E0+TrLIAa1If/cPOmlCbjwiEDE="
+    "hash": "sha256-fQVNs8n8m+n2t+gY1Gz6VdUxs7YASl6NmuqDzRzZe9E="
   },
   "modulis_animated_gif": {
     "version": "0.0.4",
@@ -36655,14 +36656,14 @@
     "hash": "sha256-gW358m+R8mod7IoHifrW9yYgI/ozKYDTFVZhwSyiS1g="
   },
   "mst_yaml2tca": {
-    "version": "1.0.7",
+    "version": "1.0.11",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "Load contentelements from yaml in register in new element wizard",
-    "hash": "sha256-TXeFpsVAoX+znNi6wm1ZcdWDSRvRy4TSG3Be2u8Mm4A="
+    "hash": "sha256-Rd3/glG3jS9eGYZsQnPS9LXfGtvCiGAb7p9gTSWdNBo="
   },
   "msw_shoutbox": {
     "version": "1.0.0",
@@ -39158,12 +39159,13 @@
     "hash": "sha256-vyqcoq+2pqyHXzz//MY6IfTuUTX9xFYVClwqK8Iy+is="
   },
   "nitsan_maintenance": {
-    "version": "12.1.0",
+    "version": "13.0.0",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "This TYPO3 Maintenance extension will help you with simple plug & play which have a special TYPO3 Page & TYPO3 Template. It would be useful on criteria like to set Site Coming to Soon Page, Maintenance of Site, Offline while Upgrading your site, etc.",
-    "hash": "sha256-ARpdXgYbnf4aaaZ6OKG0TUBQrwgwmHMhCRcFUTcWSVk="
+    "hash": "sha256-rxkNPw/76qTVk3R6cDzkNaSuZduov4AgEOG6IM0EWRI="
   },
   "nittygritty": {
     "version": "2.0.0",
@@ -39673,12 +39675,13 @@
     "hash": "sha256-tdYHMTG77JtQn3j6Yj/x/Hsbs53qxlf1/77XwibycfY="
   },
   "ns_backup": {
-    "version": "12.1.0",
+    "version": "13.0.0",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "Easily backup your entire TYPO3 website. The Backup Plus extension for TYPO3 lets you save your code, files, and database with just a few clicks. Install Backup Plus and connect it to your cloud storage (like Google Drive, Dropbox, Amazon S3, SFTP, Rsync, etc.) and backup your entire TYPO3 site manually with a single click.",
-    "hash": "sha256-GCMOaAbhVj1Ii9m2Z8UMP/+VyuTEGY1M7M80Xm9djQE="
+    "hash": "sha256-8PvIRBI21nOQVuXHqlO+Pn34YdBrJ9Qx+HL3R6TaaZs="
   },
   "ns_basetheme": {
     "version": "13.0.1",
@@ -39803,12 +39806,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ns_faq": {
-    "version": "12.1.0",
+    "version": "13.0.0",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "The Ultimate FAQ TYPO3 Extension helps in managing Frequently Asked Questions easy and efficient for your TYPO3 website. With its user-friendly backend module, you can effortlessly add, customize, and style the FAQs. It's fully compatible with the latest TYPO3 Version",
-    "hash": "sha256-W9VPa0o65y7QGW2e64aEbeupuAcrlK8KscrrtpSnU+Q="
+    "hash": "sha256-bqYZ6vvhj2p2R8uDWgaP7x88j/Zfy8nEe87BCWmm0Fg="
   },
   "ns_feedback": {
     "version": "13.0.0",
@@ -48013,22 +48017,22 @@
     "hash": "sha256-IY1aIq9k2rNfciUk+Dxf01StSP0GV9qPwNEBpezzAk8="
   },
   "rollovercollection3": {
-    "version": "8.0.0",
+    "version": "8.0.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "ORIGINAL HOVER EFFECTS  - cType supported: textmedia, media and images (https://tympanus.net/Tutorials/OriginalHoverEffects/index.html) -  Only for Bootstrap Package 12 +  Bootstrap 5.x (SCSS) (bootstrap_package)",
-    "hash": "sha256-sPi39h/032p5YwMebMdx80oGsbPp+Raos/i89lm7Bco="
+    "hash": "sha256-Pp5eKfplpOg8p3pU6Q0vpEl4I0Yi2qXhozKkZYn8Wlg="
   },
   "rollovercollection4": {
-    "version": "8.0.2",
+    "version": "8.0.4",
     "t3_versions": [
       12,
       13
     ],
     "description": "only for bootstrap5 + boostrap package v.12+ - cool multicolumn rendering with seven boxes layouts for cType textmedia, media, textpic and images; bootstrap package needed. Useful for menu, gallery, other. Highly customizable.",
-    "hash": "sha256-nW5YxaicvbhKvfPGD15+JP/q9PMrY1kSapQVtIyWIP8="
+    "hash": "sha256-5SwWD7+D2eF3t9Z1JwNZUlEIg/Mf5+iDWQftr9rcmOQ="
   },
   "root_meltwater": {
     "version": "1.0.1",
@@ -65917,13 +65921,12 @@
     "hash": "sha256-HayZS8G+lXzNVjOPhb2kpcypm4jFvzK5plJ+nDNXHJo="
   },
   "xm_formcycle": {
-    "version": "9.1.3",
+    "version": "10.0.0",
     "t3_versions": [
-      11,
-      12
+      13
     ],
     "description": "Embed formcycle forms into your TYPO3 website",
-    "hash": "sha256-8UJosIP3uBVgydwyKzMWpseSHvCjdqacGStU4k/mSx8="
+    "hash": "sha256-fAQb2X8Z44sztbzb+vx4MAnVIQFkLN3ykSKCg2keiQY="
   },
   "xm_goaccess": {
     "version": "11.0.4",
