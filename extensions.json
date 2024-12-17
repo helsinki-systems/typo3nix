@@ -1600,13 +1600,14 @@
     "hash": "sha256-9l+hxt6In1KgppFpKk8Up0kj/v6FqdyggZr0hCNEWGU="
   },
   "ai_tools": {
-    "version": "1.0.1",
+    "version": "1.1.0",
     "t3_versions": [
       11,
-      12
+      12,
+      13
     ],
     "description": "A TYPO3 extension that leverages artificial intelligence to enhance content and accessibility",
-    "hash": "sha256-mZnqzJat+pGrC9K8hJir4P8dQ3X7wTYEV8N1Ekb6Y7w="
+    "hash": "sha256-GcEh2HTVZiS+fN1JRCgcvmPjut5/NyXJmqay6qD1I1A="
   },
   "ai_translate": {
     "version": "3.1.1",
@@ -3625,13 +3626,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.334.6",
+    "version": "3.334.7",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-zi8Y3zQe6+FraPTmMFVd7ToThQ7JO9QJp7qfJ7G6tIw="
+    "hash": "sha256-dg5JWK8TNFRiXaZSfOkzsSgLyngG5ESvDv48ZaCg0Eo="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -33692,13 +33693,13 @@
     "hash": "sha256-MkrnLKm7o3PT9lUy+JpRdhYJ5349zjv6vMcALfQ4AhY="
   },
   "md_news_author": {
-    "version": "7.0.3",
+    "version": "8.0.0",
     "t3_versions": [
-      11,
-      12
+      12,
+      13
     ],
     "description": "Adds one or more authors to a tx_news record, show a list of all authors and display a detail page of the author containing the attached news entries.",
-    "hash": "sha256-dNMQnlchAqZJ+M5lZy+dVc0QtSSkpK2Ju94aFVVZV/c="
+    "hash": "sha256-MZCLN4yGvwUle+35itB6DHEwTiM+KlZDOVOUYIF5JYc="
   },
   "md_news_clickcount": {
     "version": "3.0.4",
@@ -41090,12 +41091,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "oidc": {
-    "version": "2.1.0",
+    "version": "3.0.0",
     "t3_versions": [
-      11
+      11,
+      12,
+      13
     ],
     "description": "This extension uses OpenID Connect to authenticate users.",
-    "hash": "sha256-wvnsWxwC4HPw3jSFImRFr4CfbTeLClBqNCIMoVZCpV4="
+    "hash": "sha256-SWLjBpGypaFcQtw97sgVgkOozfrOTan9YiLUtXjapaQ="
   },
   "oidc_client": {
     "version": "0.3.1",
@@ -45866,13 +45869,12 @@
     "hash": "sha256-EgKvTBP/jz3HMvH0X95snx8wGHO2cKu8rrAElmyQljM="
   },
   "qc_redirects": {
-    "version": "1.1.2",
+    "version": "2.0.0",
     "t3_versions": [
-      10,
-      11
+      12
     ],
     "description": "Extends Core's Redirects Module with a Title column, showing creation and modification date and more sorting and filtering options. Also add an import redirects functionality.",
-    "hash": "sha256-WCu0o4om2XL7FjEmtyyFg+xeu+/WTbNx1tBuduitid0="
+    "hash": "sha256-+98PcO+aDgiUdCKn9bc4RSuCvF7CN8gPG4tf21fEwBA="
   },
   "qc_references": {
     "version": "1.0.1",
@@ -45884,13 +45886,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "qc_widgets": {
-    "version": "1.1.0",
+    "version": "2.0.0",
     "t3_versions": [
-      10,
-      11
+      12
     ],
     "description": "Many widgets with info about pages and tt_content modifications, related to groups or current user and also a list of Workspace preview links.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-FuzWTlH7N0KzeJTMW5mZWWGM5OBrpoZEdE8hFaBeqIw="
   },
   "qc_ws_preview_lang": {
     "version": "1.1.0",
@@ -65517,13 +65518,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "wv_deepltranslate": {
-    "version": "4.4.1",
+    "version": "4.4.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "This extension provides option to translate content element, and TCA record texts to DeepL supported languages.",
-    "hash": "sha256-+awF0CMs5RTAPqtMQ8cFCMwRynHqrxo57ZrVB3+EPeE="
+    "hash": "sha256-bxmsdsF0gRYJhJHwQ6JHFTR5F8XgVFeoTO/FpJNem3Y="
   },
   "wv_file_cleanup": {
     "version": "2.0.1",
