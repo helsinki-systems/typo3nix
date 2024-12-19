@@ -1113,13 +1113,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "addons_em": {
-    "version": "0.9.1",
+    "version": "0.9.2",
     "t3_versions": [
       11,
-      12
+      12,
+      13
     ],
     "description": "Enhancements to the Extension Manager (em].",
-    "hash": "sha256-iZLYSqLjeqzCF2fyqlCnffiyCF/cm5VhLkgkgN6Lxzs="
+    "hash": "sha256-kKbS0qxF9NnUJccEVT7KtV3jH+AIoxII+5VRBkGT28U="
   },
   "addons_tt_products": {
     "version": "0.11.2",
@@ -3035,6 +3036,15 @@
     "description": "Responsive vertical slider with Title, Link, Subtitle, Description, Image.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "at_xmas": {
+    "version": "1.0.0",
+    "t3_versions": [
+      11,
+      12
+    ],
+    "description": "",
+    "hash": "sha256-INitNUIuj4REV9f5m3FHKSdeevzxXjHjpSqRWk1fSR4="
+  },
   "atol_cmis": {
     "version": "1.0.0",
     "t3_versions": [],
@@ -3626,13 +3636,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.334.7",
+    "version": "3.336.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-dg5JWK8TNFRiXaZSfOkzsSgLyngG5ESvDv48ZaCg0Eo="
+    "hash": "sha256-yvLUoP56743XCurrAU0gzc+7UQF/8Y2gKHw0aRFVKSM="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -6951,12 +6961,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "camaliga": {
-    "version": "13.0.3",
+    "version": "13.1.0",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "A carousel/gallery/map/list extension that can use the TYPO3 categories and different jQuery-plugins like Slick. Bootstrap 5 support. Indexer for ke_search.",
-    "hash": "sha256-Mjqij9E/ErSvDPTCjH7g4NrzptQwJg7ZgvWZO9xzoIY="
+    "hash": "sha256-SO2/+14xylH73le7WB4h2iclzc419Y6zlYDNXC3r3tE="
   },
   "campaignmonitor": {
     "version": "2.0.0",
@@ -11053,14 +11064,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "crowdin": {
-    "version": "3.0.0",
+    "version": "3.0.1",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "In-Context localization of XLF files handled by Crowdin directly in the backend.",
-    "hash": "sha256-ra1jbwg8lGyZKx3spfEgokJ7JuBHqOgVl1yiLyUshps="
+    "hash": "sha256-NFfREPRvBL23g+DEfX55IN9/4xnMmlYqVpUu7UF82Kg="
   },
   "crt_bodytext_variables": {
     "version": "1.0.2",
@@ -14538,13 +14549,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "dlf": {
-    "version": "5.0.6",
+    "version": "5.0.7",
     "t3_versions": [
       10,
       11
     ],
     "description": "Base plugins, modules, services and API of the Digital Library Framework. It is part of the community-based Kitodo Digitization Suite.",
-    "hash": "sha256-vuQf1uCgFTfXcBFPe/wimAz8Q6SoHYWlCYruTcB5vL0="
+    "hash": "sha256-qK5o+5LyDxvSMk/NvFlsHf4YXFh+KsZbg7oYIoraxM0="
   },
   "dlib": {
     "version": "0.0.6",
@@ -21557,12 +21568,12 @@
     "hash": "sha256-BWibo3/20xqtaX8DidK/HYtgtpJvSyzjCx9HqXRROF8="
   },
   "fp_masterquiz": {
-    "version": "5.2.0",
+    "version": "6.1.0",
     "t3_versions": [
-      12
+      13
     ],
     "description": "A modern extension that offers quiz, polls and tests. Ajax support. The result can be displayed as a chart too. Supports 8 question modes.",
-    "hash": "sha256-4F0NW8mDDWi5tE6NCVqQLz/vpQ1hwOIe/JijHaiZSKo="
+    "hash": "sha256-gMAp/xC+Ggyu29GVOIJnpaIw2E4HXPQGCYbx0XtCMgk="
   },
   "fp_newsletter": {
     "version": "7.0.4",
@@ -24260,13 +24271,13 @@
     "hash": "sha256-+wpzi3I4/hO4ZPEN5rZKNO278xUespSZGRd+s8rgF8E="
   },
   "hh_video_extender": {
-    "version": "0.2.4",
+    "version": "0.3.0",
     "t3_versions": [
-      11,
-      12
+      12,
+      13
     ],
     "description": "Hauer-Heinrich - Extends sys_file_reference video/media. Added attributes to select in content element (eg textmedia) like: muted, loop, controls, previewImage and so on.",
-    "hash": "sha256-iNaYQFpzJiLnHwdCSLetq6nsMDowpb0NKDWtFyBbG40="
+    "hash": "sha256-yopvRp+TVybx/odmOEaN5wvi1SOPYFKZSAy1PcFuuEI="
   },
   "hhcanonical": {
     "version": "1.0.0",
@@ -35303,13 +35314,13 @@
     "hash": "sha256-6H05DwRy5TP7I2m3O6nKftHQjQVN7MRXdeMYYlAY3V8="
   },
   "mkcontentai": {
-    "version": "13.0.5",
+    "version": "13.0.6",
     "t3_versions": [
       12,
       13
     ],
     "description": "MKContentAI Extension - OpenAI API",
-    "hash": "sha256-b0d69L9J50ceIH9ch45x/XS5/X32pbwXg99GMXi9/2c="
+    "hash": "sha256-zGv7XLh/oijPVVmPeeuKdM4srlsXrFuZVDC8b9+IH/I="
   },
   "mkdam2fal": {
     "version": "1.0.16",
@@ -45877,13 +45888,12 @@
     "hash": "sha256-+98PcO+aDgiUdCKn9bc4RSuCvF7CN8gPG4tf21fEwBA="
   },
   "qc_references": {
-    "version": "1.0.1",
+    "version": "2.0.0",
     "t3_versions": [
-      10,
-      11
+      12
     ],
     "description": "This module shows the references to the selected pages in the Pagetree, even if you don't have access to the content linking to it.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-4V3tijCNay5tB6GAghDu39wKDBa2nKryCqAH2JwbxDY="
   },
   "qc_widgets": {
     "version": "2.0.0",
@@ -50157,12 +50167,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "secure_downloads": {
-    "version": "7.0.0",
+    "version": "7.0.1",
     "t3_versions": [
       13
     ],
     "description": "\"Secure Download\": Apply TYPO3 access rights to ALL file assets (PDFs, TGZs or JPGs etc. - configurable) - protect them from direct access.",
-    "hash": "sha256-I+CqAGg0TzC/10NqejKRAST8VuXcJL+2wR497pkzksc="
+    "hash": "sha256-JaVXQphVtTUsYty7dwjMLgDpkZVnfxsqs4ikzK+LRB8="
   },
   "secure_filemount": {
     "version": "1.1.2",
@@ -51999,14 +52009,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sitemap_locator": {
-    "version": "0.1.9",
+    "version": "0.1.10",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "Looks up XML sitemaps as part of a configured site. Supports various sitemap providers, e.g. by configured page type or robots.txt, and allows to implement custom providers.",
-    "hash": "sha256-8a03cB5c31BfNayUf/K2K5YLDNdUIzRS9hb3WqD/JUE="
+    "hash": "sha256-VhpC7PZpBTcpNR2k8X8vpBLZSfrccgpYg1Ct+RPcbaU="
   },
   "sitemap_robots": {
     "version": "0.1.7",
@@ -53587,12 +53597,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "solr": {
-    "version": "12.0.5",
+    "version": "13.0.0",
     "t3_versions": [
-      12
+      13
     ],
     "description": "Apache Solr for TYPO3 is the enterprise search server you were looking for with special features such as Faceted Search or Synonym Support and incredibly fast response times of results within milliseconds.",
-    "hash": "sha256-0A1skZIc37YE1oQKI86WT8z1qslWUgOQvcjT9o2RWZw="
+    "hash": "sha256-iNoXlHf/OyKXep2QxjMkh/pdLYJKiePZFU/fZ9LTZ/I="
   },
   "solr_boutique": {
     "version": "1.0.0",
@@ -56404,12 +56414,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "t3element": {
-    "version": "1.0.5",
+    "version": "1.0.8",
     "t3_versions": [
       12
     ],
     "description": "Create Custom Element using T3element",
-    "hash": "sha256-3dejd1lur2cssfmQO8apwtU3ARPVhPwyWlnrx9NHnjc="
+    "hash": "sha256-N9ZLgpSik1+ML7rkPxGy/rzpwydW1R0j4gNis2mQRxc="
   },
   "t3essentials": {
     "version": "1.0.3",
@@ -59047,12 +59057,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "tika": {
-    "version": "12.0.3",
+    "version": "13.0.0",
     "t3_versions": [
-      12
+      13
     ],
     "description": "Provides Tika services for TYPO3 to detect a document's language, extract meta data, and extract content from files. Can either use a stand alone Tika executable or Tika integrated in a Solr server with an activated extracting request handler.",
-    "hash": "sha256-s6vqi0OvNNSMxlOVbTTjU+WDNc1UdxQjVlnwdc5AeK8="
+    "hash": "sha256-P+pusXERsnZYAh9WQsOgYFiX0MAc/fqajHuqg1T6YlQ="
   },
   "tiktok": {
     "version": "3.0.0",
@@ -63004,13 +63014,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "video": {
-    "version": "1.0.0",
+    "version": "2.0.0",
     "t3_versions": [
-      8,
-      9
+      12,
+      13
     ],
-    "description": "Automatic conversion of videos within typo3 using local ffmpeg or cloudconvert. This extension is requires composer mode.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "description": "Video processing in typo3",
+    "hash": "sha256-+v1RQDy1OvGEeAUErc3S5VRtp7LLx2wEl9JhsZsqHGo="
   },
   "video_shariff": {
     "version": "4.0.0",
@@ -65836,6 +65846,15 @@
     ],
     "description": "This extension provides an edit button for editors within frontend content elements.",
     "hash": "sha256-gjgw8sxLMp/8e5VuhMGHrRY51k1CBrZhikwsFLzU9tU="
+  },
+  "xima_typo3_internal_news": {
+    "version": "1.0.0",
+    "t3_versions": [
+      12,
+      13
+    ],
+    "description": "This extension provide internal news for backend users.",
+    "hash": "sha256-lRtkARWgGz2CN4W+KX37oResSjOgRuxlo20hEZ400dI="
   },
   "xima_typo3_mailcatcher": {
     "version": "1.6.0",
