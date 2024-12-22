@@ -15623,13 +15623,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "dp_cookieconsent": {
-    "version": "13.0.0",
+    "version": "13.0.1",
     "t3_versions": [
       11,
-      12
+      12,
+      13
     ],
     "description": "Enable a cookie consent box. Let you visitors control the usage of cookies and load script or content after a consent. (ePrivacy, TTDSG)",
-    "hash": "sha256-e1870c5BXqbgDg6DVd7qMRCBK+x6Maxda7Vu8EBY6sg="
+    "hash": "sha256-1owsvuv+G0rrfXXMFPuUHVmwp9PDHEFzztWnbVUnQ8Y="
   },
   "dp_editpanel": {
     "version": "0.0.2",
@@ -61100,13 +61101,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "tslib_fetce": {
-    "version": "0.9.1",
+    "version": "0.9.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "It brings the deprecated TYPO3 4.x class tslib_feTCE and the processScript FEData setup with new features partly back into TYPO3 10 and later. This is needed by extensions based on the former TYPO3 FORM like tt_board and tt_guest. Only form MAIL and form wizards additionally require code provided by the extension compatibility6.",
-    "hash": "sha256-DXs2YCefpioNHHqujxg7uu1QEX9nasj3sLiDFTaWw/Q="
+    "hash": "sha256-6Rg+UAph5mo6m7SuvYYRU5Q79u6NO+ymfPcE/LMfyAc="
   },
   "tslib_patcher": {
     "version": "0.1.4",
@@ -65620,13 +65621,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "wwlinks": {
-    "version": "1.4.0",
+    "version": "1.5.1",
     "t3_versions": [
       11,
-      12
+      12,
+      13
     ],
     "description": "",
-    "hash": "sha256-2jPkrO9NB/E51Oxgk8mdkfMaZR0yaoXTCTyxNxxMFfs="
+    "hash": "sha256-pitlF53++p8b3pdGZGjyhhapWI1SZCyfR5DskeJw4Aw="
   },
   "wwonepagetemplate": {
     "version": "2.2.0",
