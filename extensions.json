@@ -3635,13 +3635,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.336.2",
+    "version": "3.336.3",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-NrGxWXW963amUw5rEaIDKquGWJNKtW6rEj/LE8vgp8s="
+    "hash": "sha256-PPm35Ng2Jca7H7AvMf7/eg7fsoV9S507TPFH5C1niNI="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -13509,15 +13509,17 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "deployer_information": {
-    "version": "1.4.0",
+    "version": "1.5.0",
     "t3_versions": [
       8,
       9,
       10,
-      11
+      11,
+      12,
+      13
     ],
     "description": "Show information about last deployment in system information toolbar",
-    "hash": "sha256-LYk+wDBANcxfFNdCypyfwnt6MtuJKUxZzVlOWejSRBU="
+    "hash": "sha256-o3F8YT3u5V/Admjs27w9t5RKjT2jE5jFhDAnUKjE2EQ="
   },
   "deprecationloganalyzer": {
     "version": "2.0.0",
@@ -19725,12 +19727,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "filecollection_gallery": {
-    "version": "13.0.1",
+    "version": "13.0.2",
     "t3_versions": [
       13
     ],
     "description": "Simple FileCollection Gallery with mobile and desktop view",
-    "hash": "sha256-X8xH3hp12qLWj4dfo7uFvXZtqf/yz2LpAHdrjLPwpLs="
+    "hash": "sha256-pwJ4ldUNUcIrrcl/6EVBoTxi5US1VcFN0bGk1T8wJMU="
   },
   "filecollector": {
     "version": "1.1.0",
@@ -58076,12 +58078,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "teaser2": {
-    "version": "12.0.0",
+    "version": "13.0.1",
     "t3_versions": [
-      12
+      13
     ],
-    "description": "",
-    "hash": "sha256-Tma3+niMp5Si7Mr0fiJ8AxsHVUslwhal4eWZp0NnhsE="
+    "description": "This extension displays images and videos in a responsive grid layout with nice hover effect.",
+    "hash": "sha256-GGY9RhXi51ouJ7NcA6s4OhI36vOT+WShzTqRlBjnhCc="
   },
   "teaser_manager": {
     "version": "3.0.0",
@@ -65622,14 +65624,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "wwlinks": {
-    "version": "1.5.1",
+    "version": "2.0.0",
     "t3_versions": [
-      11,
-      12,
       13
     ],
     "description": "",
-    "hash": "sha256-pitlF53++p8b3pdGZGjyhhapWI1SZCyfR5DskeJw4Aw="
+    "hash": "sha256-EtC/aoWETylxLcar6iMUAXoPepYf7JzDKO+nvCOunqY="
   },
   "wwonepagetemplate": {
     "version": "2.2.0",
