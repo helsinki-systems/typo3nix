@@ -3635,13 +3635,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.336.3",
+    "version": "3.336.4",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-PPm35Ng2Jca7H7AvMf7/eg7fsoV9S507TPFH5C1niNI="
+    "hash": "sha256-T1Nnd5MUXzOJDWVpmA4uq/IOwH7TOECy08fWXb0i9vE="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -19451,13 +19451,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "feuserextrafields": {
-    "version": "6.3.0",
+    "version": "6.4.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Extra fields for TYPO3 frontend users and drop-in replacement for the removed FrontEndUser Core model",
-    "hash": "sha256-U4+cPxZJPRrc88jbrdpP9hCptSuj0aMJn7Hq6hN552o="
+    "hash": "sha256-EElrs1zHTfks/Jbryx+zXQW03HIQLfbCV5EJ/r+UtaE="
   },
   "feuserfeediting": {
     "version": "0.0.2",
@@ -41020,13 +41020,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "oelib": {
-    "version": "6.0.2",
+    "version": "6.0.3",
     "t3_versions": [
       11,
       12
     ],
     "description": "Useful stuff for TYPO3 extension development: helper functions for unit testing, templating and automatic configuration checks.",
-    "hash": "sha256-jobFqLSTbQQaQxU26jixDtrKZkojAo1y++UuRBYY5No="
+    "hash": "sha256-SfrdHnjYduU24RG8K5tWgJ+0I+oli/fdQSkKtq/Lf8Q="
   },
   "oembed": {
     "version": "0.1.1",
