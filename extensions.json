@@ -8909,14 +8909,15 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cli_toolbox": {
-    "version": "3.0.1",
+    "version": "4.0.0",
     "t3_versions": [
       10,
       11,
-      12
+      12,
+      13
     ],
-    "description": "",
-    "hash": "sha256-jtZ/SVseorC61qUNj2/IeIXcQl/lcNEszt4h2D/WvVA="
+    "description": "TYPO3 CLI toolbox: run copy/move/delete commands of DataHandler via CLI",
+    "hash": "sha256-5rIPQslMx5ADj0csGubkkoxYCKzlhFv1XzzrIHYdAsM="
   },
   "clickio_consent": {
     "version": "1.2.15",
@@ -15515,12 +15516,13 @@
     "hash": "sha256-r8rlU1JA1mJG67nnYQkTK3yNCGuUVyfYnz17hPhOSZg="
   },
   "doktype_typolink": {
-    "version": "3.0.0",
+    "version": "3.0.1",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "Enhance doktype 3 (\"Link to External URL\") to support typolinks",
-    "hash": "sha256-gW7MjfPZVKNO7ylcpehDx/yrBLldk4ajdAwr9f44UW4="
+    "hash": "sha256-1T15kPimCB4G2vuNkBVcJE8w/nw0fgtrJr8+isf9r1Y="
   },
   "domaincheck": {
     "version": "2.1.0",
@@ -18216,13 +18218,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "external_import": {
-    "version": "7.2.9",
+    "version": "7.3.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Tool for importing data from external sources into the TYPO3 CMS database, using an extended TCA syntax. Provides a BE module, a Scheduler task, a command-line tool and an API.",
-    "hash": "sha256-h1xiy8ORM9/vc7HWKEPGIeu9PuPygEaRaB47f5Pp5pI="
+    "hash": "sha256-v2HoL7FlxnKif/uY0YE1pSjRZX2+FMX6iC6U73Nlpyw="
   },
   "external_import_tt_products": {
     "version": "0.0.1",
@@ -29056,13 +29058,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "just_maintain": {
-    "version": "1.2.0",
+    "version": "2.0.0",
     "t3_versions": [
-      10,
-      11
+      12,
+      13
     ],
     "description": "Setup a maintenance page and enable / disable it easy and fast. Website only accessible as logged in BE user.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-xPhQ6TaqSsrf+ZVEbZH9+ZWXzTbvqEOLGTajmlgG1kM="
   },
   "just_news": {
     "version": "4.0.0",
@@ -41020,13 +41022,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "oelib": {
-    "version": "6.0.3",
+    "version": "6.1.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Useful stuff for TYPO3 extension development: helper functions for unit testing, templating and automatic configuration checks.",
-    "hash": "sha256-SfrdHnjYduU24RG8K5tWgJ+0I+oli/fdQSkKtq/Lf8Q="
+    "hash": "sha256-sMnpUzv0eONZjKRB4ejqC+kV/si311KrHQXcvrQBVqM="
   },
   "oembed": {
     "version": "0.1.1",
@@ -41332,13 +41334,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "onetimeaccount": {
-    "version": "7.1.1",
+    "version": "7.2.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Allow users to create a short-lived FE user account without having to enter a user name or password.",
-    "hash": "sha256-B76e6Wglku+1OCgnVkQ1TZU2a8I3B8ArbMB5lIyR1uQ="
+    "hash": "sha256-PpAUKYfJnHVzwcM3LikjyQpAug+ahmSPDJE0XJPStuA="
   },
   "onetimesecret": {
     "version": "1.2.1",
@@ -53644,12 +53646,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "solr_file_indexer": {
-    "version": "3.0.0",
+    "version": "4.0.0",
     "t3_versions": [
-      12
+      13
     ],
     "description": "This extension gives you the capability to index individual documents using Solr.",
-    "hash": "sha256-NAHaCik2ZLQWznTgbKfhIJAqMYbBiRVlaf4cbEofdGQ="
+    "hash": "sha256-GFs7hss1jhvXkUM0wrw2EiTM5VBV5j+qs/lHEV6je3U="
   },
   "solr_file_indexer_admin": {
     "version": "1.0.0",
@@ -55921,12 +55923,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sysfile_faker": {
-    "version": "2.0.0",
+    "version": "2.0.1",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "Creates dummy image files for sys_file records whose files went missing",
-    "hash": "sha256-rLm3f7LxOCG7g/lnGPFjZ+HYrmeatmJovBksI9aq98E="
+    "hash": "sha256-/8Zk+4gaHaO7Hc0Z7iAE4CAJM+HdrMpG2mpf3ZMq6rg="
   },
   "sysfire_cdlist": {
     "version": "3.0.3",
@@ -62053,13 +62056,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "typo3_console": {
-    "version": "8.2.1",
+    "version": "8.2.2",
     "t3_versions": [
       11,
-      12
+      12,
+      13
     ],
     "description": "A reliable and powerful command line interface for TYPO3 CMS",
-    "hash": "sha256-W6XfCjF+D1MF2x4lo1hEefAKKGd2ee+iZQzFO0+k5BM="
+    "hash": "sha256-fK3/08HHOwdvBBlZh7pEElslSg70qSNXrWLTMb7uB7I="
   },
   "typo3_console_cleartempfiles": {
     "version": "1.0.0",
