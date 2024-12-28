@@ -3635,13 +3635,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.336.4",
+    "version": "3.336.6",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-T1Nnd5MUXzOJDWVpmA4uq/IOwH7TOECy08fWXb0i9vE="
+    "hash": "sha256-qcUFGWyj87BJ5xEwxJdUuY4vGt8grmk9ssXJc+FrgjU="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -25021,13 +25021,13 @@
     "hash": "sha256-jKvBPif4nDlRkiMsXbOv+g1DuFNHJKK9EnsJpaRrF4Y="
   },
   "hwt_address": {
-    "version": "0.3.0",
+    "version": "0.4.2",
     "t3_versions": [
-      9,
-      10
+      10,
+      11
     ],
     "description": "Address handling for TYPO3 (since 6.2, estab. 2014)",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-Bxgf1CFlUyXPDvL15wgFxKuMV12orkdoT0PpUUePQJk="
   },
   "hwt_importhandler": {
     "version": "0.1.0",
@@ -41022,13 +41022,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "oelib": {
-    "version": "6.1.0",
+    "version": "6.1.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Useful stuff for TYPO3 extension development: helper functions for unit testing, templating and automatic configuration checks.",
-    "hash": "sha256-sMnpUzv0eONZjKRB4ejqC+kV/si311KrHQXcvrQBVqM="
+    "hash": "sha256-kngv/7wZH0YdVHBFURaY+AX7yOv/WLwy9/shn29+laI="
   },
   "oembed": {
     "version": "0.1.1",
@@ -49648,12 +49648,12 @@
     "hash": "sha256-xb7tVsa5GvkEuAr617fRsaEY3RUN1yDE+RO5F+Jy0Kg="
   },
   "save_and_close": {
-    "version": "12.0.3",
+    "version": "13.0.0",
     "t3_versions": [
-      12
+      13
     ],
     "description": "Adds save and close button to all the content elements",
-    "hash": "sha256-cGC0FKyM2IutRQpEy/K+tS/kOMB6DS2MZvfQ6k9WcmI="
+    "hash": "sha256-dgHJmRYEfWIpagdxIGlOn3hhNPW9qBNwCHNZLI8EOGk="
   },
   "save_close_ce": {
     "version": "1.0.4",
@@ -50587,10 +50587,12 @@
     "hash": "sha256-/r5QtxBPyy7fk2HDRAxvBYt9RtyQI1Zf4XEYkPUxxYE="
   },
   "sf_event_mgt": {
-    "version": "8.0.0",
-    "t3_versions": [],
+    "version": "8.1.0",
+    "t3_versions": [
+      13
+    ],
     "description": "Configurable event management and registration extension based on ExtBase and Fluid",
-    "hash": "sha256-Vx4z8zBNaKfjpj1g0hc0+tBg+d85Po3RHKP88B/6QcQ="
+    "hash": "sha256-sPKIsFoVMOOf30X5r8YWW/mnuRM9IuPGIHytY5nNiX0="
   },
   "sf_event_mgt_contentelements": {
     "version": "3.0.0",
