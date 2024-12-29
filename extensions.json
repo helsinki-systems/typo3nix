@@ -4350,13 +4350,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "beautyofcode": {
-    "version": "6.0.0",
+    "version": "7.0.0",
     "t3_versions": [
-      11,
-      12
+      13
     ],
     "description": "This plugin provides Java-Script based, state-of-the-art, feature rich syntax highlighting by using SyntaxHighlighter or Prism. t3editor enabled.",
-    "hash": "sha256-7MUrbTMUldY8AmONALJgpdhnPN0HlR10uXoMS4r8XqY="
+    "hash": "sha256-5qTo0Ev+9q9DEozUVdtZF6bAmANpZiV4qQqwIcYjj18="
   },
   "becookies": {
     "version": "0.1.9",
@@ -22519,12 +22518,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "generic_gallery": {
-    "version": "6.0.2",
+    "version": "7.0.0",
     "t3_versions": [
-      12
+      13
     ],
     "description": "One gallery to rule them all. Extbase & Fluid driven for use with any gallery / slide / rotate plugin.",
-    "hash": "sha256-0MePC4gymyGqqxd4lBgdUFri9z/DTbtNfKgSCZhjNGg="
+    "hash": "sha256-/k1ju3pBkN+dY5x9h8a/nbFEQn7+hDlbszrqsb8ht2o="
   },
   "geo_location": {
     "version": "1.6.6",
@@ -34921,13 +34920,13 @@
     "hash": "sha256-AQZF9Hqa+uAIOlKaAsL3mUQYmZRntXWjaMfFxQiFsMU="
   },
   "microtemplate": {
-    "version": "4.3.1",
+    "version": "5.0.1",
     "t3_versions": [
-      11,
-      12
+      12,
+      13
     ],
     "description": "One page template with sections and lightbox like sub pages. Demo at: https://microtemplate.t3brightside.com",
-    "hash": "sha256-xwnTC+WRqd785o1+pZb3DUO9qwnJgFB49+5B6t9qSgI="
+    "hash": "sha256-aDd2FGnuXVTpsHDn1JEmTBA3yvPDHDi1CZwNUz41lrA="
   },
   "miflowplayer": {
     "version": "0.1.9",
