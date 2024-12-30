@@ -23665,12 +23665,12 @@
     "hash": "sha256-WqrKbXiHqFsgZFEpA9X3nIwBZpl639pFM55WokGJT9Q="
   },
   "gridtocontainer": {
-    "version": "12.2.1",
+    "version": "12.3.0",
     "t3_versions": [
       12
     ],
     "description": "EXT:gridtocontainer is a small migration extension with backend module for those who want to switch from EXT:gridelements to EXT:container.",
-    "hash": "sha256-D0nSiH3Tw5Jymw5OLn8jp0jsfc1ssPB3CTOVuS/MVI0="
+    "hash": "sha256-5/S+Y47MdhZvXHHY/OoNlBRKKtwyf8bDhdmV+dHn7vs="
   },
   "group_mngr": {
     "version": "0.1.0",
@@ -53655,12 +53655,13 @@
     "hash": "sha256-GFs7hss1jhvXkUM0wrw2EiTM5VBV5j+qs/lHEV6je3U="
   },
   "solr_file_indexer_admin": {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "This extension gives you the capability to index individual documents using Solr.",
-    "hash": "sha256-Ra6eSXfGBOFzME41uE0MCD0zCz74YxSJkUL9/hn6rLA="
+    "hash": "sha256-u+szRYG2zOWd6bKdaQQ0jeFdIXiS062/eABTC2h+NsQ="
   },
   "solr_numbered_pagination": {
     "version": "1.0.4",
@@ -56444,12 +56445,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "t3element": {
-    "version": "1.0.8",
+    "version": "1.0.11",
     "t3_versions": [
       12
     ],
     "description": "Create Custom Element using T3element",
-    "hash": "sha256-N9ZLgpSik1+ML7rkPxGy/rzpwydW1R0j4gNis2mQRxc="
+    "hash": "sha256-3QXr8inspBsiwO7H2INCPXctt5y57G+78uzgd+gE8oI="
   },
   "t3essentials": {
     "version": "1.0.3",
@@ -61108,13 +61109,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "tslib_fetce": {
-    "version": "0.9.3",
+    "version": "0.9.4",
     "t3_versions": [
       12,
       13
     ],
     "description": "It brings the deprecated TYPO3 4.x class tslib_feTCE and the processScript FEData setup with new features partly back into TYPO3 10 and later. This is needed by extensions based on the former TYPO3 FORM like tt_board and tt_guest. Only form MAIL and form wizards additionally require code provided by the extension compatibility6.",
-    "hash": "sha256-dzOc1EJ/TFL70pEtexSuBUXRmW8e2k1oR4j4BnRvgnM="
+    "hash": "sha256-hnnNKeD2gqBcZSxksv/9dITe1tENJUHm0wPDPWpobHE="
   },
   "tslib_patcher": {
     "version": "0.1.4",
