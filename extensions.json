@@ -3778,12 +3778,12 @@
     "hash": "sha256-VAZ1+8EOj3I20pfFhg6Oe7w196SRb2Yv2EHIELjupt8="
   },
   "backgroundimage4ce": {
-    "version": "6.1.0",
+    "version": "7.0.0",
     "t3_versions": [
-      12
+      13
     ],
     "description": "Allows background images and background options for all types of content elements (text, text with image, forms, plugins, ...). Background images are adaptive.",
-    "hash": "sha256-ID1zx8pEEP8m7ktQVH5AOteucF1PTRwqtqCwfK8s1Vw="
+    "hash": "sha256-9LU1b5F7VJmzsRz+f8AYSa9YbXy2Gbycjp/J5PgBQz4="
   },
   "backup": {
     "version": "0.1.0",
@@ -27913,13 +27913,13 @@
     "hash": "sha256-7wijbRIl3TjoeylIbrlX4A/8w4vQta7m/RrMe7exJhY="
   },
   "jfmulticontent": {
-    "version": "2.15.5",
+    "version": "2.15.6",
     "t3_versions": [
       12,
       13
     ],
     "description": "It arranges multiple contents into one content element with multiple columns, accordions, tabs, slider, slidedeck, easyAccordion or Booklet. This extension will also extend tt_news with two new lists.",
-    "hash": "sha256-/vG+48IbUaAHo8S+DxtdEtA2CUzI98y4WKdrtd010vw="
+    "hash": "sha256-HIPkc0y8V9qyPgJAY2vYCQpN/iLpiffagLrY1fN0TZ8="
   },
   "jfmulticontent_viewdemo": {
     "version": "0.1.2",
@@ -62800,12 +62800,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "vcfqr": {
-    "version": "0.3.0",
+    "version": "0.4.2",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "Create QR-Code with VCF card",
-    "hash": "sha256-sW24WSUk8JaHLXDNY2NSiknlbaVlT8mlrDLaRiMyH/0="
+    "hash": "sha256-fZcvIoRKmw5RUwA0Lj/oQNRvO83/2ZvWjOZcQYVbNHo="
   },
   "vclibrary": {
     "version": "1.0.3",
