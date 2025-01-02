@@ -6907,13 +6907,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "calendarize_pages": {
-    "version": "3.3.0",
+    "version": "4.1.1",
     "t3_versions": [
-      10,
-      11
+      12,
+      13
     ],
     "description": "Add pages to EXT:calendarize",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-6R5sf1753atlnYBI5STQ4uA7+U0gDDGULUEcyPF3H18="
   },
   "caleventtemplate": {
     "version": "1.2.0",
@@ -28385,15 +28385,16 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "jn_lighterbox": {
-    "version": "1.3.1",
+    "version": "1.3.5",
     "t3_versions": [
       9,
       10,
       11,
-      12
+      12,
+      13
     ],
     "description": "A very lightweight Lightbox extension for click-enlarging content element images using lightbox2 or any other library of your choice.",
-    "hash": "sha256-nVRu2ug+XRLEbeAM8tQ+fyhNG5PibLOVdjmM3zXPs90="
+    "hash": "sha256-UswQPif/0pojutFYAv3qe3iNPMAeMa2fmsJBe4vrBmI="
   },
   "jn_phpcontentelement": {
     "version": "1.3.0",
@@ -39721,13 +39722,13 @@
     "hash": "sha256-8PvIRBI21nOQVuXHqlO+Pn34YdBrJ9Qx+HL3R6TaaZs="
   },
   "ns_basetheme": {
-    "version": "13.0.1",
+    "version": "13.0.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "The architecture of parent/child TYPO3 theme concept. Explore https://t3planet.com and https://nitsantech.com",
-    "hash": "sha256-akBQZauGM3KGRAqCYH2bAoVrrQ7TiHQOG+LOPDRXz1s="
+    "hash": "sha256-9LhFYc+QjnV04UW0/zO7BVA/6/709HFgWEEDUVssTQ4="
   },
   "ns_cache_webhook": {
     "version": "1.0.1",
