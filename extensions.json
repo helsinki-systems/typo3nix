@@ -3019,6 +3019,16 @@
     "description": "Weather from EMHI in Estonia",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "at_agecalc": {
+    "version": "1.0.0",
+    "t3_versions": [
+      10,
+      11,
+      12
+    ],
+    "description": "Advanced age calculator to fix problems with singular/plural grammatical forms in age.",
+    "hash": "sha256-cuD2LvCqE2H93HnqjsNG/Oy/F3JysphDtL54aHpu4W4="
+  },
   "at_slider": {
     "version": "10.0.1",
     "t3_versions": [
@@ -3635,13 +3645,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.336.6",
+    "version": "3.336.7",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-qcUFGWyj87BJ5xEwxJdUuY4vGt8grmk9ssXJc+FrgjU="
+    "hash": "sha256-MEp4dK9VeTvVbl+YzG3p0CQjJQU5b0fgWthajfwe7Gc="
   },
   "aws_system_information": {
     "version": "1.0.0",
