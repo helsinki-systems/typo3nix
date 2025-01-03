@@ -28407,12 +28407,13 @@
     "hash": "sha256-UswQPif/0pojutFYAv3qe3iNPMAeMa2fmsJBe4vrBmI="
   },
   "jn_phpcontentelement": {
-    "version": "1.3.0",
+    "version": "1.3.5",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "PHP content elements via frontend plugin.",
-    "hash": "sha256-ao6UGHzqiI6IGBxRBjKhtBjut0pebgWN4QPDHgbhB4A="
+    "hash": "sha256-s8+S9IDTF60R5/0AZrAdprQrXKYAGDVv8hX3VwgpNVc="
   },
   "job_bank_resume_mgr": {
     "version": "0.1.1",
@@ -39732,13 +39733,13 @@
     "hash": "sha256-8PvIRBI21nOQVuXHqlO+Pn34YdBrJ9Qx+HL3R6TaaZs="
   },
   "ns_basetheme": {
-    "version": "13.0.2",
+    "version": "13.0.3",
     "t3_versions": [
       12,
       13
     ],
     "description": "The architecture of parent/child TYPO3 theme concept. Explore https://t3planet.com and https://nitsantech.com",
-    "hash": "sha256-9LhFYc+QjnV04UW0/zO7BVA/6/709HFgWEEDUVssTQ4="
+    "hash": "sha256-jwjo5cTcPop2kY/KtPAzGKGXTiRNuaCaQ2sT9GfBmQM="
   },
   "ns_cache_webhook": {
     "version": "1.0.1",
@@ -39827,18 +39828,12 @@
     "hash": "sha256-Igo0MLpfD5Bn75SurWBI3xWtkucD6E1hnduyq6pw5rA="
   },
   "ns_ext_compatibility": {
-    "version": "6.1.0",
+    "version": "12.0.0",
     "t3_versions": [
-      4,
-      6,
-      7,
-      8,
-      9,
-      10,
-      11
+      12
     ],
     "description": "Are you in need of a TYPO3 Extension that offers features such as system information reporting, statistical analysis of TYPO3 extensions, downloadable compatibility options, and more? TYPO3 Extensions Compatibility Report, tailored to meet your specific requirements! Compatible with all major versions of TYPO3 , it assists you in assessing the feasibility and complexity of TYPO3 upgrades. ",
-    "hash": "sha256-1rHGduSV27mSIEg2tfWa0T38DnpE6ar741qRHbbs1mY="
+    "hash": "sha256-bEhgXXojlaHqsXnSzj6T+qAqqLk2WLh4ORtX0SXib3M="
   },
   "ns_facebook_comment": {
     "version": "2.0.2",
@@ -63655,12 +63650,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "watchwords": {
-    "version": "2.3.0",
+    "version": "2.3.1",
     "t3_versions": [
       13
     ],
     "description": "This extension adds a new content element which will get a new Christian Watchword (bible verse) every day.",
-    "hash": "sha256-pRSOkGo5sLeDov6oq8gjSFPQ2h19nH4lwCLwIM2LxEo="
+    "hash": "sha256-vfB331eHXRRfQqArDqtWorWUO+O4flNnRN5ufRQ91pM="
   },
   "way2enjoy": {
     "version": "1.3.5",
