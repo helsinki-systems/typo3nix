@@ -3645,13 +3645,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.336.7",
+    "version": "3.336.8",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-MEp4dK9VeTvVbl+YzG3p0CQjJQU5b0fgWthajfwe7Gc="
+    "hash": "sha256-sOoUx2eYbXU7ggb3b3G/qrDvcuW/P9T1xxG2s7uqVb4="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -32583,13 +32583,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "macina_searchbox": {
-    "version": "3.2.1",
+    "version": "3.3.0",
     "t3_versions": [
-      11,
-      12
+      12,
+      13
     ],
     "description": "This Extension offers the possibility to add a searchbox to your Typo3 powered website which submits the searchvalue to the Indexed Search Engine  plugin without any result list output. The extension has a Fluid template which is easy to modify.",
-    "hash": "sha256-eIDHlhshinas9tFlQQMdHLkPt/itqd8KcGjKBOhIWVE="
+    "hash": "sha256-C2KGepKAziqmEStAWI5dcZ7U3D8WJ/QZEs+PCQcbVAk="
   },
   "macina_testkit": {
     "version": "0.0.2",
@@ -46663,10 +46663,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "recaptcha": {
-    "version": "14.0.2",
-    "t3_versions": [],
+    "version": "14.0.3",
+    "t3_versions": [
+      13
+    ],
     "description": "Integrates google reCAPTCHA and invisible reCAPTCHA in EXT:form, EXT:sf_register",
-    "hash": "sha256-01sEm449wA5CKJPF92gBPZTaq2fn91ArKdyz/XmVWRI="
+    "hash": "sha256-vUejjauCChDneYYw2Ywd8+1WZd1h45sFZNdwXWGmGWc="
   },
   "recent_comments": {
     "version": "0.2.0",
@@ -50661,12 +50663,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sf_register": {
-    "version": "13.1.0",
+    "version": "13.1.1",
     "t3_versions": [
       13
     ],
     "description": "Offers the possibility to maintain the fe_user data in frontend by the user self.",
-    "hash": "sha256-4wkVDhyMOxu4865HcEOXXUsnmx152+3YZTZ+tt2av1s="
+    "hash": "sha256-yeDSV3b0+ddKo3hxk4QQndfqVJnerUeYSv41Pc8cTlY="
   },
   "sf_simple_faq": {
     "version": "1.3.0",
@@ -61238,13 +61240,13 @@
     "hash": "sha256-KHFg2YrQeolZphyDlmmjTGp04I/6IU1WrktMh0c4lNQ="
   },
   "tt_board": {
-    "version": "1.16.1",
+    "version": "1.16.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "Simple threaded (tree) or list message board (forum).",
-    "hash": "sha256-EKNPlBNDnTqgEWQIz6WoIAhyLLzEn7rawG4CHCD+QKE="
+    "hash": "sha256-MJRVhro/EWck0p3k5LfOwiejcYhLkQg2pnaUD/BYZ88="
   },
   "tt_calender": {
     "version": "1.0.5",
