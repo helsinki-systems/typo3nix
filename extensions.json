@@ -61285,13 +61285,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "tt_products": {
-    "version": "2.15.16",
+    "version": "2.16.0",
     "t3_versions": [
-      11,
       12
     ],
     "description": "Advanced versions at ttproducts.de. Documented in the E-Book \"Der TYPO3-Webshop\" - Shop with listing in multiple languages, with order tracking, product variants, support for transactor extension, bill, creditpoint and voucher system.",
-    "hash": "sha256-NUFZHQ9YmHjKSQraHd6mxYkiAU1yu7ndeyJh5x4xNq4="
+    "hash": "sha256-2VMldB8SJK/jKHxeKFMwQE6MH0OLvIrVl/TDp36snJY="
   },
   "tt_products_foundby": {
     "version": "0.1.4",
