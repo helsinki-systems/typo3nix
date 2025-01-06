@@ -3907,14 +3907,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "base_excel": {
-    "version": "3.5.0",
+    "version": "3.7.0",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "This provides the PhpSpreadsheet library, formerly phpExcel from phpOffice.",
-    "hash": "sha256-71o5ImTSkLxJWIp+k+KoHnMoKC3pZUTKefNGnme/bTk="
+    "hash": "sha256-PYxzVY/nr76kaSdztQ5p4QNu7IlR0ZPNypiJXfYKNjM="
   },
   "base_font": {
     "version": "1.0.0",
@@ -23675,12 +23675,12 @@
     "hash": "sha256-WqrKbXiHqFsgZFEpA9X3nIwBZpl639pFM55WokGJT9Q="
   },
   "gridtocontainer": {
-    "version": "12.3.0",
+    "version": "13.1.0",
     "t3_versions": [
-      12
+      13
     ],
     "description": "EXT:gridtocontainer is a small migration extension with backend module for those who want to switch from EXT:gridelements to EXT:container.",
-    "hash": "sha256-5/S+Y47MdhZvXHHY/OoNlBRKKtwyf8bDhdmV+dHn7vs="
+    "hash": "sha256-8Tsc6yR4Kh/XcbOgLwZhsrC9xwIBITTbpJjGU+MXI94="
   },
   "group_mngr": {
     "version": "0.1.0",
@@ -63960,12 +63960,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "webm": {
-    "version": "2.1.2",
+    "version": "3.0.0",
     "t3_versions": [
-      12
+      13
     ],
     "description": "Creates a WebM file for every configured (and supported) video format. Either via Symfony command or hook (can be configured).",
-    "hash": "sha256-Ae17Y/wPcDcZ4xxb9AfLsGM7iUsAMYZUBLn6w3uY2o8="
+    "hash": "sha256-itNedeNXFYBBody6dXFJP00nefYaceCZWluvenu3IdQ="
   },
   "webp": {
     "version": "5.1.0",
