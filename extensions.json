@@ -3538,18 +3538,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "avalex": {
-    "version": "8.0.2",
+    "version": "9.0.1",
     "t3_versions": [
-      6,
-      7,
-      8,
-      9,
-      10,
-      11,
-      12
+      13
     ],
     "description": "The avalex extension allows to display an automatically generated and updated \"Data Privacy Statement\", \"Imprint\", \"Cancellation Policy\" and \"Terms and conditions\" within a TYPO3 web site.",
-    "hash": "sha256-Me4/aFBOpQBHvZw0nQ8+anPiUEb1RJgjd94tb+anNR4="
+    "hash": "sha256-PF2yLtsj/hYmzIog90RgpmrkHPlzpebMT8v39Uhvr8M="
   },
   "avgf_feat_content": {
     "version": "0.0.1",
@@ -3645,13 +3639,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.336.9",
+    "version": "3.336.11",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-T8eBRCrhf0UxZyhn4fzXgfAOaP3uAQCLiD9fyC1SazM="
+    "hash": "sha256-tavRnjMqlAt6Y3GBNxCAokJf0YW7oLZ1MqkgmIuDz70="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -7156,12 +7150,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cart": {
-    "version": "9.0.3",
+    "version": "9.4.0",
     "t3_versions": [
       12
     ],
     "description": "Shopping Cart(s) for TYPO3",
-    "hash": "sha256-mVQsdEnDmes4dOP5kIgWmCQIQb2lu+mOouyFVmuBosc="
+    "hash": "sha256-K2rEqirccAaEz9EqDsFbCXU7sWw277Syx8NDNgXtmdk="
   },
   "cart_basket_image": {
     "version": "1.0.3",
@@ -9980,12 +9974,12 @@
     "hash": "sha256-zqT8IC5CM9sIqCV57crUaWZhZFXllcHCMc6DaL0Bae0="
   },
   "content_blocks": {
-    "version": "1.1.3",
+    "version": "1.1.4",
     "t3_versions": [
       13
     ],
     "description": "TYPO3 CMS Content Blocks - Content Types API",
-    "hash": "sha256-Psgz1/UemAmslGRQ5mkudrrqH/qkEZMTIMdptJhd/4c="
+    "hash": "sha256-5MRYFc1Km8e51rtl0F86BRgiwSCs1rUxATCrlrdKAuo="
   },
   "content_consent": {
     "version": "3.0.1",
@@ -16531,6 +16525,15 @@
     "description": "Create multipage forms that can be update easily",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "eb_expand_texticon": {
+    "version": "1.0.0",
+    "t3_versions": [
+      12,
+      13
+    ],
+    "description": "Expand BK2K Bootstrap Package content element “Text and Icon” with some open source SVG icon libraries",
+    "hash": "sha256-4Gj4TYbKLxSOdMJYWKAsAZhEQjRu1fJPFZgmB/qa8VQ="
+  },
   "eb_voetbalnl": {
     "version": "1.0.0",
     "t3_versions": [],
@@ -18157,12 +18160,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "extender": {
-    "version": "14.0.1",
+    "version": "11.0.2",
     "t3_versions": [
       13
     ],
     "description": "A services that enables adding properties and functions",
-    "hash": "sha256-wzhfD9pkn0nWF9CRI8iSAZykijtjnxUl6urgGN2dQxw="
+    "hash": "sha256-s1k/H1zofIc9ayG0uO0lXGscvIUUK+qqmlwZiYFHmqM="
   },
   "extendmypage": {
     "version": "0.0.1",
@@ -19548,14 +19551,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ffpi_nodecounter": {
-    "version": "2.1.2",
+    "version": "2.2.0",
     "t3_versions": [
-      7,
-      8,
-      9
+      10
     ],
     "description": "Counts Freifunk nodes",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-SadwGXoc6MimvzRg/T/mr2c8EgVEp9xsC8lNoVzmWFA="
   },
   "ffunews": {
     "version": "1.0.0",
@@ -19584,14 +19585,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fh_debug": {
-    "version": "0.17.3",
+    "version": "0.18.0",
     "t3_versions": [
-      10,
-      11,
-      12
+      12,
+      13
     ],
     "description": "This generates a PHP debug output file. FileWriter into debug",
-    "hash": "sha256-/f2dsGvSJLoy6DM0zsTuLWOBaxwtPi+atbzAeiZOQNM="
+    "hash": "sha256-47c4qOLSeyXAk1+GsVFJ5Lb13e8zucWc7AKp7Wz4d8g="
   },
   "fh_library": {
     "version": "0.0.20",
@@ -19707,6 +19707,15 @@
     ],
     "description": "Provides canonical links for sys_files in TYPO3 CMS.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "file_dashboard": {
+    "version": "2.0.0",
+    "t3_versions": [
+      12,
+      13
+    ],
+    "description": "Filterable file list backend module including easy download functionality.",
+    "hash": "sha256-qxNINMdSmcqcamKrWxLXoo+uvxwCwn6sykTREVB+nnM="
   },
   "file_explorer": {
     "version": "2.0.9",
@@ -31952,12 +31961,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "logs": {
-    "version": "5.0.0",
+    "version": "5.1.0",
     "t3_versions": [
       12
     ],
     "description": "Log Reader with a backend module and API to read, filter and delete logs from the TYPO3 Logging API",
-    "hash": "sha256-vaz0VX+HGkCuFUxa9HPgD2Qb/Dw2xRWHmQY3J1A/WOY="
+    "hash": "sha256-BD4gnQDQE47CkRIw+uqexGuyn2t4yTJp+645UsdUs/8="
   },
   "loki": {
     "version": "1.1.1",
@@ -45889,13 +45898,12 @@
     "hash": "sha256-8nUqJRoeYX+Ap6rSUttf1I0P7KtWL5595WpYKxPOjyI="
   },
   "qc_be_domain_color": {
-    "version": "1.0.1",
+    "version": "2.0.0",
     "t3_versions": [
-      10,
-      11
+      12
     ],
-    "description": "Allows to set custom bg color by domain",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "description": "This extension inject CSS in the BE interface to modify the color of the left/Modules frame. The color is associated to one or many domains. It can be useful when you get many TYPO3 instances, local DDEV/Docker installations or development servers and you want to really make the production server stand out.",
+    "hash": "sha256-ad0mKWzH4oL5kuQkZvTH1sjM/YLFpbf+5Ec1+t1FQzg="
   },
   "qc_be_pagelanguage": {
     "version": "2.0.0",
@@ -46918,12 +46926,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "reint_downloadmanager": {
-    "version": "4.0.0",
+    "version": "4.0.1",
     "t3_versions": [
       12
     ],
     "description": "A simple download manager with different views of file collections as downloadable lists.",
-    "hash": "sha256-rWzI3L/FRsNEs+WPqt5wVrmnUBMf/rWiHFizZ8zjrzc="
+    "hash": "sha256-BTxal7Jd17sV6eu/KjyM8qkQvSODG3Ijc65L91bl11I="
   },
   "reint_file_timestamp": {
     "version": "4.0.0",
@@ -48596,12 +48604,12 @@
     "hash": "sha256-OE68pCT+KlEVJ+RICFcNhbqd8HJ+BaVJTIManKjFjKU="
   },
   "rte_ckeditor_image": {
-    "version": "12.0.4",
+    "version": "13.0.0",
     "t3_versions": [
-      12
+      13
     ],
     "description": "Adds FAL image support to CKEditor for TYPO3.",
-    "hash": "sha256-76OQQE2DPxDxIAM+vNp23Lx7vkoxAhy6/DDjkF593bw="
+    "hash": "sha256-Bqig0Stg3fnpaNXj9omJV93gHpPzoTqfa7H/nbVq0Jg="
   },
   "rte_ckeditor_microdata": {
     "version": "10.1.0",
@@ -53788,12 +53796,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sourceopt": {
-    "version": "5.2.5",
+    "version": "5.2.6",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "Optimization of the final page: reformatting the (x)HTML output & removal of new-lines, comments and generator-info including search and replace strings using your regular expressions. In addition combines all SVG selected within content-elements into one <symbol> file and replaces <img> by <use>.",
-    "hash": "sha256-hIEUmANYqFGEtPyK78jnhsSaCiWHWeiKpwMpCatQvFg="
+    "hash": "sha256-5j4k0455gM4nJwDYOWWG5J8otsO/fAPT2qmh6IcnTQg="
   },
   "sox_calendar": {
     "version": "1.0.11",
@@ -59338,12 +59347,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "tinyaccordion": {
-    "version": "8.1.0",
+    "version": "8.2.0",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "An easy-to-use extension to display pages, tt_content or news elements as an Accordion. Runs with TinyAccordion or jQuery UI-Accordion.",
-    "hash": "sha256-w7irNhCE27Bj5INrDW/t6T4zt2dWatXhoA7hF9YRt5I="
+    "hash": "sha256-J1jXJY6rkN8CKw6WD6SUv456QwC6kdRAcxFg3dkporA="
   },
   "tinyimg": {
     "version": "1.8.0",
@@ -65885,13 +65895,14 @@
     "hash": "sha256-FYN8mGAlZsMeTD3r1wM8G2jstYPhxUClwjoS1rGQT3Q="
   },
   "xima_typo3_frontend_edit": {
-    "version": "1.4.0",
+    "version": "1.5.0",
     "t3_versions": [
+      11,
       12,
       13
     ],
     "description": "This extension provides an edit button for editors within frontend content elements.",
-    "hash": "sha256-gjgw8sxLMp/8e5VuhMGHrRY51k1CBrZhikwsFLzU9tU="
+    "hash": "sha256-ldpyQULepyVULSmfjqfH4M2D944A79J8z76esWi0FVY="
   },
   "xima_typo3_internal_news": {
     "version": "1.0.0",
