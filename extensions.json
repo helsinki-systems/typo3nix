@@ -3445,14 +3445,15 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "autotranslate": {
-    "version": "1.2.2",
+    "version": "1.2.3",
     "t3_versions": [
       10,
       11,
-      12
+      12,
+      13
     ],
     "description": "This extension provides automatic translation of pages and content elements via DeepL API.",
-    "hash": "sha256-U2yGuLrP3AUzLpPfV7KjjYuA8SqsEroQApKmYJ4SDC0="
+    "hash": "sha256-PechA1DY8DixVCtU/H9i5g+fSUBXobh1oNll7XNl1HA="
   },
   "autoupload_dummy": {
     "version": "1.0.2",
@@ -3639,13 +3640,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.336.11",
+    "version": "3.336.12",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-tavRnjMqlAt6Y3GBNxCAokJf0YW7oLZ1MqkgmIuDz70="
+    "hash": "sha256-ZtZ0+XG8fdUHobMaALrCf+4jmX+5dUlKUtU5etQR7LI="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -19549,6 +19550,14 @@
     "t3_versions": [],
     "description": "Inserts an IFRAME to display content of another URL inside the page. Totally configurable using either flexform or typoscript. Includes option to resize the the iframe to match the height of the content.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "ffpi_node_updates": {
+    "version": "2.2.0",
+    "t3_versions": [
+      10
+    ],
+    "description": "Knoten Benachrichtigung bei ausfällen",
+    "hash": "sha256-OeHR2tiosldJzaqTGss9uNb2NwuBmKzvXFA0AOvV6Do="
   },
   "ffpi_nodecounter": {
     "version": "2.2.0",
@@ -65118,10 +65127,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ws_slider": {
-    "version": "13.1.0",
-    "t3_versions": [],
+    "version": "13.1.1",
+    "t3_versions": [
+      13
+    ],
     "description": "Universal slider carousel for Owl slider, flexslider, ... ",
-    "hash": "sha256-eIa5KZJ7Fg3P0a2uFxYSOgsjB0o9AvMfVmU5Hxi6xeA="
+    "hash": "sha256-+v8ITPCWDRqE/bf88iIJKDLXA2E5GbcouwqWmCT3oF0="
   },
   "ws_stats": {
     "version": "0.2.0",
