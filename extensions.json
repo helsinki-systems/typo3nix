@@ -3640,13 +3640,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.336.12",
+    "version": "3.336.13",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-ZtZ0+XG8fdUHobMaALrCf+4jmX+5dUlKUtU5etQR7LI="
+    "hash": "sha256-KKXMrmMpN+PdQw8K2oizwLTuQIESe+x+5eIH5/YwmHk="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -26906,13 +26906,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "interamt_connect": {
-    "version": "1.1.3",
+    "version": "1.1.4",
     "t3_versions": [
       11,
       12
     ],
     "description": "Creates an overview of all job advertisements of a public authority, which are listed in the public service job portal INTERAMT.de.",
-    "hash": "sha256-zy9ARMZKCgiOQKNyfRsaPLF84rsejEEadZE94p1BPXY="
+    "hash": "sha256-k2C2p9VlCAIbpzV/Xp5GevUWXihO6axuAZmiIvprz2k="
   },
   "interest": {
     "version": "2.1.2",
@@ -50684,12 +50684,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sf_register": {
-    "version": "13.1.1",
+    "version": "13.1.3",
     "t3_versions": [
       13
     ],
     "description": "Offers the possibility to maintain the fe_user data in frontend by the user self.",
-    "hash": "sha256-yeDSV3b0+ddKo3hxk4QQndfqVJnerUeYSv41Pc8cTlY="
+    "hash": "sha256-SYM29AvghZWVrs2upv+hshGmOANK+RVcWps4jLudWh0="
   },
   "sf_simple_faq": {
     "version": "1.3.0",
@@ -53804,13 +53804,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sourceopt": {
-    "version": "5.2.6",
+    "version": "5.2.7",
     "t3_versions": [
       12,
       13
     ],
     "description": "Optimization of the final page: reformatting the (x)HTML output & removal of new-lines, comments and generator-info including search and replace strings using your regular expressions. In addition combines all SVG selected within content-elements into one <symbol> file and replaces <img> by <use>.",
-    "hash": "sha256-5j4k0455gM4nJwDYOWWG5J8otsO/fAPT2qmh6IcnTQg="
+    "hash": "sha256-NKiY2VB8j9IJheubNOpNlb8i47h2bnLt130u0YQ7IAU="
   },
   "sox_calendar": {
     "version": "1.0.11",
