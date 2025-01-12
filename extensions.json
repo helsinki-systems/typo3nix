@@ -44223,13 +44223,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "plesk_widget": {
-    "version": "1.2.1",
+    "version": "3.0.0",
     "t3_versions": [
-      10,
-      11
+      12,
+      13
     ],
     "description": "Shows information about your plesk based customer control center",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-E4TrHn5imDJ/ihQJJkeWsXzL5TDHaLCFf+NjiyFiEZo="
   },
   "pljqueryimages": {
     "version": "1.0.12",
@@ -57021,12 +57021,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "t3sbootstrap": {
-    "version": "5.3.18",
+    "version": "5.3.20",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "Startup extension to use bootstrap 5 classes, components and more out of the box. Example and info: www.t3sbootstrap.de",
-    "hash": "sha256-/ILueaFUlrYCOHUFyzPMS1geooBuKhDAds3WVbMJ2NI="
+    "hash": "sha256-Tyiie5qA60ty4PwrXSTcuzS1fraCZihyaAuDjxOch1E="
   },
   "t3sbootstrap_grid": {
     "version": "4.0.0",
