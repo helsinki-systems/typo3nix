@@ -1098,13 +1098,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "additional_tca": {
-    "version": "1.16.2",
+    "version": "1.16.3",
     "t3_versions": [
       12,
       13
     ],
     "description": "Additional TCA fields and tools",
-    "hash": "sha256-Cwhb/UnFb92GN9kPwXEdaAJqrjKrXZIdb+yyTt8KwV0="
+    "hash": "sha256-cIxk1RfpmzGV2iu5NuVv+RYNPsNQecyNzwvwOPJ1smc="
   },
   "addlinkheader": {
     "version": "0.0.4",
@@ -3640,13 +3640,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.336.13",
+    "version": "3.336.14",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-KKXMrmMpN+PdQw8K2oizwLTuQIESe+x+5eIH5/YwmHk="
+    "hash": "sha256-0WxdHwuSJQM6kHe1QUX72KYlhCAuQzdm/leoL4E1RfM="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -19718,13 +19718,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "file_dashboard": {
-    "version": "2.1.0",
+    "version": "2.2.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "Filterable file list backend module including easy download functionality.",
-    "hash": "sha256-TY9mEJrjZu0q6DKsKkr1HmYzrpIu1nCD3L/1+mA49AU="
+    "hash": "sha256-FmmwAQJ/kW/dKy6YX3mC2KM6utznxOPBipLX+5Okm/A="
   },
   "file_explorer": {
     "version": "2.0.9",
@@ -31779,12 +31779,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "locate": {
-    "version": "12.0.3",
+    "version": "13.0.0",
     "t3_versions": [
-      12
+      13
     ],
     "description": "The users country, preferred language and other facts will be detected. Depending on configurable rules the user can be redirected to other languages or pages. Locate also provides geo blocking for configurable pages in configurable countries.",
-    "hash": "sha256-jGP1lruAGuCFVo1A3Dy4oC0EmtdutTpjIjvewGQvSp8="
+    "hash": "sha256-I08rCET8b4f5RG9thA70+5x2nn+BxnmVU5qLsxclZOU="
   },
   "location_manager": {
     "version": "1.1.0",
@@ -32257,13 +32257,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "lux": {
-    "version": "38.1.0",
+    "version": "38.2.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Living User Experience - LUX - the Marketing Automation tool for TYPO3.",
-    "hash": "sha256-c4UtdoRUB7SNWBuoz29osw5My5/rbNj4fgBDV/aNWP4="
+    "hash": "sha256-dQDw5bxq96Z3E2WlBALV10xe9g1ic0A74i2RKSMPUPE="
   },
   "luxletter": {
     "version": "27.0.1",
@@ -33769,13 +33769,13 @@
     "hash": "sha256-MZCLN4yGvwUle+35itB6DHEwTiM+KlZDOVOUYIF5JYc="
   },
   "md_news_clickcount": {
-    "version": "3.0.4",
+    "version": "3.0.5",
     "t3_versions": [
       11,
       12
     ],
     "description": "With this extension you are able to count views of ext:news records. You can display a list with most viewed news and delete the statistics automatically with a scheduler task.",
-    "hash": "sha256-cWB55GnH/9A/oMTyezNnHRPWs6yGv9SWXX9ELKEHXUY="
+    "hash": "sha256-cAwsHw3gzAp/X7AYYGFN5/XdsjSSyW6oyS9eYg53QUQ="
   },
   "md_newsfrontend": {
     "version": "4.0.1",
@@ -49922,23 +49922,24 @@
     "hash": "sha256-bCMkdMOCy2wNJ3Gz6SWr7i1qZ9ZfxkhhegmjmYFHEdo="
   },
   "schema": {
-    "version": "3.8.0",
+    "version": "3.9.0",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "API and view helpers for schema.org markup",
-    "hash": "sha256-0088PkA2GYrEyILvcJxqwHmUxkKbsP9117esCP4Lev4="
+    "hash": "sha256-x+bkE8uzJg3fjjiDXRPQi+TgrxCweToouS0WGrXe5Ew="
   },
   "schema_auto": {
-    "version": "2.1.0",
+    "version": "2.2.0",
     "t3_versions": [
       11,
-      12
+      12,
+      13
     ],
     "description": "Extend the schema extension with auto-related terms",
-    "hash": "sha256-s5jOLQwidGvHLgI5Gd0DppFTEGkqcpa78aawlxetx5w="
+    "hash": "sha256-do67G3QymsT8ydUqHWmUkV+Nl7BXd0AhlkJdnlepX3Q="
   },
   "schema_bib": {
     "version": "2.2.0",
@@ -49951,14 +49952,14 @@
     "hash": "sha256-iewWmmv3h3Kat8DTkvUMMgXGaZKOt+pmuCJS428dR3g="
   },
   "schema_health": {
-    "version": "2.5.0",
+    "version": "2.6.0",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "Extend the schema extension with health-related terms",
-    "hash": "sha256-TDdWD2V0DflvdQOVjcW7YL28QOagg9wZLV2k7RH6F2c="
+    "hash": "sha256-SbFLC3SPUU92cswVLvB/OYUAgIBHPNuq5rM+nT1KnVk="
   },
   "schema_injector": {
     "version": "1.0.1",
@@ -49979,14 +49980,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "schema_pending": {
-    "version": "2.7.0",
+    "version": "2.8.0",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "Extend the schema extension with pending terms",
-    "hash": "sha256-ECa30nVX1vmkiU6Ktm3IJ4/vZJqGSBvVjzjMRik2qSg="
+    "hash": "sha256-oNRiMLZ/M7fNGuDh/SgzW91UWlSXNwDHCRPo73WeJ6A="
   },
   "schema_virtuallocation": {
     "version": "2.1.0",
@@ -52017,13 +52018,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "siteconfiggitsync": {
-    "version": "1.0.5",
+    "version": "1.1.0",
     "t3_versions": [
       11,
-      12
+      12,
+      13
     ],
-    "description": "This extension will push changes to the site config yaml files back to your gitlab repository by creating a branch for the changes along with a merge-request. It is targeted towards automated CI/CD installations or sites in general where the site-config is git versioned. No local git binary or .git directory is needed. Requires EXT:siteconfigurationevents",
-    "hash": "sha256-jvj+V33ylnTQKtDqDRxJ97psjnS1iLjpAGcn71sXaeg="
+    "description": "This extension will push changes to the site config yaml files back to your GitLAB or GitHUB repository by creating a branch for the changes along with a merge-request. It is targeted towards automated CI/CD installations or sites in general where the site-config is git versioned. No local git binary or .git directory is needed. Requires EXT:siteconfigurationevents",
+    "hash": "sha256-SCpm4jyplbU6AHp3Fkz5F6uUMO73o6fPwwUwrR9Jtaw="
   },
   "siteconfigurationevents": {
     "version": "1.2.1",
@@ -66414,12 +66416,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "yellowpages2": {
-    "version": "7.0.2",
+    "version": "8.0.0",
     "t3_versions": [
-      12
+      13
     ],
     "description": "With this extension you can build your own industry directory",
-    "hash": "sha256-/R5xdfdVZaOHCd8eIrb+fMwLCw6FzP2tVG10boFoRv8="
+    "hash": "sha256-7bJ3+fRkxgc4Xhx5+APk28cQkp3SJs2v0JZwwus6+2o="
   },
   "yellowpay2commerce": {
     "version": "1.0.0",
