@@ -3640,13 +3640,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.336.14",
+    "version": "3.336.15",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-0WxdHwuSJQM6kHe1QUX72KYlhCAuQzdm/leoL4E1RfM="
+    "hash": "sha256-7rVFVwaVH5AJUrEErRrmZUDTcGE1v1p/Y44edXZC2H4="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -24283,12 +24283,13 @@
     "hash": "sha256-TXHkjx84yo6BgjfQXcP16PHNMXSY0HeFpBYawj/94tg="
   },
   "hh_seo": {
-    "version": "0.8.6",
+    "version": "0.9.1",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "Hauer-Heinrich - SEO - Meta-Tag - ViewHelpers",
-    "hash": "sha256-ImXoXuVmtCZjxa2Yb/SkV+JamrAgj+vbo6oXwiqbdFE="
+    "hash": "sha256-/dEsePmtPd4SxIQITl+Z0Vov1R3iJaWbuKZLnz/ruLo="
   },
   "hh_simple_job_posts": {
     "version": "4.2.0",
@@ -24299,12 +24300,13 @@
     "hash": "sha256-gq0UAEKGdXILEkUk+jVt6p0UJbv+5r9au+PjCsUWiaM="
   },
   "hh_slider": {
-    "version": "0.5.1",
+    "version": "0.6.1",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "Hauer-Heinrich - Image and Content Slider",
-    "hash": "sha256-gZTFpDhkfVRjYn72ppahiZDUkssniCSg7Y/+lg2kmPA="
+    "hash": "sha256-COWcMgNYVibvx98droajAUnVNIy5ttKbdwaHf+8CHo4="
   },
   "hh_test": {
     "version": "0.2.15",
@@ -24325,13 +24327,13 @@
     "hash": "sha256-+wpzi3I4/hO4ZPEN5rZKNO278xUespSZGRd+s8rgF8E="
   },
   "hh_video_extender": {
-    "version": "0.3.0",
+    "version": "0.3.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "Hauer-Heinrich - Extends sys_file_reference video/media. Added attributes to select in content element (eg textmedia) like: muted, loop, controls, previewImage and so on.",
-    "hash": "sha256-yopvRp+TVybx/odmOEaN5wvi1SOPYFKZSAy1PcFuuEI="
+    "hash": "sha256-BGF6Pu3T6Sd/pLTWA1SC2HQLG/5t+6pMKfWcGswx+fg="
   },
   "hhcanonical": {
     "version": "1.0.0",
@@ -32531,52 +32533,52 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "maagitblog": {
-    "version": "13.4.2",
+    "version": "13.4.3",
     "t3_versions": [
       13
     ],
     "description": "Versatile agenda system based on Extbase & Fluid and using latest technologies provided by TYPO3 CMS.",
-    "hash": "sha256-kEihbo33vL7Rxe+h9JSOD6d6RzJ9YuuWTh76eBiIy14="
+    "hash": "sha256-kkHM+cXJavLqdvms2qH+SReZy+jBAfU7DJ7qXZOjcA8="
   },
   "maagitcookie": {
-    "version": "13.4.2",
+    "version": "13.4.3",
     "t3_versions": [
       13
     ],
     "description": "Cookie consent functionality for using websites provided by TYPO3 CMS.",
-    "hash": "sha256-kFt7bZqlef6hJum7a2EES8HQv7k+HSXdUJto9PkwIXc="
+    "hash": "sha256-IIEP3aUFTCXPAI8TGiHv/MCSDIfoSf/mkDSXLup2HWQ="
   },
   "maagitevent": {
-    "version": "13.4.2",
+    "version": "13.4.3",
     "t3_versions": [
       13
     ],
     "description": "Versatile agenda system based on Extbase & Fluid and using latest technologies provided by TYPO3 CMS.",
-    "hash": "sha256-Xxr4OsS0JloeGHzaRVjHE2LyHXyehQQDIDq6h/FuoWw="
+    "hash": "sha256-ZNbBAnfDixxznVmFa/i6HYf8v3DXzQYNeOb1vi8fYn4="
   },
   "maagitproduct": {
-    "version": "13.4.2",
+    "version": "13.4.3",
     "t3_versions": [
       13
     ],
     "description": "Versatile shop system based on Extbase & Fluid and using latest technologies provided by TYPO3 CMS.",
-    "hash": "sha256-o6wVuEelPMXmWr7YPpTy9m16N/iQEjl5/BapjUErWW4="
+    "hash": "sha256-biHGM+L8tDZudfuj7n9NYPEEnXQVwCN8kU8SKPFC7CY="
   },
   "maagitseclink": {
-    "version": "13.4.2",
+    "version": "13.4.3",
     "t3_versions": [
       13
     ],
     "description": "Secure download functionality for Typo3 Websites provided by TYPO3 CMS.",
-    "hash": "sha256-KSmkmlg0f794hnOTNSR+d8NrfQ1xvNXxIy3BEZjQhUQ="
+    "hash": "sha256-wPSCjClT5BLODnesy5iaudf6PYKK4ptH5T7vLVyILIw="
   },
   "maagituser": {
-    "version": "13.4.2",
+    "version": "13.4.3",
     "t3_versions": [
       13
     ],
     "description": "Versatile login and user system based on Extbase & Fluid and using latest technologies provided by TYPO3 CMS.",
-    "hash": "sha256-Ufr4AOAW8J358lNqvODRvC+BwogTJxmFwIWcLLvqMWc="
+    "hash": "sha256-w8DuGxSv6wyVbQNkCdPfADhw15p6eXMj7HhrKIqIE6g="
   },
   "maca_clubadmin": {
     "version": "0.1.4",
@@ -44223,13 +44225,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "plesk_widget": {
-    "version": "3.0.0",
+    "version": "3.0.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "Shows information about your plesk based customer control center",
-    "hash": "sha256-E4TrHn5imDJ/ihQJJkeWsXzL5TDHaLCFf+NjiyFiEZo="
+    "hash": "sha256-odYM78KfEnSKNdqHpfIYFFUjL35DZK8SR4EnvuzYJf8="
   },
   "pljqueryimages": {
     "version": "1.0.12",
@@ -65900,13 +65902,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "xima_typo3_content_planner": {
-    "version": "1.1.0",
+    "version": "1.1.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "This extension provides a page status functionality to support the planning of content work.",
-    "hash": "sha256-g/xC40LE5BpplaM4eYGQXisVo8rRmYprjx5v9s6MWdU="
+    "hash": "sha256-aFayK/LjU6XbU8piJCqRasC0xJb94qExd2OI2FpAzJk="
   },
   "xima_typo3_frontend_edit": {
     "version": "1.5.0",
