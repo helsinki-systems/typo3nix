@@ -3640,13 +3640,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.336.15",
+    "version": "3.337.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-7rVFVwaVH5AJUrEErRrmZUDTcGE1v1p/Y44edXZC2H4="
+    "hash": "sha256-6mZRTSMFmXbuna/bIKRZwrBkwqMOjgPw6NIBObVSv/4="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -5906,12 +5906,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "bulma_package": {
-    "version": "3.0.0",
+    "version": "4.0.0",
     "t3_versions": [
-      12
+      13
     ],
     "description": "Bulma Package delivers a full configured frontend theme for TYPO3, based on the Bulma CSS Framework.",
-    "hash": "sha256-0onSjTAoEtFEct5BGzwEUi+V4dLeAMWe5EJ/hzmM8tY="
+    "hash": "sha256-IavEVl4069cG5Sl2b46aFSnZSCj9sulzYT5Z76KFMVg="
   },
   "burmeesmenu": {
     "version": "0.1.10",
@@ -21070,14 +21070,13 @@
     "hash": "sha256-UXMBSuLKZwpeOCPMM9HC4gHZP9vZfGNfKDOPiGVTZuk="
   },
   "form4_statusmonitor": {
-    "version": "0.0.3",
+    "version": "12.0.0",
     "t3_versions": [
-      7,
-      8,
-      9
+      11,
+      12
     ],
     "description": "This Extension send a JSON Object Post to a given url, with Informations about the actual typo3 installation and components.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-wwgAf/P21jpysMXctX0AwbUZwrXrrXONdEhlC9aFXCY="
   },
   "form4_syslog_report": {
     "version": "1.1.1",
@@ -25012,14 +25011,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "hubspot_forms": {
-    "version": "1.0.3",
+    "version": "1.0.4",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "Automatically load HubSpot forms in TYPO3 pages via the HubSpot API",
-    "hash": "sha256-CfT4i2yyZXaG50M5JdKBBhIxGSc9ysS7YKdWKHh0eg8="
+    "hash": "sha256-781va2Dy0UCZlfQ+DRgETH9EjUw9t5ghXW6XIoS74yE="
   },
   "humhub": {
     "version": "12.4.8",
@@ -31307,6 +31306,23 @@
     "description": "Display your images in css_styled_content elements as flipbook. Uses jQuery library.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "lia_hyphenator": {
+    "version": "1.0.1",
+    "t3_versions": [
+      12
+    ],
+    "description": "Wrapper for Word-Hyphenation for PHP based on the TeX-Hyphenation algorithm",
+    "hash": "sha256-AuN8ckUQsSPaq7ibSyrO84bvpRDu6PpkCE2xeERrMe4="
+  },
+  "lia_multicolumnwizard": {
+    "version": "1.0.0",
+    "t3_versions": [
+      11,
+      12
+    ],
+    "description": "This extension adds an new TCA-Type that allows to group fields into rows that can be multiplied.",
+    "hash": "sha256-I1xu0GJi2UVp/OsOhK04z+BJx0A356VhdBmN0G1Squc="
+  },
   "lib": {
     "version": "0.3.1",
     "t3_versions": [
@@ -32259,13 +32275,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "lux": {
-    "version": "38.2.0",
+    "version": "38.3.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Living User Experience - LUX - the Marketing Automation tool for TYPO3.",
-    "hash": "sha256-dQDw5bxq96Z3E2WlBALV10xe9g1ic0A74i2RKSMPUPE="
+    "hash": "sha256-+sm/rFl5oQgx/1QBTHgGfxBJWKC/eDLjae8y71EihPo="
   },
   "luxletter": {
     "version": "27.0.1",
@@ -39754,13 +39770,13 @@
     "hash": "sha256-8PvIRBI21nOQVuXHqlO+Pn34YdBrJ9Qx+HL3R6TaaZs="
   },
   "ns_basetheme": {
-    "version": "13.0.3",
+    "version": "13.0.4",
     "t3_versions": [
       12,
       13
     ],
     "description": "The architecture of parent/child TYPO3 theme concept. Explore https://t3planet.com and https://nitsantech.com",
-    "hash": "sha256-jwjo5cTcPop2kY/KtPAzGKGXTiRNuaCaQ2sT9GfBmQM="
+    "hash": "sha256-dmxF6WWbnPR84KeDI1g/c2sdIlC777dYqObpOtjUtkA="
   },
   "ns_cache_webhook": {
     "version": "1.0.1",
@@ -63083,13 +63099,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "video": {
-    "version": "2.0.0",
+    "version": "2.0.1",
     "t3_versions": [
       12,
       13
     ],
-    "description": "Video processing in typo3",
-    "hash": "sha256-+v1RQDy1OvGEeAUErc3S5VRtp7LLx2wEl9JhsZsqHGo="
+    "description": "TYPO3 extension that compresses videos during upload to 720p H.264 MP4 using ffmpeg.wasm for optimal compatibility, storage, and performance.",
+    "hash": "sha256-Cd+nyl5p2rTv/5n+ZDAH2MT/hDdzAJ6v8R/6Rza/Kfo="
   },
   "video_shariff": {
     "version": "4.0.0",
@@ -65902,13 +65918,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "xima_typo3_content_planner": {
-    "version": "1.1.1",
+    "version": "1.1.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "This extension provides a page status functionality to support the planning of content work.",
-    "hash": "sha256-aFayK/LjU6XbU8piJCqRasC0xJb94qExd2OI2FpAzJk="
+    "hash": "sha256-OosHfP3rT5Yz8wfkbqUdeSCMeDYzRCJ22JWkC3tOty0="
   },
   "xima_typo3_frontend_edit": {
     "version": "1.5.0",
