@@ -8108,13 +8108,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cf_cookiemanager": {
-    "version": "1.7.3",
+    "version": "1.7.4",
     "t3_versions": [
       12,
       13
     ],
     "description": "Manage cookies, scripts, and GDPR compliance on your Typo3 website with CodingFreaks Typo3 Cookie Manager. Customize cookie banners, streamline workflow, and enhance user experience. Ensure GDPR compliance and take control of cookie management with our Typo3 cookie management extension. Visit the official Typo3 Documentation page to learn more.",
-    "hash": "sha256-uvIKBpGilsXmq57+z2tNawur6G2155Y7+texfBlcAR8="
+    "hash": "sha256-0SLXWtYV5RU9VaKdd0j3xJqZMlx3bs7W42z9IhU6PvU="
   },
   "cf_google_authenticator": {
     "version": "1.2.4",
@@ -9016,13 +9016,13 @@
     "hash": "sha256-CyYYDj2w3a9nPtj3bnZfWMLJ3YAwhqhr0wga+jqzUX0="
   },
   "clubmanager": {
-    "version": "1.1.9",
+    "version": "1.1.10",
     "t3_versions": [
       11,
       12
     ],
     "description": "The TYPO3 module for managing clubs, foundations and associations. With Clubmanager, you get the tool to manage the organization AND public relations of your club or association in a cost-saving and effective way.",
-    "hash": "sha256-EBOgGmoYzVt7JX0S+n+qUamJVsxiYEw3fAykbAXU8Ao="
+    "hash": "sha256-hwb3s1hjLFXV+/3UEY+txWM1QpMJ1N+ECIige/SCC3c="
   },
   "cm_ajax": {
     "version": "0.6.0",
@@ -20432,13 +20432,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fluid_fpdf": {
-    "version": "2.7.0",
+    "version": "2.7.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "This extension provides you a complete set of ViewHelpers for dealing with FPDF by using Fluid. You can use the ViewHelpers easily in own Extensions just by defining the fpdf-Namespace. Additionally you are able to use the build in plugin, for displaying predefined PDF. This plugin offers you automatically all available PDFs.",
-    "hash": "sha256-EeE0gFHdT4mFwQ1ayhIeo6ytjdPEXyTbsRCQd9EMXxg="
+    "hash": "sha256-PHrTDzLHfZ4/Ejt6fQMQ16F4NevfAkVpgZt+YG4abuM="
   },
   "fluid_info": {
     "version": "0.1.0",
@@ -29799,13 +29799,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ke_search": {
-    "version": "6.1.3",
+    "version": "6.2.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Faceted fulltext search for TYPO3. Fast, flexible and easy to install and use. Indexes content directly from the databases. Features faceting / filtering, file indexing, images in result lists and respects access restrictions.",
-    "hash": "sha256-AGddiSpdm5rRZaA0A6TvfIIT/vo5rLfFi74Li7yugAA="
+    "hash": "sha256-Ky0oU39zPki0/l5zKj/cyiYf8ZT8iIaLOj7WCNtqD2E="
   },
   "ke_search_dam_tags": {
     "version": "0.0.1",
@@ -44673,12 +44673,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "powermail": {
-    "version": "12.5.0",
+    "version": "12.5.1",
     "t3_versions": [
       12
     ],
     "description": "Powermail is a well-known, editor-friendly, powerful",
-    "hash": "sha256-UMRdfgDC+Md52bHkyd+B8aV7hUWYOUNrvbC+unZb1r8="
+    "hash": "sha256-TmowOg9g17PzBKEfTNeEeasu1QaIXF30dIlG/rRI6C8="
   },
   "powermail2document": {
     "version": "1.6.1",
@@ -65616,13 +65616,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "wv_deepltranslate": {
-    "version": "4.4.2",
+    "version": "4.4.3",
     "t3_versions": [
       11,
       12
     ],
     "description": "This extension provides option to translate content element, and TCA record texts to DeepL supported languages.",
-    "hash": "sha256-bxmsdsF0gRYJhJHwQ6JHFTR5F8XgVFeoTO/FpJNem3Y="
+    "hash": "sha256-hU9EqHPo6qTAQPNtiLRi6PmSvHRtxlsrXerWibjpPH8="
   },
   "wv_file_cleanup": {
     "version": "2.0.1",
