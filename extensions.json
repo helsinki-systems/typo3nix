@@ -3640,13 +3640,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.337.0",
+    "version": "3.337.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-6mZRTSMFmXbuna/bIKRZwrBkwqMOjgPw6NIBObVSv/4="
+    "hash": "sha256-W6iQ/g80c2Us0eMI33hSIfyUWHHVImZEtKiIlXns0Jo="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -20780,13 +20780,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "focuspoint": {
-    "version": "7.0.1",
+    "version": "7.0.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "Focuspoint integrate the focal point method to crop images in the frontend of the web page. Use the jQuery-focuspoint plugin (https://github.com/jonom/jquery-focuspoint example http://jonom.github.io/jquery-focuspoint/demos/helper/index.html) to crop the images. Use the function as wizard in the file list view and directly in the content element.",
-    "hash": "sha256-M4TEU3EjOm/Kw0nQAY5Y3u/TzuVnwcjOCkoI3F14M5k="
+    "hash": "sha256-PxcGc3Ye9W0X1Ebmh3kUpnd6gtWGz06K0yV6J/TEzNo="
   },
   "folder": {
     "version": "0.0.7",
@@ -30761,13 +30761,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "language_detection": {
-    "version": "5.0.0",
+    "version": "5.0.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "Modern language detection middleware for TYPO3. Based on PSR-7, PSR-14 & PSR-15.",
-    "hash": "sha256-qN21P4x2ssKOpYCmOqzLxF8/cuCG6I//rxcQQvgCPMY="
+    "hash": "sha256-AJcqejRq1X6hAyIi8fMJvTR6u5Ju+kiwa8Od8GFHptg="
   },
   "language_redirect": {
     "version": "1.0.3",
@@ -46952,12 +46952,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "reint_downloadmanager": {
-    "version": "4.0.1",
+    "version": "5.0.0",
     "t3_versions": [
-      12
+      13
     ],
     "description": "A simple download manager with different views of file collections as downloadable lists.",
-    "hash": "sha256-BTxal7Jd17sV6eu/KjyM8qkQvSODG3Ijc65L91bl11I="
+    "hash": "sha256-cujxBFRnXMZSijbs/XmK4m2KpU/Q/E+S0rC/8ORHxMg="
   },
   "reint_file_timestamp": {
     "version": "4.0.0",
@@ -53824,13 +53824,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sourceopt": {
-    "version": "5.2.7",
+    "version": "5.2.8",
     "t3_versions": [
       12,
       13
     ],
     "description": "Optimization of the final page: reformatting the (x)HTML output & removal of new-lines, comments and generator-info including search and replace strings using your regular expressions. In addition combines all SVG selected within content-elements into one <symbol> file and replaces <img> by <use>.",
-    "hash": "sha256-NKiY2VB8j9IJheubNOpNlb8i47h2bnLt130u0YQ7IAU="
+    "hash": "sha256-6SVXR8nYM+bGgbdrTS9sutnyfVdAqo7e6wDwcp8G2hY="
   },
   "sox_calendar": {
     "version": "1.0.11",
