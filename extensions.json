@@ -1098,13 +1098,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "additional_tca": {
-    "version": "1.16.3",
+    "version": "1.16.4",
     "t3_versions": [
       12,
       13
     ],
     "description": "Additional TCA fields and tools",
-    "hash": "sha256-cIxk1RfpmzGV2iu5NuVv+RYNPsNQecyNzwvwOPJ1smc="
+    "hash": "sha256-Dab6Zmy/kXxs+XdbsnU8C7zh7Mh2WyHxj1DSH6pavVU="
   },
   "addlinkheader": {
     "version": "0.0.4",
@@ -1593,12 +1593,12 @@
     "hash": "sha256-VjFx9kagkYZ+UP502oKGTs64zlOsNZ0JCvSkQosql58="
   },
   "ai_suite": {
-    "version": "13.0.2",
+    "version": "13.1.0",
     "t3_versions": [
       13
     ],
     "description": "Adds a backend module as well as various helper functionalities and features to your TYPO3 backend, which are intended to make the daily work of editors easier and faster with the help of AI.",
-    "hash": "sha256-9l+hxt6In1KgppFpKk8Up0kj/v6FqdyggZr0hCNEWGU="
+    "hash": "sha256-FH+iyoFolVNUBQN+xES5VDcZdXHcS/YCVlSZNXRApuY="
   },
   "ai_tools": {
     "version": "1.1.0",
@@ -3640,13 +3640,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.337.1",
+    "version": "3.337.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-W6iQ/g80c2Us0eMI33hSIfyUWHHVImZEtKiIlXns0Jo="
+    "hash": "sha256-1gaViXIcvnAm/qLFurRgF4/v+v/cgC+BC/2YgHHeAnw="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -8682,12 +8682,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ckeditor_wordbreak": {
-    "version": "2.0.0",
+    "version": "2.1.1",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "Adds the <wbr> HTML element to CKEditor 5 in TYPO3. If set in a long word, the browser may break a line (without adding a hyphen character). Useful e.g. for long URLs and file paths.",
-    "hash": "sha256-2sGrowC71ogeLHKA6buur1eJGb9NZ/KM9KFOc1dWlAg="
+    "hash": "sha256-hQxD0NIvYS4nUDmmP1L4GZJJg/h8YkdFdGENCNJqKp4="
   },
   "cl_alphabeticalindex": {
     "version": "0.1.3",
@@ -23488,13 +23489,13 @@
     "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
   },
   "gpsnose": {
-    "version": "3.0.0",
+    "version": "3.0.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "Extension to integrate GpsNose into TYPO3 - GpsNose connects anonymous people to the real world using the web and mobiles",
-    "hash": "sha256-tdhc8RrMtCO/kFf3iZ6XLYQ6HXnPANPqDHb00wccz3Y="
+    "hash": "sha256-YhZ949vaBMtaLHM1g1sQof4GzIga3QeBCZ0AlpgFF0Y="
   },
   "gra_multislide": {
     "version": "1.0.5",
@@ -63114,10 +63115,12 @@
     "hash": "sha256-VfWKibh+93U32C3RFch5159Xl9p3mQZFXFET8vYP3ds="
   },
   "video_validator": {
-    "version": "4.0.0",
-    "t3_versions": [],
+    "version": "4.1.1",
+    "t3_versions": [
+      13
+    ],
     "description": "Checks online videos in TYPO3 for availability",
-    "hash": "sha256-boOp+lZzoRyqSDBz8n48/uAY0VppFtoTM7+sA3VAX1o="
+    "hash": "sha256-5EhQ2qS9OaBaBdYV4Gt7MtfS7tYkjgnCaJR3ph8l6H4="
   },
   "video_vtt": {
     "version": "2.3.0",
