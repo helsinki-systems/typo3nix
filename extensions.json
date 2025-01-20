@@ -3185,13 +3185,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "auth0": {
-    "version": "5.0.5",
+    "version": "13.0.0",
     "t3_versions": [
-      11,
-      12
+      13
     ],
-    "description": "This extension allows you to log into a TYPO3 backend or frontend via Auth0. Auth0 is the solution you need for web, mobile, IoT, and internal applications. Loved by developers and trusted by enterprises.",
-    "hash": "sha256-4dxmuB0XqSnzQRk6H7jqVoxRfCldLJb4foDx7QL+XJI="
+    "description": "This extension allows you to log into a TYPO3 backend via Auth0. Auth0 is the solution you need for web, mobile, IoT, and internal applications. Loved by developers and trusted by enterprises.",
+    "hash": "sha256-CrKeq5FuuCbNVYs8socXh/naz0c4Au0huaf6nzGy9zA="
   },
   "auth0_sso": {
     "version": "2.0.1",
@@ -10848,12 +10847,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "crawler": {
-    "version": "12.0.4",
+    "version": "12.0.5",
     "t3_versions": [
       12
     ],
     "description": "Libraries and scripts for crawling the TYPO3 page tree.",
-    "hash": "sha256-zvPNlM1OFJNo7sffcTv+SGjAF7gA1dMeA4n4HKq1zOE="
+    "hash": "sha256-fzCoQcTQxauc0rNyCzq4AAs8ezbyGi3r6RlTF75Mnsw="
   },
   "createarp": {
     "version": "0.4.0",
@@ -20433,13 +20432,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fluid_fpdf": {
-    "version": "2.7.2",
+    "version": "2.7.3",
     "t3_versions": [
       12,
       13
     ],
     "description": "This extension provides you a complete set of ViewHelpers for dealing with FPDF by using Fluid. You can use the ViewHelpers easily in own Extensions just by defining the fpdf-Namespace. Additionally you are able to use the build in plugin, for displaying predefined PDF. This plugin offers you automatically all available PDFs.",
-    "hash": "sha256-PHrTDzLHfZ4/Ejt6fQMQ16F4NevfAkVpgZt+YG4abuM="
+    "hash": "sha256-SHZn1gzkLtF2+ch7eofIcI/6tdCL9dCXxlg2uMo9Xi8="
   },
   "fluid_info": {
     "version": "0.1.0",
@@ -20668,14 +20667,14 @@
     "hash": "sha256-u8kkaL8ssqqKfFhkOasaU5xGbAu9t+OlMiw7I3163zo="
   },
   "flux": {
-    "version": "10.1.0",
+    "version": "10.1.1",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Drop-in page and content templates with nested content feature. Provides multiple condensed integration APIs to use advanced TYPO3 features with little effort.",
-    "hash": "sha256-b+D4Fw9hf62A1liQdLk8OID8iyu3awxHW8z0lY0SOks="
+    "hash": "sha256-IZP1HgH+ZxaR8voPb4sT0mqW3LjkoIVvR+uNNAxHCro="
   },
   "flux_elements": {
     "version": "1.4.1",
@@ -22314,13 +22313,13 @@
     "hash": "sha256-0QfpVMdp1qpGMSE9f+nVWc7CbvSHpPXq6932bmo/4Mc="
   },
   "gdpr_extensions_com_cm": {
-    "version": "1.0.5",
+    "version": "1.0.6",
     "t3_versions": [
       11,
       12
     ],
     "description": "Ensure GDPR compliance effortlessly. Our advanced scanner meticulously checks your website for cookies, external resources, and security issues. Generate detailed reports for validation and peace of mind.",
-    "hash": "sha256-ctxTP1vWJ5U0qH7ki9eGj63uyyXfFrgIuu0vA02R+uc="
+    "hash": "sha256-ii93D7w+ipIKIxBLrWph8FJvDhZjoGXECg/98/fyUzg="
   },
   "gdpr_extensions_com_gm": {
     "version": "1.0.0",
@@ -36039,13 +36038,13 @@
     "hash": "sha256-QBq7RgOtpBz21jSQfzIxEurNCmBZlHvZXZt3wzoyyMw="
   },
   "modules": {
-    "version": "7.0.0",
+    "version": "7.0.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "Modules - Little helper for creating frontend and backend modules in TYPO3",
-    "hash": "sha256-fQVNs8n8m+n2t+gY1Gz6VdUxs7YASl6NmuqDzRzZe9E="
+    "hash": "sha256-Cq8YJPDv3YBzA1HDKTcwTKLHvWJMmQM9xIJwwsRoHgc="
   },
   "modulis_animated_gif": {
     "version": "0.0.4",
@@ -38911,12 +38910,13 @@
     "hash": "sha256-pp7RxGbrctngYRUNyD/475/61tA8/xZU6RM7yllT+uY="
   },
   "newsletter_subscribe": {
-    "version": "7.0.0",
+    "version": "7.0.2",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "subscribe and unsubscribe to tt_address, generate static Link to unsubscribe (to use in Newsletter), remove unvalidated subscriptions with scheduler task",
-    "hash": "sha256-QqC77GSl6+HJfedOMezfysjWvUqdwC5MzBeRXsk6H+g="
+    "hash": "sha256-FwQ8Gj/0r60LqA0XlxDhO7hMrzYKrZfca87YIUwkG/A="
   },
   "newslettermanager": {
     "version": "0.0.1",
@@ -44530,13 +44530,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "poll": {
-    "version": "4.0.14",
+    "version": "5.0.0",
     "t3_versions": [
-      11,
-      12
+      12,
+      13
     ],
     "description": "Create polls/surveys/Umfragen in TYPO3. Multiple question types and answer layouts. There is also a PRO version available which adds custom user answers and more. (Umfrage, Poll, Opinion, Vote, SimplePoll)",
-    "hash": "sha256-IsJ/uk4SUyQDccj7WXinFaPrn0mTF08aTdq+5q9hjak="
+    "hash": "sha256-dWBER3ZRWFGWzEmqW+pMc/tKNwnYXykCErn44hdA/iM="
   },
   "polyglot": {
     "version": "1.0.0",
