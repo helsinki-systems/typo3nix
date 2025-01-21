@@ -1593,12 +1593,12 @@
     "hash": "sha256-VjFx9kagkYZ+UP502oKGTs64zlOsNZ0JCvSkQosql58="
   },
   "ai_suite": {
-    "version": "13.1.0",
+    "version": "13.1.2",
     "t3_versions": [
       13
     ],
     "description": "Adds a backend module as well as various helper functionalities and features to your TYPO3 backend, which are intended to make the daily work of editors easier and faster with the help of AI.",
-    "hash": "sha256-FH+iyoFolVNUBQN+xES5VDcZdXHcS/YCVlSZNXRApuY="
+    "hash": "sha256-5dXGPoDaIhNnrSQ1t3/QKPdIqgp7Iq3Z0LZPYr1h5K4="
   },
   "ai_tools": {
     "version": "1.1.0",
@@ -6876,13 +6876,13 @@
     "hash": "sha256-mxgUrgQ/VtiZwT4ME1PWHVDTD8HN6CodWX53kJyZqpY="
   },
   "calendarize_address": {
-    "version": "5.0.0",
+    "version": "6.0.0",
     "t3_versions": [
-      11,
-      12
+      12,
+      13
     ],
     "description": "Extends EXT:calendarize events with location and organizer records based on EXT:tt_address records and provides corresponding location and organizer views.",
-    "hash": "sha256-PeaPlhxuLOmXxT8mKqUm8bDsbSn/MWtuCjSnGlneeN8="
+    "hash": "sha256-DOb0LNJhkn9HpP65Lh21b0rHrDI25Z3BdkCXKcx4S1o="
   },
   "calendarize_content": {
     "version": "0.1.1",
@@ -6964,13 +6964,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "camaliga": {
-    "version": "13.1.0",
+    "version": "13.1.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "A carousel/gallery/map/list extension that can use the TYPO3 categories and different jQuery-plugins like Slick. Bootstrap 5 support. Indexer for ke_search.",
-    "hash": "sha256-SO2/+14xylH73le7WB4h2iclzc419Y6zlYDNXC3r3tE="
+    "hash": "sha256-W80oW9NL7uo17shqmqryCiyx5+kP9BHu3xNq2ObkJJI="
   },
   "campaignmonitor": {
     "version": "2.0.0",
@@ -9975,12 +9975,12 @@
     "hash": "sha256-zqT8IC5CM9sIqCV57crUaWZhZFXllcHCMc6DaL0Bae0="
   },
   "content_blocks": {
-    "version": "1.1.4",
+    "version": "1.1.5",
     "t3_versions": [
       13
     ],
     "description": "TYPO3 CMS Content Blocks - Content Types API",
-    "hash": "sha256-5MRYFc1Km8e51rtl0F86BRgiwSCs1rUxATCrlrdKAuo="
+    "hash": "sha256-BSwoPDg92Uc0uxthPmvvtTTA/p/tFR1OL3KvEVJodyo="
   },
   "content_consent": {
     "version": "3.0.1",
@@ -18523,7 +18523,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fal_protect": {
-    "version": "1.6.3",
+    "version": "1.6.4",
     "t3_versions": [
       10,
       11,
@@ -18531,7 +18531,7 @@
       13
     ],
     "description": "Protect everything within /fileadmin/ based on associated folder and file restrictions (visibility, user groups and dates of publication).",
-    "hash": "sha256-5M+7XXEz9FIIK8kR6BqenTcJ+MMG5aaOxp1P6vroq9c="
+    "hash": "sha256-Hfzvyd+6Z6h7RIYpH7eodbDNIbiTgPNJ0PdtvVqvbv0="
   },
   "fal_quota": {
     "version": "1.8.0",
@@ -20390,12 +20390,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fluid_components": {
-    "version": "3.8.3",
+    "version": "3.8.4",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "Encapsulated frontend components with Fluid's ViewHelper syntax",
-    "hash": "sha256-3/QHOQmrfKzskvnObLks/Nq2+riP+sOjUad4ow9imwk="
+    "hash": "sha256-w65NdlIxL3UXs/HxHs9rK30obsSx/RoIawX74Bw59s4="
   },
   "fluid_contentelements": {
     "version": "1.0.0",
@@ -20432,13 +20433,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fluid_fpdf": {
-    "version": "2.7.3",
+    "version": "2.7.4",
     "t3_versions": [
       12,
       13
     ],
     "description": "This extension provides you a complete set of ViewHelpers for dealing with FPDF by using Fluid. You can use the ViewHelpers easily in own Extensions just by defining the fpdf-Namespace. Additionally you are able to use the build in plugin, for displaying predefined PDF. This plugin offers you automatically all available PDFs.",
-    "hash": "sha256-SHZn1gzkLtF2+ch7eofIcI/6tdCL9dCXxlg2uMo9Xi8="
+    "hash": "sha256-R4u8CNEo891+m1w1SCZgC0xRFt6qo/n8D6C+N9Q15lY="
   },
   "fluid_info": {
     "version": "0.1.0",
@@ -21621,12 +21622,12 @@
     "hash": "sha256-BWibo3/20xqtaX8DidK/HYtgtpJvSyzjCx9HqXRROF8="
   },
   "fp_masterquiz": {
-    "version": "6.1.0",
+    "version": "6.1.1",
     "t3_versions": [
       13
     ],
     "description": "A modern extension that offers quiz, polls and tests. Ajax support. The result can be displayed as a chart too. Supports 8 question modes.",
-    "hash": "sha256-gMAp/xC+Ggyu29GVOIJnpaIw2E4HXPQGCYbx0XtCMgk="
+    "hash": "sha256-NHzrR7aKS6oUK8AgCVZt2yu3tgDV5S1VFNFeCZdxS/s="
   },
   "fp_newsletter": {
     "version": "7.0.4",
@@ -35388,13 +35389,13 @@
     "hash": "sha256-6H05DwRy5TP7I2m3O6nKftHQjQVN7MRXdeMYYlAY3V8="
   },
   "mkcontentai": {
-    "version": "13.0.6",
+    "version": "13.0.8",
     "t3_versions": [
       12,
       13
     ],
     "description": "MKContentAI Extension - OpenAI API",
-    "hash": "sha256-zGv7XLh/oijPVVmPeeuKdM4srlsXrFuZVDC8b9+IH/I="
+    "hash": "sha256-4+ViDrbkyqiDatZj/E9oohg3G+9PGXVXG/Z1v0csNa8="
   },
   "mkdam2fal": {
     "version": "1.0.16",
@@ -38910,13 +38911,13 @@
     "hash": "sha256-pp7RxGbrctngYRUNyD/475/61tA8/xZU6RM7yllT+uY="
   },
   "newsletter_subscribe": {
-    "version": "7.0.2",
+    "version": "7.0.4",
     "t3_versions": [
       12,
       13
     ],
     "description": "subscribe and unsubscribe to tt_address, generate static Link to unsubscribe (to use in Newsletter), remove unvalidated subscriptions with scheduler task",
-    "hash": "sha256-FwQ8Gj/0r60LqA0XlxDhO7hMrzYKrZfca87YIUwkG/A="
+    "hash": "sha256-AGyh7I+2f3YoaXr9Ti1RnAz2iqyqnz6eXEhTbgW2Ctg="
   },
   "newslettermanager": {
     "version": "0.0.1",
@@ -41589,13 +41590,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "openweatherapi": {
-    "version": "3.2.0",
+    "version": "4.0.0",
     "t3_versions": [
-      10,
-      11
+      12
     ],
     "description": "Displays weather forecast for a selected location in frontend based on wetter.com openweather API.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-6jeAydRlwudrqZ3PaJXqmiHRnDUy8PRVaIpT1vmdrJk="
   },
   "openweathermap_php_api_service": {
     "version": "1.0.0",
@@ -50635,12 +50635,12 @@
     "hash": "sha256-/r5QtxBPyy7fk2HDRAxvBYt9RtyQI1Zf4XEYkPUxxYE="
   },
   "sf_event_mgt": {
-    "version": "8.1.0",
+    "version": "8.1.1",
     "t3_versions": [
       13
     ],
     "description": "Configurable event management and registration extension based on ExtBase and Fluid",
-    "hash": "sha256-sPKIsFoVMOOf30X5r8YWW/mnuRM9IuPGIHytY5nNiX0="
+    "hash": "sha256-gv9iKIgL65/r8UUGXl8Xud1PkyxBrs/tFgp8l+ngCcY="
   },
   "sf_event_mgt_contentelements": {
     "version": "3.0.0",
@@ -51424,14 +51424,12 @@
     "hash": "sha256-4dpIjya2p5bzPrjg/qGT2amNosfCjc+Os5LFWCRGuPk="
   },
   "showpageeditors": {
-    "version": "1.0.7",
+    "version": "2.0.1",
     "t3_versions": [
-      9,
-      10,
-      11
+      12
     ],
     "description": "CLI command to retrieve every editor who can see a given PID in the backend",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-v5xiYUoTQDuqWsuo6rpAyc0QpAtwHt/Ly40wA3NowoM="
   },
   "shredder": {
     "version": "1.0.1",
@@ -53346,13 +53344,15 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sms_responsive_images": {
-    "version": "3.0.0",
+    "version": "3.1.0",
     "t3_versions": [
       10,
-      11
+      11,
+      12,
+      13
     ],
     "description": "Provides ViewHelpers and configuration to render valid responsive images based on TYPO3's image cropping tool.",
-    "hash": "sha256-90ty25LA3JgSJyalRF8cTPr3ut7YN5PdpJ0EY7Xol8Q="
+    "hash": "sha256-xndHAjwY2MZIimWB+tU4pp7m35qKOn2WS+aEmUwdHTE="
   },
   "sms_xlsexporttask": {
     "version": "1.0.1",
@@ -56202,6 +56202,15 @@
     ],
     "description": "Localization management extension supporting export of localizable content into a localization-friendly XML format that can be dealt with in professional CAT (Computer Aided Translation) and Software Localization tools. After translation the XML files can",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "t3_prometheus_client": {
+    "version": "0.9.0",
+    "t3_versions": [
+      12,
+      13
+    ],
+    "description": "Provides a client for Prometheus to scrape timeseries data from system status informations (more info on \"How it works\") and exposes them on a configuralble endpoint",
+    "hash": "sha256-AOVQrr4XocBnQdEDjZfSRqlg24AMvbXKu/UX5d+MTLw="
   },
   "t3_slack": {
     "version": "1.0.0",
