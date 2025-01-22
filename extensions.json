@@ -1071,13 +1071,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "additional_reports": {
-    "version": "3.4.7",
+    "version": "3.4.8",
     "t3_versions": [
-      11,
-      12
+      12,
+      13
     ],
     "description": "Useful information in the reports module: xclass, ajax, cliKeys, eID, general status of the system (encoding, DB, php vars...), hooks, compare local and TER extension (diff), used content type, used plugins, ExtDirect... It can really help you during migration or new existing project (to have global reports of the system).",
-    "hash": "sha256-H0XZ5nio2oSp4wOvAj4/wwI41HK0vw/KIfvTTiEVpl0="
+    "hash": "sha256-hJnURVGKMRmdJ0ZXEL5Nm66MAc/kJn8e6X4T51sKyME="
   },
   "additional_scheduler": {
     "version": "1.6.0",
@@ -3639,13 +3639,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.337.2",
+    "version": "3.337.3",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-1gaViXIcvnAm/qLFurRgF4/v+v/cgC+BC/2YgHHeAnw="
+    "hash": "sha256-Io8D0ZgxOJYFt5XeO0ew+YOlBIrwYEbOR7AmDfWkH7g="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -7150,12 +7150,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cart": {
-    "version": "9.4.0",
+    "version": "9.4.1",
     "t3_versions": [
       12
     ],
     "description": "Shopping Cart(s) for TYPO3",
-    "hash": "sha256-K2rEqirccAaEz9EqDsFbCXU7sWw277Syx8NDNgXtmdk="
+    "hash": "sha256-+xKkSNN7iWJRXkgOa/MsgVXppN3C7cNTi5ZthARprGM="
   },
   "cart_basket_image": {
     "version": "1.0.3",
@@ -19718,13 +19718,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "file_dashboard": {
-    "version": "2.2.2",
+    "version": "2.2.3",
     "t3_versions": [
       12,
       13
     ],
     "description": "Filterable file list backend module including easy download functionality.",
-    "hash": "sha256-FmmwAQJ/kW/dKy6YX3mC2KM6utznxOPBipLX+5Okm/A="
+    "hash": "sha256-6cEWpfRI7frP3vjbvwW5IDpIImfwzEpvJxDHlZeK5Qc="
   },
   "file_explorer": {
     "version": "2.0.9",
@@ -30211,12 +30211,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "klaro_consent_manager": {
-    "version": "2.0.8",
+    "version": "2.0.9",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "Functionally complete, flexible TYPO3 integration of Klaro! Consent Management by KIProtect GmbH, a powerful tool that protects your visitors' privacy and data.",
-    "hash": "sha256-B8cG5VGOBsXGaVdfZV82qp+AvGJ278Fn2fifVEeWrBk="
+    "hash": "sha256-t42MVuype0xnDhbTALO5MxQ26V/TjDlPsHCbb1f2TTQ="
   },
   "klarokratie": {
     "version": "12.4.14",
@@ -38911,13 +38912,13 @@
     "hash": "sha256-pp7RxGbrctngYRUNyD/475/61tA8/xZU6RM7yllT+uY="
   },
   "newsletter_subscribe": {
-    "version": "7.0.4",
+    "version": "7.0.7",
     "t3_versions": [
       12,
       13
     ],
     "description": "subscribe and unsubscribe to tt_address, generate static Link to unsubscribe (to use in Newsletter), remove unvalidated subscriptions with scheduler task",
-    "hash": "sha256-AGyh7I+2f3YoaXr9Ti1RnAz2iqyqnz6eXEhTbgW2Ctg="
+    "hash": "sha256-LKM0v0Cc8XqcpxQhi7OWxA382GX2A8tNoA3ugaQ23Z8="
   },
   "newslettermanager": {
     "version": "0.0.1",
