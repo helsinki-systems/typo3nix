@@ -3538,12 +3538,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "avalex": {
-    "version": "9.0.1",
+    "version": "9.0.2",
     "t3_versions": [
       13
     ],
     "description": "The avalex extension allows to display an automatically generated and updated \"Data Privacy Statement\", \"Imprint\", \"Cancellation Policy\" and \"Terms and conditions\" within a TYPO3 web site.",
-    "hash": "sha256-PF2yLtsj/hYmzIog90RgpmrkHPlzpebMT8v39Uhvr8M="
+    "hash": "sha256-WTa0XWFT+BsxEXqLBkt1Ia/5AY9c81I3XUMccOhGuCg="
   },
   "avgf_feat_content": {
     "version": "0.0.1",
@@ -10847,12 +10847,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "crawler": {
-    "version": "12.0.5",
+    "version": "12.0.6",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "Libraries and scripts for crawling the TYPO3 page tree.",
-    "hash": "sha256-fzCoQcTQxauc0rNyCzq4AAs8ezbyGi3r6RlTF75Mnsw="
+    "hash": "sha256-xrdqiy1jAcPLTKh98z/IpnR2zfp9EYZnNVXTVnMLQcs="
   },
   "createarp": {
     "version": "0.4.0",
