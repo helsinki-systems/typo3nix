@@ -66625,10 +66625,12 @@
     "hash": "sha256-UkFTjBA6jtXipYTLNXZe9HTSIOk9dHqvqmi0X+p2pfI="
   },
   "zabbix_client": {
-    "version": "13.2.0",
-    "t3_versions": [],
+    "version": "13.2.2",
+    "t3_versions": [
+      13
+    ],
     "description": "Client for zabbix monitoring system. Secure up your TYPO3 Systems and detect errors and performance killers.",
-    "hash": "sha256-K9JgabAjHCL6jioU+N7Pt66+fNyMVUdY7kRHZPFZAhQ="
+    "hash": "sha256-klJJUf7Ve0sueDyd6tB0Ytp3wKbJn+4h43v/T1Fp+F8="
   },
   "zadi_masterconfig": {
     "version": "0.0.7",
