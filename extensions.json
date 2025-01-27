@@ -10847,13 +10847,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "crawler": {
-    "version": "12.0.6",
+    "version": "12.0.7",
     "t3_versions": [
       12,
       13
     ],
     "description": "Libraries and scripts for crawling the TYPO3 page tree.",
-    "hash": "sha256-xrdqiy1jAcPLTKh98z/IpnR2zfp9EYZnNVXTVnMLQcs="
+    "hash": "sha256-9GacdXQW55b4UizLJbOYvGPJINnERQtJa3DfbgKn8bI="
   },
   "createarp": {
     "version": "0.4.0",
@@ -21631,13 +21631,12 @@
     "hash": "sha256-NHzrR7aKS6oUK8AgCVZt2yu3tgDV5S1VFNFeCZdxS/s="
   },
   "fp_newsletter": {
-    "version": "7.0.4",
+    "version": "8.0.1",
     "t3_versions": [
-      11,
-      12
+      13
     ],
     "description": "Plugin for newsletter subscription and unsubscription with double opt in (and double opt out). For: mail or luxletter / tt_address or fe_users. A log is written.",
-    "hash": "sha256-ri88Iu/tOFoI4aQF/Iqa7CPXMCtT5+ZlG/C/D7jZDRc="
+    "hash": "sha256-tPe+M8/4pPixZf9hG27+hPSeUZ7w4xNcHLt6VTQLfHc="
   },
   "fp_product_features": {
     "version": "0.2.0",
@@ -24838,12 +24837,12 @@
     "hash": "sha256-On35Fsbrffji81j94KBP+aUb0wzLYhJ1TE1gq+azPJ0="
   },
   "html5videoplayer_powermail": {
-    "version": "0.2.0",
+    "version": "0.2.1",
     "t3_versions": [
       12
     ],
     "description": "Connect both extensions to fetch user input (one powermail form) before the user can access the detail view.",
-    "hash": "sha256-A1gRXbY/sIOmz5YcShSAUGTNeDKQ6AZfLGk05AptCnM="
+    "hash": "sha256-X62C5aObstOJ/6O5R3RBAn8f6kpfSgULg452et64mfs="
   },
   "html_compress": {
     "version": "1.1.1",
@@ -32914,14 +32913,14 @@
     "hash": "sha256-at4B3Q17Tq8FpS0iDk/j8VFn3jRbYoE5u+7vTFE1a0w="
   },
   "mailqueue": {
-    "version": "0.4.0",
+    "version": "0.4.1",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "Extension to improve TYPO3's mail spooler with additional components",
-    "hash": "sha256-818qM5dH/QK6wr70FjzooYYovuyyIyFi20zFMfISOII="
+    "hash": "sha256-WyogtLW64W2tBEW/Po6EOIs8q42YznEn4GI0sYWSlYI="
   },
   "mailupload": {
     "version": "0.0.1",
@@ -40035,12 +40034,13 @@
     "hash": "sha256-kPxKaPOFunsxkd20gpiPaMTtTkdDsAyhYtNQVZgoXGY="
   },
   "ns_license": {
-    "version": "13.0.5",
+    "version": "13.0.6",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "Manage License(s) of your purchased from T3Planet such as TYPO3 Templates and TYPO3 Extensions. Documentation & Free Support https://docs.t3planet.com/en/latest/License/LicenseActivation/Index.html",
-    "hash": "sha256-ImXsM4ZGzjSxycZNa+82MmRRr2tGvSbRwGcqFJElT4c="
+    "hash": "sha256-Hucbk7jFbFDwyn5hBYZ4UIGYnc98dsagUnCoJVgyZ+k="
   },
   "ns_news_advancedsearch": {
     "version": "13.0.0",
@@ -55595,6 +55595,15 @@
     "description": "A Connector for a SuiteCRM Installation. It uses the Rest API.",
     "hash": "sha256-k5AQMkRfgygEeUf0zi5JE8WHbzLvR6ykPA+Fb/fM0Cs="
   },
+  "sup_header": {
+    "version": "1.0.1",
+    "t3_versions": [
+      12,
+      13
+    ],
+    "description": "Add a button to TCA fields that adds sup, sub or other html",
+    "hash": "sha256-ewKhbxFeWUPC/gHBXOLSNWjTK41mCCQ73xD0OjOqvTA="
+  },
   "superfasttypo3": {
     "version": "0.1.6",
     "t3_versions": [
@@ -66492,13 +66501,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "yoast_seo": {
-    "version": "10.0.0",
+    "version": "10.1.0",
     "t3_versions": [
       11,
-      12
+      12,
+      13
     ],
     "description": "Optimise your website for search engines with Yoast SEO for TYPO3. With this extension you get all the technical SEO stuff you need and will help editors to write high quality content.",
-    "hash": "sha256-PGFo5IYYsZKbp1N5fsQ/rrIpBm7Kjd1S9u0Z48/rPyo="
+    "hash": "sha256-Bv4hqhcyJKmD4ZUrbDh8Yhw8wE04OaTc7hUsCEK1Kp0="
   },
   "yoo_blockimage": {
     "version": "1.0.0",
