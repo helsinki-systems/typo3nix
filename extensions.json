@@ -6868,12 +6868,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "calendarize": {
-    "version": "13.0.7",
+    "version": "14.0.0",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "Create a structure for timely controlled tables (e.g. events) and one plugin for the different output of calendar views (list, detail, month, year, day, week...). The extension is shipped with one default event table, but you can also \"calendarize\" your own table/model. It is completely independent and configurable! Use your own models as event items in this calender. Development on https://github.com/lochmueller/calendarize",
-    "hash": "sha256-mxgUrgQ/VtiZwT4ME1PWHVDTD8HN6CodWX53kJyZqpY="
+    "hash": "sha256-9Zb2nCEXtVomcHdz3tuStQVUpB6aqo9NmYs22zZCinA="
   },
   "calendarize_address": {
     "version": "6.0.0",
@@ -20782,13 +20783,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "focuspoint": {
-    "version": "7.0.2",
+    "version": "7.0.5",
     "t3_versions": [
       12,
       13
     ],
     "description": "Focuspoint integrate the focal point method to crop images in the frontend of the web page. Use the jQuery-focuspoint plugin (https://github.com/jonom/jquery-focuspoint example http://jonom.github.io/jquery-focuspoint/demos/helper/index.html) to crop the images. Use the function as wizard in the file list view and directly in the content element.",
-    "hash": "sha256-PxcGc3Ye9W0X1Ebmh3kUpnd6gtWGz06K0yV6J/TEzNo="
+    "hash": "sha256-/sVVRxlkCZZvHAGHaAJlewezNnWzMoX2aB9inYnrDOM="
   },
   "folder": {
     "version": "0.0.7",
@@ -24233,13 +24234,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "hh_accordion": {
-    "version": "0.6.5",
+    "version": "0.7.2",
     "t3_versions": [
-      11,
-      12
+      12,
+      13
     ],
     "description": "",
-    "hash": "sha256-Y2H+lMWr5ms+uVw6DBwZ8PJZ1lTVul/UQbc4hOlvgQU="
+    "hash": "sha256-2St871FCalJbulfC86o5qReXdK9KMdrb9+S/469tXnQ="
   },
   "hh_add_statuscode": {
     "version": "0.1.22",
@@ -24274,22 +24275,22 @@
     "hash": "sha256-FynwZuS3lYQXNHkBSVDTo6+4I0SkInAoVb/o9UFw3fY="
   },
   "hh_powermail_checkboxlink": {
-    "version": "0.1.6",
+    "version": "0.2.0",
     "t3_versions": [
-      11,
-      12
+      12,
+      13
     ],
     "description": "Additional field for EXT:powermail. Adds one checkbox with RTE as Label/Description. Usage for e. g. gdpr-checkbox with link.",
-    "hash": "sha256-TXHkjx84yo6BgjfQXcP16PHNMXSY0HeFpBYawj/94tg="
+    "hash": "sha256-7CDrZS/l6+FHXTKMWvo6dq0feaV0al1WH12HGmvDAWo="
   },
   "hh_seo": {
-    "version": "0.9.1",
+    "version": "0.9.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "Hauer-Heinrich - SEO - Meta-Tag - ViewHelpers",
-    "hash": "sha256-/dEsePmtPd4SxIQITl+Z0Vov1R3iJaWbuKZLnz/ruLo="
+    "hash": "sha256-HnCWOAsvbwuFNoEfQ2xrtjAD4a93itUcLWqxEjl1TPM="
   },
   "hh_simple_job_posts": {
     "version": "4.2.0",
@@ -41172,14 +41173,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "oidc": {
-    "version": "3.0.0",
+    "version": "4.0.0",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "This extension uses OpenID Connect to authenticate users.",
-    "hash": "sha256-SWLjBpGypaFcQtw97sgVgkOozfrOTan9YiLUtXjapaQ="
+    "hash": "sha256-i3gM4/HDuNdLopa69MOEJ3HC4OKmcDGtJH7FdOJi6AI="
   },
   "oidc_client": {
     "version": "0.3.1",
@@ -49940,14 +49941,14 @@
     "hash": "sha256-bCMkdMOCy2wNJ3Gz6SWr7i1qZ9ZfxkhhegmjmYFHEdo="
   },
   "schema": {
-    "version": "3.9.0",
+    "version": "3.9.1",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "API and view helpers for schema.org markup",
-    "hash": "sha256-x+bkE8uzJg3fjjiDXRPQi+TgrxCweToouS0WGrXe5Ew="
+    "hash": "sha256-KCwQdnflxx2RYycevRPRBScdF7pXkW4sMGBIqXK3ago="
   },
   "schema_auto": {
     "version": "2.2.0",
