@@ -1098,13 +1098,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "additional_tca": {
-    "version": "1.16.4",
+    "version": "1.16.5",
     "t3_versions": [
       12,
       13
     ],
     "description": "Additional TCA fields and tools",
-    "hash": "sha256-Dab6Zmy/kXxs+XdbsnU8C7zh7Mh2WyHxj1DSH6pavVU="
+    "hash": "sha256-We8e4ozDDYYv5wfQolXAcmRu6xPGzjI5Cnj0EJRMYw8="
   },
   "addlinkheader": {
     "version": "0.0.4",
@@ -6886,13 +6886,13 @@
     "hash": "sha256-DOb0LNJhkn9HpP65Lh21b0rHrDI25Z3BdkCXKcx4S1o="
   },
   "calendarize_content": {
-    "version": "1.0.0",
+    "version": "1.0.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "Add content to EXT:calendarize",
-    "hash": "sha256-r3wr/VtjWZB6s4m7/p61dUlQxiN6kBnv1CDErq0AY0k="
+    "hash": "sha256-Vo99/GaBhJ1W6hcYhGrnU81m/IVbOMm1PUDKvkf7MUc="
   },
   "calendarize_external": {
     "version": "0.1.2",
@@ -22431,6 +22431,15 @@
     "description": "Track your website viewers behavior and get your user analytics but only if they consent to! Stay GDPR compliant when your website is scanned by any Cookie or GDPR Scanner, when using Matomo Analytics.",
     "hash": "sha256-EuBNGhbFTdSzm/ihEoGpvpAdtt1LO3vd+l3qcquAfik="
   },
+  "gdpr_extensions_com_pint_board": {
+    "version": "1.0.0",
+    "t3_versions": [
+      11,
+      12
+    ],
+    "description": "Add Pinterest Board to your website and stay GDPR compliant! Your website viewers will be able to manage their cookie preferences and view the content only if consented. Stay GDPR compliant when your website is scanned by any Cookie or GDPR Scanner!",
+    "hash": "sha256-r2Fh8J4XxLMInzEwjDWyicMTR3VW71Bc9Vclhpa4bl0="
+  },
   "gdpr_extensions_com_pint_pin": {
     "version": "1.0.0",
     "t3_versions": [
@@ -30218,14 +30227,14 @@
     "hash": "sha256-t42MVuype0xnDhbTALO5MxQ26V/TjDlPsHCbb1f2TTQ="
   },
   "klarokratie": {
-    "version": "12.4.14",
+    "version": "12.4.19",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Includes Klaro! Consent-Manager into TYPO3. Completely file-based configuration for versioning without having to take care of database-entries. This extension automatically adds a consent-overlay to embedded YouTube- and Vimeo-Videos.",
-    "hash": "sha256-YDo+7xFXoKs+CsbxXUlSKK2XVsTIV3RB50ohXCjfvLg="
+    "hash": "sha256-jLS2ayyiPKLDc+IMnTm5SQ5sNyqI3xt5H4Gd7GBClZE="
   },
   "km_dam_extension": {
     "version": "1.0.2",
@@ -33335,6 +33344,14 @@
     "description": "Never configure mask permissions for editors manually ever again!",
     "hash": "sha256-VwOd56u2XqAjNarsOij9Riy+7KWx5YkRWXvhM5i2WaI="
   },
+  "mask_to_content_blocks": {
+    "version": "1.0.1",
+    "t3_versions": [
+      13
+    ],
+    "description": "One command to migrate Mask elements to Content Blocks",
+    "hash": "sha256-MkGOBFMsY30AgA1ypQQ8upsuMEKjB83lJbY+4YMC090="
+  },
   "massquotes": {
     "version": "0.1.0",
     "t3_versions": [],
@@ -34030,12 +34047,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "media2click": {
-    "version": "3.5.0",
+    "version": "3.5.2",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "Render external content like videos and iframes with privacy in mind: User has to click on placeholder to load the actual content.",
-    "hash": "sha256-RPkX0Vfg56xL29pHU9fPmJ0+4CofthBDjL9MZkgNdRg="
+    "hash": "sha256-0t1S35jmi+YlryTmEhfhkSkwL1OP8TtKX7xVqEsznoY="
   },
   "media_center": {
     "version": "1.0.3",
@@ -39771,13 +39789,13 @@
     "hash": "sha256-8PvIRBI21nOQVuXHqlO+Pn34YdBrJ9Qx+HL3R6TaaZs="
   },
   "ns_basetheme": {
-    "version": "13.0.4",
+    "version": "13.0.5",
     "t3_versions": [
       12,
       13
     ],
     "description": "The architecture of parent/child TYPO3 theme concept. Explore https://t3planet.com and https://nitsantech.com",
-    "hash": "sha256-dmxF6WWbnPR84KeDI1g/c2sdIlC777dYqObpOtjUtkA="
+    "hash": "sha256-DDoo6rnJlJQRYUeHHAfCXD9Ll2GoK4DE/xA6cBO1ZLc="
   },
   "ns_cache_webhook": {
     "version": "1.0.1",
