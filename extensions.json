@@ -17662,12 +17662,12 @@
     "hash": "sha256-fW7FJmsbuCfvKGtcrpJ6zM6iWzSVTnJkqvick5+P1mI="
   },
   "events2": {
-    "version": "9.1.7",
+    "version": "9.2.0",
     "t3_versions": [
       12
     ],
     "description": "Create single and recurring events",
-    "hash": "sha256-SC6aCquEzI8m5uI7mYK9dM35C9/Mc5izzYEC89OlutA="
+    "hash": "sha256-5EmX5QnJbasnWIIIUkDkEk5kAgPGTiXus+Bs8hEHozM="
   },
   "events2_reserve_connector": {
     "version": "1.0.0",
@@ -18306,16 +18306,17 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "extractor": {
-    "version": "2.5.1",
+    "version": "2.5.2",
     "t3_versions": [
       8,
       9,
       10,
       11,
-      12
+      12,
+      13
     ],
     "description": "This extension detects and extracts metadata (EXIF / IPTC / XMP / ...) from potentially thousand different file types (such as MS Word/Powerpoint/Excel documents, PDF and images) and bring them automatically and natively to TYPO3 when uploading assets. Works with built-in PHP functions but takes advantage of Apache Tika and other external tools for enhanced metadata extraction.",
-    "hash": "sha256-8FazGLxKdx+Loy20X5SwUoq46hRA0U4fsVSTiPR7DBQ="
+    "hash": "sha256-IHntbfo7O1MjwV9H1Zn1fr38S72tZe6edkKoVylgXZY="
   },
   "extrasalt": {
     "version": "0.1.7",
@@ -18525,7 +18526,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fal_protect": {
-    "version": "1.6.4",
+    "version": "1.6.5",
     "t3_versions": [
       10,
       11,
@@ -18533,7 +18534,7 @@
       13
     ],
     "description": "Protect everything within /fileadmin/ based on associated folder and file restrictions (visibility, user groups and dates of publication).",
-    "hash": "sha256-Hfzvyd+6Z6h7RIYpH7eodbDNIbiTgPNJ0PdtvVqvbv0="
+    "hash": "sha256-jBsDKm91qP9R9x7smBFZxs1521bJZIp0jQsMJkDxSao="
   },
   "fal_quota": {
     "version": "1.8.0",
@@ -25868,14 +25869,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ig_ldap_sso_auth": {
-    "version": "4.0.2",
+    "version": "4.1.0",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "This extension provides LDAP support for TYPO3 by delegating the authentication of frontend and/or backend users to the centrally-managed directory of your organization. It fully supports OpenLDAP and Active Directory and is capable of connecting securely to the authentication server using either TLS or SSL (ldaps://).",
-    "hash": "sha256-YrJaSK+Fe4hcLffxyvqFPRcaHPz23eM9ur8NVrZfhzo="
+    "hash": "sha256-/bZ5W/ZC78caomV+pL4s76Ax+aywDbktMem2cO2rWTo="
   },
   "ig_log404errors": {
     "version": "1.0.0",
@@ -26014,14 +26015,15 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "image_autoresize": {
-    "version": "2.4.2",
+    "version": "2.4.3",
     "t3_versions": [
       10,
       11,
-      12
+      12,
+      13
     ],
     "description": "Simplify the way your editors may upload their images: no complex local procedure needed, let TYPO3 automatically resize down their huge images/pictures on-the-fly during upload (or using a command for batch processing) and according to your own business rules (directory/groups). This will highly reduce the footprint on your server and speed-up response time if lots of images are rendered (e.g., in a gallery). Features an EXIF/IPTC extractor to ensure metadata may be used by the FAL indexer even if not preserved upon resizing.",
-    "hash": "sha256-ws4+dRF91NqDrK5RJVzAQuPv3EYwFohD3Y3EW+uNDiE="
+    "hash": "sha256-jnndq98M+cEyqQLqEuiBuSeKX9cVXqzuddfv1u5wVpg="
   },
   "image_copyright": {
     "version": "12.5.1",
@@ -34047,13 +34049,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "media2click": {
-    "version": "3.5.2",
+    "version": "3.5.3",
     "t3_versions": [
       12,
       13
     ],
     "description": "Render external content like videos and iframes with privacy in mind: User has to click on placeholder to load the actual content.",
-    "hash": "sha256-0t1S35jmi+YlryTmEhfhkSkwL1OP8TtKX7xVqEsznoY="
+    "hash": "sha256-7VctO6gA9Xf6XGeSa1P8kZVqX6pe/87r4pG0y1XOa4E="
   },
   "media_center": {
     "version": "1.0.3",
@@ -44587,14 +44589,16 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "poptin_smart_popups_and_forms": {
-    "version": "1.0.5",
+    "version": "2.0.0",
     "t3_versions": [
       9,
       10,
-      11
+      11,
+      12,
+      13
     ],
     "description": "Use Poptin to create beautiful popups and inline forms for your website using our easy-to-use drag and drop editor (no coding skills required). With Poptin you can show your website's visitors the right message at the right time.Exit intent trigger is included in our free plan. You'll also get advanced triggers and targeting rules.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-wK+HHVXVPVNMvLsSt4tEj3HNsQFjqizAMcyHCuWDqQQ="
   },
   "popup": {
     "version": "1.1.0",
@@ -55615,13 +55619,13 @@
     "hash": "sha256-k5AQMkRfgygEeUf0zi5JE8WHbzLvR6ykPA+Fb/fM0Cs="
   },
   "sup_header": {
-    "version": "1.0.1",
+    "version": "1.0.3",
     "t3_versions": [
       12,
       13
     ],
     "description": "Add a button to TCA fields that adds sup, sub or other html",
-    "hash": "sha256-ewKhbxFeWUPC/gHBXOLSNWjTK41mCCQ73xD0OjOqvTA="
+    "hash": "sha256-Y3G5iK+tteCSVn4jRuIWQLKTjcefmuchbpM8rOdbHPE="
   },
   "superfasttypo3": {
     "version": "0.1.6",
@@ -58522,6 +58526,16 @@
     ],
     "description": "test",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "testextension198": {
+    "version": "1.0.1",
+    "t3_versions": [
+      11,
+      12,
+      13
+    ],
+    "description": "Utility to easily maintain and create your TCA forms",
+    "hash": "sha256-Y1Vjq1xUEpgq/cEnaW7Yg7RUh3atE2SdpV6E1hu0vgw="
   },
   "testimonial": {
     "version": "0.1.0",
