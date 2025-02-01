@@ -26114,12 +26114,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "imagelazyload": {
-    "version": "1.0.1",
+    "version": "1.1.1",
     "t3_versions": [
-      11
+      12,
+      13
     ],
     "description": "Images lazy load control for pagelist, personnel, gallerycontent, and custom elements.",
-    "hash": "sha256-amftBCM0ukDTLju0IIw773tMEiH7KUnDoWqFhg/YZmo="
+    "hash": "sha256-cTgcgoGfTzNSMYiGKeLWLZUikUzOildxyMYfZ9LtRL4="
   },
   "imagelist": {
     "version": "0.0.6",
@@ -26535,7 +26536,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "includekrexx": {
-    "version": "5.1.2",
+    "version": "5.1.3",
     "t3_versions": [
       10,
       11,
@@ -26543,7 +26544,7 @@
       13
     ],
     "description": "Fluid and PHP debugger with backend access to logfiles, code generation to reach the displayed values and much more. We added some special stuff for Aimeos.",
-    "hash": "sha256-UPHUXjL7ryrTrK8Xhm438V81gzOyq5y2gyCAuuEN1K8="
+    "hash": "sha256-x3vedmRKWAYnmtdCZhR8uoJN0Qv0e/cBaOgc6ckUBJI="
   },
   "incore_twitter": {
     "version": "1.2.2",
@@ -27953,13 +27954,13 @@
     "hash": "sha256-7wijbRIl3TjoeylIbrlX4A/8w4vQta7m/RrMe7exJhY="
   },
   "jfmulticontent": {
-    "version": "2.15.6",
+    "version": "2.16.0",
     "t3_versions": [
       12,
       13
     ],
-    "description": "It arranges multiple contents into one content element with multiple columns, accordions, tabs, slider, slidedeck, easyAccordion or Booklet. This extension will also extend tt_news with two new lists.",
-    "hash": "sha256-HIPkc0y8V9qyPgJAY2vYCQpN/iLpiffagLrY1fN0TZ8="
+    "description": "It arranges multiple contents into one content element with multiple columns, accordions, tabs, slider, slidedeck, easyAccordion or Booklet.",
+    "hash": "sha256-QFMFq3wr9wYLa+jDy0J21wh0yWAJNRbtw443AU7/1c0="
   },
   "jfmulticontent_viewdemo": {
     "version": "0.1.2",
@@ -44587,6 +44588,14 @@
     ],
     "description": "Use this as a base for your extension development.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "poper": {
+    "version": "1.0.4",
+    "t3_versions": [
+      11
+    ],
+    "description": "AI Driven Popup / Widget Builder that can convert visitors into customers, increase subscriber count, and skyrocket sales.",
+    "hash": "sha256-s0Y7tXqAWpxtD82BRvps9zxmH7I8od4zqOXAKbapDNc="
   },
   "poptin_smart_popups_and_forms": {
     "version": "2.0.0",
