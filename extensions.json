@@ -3676,10 +3676,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ayacoo_soundcloud": {
-    "version": "3.0.0",
-    "t3_versions": [],
+    "version": "3.0.1",
+    "t3_versions": [
+      13
+    ],
     "description": "",
-    "hash": "sha256-0BdFZeioVcuuQl/BwLd+BYD1eR6VmeYoS/8KgAqN5i0="
+    "hash": "sha256-/uyUwSHHo663qY+geKW3UFMMJOuBaIb7VFS2MTSBtsM="
   },
   "azurestorage": {
     "version": "0.6.1",
@@ -8831,10 +8833,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "clearcache_recursive": {
-    "version": "3.0.0",
-    "t3_versions": [],
+    "version": "3.0.1",
+    "t3_versions": [
+      13
+    ],
     "description": "Adds a button in the backend for editors to be able to delete the cache recursively.",
-    "hash": "sha256-NXRQlkMXDB7Cz0QVpcTV4NhlMKrB0fgfXGN+bcoiaQk="
+    "hash": "sha256-/iO0l2N11KF2kgvH9ZCW5SqELi8c3HzHXySrQQ8+VKQ="
   },
   "clearcacheextend": {
     "version": "2.0.0",
@@ -38788,10 +38792,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "news_tldr": {
-    "version": "2.0.0",
-    "t3_versions": [],
+    "version": "2.0.1",
+    "t3_versions": [
+      13
+    ],
     "description": "Creates a short summary for news via ChatGPT",
-    "hash": "sha256-YZ5megZ9HPu/L0NFwvjrg+gKr1jN6IPruWbfTrEgE2s="
+    "hash": "sha256-BDdJt2O0hw1A8g6Egqp3kHZ4X/SQ0LpiIGwkYDzU2+o="
   },
   "news_ttnewsimport": {
     "version": "2.0.0",
@@ -46850,10 +46856,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "redirect_tab": {
-    "version": "4.0.0",
-    "t3_versions": [],
+    "version": "4.0.1",
+    "t3_versions": [
+      13
+    ],
     "description": "Show TYPO3 redirects in the page properties",
-    "hash": "sha256-dl9uWGQrYsNDxqXzP3T2IhYfu/HMkOmFxaXB2lyUu/Q="
+    "hash": "sha256-cNlXTgmLoBkoISmOSVXxxhmNuz46I4UrTLTpB0JdqRs="
   },
   "redirection": {
     "version": "1.1.0",
@@ -59207,10 +59215,12 @@
     "hash": "sha256-P+pusXERsnZYAh9WQsOgYFiX0MAc/fqajHuqg1T6YlQ="
   },
   "tiktok": {
-    "version": "3.0.0",
-    "t3_versions": [],
+    "version": "3.0.1",
+    "t3_versions": [
+      13
+    ],
     "description": "",
-    "hash": "sha256-iWBYfGkKCBBoXVdWtMINUHdwwsPQXwgryKrYH/wRwNo="
+    "hash": "sha256-IMQmV7wAar4Q4uEfCT2oMXig55qa+gKbq5LABLpQMYU="
   },
   "tile": {
     "version": "0.9.5",
@@ -62081,10 +62091,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "twitch": {
-    "version": "3.0.0",
-    "t3_versions": [],
+    "version": "3.0.1",
+    "t3_versions": [
+      13
+    ],
     "description": "",
-    "hash": "sha256-FtaFuqa/RASbXQoGad9jFDAOnQjeYASog4GY4Dgoo54="
+    "hash": "sha256-rOau9Dt2yXRlbi69oC+cfdEdaxqeo7z4VltrOXGJZdQ="
   },
   "twitter": {
     "version": "0.0.2",
@@ -63174,12 +63186,12 @@
     "hash": "sha256-VfWKibh+93U32C3RFch5159Xl9p3mQZFXFET8vYP3ds="
   },
   "video_validator": {
-    "version": "4.1.1",
+    "version": "4.1.2",
     "t3_versions": [
       13
     ],
     "description": "Checks online videos in TYPO3 for availability",
-    "hash": "sha256-5EhQ2qS9OaBaBdYV4Gt7MtfS7tYkjgnCaJR3ph8l6H4="
+    "hash": "sha256-WLnIEx/iFLE+1a+Imu6aaXAQ/969oGaP5j714gHg27w="
   },
   "video_vtt": {
     "version": "2.3.0",
