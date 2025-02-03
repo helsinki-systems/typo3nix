@@ -22320,13 +22320,13 @@
     "hash": "sha256-0QfpVMdp1qpGMSE9f+nVWc7CbvSHpPXq6932bmo/4Mc="
   },
   "gdpr_extensions_com_cm": {
-    "version": "1.0.6",
+    "version": "1.0.7",
     "t3_versions": [
       11,
       12
     ],
     "description": "Ensure GDPR compliance effortlessly. Our advanced scanner meticulously checks your website for cookies, external resources, and security issues. Generate detailed reports for validation and peace of mind.",
-    "hash": "sha256-ii93D7w+ipIKIxBLrWph8FJvDhZjoGXECg/98/fyUzg="
+    "hash": "sha256-2bW+imA2dNBEINGMrAMcUNn6A/14mAPt1yCeSwnQgnY="
   },
   "gdpr_extensions_com_gm": {
     "version": "1.0.0",
@@ -34994,13 +34994,13 @@
     "hash": "sha256-AQZF9Hqa+uAIOlKaAsL3mUQYmZRntXWjaMfFxQiFsMU="
   },
   "microtemplate": {
-    "version": "5.0.1",
+    "version": "5.0.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "One page template with sections and lightbox like sub pages. Demo at: https://microtemplate.t3brightside.com",
-    "hash": "sha256-aDd2FGnuXVTpsHDn1JEmTBA3yvPDHDi1CZwNUz41lrA="
+    "hash": "sha256-mdCAbUxzHMohHb3mYfcVzU9gCYpcjr5KNSJHwfIluKU="
   },
   "miflowplayer": {
     "version": "0.1.9",
@@ -40116,15 +40116,16 @@
     "hash": "sha256-rxC7Xh4SIE84kc6Cr0ncTzVUEAPSdzpH0bG0yoDjWs0="
   },
   "ns_personio": {
-    "version": "1.1.1",
+    "version": "2.0.0",
     "t3_versions": [
       9,
       10,
       11,
-      12
+      12,
+      13
     ],
     "description": "The extension offers various customization options for job listing, detail, and application pages on the frontend. Additionally, a scheduler ensures data synchronization. Directly list, view, and apply to Personio vacancies through the TYPO3 Backend. ",
-    "hash": "sha256-DBUl/XnbddAlK9xL2KLxisrV3pK97ILswC4B6WZJbMo="
+    "hash": "sha256-yof9uX6dMs2pQgePjGRV5/NFrp2IpoZXdck8zwbRtOU="
   },
   "ns_protect_site": {
     "version": "2.0.4",
@@ -53736,12 +53737,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "solr_file_indexer": {
-    "version": "4.0.0",
+    "version": "4.0.1",
     "t3_versions": [
       13
     ],
     "description": "This extension gives you the capability to index individual documents using Solr.",
-    "hash": "sha256-GFs7hss1jhvXkUM0wrw2EiTM5VBV5j+qs/lHEV6je3U="
+    "hash": "sha256-Zqj4kDIgHsb6X5TqUTHlGHcEr0PyeU4yvJR3VsYxtYg="
   },
   "solr_file_indexer_admin": {
     "version": "1.1.0",
