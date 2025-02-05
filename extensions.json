@@ -4226,12 +4226,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "bc_simplerate": {
-    "version": "0.0.2",
+    "version": "0.0.3",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "Rate section of the website",
-    "hash": "sha256-SKKf7LkpuoElhqp8cpCobD8SX9eSV48iJlEH+Ui0DMo="
+    "hash": "sha256-syyKz7z4awpC5oESYgS47SLzgOKPk+OLWQ7g/1scIw8="
   },
   "bc_tourdates": {
     "version": "0.9.1",
@@ -11290,10 +11291,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cs_seo": {
-    "version": "9.0.0",
-    "t3_versions": [],
+    "version": "9.1.0",
+    "t3_versions": [
+      13
+    ],
     "description": "SEO Extension: Enables important onpage features for search engine optimization (SEO). Expands",
-    "hash": "sha256-gzmlkKsqkRgoEDy3wZTH/5RklYzKNG6dMI1k61Q0PO4="
+    "hash": "sha256-OxeO5bW0oKtyeGrNQKRDUVGHNqLdQXzFxYPuL4NtdwU="
   },
   "cs_static_hide": {
     "version": "1.0.1",
@@ -22464,22 +22467,22 @@
     "hash": "sha256-D5KPwbvl8otoTN/XhEUMCSCZOSuElT8QUbMA5tcoOFQ="
   },
   "gdpr_extensions_com_pint_pin": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Add Pinterest Pin to your website and stay GDPR compliant! Your website viewers will be able to manage their cookie preferences and view the content only if consented. Stay GDPR compliant when your website is scanned by any Cookie or GDPR Scanner!",
-    "hash": "sha256-YKM6FO3uAK6CKvNIChCvXaIeURw4XeGrx1I6RTxOBps="
+    "hash": "sha256-SvkMPIvPRbJAkrHDA0xDJM0kBg1XapCla8cxtx/iqs0="
   },
   "gdpr_extensions_com_pint_prof": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Add Pinterest Profile to your website and stay GDPR compliant! Your website viewers will be able to manage their cookie preferences and view the content only if consented. Stay GDPR compliant when your website is scanned by any Cookie or GDPR Scanner!",
-    "hash": "sha256-9JkYzbxr4pYYeVVBWIg26SxizNw5Q11o0xufq2v5rBY="
+    "hash": "sha256-MRcLF3XxB1lTDLg3mWkdisqY1Iji/JhgGwZrpyxYPRQ="
   },
   "gdpr_extensions_com_pinterest": {
     "version": "1.0.0",
@@ -26486,13 +26489,13 @@
     "hash": "sha256-BFdTRWWeRaqtvDUFfouCjp9+is3B2SY0zKVQskUhklI="
   },
   "in2publish_core": {
-    "version": "12.5.7",
+    "version": "12.5.8",
     "t3_versions": [
       11,
       12
     ],
     "description": "Content publishing extension to connect stage and production server",
-    "hash": "sha256-B7P9Ugbe9H+rsktB/r347ls/YAdYHmS46wLEQpPnBx8="
+    "hash": "sha256-97UHq/NIAjhsI9AsW+L7kWFi+CIsgIxefJy0u2KY2Ts="
   },
   "in2rss": {
     "version": "0.2.2",
@@ -34087,13 +34090,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "media_processing": {
-    "version": "0.8.0",
+    "version": "0.9.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Integrates various image processing libraries and SaaS cloud services into TYPO3 by leveraging their APIs to process images.",
-    "hash": "sha256-k39fFJ1HFv6alUN6fuAu4buLTTH0WddRB5c88h2m7TU="
+    "hash": "sha256-jTB41MbfLXmzypP5Xnt4d0DFm4TdFiyHjYmstpAicWA="
   },
   "media_upload": {
     "version": "2.0.0",
@@ -46504,6 +46507,16 @@
     ],
     "description": "Mitarbeiter und Organisationseinheiten aus ProBÜRGER anzeigen",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "rcd_fsc_custom_css": {
+    "version": "2.0.0",
+    "t3_versions": [
+      11,
+      12,
+      13
+    ],
+    "description": "Adds new CSS fields for Fluid Styled Content Content Elements",
+    "hash": "sha256-nEmCLos0hEvwNKiTJhJjaDB2clH6RnpMfPJ1giQMJv0="
   },
   "rcintegrate": {
     "version": "0.1.2",
@@ -63716,13 +63729,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "wacon_cookie_management": {
-    "version": "6.0.2",
+    "version": "6.0.3",
     "t3_versions": [
       12,
       13
     ],
     "description": "WCM is a typo3 extension that enables website visitors to control and manage the usage of cookies on the website (commonly known as \"cookie consent box\"). Thus it helps website owner to be in line with the rules of the General Data Protection Regulation (GDPR) which took effect on 25 May 2018.",
-    "hash": "sha256-98cebfRZzmGNnMFFcAy3dgp5FN1z7Gik+AdwsQtmi28="
+    "hash": "sha256-VlZD0AfovmqKCh+1QoJv5L508ThVZXKr142AN1J1wIM="
   },
   "wacon_csv2html": {
     "version": "2.0.0",
