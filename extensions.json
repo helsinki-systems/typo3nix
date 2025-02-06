@@ -3184,6 +3184,15 @@
     "description": "Provides a FAL local filesystem driver for CDN. See documentation for more details.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "ausstello": {
+    "version": "1.0.0",
+    "t3_versions": [
+      12,
+      13
+    ],
+    "description": "Events managen und kommunizieren, Marketing automatisieren. Einfach, ausstello.",
+    "hash": "sha256-4QQ88udndxsorBPibARBITfhXZb0Jm59sEP2nftPZy0="
+  },
   "auth0": {
     "version": "13.0.0",
     "t3_versions": [
@@ -4345,12 +4354,12 @@
     "hash": "sha256-4NHVxyDRQPEPh9cqJS6qEsyW+3IPE9RzCPnM+VuVEdU="
   },
   "be_secure_pw": {
-    "version": "10.2.0",
+    "version": "10.2.1",
     "t3_versions": [
       11
     ],
     "description": "You can set password conventions to force secure passwords for BE users.",
-    "hash": "sha256-zWqke3mVX7gCJE8nEtJa6JOZu8TwSL0wEQi4gKF7D5c="
+    "hash": "sha256-I+AZXI4z56AQ9BZdv79MXgvFHUrvGDwzXBxT6TUJyeM="
   },
   "be_tablefilter": {
     "version": "0.0.1",
@@ -14214,13 +14223,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "diskusage": {
-    "version": "3.2.0",
+    "version": "4.0.0",
     "t3_versions": [
-      11,
-      12
+      12,
+      13
     ],
     "description": "Extension to visualize disk usage of TYPO3 storages",
-    "hash": "sha256-bypRzoh4fbpbZ12KlV6YK6mP70JUJ5evQN/v0miX8NY="
+    "hash": "sha256-ubS3sEf4DUu0tkSYEg1WPXne0oxUMSfJJJcapMYGxhA="
   },
   "display_cond_user_func": {
     "version": "6.2.0",
@@ -15556,13 +15565,14 @@
     "hash": "sha256-1T15kPimCB4G2vuNkBVcJE8w/nw0fgtrJr8+isf9r1Y="
   },
   "domaincheck": {
-    "version": "2.1.0",
+    "version": "3.0.0",
     "t3_versions": [
       11,
-      12
+      12,
+      13
     ],
     "description": "Frontend plugin to check domains.",
-    "hash": "sha256-OS7En/jIqOeWCB2Y5fKmtverh+hZEYV2CQJ68nsXi0I="
+    "hash": "sha256-/HrmFP7WZHCzKW5pOvmICMmPeKsFub8xvXHfyQoRpNg="
   },
   "domb_fussballde_js": {
     "version": "1.0.3",
@@ -24336,13 +24346,13 @@
     "hash": "sha256-gq0UAEKGdXILEkUk+jVt6p0UJbv+5r9au+PjCsUWiaM="
   },
   "hh_slider": {
-    "version": "0.6.1",
+    "version": "0.6.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "Hauer-Heinrich - Image and Content Slider",
-    "hash": "sha256-COWcMgNYVibvx98droajAUnVNIy5ttKbdwaHf+8CHo4="
+    "hash": "sha256-FiJ4E+jDfyrYupOQcoe5/y6a+SzvQhJ8es4rr+qjQEA="
   },
   "hh_test": {
     "version": "0.2.15",
@@ -32746,13 +32756,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mail": {
-    "version": "3.2.5",
+    "version": "3.2.6",
     "t3_versions": [
       11,
-      12
+      12,
+      13
     ],
     "description": "Powerful newsletter system for TYPO3",
-    "hash": "sha256-UhmDcfxbcRtHbbNuKH5mEfcevIckZQULMhKI3tXJnh8="
+    "hash": "sha256-LCcSUR7WgCB6ksP2UUo5IoN3LGI+uIAWfy1btTbM7KI="
   },
   "mail2news": {
     "version": "2.0.3",
@@ -46243,12 +46254,12 @@
     "hash": "sha256-xu/JTUz/B33FsjZ3nSBiWJ2gu97hDKDCIaVWu7zSCc8="
   },
   "quickedit": {
-    "version": "2.0.0",
+    "version": "3.0.0",
     "t3_versions": [
-      12
+      13
     ],
     "description": "This extension provides a configurable toolbar for editing page properties.",
-    "hash": "sha256-yoUSeL9pDwxmGusWk36COT/KAWcotmKXPaY4TVNpn6M="
+    "hash": "sha256-Jlj0kncVX74n/fQ+wf/TX29AuYtsWFSiE/gHlQ4onp0="
   },
   "quickexplorer": {
     "version": "8.7.0",
