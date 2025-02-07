@@ -20517,12 +20517,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fluid_styleguide": {
-    "version": "2.1.3",
+    "version": "2.2.0",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "Living styleguide for Fluid Components",
-    "hash": "sha256-4Ck31HO8PNWsskkbKvzdb0PWiCgdKmkhhxtoDSiYBNw="
+    "hash": "sha256-QQjkM8tQSufgLJOs2ZgQC987HsHXLRwByVlY7/lbWwY="
   },
   "fluidbackend": {
     "version": "1.0.1",
