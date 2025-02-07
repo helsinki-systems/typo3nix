@@ -3185,13 +3185,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ausstello": {
-    "version": "1.0.0",
+    "version": "1.0.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "Events managen und kommunizieren, Marketing automatisieren. Einfach, ausstello.",
-    "hash": "sha256-4QQ88udndxsorBPibARBITfhXZb0Jm59sEP2nftPZy0="
+    "hash": "sha256-sJ5aZJwEmHBk3uOc8njMgAeodunsY7nloe8RwOYht6M="
   },
   "auth0": {
     "version": "13.0.0",
@@ -14318,13 +14318,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "div2007": {
-    "version": "2.2.5",
+    "version": "2.3.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "This library offers classes and functions to other TYPO3 extensions. Replacement for tslib_pibase methods.",
-    "hash": "sha256-J797xNaPnkBLxLvJMgTIWYBoc+KyuoTf9S/e71HxtWo="
+    "hash": "sha256-IiPFaFY/iKoiOGU6KOrUv8+yz08MnTsC3REJn4C9IiA="
   },
   "diva": {
     "version": "8.7.1",
@@ -28495,13 +28495,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "job_finder": {
-    "version": "4.3.3",
+    "version": "5.0.0",
     "t3_versions": [
-      11,
-      12
+      12,
+      13
     ],
     "description": "Job finder extension including job listing, details, application, microdata and more.",
-    "hash": "sha256-45GOoI4r6XENF6v0nkVGDJlnJesgnFSjZIJvIKHKC68="
+    "hash": "sha256-kOCIWreobEqKN4lXFcRySJ6w6+T82Q5zij5DKc67b9Q="
   },
   "job_market": {
     "version": "2.1.1",
@@ -28686,12 +28686,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "jpfaq": {
-    "version": "13.4.0",
+    "version": "13.4.1",
     "t3_versions": [
       13
     ],
     "description": "Frequently Asked Questions (FAQ) plugin. With categories, on-the-fly search, customer helpfulness tracking and comments.",
-    "hash": "sha256-5/Z9+cyWXqiC4Evlo8A1tXCmlEp5loKhB5HOijbsD90="
+    "hash": "sha256-wN1tng3EO+lDBmClsyUD67hlE+BB+T2GioLXHISLqrI="
   },
   "jpgraph": {
     "version": "0.3.11",
@@ -53759,12 +53759,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "solr": {
-    "version": "13.0.0",
+    "version": "13.0.1",
     "t3_versions": [
       13
     ],
     "description": "Apache Solr for TYPO3 is the enterprise search server you were looking for with special features such as Faceted Search or Synonym Support and incredibly fast response times of results within milliseconds.",
-    "hash": "sha256-iNoXlHf/OyKXep2QxjMkh/pdLYJKiePZFU/fZ9LTZ/I="
+    "hash": "sha256-cUOhfJrTQvI1wzLxQNkNJKzsNWH+zRqOqlhHiNl/XEc="
   },
   "solr_boutique": {
     "version": "1.0.0",
