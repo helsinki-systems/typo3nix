@@ -4235,13 +4235,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "bc_simplerate": {
-    "version": "0.0.3",
+    "version": "0.0.4",
     "t3_versions": [
       12,
       13
     ],
     "description": "Rate section of the website",
-    "hash": "sha256-syyKz7z4awpC5oESYgS47SLzgOKPk+OLWQ7g/1scIw8="
+    "hash": "sha256-6WaYj+oqVqKyG2H2PK0qik7FvzH+bg0RfS+TTiMQ99k="
   },
   "bc_tourdates": {
     "version": "0.9.1",
@@ -53865,14 +53865,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "solver": {
-    "version": "0.2.17",
+    "version": "1.0.1",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "Extends TYPO3's exception handling with AI generated solutions. Problems can also be solved from command line. Several OpenAI parameters are configurable and prompts and solution providers can be customized as desired.",
-    "hash": "sha256-ZACyy/hw6hJiyAbXqK/qjPTE9H2trzTO5b0d5iZPNTo="
+    "hash": "sha256-4DtXgMXD85RHim65qrbky93Jas5S1eDvmhNMogMjjEM="
   },
   "sorp": {
     "version": "0.1.0",
@@ -62713,6 +62713,15 @@
     ],
     "description": "Userlike is a live chat software with which you can chat with the visitors of your website. Offer an outstanding online service, get to know your visitors, and raise your conversion rate! This plugin allows you to embed Userlike into your Typo3 website within seconds. Please be aware that you need an account with Userlike to use this plugin. You can enter the secret key found in your Userlike dashboard in the plugin settings.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "username": {
+    "version": "0.1.1",
+    "t3_versions": [
+      12,
+      13
+    ],
+    "description": "Login provider to login with username only.",
+    "hash": "sha256-oezsYNEtBOeYMGjcr4nFuQCpyBy7bPoOcTWdkUzBFy0="
   },
   "users": {
     "version": "0.9.2",
