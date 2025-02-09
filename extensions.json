@@ -43653,12 +43653,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "photoswipe": {
-    "version": "2.0.9",
+    "version": "2.0.10",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "Enables Photoswipe for TYPO3's native image enlargement. Small js-lib and easy to install. It just works with plain javascript, no jQuery or other frameworks are needed.",
-    "hash": "sha256-dYEB1eRMQFtSXMb0iJFlIEYTEGdDbJWBOHKv3kPopOA="
+    "hash": "sha256-oFNaXHQqKyp7td1ApExAfb9h6KWG778mn5062KRh4hc="
   },
   "php_acceleration": {
     "version": "0.1.1",
