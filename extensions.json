@@ -32963,14 +32963,14 @@
     "hash": "sha256-at4B3Q17Tq8FpS0iDk/j8VFn3jRbYoE5u+7vTFE1a0w="
   },
   "mailqueue": {
-    "version": "0.4.1",
+    "version": "0.4.2",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "Extension to improve TYPO3's mail spooler with additional components",
-    "hash": "sha256-WyogtLW64W2tBEW/Po6EOIs8q42YznEn4GI0sYWSlYI="
+    "hash": "sha256-twFNlzE8A5d8+PQAZlpUAY8WaSNO8FbCDVO8faTVxXg="
   },
   "mailupload": {
     "version": "0.0.1",
@@ -53781,12 +53781,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "solr_file_indexer": {
-    "version": "4.0.1",
+    "version": "4.0.2",
     "t3_versions": [
       13
     ],
     "description": "This extension gives you the capability to index individual documents using Solr.",
-    "hash": "sha256-Zqj4kDIgHsb6X5TqUTHlGHcEr0PyeU4yvJR3VsYxtYg="
+    "hash": "sha256-PpKKE49zxSMB8FmBJ6j/5SihZEdJ9uP4rUJHYrQk8W0="
   },
   "solr_file_indexer_admin": {
     "version": "1.1.0",
