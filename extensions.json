@@ -1098,13 +1098,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "additional_tca": {
-    "version": "1.16.5",
+    "version": "1.16.6",
     "t3_versions": [
       12,
       13
     ],
     "description": "Additional TCA fields and tools",
-    "hash": "sha256-We8e4ozDDYYv5wfQolXAcmRu6xPGzjI5Cnj0EJRMYw8="
+    "hash": "sha256-CCjONM14XEv7RUbuai5ZzIi8qbUMbTcG6UmXY+Qyb/o="
   },
   "addlinkheader": {
     "version": "0.0.4",
@@ -1593,12 +1593,12 @@
     "hash": "sha256-VjFx9kagkYZ+UP502oKGTs64zlOsNZ0JCvSkQosql58="
   },
   "ai_suite": {
-    "version": "13.1.2",
+    "version": "13.2.0",
     "t3_versions": [
       13
     ],
     "description": "Adds a backend module as well as various helper functionalities and features to your TYPO3 backend, which are intended to make the daily work of editors easier and faster with the help of AI.",
-    "hash": "sha256-5dXGPoDaIhNnrSQ1t3/QKPdIqgp7Iq3Z0LZPYr1h5K4="
+    "hash": "sha256-a0Fng7Jty6KS0ghRRDxUsA5qLogOMvlaQDAfwGJtflw="
   },
   "ai_tools": {
     "version": "1.1.0",
@@ -29202,6 +29202,15 @@
     ],
     "description": "Show Text with Button. After user Accepts, add user to FE group or remove him / her from group",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "jv_deepltranslate_piflexform": {
+    "version": "12.4.0",
+    "t3_versions": [
+      11,
+      12
+    ],
+    "description": "Extends the extension wv_deepltranslate to handle translations of flexforms",
+    "hash": "sha256-3lBixahQaCj+KSZlRoqjffx9Hfv7Q2/N1TpMvQ8mbxo="
   },
   "jvb_galleriffic": {
     "version": "0.1.0",
