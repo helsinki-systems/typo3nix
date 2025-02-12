@@ -21668,12 +21668,12 @@
     "hash": "sha256-NHzrR7aKS6oUK8AgCVZt2yu3tgDV5S1VFNFeCZdxS/s="
   },
   "fp_newsletter": {
-    "version": "8.0.1",
+    "version": "8.0.4",
     "t3_versions": [
       13
     ],
     "description": "Plugin for newsletter subscription and unsubscription with double opt in (and double opt out). For: mail or luxletter / tt_address or fe_users. A log is written.",
-    "hash": "sha256-tPe+M8/4pPixZf9hG27+hPSeUZ7w4xNcHLt6VTQLfHc="
+    "hash": "sha256-HSpRx4YaZ1sjYM4xFTenx6L1zy0vZ1ebUUjPxST0bc4="
   },
   "fp_product_features": {
     "version": "0.2.0",
@@ -32217,6 +32217,14 @@
     "description": "http://getid3.sourceforge.net",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "ls_csp_widget": {
+    "version": "1.0.0",
+    "t3_versions": [
+      13
+    ],
+    "description": "Offers a widget to display the most recent content security policy (CSP) frontend violations",
+    "hash": "sha256-xfbd0slvYyiq5sfxj3Ccc64cAGL/zvW39KYQ78AeJPg="
+  },
   "ls_security_headers": {
     "version": "2.1.0",
     "t3_versions": [
@@ -32766,14 +32774,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mail": {
-    "version": "3.2.6",
+    "version": "3.2.7",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "Powerful newsletter system for TYPO3",
-    "hash": "sha256-LCcSUR7WgCB6ksP2UUo5IoN3LGI+uIAWfy1btTbM7KI="
+    "hash": "sha256-s605mQO/P2kDNgMTekK+PBpWaoWlf/Rmn3L0cJ6zS4s="
   },
   "mail2news": {
     "version": "2.0.3",
@@ -41731,13 +41739,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "org": {
-    "version": "11.0.13",
+    "version": "11.0.14",
     "t3_versions": [
       10,
       11
     ],
     "description": "The Organiser is a blog database for the lobby. It provides a lot of tables like boards, calendar, contacts, events, jobs, locations, news, organisers, staff, seminars and services.",
-    "hash": "sha256-qB9co657gJDnDnEOT3fG/HmjGYvhCUPseDYBMQ8fqKM="
+    "hash": "sha256-lhDYFObVRoHEtF26N7NkiKExJfw0E+G+3plqduYfFrg="
   },
   "org_installer": {
     "version": "8.0.22",
@@ -54810,12 +54818,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "startgreen": {
-    "version": "10.4.1",
+    "version": "10.4.2",
     "t3_versions": [
       10
     ],
     "description": "TYPO3 für BÜNDNIS 90/DIE GRÜNEN. TYPO3 GRUENE ist ein Template und liefert eine Website im Design von BÜNDNIS 90/DIE GRÜNEN. Es ist responsive, optimiert für Smartphone, Tablet und Desktop. Mit Launch TYPO3 GRUENE! kannst Du eine schlüsselfertige GRÜNE Website in Betrieb nehmen. Bürgerinitiativen, Verbände und Vereine können mit wenigen Handgriffen das Grüne Design entfernen. Website: https://typo3-gruene.de/",
-    "hash": "sha256-QCyQCVmjn5Y/Mnbg8EL1LryclW+g0I9pBjHK5SvnNLA="
+    "hash": "sha256-0DTCFo0XJWLsZSN2wafJ8DFEyzMyPG1cCipmOs9uxFs="
   },
   "starthansekontor": {
     "version": "0.0.4",
@@ -65922,13 +65930,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "xblog": {
-    "version": "11.3.6",
+    "version": "11.3.7",
     "t3_versions": [
       10,
       11
     ],
     "description": "Quickly assemble a TYPO3 frontend! Publish the data from the tables pages, tt_content and from any other database! No need to set up typoscript.",
-    "hash": "sha256-Iwr3OmA/Q+/uwKKyOJrYqlvf/rfu4glPrhNlBxqtLu8="
+    "hash": "sha256-aPWpCDN2IcPc0XZm3ey/uODVDIT13L18qWnpSZ0Eljc="
   },
   "xdbmysql": {
     "version": "3.0.18",
