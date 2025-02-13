@@ -578,12 +578,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "academic_persons": {
-    "version": "0.2.1",
+    "version": "0.4.0",
     "t3_versions": [
       11
     ],
     "description": "Adds a person database to TYPO3 with plugins to show them in the frontend.",
-    "hash": "sha256-1UMhLehbF/gPFmPnaNTb9aFofFqnU6NxuR9/Ce7Odss="
+    "hash": "sha256-HZqTbTtZkHXLSrPGDHfPMxoQD+1St+5vlVvGmi2MioI="
   },
   "academic_persons_edit": {
     "version": "0.2.0",
@@ -1593,12 +1593,12 @@
     "hash": "sha256-VjFx9kagkYZ+UP502oKGTs64zlOsNZ0JCvSkQosql58="
   },
   "ai_suite": {
-    "version": "13.2.0",
+    "version": "13.3.0",
     "t3_versions": [
       13
     ],
     "description": "Adds a backend module as well as various helper functionalities and features to your TYPO3 backend, which are intended to make the daily work of editors easier and faster with the help of AI.",
-    "hash": "sha256-a0Fng7Jty6KS0ghRRDxUsA5qLogOMvlaQDAfwGJtflw="
+    "hash": "sha256-T+WjnUvsAmUM2GWMY0c7UT4KIPTSWqdkt0RdWL2jBV4="
   },
   "ai_tools": {
     "version": "1.1.0",
@@ -1627,13 +1627,13 @@
     "hash": "sha256-mLO7/zsLctavB/gvr5k6AC7eiEf9qNvZ/9WPt9NvfxY="
   },
   "aimeos": {
-    "version": "24.10.3",
+    "version": "24.10.4",
     "t3_versions": [
       12,
       13
     ],
     "description": "Professional, full-featured and ultra-fast TYPO3 e-commerce extension for online shops, complex B2B applications and #gigacommerce. Turns TYPO3 into the best platform for content commerce and your e-commerce requirements (also available as TYPO3 distribution)",
-    "hash": "sha256-nws2QrnONR3GK7EB9pxJfDEfla92S1wQ/srPUNQkpLQ="
+    "hash": "sha256-tNYAygGS8NfLDkXvittLH3gwcsibJIAOqB8p5NA7Hb0="
   },
   "aimeos_dist": {
     "version": "24.10.2",
@@ -28589,12 +28589,13 @@
     "hash": "sha256-gB9hSSHdJbUpMzT34RDCDyra0mIYqOR5PwnCllfpWqk="
   },
   "jobrouter_connector": {
-    "version": "4.0.0",
+    "version": "4.0.1",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "Connect TYPO3 with the JobRouter® digitalisation platform",
-    "hash": "sha256-Lgpr4GnJ4V76v4yHuUA79p0nZcNBwYgF9Bz/sx2ucnc="
+    "hash": "sha256-/OS2kdVwBYvuyWtdc2aOUHWTBjJrbxVoKoxdwQiA5ok="
   },
   "jobrouter_data": {
     "version": "4.0.0",
@@ -39931,7 +39932,7 @@
     "hash": "sha256-Bkd/9HyCIyhEGv2nsDpknNjxu/55zOfGHQPV07i/DqY="
   },
   "ns_event": {
-    "version": "2.0.0",
+    "version": "2.0.1",
     "t3_versions": [
       9,
       10,
@@ -39940,7 +39941,7 @@
       13
     ],
     "description": "TYPO3 Event Manager is a full-featured events management extension that lets you create multiple events and get them listed on your website. TYPO3  Event Manager provides a user-friendly interface that allows you to effortlessly create and customize events. Specify event details such as date, time, location, ticket types, and more in a matter of minutes.",
-    "hash": "sha256-Igo0MLpfD5Bn75SurWBI3xWtkucD6E1hnduyq6pw5rA="
+    "hash": "sha256-3X0kJOKfrtv4SSKOeDWUKsmkC6H0/M/TssJceWKNIbE="
   },
   "ns_ext_compatibility": {
     "version": "12.0.0",
