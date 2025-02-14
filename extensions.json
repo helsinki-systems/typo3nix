@@ -7180,12 +7180,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cart": {
-    "version": "9.4.1",
+    "version": "11.0.0",
     "t3_versions": [
-      12
+      13
     ],
     "description": "Shopping Cart(s) for TYPO3",
-    "hash": "sha256-+xKkSNN7iWJRXkgOa/MsgVXppN3C7cNTi5ZthARprGM="
+    "hash": "sha256-v9wZhO/ZVINnsrc4A3G/oS/y/bytxsDf5EW1ntst5e4="
   },
   "cart_basket_image": {
     "version": "1.0.3",
@@ -7210,13 +7210,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cart_books": {
-    "version": "4.0.1",
+    "version": "5.0.0",
     "t3_versions": [
-      10,
-      11
+      12
     ],
     "description": "Shopping Cart(s) for TYPO3 - Book Extension",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-VXz50a3ZkTkgFBe4Nqt27O3lrmQmx36KmoMPb/bOgM4="
   },
   "cart_events": {
     "version": "4.0.1",
@@ -7276,12 +7275,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cart_products": {
-    "version": "5.0.5",
+    "version": "7.0.0",
     "t3_versions": [
-      12
+      13
     ],
     "description": "Shopping Cart(s) for TYPO3 - Products",
-    "hash": "sha256-MjAJSdjUPpZt+O5m79BcHEtNG7RBuFbsE37OX/TRuUk="
+    "hash": "sha256-/50xcGYQ8EkoOexJBbqumHWiNOU4Bj1CBhXTnYXNHsc="
   },
   "cart_saferpay": {
     "version": "3.0.1",
@@ -45790,12 +45789,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "pwd_security_check": {
-    "version": "4.0.0",
+    "version": "4.0.1",
     "t3_versions": [
       12
     ],
     "description": "Symfony Command and System Report to check BE and FE user passwords against a list of popular passwords",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-1CU03ZiPLONaOwwEj6Y8tm35M4sjqymQmSIZ6YcxMLc="
   },
   "pwo_roundabout": {
     "version": "1.0.0",
@@ -55700,13 +55699,13 @@
     "hash": "sha256-k5AQMkRfgygEeUf0zi5JE8WHbzLvR6ykPA+Fb/fM0Cs="
   },
   "sup_header": {
-    "version": "1.0.3",
+    "version": "1.0.4",
     "t3_versions": [
       12,
       13
     ],
     "description": "Add a button to TCA fields that adds sup, sub or other html",
-    "hash": "sha256-Y3G5iK+tteCSVn4jRuIWQLKTjcefmuchbpM8rOdbHPE="
+    "hash": "sha256-2Hop2MQCsPVRfw9rs8eZLjXfHYNrSww5Xn9hYbSrKLE="
   },
   "superfasttypo3": {
     "version": "0.1.6",
@@ -58607,16 +58606,6 @@
     ],
     "description": "test",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
-  },
-  "testextension198": {
-    "version": "1.0.1",
-    "t3_versions": [
-      11,
-      12,
-      13
-    ],
-    "description": "Utility to easily maintain and create your TCA forms",
-    "hash": "sha256-Y1Vjq1xUEpgq/cEnaW7Yg7RUh3atE2SdpV6E1hu0vgw="
   },
   "testimonial": {
     "version": "0.1.0",
@@ -62289,15 +62278,6 @@
     "description": "CRUD Basic Database Example (Create, Read, Update and Delete) with Extbase and Fluid.\r",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
-  "typo3_encore": {
-    "version": "2.3.1",
-    "t3_versions": [
-      9,
-      10
-    ],
-    "description": "Webpack Encore from Symfony for TYPO3",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
-  },
   "typo3_feed": {
     "version": "2.0.1",
     "t3_versions": [],
@@ -65132,12 +65112,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "wr_deepl_translate": {
-    "version": "1.1.5",
+    "version": "1.2.0",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "Automatic translations of entire TYPO3 websites with DeepL. Quick and easy. Without extra languages in the backend and without headaches.",
-    "hash": "sha256-uuWVNmUU3XV3aJzLPFQxHiCwrg9j4/HaPSQDF+I8AIo="
+    "hash": "sha256-OeQzLt13irgpOANgt+V2RZ/nDWJZl0w9cS9Wquv9wrg="
   },
   "wrg_anotherbelogin": {
     "version": "0.0.4",
@@ -66628,14 +66609,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "yoast_seo": {
-    "version": "10.1.0",
+    "version": "11.0.0",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "Optimise your website for search engines with Yoast SEO for TYPO3. With this extension you get all the technical SEO stuff you need and will help editors to write high quality content.",
-    "hash": "sha256-Bv4hqhcyJKmD4ZUrbDh8Yhw8wE04OaTc7hUsCEK1Kp0="
+    "hash": "sha256-Lc2Y8gXax/aak6rrZKd/mK+eTpHATkZBbymi1SER8AA="
   },
   "yoo_blockimage": {
     "version": "1.0.0",
