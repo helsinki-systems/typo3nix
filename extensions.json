@@ -7376,12 +7376,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "category_treebuilder": {
-    "version": "3.1.0",
+    "version": "3.2.0",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "Build and manage your category tree.",
-    "hash": "sha256-mIi9Cf/j1q6SBxMLMOkj5Lzj2ioiVvyZnMwSQ4ntcqw="
+    "hash": "sha256-3OthDkPmkF2mm6rfRzEJnu9FTfW4mu0KsHchkanqRaA="
   },
   "category_types": {
     "version": "1.0.1",
