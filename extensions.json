@@ -13076,13 +13076,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "dbdoctor": {
-    "version": "0.6.2",
+    "version": "0.6.3",
     "t3_versions": [
       11,
       12
     ],
     "description": "Find and fix TYPO3 database inconsistencies",
-    "hash": "sha256-9KBtl5bGfWTAGvyY/Uwy72zVrvPDtUz9vJX5GBXFu0w="
+    "hash": "sha256-7NV6TzoeN3WZoWmb3X8GBCD0jlcvnxdqrxabBlDuqQU="
   },
   "dbdownloadtracker": {
     "version": "2.0.0",
@@ -45789,12 +45789,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "pwd_security_check": {
-    "version": "4.0.1",
+    "version": "5.0.0",
     "t3_versions": [
-      12
+      13
     ],
     "description": "Symfony Command and System Report to check BE and FE user passwords against a list of popular passwords",
-    "hash": "sha256-1CU03ZiPLONaOwwEj6Y8tm35M4sjqymQmSIZ6YcxMLc="
+    "hash": "sha256-kyHvAhT2p+GnWSYBLAKFtLOiAEdEJX8FHwD6JBgoXS8="
   },
   "pwo_roundabout": {
     "version": "1.0.0",
