@@ -10023,14 +10023,14 @@
     "hash": "sha256-2YlJYJUPnk62WA6ebh03szvjhLPY3cxd1FcEFDJlnOI="
   },
   "content_defender": {
-    "version": "3.5.1",
+    "version": "3.5.2",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "Define allowed or denied content element types in your backend layouts",
-    "hash": "sha256-JMblQthWXBPAocwRU2DdtXHZadtDJUV3rKjLTRWFLgA="
+    "hash": "sha256-iQWFKJnMuvUzyRzsa6hkUHWqYwQel3N1d0T4LhXK+GY="
   },
   "content_designer": {
     "version": "3.0.7",
@@ -13076,13 +13076,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "dbdoctor": {
-    "version": "0.6.3",
+    "version": "1.0.0",
     "t3_versions": [
-      11,
-      12
+      12,
+      13
     ],
     "description": "Find and fix TYPO3 database inconsistencies",
-    "hash": "sha256-7NV6TzoeN3WZoWmb3X8GBCD0jlcvnxdqrxabBlDuqQU="
+    "hash": "sha256-8ac2I5wzYxSlJiw9cuh78j4WW3V72QC3kduRSp9kYKY="
   },
   "dbdownloadtracker": {
     "version": "2.0.0",
@@ -15668,14 +15668,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "dp_cookieconsent": {
-    "version": "13.0.1",
+    "version": "13.0.2",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "Enable a cookie consent box. Let you visitors control the usage of cookies and load script or content after a consent. (ePrivacy, TTDSG)",
-    "hash": "sha256-1owsvuv+G0rrfXXMFPuUHVmwp9PDHEFzztWnbVUnQ8Y="
+    "hash": "sha256-sksJ5csScnDYQ+oj+YnEZ0iOoXQRHgCfXuZkvm8zns4="
   },
   "dp_editpanel": {
     "version": "0.0.2",
@@ -26589,7 +26589,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "indexed_search_autocomplete": {
-    "version": "1.0.12",
+    "version": "12.1.13",
     "t3_versions": [
       9,
       10,
@@ -26597,7 +26597,7 @@
       12
     ],
     "description": "Extends the TYPO3 Core Extension Indexed_Search searchform with an autocomplete feature.",
-    "hash": "sha256-F/iLLk13fqM/ZOWTNMDdSGbQrHAOEFEeSo+YYyiKm+s="
+    "hash": "sha256-jR2R2ANj9cOXynj+XtEBNdomGC0gqvZvHBnJjzNmr8s="
   },
   "indexed_search_fix": {
     "version": "0.1.0",
