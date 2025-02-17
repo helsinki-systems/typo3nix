@@ -13076,13 +13076,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "dbdoctor": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "Find and fix TYPO3 database inconsistencies",
-    "hash": "sha256-8ac2I5wzYxSlJiw9cuh78j4WW3V72QC3kduRSp9kYKY="
+    "hash": "sha256-joDQ4n7OTM2Nuj1/6EHSSVc+8241Q25nTDxAWbU2CJ0="
   },
   "dbdownloadtracker": {
     "version": "2.0.0",
@@ -13139,12 +13139,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "dce": {
-    "version": "3.2.4",
+    "version": "3.2.6",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "Best flexform based content elements since 2012. With TCA mapping feature, simple backend view and much more features which makes it super easy to create own content element types.",
-    "hash": "sha256-KGOlk2gFsQFgTTCLf8WNJAzt1itjw9wNEkhx9jLeZ20="
+    "hash": "sha256-fF+J8n9uoZIYhqBx6NgvtL50TKyTbhOlJGqMQFb00do="
   },
   "dcformcreator": {
     "version": "0.0.3",
@@ -19817,14 +19818,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "filefill": {
-    "version": "4.3.2",
+    "version": "4.4.0",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "Find and fetch missing local files from different remotes",
-    "hash": "sha256-XNsd1cXel86KlQOTUy0bhfcV/EH0i7r0DunY3LND8v4="
+    "hash": "sha256-Qv6ybzVNzTDwgWiiFI52/2KW2EkHq3jGS3zb+wqtqnw="
   },
   "filefill_payload": {
     "version": "0.6.0",
@@ -26500,13 +26501,13 @@
     "hash": "sha256-BFdTRWWeRaqtvDUFfouCjp9+is3B2SY0zKVQskUhklI="
   },
   "in2publish_core": {
-    "version": "12.5.8",
+    "version": "12.5.9",
     "t3_versions": [
       11,
       12
     ],
     "description": "Content publishing extension to connect stage and production server",
-    "hash": "sha256-97UHq/NIAjhsI9AsW+L7kWFi+CIsgIxefJy0u2KY2Ts="
+    "hash": "sha256-aADXVbyKufvUOdA7xHa5STHqB50dhV+Xxu+LSrR+ygM="
   },
   "in2rss": {
     "version": "0.2.2",
@@ -57162,13 +57163,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "t3sbootstrap": {
-    "version": "5.3.20",
+    "version": "5.3.21",
     "t3_versions": [
       12,
       13
     ],
     "description": "Startup extension to use bootstrap 5 classes, components and more out of the box. Example and info: www.t3sbootstrap.de",
-    "hash": "sha256-Tyiie5qA60ty4PwrXSTcuzS1fraCZihyaAuDjxOch1E="
+    "hash": "sha256-Zj/KqldncdYOHdwh7IyqR81rfMmks1lfeDZi2CLA3EE="
   },
   "t3sbootstrap_grid": {
     "version": "4.0.0",
@@ -57931,12 +57932,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "taskqueue": {
-    "version": "9.0.1",
+    "version": "9.2.0",
     "t3_versions": [
       12
     ],
     "description": "Provides a task queue for other extensions to use.",
-    "hash": "sha256-+k+8G79XSClxIkW+xg7iRkU7tzifT4V1zlLIwS7SUlk="
+    "hash": "sha256-6ceJpQJmUI8BmRQqwpVU564K79ouknPSiBKND9SO5bU="
   },
   "taxajax": {
     "version": "1.3.0",
@@ -62325,13 +62326,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "typo3_maileon_integration": {
-    "version": "3.2.0",
+    "version": "3.2.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "Add double-opt-in newsletter subscription form connected with Maileon to your Typo3 sites",
-    "hash": "sha256-UEEqsEBWC43hXTIyQ7V2i7NHNAduJQ1Fr7Fj4gjyiX4="
+    "hash": "sha256-VyuHkHsSPC4Q3E4/SfhNaxI7kOymxwQGdnbEs2TxT8E="
   },
   "typo3_ohdear_health_check": {
     "version": "12.4.1",
