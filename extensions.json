@@ -3185,13 +3185,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ausstello": {
-    "version": "1.0.2",
+    "version": "1.0.4",
     "t3_versions": [
       12,
       13
     ],
     "description": "Events managen und kommunizieren, Marketing automatisieren. Einfach, ausstello.",
-    "hash": "sha256-sJ5aZJwEmHBk3uOc8njMgAeodunsY7nloe8RwOYht6M="
+    "hash": "sha256-oWM7snjk1euvzPUYzkEvnMMupE9Qm0Rs20rKuyYx1HI="
   },
   "auth0": {
     "version": "13.0.0",
@@ -13076,13 +13076,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "dbdoctor": {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "Find and fix TYPO3 database inconsistencies",
-    "hash": "sha256-joDQ4n7OTM2Nuj1/6EHSSVc+8241Q25nTDxAWbU2CJ0="
+    "hash": "sha256-Ojw/V9vHt9PRmoWapi4mq7hQJ4zoLOxJ1AowUsbGS1A="
   },
   "dbdownloadtracker": {
     "version": "2.0.0",
@@ -21669,12 +21669,12 @@
     "hash": "sha256-NHzrR7aKS6oUK8AgCVZt2yu3tgDV5S1VFNFeCZdxS/s="
   },
   "fp_newsletter": {
-    "version": "8.0.4",
+    "version": "8.1.0",
     "t3_versions": [
       13
     ],
     "description": "Plugin for newsletter subscription and unsubscription with double opt in (and double opt out). For: mail or luxletter / tt_address or fe_users. A log is written.",
-    "hash": "sha256-HSpRx4YaZ1sjYM4xFTenx6L1zy0vZ1ebUUjPxST0bc4="
+    "hash": "sha256-OyYKkFlGmq9jCyE0SPG/7w9GNeZcn0Bv/hmdHvQTVGs="
   },
   "fp_product_features": {
     "version": "0.2.0",
@@ -32776,14 +32776,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mail": {
-    "version": "3.2.7",
+    "version": "3.2.8",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "Powerful newsletter system for TYPO3",
-    "hash": "sha256-s605mQO/P2kDNgMTekK+PBpWaoWlf/Rmn3L0cJ6zS4s="
+    "hash": "sha256-GrElLtBW+NeGRo+CPjDAOSe8E7A86/V3h6LE/vq554w="
   },
   "mail2news": {
     "version": "2.0.3",
@@ -40248,14 +40248,15 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ns_t3ai": {
-    "version": "2.0.1",
+    "version": "2.0.2",
     "t3_versions": [
       10,
       11,
-      12
+      12,
+      13
     ],
     "description": "Meet T3AI- Experience AI-powered Models with ChatGPT, Gemini, Cloude & Azure AI for content generation, advanced SEO optimization, creative media production, easy language translation, and more—all within a few clicks, directly from your TYPO3 backend. Maximize your productivity by saving up to four times your time with T3AI.",
-    "hash": "sha256-UIhobi3TjLBMJT3wLXqTjETstRyk7i9MqFt8vtOmqWo="
+    "hash": "sha256-p9NkLUwME/aWKWfdM1ZhB2pnjWrzcOa0zz2kDd28VFI="
   },
   "ns_theme_agency": {
     "version": "13.0.4",
@@ -63425,13 +63426,13 @@
     "hash": "sha256-jWR/gqSKGzy0yv3fdtX0Dp3GycnE25dhtg/sCI8t/hI="
   },
   "vite_asset_collector": {
-    "version": "1.13.0",
+    "version": "1.14.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Bundle your TYPO3 frontend assets with Vite",
-    "hash": "sha256-bVD/03aktix5TrftkUnvPyVRUSgAUCWodrF5T9Wy0cE="
+    "hash": "sha256-zGuQHpUS8JMV6c5nsdPNamtBLMta8BNBoibfWq4d6gg="
   },
   "vjchat": {
     "version": "0.3.4",
