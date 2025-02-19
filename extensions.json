@@ -618,14 +618,15 @@
     "hash": "sha256-T0y6c/asLUIuO8IBscaJ+F50IHAiSeuZFbpt3Mlk24A="
   },
   "accelerator": {
-    "version": "12.4.21",
+    "version": "13.4.0",
     "t3_versions": [
       10,
       11,
-      12
+      12,
+      13
     ],
     "description": "Speed up your TYPO3 installation: add Critical CSS (Above The Fold) inline, minify the HTML of your website, use subdomains as CDN to reduce page load, manage proxy-caching (e.g with Varnish) via page-properties, reduce database size when storing JSON-arrays with persisted objects to the database",
-    "hash": "sha256-+/A0D3hsN4oYKQkAuelqJk5X1rr4lrkwzZjCNVUCWyM="
+    "hash": "sha256-6mIrI5/YO4RLnsU3N6IoQuV5itCheEGym5snCUTulAc="
   },
   "access_control_sync": {
     "version": "0.2.7",
@@ -1593,12 +1594,12 @@
     "hash": "sha256-VjFx9kagkYZ+UP502oKGTs64zlOsNZ0JCvSkQosql58="
   },
   "ai_suite": {
-    "version": "13.3.0",
+    "version": "13.3.1",
     "t3_versions": [
       13
     ],
     "description": "Adds a backend module as well as various helper functionalities and features to your TYPO3 backend, which are intended to make the daily work of editors easier and faster with the help of AI.",
-    "hash": "sha256-T+WjnUvsAmUM2GWMY0c7UT4KIPTSWqdkt0RdWL2jBV4="
+    "hash": "sha256-V6HmuMMIjWFo5hSY2c5fMtZP+CSLyg0b+/zj+SMSs9I="
   },
   "ai_tools": {
     "version": "1.1.0",
@@ -10608,6 +10609,17 @@
     ],
     "description": "Obligate copyright for images",
     "hash": "sha256-DCvKiO52hfkV4m7w1U8gjidOCZdAJWoAZ8mvqsoINWA="
+  },
+  "copyright_guardian": {
+    "version": "13.4.0",
+    "t3_versions": [
+      10,
+      11,
+      12,
+      13
+    ],
+    "description": "Manages the copyright details of images and other media and offers a convenient way of displaying these automatically and directly on the page on which the media is used. In addition, a list of all media used and the associated copyright information can be output",
+    "hash": "sha256-bReU3zxgkHUa4PHaBfeCBpMgKIYp6RrXPiEAWeQdRgo="
   },
   "core_permalogin": {
     "version": "0.0.1",
@@ -24818,6 +24830,14 @@
     "description": "Add Audio/Video content to a page using HTML5 syntax.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "html5_patch": {
+    "version": "12.0.1",
+    "t3_versions": [
+      12
+    ],
+    "description": "This extension patches TYPO3 to eliminate non-HTML5-standard self-closing tags.",
+    "hash": "sha256-5buCMKaDHoIjP9GFPDnghwt3NWP87Ujf+B4NbSI5KP0="
+  },
   "html5_readykit": {
     "version": "0.3.1",
     "t3_versions": [
@@ -30277,14 +30297,15 @@
     "hash": "sha256-t42MVuype0xnDhbTALO5MxQ26V/TjDlPsHCbb1f2TTQ="
   },
   "klarokratie": {
-    "version": "12.4.19",
+    "version": "13.4.0",
     "t3_versions": [
       10,
       11,
-      12
+      12,
+      13
     ],
     "description": "Includes Klaro! Consent-Manager into TYPO3. Completely file-based configuration for versioning without having to take care of database-entries. This extension automatically adds a consent-overlay to embedded YouTube- and Vimeo-Videos.",
-    "hash": "sha256-jLS2ayyiPKLDc+IMnTm5SQ5sNyqI3xt5H4Gd7GBClZE="
+    "hash": "sha256-cpL+t+xY4Kexcv10i6GyEWYDCzX2lsJJaEtncUodNXA="
   },
   "km_dam_extension": {
     "version": "1.0.2",
@@ -33202,12 +33223,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "maps2": {
-    "version": "11.0.2",
+    "version": "12.0.0",
     "t3_versions": [
-      12
+      13
     ],
     "description": "Create maps with Marker, Area, Routes or Radius based on Google Maps or OpenStreetMap",
-    "hash": "sha256-culaQ2Wdj7AwQq9P6p7CSMGTpYLSPGmFpsGl0YCm0Vw="
+    "hash": "sha256-QVRIefBYsOdveNcARcKKWBNBsCdPICR7XDXCoRhulxU="
   },
   "mapsapi3": {
     "version": "0.4.1",
@@ -38674,6 +38695,15 @@
     "description": "This extension allows user to post comment on particular news, rate the comments, reply to the comments, searching comments and sorting of comments. There are various typoscript settings available to manage the extension.There is also one user friendly backend module is available to manage comments. This extension is compatible only with News system Extension.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "news_content_columns": {
+    "version": "1.0.1",
+    "t3_versions": [
+      12,
+      13
+    ],
+    "description": "Render the additional content elements of news in your desired column",
+    "hash": "sha256-L9hFiy8ScJSK7UA04+gqdRBF7xfkfZRIE0C9u5oFGA8="
+  },
   "news_dam_con": {
     "version": "0.2.0",
     "t3_versions": [],
@@ -42565,13 +42595,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "parsedown_extra": {
-    "version": "4.0.0",
+    "version": "4.0.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "Provides a content element which displays markdown files. Parses email links with TYPO3 encryption. ViewHelper for parsing Markdown from individual sources. Defining abbreviations globally by using TypoScript. Code Highlighting.",
-    "hash": "sha256-UuYQ2jg2JYpZkpne4ElP52n0DcbIS5zRlW8f9sOnw7I="
+    "hash": "sha256-d71NgCA4Y0brQPZiANSa6ozttfguLxM3v7rYv0UkOiA="
   },
   "partner": {
     "version": "0.5.21",
