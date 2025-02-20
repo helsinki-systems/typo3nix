@@ -3463,7 +3463,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "autotranslate": {
-    "version": "1.2.3",
+    "version": "1.3.1",
     "t3_versions": [
       10,
       11,
@@ -3471,7 +3471,7 @@
       13
     ],
     "description": "This extension provides automatic translation of pages and content elements via DeepL API.",
-    "hash": "sha256-PechA1DY8DixVCtU/H9i5g+fSUBXobh1oNll7XNl1HA="
+    "hash": "sha256-G60zTvMYPfTr4NXW0+eemmvP1qdoVfc1Ywtv2fGfTqU="
   },
   "autoupload_dummy": {
     "version": "1.0.2",
@@ -7181,12 +7181,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cart": {
-    "version": "11.0.0",
+    "version": "11.0.1",
     "t3_versions": [
       13
     ],
     "description": "Shopping Cart(s) for TYPO3",
-    "hash": "sha256-v9wZhO/ZVINnsrc4A3G/oS/y/bytxsDf5EW1ntst5e4="
+    "hash": "sha256-kbDrIWzl5qETYN+X/Pfs438QtUYG2dnhO3ltAb/h1k4="
   },
   "cart_basket_image": {
     "version": "1.0.3",
@@ -7276,12 +7276,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cart_products": {
-    "version": "7.0.0",
+    "version": "7.0.1",
     "t3_versions": [
       13
     ],
     "description": "Shopping Cart(s) for TYPO3 - Products",
-    "hash": "sha256-/50xcGYQ8EkoOexJBbqumHWiNOU4Bj1CBhXTnYXNHsc="
+    "hash": "sha256-AYna6XYa8oLOnzA4a5AL2o4earvMgW//BNjCeQW/dqM="
   },
   "cart_saferpay": {
     "version": "3.0.1",
@@ -19732,12 +19732,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fidelo": {
-    "version": "4.4.0",
+    "version": "4.4.1",
     "t3_versions": [
       12
     ],
     "description": "",
-    "hash": "sha256-FJOKS+U9QwAw1nWsMFsoHdCfOj+XpEn8PneIUqAV4Qg="
+    "hash": "sha256-9Y0O7d/p8NvRfoXZH/W+aUf2cKOr/iBfAtpDvZTt2PQ="
   },
   "fieldencryption": {
     "version": "1.0.0",
@@ -20483,13 +20483,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fluid_fpdf": {
-    "version": "2.7.4",
+    "version": "2.7.5",
     "t3_versions": [
       12,
       13
     ],
     "description": "This extension provides you a complete set of ViewHelpers for dealing with FPDF by using Fluid. You can use the ViewHelpers easily in own Extensions just by defining the fpdf-Namespace. Additionally you are able to use the build in plugin, for displaying predefined PDF. This plugin offers you automatically all available PDFs.",
-    "hash": "sha256-R4u8CNEo891+m1w1SCZgC0xRFt6qo/n8D6C+N9Q15lY="
+    "hash": "sha256-vRiZgBgLtXRVGlqmVZqytpK76tHuM7DoFTt9YwqfaQ4="
   },
   "fluid_info": {
     "version": "0.1.0",
@@ -33416,13 +33416,13 @@
     "hash": "sha256-l8fxE8FQdA5I8LlsMyynHlNXEJMPIsErmzvvDGNvw/c="
   },
   "mask_permissions": {
-    "version": "3.1.0",
+    "version": "4.0.0",
     "t3_versions": [
-      11,
-      12
+      12,
+      13
     ],
     "description": "Never configure mask permissions for editors manually ever again!",
-    "hash": "sha256-VwOd56u2XqAjNarsOij9Riy+7KWx5YkRWXvhM5i2WaI="
+    "hash": "sha256-gLdERazh8HCRvOJyBPlsC+uBtJe3OD0fw2pdG4gqx+Q="
   },
   "mask_to_content_blocks": {
     "version": "1.0.1",
@@ -38696,13 +38696,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "news_content_columns": {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "Render the additional content elements of news in your desired column",
-    "hash": "sha256-L9hFiy8ScJSK7UA04+gqdRBF7xfkfZRIE0C9u5oFGA8="
+    "hash": "sha256-ua8d9wjZjyX/+YnwOU/jl3cqJqEKECnlHcCwfbOMiBU="
   },
   "news_dam_con": {
     "version": "0.2.0",
@@ -45703,12 +45703,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "publications": {
-    "version": "6.1.0",
+    "version": "6.2.0",
     "t3_versions": [
       12
     ],
     "description": "Publication reference extension with im- and export with bibtex and xml files",
-    "hash": "sha256-8Cr5FqoEaDR1xcKFyV1eD6E0bJlpIZe4JM32BkChW1M="
+    "hash": "sha256-Pud1bA/YVnujOvZYhTLlEXhsAZpxJXehDIuZmpkCGFI="
   },
   "publish": {
     "version": "11.1.1",
