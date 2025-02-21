@@ -654,6 +654,17 @@
     "description": "Extension to register additional user access restrictions (IP, etc.)",
     "hash": "sha256-/OnW5XKXLs6VA8rZ3O82Ft0kH8ivbaPNx5a/+IolZBE="
   },
+  "accessibility4typo3": {
+    "version": "1.0.3",
+    "t3_versions": [
+      10,
+      11,
+      12,
+      13
+    ],
+    "description": "Accessibility tool that integrates into your website to enhance usability for all visitor utilizing AI",
+    "hash": "sha256-kdYc7wM17qw+KLMsCTVzWL2FW+gmVoJWYP/IeaK9HdA="
+  },
   "accessibility_check": {
     "version": "0.1.0",
     "t3_versions": [],
@@ -1099,13 +1110,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "additional_tca": {
-    "version": "1.16.6",
+    "version": "1.16.8",
     "t3_versions": [
       12,
       13
     ],
     "description": "Additional TCA fields and tools",
-    "hash": "sha256-CCjONM14XEv7RUbuai5ZzIi8qbUMbTcG6UmXY+Qyb/o="
+    "hash": "sha256-eIMw0dzYxI2svQplNshrL4rDc8M9R7vo0YHGQk9UwOU="
   },
   "addlinkheader": {
     "version": "0.0.4",
@@ -7276,12 +7287,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cart_products": {
-    "version": "7.0.1",
+    "version": "7.0.2",
     "t3_versions": [
       13
     ],
     "description": "Shopping Cart(s) for TYPO3 - Products",
-    "hash": "sha256-AYna6XYa8oLOnzA4a5AL2o4earvMgW//BNjCeQW/dqM="
+    "hash": "sha256-E7+zag7x8JDDu21Psa9aUWxku3ipxORpx14oJHg0C3o="
   },
   "cart_saferpay": {
     "version": "3.0.1",
@@ -9041,12 +9052,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "clubdirectory": {
-    "version": "7.0.1",
+    "version": "8.0.0",
     "t3_versions": [
-      12
+      13
     ],
     "description": "Manage and display clubs",
-    "hash": "sha256-CyYYDj2w3a9nPtj3bnZfWMLJ3YAwhqhr0wga+jqzUX0="
+    "hash": "sha256-2LK8BvUmfZOl87jK2C3LKvSPWFQSHDjMeo59gxRjRUs="
   },
   "clubmanager": {
     "version": "1.1.10",
@@ -38696,13 +38707,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "news_content_columns": {
-    "version": "1.0.2",
+    "version": "1.0.3",
     "t3_versions": [
       12,
       13
     ],
     "description": "Render the additional content elements of news in your desired column",
-    "hash": "sha256-ua8d9wjZjyX/+YnwOU/jl3cqJqEKECnlHcCwfbOMiBU="
+    "hash": "sha256-TXT7x+3IlT/OKg0ilNGHWJzX7ZmVtIR6UrAz/ITE9YI="
   },
   "news_dam_con": {
     "version": "0.2.0",
