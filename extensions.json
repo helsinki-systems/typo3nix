@@ -11767,13 +11767,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ctype_manager": {
-    "version": "12.0.1",
+    "version": "13.0.0",
     "t3_versions": [
-      11,
-      12
+      13
     ],
     "description": "This TYPO3 extension implements a backend module through which available content and plugin types can be configured on page level.",
-    "hash": "sha256-kHH45Xz2F8pMu/QWWyYxJXqIa6dAI+h2Qo2tgmh2WpE="
+    "hash": "sha256-w0UOD93AXA5H2RPY6WyoDNGnbuMiesAKMbjEjEDfoHE="
   },
   "cundd_composer": {
     "version": "4.1.0",
@@ -13066,13 +13065,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "db_rector": {
-    "version": "12.3.0",
+    "version": "13.0.0",
     "t3_versions": [
-      11,
-      12
+      13
     ],
-    "description": "This TYPO3 extension is an typo3-rector adapter with backend module to refactor sys_template.config data.",
-    "hash": "sha256-vVkqWFaeoGSFl3KcIadFyOV9jjcMV0XfPo6JvJDWItI="
+    "description": "This TYPO3 extension is an typo3-fractor adapter with backend module to refactor sys_template.config data.",
+    "hash": "sha256-Il6z0GFd2Ah0IPo87acPM/CLFIARSJirADTn9xcJEo0="
   },
   "dbal": {
     "version": "8.4.1",
@@ -42156,6 +42154,14 @@
     ],
     "description": "Page Creator is a tool for creating many pages quickly and easily",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "page_link_insights": {
+    "version": "1.0.3",
+    "t3_versions": [
+      13
+    ],
+    "description": "A TYPO3 extension that adds a backend module with a D3.js force diagram visualization for understanding page relationships.",
+    "hash": "sha256-ndQiNHHn4yS+UTGtOrQiW7E6FpJ28jc2coSV3VJQS8Y="
   },
   "page_params": {
     "version": "1.0.6",
