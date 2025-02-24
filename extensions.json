@@ -47292,6 +47292,15 @@
     "description": "This extension allows you to reserve tickets for one or more persons using a period table and a form. Each reservation has it’s own QR Code that can be scanned at the event.",
     "hash": "sha256-Y+9lG6cxXXeMzn0IdmncZ5dhtAVbBPKFiC/lrxrYLUY="
   },
+  "reset_scheduler": {
+    "version": "1.0.1",
+    "t3_versions": [
+      12,
+      13
+    ],
+    "description": "Reset Scheduler Tasks",
+    "hash": "sha256-9SOLL2fuuGXL4Z1FTZ3CunD5iv7SsjHoX9aUcW9g1nw="
+  },
   "resizable_modals": {
     "version": "1.0.1",
     "t3_versions": [
@@ -50794,10 +50803,12 @@
     "hash": "sha256-gv9iKIgL65/r8UUGXl8Xud1PkyxBrs/tFgp8l+ngCcY="
   },
   "sf_event_mgt_contentelements": {
-    "version": "3.0.0",
-    "t3_versions": [],
+    "version": "3.0.1",
+    "t3_versions": [
+      13
+    ],
     "description": "Adds a relation field for content elements to events",
-    "hash": "sha256-FLlrVPXAuOUpTRfRTwuGwx2dSRQZ1gTELSlQrKadFQU="
+    "hash": "sha256-CiaBhH135iUOF3Xz2solswRRohW8GKbeCcHvz/SJtbs="
   },
   "sf_event_mgt_indexer": {
     "version": "5.0.0",
