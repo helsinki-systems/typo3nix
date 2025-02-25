@@ -559,13 +559,13 @@
     "hash": "sha256-d2ydtyPZg9WAYXoVWSaP1mQ2MIma2GfMoQhOZumQDsk="
   },
   "academic_jobs": {
-    "version": "0.1.6",
+    "version": "0.2.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "The Academic Jobs extension allows users to create and manage job postings.",
-    "hash": "sha256-u9BMpaZ/pLZFErQIOSIOyzeYCUtXyhuBN/IrRLbVVEM="
+    "hash": "sha256-sTo9fgi6RP0rBVoLC3EsPuOjmOKLYy0dInFJ0SbBGqE="
   },
   "academic_networks_tt_address": {
     "version": "0.1.0",
@@ -19385,12 +19385,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "femanager_mail_subscribe": {
-    "version": "2.1.0",
+    "version": "3.0.0",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "Adds newsletter subscription fields for mail extension to femanager",
-    "hash": "sha256-bY+iaIUELXqy+dQNMJn94RAVpgFxW3XOp0V6i+3dpR0="
+    "hash": "sha256-2YYUYIip+6ovCP6E0oscuPqE25iYVufRdK1tLfjZLCQ="
   },
   "femanager_mailchimp": {
     "version": "3.0.0",
@@ -24214,12 +24215,12 @@
     "hash": "sha256-VXcU1tKdZNCM4fYpvvGdCo8SLCyuazaim2tkoLyZVyo="
   },
   "hd_translator": {
-    "version": "2.0.1",
+    "version": "2.0.5",
     "t3_versions": [
       13
     ],
     "description": "Translation of static strings from locallang.xlf files and export/import of database related content",
-    "hash": "sha256-8TC/FH0DvjF7PnX53RQ88D9KGYo6vUfsd73ieWXWnoc="
+    "hash": "sha256-aOXmnoFNW+G+S7NwKeIVyLAD2JCgzLp3tqLTFNl+Vok="
   },
   "header_flashexample": {
     "version": "0.1.2",
@@ -24361,12 +24362,12 @@
     "hash": "sha256-HnCWOAsvbwuFNoEfQ2xrtjAD4a93itUcLWqxEjl1TPM="
   },
   "hh_simple_job_posts": {
-    "version": "4.2.0",
+    "version": "4.2.1",
     "t3_versions": [
       12
     ],
     "description": "Adds plugins for list / show job postings with meta-data and schema.org stuff. Uses tt_address for job-contacts and job-location.",
-    "hash": "sha256-gq0UAEKGdXILEkUk+jVt6p0UJbv+5r9au+PjCsUWiaM="
+    "hash": "sha256-RaDnpT001UXjUKYFNZGTrvM83qT3fiO6yxqTzmwiRbU="
   },
   "hh_slider": {
     "version": "0.6.2",
@@ -32806,14 +32807,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mail": {
-    "version": "3.2.8",
+    "version": "3.3.0",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "Powerful newsletter system for TYPO3",
-    "hash": "sha256-GrElLtBW+NeGRo+CPjDAOSe8E7A86/V3h6LE/vq554w="
+    "hash": "sha256-yYShGJIQQgGYe7IxyPVkhdt1GcwJVTL6FKGeOBRhNd8="
   },
   "mail2news": {
     "version": "2.0.3",
@@ -33232,12 +33233,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "maps2": {
-    "version": "12.0.0",
+    "version": "12.0.1",
     "t3_versions": [
       13
     ],
     "description": "Create maps with Marker, Area, Routes or Radius based on Google Maps or OpenStreetMap",
-    "hash": "sha256-QVRIefBYsOdveNcARcKKWBNBsCdPICR7XDXCoRhulxU="
+    "hash": "sha256-JpDOVZfA1fcmYPz7Pn7OUnOSMdyFIgWr2slqA9Ude/Q="
   },
   "mapsapi3": {
     "version": "0.4.1",
@@ -39578,6 +39579,14 @@
     "t3_versions": [],
     "description": "Book Database",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "nlp_tools": {
+    "version": "1.0.0",
+    "t3_versions": [
+      13
+    ],
+    "description": "Natural Language Processing tools for TYPO3",
+    "hash": "sha256-EMXBtl0B4FitYgYPV0SbWIqXk+CjVm5gzfO1y7eODMU="
   },
   "nn_address": {
     "version": "2.4.1",
@@ -56721,12 +56730,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "t3extblog": {
-    "version": "8.0.2",
+    "version": "9.0.0",
     "t3_versions": [
-      12
+      13
     ],
-    "description": "A record based blog extension for TYPO3 CMS. Easy to use and packed with features (incl.",
-    "hash": "sha256-G2F4e+qfa+dfUqMOWciSwYvlTJO4itiZwGsiKTnOE+o="
+    "description": "A record based blog extension for TYPO3 CMS. Easy to use and packed with features (incl.\r",
+    "hash": "sha256-v25cWtHlFhRoPw2QZafdszukqPP94Fd9eBl1pmo8ryw="
   },
   "t3extension_tools": {
     "version": "1.0.1",
