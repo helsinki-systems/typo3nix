@@ -3474,7 +3474,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "autotranslate": {
-    "version": "1.3.1",
+    "version": "1.3.2",
     "t3_versions": [
       10,
       11,
@@ -3482,7 +3482,7 @@
       13
     ],
     "description": "This extension provides automatic translation of pages and content elements via DeepL API.",
-    "hash": "sha256-G60zTvMYPfTr4NXW0+eemmvP1qdoVfc1Ywtv2fGfTqU="
+    "hash": "sha256-haa0DPBeApADua7MYY0APuozxZMhai437XBlxOrgHJ8="
   },
   "autoupload_dummy": {
     "version": "1.0.2",
@@ -8513,12 +8513,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "checkfaluploads": {
-    "version": "4.0.3",
+    "version": "5.0.0",
     "t3_versions": [
-      12
+      13
     ],
     "description": "Displays a checkbox that must be checked to upload files in backend",
-    "hash": "sha256-ngXbJ6pM1pTFdiifPgGwoWQqcEshymKtbif9k0Smylo="
+    "hash": "sha256-m4J9GqV2JSWvdcB77b49HqAtkRR/Xop6fBU6xMMmV0c="
   },
   "checkmysite": {
     "version": "4.0.0",
@@ -18307,6 +18307,15 @@
     "description": "This contains functions to import into the tt_products tables by the extension external_import",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "external_link_list": {
+    "version": "2.0.1",
+    "t3_versions": [
+      12,
+      13
+    ],
+    "description": "Adds a Module to list all external links",
+    "hash": "sha256-deP5jOqMKHDtO04ANHx5WUnNDNAbvHVj1MxETvN3T6I="
+  },
   "external_link_parameter": {
     "version": "1.0.3",
     "t3_versions": [],
@@ -21683,12 +21692,12 @@
     "hash": "sha256-BWibo3/20xqtaX8DidK/HYtgtpJvSyzjCx9HqXRROF8="
   },
   "fp_masterquiz": {
-    "version": "6.1.1",
+    "version": "7.0.0",
     "t3_versions": [
       13
     ],
     "description": "A modern extension that offers quiz, polls and tests. Ajax support. The result can be displayed as a chart too. Supports 8 question modes.",
-    "hash": "sha256-NHzrR7aKS6oUK8AgCVZt2yu3tgDV5S1VFNFeCZdxS/s="
+    "hash": "sha256-sD7oKMrccFYmVxodNK5GcW5OsTVlCXPyByslq5UCPQU="
   },
   "fp_newsletter": {
     "version": "8.1.0",
@@ -45524,6 +45533,15 @@
     "t3_versions": [],
     "description": "Highlights search terms in google-style (with different colors) when a user comes from a search engine or uses indexed_search.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "psr14_event_list": {
+    "version": "2.0.1",
+    "t3_versions": [
+      12,
+      13
+    ],
+    "description": "Lists all psr 14 events",
+    "hash": "sha256-meHdsOEZJvOMvgOU+ABE05XBpfk5Qxn7GwTLzgV7WXA="
   },
   "psysh": {
     "version": "0.0.2",
