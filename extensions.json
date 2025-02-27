@@ -3197,13 +3197,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ausstello": {
-    "version": "1.0.4",
+    "version": "1.1.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "Events managen und kommunizieren, Marketing automatisieren. Einfach, ausstello.",
-    "hash": "sha256-oWM7snjk1euvzPUYzkEvnMMupE9Qm0Rs20rKuyYx1HI="
+    "hash": "sha256-rsuWVL7bnhtFKZzi+mXyL3FzxQa3SGCbznwq2AhOWNI="
   },
   "auth0": {
     "version": "13.0.0",
@@ -3474,15 +3474,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "autotranslate": {
-    "version": "1.3.2",
+    "version": "2.0.0",
     "t3_versions": [
-      10,
       11,
       12,
       13
     ],
     "description": "This extension provides automatic translation of pages and content elements via DeepL API.",
-    "hash": "sha256-haa0DPBeApADua7MYY0APuozxZMhai437XBlxOrgHJ8="
+    "hash": "sha256-xmyKZpiLZGH9FHwtd4o2DYpiqk2XvrOjw6hnucWkLgw="
   },
   "autoupload_dummy": {
     "version": "1.0.2",
@@ -13453,13 +13452,13 @@
     "hash": "sha256-zubGGULUMiOLlijfkwn7FtLyHVbYdKVB2h8DBjoJVXg="
   },
   "deepltranslate_core": {
-    "version": "5.0.0",
+    "version": "5.0.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "This extension provides option to translate content element, and TCA record texts to DeepL supported languages.",
-    "hash": "sha256-p6jDxgWDSNzOfFYgHm8aEh3UW5iKMp91v5SDdpi766w="
+    "hash": "sha256-X3jFoIWaIcloJmg/Z+PVYvwD2paVfNlofRpebVujc2E="
   },
   "deepltranslate_glossary": {
     "version": "5.0.0",
@@ -33242,12 +33241,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "maps2": {
-    "version": "12.0.1",
+    "version": "12.0.2",
     "t3_versions": [
       13
     ],
     "description": "Create maps with Marker, Area, Routes or Radius based on Google Maps or OpenStreetMap",
-    "hash": "sha256-JpDOVZfA1fcmYPz7Pn7OUnOSMdyFIgWr2slqA9Ude/Q="
+    "hash": "sha256-caPBWURjNFmdO6jVd0WvrpFX0DVAgH8CFEr52HtFQdE="
   },
   "mapsapi3": {
     "version": "0.4.1",
@@ -35936,20 +35935,20 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mmc_guestbook": {
-    "version": "3.0.4",
+    "version": "3.0.5",
     "t3_versions": [
       11
     ],
     "description": "A guestbook plugin providing several mechanisms for spam prevention",
-    "hash": "sha256-LtW3XY/TXdVJ87OxJhYK1ku7XO2t3w60/TQmidi1ytE="
+    "hash": "sha256-5AcImaSuEW+bElqE4kWqq3T4FruUDYcsedXDVlJ3SBU="
   },
   "mmc_slideshow": {
-    "version": "3.0.3",
+    "version": "3.0.4",
     "t3_versions": [
       11
     ],
     "description": "Slideshow with multiple sequences, each sequence can be configured (interval, animation, random mode)",
-    "hash": "sha256-ssWesApldk1hNdN5ogoGXSD0uIXFo2azyOnBnEk7FU4="
+    "hash": "sha256-hc2XPxPzk0RFPGMBF2Ydsp3M7jqW/8G/+Ldj5m5VYpg="
   },
   "mmforeign": {
     "version": "0.4.0",
@@ -59345,6 +59344,14 @@
     ],
     "description": "Use HTML Tidy to clean up your HTML output.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "tight": {
+    "version": "1.0.0",
+    "t3_versions": [
+      13
+    ],
+    "description": "Tweaks the backend CSS of TYPO3 **13.4** to reduce the vast space set between the UI elements.",
+    "hash": "sha256-gDYv4PEbbNQ+6jaDneISGhXY3nAI8QPuobKaM+f4Sgw="
   },
   "tika": {
     "version": "13.0.0",
