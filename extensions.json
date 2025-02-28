@@ -27002,13 +27002,12 @@
     "hash": "sha256-wcgjhJqqFFmo3bokeKZlkS6hI64rIKfwRn8Jd+vjcPA="
   },
   "interest": {
-    "version": "2.1.2",
+    "version": "3.0.0",
     "t3_versions": [
-      11,
-      12
+      13
     ],
     "description": "REST and CLI API for adding, updating, and deleting records in TYPO3. Tracks relations so records can be inserted in any order. Uses remote ID mapping so you don't have to keep track of what UID a record has gotten after import. Data is inserted using backend APIs as if a real human did it, so you can can inspect the record history and undo actions.",
-    "hash": "sha256-4Hwpqq8PNblo3L1bRyFdpmcVJN+UGFBIi6ZwVj74bSU="
+    "hash": "sha256-5KyntiZ9ZB6oXv9eWOx3Ok2OuYV0Hz55lEizZ7EYa7c="
   },
   "internal_notes": {
     "version": "1.2.0",
@@ -30749,13 +30748,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "l10nmgr": {
-    "version": "11.2.0",
+    "version": "12.0.1",
     "t3_versions": [
-      10,
-      11
+      11,
+      12
     ],
-    "description": "Module for managing localization import and export",
-    "hash": "sha256-yojPKkjjSSOsFzeUuKkXTCb5Zz+e56cxASEFuOzSgGI="
+    "description": "Power up your TYPO3 translations with L10nmgr! Get exclusive early access to v13! L10nmgr is the go-to extension for professional TYPO3 translations, enabling efficient bulk translation exports and imports. L10nmgr 13 makes multilingual content management even more powerful and flexible! Support L10nmgr now and unlock v13 today! Sponsor us here: https://coders.care/for/crowdfunding/l10nmgr-and-localizer",
+    "hash": "sha256-0yul2HJOAL75X+mSdwxjECX66ORoYGDYP0guxc2ByGQ="
   },
   "l10nmgr_grid": {
     "version": "0.2.2",
@@ -31857,13 +31856,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "localizer": {
-    "version": "11.2.0",
+    "version": "12.0.0",
     "t3_versions": [
-      10,
-      11
+      11,
+      12
     ],
-    "description": "This extension provides a fully automated workflow and a graphical user interface for the well known Localization Manager (l10nmgr). While the L10nmgr still provides exports and imports of records and files, the Localizer will take care of all the necessary steps in between. Editors responsible for translations won't have to deal with any L10nmgr configurations anymore and as an administrator you create just one configuration per Localizer Project.",
-    "hash": "sha256-yHXR2RoVTDKXN9uCks6MB54n9RDGtYsvFCQbPjfmeCE="
+    "description": "This extension provides a fully automated workflow and GUI for the well known Localization Manager (l10nmgr). While L10nmgr still provides exports and imports, Localizer will take care of all necessary steps in between. Editors responsible for translations won't have to deal with L10nmgr configurations anymore and administrators just create one configuration per Localizer Project. Sponsor us here: https://coders.care/for/crowdfunding/l10nmgr-and-localizer",
+    "hash": "sha256-xlr+nCmmD7IwGyglVrB87U9HEET5xbIpxOEUim7McWg="
   },
   "localizer_beebox": {
     "version": "10.2.0",
@@ -31977,14 +31976,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "logformatter": {
-    "version": "1.5.3",
+    "version": "1.6.0",
     "t3_versions": [
-      10,
-      11,
-      12
+      12,
+      13
     ],
     "description": "A CLI tool to format and search TYPO3 Logfiles",
-    "hash": "sha256-cQlRyi5G4kMeODGlRo5yZb3xrnSRvyEC5lhPJWoojX8="
+    "hash": "sha256-ZPBFnnVZiDgk/IL0PqucttRORHnUph+GI3vo2zfz8ts="
   },
   "logging": {
     "version": "1.0.0",
@@ -35189,12 +35187,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "min": {
-    "version": "3.1.0",
+    "version": "3.1.1",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "Extends TYPO3's compressor for JS and CSS with minifier. This may save you up to 70% of default compressed file size. Also compresses HTML output of TYPO3. Full composer support.",
-    "hash": "sha256-fKpOx1n00lHBz3O/7HqHOjUTa3DQbNyemxME95YmwNI="
+    "hash": "sha256-x4virbFaVbxGtPRqPo/kBp/VT+izVhug/PPoMt+R20c="
   },
   "mindmap_import": {
     "version": "0.0.2",
