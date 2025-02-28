@@ -50660,12 +50660,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "seo_dynamic_tag": {
-    "version": "10.4.1",
+    "version": "12.4.0",
     "t3_versions": [
-      10
+      12
     ],
     "description": "Search Engine Optimisation (SEO) for title tag, canonical tag, meta tags author, description and keywords and social media tags for google, opengraph/facebook and twitter.",
-    "hash": "sha256-luStS/wbxMBBM6n+L007s2v0gTqYwpillsrSBsFviA4="
+    "hash": "sha256-gtWNzgPCOJwjmYzy7kcEHOz6YfvT5VY463o4nOd6bw0="
   },
   "seo_export": {
     "version": "0.0.2",
