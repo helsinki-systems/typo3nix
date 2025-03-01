@@ -4246,13 +4246,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "bc_simplerate": {
-    "version": "0.0.4",
+    "version": "0.0.6",
     "t3_versions": [
       12,
       13
     ],
     "description": "Rate section of the website",
-    "hash": "sha256-6WaYj+oqVqKyG2H2PK0qik7FvzH+bg0RfS+TTiMQ99k="
+    "hash": "sha256-s0T/oULZ3m5LzZ0uN4jG3uKq+97IClScIpPXGYEg3XQ="
   },
   "bc_tourdates": {
     "version": "0.9.1",
@@ -28500,7 +28500,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "jn_lighterbox": {
-    "version": "1.3.5",
+    "version": "1.3.6",
     "t3_versions": [
       9,
       10,
@@ -28509,7 +28509,7 @@
       13
     ],
     "description": "A very lightweight Lightbox extension for click-enlarging content element images using lightbox2 or any other library of your choice.",
-    "hash": "sha256-UswQPif/0pojutFYAv3qe3iNPMAeMa2fmsJBe4vrBmI="
+    "hash": "sha256-4RypW0WEuJWlLECXvLsMVL1EFzl0ScPXw5aA3phXaFk="
   },
   "jn_phpcontentelement": {
     "version": "1.3.5",
