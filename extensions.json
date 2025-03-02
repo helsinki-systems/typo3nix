@@ -63896,13 +63896,13 @@
     "hash": "sha256-iM1zb6VUJMaSf/kBAMS/gJmRPCYAXh34cd/HNI7X37s="
   },
   "warming": {
-    "version": "3.3.4",
+    "version": "3.3.5",
     "t3_versions": [
       12,
       13
     ],
     "description": "Warms up Frontend caches based on an XML sitemap. Cache warmup can be triggered via TYPO3 backend or using a console command. Supports multiple languages and custom crawler implementations.",
-    "hash": "sha256-JLfJ/xQo7wIAWdZhQYZl5rrRMcLHCkaQxTs9gzPzuGw="
+    "hash": "sha256-j7e1bsu+cULeKIiYggv1Xr2c1Cuo69rP5+ErBiIVn+Q="
   },
   "warmup": {
     "version": "1.3.1",
