@@ -655,7 +655,7 @@
     "hash": "sha256-/OnW5XKXLs6VA8rZ3O82Ft0kH8ivbaPNx5a/+IolZBE="
   },
   "accessibility4typo3": {
-    "version": "1.0.3",
+    "version": "1.0.4",
     "t3_versions": [
       10,
       11,
@@ -663,7 +663,7 @@
       13
     ],
     "description": "Accessibility tool that integrates into your website to enhance usability for all visitor utilizing AI",
-    "hash": "sha256-kdYc7wM17qw+KLMsCTVzWL2FW+gmVoJWYP/IeaK9HdA="
+    "hash": "sha256-+bM5oyUoWYVnxWFMn5YbYBxCDhg/eJoOECaOLTu8L6w="
   },
   "accessibility_check": {
     "version": "0.1.0",
@@ -7191,12 +7191,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cart": {
-    "version": "11.0.1",
+    "version": "11.1.0",
     "t3_versions": [
       13
     ],
     "description": "Shopping Cart(s) for TYPO3",
-    "hash": "sha256-kbDrIWzl5qETYN+X/Pfs438QtUYG2dnhO3ltAb/h1k4="
+    "hash": "sha256-HpQSPuW84Hy7HD16sWMO6+kruNmHqgiO8Yp2aNynxZs="
   },
   "cart_basket_image": {
     "version": "1.0.3",
@@ -7395,12 +7395,13 @@
     "hash": "sha256-3OthDkPmkF2mm6rfRzEJnu9FTfW4mu0KsHchkanqRaA="
   },
   "category_types": {
-    "version": "1.0.1",
+    "version": "1.1.0",
     "t3_versions": [
-      11
+      11,
+      12
     ],
     "description": "Basic extension for typed categories",
-    "hash": "sha256-YsbnU4MMZjwSDBC/gI8BFMSotQK6mhM3L4aMkAs63+I="
+    "hash": "sha256-EHHyHz5JoaGTu4kRNZFaP16/r+1ElYe3LnHmWBGFvl4="
   },
   "catwalk": {
     "version": "0.11.4",
@@ -18289,13 +18290,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "external_import": {
-    "version": "7.3.0",
+    "version": "8.0.0",
     "t3_versions": [
-      11,
-      12
+      12,
+      13
     ],
     "description": "Tool for importing data from external sources into the TYPO3 CMS database, using an extended TCA syntax. Provides a BE module, a Scheduler task, a command-line tool and an API.",
-    "hash": "sha256-v2HoL7FlxnKif/uY0YE1pSjRZX2+FMX6iC6U73Nlpyw="
+    "hash": "sha256-jJG4xK2EEupcS/3/WOn70rbxdohQTXT3Lh5Je9eGYt4="
   },
   "external_import_tt_products": {
     "version": "0.0.1",
@@ -39913,13 +39914,13 @@
     "hash": "sha256-8PvIRBI21nOQVuXHqlO+Pn34YdBrJ9Qx+HL3R6TaaZs="
   },
   "ns_basetheme": {
-    "version": "13.0.5",
+    "version": "13.0.6",
     "t3_versions": [
       12,
       13
     ],
     "description": "The architecture of parent/child TYPO3 theme concept. Explore https://t3planet.com and https://nitsantech.com",
-    "hash": "sha256-DDoo6rnJlJQRYUeHHAfCXD9Ll2GoK4DE/xA6cBO1ZLc="
+    "hash": "sha256-ikMAjKvTYlAmwIPsNXZJJEawK80L6/gQYHPY7pYQqF0="
   },
   "ns_cache_webhook": {
     "version": "1.0.1",
@@ -42155,12 +42156,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "page_backend_layout": {
-    "version": "1.0.3",
+    "version": "2.0.0",
     "t3_versions": [
-      11
+      12,
+      13
     ],
     "description": "Helper for Backend layout overrides based on page doktype",
-    "hash": "sha256-Sxw1g7QWNPE0RTYdLJRWmj9aLFKFeMnb7DZuP928kR0="
+    "hash": "sha256-G5Yxs+MXFlR18hSG1xuXUohwO0wfDmBUfLMIIsAdyc8="
   },
   "page_callouts": {
     "version": "6.1.2",
@@ -62631,12 +62633,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "univie_pure": {
-    "version": "12.0.524",
+    "version": "12.1.524",
     "t3_versions": [
       12
     ],
-    "description": "Query the pure research information system",
-    "hash": "sha256-fIOi0J6mzB40kQvXNWCREg8Waaf2nE3+FanprfNd4dU="
+    "description": "This extension allows you to seamlessly integrate academic content from the Elsevier Pure Research Information System (API v524) into your TYPO3 website, displaying publications, projects, datasets, and equipment details. Based on the Vienna Pure extension, our implementation has been specifically optimized to meet the requirements of Leibniz University Hannover, while also being designed for global use and continuous improvement.",
+    "hash": "sha256-FINKC8jofFIYvUMzIsMP4I4fLR0uin7Cfxvswkva8o4="
   },
   "unleash": {
     "version": "1.0.0",
