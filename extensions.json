@@ -559,13 +559,13 @@
     "hash": "sha256-d2ydtyPZg9WAYXoVWSaP1mQ2MIma2GfMoQhOZumQDsk="
   },
   "academic_jobs": {
-    "version": "0.2.0",
+    "version": "1.1.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "The Academic Jobs extension allows users to create and manage job postings.",
-    "hash": "sha256-sTo9fgi6RP0rBVoLC3EsPuOjmOKLYy0dInFJ0SbBGqE="
+    "hash": "sha256-hMHQiFLNh78tOo8X1Afhwz6gWYxZNXYCpAohJI+kaj0="
   },
   "academic_networks_tt_address": {
     "version": "0.1.0",
@@ -600,6 +600,15 @@
     ],
     "description": "Adds some configuration for external users providers like Active Directory.",
     "hash": "sha256-6PW7gtjV9TlkOghiddD9M+zmGDGtkAu7PfX0H+uDCWY="
+  },
+  "academic_programs": {
+    "version": "1.1.3",
+    "t3_versions": [
+      11,
+      12
+    ],
+    "description": "Educational Program page for TYPO3 with structured data based on sys_category",
+    "hash": "sha256-rY+BFy8r2cD7wYT+W4C6k7CeYSr6LDH/HPZtsM1wqJI="
   },
   "academic_projects": {
     "version": "0.1.3",
@@ -655,7 +664,7 @@
     "hash": "sha256-/OnW5XKXLs6VA8rZ3O82Ft0kH8ivbaPNx5a/+IolZBE="
   },
   "accessibility4typo3": {
-    "version": "1.0.4",
+    "version": "1.0.5",
     "t3_versions": [
       10,
       11,
@@ -663,7 +672,7 @@
       13
     ],
     "description": "Accessibility tool that integrates into your website to enhance usability for all visitor utilizing AI",
-    "hash": "sha256-+bM5oyUoWYVnxWFMn5YbYBxCDhg/eJoOECaOLTu8L6w="
+    "hash": "sha256-JkD+q74nRU9h6JUZyPhAv1XUfhROLpl7+sjMO5TvbGo="
   },
   "accessibility_check": {
     "version": "0.1.0",
@@ -5094,6 +5103,14 @@
     ],
     "description": "Adds a production exception handler looking like a windows bluescreen",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "bluesky": {
+    "version": "1.0.0",
+    "t3_versions": [
+      13
+    ],
+    "description": "",
+    "hash": "sha256-vJy1mVGE+4CIDWtlS473sszimdoKG+VniO954II2w98="
   },
   "bm_basics": {
     "version": "0.0.5",
@@ -21692,12 +21709,12 @@
     "hash": "sha256-BWibo3/20xqtaX8DidK/HYtgtpJvSyzjCx9HqXRROF8="
   },
   "fp_masterquiz": {
-    "version": "7.0.0",
+    "version": "7.0.2",
     "t3_versions": [
       13
     ],
     "description": "A modern extension that offers quiz, polls and tests. Ajax support. The result can be displayed as a chart too. Supports 8 question modes.",
-    "hash": "sha256-sD7oKMrccFYmVxodNK5GcW5OsTVlCXPyByslq5UCPQU="
+    "hash": "sha256-CbytOeKN6bkrzIisFfYN3g3OyazxbeIyqDugllcdP4U="
   },
   "fp_newsletter": {
     "version": "8.1.0",
@@ -38672,13 +38689,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "news": {
-    "version": "12.1.0",
+    "version": "12.3.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Versatile news system based on Extbase & Fluid and using the latest technologies provided by TYPO3 CMS.",
-    "hash": "sha256-esDnqUVGZrDlJMCbn30eNcxCdBmRow8Ult9CEdtazIY="
+    "hash": "sha256-YSfHDzyxzKyyxxGHs0042rnYE96XBK7QHeniVx0dZYo="
   },
   "news2facebook": {
     "version": "1.1.0",
@@ -52242,10 +52259,12 @@
     "hash": "sha256-SCpm4jyplbU6AHp3Fkz5F6uUMO73o6fPwwUwrR9Jtaw="
   },
   "siteconfigurationevents": {
-    "version": "1.2.1",
-    "t3_versions": [],
-    "description": "This extension will provide PSR-14 events for the SiteConfiguration Class methods write, rename and delete. This way 3rd party extensions can attach to these events when a site configuration has been created or updated",
-    "hash": "sha256-DnC82Ve33XnJygQNeIw7I7vug/9ScJBPowhncK2Yu4U="
+    "version": "2.0.0",
+    "t3_versions": [
+      13
+    ],
+    "description": "This extension will provide PSR-14 events for the SiteWriter Class methods write, rename and delete. This way 3rd party extensions can attach to these events when a site configuration has been created or updated",
+    "hash": "sha256-tG9qdWt1y5az30YP9PrqJYDEf2g2hTltM0a1k2bteoo="
   },
   "sitecopy": {
     "version": "0.0.1",
@@ -58034,12 +58053,13 @@
     "hash": "sha256-6ceJpQJmUI8BmRQqwpVU564K79ouknPSiBKND9SO5bU="
   },
   "taxajax": {
-    "version": "1.3.0",
+    "version": "1.4.0",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "Enhancement to the xajax extension with TYPO3 specific code.",
-    "hash": "sha256-yKqJuJe6iKIbMa2vjvduO+Ozc9bEoSo3dH2GqR//XBA="
+    "hash": "sha256-CFkJwSzktea0mitjKOYkzTvmHhqOm6hShNkqy4j8+Kc="
   },
   "taywa_ccemailfield": {
     "version": "0.0.2",
@@ -61555,12 +61575,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "tt_products": {
-    "version": "2.16.1",
+    "version": "2.16.2",
     "t3_versions": [
       12
     ],
     "description": "Advanced versions at ttproducts.de. Documented in the E-Book \"Der TYPO3-Webshop\" - Shop with listing in multiple languages, with order tracking, product variants, support for transactor extension, bill, creditpoint and voucher system.",
-    "hash": "sha256-llYUXFNA0yECELlyvuQco6oMeJjUZQiF1bGpHIfvmgk="
+    "hash": "sha256-d27u9kw9HRKhNhPfuSkhrMM9LmNrLWMSwoJsoXUPBpw="
   },
   "tt_products_foundby": {
     "version": "0.1.4",
