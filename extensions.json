@@ -577,6 +577,15 @@
     "description": "Adds fields for researchers in tt_address",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "academic_partners": {
+    "version": "1.1.1",
+    "t3_versions": [
+      11,
+      12
+    ],
+    "description": "Extension for showing academic partners in list and map view",
+    "hash": "sha256-Kfj0mFvpNtKcoOrcQHdedWzhpN6QdA10WX49wybu2BM="
+  },
   "academic_persons": {
     "version": "0.4.0",
     "t3_versions": [
@@ -611,12 +620,12 @@
     "hash": "sha256-rY+BFy8r2cD7wYT+W4C6k7CeYSr6LDH/HPZtsM1wqJI="
   },
   "academic_projects": {
-    "version": "0.1.3",
+    "version": "1.1.0",
     "t3_versions": [
       11
     ],
     "description": "Academic project pages for TYPO3 with specific structured data and typed sys_categories",
-    "hash": "sha256-9LMtUJ3ALbH0WEj/4nwL/dBKx8gpFcOGMCTx/uS8ALw="
+    "hash": "sha256-ADu7RwfUj/1BpkNcJNeIp3+HLg1weWEAyPj6adZOBRs="
   },
   "academic_studies": {
     "version": "0.1.2",
@@ -19918,6 +19927,15 @@
     "t3_versions": [],
     "description": "Uploading files using Filepicker.io",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "filetransfer": {
+    "version": "2.0.0",
+    "t3_versions": [
+      12,
+      13
+    ],
+    "description": "TYPO3 Extension to send downloadables via email secury and privacy complaint.",
+    "hash": "sha256-WtvXkH7aumhRGDxBm9l7C9lTDnDtX3uq+34adN7nJAs="
   },
   "fileupload": {
     "version": "1.1.0",
@@ -52249,14 +52267,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "siteconfiggitsync": {
-    "version": "1.1.0",
+    "version": "2.0.0",
     "t3_versions": [
-      11,
-      12,
       13
     ],
     "description": "This extension will push changes to the site config yaml files back to your GitLAB or GitHUB repository by creating a branch for the changes along with a merge-request. It is targeted towards automated CI/CD installations or sites in general where the site-config is git versioned. No local git binary or .git directory is needed. Requires EXT:siteconfigurationevents",
-    "hash": "sha256-SCpm4jyplbU6AHp3Fkz5F6uUMO73o6fPwwUwrR9Jtaw="
+    "hash": "sha256-ErVUN+0e32/9TK2GOXbuWvmN2UrCvNgg0cByChIKREU="
   },
   "siteconfigurationevents": {
     "version": "2.0.0",
@@ -66866,10 +66882,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "z7_semantilizer": {
-    "version": "4.2.0",
-    "t3_versions": [],
+    "version": "4.3.1",
+    "t3_versions": [
+      13
+    ],
     "description": "Simplify your semantic heading structure.",
-    "hash": "sha256-UkFTjBA6jtXipYTLNXZe9HTSIOk9dHqvqmi0X+p2pfI="
+    "hash": "sha256-K5skhXTgL+Wx0vMSLWS3/a3PKgDUHHuBf1IGFK1YnJE="
   },
   "zabbix_client": {
     "version": "13.2.2",
