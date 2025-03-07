@@ -44966,12 +44966,12 @@
     "hash": "sha256-Q06KDDhk5rbeYaX09KwVBnonhBfUIUl7GbCsUaEYnmA="
   },
   "powermail_jira": {
-    "version": "1.0.2",
+    "version": "1.3.0",
     "t3_versions": [
       12
     ],
     "description": "Base extension - Post powermail form submissions as jira issues",
-    "hash": "sha256-OI++rnVN19qX2BrtvkjlI8CAzhIKo9goCO+BC5AS8/c="
+    "hash": "sha256-jZork2urFF9XL20x5KcaNro1g8J9UzFbptUkDNyUrt4="
   },
   "powermail_jira_issues": {
     "version": "1.1.0",
