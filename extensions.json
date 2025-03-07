@@ -611,13 +611,13 @@
     "hash": "sha256-6PW7gtjV9TlkOghiddD9M+zmGDGtkAu7PfX0H+uDCWY="
   },
   "academic_programs": {
-    "version": "1.1.3",
+    "version": "1.1.4",
     "t3_versions": [
       11,
       12
     ],
     "description": "Educational Program page for TYPO3 with structured data based on sys_category",
-    "hash": "sha256-rY+BFy8r2cD7wYT+W4C6k7CeYSr6LDH/HPZtsM1wqJI="
+    "hash": "sha256-BgFTXwl7VbQchZG4cDgRb0MPd+EB45oukMC9ep6pyqY="
   },
   "academic_projects": {
     "version": "1.1.0",
@@ -7255,13 +7255,12 @@
     "hash": "sha256-VXz50a3ZkTkgFBe4Nqt27O3lrmQmx36KmoMPb/bOgM4="
   },
   "cart_events": {
-    "version": "4.0.1",
+    "version": "5.0.0",
     "t3_versions": [
-      10,
-      11
+      12
     ],
     "description": "Shopping Cart(s) for TYPO3 - Event Extension",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-dqyqDeVZXx0nGHAmc0LtgmPRGHVE4OeiN8beCVVNnIk="
   },
   "cart_mpay24": {
     "version": "2.0.0",
@@ -13479,13 +13478,13 @@
     "hash": "sha256-zubGGULUMiOLlijfkwn7FtLyHVbYdKVB2h8DBjoJVXg="
   },
   "deepltranslate_core": {
-    "version": "5.0.1",
+    "version": "5.0.3",
     "t3_versions": [
       12,
       13
     ],
     "description": "This extension provides option to translate content element, and TCA record texts to DeepL supported languages.",
-    "hash": "sha256-X3jFoIWaIcloJmg/Z+PVYvwD2paVfNlofRpebVujc2E="
+    "hash": "sha256-XYNM3Wx+9QUJdgm9tltTdF1GrJWrm8kcI7JfHR88SC0="
   },
   "deepltranslate_glossary": {
     "version": "5.0.0",
@@ -14657,13 +14656,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "dlf": {
-    "version": "5.0.7",
+    "version": "5.0.9",
     "t3_versions": [
       10,
       11
     ],
     "description": "Base plugins, modules, services and API of the Digital Library Framework. It is part of the community-based Kitodo Digitization Suite.",
-    "hash": "sha256-qK5o+5LyDxvSMk/NvFlsHf4YXFh+KsZbg7oYIoraxM0="
+    "hash": "sha256-rAxiluDDRHYynbsgfGwSKMAdMMP15z4whCcTfawP5f8="
   },
   "dlib": {
     "version": "0.0.6",
@@ -19929,13 +19928,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "filetransfer": {
-    "version": "2.0.0",
+    "version": "2.0.3",
     "t3_versions": [
       12,
       13
     ],
-    "description": "TYPO3 Extension to send downloadables via email secury and privacy complaint.",
-    "hash": "sha256-WtvXkH7aumhRGDxBm9l7C9lTDnDtX3uq+34adN7nJAs="
+    "description": "The filetransfer extension enables the secure transfer of files from your own web server (\"on-premise\"). This eliminates the need for email transfers, which can be challenging for large files and pose security risks for sensitive data. As an alternative to WeTransfer, organizations can use this extension to present themselves in a particularly security-conscious and professional manner.",
+    "hash": "sha256-BSO+9pANryNNRdFROJyCy5ueTjkjDNUGmT/i+CnhJRY="
   },
   "fileupload": {
     "version": "1.1.0",
@@ -29938,13 +29937,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ke_search": {
-    "version": "6.2.0",
+    "version": "6.3.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Faceted fulltext search for TYPO3. Fast, flexible and easy to install and use. Indexes content directly from the databases. Features faceting / filtering, file indexing, images in result lists and respects access restrictions.",
-    "hash": "sha256-Ky0oU39zPki0/l5zKj/cyiYf8ZT8iIaLOj7WCNtqD2E="
+    "hash": "sha256-dXLQsEr6kr2S2P7Xm9i94ryKouNH/wxEeII36I5Wh+8="
   },
   "ke_search_dam_tags": {
     "version": "0.0.1",
@@ -35259,12 +35258,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mindshape_cookie_consent": {
-    "version": "4.0.0",
+    "version": "4.1.0",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "This extension provides functionality to create  a customizable cookie consent for your website. It is developed for flexibility to be customized in accordance to your data security guidelines.",
-    "hash": "sha256-/pSEKfn8UGGClrOjXYVGHazwS0D06JfhFDcp9bmKdT4="
+    "hash": "sha256-SZgMtj+UX/dPtigE9tzQFHE0sFJ1ABdXer9pEtaRQMs="
   },
   "mindshape_cookie_hint": {
     "version": "1.1.0",
@@ -37640,12 +37640,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mw_cache_widget": {
-    "version": "3.0.0",
+    "version": "3.1.0",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "Dashboard widget that displays the current memory usage of OpCodeCache or APCu",
-    "hash": "sha256-/pv7tDZVyFHrn8mJVwQCmcd78LYrJyl3BT4hFa+KL/U="
+    "hash": "sha256-Ly5KqURMB52G9cacRpzUAx4zoBphjd/o5B4bMEWachU="
   },
   "mw_keywordlist": {
     "version": "3.5.4",
@@ -37679,12 +37680,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mw_matomo_widget": {
-    "version": "3.0.0",
+    "version": "4.0.0",
     "t3_versions": [
-      12
+      13
     ],
     "description": "Dashboard widget that displays the visitor data of your Matomo instance",
-    "hash": "sha256-aS306zW0xF587NbfmZ2KrFRSUUFWev2VeyAs9j7KXIk="
+    "hash": "sha256-cMAPq8kcdxQ+cdNdAkv1jGNrJkUZZ3Cia8sDJp1YuII="
   },
   "mw_shell": {
     "version": "1.0.6",
@@ -52222,12 +52223,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "site_generator": {
-    "version": "3.2.2",
+    "version": "3.2.5",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "Site generator wizard used to generate mini-website or duplicate tree model, it will automatically create associated BE/FE groups, create directories with associated files mount, add domain name, update Typoscript configuration (folders/pages ID and TCEMAIN.clearCacheCmd), update slugs.",
-    "hash": "sha256-iFjFgPHZcNkJCq5+fuNBJqiqJr4Nsj/AWQzAL0pbW3I="
+    "hash": "sha256-g9x+C2KPI3tEVY+tAf61gRhkw7nu6p/LR+lbY9T9oyk="
   },
   "site_jtagcloud": {
     "version": "0.9.1",
@@ -61591,12 +61593,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "tt_products": {
-    "version": "2.16.2",
+    "version": "2.16.3",
     "t3_versions": [
       12
     ],
     "description": "Advanced versions at ttproducts.de. Documented in the E-Book \"Der TYPO3-Webshop\" - Shop with listing in multiple languages, with order tracking, product variants, support for transactor extension, bill, creditpoint and voucher system.",
-    "hash": "sha256-d27u9kw9HRKhNhPfuSkhrMM9LmNrLWMSwoJsoXUPBpw="
+    "hash": "sha256-pF/KB8rDV7b5YS3sGVpGThblEqaJNZruuq+WUyfi7XA="
   },
   "tt_products_foundby": {
     "version": "0.1.4",
@@ -64167,12 +64169,12 @@
     "hash": "sha256-B19a9XblwxaG00itj1YQcrkKeqU1aGXnOVkWq0xpe74="
   },
   "web2pdf": {
-    "version": "4.0.0",
+    "version": "5.0.0",
     "t3_versions": [
-      12
+      13
     ],
     "description": "This Extension renders the pagecontent to a PDF file. It supports css and uses the library mPDF.",
-    "hash": "sha256-s+pS1cgi5jroY+tmu+UoOpwaGQkMA/EZ6t3rvOn4z98="
+    "hash": "sha256-6REufjqdxhUB4OjRuoBRKeab5qy7v4yB03TlO0+hkrs="
   },
   "web_list_filter": {
     "version": "1.0.0",
