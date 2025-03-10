@@ -3350,13 +3350,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "autocomplete_for_indexedsearch": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "Adds autocomplete functionality to the TYPO3 indexed search field.",
-    "hash": "sha256-pDOScyDe6SH6rVZ2a9SZpRukLvul5gXazIQNWYMWlu8="
+    "hash": "sha256-7OLVf1ny1gAAbo8IrWOnAtr+pCVNYxnHaR+2x4UKIYI="
   },
   "autoflush": {
     "version": "2.0.0",
@@ -4264,13 +4264,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "bc_simplerate": {
-    "version": "0.0.6",
+    "version": "0.0.7",
     "t3_versions": [
       12,
       13
     ],
     "description": "Rate section of the website",
-    "hash": "sha256-s0T/oULZ3m5LzZ0uN4jG3uKq+97IClScIpPXGYEg3XQ="
+    "hash": "sha256-qRQ1ovoZfWQvv0g6b/EMDc9LN28ZtYhXDQ3JY5zUYOo="
   },
   "bc_tourdates": {
     "version": "0.9.1",
@@ -7217,12 +7217,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cart": {
-    "version": "11.1.0",
+    "version": "11.2.0",
     "t3_versions": [
       13
     ],
     "description": "Shopping Cart(s) for TYPO3",
-    "hash": "sha256-HpQSPuW84Hy7HD16sWMO6+kruNmHqgiO8Yp2aNynxZs="
+    "hash": "sha256-/ib6fp01GbHi3MS8whLoWxzOo2yfz8QBjUvag70wdbw="
   },
   "cart_basket_image": {
     "version": "1.0.3",
@@ -18315,13 +18315,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "external_import": {
-    "version": "8.0.0",
+    "version": "8.0.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "Tool for importing data from external sources into the TYPO3 CMS database, using an extended TCA syntax. Provides a BE module, a Scheduler task, a command-line tool and an API.",
-    "hash": "sha256-jJG4xK2EEupcS/3/WOn70rbxdohQTXT3Lh5Je9eGYt4="
+    "hash": "sha256-op3D+Ebwbqt66hT/mfAPDKE8gzIOJTAl8jrmAUqdSOU="
   },
   "external_import_tt_products": {
     "version": "0.0.1",
@@ -24233,14 +24233,15 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "hcaptcha": {
-    "version": "2.2.0",
+    "version": "2.3.0",
     "t3_versions": [
       10,
       11,
-      12
+      12,
+      13
     ],
     "description": "TYPO3 Extension to add hCaptcha to EXT:form - The privacy friendly captcha alternative.",
-    "hash": "sha256-REvrxe5FOid4No59L/XsIXCYO+7f59/IlVXACn/ZoXM="
+    "hash": "sha256-GW/uml2Fny2Sj97V8MIoyT7uhXIvgyg04qXSjtVgsIE="
   },
   "hd_displayimage": {
     "version": "0.1.7",
@@ -45063,13 +45064,13 @@
     "hash": "sha256-DXTxBoXGmgNbYhRt8E6dooUNwnbuxOD6Bav9cbDhHs0="
   },
   "powermailautocomplete": {
-    "version": "2.3.5",
+    "version": "3.0.0",
     "t3_versions": [
-      11,
-      12
+      12,
+      13
     ],
     "description": "Add autocomplete tokens to powermail fields",
-    "hash": "sha256-9BFys6Z7/6cdzX25j1/CGVQ1yqZRiXhVnsMnSFCgaws="
+    "hash": "sha256-GHEEEZT1O2dlnQ3r1p/sdM1z1sHSLI+PaAmeSJqEF28="
   },
   "powermailcaptcha": {
     "version": "2.1.2",
