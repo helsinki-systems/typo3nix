@@ -7217,12 +7217,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cart": {
-    "version": "11.2.0",
+    "version": "11.3.0",
     "t3_versions": [
       13
     ],
     "description": "Shopping Cart(s) for TYPO3",
-    "hash": "sha256-/ib6fp01GbHi3MS8whLoWxzOo2yfz8QBjUvag70wdbw="
+    "hash": "sha256-XEUvJzxOEHoe7d0Q+RUzHKgsAbgss9XIUN1rsZYq6Dk="
   },
   "cart_basket_image": {
     "version": "1.0.3",
@@ -10044,12 +10044,12 @@
     "hash": "sha256-zqT8IC5CM9sIqCV57crUaWZhZFXllcHCMc6DaL0Bae0="
   },
   "content_blocks": {
-    "version": "1.1.5",
+    "version": "1.1.8",
     "t3_versions": [
       13
     ],
-    "description": "TYPO3 CMS Content Blocks - Content Types API",
-    "hash": "sha256-BSwoPDg92Uc0uxthPmvvtTTA/p/tFR1OL3KvEVJodyo="
+    "description": "TYPO3 CMS Content Blocks - Content Types API | Define reusable components via YAML",
+    "hash": "sha256-YSJ8SIXaC19sYxVYjRO3b0J5H/1h88Fj/v0cBXF6Nas="
   },
   "content_consent": {
     "version": "3.0.1",
@@ -12899,16 +12899,18 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "datamints_top": {
-    "version": "1.1.1",
+    "version": "1.2.0",
     "t3_versions": [
       7,
       8,
       9,
       10,
-      11
+      11,
+      12,
+      13
     ],
     "description": "Adds a button to jump to the top of a page",
-    "hash": "sha256-Ey32Fg3sVITfo94CC+GYGZBMSAOzEqMuIeRp1h7uDII="
+    "hash": "sha256-9nQyVs2OYhl9WFNb+Dd2V9ep826veCsVrQDIorX2hz8="
   },
   "dataquery": {
     "version": "2.1.3",
@@ -45580,13 +45582,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "psr14_event_list": {
-    "version": "2.0.1",
+    "version": "2.0.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "Lists all psr 14 events",
-    "hash": "sha256-meHdsOEZJvOMvgOU+ABE05XBpfk5Qxn7GwTLzgV7WXA="
+    "hash": "sha256-Fn6YaGr9aYYSLxJL2hK4z0f4+k8ltqj8l+Mu99zf8EA="
   },
   "psysh": {
     "version": "0.0.2",
@@ -50453,6 +50455,15 @@
     "description": "Adds another media field in page properties",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "secrets": {
+    "version": "2.0.3",
+    "t3_versions": [
+      12,
+      13
+    ],
+    "description": "",
+    "hash": "sha256-lJ2yImToAhJ9eovT5ibdAtjqfhwFyCrb8Yn8POuMm0A="
+  },
   "secsign": {
     "version": "2.0.0",
     "t3_versions": [
@@ -53804,14 +53815,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "social_gdpr": {
-    "version": "3.3.0",
+    "version": "3.4.0",
     "t3_versions": [
-      10,
-      11,
-      12
+      12,
+      13
     ],
     "description": "Show social media after user confirmation",
-    "hash": "sha256-IC5XUcWIY6oIiP+Nq1Je6y+JoupNByAWMf6Dge3VyRk="
+    "hash": "sha256-/YY8x6VLZ38177wQ/4gE/gpus/LSBp9IE+qZN27Ph4M="
   },
   "social_media_buttons": {
     "version": "1.1.6",
@@ -62645,6 +62655,14 @@
     ],
     "description": "",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "uk_release_test": {
+    "version": "0.0.6",
+    "t3_versions": [
+      12
+    ],
+    "description": "Something",
+    "hash": "sha256-8XM/0/3xEcru87CWCHup5n40ASQ4vHsWAKzbaP6VdqA="
   },
   "umami": {
     "version": "1.2.0",
