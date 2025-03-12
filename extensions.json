@@ -587,12 +587,13 @@
     "hash": "sha256-Kfj0mFvpNtKcoOrcQHdedWzhpN6QdA10WX49wybu2BM="
   },
   "academic_persons": {
-    "version": "0.4.0",
+    "version": "1.1.0",
     "t3_versions": [
-      11
+      11,
+      12
     ],
     "description": "Adds a person database to TYPO3 with plugins to show them in the frontend.",
-    "hash": "sha256-HZqTbTtZkHXLSrPGDHfPMxoQD+1St+5vlVvGmi2MioI="
+    "hash": "sha256-wnnxTzYwMiXtsmGDki8nSFR9vxxA+oi1Ig/D2i/P7D0="
   },
   "academic_persons_edit": {
     "version": "0.2.0",
@@ -27702,13 +27703,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "janolawservice": {
-    "version": "3.0.4",
+    "version": "4.0.0",
     "t3_versions": [
-      11,
-      12
+      12,
+      13
     ],
     "description": "Integriert janolaw Service",
-    "hash": "sha256-bVLd9pv7e8k8wu/ro6LBeWL2Q/gRdmhvQZJuOZAjdEs="
+    "hash": "sha256-3qk8duGSSCsZlnyQJ1cqFrVQ3zHw8HEnJB0amjXwsIA="
   },
   "jansass_upload": {
     "version": "3.0.5",
@@ -45066,13 +45067,13 @@
     "hash": "sha256-DXTxBoXGmgNbYhRt8E6dooUNwnbuxOD6Bav9cbDhHs0="
   },
   "powermailautocomplete": {
-    "version": "3.0.0",
+    "version": "3.0.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "Add autocomplete tokens to powermail fields",
-    "hash": "sha256-GHEEEZT1O2dlnQ3r1p/sdM1z1sHSLI+PaAmeSJqEF28="
+    "hash": "sha256-GxUEQfiZfZ/CfSXKr31QMlOYFQDHPmxMGCnk506fa00="
   },
   "powermailcaptcha": {
     "version": "2.1.2",
@@ -45546,12 +45547,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "psb_foundation": {
-    "version": "2.2.3",
+    "version": "2.3.1",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "Configuration framework for TYPO3 extension development",
-    "hash": "sha256-RXqcGDicz4hxoDgEee/jj2QoQZxB5F0tZdfORkx7hEA="
+    "hash": "sha256-78AGDIWSaZFIiJbsb+nYwf4kRX1BJauvPigX/XGpR+M="
   },
   "psb_view_helpers": {
     "version": "2.0.0",
@@ -50175,44 +50177,44 @@
     "hash": "sha256-bCMkdMOCy2wNJ3Gz6SWr7i1qZ9ZfxkhhegmjmYFHEdo="
   },
   "schema": {
-    "version": "3.9.1",
+    "version": "3.10.0",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "API and view helpers for schema.org markup",
-    "hash": "sha256-KCwQdnflxx2RYycevRPRBScdF7pXkW4sMGBIqXK3ago="
+    "hash": "sha256-9NQ1QbiF37+XVuG46EHT94Rc1GkeWRU7nB14MXPt+F0="
   },
   "schema_auto": {
-    "version": "2.2.0",
+    "version": "2.3.0",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "Extend the schema extension with auto-related terms",
-    "hash": "sha256-do67G3QymsT8ydUqHWmUkV+Nl7BXd0AhlkJdnlepX3Q="
+    "hash": "sha256-zzzJGTP3N7zSi1vIbZXzx+87uuWQ3MWtLKgl7yNnabI="
   },
   "schema_bib": {
-    "version": "2.2.0",
+    "version": "2.3.0",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "Extend the schema extension with bibliographic-related terms",
-    "hash": "sha256-iewWmmv3h3Kat8DTkvUMMgXGaZKOt+pmuCJS428dR3g="
+    "hash": "sha256-aQPFDzX60IE49jk7c99NZrWd2kPIaIbXfNZjhxQ7GPI="
   },
   "schema_health": {
-    "version": "2.6.0",
+    "version": "2.7.0",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "Extend the schema extension with health-related terms",
-    "hash": "sha256-SbFLC3SPUU92cswVLvB/OYUAgIBHPNuq5rM+nT1KnVk="
+    "hash": "sha256-p9UHir93RctbDOXEXEVtdaHrRoMIcFIc1NVBnGd5rRw="
   },
   "schema_injector": {
     "version": "1.0.1",
@@ -50233,14 +50235,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "schema_pending": {
-    "version": "2.8.0",
+    "version": "2.9.0",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "Extend the schema extension with pending terms",
-    "hash": "sha256-oNRiMLZ/M7fNGuDh/SgzW91UWlSXNwDHCRPo73WeJ6A="
+    "hash": "sha256-13r8ZlCIbqVH5aDmwcNMMc8cRLmw6MmIH4Us3a3Kzi8="
   },
   "schema_virtuallocation": {
     "version": "2.1.0",
@@ -53969,13 +53971,13 @@
     "hash": "sha256-1nDr0b78bLEi5uFKBqhSKST0qw92Rpo76Y6fljbxazA="
   },
   "solr_tools": {
-    "version": "2.0.3",
+    "version": "2.0.8",
     "t3_versions": [
       11,
       12
     ],
     "description": "This Extension provides CLI Tools to initialize the EXT:solr index queues from the command line, and to scan for file-references in the content to add the corresponding sites to the sys_file metadata where a file is being used.",
-    "hash": "sha256-WI4K4LGe5hiVts+5x837jgK6Y9Scr6cHZXVRCWo/IkU="
+    "hash": "sha256-7ZaYZFV41K7LRbUOXerT+luyF5tdYwdGbKSl0JRxb+I="
   },
   "solradmin": {
     "version": "2.0.1",
@@ -55044,10 +55046,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "static_info_tables": {
-    "version": "13.4.0",
-    "t3_versions": [],
+    "version": "13.4.1",
+    "t3_versions": [
+      13
+    ],
     "description": "Data and API for countries, languages and currencies for use in TYPO3 CMS.",
-    "hash": "sha256-S0iz0HNw4o1VaHQO5OFJkkWoZyVxSnYm5W8VeFfYW1U="
+    "hash": "sha256-kapU7hgh5Z5J0XF72Kr05Zx3GxshAYNGwO8xy+LNA44="
   },
   "static_info_tables_airports": {
     "version": "0.1.0",
