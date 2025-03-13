@@ -596,20 +596,22 @@
     "hash": "sha256-wnnxTzYwMiXtsmGDki8nSFR9vxxA+oi1Ig/D2i/P7D0="
   },
   "academic_persons_edit": {
-    "version": "0.2.0",
+    "version": "1.1.0",
     "t3_versions": [
-      11
+      11,
+      12
     ],
     "description": "dds the option to assign frontend users to academic persons and allow editing the profiles in frontend.",
-    "hash": "sha256-gb9zvp7VcTpJe11/enSluAH5t4z2ozzTfAeiTtqkqT0="
+    "hash": "sha256-RV8z4le4x6fLRl3zJWHCHaY4PTq8+1kOxFd8VpgAvRU="
   },
   "academic_persons_sync": {
-    "version": "0.2.0",
+    "version": "1.1.0",
     "t3_versions": [
-      11
+      11,
+      12
     ],
     "description": "Adds some configuration for external users providers like Active Directory.",
-    "hash": "sha256-6PW7gtjV9TlkOghiddD9M+zmGDGtkAu7PfX0H+uDCWY="
+    "hash": "sha256-WsJS5Cc6XL4Wa//SnSNZAvx9at4yMZHD4ByD/CKqt0A="
   },
   "academic_programs": {
     "version": "1.1.4",
@@ -1624,12 +1626,12 @@
     "hash": "sha256-VjFx9kagkYZ+UP502oKGTs64zlOsNZ0JCvSkQosql58="
   },
   "ai_suite": {
-    "version": "13.3.1",
+    "version": "13.4.0",
     "t3_versions": [
       13
     ],
-    "description": "Adds a backend module as well as various helper functionalities and features to your TYPO3 backend, which are intended to make the daily work of editors easier and faster with the help of AI.",
-    "hash": "sha256-V6HmuMMIjWFo5hSY2c5fMtZP+CSLyg0b+/zj+SMSs9I="
+    "description": "The AI Suite optimizes the workflow of project managers, agencies and freelancers by using the latest AI technologies. It seamlessly integrates a wide variety of AI interfaces and the AI Suite open source models into the TYPO3 backend. Enables, among other things, more efficient creation and management of image and page metadata (individually and as batch processing), content translations (including \"Easy Language\"), content creation and modification, image generation and page structure generation.",
+    "hash": "sha256-hGrnkI1aS3eupufx7k1dr3nrU6h4+YOeU97yMmLfXX0="
   },
   "ai_tools": {
     "version": "1.1.0",
@@ -10045,12 +10047,12 @@
     "hash": "sha256-zqT8IC5CM9sIqCV57crUaWZhZFXllcHCMc6DaL0Bae0="
   },
   "content_blocks": {
-    "version": "1.1.8",
+    "version": "1.1.9",
     "t3_versions": [
       13
     ],
     "description": "TYPO3 CMS Content Blocks - Content Types API | Define reusable components via YAML",
-    "hash": "sha256-YSJ8SIXaC19sYxVYjRO3b0J5H/1h88Fj/v0cBXF6Nas="
+    "hash": "sha256-D7KroWaJ8NRj1o1ADx3HkoOnjZSDK9fRoGlnJBhc5AE="
   },
   "content_consent": {
     "version": "3.0.1",
@@ -23230,12 +23232,13 @@
     "hash": "sha256-uQN+HX6vMTkGkweBQrtWt2lSIN/Kv5ry0mm2KQvK2zc="
   },
   "go_maps_ext": {
-    "version": "7.0.0",
+    "version": "7.0.1",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "Google Maps Extension. Simply insert a Google Map Version 3 without jQuery, calculate a route,",
-    "hash": "sha256-QqgAwQkZ4RwixOn7mCgreFHuLRPmqO0UCCf4Cvon0QA="
+    "hash": "sha256-PGbr/wlxaBxwVvQnvm/aZ5HA65tyr4NmNHqqNrPEaSo="
   },
   "gobernalia_change_style_shee": {
     "version": "0.0.0",
@@ -35965,12 +35968,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mmc_directmail_subscription": {
-    "version": "3.0.1",
+    "version": "3.0.2",
     "t3_versions": [
       11
     ],
     "description": "Custom direct-mail subscription plugin",
-    "hash": "sha256-jc1REMUv5IFqBVen+MGzjeo9zKoR90y9BOd4ApTQlNA="
+    "hash": "sha256-+zP3of5E2S3Utbm92iOvsji/uxDkOV5WU2N1IUQzQJI="
   },
   "mmc_extbasewsutility": {
     "version": "1.1.3",
@@ -39289,13 +39292,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ng_fastyoutube": {
-    "version": "1.5.0",
+    "version": "1.6.0",
     "t3_versions": [
       10,
-      11
+      11,
+      12
     ],
     "description": "TYPO3 Plugin that displays YouTube-videos faster by loading the video-player on demand while displaying a cacheable preview picture.",
-    "hash": "sha256-qbyVJsT9CxkqjimQqPDEToxSKQ/aF+E2vlrZu3FrUa8="
+    "hash": "sha256-t3ngNEUp9lRW2Te+CkdCO2MEkxhR1fkl4wcvkwds1WA="
   },
   "nginx_cache": {
     "version": "3.0.3",
@@ -43627,6 +43631,15 @@
     "description": "Manage persons",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "petabot": {
+    "version": "1.0.0",
+    "t3_versions": [
+      11,
+      12
+    ],
+    "description": "An AI chatbot plugin for Typo3 to boost support, engage users, and enhance your site with natural conversations.",
+    "hash": "sha256-e2O3QPTMFFyHw5+AFc4pT6eo64wN0o5a8eHLzcMWg5M="
+  },
   "petition": {
     "version": "1.1.0",
     "t3_versions": [
@@ -45539,12 +45552,14 @@
     "hash": "sha256-GO2WvAFnzEgJCCHQcV/ybpRy1NSt8rok3KxhXtRsvxg="
   },
   "psb_debug": {
-    "version": "0.1.2",
+    "version": "1.0.0",
     "t3_versions": [
-      11
+      11,
+      12,
+      13
     ],
-    "description": "a collection of debugging tools",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "description": "Collection of debugging tools",
+    "hash": "sha256-Dhs7F/4iW1zksQ68cOUPqWGkDn8f8MEMbW6KmeaTFAc="
   },
   "psb_foundation": {
     "version": "2.3.1",
@@ -45556,12 +45571,13 @@
     "hash": "sha256-78AGDIWSaZFIiJbsb+nYwf4kRX1BJauvPigX/XGpR+M="
   },
   "psb_view_helpers": {
-    "version": "2.0.0",
+    "version": "2.0.1",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "Collection of useful ViewHelpers",
-    "hash": "sha256-o4Vb+YACga97WRntIiI7OV6/IgLad0ngePQ/moWTlEE="
+    "hash": "sha256-l34z4/w9VP4jPwAEmQHtMLS7mCQZrzq2iky+azA94Yk="
   },
   "psc_disqus_sso": {
     "version": "0.1.3",
@@ -58652,6 +58668,14 @@
     "t3_versions": [],
     "description": "Makes SXW files available for download in the TER Documentation extension if they already exist",
     "hash": "sha256-k/MXTQGRMukp8cGEHf//iaLAjePZ9Ssfd0NK3mcXiBw="
+  },
+  "ter_test": {
+    "version": "0.0.1",
+    "t3_versions": [
+      12
+    ],
+    "description": "",
+    "hash": "sha256-hhJsVz5CGisnmBLHmjnlr3EG1qTY8qcg3dk1Br+Bi44="
   },
   "ter_tests": {
     "version": "0.0.5",
