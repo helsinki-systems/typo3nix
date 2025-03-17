@@ -3317,12 +3317,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "auto_sync_files": {
-    "version": "12.0.3",
+    "version": "12.0.4",
     "t3_versions": [
       12
     ],
     "description": "Downloads externals files periodically via Scheduler to your Webspace thus you do always have the newest version of a file locally stored. This can be really useful to improve caching performance. Or download a compressed file, unzip the file, delete the existing files.",
-    "hash": "sha256-7mAnm25KGnNNAmXhOVIaLxD5pI079fyVBceo7Pcigp0="
+    "hash": "sha256-en2whXR4GmiT2ZjgZ+J0JvEQ7QRwDSb7+lG2lErpShY="
   },
   "auto_translator": {
     "version": "3.0.1",
@@ -3495,14 +3495,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "autotranslate": {
-    "version": "2.0.0",
+    "version": "2.1.0",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "This extension provides automatic translation of pages and content elements via DeepL API.",
-    "hash": "sha256-xmyKZpiLZGH9FHwtd4o2DYpiqk2XvrOjw6hnucWkLgw="
+    "hash": "sha256-26U4LdMGC8hg9ANyFJClmvueQx5FJyZw+qdBilKvb1Y="
   },
   "autoupload_dummy": {
     "version": "1.0.2",
@@ -7220,12 +7220,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cart": {
-    "version": "11.3.0",
+    "version": "11.3.1",
     "t3_versions": [
       13
     ],
     "description": "Shopping Cart(s) for TYPO3",
-    "hash": "sha256-XEUvJzxOEHoe7d0Q+RUzHKgsAbgss9XIUN1rsZYq6Dk="
+    "hash": "sha256-0P9rvDTjH+DLylrvaecvK14cnZMDTmJwu6MrGTwXELI="
   },
   "cart_basket_image": {
     "version": "1.0.3",
@@ -9348,12 +9348,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "codehighlight": {
-    "version": "4.1.1",
+    "version": "4.2.0",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "Code highlighter for various programming, markup and configuration languages based on PrismJS",
-    "hash": "sha256-Xa7NJjhDOGfZ8YSkqocWgwxfoMx9JBCULrBIE7OHNjQ="
+    "hash": "sha256-QdAezIo/ZUjJQWlF8Wnvk4jSWwi1F9iabatXa1N+iY8="
   },
   "codersquad_libs": {
     "version": "1.0.1",
@@ -19051,10 +19052,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fe_change_pwd": {
-    "version": "5.3.0",
-    "t3_versions": [],
+    "version": "5.3.1",
+    "t3_versions": [
+      13
+    ],
     "description": "Plugin to enable password change for frontend users. Contains configurable password",
-    "hash": "sha256-G758FD3KNJJJtadh9pNIAh0sH750OAYNP0sS9aM429s="
+    "hash": "sha256-wHd0bNRNXnY8yaVqB5K3CVEU83hJhutWvvUpJbvXr2k="
   },
   "fe_changelog": {
     "version": "3.1.0",
@@ -21731,12 +21734,12 @@
     "hash": "sha256-BWibo3/20xqtaX8DidK/HYtgtpJvSyzjCx9HqXRROF8="
   },
   "fp_masterquiz": {
-    "version": "7.0.2",
+    "version": "7.0.3",
     "t3_versions": [
       13
     ],
     "description": "A modern extension that offers quiz, polls and tests. Ajax support. The result can be displayed as a chart too. Supports 8 question modes.",
-    "hash": "sha256-CbytOeKN6bkrzIisFfYN3g3OyazxbeIyqDugllcdP4U="
+    "hash": "sha256-EF5YU+e/kz9SwRKnm8jYHJPIrABIGpTWwbGLRe2Ze8I="
   },
   "fp_newsletter": {
     "version": "8.1.0",
@@ -29944,13 +29947,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ke_search": {
-    "version": "6.3.0",
+    "version": "6.4.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Faceted fulltext search for TYPO3. Fast, flexible and easy to install and use. Indexes content directly from the databases. Features faceting / filtering, file indexing, images in result lists and respects access restrictions.",
-    "hash": "sha256-dXLQsEr6kr2S2P7Xm9i94ryKouNH/wxEeII36I5Wh+8="
+    "hash": "sha256-prUk+CP0VBHKQkWlOJmH/o1vm6NTk0W8Q4X33hJiwT8="
   },
   "ke_search_dam_tags": {
     "version": "0.0.1",
@@ -35985,20 +35988,20 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mmc_guestbook": {
-    "version": "3.0.5",
+    "version": "3.0.8",
     "t3_versions": [
       11
     ],
     "description": "A guestbook plugin providing several mechanisms for spam prevention",
-    "hash": "sha256-5AcImaSuEW+bElqE4kWqq3T4FruUDYcsedXDVlJ3SBU="
+    "hash": "sha256-3RqniwsawBwhPvTovDxLcuHm7GTxIPiKhyENJXJahsA="
   },
   "mmc_slideshow": {
-    "version": "3.0.4",
+    "version": "3.0.7",
     "t3_versions": [
       11
     ],
     "description": "Slideshow with multiple sequences, each sequence can be configured (interval, animation, random mode)",
-    "hash": "sha256-hc2XPxPzk0RFPGMBF2Ydsp3M7jqW/8G/+Ldj5m5VYpg="
+    "hash": "sha256-3bODIuDdivM3JV4nCuetp2W9wp6Ex90g1r6bxVCFnBQ="
   },
   "mmforeign": {
     "version": "0.4.0",
@@ -43632,13 +43635,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "petabot": {
-    "version": "1.0.0",
+    "version": "2.0.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "An AI chatbot plugin for Typo3 to boost support, engage users, and enhance your site with natural conversations.",
-    "hash": "sha256-e2O3QPTMFFyHw5+AFc4pT6eo64wN0o5a8eHLzcMWg5M="
+    "hash": "sha256-sve7EjFfXnk7wrv3blrVL+dEcoprX4Z9ALN15SS3BWg="
   },
   "petition": {
     "version": "1.1.0",
@@ -47006,6 +47009,15 @@
     "description": "With TYPO3 11.5 the thumbnails have been removed from the recordlist. This extension brings those back",
     "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
   },
+  "recordmodules": {
+    "version": "1.0.5",
+    "t3_versions": [
+      12,
+      13
+    ],
+    "description": "Adds backend modules for configured record types.",
+    "hash": "sha256-22YplBymeRuU9APqjkcXD035NtaNNqR6bI5UXbkDERE="
+  },
   "recordsmanager": {
     "version": "1.6.9",
     "t3_versions": [
@@ -47377,12 +47389,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "reserve": {
-    "version": "3.0.1",
+    "version": "4.0.0",
     "t3_versions": [
-      12
+      13
     ],
     "description": "This extension allows you to reserve tickets for one or more persons using a period table and a form. Each reservation has it’s own QR Code that can be scanned at the event.",
-    "hash": "sha256-Y+9lG6cxXXeMzn0IdmncZ5dhtAVbBPKFiC/lrxrYLUY="
+    "hash": "sha256-2fqVuQLQKzOvN/SsmcuGFGRTjhlbCoPs9AH3CGpJsRU="
   },
   "reset_scheduler": {
     "version": "1.0.1",
@@ -49642,6 +49654,15 @@
     "description": "This extension adds a authentication method for SAML with different service provider.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "sanitizegp": {
+    "version": "1.0.0",
+    "t3_versions": [
+      12,
+      13
+    ],
+    "description": "Globally configure sanitizing actions for GET/POST parameters.",
+    "hash": "sha256-VI3UbNVnCEB3ylnIrMLaKH+MPb0yJ/PrZeR+btTBRkI="
+  },
   "sassify": {
     "version": "1.2.2",
     "t3_versions": [],
@@ -50193,14 +50214,14 @@
     "hash": "sha256-bCMkdMOCy2wNJ3Gz6SWr7i1qZ9ZfxkhhegmjmYFHEdo="
   },
   "schema": {
-    "version": "3.10.0",
+    "version": "3.10.1",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "API and view helpers for schema.org markup",
-    "hash": "sha256-9NQ1QbiF37+XVuG46EHT94Rc1GkeWRU7nB14MXPt+F0="
+    "hash": "sha256-F1eClXzgVccLaC5SNq8BPlewHP30TRtePYV63Fxknt0="
   },
   "schema_auto": {
     "version": "2.3.0",
@@ -62675,6 +62696,15 @@
     "description": "Adds the posibility to use strReplace,strRemove and pregReplace with typoscript",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "typowyg": {
+    "version": "1.0.0",
+    "t3_versions": [
+      11,
+      12
+    ],
+    "description": "Provides the Trumbowyg - Editor.",
+    "hash": "sha256-upcuTDmtzYF3gvCBD+KX/xw3sPNZo05zYqLtMk0onBs="
+  },
   "tzpanel": {
     "version": "1.0.0",
     "t3_versions": [
@@ -64216,12 +64246,12 @@
     "hash": "sha256-B19a9XblwxaG00itj1YQcrkKeqU1aGXnOVkWq0xpe74="
   },
   "web2pdf": {
-    "version": "5.0.0",
+    "version": "5.0.1",
     "t3_versions": [
       13
     ],
     "description": "This Extension renders the pagecontent to a PDF file. It supports css and uses the library mPDF.",
-    "hash": "sha256-6REufjqdxhUB4OjRuoBRKeab5qy7v4yB03TlO0+hkrs="
+    "hash": "sha256-QsaWrfEM1p9uM3Dr11bS880xaKuWHAM3Vrss52j4gOY="
   },
   "web_list_filter": {
     "version": "1.0.0",
@@ -65454,10 +65484,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ws_scss": {
-    "version": "13.0.1",
-    "t3_versions": [],
+    "version": "13.0.2",
+    "t3_versions": [
+      13
+    ],
     "description": "Compiles scss files to CSS files.",
-    "hash": "sha256-rLMcip3s/ze5GSDBmSLSnyTauBj+EcNuFBYvR+xVGNU="
+    "hash": "sha256-rzDH+T5Gzr+GnazPANpuDkbExJbO2aK9+6FMM6zBEhw="
   },
   "ws_sitemap": {
     "version": "0.4.8",
