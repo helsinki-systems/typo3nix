@@ -1131,13 +1131,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "additional_tca": {
-    "version": "1.16.8",
+    "version": "1.16.9",
     "t3_versions": [
       12,
       13
     ],
     "description": "Additional TCA fields and tools",
-    "hash": "sha256-eIMw0dzYxI2svQplNshrL4rDc8M9R7vo0YHGQk9UwOU="
+    "hash": "sha256-iUG82kAEEZ9uFfAflMuWKKEuTHhVAVjcbBxlvN4vw0k="
   },
   "addlinkheader": {
     "version": "0.0.4",
@@ -3061,6 +3061,15 @@
     ],
     "description": "Advanced age calculator to fix problems with singular/plural grammatical forms in age.",
     "hash": "sha256-cuD2LvCqE2H93HnqjsNG/Oy/F3JysphDtL54aHpu4W4="
+  },
+  "at_goodfood": {
+    "version": "1.0.0",
+    "t3_versions": [
+      11,
+      12
+    ],
+    "description": "Good Food is a modern and responsive TYPO3 template designed for restaurants, cafés, food blogs, and catering businesses. It features a clean and elegant design, easy customization, and SEO-friendly structure to showcase menus, recipes, and services beautifully.",
+    "hash": "sha256-E5Tlr42bbkp55pKP0GAH1jShGSVhzgWzJNz4HAkevdQ="
   },
   "at_slider": {
     "version": "10.0.1",
@@ -8177,13 +8186,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cf_cookiemanager": {
-    "version": "1.7.4",
+    "version": "1.8.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "Manage cookies, scripts, and GDPR compliance on your Typo3 website with CodingFreaks Typo3 Cookie Manager. Customize cookie banners, streamline workflow, and enhance user experience. Ensure GDPR compliance and take control of cookie management with our Typo3 cookie management extension. Visit the official Typo3 Documentation page to learn more.",
-    "hash": "sha256-0SLXWtYV5RU9VaKdd0j3xJqZMlx3bs7W42z9IhU6PvU="
+    "hash": "sha256-eMj+3oVFFPLFAAJBJb8PE4NgIfFzrWgKGpAayBbUtuo="
   },
   "cf_google_authenticator": {
     "version": "1.2.4",
@@ -11352,12 +11361,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cs_seo": {
-    "version": "9.1.0",
+    "version": "9.2.0",
     "t3_versions": [
       13
     ],
     "description": "SEO Extension: Enables important onpage features for search engine optimization (SEO). Expands",
-    "hash": "sha256-OxeO5bW0oKtyeGrNQKRDUVGHNqLdQXzFxYPuL4NtdwU="
+    "hash": "sha256-klOTnhZcYJp7dY0cGwbped5A0LvMUn2yVcIciLyU+dQ="
   },
   "cs_static_hide": {
     "version": "1.0.1",
@@ -13227,12 +13236,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "dd_deepl": {
-    "version": "12.7.0",
+    "version": "13.0.0",
     "t3_versions": [
-      12
+      13
     ],
     "description": "Translates pages, content and records using DeepL",
-    "hash": "sha256-7aUrnjUixE7J98lTwaUoJUcfcbN9z9inZBJAH9Xzr4s="
+    "hash": "sha256-cel5vswS1SYXKm3R07mfGAM4jSYvK5Ng0WOXVHDwuJo="
   },
   "dd_download": {
     "version": "1.1.1",
@@ -21251,12 +21260,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "form_dynamic_recipient": {
-    "version": "3.1.0",
+    "version": "4.0.1",
     "t3_versions": [
-      12
+      13
     ],
     "description": "Adds new form select type, which shows recipient records of a given page. This information can be used as dynamic recipient for the form data.",
-    "hash": "sha256-f78GoEFlrUusXBXNVCD1ZkJKLaprWKYFGG+GaNOqlrI="
+    "hash": "sha256-QjX/9Xh7D3kcQDePUMEFptbFzX5U0p1cFcx9yffIVHY="
   },
   "form_element_linked_checkbox": {
     "version": "5.0.2",
@@ -23235,13 +23244,13 @@
     "hash": "sha256-uQN+HX6vMTkGkweBQrtWt2lSIN/Kv5ry0mm2KQvK2zc="
   },
   "go_maps_ext": {
-    "version": "7.0.1",
+    "version": "7.1.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Google Maps Extension. Simply insert a Google Map Version 3 without jQuery, calculate a route,",
-    "hash": "sha256-PGbr/wlxaBxwVvQnvm/aZ5HA65tyr4NmNHqqNrPEaSo="
+    "hash": "sha256-jpRblNSK62/5Q7tp6f2fT25Js+zyLXMtRl1Mlfq+XvI="
   },
   "gobernalia_change_style_shee": {
     "version": "0.0.0",
@@ -63089,12 +63098,12 @@
     "hash": "sha256-3onvdv1J5N/vn9z3433Pv246KTrTqOMl/Bk82N9Hy8o="
   },
   "varnishcache": {
-    "version": "4.0.0",
+    "version": "5.0.0",
     "t3_versions": [
-      12
+      13
     ],
     "description": "This extension provides varnish functionality to TYPO3 instances. Use ESI-Tags and clear varnish cache from TYPO3.",
-    "hash": "sha256-cF5AI17qiZhludGFIh03MzfymXnbmV0dQ8KjuimAeAE="
+    "hash": "sha256-a66SUiJKXXSSkfs4YNcJQz45BGCdgY9QN7FD6B4Ey7k="
   },
   "vat_atctraining": {
     "version": "0.0.1",
@@ -66272,13 +66281,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "xima_typo3_content_planner": {
-    "version": "1.1.2",
+    "version": "1.3.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "This extension provides a page status functionality to support the planning of content work.",
-    "hash": "sha256-OosHfP3rT5Yz8wfkbqUdeSCMeDYzRCJ22JWkC3tOty0="
+    "hash": "sha256-PDpf6nsO5KA6t/UVW/U2lFBz5AQEEmsSW1UmumipV9g="
   },
   "xima_typo3_frontend_edit": {
     "version": "1.5.0",
