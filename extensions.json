@@ -1660,13 +1660,13 @@
     "hash": "sha256-mLO7/zsLctavB/gvr5k6AC7eiEf9qNvZ/9WPt9NvfxY="
   },
   "aimeos": {
-    "version": "24.10.4",
+    "version": "24.10.5",
     "t3_versions": [
       12,
       13
     ],
     "description": "Professional, full-featured and ultra-fast TYPO3 e-commerce extension for online shops, complex B2B applications and #gigacommerce. Turns TYPO3 into the best platform for content commerce and your e-commerce requirements (also available as TYPO3 distribution)",
-    "hash": "sha256-tNYAygGS8NfLDkXvittLH3gwcsibJIAOqB8p5NA7Hb0="
+    "hash": "sha256-ByC0hAMUGNBWwENIj4bBmI2IKnkt92i98+4VCjHmRPo="
   },
   "aimeos_dist": {
     "version": "24.10.2",
@@ -10065,12 +10065,13 @@
     "hash": "sha256-D7KroWaJ8NRj1o1ADx3HkoOnjZSDK9fRoGlnJBhc5AE="
   },
   "content_consent": {
-    "version": "3.0.1",
+    "version": "3.0.2",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "Provides a content consent plugin to load any content elements and custom plugins by ajax without jQuery! So you can include Google Maps, YouTube- or Vimeo videos GDPR/DSGVO compliant. Best used with Bootstrap 5",
-    "hash": "sha256-2YlJYJUPnk62WA6ebh03szvjhLPY3cxd1FcEFDJlnOI="
+    "hash": "sha256-fUgjS5g8NkSMgzz9EWu7acom5NC6vnrknHEYHUYgDYk="
   },
   "content_defender": {
     "version": "3.5.2",
@@ -18330,13 +18331,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "external_import": {
-    "version": "8.0.1",
+    "version": "8.0.3",
     "t3_versions": [
       12,
       13
     ],
     "description": "Tool for importing data from external sources into the TYPO3 CMS database, using an extended TCA syntax. Provides a BE module, a Scheduler task, a command-line tool and an API.",
-    "hash": "sha256-op3D+Ebwbqt66hT/mfAPDKE8gzIOJTAl8jrmAUqdSOU="
+    "hash": "sha256-6r43a6Ghoo7P8PL5YYbL/GTMADhWSImn2KZpDeHXCUg="
   },
   "external_import_tt_products": {
     "version": "0.0.1",
@@ -24450,13 +24451,13 @@
     "hash": "sha256-/jR61A4Ct78lkWaI1fgVll8PuUruNlnBE2E98U97j/s="
   },
   "hh_tt_address_places": {
-    "version": "4.0.0",
+    "version": "4.1.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Simply adds places / companies TCA for EXT:tt_address.",
-    "hash": "sha256-jdPMpuEnc1MOKQuXqmuumiBfMJ6rjJFfd2JKdrChB/c="
+    "hash": "sha256-HgwsEjZvJ5+vnPnL64YG9YdHYI6lf4nVqEm1Kvur6q0="
   },
   "hh_video_extender": {
     "version": "0.3.2",
@@ -28787,12 +28788,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "jpfaq": {
-    "version": "13.4.1",
+    "version": "13.4.2",
     "t3_versions": [
       13
     ],
     "description": "Frequently Asked Questions (FAQ) plugin. With categories, on-the-fly search, customer helpfulness tracking and comments.",
-    "hash": "sha256-wN1tng3EO+lDBmClsyUD67hlE+BB+T2GioLXHISLqrI="
+    "hash": "sha256-dywgmGGRPrnZ7Wk0df0inOtvelpLSdFRPekHuHjqAIM="
   },
   "jpgraph": {
     "version": "0.3.11",
@@ -50504,13 +50505,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "secrets": {
-    "version": "2.0.3",
+    "version": "2.0.4",
     "t3_versions": [
       12,
       13
     ],
-    "description": "",
-    "hash": "sha256-lJ2yImToAhJ9eovT5ibdAtjqfhwFyCrb8Yn8POuMm0A="
+    "description": "secrets is used to encrypt messages and share them as a one-time link. The extension is suitable for organizations that place particular emphasis on security and trustworthiness. Since all communication takes place via your own web server, no third-party tools from servers whose location is not known (DSGVO) are necessary. Your own domain name in the link is more trustworthy and makes a more professional impression.",
+    "hash": "sha256-nr48MeT3DmZYBzwaJ9I9aTTgzZFT7LB/X17kfhyiDW4="
   },
   "secsign": {
     "version": "2.0.0",
@@ -56871,10 +56872,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "t3extensions_widget": {
-    "version": "2.2.0",
-    "t3_versions": [],
+    "version": "2.2.1",
+    "t3_versions": [
+      13
+    ],
     "description": "Dashboard widget that displays the most recent TYPO3 extensions published/updated at the TER",
-    "hash": "sha256-VO/ax1+WGPboWGMvfbgalWPJaLJ8SEbRdgOadIYQoiw="
+    "hash": "sha256-N7otAYnb91H9yC34kJsUuNvDXxb1Wo4M5YRWFlnSGik="
   },
   "t3ezlogger": {
     "version": "1.0.0",
@@ -57355,13 +57358,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "t3sbootstrap": {
-    "version": "5.3.21",
+    "version": "5.3.22",
     "t3_versions": [
       12,
       13
     ],
     "description": "Startup extension to use bootstrap 5 classes, components and more out of the box. Example and info: www.t3sbootstrap.de",
-    "hash": "sha256-Zj/KqldncdYOHdwh7IyqR81rfMmks1lfeDZi2CLA3EE="
+    "hash": "sha256-5fUxJO2Uf5brFTbvvF23cLXhxQUcyZRultwQP26RNjk="
   },
   "t3sbootstrap_grid": {
     "version": "4.0.0",
