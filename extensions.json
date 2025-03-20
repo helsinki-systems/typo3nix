@@ -16485,13 +16485,15 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "easy_accesskeys": {
-    "version": "0.2.0",
+    "version": "0.4.0",
     "t3_versions": [
       10,
-      11
+      11,
+      12,
+      13
     ],
     "description": "Easy Accesskeys",
-    "hash": "sha256-SNqK/xSZOwSNYvsraQeYyFzDLoOtNDk65SsdqAOqdtg="
+    "hash": "sha256-ep/tNOdvEU3mAfRe6QSW25Q7s/F5C6yIEL6pjbAnWHg="
   },
   "easy_googlemap": {
     "version": "3.0.2",
@@ -44124,12 +44126,13 @@
     "hash": "sha256-vyx2EHgqjCEQcFxgNC055zO/yVJZcmaOlo7O+l2rPf4="
   },
   "picturecredits": {
-    "version": "2.3.1",
+    "version": "2.4.0",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "Implements a central image rights management in FAL and automated rendering of picture credits on regular content pages.",
-    "hash": "sha256-rIyDpwEhUoZVUY9GErcr/7JlAWAkcwTcQa48adT7CEo="
+    "hash": "sha256-VFQoZv3qoyeZXejVkg3cLGXecj8omeYDN+uUnQXpdcc="
   },
   "piflexformupdate": {
     "version": "0.0.3",
@@ -62491,6 +62494,26 @@
     "description": "CRUD Basic Database Example (Create, Read, Update and Delete) with Extbase and Fluid.\r",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "typo3_dump_server": {
+    "version": "0.1.0",
+    "t3_versions": [
+      11,
+      12,
+      13
+    ],
+    "description": "This extension brings the Symfony Var Dump Server to TYPO3.",
+    "hash": "sha256-UF8RTSt5kDRuaYw+41Zye/6RglN7RnoEPIUq1T2CJeE="
+  },
+  "typo3_environment_indicator": {
+    "version": "1.1.0",
+    "t3_versions": [
+      11,
+      12,
+      13
+    ],
+    "description": "This extension comes with several features to show an environment indicator in the TYPO3 frontend and backend.",
+    "hash": "sha256-Oo+TITEN1z5Ww3wUti1q+h8LON6T40tT4hyXnbzGcSI="
+  },
   "typo3_feed": {
     "version": "2.0.1",
     "t3_versions": [],
@@ -62709,13 +62732,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "typowyg": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Provides the Trumbowyg - Editor.",
-    "hash": "sha256-upcuTDmtzYF3gvCBD+KX/xw3sPNZo05zYqLtMk0onBs="
+    "hash": "sha256-Oii5D+0xdpnZzY8/0o72cPFJ0xJmtrUmTSO9E/ckX8Q="
   },
   "tzpanel": {
     "version": "1.0.0",
@@ -66387,13 +66410,12 @@
     "hash": "sha256-U5AfFQn/D+UIfFN0OIC50fOOlbWRw1/rt19pRego7/c="
   },
   "xlsimport": {
-    "version": "5.0.5",
+    "version": "6.0.0",
     "t3_versions": [
-      11,
-      12
+      13
     ],
     "description": "A simple importer to import data into the database",
-    "hash": "sha256-HayZS8G+lXzNVjOPhb2kpcypm4jFvzK5plJ+nDNXHJo="
+    "hash": "sha256-y00FDcUDccUaGaeaysY3bH0nFf3DFecxtCq2jn7oB2Y="
   },
   "xm_formcycle": {
     "version": "10.0.0",
