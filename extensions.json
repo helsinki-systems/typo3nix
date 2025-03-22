@@ -32129,12 +32129,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "loginviaemail": {
-    "version": "4.0.0",
+    "version": "5.0.0",
     "t3_versions": [
-      12
+      13
     ],
     "description": "EN:",
-    "hash": "sha256-+Mq/Vu25K212vhTBWyIunn4qdpxNZo642Q99DDzyuOE="
+    "hash": "sha256-c2mIYfNT9+diixksNnBhlauzFiuhwjQpiL3qTSoZh74="
   },
   "logmail": {
     "version": "0.1.0",
@@ -66318,14 +66318,14 @@
     "hash": "sha256-fwJ/Omh89Mp0QwlSKjL2QEjSoaonj75Js6SeOi/dHWw="
   },
   "xima_typo3_frontend_edit": {
-    "version": "1.5.0",
+    "version": "1.5.1",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "This extension provides an edit button for editors within frontend content elements.",
-    "hash": "sha256-ldpyQULepyVULSmfjqfH4M2D944A79J8z76esWi0FVY="
+    "hash": "sha256-FklrFkn+JNvDPoVylooTxItXngaEhrgrlbZY1rqH7YM="
   },
   "xima_typo3_internal_news": {
     "version": "1.0.0",
