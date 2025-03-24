@@ -3844,12 +3844,12 @@
     "hash": "sha256-VAZ1+8EOj3I20pfFhg6Oe7w196SRb2Yv2EHIELjupt8="
   },
   "backgroundimage4ce": {
-    "version": "7.0.0",
+    "version": "7.0.1",
     "t3_versions": [
       13
     ],
     "description": "Allows background images and background options for all types of content elements (text, text with image, forms, plugins, ...). Background images are adaptive.",
-    "hash": "sha256-9LU1b5F7VJmzsRz+f8AYSa9YbXy2Gbycjp/J5PgBQz4="
+    "hash": "sha256-dVZuVD1pRRWnGYy/dw/zkdjcgPRlESYfkH1x+GOboFI="
   },
   "backup": {
     "version": "0.1.0",
@@ -10049,13 +10049,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "content_animations": {
-    "version": "2.5.3",
+    "version": "2.5.4",
     "t3_versions": [
       12,
       13
     ],
     "description": "This extension allows you to set nice animations to your content elements if they are scrolled into the browsers viewport. To install it include the static typoscript of content_animations to your template and you're good to go. Have fun! :-)",
-    "hash": "sha256-zqT8IC5CM9sIqCV57crUaWZhZFXllcHCMc6DaL0Bae0="
+    "hash": "sha256-AfToijkanNxy5yWgP7Vdw03r4FjS4ylg2fCf0SLYwKU="
   },
   "content_blocks": {
     "version": "1.1.9",
@@ -10662,7 +10662,7 @@
     "hash": "sha256-DCvKiO52hfkV4m7w1U8gjidOCZdAJWoAZ8mvqsoINWA="
   },
   "copyright_guardian": {
-    "version": "13.4.0",
+    "version": "13.4.6",
     "t3_versions": [
       10,
       11,
@@ -10670,7 +10670,7 @@
       13
     ],
     "description": "Manages the copyright details of images and other media and offers a convenient way of displaying these automatically and directly on the page on which the media is used. In addition, a list of all media used and the associated copyright information can be output",
-    "hash": "sha256-bReU3zxgkHUa4PHaBfeCBpMgKIYp6RrXPiEAWeQdRgo="
+    "hash": "sha256-gtPZiZ2fMtJJHco7ENU0EjeB25Wr5Mf3SPrbiQYzmjM="
   },
   "core_permalogin": {
     "version": "0.0.1",
@@ -18334,13 +18334,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "external_import": {
-    "version": "8.0.3",
+    "version": "8.0.4",
     "t3_versions": [
       12,
       13
     ],
     "description": "Tool for importing data from external sources into the TYPO3 CMS database, using an extended TCA syntax. Provides a BE module, a Scheduler task, a command-line tool and an API.",
-    "hash": "sha256-6r43a6Ghoo7P8PL5YYbL/GTMADhWSImn2KZpDeHXCUg="
+    "hash": "sha256-+IL8di6ruZRFMZPkppt+XCVa7tTc2UNyq4ZuhT8wEAU="
   },
   "external_import_tt_products": {
     "version": "0.0.1",
@@ -24428,12 +24428,12 @@
     "hash": "sha256-HnCWOAsvbwuFNoEfQ2xrtjAD4a93itUcLWqxEjl1TPM="
   },
   "hh_simple_job_posts": {
-    "version": "4.2.1",
+    "version": "5.0.1",
     "t3_versions": [
-      12
+      13
     ],
     "description": "Adds plugins for list / show job postings with meta-data and schema.org stuff. Uses tt_address for job-contacts and job-location.",
-    "hash": "sha256-RaDnpT001UXjUKYFNZGTrvM83qT3fiO6yxqTzmwiRbU="
+    "hash": "sha256-eMyL3++2iHnUlkSJ0w1PedrIOOX4s0cLFpXGpI0sLeg="
   },
   "hh_slider": {
     "version": "0.6.2",
@@ -25445,6 +25445,15 @@
     ],
     "description": "This Extension registers an Iconpack-Provider for EXT:iconpack which allows you to use the \"Feather Icons\" in TYPO3.",
     "hash": "sha256-l2f9xsWtvX6KoqIOUDrYpdf44KuEPlJPiWYSAEmTB9E="
+  },
+  "iconpack_flagicons": {
+    "version": "1.0.0",
+    "t3_versions": [
+      12,
+      13
+    ],
+    "description": "This Extension registers an Iconpack-Provider for EXT:iconpack. Vector (*.svg) country flag icons in 3:2 aspect ratio.",
+    "hash": "sha256-4c0coUi0EVJFzb3Ls/vu92kqf5mM5bx0uXeb3jy+RbQ="
   },
   "iconpack_fontawesome": {
     "version": "1.0.1",
@@ -28634,13 +28643,13 @@
     "hash": "sha256-1l2qnR24Uj66g8z4HM++GDYa0K/F5ArBSCIH/9vQruo="
   },
   "jobfair": {
-    "version": "5.0.2",
+    "version": "5.0.3",
     "t3_versions": [
       11,
       12
     ],
     "description": "Simple job market based on Extbase and Fluid. Basically works like dmmjobcontrol. There are list and detail views available. In addition, it is possible to set up an online application system. Furthermore, FE-Users can be enabled to add and edit jobs in the frontend, so to BE-Administration is required. Feeds (Rss091, Rss2, Atom) are also available",
-    "hash": "sha256-mV1vnCh7q4/FsZt3slo1FsT+E9TCQOld9PXOvlaf3Kg="
+    "hash": "sha256-sc4cQkMzeQVoQSKA/cEzqIBpZ9vT28Qwy4Rmycu49PM="
   },
   "joboffers_feedit": {
     "version": "0.1.5",
@@ -30380,15 +30389,15 @@
     "hash": "sha256-t42MVuype0xnDhbTALO5MxQ26V/TjDlPsHCbb1f2TTQ="
   },
   "klarokratie": {
-    "version": "13.4.0",
+    "version": "13.4.7",
     "t3_versions": [
       10,
       11,
       12,
       13
     ],
-    "description": "Includes Klaro! Consent-Manager into TYPO3. Completely file-based configuration for versioning without having to take care of database-entries. This extension automatically adds a consent-overlay to embedded YouTube- and Vimeo-Videos.",
-    "hash": "sha256-cpL+t+xY4Kexcv10i6GyEWYDCzX2lsJJaEtncUodNXA="
+    "description": "Includes Klaro! Consent-Manager into TYPO3. Completely file-based configuration for versioning without having to take care of database-entries. This extension automatically adds a consent-overlay to embedded YouTube- and Vimeo-Videos. It also comes with a ready-to-use integration for Google Analytics / Google Tag Manager and etracker.",
+    "hash": "sha256-o8s02CW9u6MxTT5NsEdU2Qi5k9+d0pzEWDra3Ppfzvc="
   },
   "km_dam_extension": {
     "version": "1.0.2",
@@ -30814,13 +30823,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "l10nmgr": {
-    "version": "12.0.2",
+    "version": "12.1.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Power up your TYPO3 translations with L10nmgr! Get exclusive early access to v13! L10nmgr is the go-to extension for professional TYPO3 translations, enabling efficient bulk translation exports and imports. L10nmgr 13 makes multilingual content management even more powerful and flexible! Support L10nmgr now and unlock v13 today! Sponsor us here: https://coders.care/for/crowdfunding/l10nmgr-and-localizer",
-    "hash": "sha256-f6ACVbbWgH9n8W/q3cMpK9YVUnXPSnH5CD08Cz5HPMI="
+    "hash": "sha256-CKYS0PnIPkwT2oF2Lwc1YzP+Sud/nn2bgpmebje8WHs="
   },
   "l10nmgr_grid": {
     "version": "0.2.2",
@@ -39657,12 +39666,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "nlp_tools": {
-    "version": "1.0.0",
+    "version": "1.1.1",
     "t3_versions": [
+      12,
       13
     ],
-    "description": "Natural Language Processing tools for TYPO3",
-    "hash": "sha256-EMXBtl0B4FitYgYPV0SbWIqXk+CjVm5gzfO1y7eODMU="
+    "description": "Natural Language Processing tools for TYPO3 with language detection, stemming, stop words filtering, and text clustering",
+    "hash": "sha256-CdUsyavhHD8msk2sH9GdffZJf7pF5TccWz+65Cfesr8="
   },
   "nn_address": {
     "version": "2.4.1",
@@ -40689,10 +40699,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "oauth2": {
-    "version": "3.0.0",
-    "t3_versions": [],
+    "version": "3.3.1",
+    "t3_versions": [
+      11,
+      12,
+      13
+    ],
     "description": "Generic OAuth 2.0 authentication and authorization for TYPO3 CMS",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-DwV4PsDavsYQhAjmmbLFYRIhVrYWXx+MaRu1UFR5UF8="
   },
   "oauth2_client": {
     "version": "2.1.1",
@@ -42242,12 +42256,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "page_link_insights": {
-    "version": "1.1.0",
+    "version": "1.2.1",
     "t3_versions": [
+      12,
       13
     ],
     "description": "A TYPO3 extension that adds a backend module with a D3.js force diagram visualization for understanding page relationships.",
-    "hash": "sha256-g3fgF6jUFJjPE8eteDzqMV5Ayu6KaspPyijemLyxTbg="
+    "hash": "sha256-o5VcEtdtUVsLE3QzkwJl6DgS/OHBRVqKna6gYVyuXOk="
   },
   "page_params": {
     "version": "1.0.6",
@@ -43648,13 +43663,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "petabot": {
-    "version": "2.0.0",
+    "version": "2.0.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "An AI chatbot plugin for Typo3 to boost support, engage users, and enhance your site with natural conversations.",
-    "hash": "sha256-sve7EjFfXnk7wrv3blrVL+dEcoprX4Z9ALN15SS3BWg="
+    "hash": "sha256-tuj5oC/rqx1tvLmI30709crqPRr7T/IC24sPUbRNes4="
   },
   "petition": {
     "version": "1.1.0",
@@ -45106,12 +45121,12 @@
     "hash": "sha256-GxUEQfiZfZ/CfSXKr31QMlOYFQDHPmxMGCnk506fa00="
   },
   "powermailcaptcha": {
-    "version": "2.2.0",
+    "version": "2.2.1",
     "t3_versions": [
       12
     ],
     "description": "Captcha Extension for Powermail",
-    "hash": "sha256-2nayHqFbSM6WVlCEZtkkwx9hcJ9JjKO2hyPIt2JUl4k="
+    "hash": "sha256-v/UopFMEoCxwnjO2DbP/+Rvww69e7h8fvIPSr99jXT4="
   },
   "powermailcustomcss": {
     "version": "1.1.0",
