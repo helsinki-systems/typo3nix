@@ -3505,14 +3505,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "autotranslate": {
-    "version": "2.1.0",
+    "version": "2.1.1",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "This extension provides automatic translation of pages and content elements via DeepL API.",
-    "hash": "sha256-26U4LdMGC8hg9ANyFJClmvueQx5FJyZw+qdBilKvb1Y="
+    "hash": "sha256-ay7rT9CugSJMfuOEW3+HG5PZ1CmDQT6/g1B1yrdsjtk="
   },
   "autoupload_dummy": {
     "version": "1.0.2",
@@ -7230,12 +7230,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cart": {
-    "version": "11.3.1",
+    "version": "11.4.0",
     "t3_versions": [
       13
     ],
     "description": "Shopping Cart(s) for TYPO3",
-    "hash": "sha256-0P9rvDTjH+DLylrvaecvK14cnZMDTmJwu6MrGTwXELI="
+    "hash": "sha256-F6NlmzZY0sUnfX3Kufzrw5lbKwS4OEtyVwNnI6CGW2I="
   },
   "cart_basket_image": {
     "version": "1.0.3",
@@ -15612,12 +15612,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "docuseal": {
-    "version": "1.0.0",
+    "version": "2.0.0",
     "t3_versions": [
-      12
+      13
     ],
     "description": "Allows TYPO3 to integrate with DocuSeal services, enabling frontend users to securely sign documents using the DocuSeal API",
-    "hash": "sha256-r8rlU1JA1mJG67nnYQkTK3yNCGuUVyfYnz17hPhOSZg="
+    "hash": "sha256-BCudZ3o4A27ftGsfPNva554lq7Mmwnj+DrHYOuLH0wk="
   },
   "doktype_typolink": {
     "version": "3.0.1",
@@ -26614,13 +26614,12 @@
     "hash": "sha256-BFdTRWWeRaqtvDUFfouCjp9+is3B2SY0zKVQskUhklI="
   },
   "in2publish_core": {
-    "version": "12.5.9",
+    "version": "13.0.0",
     "t3_versions": [
-      11,
-      12
+      13
     ],
     "description": "Content publishing extension to connect stage and production server",
-    "hash": "sha256-aADXVbyKufvUOdA7xHa5STHqB50dhV+Xxu+LSrR+ygM="
+    "hash": "sha256-Um3iEigW/KRM3hY6vkDJkkvHYYdefliwJE+QNx55sn4="
   },
   "in2rss": {
     "version": "0.2.2",
@@ -39666,13 +39665,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "nlp_tools": {
-    "version": "1.1.1",
+    "version": "1.2.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Natural Language Processing tools for TYPO3 with language detection, stemming, stop words filtering, and text clustering",
-    "hash": "sha256-CdUsyavhHD8msk2sH9GdffZJf7pF5TccWz+65Cfesr8="
+    "hash": "sha256-S3Vwot8bkuvTeFmznoBulSovzt9aTpPkAVqV2LH6Qx0="
   },
   "nn_address": {
     "version": "2.4.1",
@@ -42256,13 +42255,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "page_link_insights": {
-    "version": "1.2.1",
+    "version": "1.3.0",
     "t3_versions": [
       12,
       13
     ],
-    "description": "A TYPO3 extension that adds a backend module with a D3.js force diagram visualization for understanding page relationships.",
-    "hash": "sha256-o5VcEtdtUVsLE3QzkwJl6DgS/OHBRVqKna6gYVyuXOk="
+    "description": "Visualize internal page links with D3.js force diagrams and thematic clustering for content analysis.",
+    "hash": "sha256-MFC3kaQiQULKr4gpIqZKXmly1WMNMYfOW5nudIYb8Fs="
   },
   "page_params": {
     "version": "1.0.6",
@@ -59527,13 +59526,13 @@
     "hash": "sha256-V7UlPSqLKD5kapOcSId6gQRbKlTuz/HlU1qUOwCeGlI="
   },
   "tile_proxy": {
-    "version": "1.3.3",
+    "version": "1.3.4",
     "t3_versions": [
       12,
       13
     ],
     "description": "Integrate OpenStreetMap without the need for a cookie banner or content blocker - that is the purpose of ext:tile_maps. All requests for map tiles are routed through a configurable proxy url within your TYPO3-system. Since the client browser does not directly requests the OpenStreetMap-server no user confirmation and no content blockers are necessary (GDPR compliant). A proxy is also provided for geocoding nominatim. For a certain area (as specified in the TYPO3-backend) the tiles are cached to improve performance.",
-    "hash": "sha256-myIR1AmVFC9tKEaj4dquvBy+WC/ehtdEkhae0PdzE7s="
+    "hash": "sha256-+DLjlPuH6ucEDDtsdzqvQML0QZ8anp8qg2fPX6teew0="
   },
   "timecollect": {
     "version": "0.0.1",
