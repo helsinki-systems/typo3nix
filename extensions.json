@@ -3228,13 +3228,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ausstello": {
-    "version": "1.1.1",
+    "version": "1.1.7",
     "t3_versions": [
       12,
       13
     ],
     "description": "Events managen und kommunizieren, Marketing automatisieren. Einfach, ausstello.",
-    "hash": "sha256-rsuWVL7bnhtFKZzi+mXyL3FzxQa3SGCbznwq2AhOWNI="
+    "hash": "sha256-J7uzAJocORyDe7h+Vc9saajZ9Y5+5Az9Zh34CK5Ee+E="
   },
   "auth0": {
     "version": "13.0.0",
@@ -7230,12 +7230,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cart": {
-    "version": "11.4.0",
+    "version": "11.4.1",
     "t3_versions": [
       13
     ],
     "description": "Shopping Cart(s) for TYPO3",
-    "hash": "sha256-F6NlmzZY0sUnfX3Kufzrw5lbKwS4OEtyVwNnI6CGW2I="
+    "hash": "sha256-5aLcSlK/HEhZta5d0aavmHoS7Tc/d47TvoQ0voLfEQU="
   },
   "cart_basket_image": {
     "version": "1.0.3",
@@ -14382,13 +14382,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "div2007": {
-    "version": "2.3.1",
+    "version": "2.3.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "This library offers classes and functions to other TYPO3 extensions. Replacement for tslib_pibase methods.",
-    "hash": "sha256-Dtk+m9jOrtrIdftAwT6rrGKWssaNBRHd3xyQ8yA3WrA="
+    "hash": "sha256-V3XydKtjS1R789thNnozZ50Ll9PM0jR4MABvTo21QFI="
   },
   "diva": {
     "version": "8.7.1",
@@ -18318,6 +18318,15 @@
     "description": "Upload your extensions into the TER",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "extensionbuilder_typo3": {
+    "version": "0.5.147",
+    "t3_versions": [
+      12,
+      13
+    ],
+    "description": "RC 1 - ",
+    "hash": "sha256-NrrzwjFj59HEM9B1r5GO7nM2STu9hDiETSGoLjsSoWw="
+  },
   "extensionlist": {
     "version": "0.1.4",
     "t3_versions": [],
@@ -18334,13 +18343,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "external_import": {
-    "version": "8.0.4",
+    "version": "8.1.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Tool for importing data from external sources into the TYPO3 CMS database, using an extended TCA syntax. Provides a BE module, a Scheduler task, a command-line tool and an API.",
-    "hash": "sha256-+IL8di6ruZRFMZPkppt+XCVa7tTc2UNyq4ZuhT8wEAU="
+    "hash": "sha256-O+wg7Qo8/ozX8yKzxiJSpatEQRX9NpTNaGTz0WeVIHY="
   },
   "external_import_tt_products": {
     "version": "0.0.1",
@@ -20472,6 +20481,14 @@
     "t3_versions": [],
     "description": "FaceLift Image Replacement",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "flixx_pagetree_overlay": {
+    "version": "1.1.1",
+    "t3_versions": [
+      13
+    ],
+    "description": "TYPO3 backend extension to dynamically switch page tree languages via dropdown with immediate refresh.",
+    "hash": "sha256-0JCiptYH3pr629kjwCM9fBFBVvz1eQ4y0OUjym7E0Xc="
   },
   "flogin": {
     "version": "11.0.0",
@@ -31478,21 +31495,21 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "lia_hyphenator": {
-    "version": "1.0.1",
+    "version": "1.1.0",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "Wrapper for Word-Hyphenation for PHP based on the TeX-Hyphenation algorithm",
-    "hash": "sha256-AuN8ckUQsSPaq7ibSyrO84bvpRDu6PpkCE2xeERrMe4="
+    "hash": "sha256-izOqlCXhKp+R6SxamBgviOcULXYixpMHs/lFNmoMGv4="
   },
   "lia_multicolumnwizard": {
-    "version": "1.0.0",
+    "version": "2.0.0",
     "t3_versions": [
-      11,
-      12
+      13
     ],
     "description": "This extension adds an new TCA-Type that allows to group fields into rows that can be multiplied.",
-    "hash": "sha256-I1xu0GJi2UVp/OsOhK04z+BJx0A356VhdBmN0G1Squc="
+    "hash": "sha256-0VvmkbVmwx+CMFJKtTAXECVnKJqto65EKkmQBtxnFvM="
   },
   "lib": {
     "version": "0.3.1",
