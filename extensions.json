@@ -10075,14 +10075,14 @@
     "hash": "sha256-fUgjS5g8NkSMgzz9EWu7acom5NC6vnrknHEYHUYgDYk="
   },
   "content_defender": {
-    "version": "3.5.2",
+    "version": "3.5.3",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "Define allowed or denied content element types in your backend layouts",
-    "hash": "sha256-iQWFKJnMuvUzyRzsa6hkUHWqYwQel3N1d0T4LhXK+GY="
+    "hash": "sha256-d49oO4hztA5KjX96MjWYxzy9SBqjOzINraDWAhuDA3I="
   },
   "content_designer": {
     "version": "3.0.7",
@@ -10662,7 +10662,7 @@
     "hash": "sha256-DCvKiO52hfkV4m7w1U8gjidOCZdAJWoAZ8mvqsoINWA="
   },
   "copyright_guardian": {
-    "version": "13.4.6",
+    "version": "13.4.7",
     "t3_versions": [
       10,
       11,
@@ -10670,7 +10670,7 @@
       13
     ],
     "description": "Manages the copyright details of images and other media and offers a convenient way of displaying these automatically and directly on the page on which the media is used. In addition, a list of all media used and the associated copyright information can be output",
-    "hash": "sha256-gtPZiZ2fMtJJHco7ENU0EjeB25Wr5Mf3SPrbiQYzmjM="
+    "hash": "sha256-X6qhdq2DFORVrU3IaOIGBqbwPHuYmEJk0VvQRQ8hPHA="
   },
   "core_permalogin": {
     "version": "0.0.1",
@@ -19591,13 +19591,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "feuserextrafields": {
-    "version": "6.4.0",
+    "version": "6.5.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Extra fields for TYPO3 frontend users and drop-in replacement for the removed FrontEndUser Core model",
-    "hash": "sha256-EElrs1zHTfks/Jbryx+zXQW03HIQLfbCV5EJ/r+UtaE="
+    "hash": "sha256-EQTXkwvLQCtN7o9t+omWjawOdOYtpt2eMz9T9q3/iKA="
   },
   "feuserfeediting": {
     "version": "0.0.2",
@@ -19640,6 +19640,15 @@
     "t3_versions": [],
     "description": "Easy, quick and flexible frontend user registration. Documentation inside the FEtemplate and in the Template Analyzer.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "feuserregistration": {
+    "version": "2.1.0",
+    "t3_versions": [
+      12,
+      13
+    ],
+    "description": "This extension enables the easy registration of a frontend user using the double opt-in process (e.g., for newsletter sign-ups). Optionally, a notification can be sent to a centrally configured email address.",
+    "hash": "sha256-zanNY53W3lAIv2uED8AHTsNaMa9ZGj3pMdQ+CaR63Ek="
   },
   "feusers2xml": {
     "version": "0.0.1",
@@ -20483,12 +20492,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "flixx_pagetree_overlay": {
-    "version": "1.1.1",
+    "version": "1.0.0",
     "t3_versions": [
       13
     ],
     "description": "TYPO3 backend extension to dynamically switch page tree languages via dropdown with immediate refresh.",
-    "hash": "sha256-0JCiptYH3pr629kjwCM9fBFBVvz1eQ4y0OUjym7E0Xc="
+    "hash": "sha256-MXsNjDSpsoyY95gO79nrmzuaJCIlG5xh54saqPEti0Y="
   },
   "flogin": {
     "version": "11.0.0",
@@ -40436,12 +40445,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ns_theme_extend": {
-    "version": "12.0.0",
+    "version": "13.0.0",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "The child theme of EXT:ns_theme_child",
-    "hash": "sha256-4QT5PQ+kht4V+mGCSr+iyi4N3tL20NjF4azcHqcqVIA="
+    "hash": "sha256-bgovpmuiunAbezIgZrBx4+IhHe5V9z9hbi288Jbrswo="
   },
   "ns_theme_freelancer": {
     "version": "13.0.1",
@@ -49395,13 +49405,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "rx_shariff": {
-    "version": "15.2.1",
+    "version": "15.2.2",
     "t3_versions": [
       11,
-      12
+      12,
+      13
     ],
     "description": "Shariff implementation for TYPO3 CMS including the backend module, a viewhelper and a plugin.",
-    "hash": "sha256-VLuIgvnyJ3oqFeaQCcDT6TvSrGFgskq9ajMuFvUIrPU="
+    "hash": "sha256-pSl5LuoU0ijmyZdPNTNKZ/q8J5IInyKRcb7cvir2Myg="
   },
   "rx_unrollsavebuttons": {
     "version": "1.1.1",
@@ -50691,13 +50702,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "semantic_suggestion": {
-    "version": "1.5.2",
+    "version": "2.0.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "TYPO3 extension for suggesting semantically related pages",
-    "hash": "sha256-EfwEVVOHlS069RayKTpfitraBFdeyoOdoUg89vKOczQ="
+    "hash": "sha256-uuRgrjE7EgCB25vOqxKSsjRm2EL/tjZs7Nm9S5sn3EY="
   },
   "semantify_it": {
     "version": "0.1.8",
@@ -52427,14 +52438,13 @@
     "hash": "sha256-VhpC7PZpBTcpNR2k8X8vpBLZSfrccgpYg1Ct+RPcbaU="
   },
   "sitemap_robots": {
-    "version": "0.1.7",
+    "version": "0.2.0",
     "t3_versions": [
-      11,
       12,
       13
     ],
     "description": "Enhances robots.txt with sitemap configurations to improve site visibility in terms of SEO. Injection of XML sitemaps can be managed on a per-site basis. Supports static routes as well as injection into local files.",
-    "hash": "sha256-RX4RFC8U1GqaEwet3Xa6hGHu970fh5U4vevGJyjk8kc="
+    "hash": "sha256-c22Kiiyd1OHoCwDyas6dgcYxYLYNoPIeSzRt5D3uNYI="
   },
   "sitemgr": {
     "version": "2.9.1",
@@ -65631,14 +65641,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "wsm_form_spamshield": {
-    "version": "1.4.0",
+    "version": "2.0.0",
     "t3_versions": [
-      10,
-      11,
-      12
+      13
     ],
     "description": "Adds a bot detection via JavaScript and a Validator to EXT:form, GDPR compliant without a captcha.",
-    "hash": "sha256-hpiQ9vBDQ+iBsHWEuAJGSrP4TMpMJr9xSGga7HEnaC8="
+    "hash": "sha256-z1Mls16o7D5+lLcEMx0zMOeLa8vhtpBwas9J7wEqJMU="
   },
   "wspowermail": {
     "version": "1.1.1",
