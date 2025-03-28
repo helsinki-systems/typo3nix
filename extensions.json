@@ -3063,6 +3063,15 @@
     "description": "Advanced age calculator to fix problems with singular/plural grammatical forms in age.",
     "hash": "sha256-cuD2LvCqE2H93HnqjsNG/Oy/F3JysphDtL54aHpu4W4="
   },
+  "at_christmas": {
+    "version": "1.0.0",
+    "t3_versions": [
+      11,
+      12
+    ],
+    "description": "Christmas theme is a modern and responsive TYPO3 template designed for Christmas, perfect for holiday promotions, events, and seasonal websites.",
+    "hash": "sha256-asgLpQBNhGSOAJrtilrcNttH2/9bjWw9APwDDfa8+W0="
+  },
   "at_goodfood": {
     "version": "1.0.0",
     "t3_versions": [
@@ -19642,13 +19651,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "feuserregistration": {
-    "version": "2.1.0",
+    "version": "2.1.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "This extension enables the easy registration of a frontend user using the double opt-in process (e.g., for newsletter sign-ups). Optionally, a notification can be sent to a centrally configured email address.",
-    "hash": "sha256-zanNY53W3lAIv2uED8AHTsNaMa9ZGj3pMdQ+CaR63Ek="
+    "hash": "sha256-VVjHSWTjn6aYQcb8BkkihBOIFHuy+nH+uLmpWZMS7OQ="
   },
   "feusers2xml": {
     "version": "0.0.1",
