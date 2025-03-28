@@ -7239,12 +7239,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cart": {
-    "version": "11.4.1",
+    "version": "11.4.3",
     "t3_versions": [
       13
     ],
     "description": "Shopping Cart(s) for TYPO3",
-    "hash": "sha256-5aLcSlK/HEhZta5d0aavmHoS7Tc/d47TvoQ0voLfEQU="
+    "hash": "sha256-G2mJYd585GsDLbEyUm5P/5Th1L6i70sF13c2p/BYaqA="
   },
   "cart_basket_image": {
     "version": "1.0.3",
@@ -18328,13 +18328,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "extensionbuilder_typo3": {
-    "version": "0.5.147",
+    "version": "0.5.148",
     "t3_versions": [
       12,
       13
     ],
-    "description": "RC 1 - ",
-    "hash": "sha256-NrrzwjFj59HEM9B1r5GO7nM2STu9hDiETSGoLjsSoWw="
+    "description": "The Extension Builder for TYPO3, supporting version 12 and above",
+    "hash": "sha256-bp6AchOLMEWhWAnSDOO6vDL/aLnT3iRL35unLBenKHs="
   },
   "extensionlist": {
     "version": "0.1.4",
@@ -19976,13 +19976,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "filetransfer": {
-    "version": "2.0.3",
+    "version": "2.1.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "The filetransfer extension enables the secure transfer of files from your own web server (\"on-premise\"). This eliminates the need for email transfers, which can be challenging for large files and pose security risks for sensitive data. As an alternative to WeTransfer, organizations can use this extension to present themselves in a particularly security-conscious and professional manner.",
-    "hash": "sha256-BSO+9pANryNNRdFROJyCy5ueTjkjDNUGmT/i+CnhJRY="
+    "hash": "sha256-2vlva58//CYHRY06Ix3SFIDyVsI9x3rtSZcXoPdK6QM="
   },
   "fileupload": {
     "version": "1.1.0",
@@ -45147,13 +45147,13 @@
     "hash": "sha256-DXTxBoXGmgNbYhRt8E6dooUNwnbuxOD6Bav9cbDhHs0="
   },
   "powermailautocomplete": {
-    "version": "3.0.1",
+    "version": "3.0.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "Add autocomplete tokens to powermail fields",
-    "hash": "sha256-GxUEQfiZfZ/CfSXKr31QMlOYFQDHPmxMGCnk506fa00="
+    "hash": "sha256-OQ5O44wnP0dIDs+0PvPgFmmauIMulfLLZBJhCz5r4ME="
   },
   "powermailcaptcha": {
     "version": "2.2.1",
