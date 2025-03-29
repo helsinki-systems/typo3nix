@@ -23141,22 +23141,20 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "glcrossword": {
-    "version": "7.0.1",
+    "version": "9.0.0",
     "t3_versions": [
-      10,
-      11
+      13
     ],
     "description": "This fontend extension supplies a versatile crossword game. ",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-CcQDSV/Izq0/2ON8aRV55X50vE4GtumWEdGB3vH9Pag="
   },
   "glmorphquiz": {
-    "version": "1.4.1",
+    "version": "1.6.0",
     "t3_versions": [
-      10,
-      11
+      13
     ],
     "description": "In the morphing quiz you get provide the first and the last word of the quiz. You have to find the words in between, but from one word to the next word you are only allowed to change one letter.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-Fdnkzr7oxFwqNdyye3raknWQDwliTgAmpy9L+Owj4xY="
   },
   "global_password": {
     "version": "2.0.1",
@@ -23246,13 +23244,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "glpairs": {
-    "version": "2.3.6",
+    "version": "2.5.0",
     "t3_versions": [
-      10,
-      11
+      13
     ],
     "description": "Provide a flexible pairs game. You are able to configure the pairs game in many different types. You can assign two cards with the same image, two cards with similar images, two cards with an image and a description of the image or two text cards with the same description (i.e. in different languages). See an example on https://www.schulze-thulin.de/en/games/pairs-german-welsh-irish",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-bEfznD9gXC9nur+awgUbf6kiRPVEulc0jcM5S1g6OCM="
   },
   "glz_calendar": {
     "version": "1.0.0",
@@ -62784,13 +62781,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "typowyg": {
-    "version": "1.0.1",
+    "version": "1.0.3",
     "t3_versions": [
       11,
-      12
+      12,
+      13
     ],
     "description": "Provides the Trumbowyg - Editor.",
-    "hash": "sha256-Oii5D+0xdpnZzY8/0o72cPFJ0xJmtrUmTSO9E/ckX8Q="
+    "hash": "sha256-pthei1XmHD83SjTbTpfk1gAT/LHOBtNFu/uCp4ln5rI="
   },
   "tzpanel": {
     "version": "1.0.0",
