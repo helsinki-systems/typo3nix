@@ -20820,12 +20820,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "flush_language_cache": {
-    "version": "5.0.0",
+    "version": "5.0.1",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "Adds an item to the flush cache menu to clear just the language (l10n) cache. Also provides a command-line tool for that.",
-    "hash": "sha256-u8kkaL8ssqqKfFhkOasaU5xGbAu9t+OlMiw7I3163zo="
+    "hash": "sha256-nVc4Dgbq6osYm2u4v/JvZGREl9Ir2jROiO3yyEiPDec="
   },
   "flux": {
     "version": "10.1.1",
