@@ -5410,12 +5410,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "bootstrap_package": {
-    "version": "15.0.0",
+    "version": "15.0.1",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "Bootstrap Package delivers a full configured frontend theme for TYPO3, based on the Bootstrap CSS Framework.",
-    "hash": "sha256-hUBmvTS6VfAKHagqjqE33mkQKxXidiBTEW0BSemiG4I="
+    "hash": "sha256-wBYj3ISK02xLFIq0CPuYYp92aXzT4MyFoVZB0+E2ZQo="
   },
   "bootstrap_package_iconpack": {
     "version": "0.3.1",
@@ -6703,12 +6704,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cacheflow": {
-    "version": "1.0.5",
+    "version": "1.1.3",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "Continuous background refreshing of cached pages.",
-    "hash": "sha256-lGvofQfU0Vad6g5vmjYZbKEwt9W922khQ/cOnFW55+k="
+    "hash": "sha256-WIek1GTsBtpy8QPrKGegkkUHOfTJa8cQFiq1Sk3SRXc="
   },
   "cachemgm": {
     "version": "12.0.5",
@@ -18070,6 +18072,14 @@
     "description": "Add all proprieties user to pp_feregistrer and selected fields in flexform, ext_cv_ppferegister can send email confirmation register to the new user. This extension uses the cms language.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "ext_kickstarter": {
+    "version": "0.2.0",
+    "t3_versions": [
+      13
+    ],
+    "description": "Kickstart TYPO3 Extension",
+    "hash": "sha256-xJedsDmPGtZFCpnilsfhS/SWrpqlpRWkg2ep6iLlUmY="
+  },
   "ext_ppferegister": {
     "version": "1.0.1",
     "t3_versions": [],
@@ -18328,13 +18338,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "extensionbuilder_typo3": {
-    "version": "0.5.148",
+    "version": "0.5.149",
     "t3_versions": [
       12,
       13
     ],
     "description": "The Extension Builder for TYPO3, supporting version 12 and above",
-    "hash": "sha256-bp6AchOLMEWhWAnSDOO6vDL/aLnT3iRL35unLBenKHs="
+    "hash": "sha256-yKTI2btdr5SNY4zZT4oFcHKF8+qpXwNSpHG00Vs4Aao="
   },
   "extensionlist": {
     "version": "0.1.4",
@@ -19651,13 +19661,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "feuserregistration": {
-    "version": "2.1.1",
+    "version": "2.1.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "This extension enables the easy registration of a frontend user using the double opt-in process (e.g., for newsletter sign-ups). Optionally, a notification can be sent to a centrally configured email address.",
-    "hash": "sha256-VVjHSWTjn6aYQcb8BkkihBOIFHuy+nH+uLmpWZMS7OQ="
+    "hash": "sha256-+FUmkF3O3DVsWYRyiW2ZgQvEzjZ9VIFxJDeGe/NznIo="
   },
   "feusers2xml": {
     "version": "0.0.1",
@@ -45627,13 +45637,13 @@
     "hash": "sha256-Dhs7F/4iW1zksQ68cOUPqWGkDn8f8MEMbW6KmeaTFAc="
   },
   "psb_foundation": {
-    "version": "2.3.1",
+    "version": "2.3.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "Configuration framework for TYPO3 extension development",
-    "hash": "sha256-78AGDIWSaZFIiJbsb+nYwf4kRX1BJauvPigX/XGpR+M="
+    "hash": "sha256-gtHtexUeoNccVMOLWxlNv+5du3JSF1CzGNTmc3aHFYQ="
   },
   "psb_view_helpers": {
     "version": "2.0.1",
