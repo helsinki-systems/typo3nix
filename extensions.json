@@ -6704,13 +6704,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cacheflow": {
-    "version": "1.1.3",
+    "version": "1.1.4",
     "t3_versions": [
       12,
       13
     ],
     "description": "Continuous background refreshing of cached pages.",
-    "hash": "sha256-WIek1GTsBtpy8QPrKGegkkUHOfTJa8cQFiq1Sk3SRXc="
+    "hash": "sha256-1NT890el7zSDUyFoN7tGXsN/m8A3R4+j6CKEXn9TlxQ="
   },
   "cachemgm": {
     "version": "12.0.5",
@@ -18073,12 +18073,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ext_kickstarter": {
-    "version": "0.2.0",
+    "version": "0.2.2",
     "t3_versions": [
       13
     ],
     "description": "Kickstart TYPO3 Extension",
-    "hash": "sha256-xJedsDmPGtZFCpnilsfhS/SWrpqlpRWkg2ep6iLlUmY="
+    "hash": "sha256-E7jZXJycoUNFd251ErcbLl1pYdQtJjwVxeYBRmTmmNM="
   },
   "ext_ppferegister": {
     "version": "1.0.1",
@@ -21801,12 +21801,12 @@
     "hash": "sha256-EF5YU+e/kz9SwRKnm8jYHJPIrABIGpTWwbGLRe2Ze8I="
   },
   "fp_newsletter": {
-    "version": "8.1.0",
+    "version": "8.1.2",
     "t3_versions": [
       13
     ],
     "description": "Plugin for newsletter subscription and unsubscription with double opt in (and double opt out). For: mail or luxletter / tt_address or fe_users. A log is written.",
-    "hash": "sha256-OyYKkFlGmq9jCyE0SPG/7w9GNeZcn0Bv/hmdHvQTVGs="
+    "hash": "sha256-xmGTmwTqNIbkY7UeT3wUaMEU6LTrCvxJ4G7Jjimt4rI="
   },
   "fp_product_features": {
     "version": "0.2.0",
@@ -33976,6 +33976,15 @@
     "description": "",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "mctest": {
+    "version": "3.4.0",
+    "t3_versions": [
+      12,
+      13
+    ],
+    "description": "Single and multiple-choice tests to improve user experience (UX) and increase visitor dwelling time. Ideal for learning platforms, training sessions, or simply for entertainment.",
+    "hash": "sha256-HuHSZ8WVbnOoMh2XP/8p+25mMu+9zeymVYj44EgrugQ="
+  },
   "md5passwords": {
     "version": "1.0.4",
     "t3_versions": [],
@@ -36271,13 +36280,13 @@
     "hash": "sha256-QBq7RgOtpBz21jSQfzIxEurNCmBZlHvZXZt3wzoyyMw="
   },
   "modules": {
-    "version": "7.0.1",
+    "version": "7.1.0",
     "t3_versions": [
       12,
       13
     ],
-    "description": "Modules - Little helper for creating frontend and backend modules in TYPO3",
-    "hash": "sha256-Cq8YJPDv3YBzA1HDKTcwTKLHvWJMmQM9xIJwwsRoHgc="
+    "description": "Frontend-Registration, Frontend-User Profile, Frontend-User Invitations, Frontend-User Addressmanagement, Frontend-Recordmanagement. User friendly Backendmodule for managing Frontend- and Backend-Users and other Records. Toolbox for frontend and backend modules in TYPO3.",
+    "hash": "sha256-FCBFv+HAWNOEw5XcgG5RKRQ81/Hqsr0X+bq52U2Uvgs="
   },
   "modulis_animated_gif": {
     "version": "0.0.4",
@@ -50287,14 +50296,14 @@
     "hash": "sha256-bCMkdMOCy2wNJ3Gz6SWr7i1qZ9ZfxkhhegmjmYFHEdo="
   },
   "schema": {
-    "version": "3.10.1",
+    "version": "3.11.0",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "API and view helpers for schema.org markup",
-    "hash": "sha256-F1eClXzgVccLaC5SNq8BPlewHP30TRtePYV63Fxknt0="
+    "hash": "sha256-Df8tXvwEl3Em6qLuo5YQxYJ95W1ee9m32PdcqAxSKfE="
   },
   "schema_auto": {
     "version": "2.3.0",
@@ -50307,24 +50316,24 @@
     "hash": "sha256-zzzJGTP3N7zSi1vIbZXzx+87uuWQ3MWtLKgl7yNnabI="
   },
   "schema_bib": {
-    "version": "2.3.0",
+    "version": "2.4.0",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "Extend the schema extension with bibliographic-related terms",
-    "hash": "sha256-aQPFDzX60IE49jk7c99NZrWd2kPIaIbXfNZjhxQ7GPI="
+    "hash": "sha256-dJddEkVYSeTlJCA66mwnNdjAyMbGECsjH2r/qxocAJQ="
   },
   "schema_health": {
-    "version": "2.7.0",
+    "version": "2.8.0",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "Extend the schema extension with health-related terms",
-    "hash": "sha256-p9UHir93RctbDOXEXEVtdaHrRoMIcFIc1NVBnGd5rRw="
+    "hash": "sha256-Wji01OBJdjfsuhuQtDalDCSMYDOjVNMYREoiH4KTyQw="
   },
   "schema_injector": {
     "version": "1.0.1",
@@ -50345,14 +50354,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "schema_pending": {
-    "version": "2.9.0",
+    "version": "2.10.0",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "Extend the schema extension with pending terms",
-    "hash": "sha256-13r8ZlCIbqVH5aDmwcNMMc8cRLmw6MmIH4Us3a3Kzi8="
+    "hash": "sha256-NIXnxu9lOHSKOQwrfYFDJyW9asTs+XGV5LKMqVCdrcw="
   },
   "schema_virtuallocation": {
     "version": "2.1.0",
@@ -63639,13 +63648,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "view_statistics": {
-    "version": "5.0.0",
+    "version": "6.0.0",
     "t3_versions": [
-      11,
-      12
+      12,
+      13
     ],
     "description": "Logs frontend actions and display them in a backend module. Track page views, News, Downloads and custom objects. Optionally tracks frontend user logins and login durations. Alternative extension for Google-Analytics, Matomo, Piwik - this extension does not use any cookies! By default it does not track any personal data like IP address or even the user agent (though this can be activated optionally).",
-    "hash": "sha256-jOC/ZcE3SWUtqQ6t5aWu4kUrdJp36nCvNStUt+kASRg="
+    "hash": "sha256-A72I58cc2Qj9dCeFq5pEfwhsJVJMANA1XlobT4sl1tU="
   },
   "vimeovideo": {
     "version": "2.0.0",
@@ -64436,13 +64445,16 @@
     "hash": "sha256-4hrmOcQHabrefzjNUTF+F8mnwBdlJTJQYdB7lOYToS0="
   },
   "webhelp": {
-    "version": "11.0.0",
+    "version": "13.0.0",
     "t3_versions": [
+      9,
       10,
-      11
+      11,
+      12,
+      13
     ],
-    "description": "Build simple Webcomponents like icalendar or vcard with viewhelpers",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "description": "allows you to use simple web components like porthd-icalendar, porthd-vcard or porthd-listselect in your fluid-templates as viewhelper",
+    "hash": "sha256-XG6MYt54b+gPvBjsTMqhRH9lvjmnD6oC+1ndSbV/eXQ="
   },
   "webkitpdf": {
     "version": "1.2.0",
