@@ -3594,6 +3594,14 @@
     "description": "Provides the following third party libraries: hashids, parsedown, php-rrule.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "av_lightdarklegacy": {
+    "version": "1.0.0",
+    "t3_versions": [
+      13
+    ],
+    "description": "CSS workaround for clients with legacy browsers that don't support light-dark() in Typo3 13 backend",
+    "hash": "sha256-9EQq3yGfIIEwsBif9/dl/VN9lcxw7zjv9mUzBuNpLWw="
+  },
   "av_mandrake_linux_server": {
     "version": "0.0.5",
     "t3_versions": [],
@@ -3708,13 +3716,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.337.3",
+    "version": "3.342.18",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-Io8D0ZgxOJYFt5XeO0ew+YOlBIrwYEbOR7AmDfWkH7g="
+    "hash": "sha256-YM31deV1ztQuDa22cNOcJnbPHPqo0722VabJWnxgpqY="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -9996,13 +10004,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "container": {
-    "version": "3.1.0",
+    "version": "3.1.6",
     "t3_versions": [
       11,
-      12
+      12,
+      13
     ],
     "description": "Create Custom Container Content Elements for TYPO3",
-    "hash": "sha256-Bj054TXGdx1NaMCgJPC0479kH9gvZDYmd9bjNMhK4Pk="
+    "hash": "sha256-Hv7emCNOz3g8FyMYaZxVLXswuGbbadjJtSBE+xNhwSk="
   },
   "container_elements": {
     "version": "6.0.4",
@@ -18338,13 +18347,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "extensionbuilder_typo3": {
-    "version": "0.5.149",
+    "version": "0.5.151",
     "t3_versions": [
       12,
       13
     ],
     "description": "The Extension Builder for TYPO3, supporting version 12 and above",
-    "hash": "sha256-yKTI2btdr5SNY4zZT4oFcHKF8+qpXwNSpHG00Vs4Aao="
+    "hash": "sha256-cdvoljJGtWgI2xKD2b9tLk8ObO+G1Tol1bN2MR1Mp8M="
   },
   "extensionlist": {
     "version": "0.1.4",
@@ -19870,13 +19879,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "file_dashboard": {
-    "version": "2.2.3",
+    "version": "2.2.6",
     "t3_versions": [
       12,
       13
     ],
     "description": "Filterable file list backend module including easy download functionality.",
-    "hash": "sha256-6cEWpfRI7frP3vjbvwW5IDpIImfwzEpvJxDHlZeK5Qc="
+    "hash": "sha256-xgVxTTnDbIBU6HyuPLwkfD4Ofn890N65ZK3mJwcyqM0="
   },
   "file_explorer": {
     "version": "2.0.9",
@@ -21793,12 +21802,12 @@
     "hash": "sha256-BWibo3/20xqtaX8DidK/HYtgtpJvSyzjCx9HqXRROF8="
   },
   "fp_masterquiz": {
-    "version": "7.0.3",
+    "version": "7.0.5",
     "t3_versions": [
       13
     ],
     "description": "A modern extension that offers quiz, polls and tests. Ajax support. The result can be displayed as a chart too. Supports 8 question modes.",
-    "hash": "sha256-EF5YU+e/kz9SwRKnm8jYHJPIrABIGpTWwbGLRe2Ze8I="
+    "hash": "sha256-9pFNwJuXnp9p6idiODuV+dk+siestPcqO9aj92unM6I="
   },
   "fp_newsletter": {
     "version": "8.1.2",
@@ -25196,14 +25205,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "hubspot_forms": {
-    "version": "1.0.4",
+    "version": "1.1.1",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "Automatically load HubSpot forms in TYPO3 pages via the HubSpot API",
-    "hash": "sha256-781va2Dy0UCZlfQ+DRgETH9EjUw9t5ghXW6XIoS74yE="
+    "hash": "sha256-tzOaRusNL0U9igKAVPzv+sde5RQz7QNgj0MShbEb++4="
   },
   "humhub": {
     "version": "12.4.8",
@@ -26851,14 +26860,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "infinitescrolling": {
-    "version": "3.3.0",
+    "version": "4.0.0",
     "t3_versions": [
-      9,
-      10,
-      11
+      13
     ],
     "description": "With this extension you can read nearly every paginator and realize infinite scrolling",
-    "hash": "sha256-ch6kTd5AHT3F4srcGaPrumy4nfmuufpuHUlg7hzWZEo="
+    "hash": "sha256-ClNl0K1WBEPzavDPytwLYScnkDbEx4ktfD/WYYAZvRU="
   },
   "info_hide_default_lang": {
     "version": "1.1.0",
@@ -31015,6 +31022,14 @@
     ],
     "description": "Modifies language menu entries and hreflang link tags",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "languagemodes": {
+    "version": "12.0.0",
+    "t3_versions": [
+      12
+    ],
+    "description": "Change languages modes - \"free, fallback, strict\" individually for pages",
+    "hash": "sha256-oVlSGiEsbLNxkasMagHzD0hVQL8sYSKPn6MmzsXu6ko="
   },
   "languagevisibility": {
     "version": "1.0.0",
@@ -36823,6 +36838,15 @@
     "t3_versions": [],
     "description": "Extends api_macmade with MooTools based js libraries. Actual contains MooTools BETA v1.2b2, moo.rd Framework v1.3, efxFactory.js and reflection.js",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "ms365_oauthmailer": {
+    "version": "1.0.0",
+    "t3_versions": [
+      12,
+      13
+    ],
+    "description": "This extension makes it possible to send emails in TYPO3 via Microsoft 365 using oAuth authentication (using the Microsoft Graph SDK)",
+    "hash": "sha256-e/WV9EDsJBqSIf8FPPjjSfFKjacFqo1hL6wgmOtCF88="
   },
   "ms_ajaxwrapper": {
     "version": "0.0.5",
@@ -43652,12 +43676,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "permission_sets": {
-    "version": "0.1.0",
+    "version": "1.0.0",
     "t3_versions": [
-      11
+      12,
+      13
     ],
     "description": "Repeatable and deployable Permission Sets for TYPO3",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-ZqoGnjhbz+SiMdKZm2xB90k2E0a3+ud3T3Wm1dqdFw0="
   },
   "persisted_sanitized_routing": {
     "version": "1.0.4",
@@ -45646,22 +45671,22 @@
     "hash": "sha256-Dhs7F/4iW1zksQ68cOUPqWGkDn8f8MEMbW6KmeaTFAc="
   },
   "psb_foundation": {
-    "version": "2.3.2",
+    "version": "2.3.3",
     "t3_versions": [
       12,
       13
     ],
     "description": "Configuration framework for TYPO3 extension development",
-    "hash": "sha256-gtHtexUeoNccVMOLWxlNv+5du3JSF1CzGNTmc3aHFYQ="
+    "hash": "sha256-eQUBa3/GStIYPIPhrmQbq/pppysIICn5ebWhj4zDNEY="
   },
   "psb_view_helpers": {
-    "version": "2.0.1",
+    "version": "2.1.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Collection of useful ViewHelpers",
-    "hash": "sha256-l34z4/w9VP4jPwAEmQHtMLS7mCQZrzq2iky+azA94Yk="
+    "hash": "sha256-0ITsAZ4cXh7/pAM1SSn/J/hmXyn/qp2lfuDfm0qiUTk="
   },
   "psc_disqus_sso": {
     "version": "0.1.3",
