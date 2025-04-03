@@ -3716,13 +3716,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.342.18",
+    "version": "3.342.19",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-YM31deV1ztQuDa22cNOcJnbPHPqo0722VabJWnxgpqY="
+    "hash": "sha256-NKe1OawotcMGCBKd/N8ja9J97noU4MgS1jmv9L1zkTg="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -10086,13 +10086,13 @@
     "hash": "sha256-D7KroWaJ8NRj1o1ADx3HkoOnjZSDK9fRoGlnJBhc5AE="
   },
   "content_consent": {
-    "version": "3.0.2",
+    "version": "3.0.3",
     "t3_versions": [
       12,
       13
     ],
     "description": "Provides a content consent plugin to load any content elements and custom plugins by ajax without jQuery! So you can include Google Maps, YouTube- or Vimeo videos GDPR/DSGVO compliant. Best used with Bootstrap 5",
-    "hash": "sha256-fUgjS5g8NkSMgzz9EWu7acom5NC6vnrknHEYHUYgDYk="
+    "hash": "sha256-w0zmHb1yBnOag8+dl3XMcbYNLzN75pe6BGb8pjWuQeo="
   },
   "content_defender": {
     "version": "3.5.3",
@@ -36840,13 +36840,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ms365_oauthmailer": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "This extension makes it possible to send emails in TYPO3 via Microsoft 365 using oAuth authentication (using the Microsoft Graph SDK)",
-    "hash": "sha256-e/WV9EDsJBqSIf8FPPjjSfFKjacFqo1hL6wgmOtCF88="
+    "hash": "sha256-xQeitMWKAdEMOShy2VAzOQfOmRzy1XPgN1uxIYgIKpw="
   },
   "ms_ajaxwrapper": {
     "version": "0.0.5",
@@ -41505,14 +41505,13 @@
     "hash": "sha256-2dkIKHdrs7qaxD8kdQOHIrHL9d9aT7kkgxUoozxhrTA="
   },
   "ok_exchange365_mailer": {
-    "version": "3.0.2",
+    "version": "4.0.1",
     "t3_versions": [
-      11,
       12,
       13
     ],
     "description": "A TYPO3 extension for sending emails using Exchange 365 and Microsoft Graph API",
-    "hash": "sha256-A5hhR9Inp3ofYU8OYpOmlSZ1sdWwF+P1Dnm03ECIb6M="
+    "hash": "sha256-bV6FE1NvQHS1LeB/fynhaQGzlTpLXBO9TpaQ4a7PXDY="
   },
   "ok_typo3_helper": {
     "version": "3.0.2",
@@ -42306,13 +42305,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "page_backend_layout": {
-    "version": "2.0.0",
+    "version": "2.0.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "Helper for Backend layout overrides based on page doktype",
-    "hash": "sha256-G5Yxs+MXFlR18hSG1xuXUohwO0wfDmBUfLMIIsAdyc8="
+    "hash": "sha256-X2jwq/c6VCQrJmkh1/nk2gtUUGlUs9NOxoYl8Bi451Q="
   },
   "page_callouts": {
     "version": "6.1.2",
@@ -63532,14 +63531,15 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "vhs": {
-    "version": "7.0.7",
+    "version": "7.1.1",
     "t3_versions": [
       10,
       11,
-      12
+      12,
+      13
     ],
     "description": "A collection of ViewHelpers for performing rendering tasks that are not natively provided by the Fluid templating engine.",
-    "hash": "sha256-Y25RntChPyVveeJfn72eD8tR848kBQ9HOEH9tyAUlOU="
+    "hash": "sha256-GFo3Ol3+lcoOvDWlTw1ys4XqiyPeAMyArZMkS6uGe24="
   },
   "vhs_scss": {
     "version": "2.0.3",
