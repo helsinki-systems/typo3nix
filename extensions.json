@@ -3237,13 +3237,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ausstello": {
-    "version": "1.1.7",
+    "version": "1.1.12",
     "t3_versions": [
       12,
       13
     ],
     "description": "Events managen und kommunizieren, Marketing automatisieren. Einfach, ausstello.",
-    "hash": "sha256-J7uzAJocORyDe7h+Vc9saajZ9Y5+5Az9Zh34CK5Ee+E="
+    "hash": "sha256-eP8L5UOl0CogjzSj6KFqbVNQcZWBySTNks6ycjrSAqM="
   },
   "auth0": {
     "version": "13.0.0",
@@ -3716,13 +3716,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.342.19",
+    "version": "3.342.20",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-NKe1OawotcMGCBKd/N8ja9J97noU4MgS1jmv9L1zkTg="
+    "hash": "sha256-OMBgtPjTI/2U7grN6iGrcWj+Rkf2KehUNai2HiztWb0="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -3980,14 +3980,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "base_excel": {
-    "version": "3.7.0",
+    "version": "4.1.0",
     "t3_versions": [
-      11,
       12,
       13
     ],
     "description": "This provides the PhpSpreadsheet library, formerly phpExcel from phpOffice.",
-    "hash": "sha256-PYxzVY/nr76kaSdztQ5p4QNu7IlR0ZPNypiJXfYKNjM="
+    "hash": "sha256-MgXXed2aqz/tbIddkuaI76heqTF0gcZLXr1K0DHRJTQ="
   },
   "base_font": {
     "version": "1.0.0",
@@ -10546,12 +10545,12 @@
     "hash": "sha256-RbhGP0thpWqFqC/65d/8Ty8ALDK1PXbNl+L6pSPBbOM="
   },
   "cookieman": {
-    "version": "2.16.6",
+    "version": "2.17.0",
     "t3_versions": [
-      11
+      12
     ],
     "description": "Provides a user consent popup. It asks for approval to include tracking objects (cookies, images or any HTML) and includes the objects when consented. It also removes cookies after the consent has been revoked.",
-    "hash": "sha256-qpbwzKnrGIslRsMek+k8TJHD2+wXBl1Ty+PvtST5DSc="
+    "hash": "sha256-rKoLsUpvAdOZya1A8irmfJy8nkorpsUVHioH552/k5M="
   },
   "cookiepro": {
     "version": "1.0.3",
@@ -21682,6 +21681,15 @@
     "description": "Send form data to different providers",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "forms2db": {
+    "version": "1.0.1",
+    "t3_versions": [
+      12,
+      13
+    ],
+    "description": "With forms2db, form data from the Forms extension is stored in the database. Additionally, the data can be exported in CSV format using a dedicated module.",
+    "hash": "sha256-WmNWKJPWVoroFGOGwxJWfXn0BlHgcdRWn4ohJYeoUao="
+  },
   "formsave": {
     "version": "1.6.3",
     "t3_versions": [
@@ -28692,13 +28700,12 @@
     "hash": "sha256-1l2qnR24Uj66g8z4HM++GDYa0K/F5ArBSCIH/9vQruo="
   },
   "jobfair": {
-    "version": "5.0.3",
+    "version": "6.0.1",
     "t3_versions": [
-      11,
-      12
+      13
     ],
     "description": "Simple job market based on Extbase and Fluid. Basically works like dmmjobcontrol. There are list and detail views available. In addition, it is possible to set up an online application system. Furthermore, FE-Users can be enabled to add and edit jobs in the frontend, so to BE-Administration is required. Feeds (Rss091, Rss2, Atom) are also available",
-    "hash": "sha256-sc4cQkMzeQVoQSKA/cEzqIBpZ9vT28Qwy4Rmycu49PM="
+    "hash": "sha256-2E3sJ2INJKdDact8fmU+JhXaIT5XVOsAgcO3ZSQrfd4="
   },
   "joboffers_feedit": {
     "version": "0.1.5",
@@ -34041,30 +34048,30 @@
     "hash": "sha256-MZCLN4yGvwUle+35itB6DHEwTiM+KlZDOVOUYIF5JYc="
   },
   "md_news_clickcount": {
-    "version": "3.0.5",
+    "version": "4.0.0",
     "t3_versions": [
-      11,
-      12
+      12,
+      13
     ],
     "description": "With this extension you are able to count views of ext:news records. You can display a list with most viewed news and delete the statistics automatically with a scheduler task.",
-    "hash": "sha256-cAwsHw3gzAp/X7AYYGFN5/XdsjSSyW6oyS9eYg53QUQ="
+    "hash": "sha256-AHvG+JXuzVt0bvEd+JCjdxk6D/kru1Jw8pGsIBcGvUc="
   },
   "md_newsfrontend": {
-    "version": "4.0.1",
+    "version": "4.0.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "This extension enables frontend users to created news records in the frontend.",
-    "hash": "sha256-hscCihSA8CbpdeeraI7ZJ7SK0bjMitFNl7wH/of/8ak="
+    "hash": "sha256-Tfl2gkeA4uNyugbp1dSaM8rUnUFtDoafh+LvDV3/oEk="
   },
   "md_saml": {
-    "version": "3.0.5",
+    "version": "4.0.0",
     "t3_versions": [
-      12
+      13
     ],
     "description": "SSO frontend or backend login with SAML authentication.",
-    "hash": "sha256-rnWB+Ev9Jw5S9tL8nSrrLC9dl6frHlzcL+uWt/Y5rc4="
+    "hash": "sha256-WvN70zIKO6e9c6HRNqu6jM7Jdf0PMuviBNSG7VcQ+Wg="
   },
   "md_unreadnews": {
     "version": "5.0.2",
@@ -41361,13 +41368,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "oelib": {
-    "version": "6.1.1",
+    "version": "6.2.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Useful stuff for TYPO3 extension development: helper functions for unit testing, templating and automatic configuration checks.",
-    "hash": "sha256-kngv/7wZH0YdVHBFURaY+AX7yOv/WLwy9/shn29+laI="
+    "hash": "sha256-uUhDhoDztF5oeXSnAueOg1z5VkAoO4OrNenbKfTW0Sg="
   },
   "oembed": {
     "version": "0.1.1",
@@ -45670,13 +45677,21 @@
     "hash": "sha256-Dhs7F/4iW1zksQ68cOUPqWGkDn8f8MEMbW6KmeaTFAc="
   },
   "psb_foundation": {
-    "version": "2.3.3",
+    "version": "2.3.4",
     "t3_versions": [
       12,
       13
     ],
     "description": "Configuration framework for TYPO3 extension development",
-    "hash": "sha256-eQUBa3/GStIYPIPhrmQbq/pppysIICn5ebWhj4zDNEY="
+    "hash": "sha256-1/PYu62P/kiczYD0ium4SaHXGpLFSJCM7FWOVXj7PX0="
+  },
+  "psb_user_deployment": {
+    "version": "1.0.0",
+    "t3_versions": [
+      13
+    ],
+    "description": "Versioning and deployment of users, user groups and their privileges",
+    "hash": "sha256-kq7pUP76KhUKAw34G3Z8pU5J8bHmYgiPOj2x/aBFheE="
   },
   "psb_view_helpers": {
     "version": "2.1.0",
@@ -50071,12 +50086,12 @@
     "hash": "sha256-xb7tVsa5GvkEuAr617fRsaEY3RUN1yDE+RO5F+Jy0Kg="
   },
   "save_and_close": {
-    "version": "13.0.0",
+    "version": "13.0.1",
     "t3_versions": [
       13
     ],
     "description": "Adds save and close button to all the content elements",
-    "hash": "sha256-dgHJmRYEfWIpagdxIGlOn3hhNPW9qBNwCHNZLI8EOGk="
+    "hash": "sha256-YSIGXVnZcOoOLEvnMOO4Z2Y5SJ0whDLQnOr7cpR9NDc="
   },
   "save_close_ce": {
     "version": "1.0.4",
@@ -56632,14 +56647,15 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "t3_tcpdf": {
-    "version": "6.2.0",
+    "version": "6.3.0",
     "t3_versions": [
       10,
       11,
-      12
+      12,
+      13
     ],
     "description": "Make TCPDF library (www.tcpdf.org) available within TYPO3",
-    "hash": "sha256-Hr8FLYengK4l+OXSrDFG1yoNgiWr+xcSOSrWsALJEBc="
+    "hash": "sha256-aJyC86WIRPpGcaUNxATqbHM91zpC8vyO2bGEP7hQgoc="
   },
   "t3_translator": {
     "version": "1.0.2",
@@ -60814,6 +60830,15 @@
     ],
     "description": "TYPO3 backend toolbar button to clear processed files on local storages",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "tooltip": {
+    "version": "1.1.1",
+    "t3_versions": [
+      12,
+      13
+    ],
+    "description": "Add Tooltip to keywords in content",
+    "hash": "sha256-2gtb4jgHC6HX5D6t6lUElwwFLHRDMT6RKfQAghU46+s="
   },
   "top": {
     "version": "1.0.0",
