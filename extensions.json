@@ -8107,12 +8107,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cefooter": {
-    "version": "2.1.2",
+    "version": "3.0.1",
     "t3_versions": [
-      12
+      13
     ],
     "description": "Preview of settings in footer of tt_content element in page module.",
-    "hash": "sha256-bjGfEUhaSVMweUQXt69kmCP32Oi2NQliNw3t50B+ePU="
+    "hash": "sha256-aSb8e88o4zVNhHXBXU2vRB2V+m0NmVmMEs4tWn/vccw="
   },
   "celum_asset_picker": {
     "version": "1.0.8",
@@ -16038,13 +16038,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "dropbox": {
-    "version": "5.0.1",
+    "version": "5.0.2",
     "t3_versions": [
-      11,
       12
     ],
     "description": "Provides a Dropbox driver for TYPO3 File Abstraction Layer.",
-    "hash": "sha256-eJrTN/iWtG/Cy4ah13EUz1zy1Ra6gOTJG7/VdShRYd0="
+    "hash": "sha256-cjFdHkpomvG7y0UtAAlBF+iFV2Ml3Vb88H3wZisaoFg="
   },
   "dropbox_sync": {
     "version": "0.9.5",
@@ -30445,7 +30444,7 @@
     "hash": "sha256-t42MVuype0xnDhbTALO5MxQ26V/TjDlPsHCbb1f2TTQ="
   },
   "klarokratie": {
-    "version": "13.4.7",
+    "version": "13.4.9",
     "t3_versions": [
       10,
       11,
@@ -30453,7 +30452,7 @@
       13
     ],
     "description": "Includes Klaro! Consent-Manager into TYPO3. Completely file-based configuration for versioning without having to take care of database-entries. This extension automatically adds a consent-overlay to embedded YouTube- and Vimeo-Videos. It also comes with a ready-to-use integration for Google Analytics / Google Tag Manager and etracker.",
-    "hash": "sha256-o8s02CW9u6MxTT5NsEdU2Qi5k9+d0pzEWDra3Ppfzvc="
+    "hash": "sha256-ZjZV5MzfKLvf6rb0SqEkt8XvdwLuvOoTAuj+BCF5e94="
   },
   "km_dam_extension": {
     "version": "1.0.2",
@@ -64495,7 +64494,7 @@
     "hash": "sha256-4hrmOcQHabrefzjNUTF+F8mnwBdlJTJQYdB7lOYToS0="
   },
   "webhelp": {
-    "version": "13.0.0",
+    "version": "13.0.1",
     "t3_versions": [
       9,
       10,
@@ -64504,7 +64503,7 @@
       13
     ],
     "description": "allows you to use simple web components like porthd-icalendar, porthd-vcard or porthd-listselect in your fluid-templates as viewhelper",
-    "hash": "sha256-XG6MYt54b+gPvBjsTMqhRH9lvjmnD6oC+1ndSbV/eXQ="
+    "hash": "sha256-oZHXLMyW2hAunHqzd+iZuHTlZOyDMoFGKikujMjJ5T0="
   },
   "webkitpdf": {
     "version": "1.2.0",
@@ -66126,13 +66125,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "wv_deepltranslate": {
-    "version": "4.4.3",
+    "version": "4.5.2",
     "t3_versions": [
       11,
       12
     ],
     "description": "This extension provides option to translate content element, and TCA record texts to DeepL supported languages.",
-    "hash": "sha256-hU9EqHPo6qTAQPNtiLRi6PmSvHRtxlsrXerWibjpPH8="
+    "hash": "sha256-/6h9yQXQvRdMGsvK2ZU482ATlogF7xgNVYzTaM8Ob5k="
   },
   "wv_file_cleanup": {
     "version": "2.0.1",
