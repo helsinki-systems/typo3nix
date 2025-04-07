@@ -1131,13 +1131,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "additional_tca": {
-    "version": "1.16.9",
+    "version": "1.16.10",
     "t3_versions": [
       12,
       13
     ],
     "description": "Additional TCA fields and tools",
-    "hash": "sha256-iUG82kAEEZ9uFfAflMuWKKEuTHhVAVjcbBxlvN4vw0k="
+    "hash": "sha256-NXprF4lHuRC6lnDmP/W+x2ty8HtOvaX468qRRvxHunU="
   },
   "addlinkheader": {
     "version": "0.0.4",
@@ -16038,12 +16038,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "dropbox": {
-    "version": "5.0.2",
+    "version": "6.0.0",
     "t3_versions": [
-      12
+      13
     ],
     "description": "Provides a Dropbox driver for TYPO3 File Abstraction Layer.",
-    "hash": "sha256-cjFdHkpomvG7y0UtAAlBF+iFV2Ml3Vb88H3wZisaoFg="
+    "hash": "sha256-ZAEZZsgEUQaaSfYgPf/K5iuwnkatPG+/AF74MVJ5238="
   },
   "dropbox_sync": {
     "version": "0.9.5",
@@ -28159,13 +28159,13 @@
     "hash": "sha256-7wijbRIl3TjoeylIbrlX4A/8w4vQta7m/RrMe7exJhY="
   },
   "jfmulticontent": {
-    "version": "2.16.0",
+    "version": "2.16.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "It arranges multiple contents into one content element with multiple columns, accordions, tabs, slider, slidedeck, easyAccordion or Booklet.",
-    "hash": "sha256-QFMFq3wr9wYLa+jDy0J21wh0yWAJNRbtw443AU7/1c0="
+    "hash": "sha256-iGZbFoSftlqPaP9gXpDkboNrkEcH1tu1ruwuTZlpwVM="
   },
   "jfmulticontent_viewdemo": {
     "version": "0.1.2",
@@ -30444,7 +30444,7 @@
     "hash": "sha256-t42MVuype0xnDhbTALO5MxQ26V/TjDlPsHCbb1f2TTQ="
   },
   "klarokratie": {
-    "version": "13.4.9",
+    "version": "13.4.10",
     "t3_versions": [
       10,
       11,
@@ -30452,7 +30452,7 @@
       13
     ],
     "description": "Includes Klaro! Consent-Manager into TYPO3. Completely file-based configuration for versioning without having to take care of database-entries. This extension automatically adds a consent-overlay to embedded YouTube- and Vimeo-Videos. It also comes with a ready-to-use integration for Google Analytics / Google Tag Manager and etracker.",
-    "hash": "sha256-ZjZV5MzfKLvf6rb0SqEkt8XvdwLuvOoTAuj+BCF5e94="
+    "hash": "sha256-2UR2Ve/phzi1e+NqfkwpVfG8WeK6VKJ5TZhWLNoejCY="
   },
   "km_dam_extension": {
     "version": "1.0.2",
@@ -32221,12 +32221,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "logs": {
-    "version": "5.1.0",
+    "version": "5.2.0",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "Log Reader with a backend module and API to read, filter and delete logs from the TYPO3 Logging API",
-    "hash": "sha256-BD4gnQDQE47CkRIw+uqexGuyn2t4yTJp+645UsdUs/8="
+    "hash": "sha256-qAGn/xiq2qsrC/BDHg+XFr24+l9KsK2uUNAVzMBc16g="
   },
   "loki": {
     "version": "1.1.1",
@@ -33377,12 +33378,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "maps2": {
-    "version": "12.0.2",
+    "version": "12.0.3",
     "t3_versions": [
       13
     ],
     "description": "Create maps with Marker, Area, Routes or Radius based on Google Maps or OpenStreetMap",
-    "hash": "sha256-caPBWURjNFmdO6jVd0WvrpFX0DVAgH8CFEr52HtFQdE="
+    "hash": "sha256-1N+HhW1Xa6lZT7BQOui+hpVrkvF7ZquW2QUhQDLWlN0="
   },
   "mapsapi3": {
     "version": "0.4.1",
@@ -41549,13 +41550,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "om_cookie_manager": {
-    "version": "12.1.0",
+    "version": "13.0.0",
     "t3_versions": [
-      11,
-      12
+      13
     ],
-    "description": "Features: Consent Panel (Optin), Grouping and Google Tag Manager support. With this Extension you can manage the script/html tags that generates cookies on your site or simply build a consent panel. You can creat different groups like essential, tracking, preferences and so on. The associated scripts will be loaded only after the optin process is done.",
-    "hash": "sha256-z+63c1zZxxZpt1tOaJHvI4ijND8JrN782M5p2hKCGgU="
+    "description": "Features: Consent Panel (Optin), Grouping, Google Tag Manager support, Google Consent Mode V2. With this Extension you can manage the script/html tags that generates cookies on your site or simply build a consent panel. You can creat different groups like essential, tracking, preferences and so on. The associated scripts will be loaded only after the optin process is done.",
+    "hash": "sha256-BxGBzNFQPZ9+uYHhQK+G8Hs5n5g4QxxNIBe/MKSAHfw="
   },
   "on_jobs2xml": {
     "version": "1.0.1",
