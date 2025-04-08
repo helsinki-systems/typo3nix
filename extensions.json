@@ -3716,13 +3716,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.342.21",
+    "version": "3.342.22",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-SHXHrx2FJQJ0YwpyPLOHmdLVy2LxVFS+wXXgxBBhXDM="
+    "hash": "sha256-dhv+tkWZVVTYxfD6XWBlbLnEbx9o7gCOwMvKFDlQPko="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -6965,13 +6965,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "calendarize": {
-    "version": "14.0.0",
+    "version": "14.0.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "Create a structure for timely controlled tables (e.g. events) and one plugin for the different output of calendar views (list, detail, month, year, day, week...). The extension is shipped with one default event table, but you can also \"calendarize\" your own table/model. It is completely independent and configurable! Use your own models as event items in this calender. Development on https://github.com/lochmueller/calendarize",
-    "hash": "sha256-9Zb2nCEXtVomcHdz3tuStQVUpB6aqo9NmYs22zZCinA="
+    "hash": "sha256-lkYqm6ugvA1uc6PQGnaNlZvKXdCvH9of8bcPn1gDZbs="
   },
   "calendarize_address": {
     "version": "6.0.0",
@@ -25084,14 +25084,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "htmltables": {
-    "version": "0.9.10",
+    "version": "0.9.11",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "Create sophisticated HTML tables easily using Inline Records (IRRE)",
-    "hash": "sha256-NsZnm0r+tRi0pcNrTwavM78dUGwEniXcLx3JDQ0cOH4="
+    "hash": "sha256-Ms0z6h1FO2yCQ1xBvrUK76WEOe0RU4pH/nKWbtK3ImM="
   },
   "http2": {
     "version": "2.0.0",
@@ -31203,6 +31203,14 @@
     "description": "Make frontend Form with TCA",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "lbo_anonymizer": {
+    "version": "13.0.0",
+    "t3_versions": [
+      13
+    ],
+    "description": "Allow anonymisation of data with a command line",
+    "hash": "sha256-thhLqfY6O755usk+IIVk+83o4tAavMc4o/pNioJ4ZRk="
+  },
   "lbo_backend_filters": {
     "version": "1.0.0",
     "t3_versions": [
@@ -35732,13 +35740,13 @@
     "hash": "sha256-L1eMgdoWIA438H/aCPkaYuz0SNfRgocuqGUwlh9mzlU="
   },
   "mklog": {
-    "version": "13.0.1",
+    "version": "13.0.7",
     "t3_versions": [
       12,
       13
     ],
     "description": "Keep track of developer logs. Provides automatic email notification about important errors.",
-    "hash": "sha256-4YnWNWEjFsPsDZ8hDOhc0OqCnUU3EAVPeChO4mnrE24="
+    "hash": "sha256-xhdIjjUR1cY4C9Z3OngsX6jXIvk6cVOOO0tv4fkVGEw="
   },
   "mkmailer": {
     "version": "9.0.0",
@@ -65641,12 +65649,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ws_scss": {
-    "version": "13.0.2",
+    "version": "13.1.0",
     "t3_versions": [
       13
     ],
     "description": "Compiles scss files to CSS files.",
-    "hash": "sha256-rzDH+T5Gzr+GnazPANpuDkbExJbO2aK9+6FMM6zBEhw="
+    "hash": "sha256-sPHtxyfgt3WhwCyTvgh2UY5mMMluHLX5gsQE69TnufM="
   },
   "ws_sitemap": {
     "version": "0.4.8",
