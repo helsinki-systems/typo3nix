@@ -1661,22 +1661,22 @@
     "hash": "sha256-mLO7/zsLctavB/gvr5k6AC7eiEf9qNvZ/9WPt9NvfxY="
   },
   "aimeos": {
-    "version": "24.10.5",
+    "version": "25.4.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "Professional, full-featured and ultra-fast TYPO3 e-commerce extension for online shops, complex B2B applications and #gigacommerce. Turns TYPO3 into the best platform for content commerce and your e-commerce requirements (also available as TYPO3 distribution)",
-    "hash": "sha256-ByC0hAMUGNBWwENIj4bBmI2IKnkt92i98+4VCjHmRPo="
+    "hash": "sha256-1tmZNhbSMIjt01P331ea6G1xO5bXrSq1kQgabBSoiXQ="
   },
   "aimeos_dist": {
-    "version": "24.10.2",
+    "version": "25.4.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "Professional, full-featured and ultra-fast TYPO3 e-commerce distribution for online shops, complex B2B applications and #gigacommerce. Turns TYPO3 into the best platform for content commerce and your e-commerce requirements",
-    "hash": "sha256-sPLvxj2QF9ybLCMi23mZqZpKiwczhUJm+0oC19vOXPs="
+    "hash": "sha256-f7lvx/wIaKqheyit74Gazl9VbKW7KoZnk2jsBs406L8="
   },
   "aimeos_migrate": {
     "version": "16.2.0",
@@ -3716,13 +3716,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.342.22",
+    "version": "3.342.23",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-dhv+tkWZVVTYxfD6XWBlbLnEbx9o7gCOwMvKFDlQPko="
+    "hash": "sha256-y8bD/sNsZWjyTB7OPjCEt2jAwdteEbXmOpVSduhhC0w="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -6156,12 +6156,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "bw_focuspoint_images": {
-    "version": "4.0.0",
+    "version": "5.1.1",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "Image Editor for adding focus points to images",
-    "hash": "sha256-3ahWuDt6XEsqtoaamZ6X32py9VvRJUCYCMu/+UoQp88="
+    "hash": "sha256-wkv0hQQffQm7n/jz2jJnlvNxYuMvynzxJubFZLNiLEE="
   },
   "bw_icons": {
     "version": "3.1.0",
@@ -13221,13 +13222,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "dce": {
-    "version": "3.2.6",
+    "version": "3.2.7",
     "t3_versions": [
       12,
       13
     ],
     "description": "Best flexform based content elements since 2012. With TCA mapping feature, simple backend view and much more features which makes it super easy to create own content element types.",
-    "hash": "sha256-fF+J8n9uoZIYhqBx6NgvtL50TKyTbhOlJGqMQFb00do="
+    "hash": "sha256-34LRWczHnOC4YPKjoP4k7UlyCOmNZMC/DjEN7DjRUtM="
   },
   "dcformcreator": {
     "version": "0.0.3",
@@ -14346,6 +14347,14 @@
     ],
     "description": "Provides a floating panel for controlling the output of the Display Controllers debugging. Not maintained anymore.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "disposable_email": {
+    "version": "12.0.0",
+    "t3_versions": [
+      12
+    ],
+    "description": "A service extension to compile lists of disposable and free mail providers, offering a simple way to validate email addresses against them.",
+    "hash": "sha256-GclX/s3j1/ZAj2+JCAdeDncPt9KXfCvWN8qJmg5qpBU="
   },
   "disqus_comments": {
     "version": "1.0.2",
@@ -21809,12 +21818,12 @@
     "hash": "sha256-BWibo3/20xqtaX8DidK/HYtgtpJvSyzjCx9HqXRROF8="
   },
   "fp_masterquiz": {
-    "version": "7.0.5",
+    "version": "7.0.6",
     "t3_versions": [
       13
     ],
     "description": "A modern extension that offers quiz, polls and tests. Ajax support. The result can be displayed as a chart too. Supports 8 question modes.",
-    "hash": "sha256-9pFNwJuXnp9p6idiODuV+dk+siestPcqO9aj92unM6I="
+    "hash": "sha256-WhD61O08MyPRwyESjZIO4lYxujjQmQ8cWsR56YPocPo="
   },
   "fp_newsletter": {
     "version": "8.1.2",
@@ -29473,12 +29482,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "jwtools2": {
-    "version": "7.1.2",
+    "version": "8.0.1",
     "t3_versions": [
-      12
+      13
     ],
     "description": "Jwtools2 contains a scheduler task for Solr to index multiple Pagetrees and a task to execute SQL-Queries. Further there are settings to enable some features in TYPO3 like showing the Page UID in Pagetree with a simple click in extensionmanager.",
-    "hash": "sha256-tVKBVpDH1zdii7T2EvqX/EuetIxjQ7m6b7XZUSgXH9U="
+    "hash": "sha256-C5hUAaVeqRy/dcERNi5yRH1oCCS6xCqMy6Vk6qwwHO4="
   },
   "k20events": {
     "version": "1.0.3",
@@ -31717,14 +31726,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "link2language": {
-    "version": "2.0.2",
+    "version": "4.0.0",
     "t3_versions": [
-      9,
-      10,
-      11
+      12,
+      13
     ],
     "description": "Allows to select links to pages or content elements for a specific language",
-    "hash": "sha256-N27bEfZCnzLw47X0eELcsuwi015zEv8SbpoLTrCwrxk="
+    "hash": "sha256-pV+imVR10+3wTryHCykrZmnp4TwCRsS6W+N0MLsKqL0="
   },
   "link_by_pageid": {
     "version": "1.0.2",
@@ -32526,13 +32534,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "lux": {
-    "version": "38.3.0",
+    "version": "38.5.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Living User Experience - LUX - the Marketing Automation tool for TYPO3.",
-    "hash": "sha256-+sm/rFl5oQgx/1QBTHgGfxBJWKC/eDLjae8y71EihPo="
+    "hash": "sha256-K3vHxK06eWsdKr1H6l0I9I0iPUz3gddRONcCdQuZ1eA="
   },
   "luxletter": {
     "version": "27.0.1",
@@ -33386,12 +33394,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "maps2": {
-    "version": "12.0.3",
+    "version": "12.0.4",
     "t3_versions": [
       13
     ],
     "description": "Create maps with Marker, Area, Routes or Radius based on Google Maps or OpenStreetMap",
-    "hash": "sha256-1N+HhW1Xa6lZT7BQOui+hpVrkvF7ZquW2QUhQDLWlN0="
+    "hash": "sha256-tz91OK7dpx+rBa21yB720EXFI+3girUyZiElOTOfXjQ="
   },
   "mapsapi3": {
     "version": "0.4.1",
@@ -45684,13 +45692,13 @@
     "hash": "sha256-Dhs7F/4iW1zksQ68cOUPqWGkDn8f8MEMbW6KmeaTFAc="
   },
   "psb_foundation": {
-    "version": "2.3.4",
+    "version": "2.3.6",
     "t3_versions": [
       12,
       13
     ],
     "description": "Configuration framework for TYPO3 extension development",
-    "hash": "sha256-1/PYu62P/kiczYD0ium4SaHXGpLFSJCM7FWOVXj7PX0="
+    "hash": "sha256-R02NSke7/IuQn4DK8OCqOmZPEeKU98b5eJ9rsrAcFvA="
   },
   "psb_user_deployment": {
     "version": "1.0.0",
@@ -58571,12 +58579,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "teaser2": {
-    "version": "13.0.1",
+    "version": "13.1.1",
     "t3_versions": [
       13
     ],
     "description": "This extension displays images and videos in a responsive grid layout with nice hover effect.",
-    "hash": "sha256-GGY9RhXi51ouJ7NcA6s4OhI36vOT+WShzTqRlBjnhCc="
+    "hash": "sha256-rhF2Q8ymHSSGnkIC/t41dL908o7CNSVDqtR1NFV5nVk="
   },
   "teaser_manager": {
     "version": "3.0.0",
@@ -62630,14 +62638,14 @@
     "hash": "sha256-UF8RTSt5kDRuaYw+41Zye/6RglN7RnoEPIUq1T2CJeE="
   },
   "typo3_environment_indicator": {
-    "version": "1.1.0",
+    "version": "2.0.0",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "This extension comes with several features to show an environment indicator in the TYPO3 frontend and backend.",
-    "hash": "sha256-Oo+TITEN1z5Ww3wUti1q+h8LON6T40tT4hyXnbzGcSI="
+    "hash": "sha256-lsqaYBUC0CYnm4b9MeDsjyWMfQD7HU6/v8jN0uqZ3J4="
   },
   "typo3_feed": {
     "version": "2.0.1",
@@ -63651,10 +63659,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "videos": {
-    "version": "13.0.0",
-    "t3_versions": [],
+    "version": "13.1.0",
+    "t3_versions": [
+      13
+    ],
     "description": "Extends video file properties and provides a player for playlists, cue points and subtitles",
-    "hash": "sha256-v9dB+jSl4obKP9HEf1xb1hCBDTY/M+LxqadMI3qmpcE="
+    "hash": "sha256-6XNqpcORIx42bOEZFYNltZl4vKxv51K9gqNSeXAAxtY="
   },
   "videoswitcher": {
     "version": "0.0.4",
@@ -65666,12 +65676,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ws_slider": {
-    "version": "13.1.1",
+    "version": "13.2.0",
     "t3_versions": [
       13
     ],
     "description": "Universal slider carousel for Owl slider, flexslider, ... ",
-    "hash": "sha256-+v8ITPCWDRqE/bf88iIJKDLXA2E5GbcouwqWmCT3oF0="
+    "hash": "sha256-4EVW7/0UA1ZkABcV6aUmeYJG3GKDmckZKi9toEMVO3M="
   },
   "ws_stats": {
     "version": "0.2.0",
