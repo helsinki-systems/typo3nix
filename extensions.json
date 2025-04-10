@@ -3716,13 +3716,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.342.23",
+    "version": "3.342.24",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-y8bD/sNsZWjyTB7OPjCEt2jAwdteEbXmOpVSduhhC0w="
+    "hash": "sha256-UqXzaC0JOQWc/I1kP63LgP9QvyoB1ti+6yAcmqtmWE4="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -5417,13 +5417,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "bootstrap_package": {
-    "version": "15.0.1",
+    "version": "15.0.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "Bootstrap Package delivers a full configured frontend theme for TYPO3, based on the Bootstrap CSS Framework.",
-    "hash": "sha256-wBYj3ISK02xLFIq0CPuYYp92aXzT4MyFoVZB0+E2ZQo="
+    "hash": "sha256-ZPdYjs4q2RuV5tsKxHBPgqVSat5pUWxzBCpfDTg8kNA="
   },
   "bootstrap_package_iconpack": {
     "version": "0.3.1",
@@ -14410,13 +14410,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "div2007": {
-    "version": "2.3.2",
+    "version": "2.3.3",
     "t3_versions": [
       12,
       13
     ],
     "description": "This library offers classes and functions to other TYPO3 extensions. Replacement for tslib_pibase methods.",
-    "hash": "sha256-V3XydKtjS1R789thNnozZ50Ll9PM0jR4MABvTo21QFI="
+    "hash": "sha256-gw6FK/EEfUt0RCFulvIfFvQL1pIOkIcaBNwNMwa+uro="
   },
   "diva": {
     "version": "8.7.1",
@@ -35814,13 +35814,13 @@
     "hash": "sha256-phRL0foWA1dZnNn7md29fWHqxnBhyYIrWqGysoS95EY="
   },
   "mksearch": {
-    "version": "12.0.2",
+    "version": "12.0.4",
     "t3_versions": [
       11,
       12
     ],
     "description": "Generic highly adjustable and extendable search engine framework, using Zend Lucene, Apache Solr or ElasticSearch. But support for other search engines can be provided easily.",
-    "hash": "sha256-HK+4lHUtaavXgTXTHM08r7xFB2jgGf3GMCCzgGFuY28="
+    "hash": "sha256-QIdkg2HiBpHi38hRCYqFiTPmSJz3EZeFrvy2pAY0GIY="
   },
   "mktools": {
     "version": "12.0.2",
@@ -41566,12 +41566,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "om_cookie_manager": {
-    "version": "13.0.0",
+    "version": "13.1.0",
     "t3_versions": [
       13
     ],
     "description": "Features: Consent Panel (Optin), Grouping, Google Tag Manager support, Google Consent Mode V2. With this Extension you can manage the script/html tags that generates cookies on your site or simply build a consent panel. You can creat different groups like essential, tracking, preferences and so on. The associated scripts will be loaded only after the optin process is done.",
-    "hash": "sha256-BxGBzNFQPZ9+uYHhQK+G8Hs5n5g4QxxNIBe/MKSAHfw="
+    "hash": "sha256-i2lRvMmP6t6sN+55FXfNGNCUjSWvlOPvFbTs85F/+bk="
   },
   "on_jobs2xml": {
     "version": "1.0.1",
@@ -50350,14 +50350,14 @@
     "hash": "sha256-bCMkdMOCy2wNJ3Gz6SWr7i1qZ9ZfxkhhegmjmYFHEdo="
   },
   "schema": {
-    "version": "3.11.0",
+    "version": "3.11.1",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "API and view helpers for schema.org markup",
-    "hash": "sha256-Df8tXvwEl3Em6qLuo5YQxYJ95W1ee9m32PdcqAxSKfE="
+    "hash": "sha256-N1izNg54KqjQsvmbZhVz1b/M1EiWhjkqtaiqNS9yd2c="
   },
   "schema_auto": {
     "version": "2.3.0",
