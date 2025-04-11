@@ -3237,13 +3237,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ausstello": {
-    "version": "1.1.12",
+    "version": "1.1.13",
     "t3_versions": [
       12,
       13
     ],
     "description": "Events managen und kommunizieren, Marketing automatisieren. Einfach, ausstello.",
-    "hash": "sha256-eP8L5UOl0CogjzSj6KFqbVNQcZWBySTNks6ycjrSAqM="
+    "hash": "sha256-/f7Vtp2PLYWLD4NJtVN6zC5fdlSpFmzBpLQ237L+eqA="
   },
   "auth0": {
     "version": "13.0.0",
@@ -3716,13 +3716,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.342.24",
+    "version": "3.342.25",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-UqXzaC0JOQWc/I1kP63LgP9QvyoB1ti+6yAcmqtmWE4="
+    "hash": "sha256-Hw93nnWBKdyB2X/vhR+WKwJf/Zm2iOXjRAQVeVraHvU="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -37966,12 +37966,13 @@
     "hash": "sha256-nlkuw784DHFyrUqkKshItZMKRhaWta0oWv9ljQHPP3A="
   },
   "mymap": {
-    "version": "2.0.0",
+    "version": "2.0.1",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "Google maps with radial search and hierarchic categories (category tree). Show the results in responsive Google maps, traffic- and bicycling layer included and can be activated via constant editor.",
-    "hash": "sha256-IT4wSNl8zJ322RPBFLU2/zIY+fjnPCtKzQfH4NIuJV0="
+    "hash": "sha256-TJeV/ih/hhim75C5TuHi+hhL546T74Pdkn+4k2hcVFc="
   },
   "mypuzz_ftp": {
     "version": "1.1.1",
@@ -45701,12 +45702,13 @@
     "hash": "sha256-R02NSke7/IuQn4DK8OCqOmZPEeKU98b5eJ9rsrAcFvA="
   },
   "psb_user_deployment": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "t3_versions": [
+      12,
       13
     ],
     "description": "Versioning and deployment of users, user groups and their privileges",
-    "hash": "sha256-kq7pUP76KhUKAw34G3Z8pU5J8bHmYgiPOj2x/aBFheE="
+    "hash": "sha256-Vwj5eTIXYxgTHIjjFPIDANojqPNcUCir092rfxZ79Z8="
   },
   "psb_view_helpers": {
     "version": "2.1.0",
