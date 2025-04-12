@@ -3716,13 +3716,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.342.25",
+    "version": "3.342.26",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-Hw93nnWBKdyB2X/vhR+WKwJf/Zm2iOXjRAQVeVraHvU="
+    "hash": "sha256-dXAhBef4nben+uINj15l8pn6ImM2ZyUNwCrl5BePEoA="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -19925,12 +19925,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "filecollection_gallery": {
-    "version": "13.0.2",
+    "version": "13.0.3",
     "t3_versions": [
       13
     ],
     "description": "Simple FileCollection Gallery with mobile and desktop view",
-    "hash": "sha256-pwJ4ldUNUcIrrcl/6EVBoTxi5US1VcFN0bGk1T8wJMU="
+    "hash": "sha256-tvP8w+fE2ibcpm0ihPqbFNYY1FrAiCwbnLRSFfI+zqE="
   },
   "filecollector": {
     "version": "1.1.0",
@@ -39194,13 +39194,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "newslayouts": {
-    "version": "0.1.0",
+    "version": "13.0.2",
     "t3_versions": [
-      7,
-      8
+      13
     ],
-    "description": "Extends EXT:news records with individual layout settings",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "description": "Extends EXT:news plugins and records with individual layout settings. Supports bootstrap css framework.",
+    "hash": "sha256-W1tKMCpTazPNb0CueTok4+s+n7OvUTfjBAhgvh51y9Q="
   },
   "newsletter": {
     "version": "5.0.4",
