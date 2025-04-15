@@ -3716,13 +3716,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.342.26",
+    "version": "3.342.27",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-dXAhBef4nben+uINj15l8pn6ImM2ZyUNwCrl5BePEoA="
+    "hash": "sha256-En/x0kA+Se0owWLRr0w/jSj8kV3ummKkIj1aHC+XJr8="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -6156,13 +6156,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "bw_focuspoint_images": {
-    "version": "5.1.1",
+    "version": "5.2.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Image Editor for adding focus points to images",
-    "hash": "sha256-wkv0hQQffQm7n/jz2jJnlvNxYuMvynzxJubFZLNiLEE="
+    "hash": "sha256-cC9tFGO7pwvqMJF1OYyW5GUpY7H6b1HujVCUY718oT0="
   },
   "bw_icons": {
     "version": "3.1.0",
@@ -11960,13 +11960,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cute_mailing": {
-    "version": "4.0.0",
+    "version": "4.1.2",
     "t3_versions": [
-      11,
-      12
+      12,
+      13
     ],
-    "description": "Send TYPO3 pages as emails (newsletter) to many recipients. Can be used as replacement for direct_mail.",
-    "hash": "sha256-srQAsyPUYz/vJpYT/FmWAcm5OrT4IVkQdfd5OIy61E8="
+    "description": "A TYPO3 extension that makes mailing and newsletter sending cute. Send TYPO3 pages as emails (newsletter) to many recipients. Can be used as replacement for direct_mail.",
+    "hash": "sha256-bZ3ko0eschuMnh9a6Va0Q865TEZEKtg1bajunSilEIQ="
   },
   "cute_mailing_registeraddress": {
     "version": "2.2.0",
@@ -17364,13 +17364,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "er24_rechtstexte": {
-    "version": "2.0.3",
+    "version": "2.0.4",
     "t3_versions": [
       11,
       12
     ],
     "description": "This extension allows the easy integration of imprint and privacy policy of eRecht24.",
-    "hash": "sha256-jFV0UPTvCChHCFvPBNdB5HdSlCg1V6Peu3ntx02cEAU="
+    "hash": "sha256-+D1pgz2ZNoBhQpHlSqCPjUMfUU6ptuMeZrGNmdfNA+I="
   },
   "erdal_googlemap": {
     "version": "0.1.2",
@@ -18090,12 +18090,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ext_kickstarter": {
-    "version": "0.3.2",
+    "version": "0.3.3",
     "t3_versions": [
       13
     ],
     "description": "Kickstart TYPO3 Extension",
-    "hash": "sha256-sUm3p0xBPQSz9pW2cHvJScyLdAbwotlrDfc5yFSavX0="
+    "hash": "sha256-AbVqsImQa0nDcsGleBYvTO6pEqzIpUrdJ+kKJmXZjbc="
   },
   "ext_ppferegister": {
     "version": "1.0.1",
@@ -24292,12 +24292,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "happy_feet": {
-    "version": "12.0.0",
+    "version": "12.0.3",
     "t3_versions": [
       12
     ],
     "description": "Handles happy footnotes",
-    "hash": "sha256-zp9ZnxRWTCgtuiUIBixOeSyBvtVtjlCBwwbdz3D3N/0="
+    "hash": "sha256-VKTcikgeay9u7+f9nyWNpaou5GKjzQQ1cNynBPOC270="
   },
   "harz2night_de_flickrflashshow": {
     "version": "1.0.12",
@@ -32535,13 +32535,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "lux": {
-    "version": "38.5.0",
+    "version": "38.5.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "Living User Experience - LUX - the Marketing Automation tool for TYPO3.",
-    "hash": "sha256-K3vHxK06eWsdKr1H6l0I9I0iPUz3gddRONcCdQuZ1eA="
+    "hash": "sha256-naR/339FyZMJGwaL6QMUSU/Re33ZtT5uwkklU/Hj0GE="
   },
   "luxletter": {
     "version": "27.0.1",
@@ -35815,13 +35815,13 @@
     "hash": "sha256-phRL0foWA1dZnNn7md29fWHqxnBhyYIrWqGysoS95EY="
   },
   "mksearch": {
-    "version": "12.0.4",
+    "version": "12.0.5",
     "t3_versions": [
       11,
       12
     ],
     "description": "Generic highly adjustable and extendable search engine framework, using Zend Lucene, Apache Solr or ElasticSearch. But support for other search engines can be provided easily.",
-    "hash": "sha256-QIdkg2HiBpHi38hRCYqFiTPmSJz3EZeFrvy2pAY0GIY="
+    "hash": "sha256-dj65QMqRbzJ5xpyYy8iyZuMeWNApYFBougA4wIxo2Fg="
   },
   "mktools": {
     "version": "12.0.2",
@@ -56637,13 +56637,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "t3_prometheus_client": {
-    "version": "0.10.1",
+    "version": "0.10.2",
     "t3_versions": [
       12,
       13
     ],
-    "description": "Provides a client for Prometheus to scrape timeseries data from system status informations (more info on \"How it works\") and exposes them on a configuralble endpoint",
-    "hash": "sha256-G1hYuARCgjfeZibnHEVlNSZepW0Tt7Ac7+6b7EATCLg="
+    "description": "Provides a client for Prometheus to aggregate timeseries data from various metrics. Supports both scraping and pushing metrics to pushgateway",
+    "hash": "sha256-stKLSEZn9twrdBNC8Ku/2Umb4p94AvkQtHASZXvgfM4="
   },
   "t3_slack": {
     "version": "1.0.0",
@@ -62886,12 +62886,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "uk_release_test": {
-    "version": "0.0.8",
+    "version": "1.0.0",
     "t3_versions": [
       12
     ],
     "description": "Something",
-    "hash": "sha256-dXupH/7Aybv5TAfbr/V1Lwm/28f83mNZ3nULlxfN++0="
+    "hash": "sha256-lt+NGwNHrspZXVyNmXvqMKj+wUvERribCOhrUP7ffyM="
   },
   "umami": {
     "version": "1.2.0",
