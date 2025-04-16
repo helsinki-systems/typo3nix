@@ -18355,13 +18355,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "extensionbuilder_typo3": {
-    "version": "0.6.153",
+    "version": "0.6.154",
     "t3_versions": [
       12,
       13
     ],
     "description": "The Extension Builder for TYPO3, supporting version 12 and above",
-    "hash": "sha256-4iMZ3FnKr+XYWA7DwsXRKA6GsqcZdgGF//AIIrXf9eY="
+    "hash": "sha256-GSOJvt5yPTjOaSQqwZ+R68WtznIriv52bEXbBR8AMzQ="
   },
   "extensionlist": {
     "version": "0.1.4",
@@ -20602,13 +20602,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fluid_form": {
-    "version": "4.0.12",
+    "version": "4.0.13",
     "t3_versions": [
       11,
       12
     ],
     "description": "Forms configured only by TypoScript",
-    "hash": "sha256-5uyOdTa8EkzevcVo/109byzNVyn7txhwD+9Bdh+T750="
+    "hash": "sha256-wsv8rCo+g3aNjdk8PA+8xAuCG/enIrMy5qL/zCOPBMo="
   },
   "fluid_form_elements": {
     "version": "1.0.0",
@@ -21691,13 +21691,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "forms2db": {
-    "version": "1.0.1",
+    "version": "1.1.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "With forms2db, form data from the Forms extension is stored in the database. Additionally, the data can be exported in CSV format using a dedicated module.",
-    "hash": "sha256-WmNWKJPWVoroFGOGwxJWfXn0BlHgcdRWn4ohJYeoUao="
+    "hash": "sha256-t9/Q9iy/vY7yaVHMuQDGauGj3K5/KbOMUSEoQUsS6Zg="
   },
   "formsave": {
     "version": "1.6.3",
@@ -21819,12 +21819,12 @@
     "hash": "sha256-BWibo3/20xqtaX8DidK/HYtgtpJvSyzjCx9HqXRROF8="
   },
   "fp_masterquiz": {
-    "version": "7.0.6",
+    "version": "7.1.0",
     "t3_versions": [
       13
     ],
     "description": "A modern extension that offers quiz, polls and tests. Ajax support. The result can be displayed as a chart too. Supports 8 question modes.",
-    "hash": "sha256-WhD61O08MyPRwyESjZIO4lYxujjQmQ8cWsR56YPocPo="
+    "hash": "sha256-EOIEI20VeTGVo7i0CCEmaGMpTpTBBnRuI0sNRmFbQy0="
   },
   "fp_newsletter": {
     "version": "8.1.2",
@@ -31369,15 +31369,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "leaflet": {
-    "version": "7.0.6",
+    "version": "12.4.0",
     "t3_versions": [
-      6,
-      7,
-      8,
-      9
+      12
     ],
-    "description": "Leaflet is an open-source JavaScript library for mobile-friendly interactive maps. See: http://leafletjs.com/",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "description": "Leaflet is an open-source JavaScript library for mobile-friendly interactive maps. This library is used by other extensions like xBlog. See: https://leafletjs.com/",
+    "hash": "sha256-vaBG6NmxAc2gQUpCVR/QKoANaGGLI74XyUN/J4oQ9e8="
   },
   "league_container": {
     "version": "2.0.3",
@@ -34081,6 +34078,15 @@
     ],
     "description": "This extension enables frontend users to created news records in the frontend.",
     "hash": "sha256-Tfl2gkeA4uNyugbp1dSaM8rUnUFtDoafh+LvDV3/oEk="
+  },
+  "md_notifications": {
+    "version": "1.0.1",
+    "t3_versions": [
+      12,
+      13
+    ],
+    "description": "Notify frontend users about new data records.",
+    "hash": "sha256-6eITYT7YAbgEaXBr+RyBVZ6Ivk+zVWjRxijQL+j89FQ="
   },
   "md_saml": {
     "version": "4.0.0",
@@ -45702,13 +45708,13 @@
     "hash": "sha256-R02NSke7/IuQn4DK8OCqOmZPEeKU98b5eJ9rsrAcFvA="
   },
   "psb_user_deployment": {
-    "version": "1.0.1",
+    "version": "1.1.1",
     "t3_versions": [
       12,
       13
     ],
-    "description": "Versioning and deployment of users, user groups and their privileges",
-    "hash": "sha256-Vwj5eTIXYxgTHIjjFPIDANojqPNcUCir092rfxZ79Z8="
+    "description": "Deployment of users, user groups and their privileges",
+    "hash": "sha256-aapU5MT6y/rszvKkbqebCJieVVtwTMAqeKTovIXv95U="
   },
   "psb_view_helpers": {
     "version": "2.1.0",
@@ -45952,12 +45958,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "publications": {
-    "version": "6.2.0",
+    "version": "6.2.1",
     "t3_versions": [
       12
     ],
     "description": "Publication reference extension with im- and export with bibtex and xml files",
-    "hash": "sha256-Pud1bA/YVnujOvZYhTLlEXhsAZpxJXehDIuZmpkCGFI="
+    "hash": "sha256-vrSyGos9urrAvmOdf9tgY1QDOB8TAVlHzhLQNfMzRr4="
   },
   "publish": {
     "version": "11.1.1",
@@ -50633,13 +50639,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "secrets": {
-    "version": "2.0.4",
+    "version": "2.1.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "secrets is used to encrypt messages and share them as a one-time link. The extension is suitable for organizations that place particular emphasis on security and trustworthiness. Since all communication takes place via your own web server, no third-party tools from servers whose location is not known (DSGVO) are necessary. Your own domain name in the link is more trustworthy and makes a more professional impression.",
-    "hash": "sha256-nr48MeT3DmZYBzwaJ9I9aTTgzZFT7LB/X17kfhyiDW4="
+    "hash": "sha256-0TeWJbq8BCd40QjFFF6eOY6ZI28bMiS/k0idYf62jmI="
   },
   "secsign": {
     "version": "2.0.0",
@@ -51726,13 +51732,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "shop": {
-    "version": "5.1.0",
+    "version": "5.2.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Shop for TYPO3 incl. PayPal, PayPal-Plus, Klarna, Stripe, Bookmarks, UPS-API, Invoice generation, backend module, compare feature, graduated prices and many more - note there is a Pro version as well! See https://www.coding.ms/typo3-extensions/typo3-shop",
-    "hash": "sha256-bhulCNKypHhW8a7QAOlIy2L0UVKRu8bEgMh/U3rJvNc="
+    "hash": "sha256-2h4t/ZnCOrONPPbRhlSCb9pnmBSrDAmq4RpytECVBq8="
   },
   "shop3ox": {
     "version": "0.0.3",
@@ -60849,13 +60855,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "tooltip": {
-    "version": "1.1.1",
+    "version": "1.2.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Add Tooltip to keywords in content",
-    "hash": "sha256-2gtb4jgHC6HX5D6t6lUElwwFLHRDMT6RKfQAghU46+s="
+    "hash": "sha256-N/o5Q8riAbWobz9oH9J2GN4FocRKlD5XAvinzSJ4fl8="
   },
   "top": {
     "version": "1.0.0",
@@ -61758,13 +61764,13 @@
     "hash": "sha256-KHFg2YrQeolZphyDlmmjTGp04I/6IU1WrktMh0c4lNQ="
   },
   "tt_board": {
-    "version": "1.16.2",
+    "version": "1.17.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Simple threaded (tree) or list message board (forum).",
-    "hash": "sha256-MJRVhro/EWck0p3k5LfOwiejcYhLkQg2pnaUD/BYZ88="
+    "hash": "sha256-N0ZY6Rmu1pDv7xM2Z5dCM7/9GM1RJTDNeLm1Nm8pPEg="
   },
   "tt_calender": {
     "version": "1.0.5",
@@ -64515,7 +64521,7 @@
     "hash": "sha256-4hrmOcQHabrefzjNUTF+F8mnwBdlJTJQYdB7lOYToS0="
   },
   "webhelp": {
-    "version": "13.0.1",
+    "version": "13.1.0",
     "t3_versions": [
       9,
       10,
@@ -64523,8 +64529,8 @@
       12,
       13
     ],
-    "description": "allows you to use simple web components like porthd-icalendar, porthd-vcard or porthd-listselect in your fluid-templates as viewhelper",
-    "hash": "sha256-oZHXLMyW2hAunHqzd+iZuHTlZOyDMoFGKikujMjJ5T0="
+    "description": "Make your templates simpler and your frontend more dynamical with custom web components - generated by vibe-coding. ",
+    "hash": "sha256-2EeRXtZ6hdoAAtXpawMORcTS1jWobhJzVdpvSOERhXY="
   },
   "webkitpdf": {
     "version": "1.2.0",
