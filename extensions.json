@@ -3716,13 +3716,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.342.27",
+    "version": "3.342.28",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-En/x0kA+Se0owWLRr0w/jSj8kV3ummKkIj1aHC+XJr8="
+    "hash": "sha256-VsBzSjT0RbYguBbNpXLSEoBsjsixx1sUvBbZ3wkjTH8="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -21811,12 +21811,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fp_fractionslider": {
-    "version": "2.0.0",
+    "version": "2.2.0",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "Can be used with the \"jQuery-FractionSlider\", the \"Professional jQuery Content Slider Plugin - Slider Pro\" or the \"Slider revolution\".",
-    "hash": "sha256-BWibo3/20xqtaX8DidK/HYtgtpJvSyzjCx9HqXRROF8="
+    "hash": "sha256-0rD6l8oEBj66t+1uE7cQDvrUFL4Sz3ynqyhzaceTm04="
   },
   "fp_masterquiz": {
     "version": "7.1.0",
@@ -21827,12 +21828,12 @@
     "hash": "sha256-EOIEI20VeTGVo7i0CCEmaGMpTpTBBnRuI0sNRmFbQy0="
   },
   "fp_newsletter": {
-    "version": "8.1.2",
+    "version": "8.2.1",
     "t3_versions": [
       13
     ],
     "description": "Plugin for newsletter subscription and unsubscription with double opt in (and double opt out). For: mail or luxletter / tt_address or fe_users. A log is written.",
-    "hash": "sha256-xmGTmwTqNIbkY7UeT3wUaMEU6LTrCvxJ4G7Jjimt4rI="
+    "hash": "sha256-gRiyYF5HhBvUXKgCzARKQklLlCLL2M8ZEn9qPl6shMk="
   },
   "fp_product_features": {
     "version": "0.2.0",
@@ -24470,13 +24471,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "hh_openstreetmap": {
-    "version": "0.4.1",
+    "version": "1.0.0",
     "t3_versions": [
-      12,
       13
     ],
     "description": "Simple OpenStreetMap",
-    "hash": "sha256-EZpzIWPaRE3R79EErpp56SlYmQJ8ZvzC182NCOHIccY="
+    "hash": "sha256-7xVwk758aXJJM81w0q9WaOQgX4Xu7eVfnknepTBtoWE="
   },
   "hh_powermail_checkboxlink": {
     "version": "0.2.0",
@@ -24488,13 +24488,13 @@
     "hash": "sha256-7CDrZS/l6+FHXTKMWvo6dq0feaV0al1WH12HGmvDAWo="
   },
   "hh_seo": {
-    "version": "0.9.2",
+    "version": "0.9.3",
     "t3_versions": [
       12,
       13
     ],
     "description": "Hauer-Heinrich - SEO - Meta-Tag - ViewHelpers",
-    "hash": "sha256-HnCWOAsvbwuFNoEfQ2xrtjAD4a93itUcLWqxEjl1TPM="
+    "hash": "sha256-E0WhzZ/5vx/d19SXPvd9wgRbG2+1tk7Ejad3HfJFZNg="
   },
   "hh_simple_job_posts": {
     "version": "5.0.1",
@@ -33010,6 +33010,14 @@
     "description": "This extension logs all your outgoing mails and provides email templates and debugging tools",
     "hash": "sha256-LsuWfQ/1Q5W+GwXHbR8lD+3Wuu59JVhogKDjWa5a5Qc="
   },
+  "mail_routing": {
+    "version": "0.1.2",
+    "t3_versions": [
+      13
+    ],
+    "description": "A TYPO3 CMS extension that enables flexible e-mail transport routing. This extension allows you to control which mail transport is used for sending emails either globally for your entire site or on a per-email basis.",
+    "hash": "sha256-kF4u8Q9eMwPXwDo8pBFwAMBtQ4jCeyQLuLGigucRdls="
+  },
   "mail_spool": {
     "version": "1.2.0",
     "t3_versions": [
@@ -34013,13 +34021,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mctest": {
-    "version": "3.4.0",
+    "version": "3.4.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "Single and multiple-choice tests to improve user experience (UX) and increase visitor dwelling time. Ideal for learning platforms, training sessions, or simply for entertainment.",
-    "hash": "sha256-HuHSZ8WVbnOoMh2XP/8p+25mMu+9zeymVYj44EgrugQ="
+    "hash": "sha256-iipGLjIMpUVnhjpajwMRqonLyVUIc24GPbIFHWBsv/k="
   },
   "md5passwords": {
     "version": "1.0.4",
@@ -34044,13 +34052,13 @@
     "hash": "sha256-Is2BLyx93fuskjpNzfQi4HuQtVOGE3q6W/qxSHZO46c="
   },
   "md_fullcalendar": {
-    "version": "4.0.1",
+    "version": "5.0.0",
     "t3_versions": [
-      11,
-      12
+      12,
+      13
     ],
     "description": "This extension brings the FullCalendar.io with switchable views for month, week and day to ext:calendarize. It is also possible to filter calendars by categories.",
-    "hash": "sha256-MkrnLKm7o3PT9lUy+JpRdhYJ5349zjv6vMcALfQ4AhY="
+    "hash": "sha256-7reAhNbIaWCXit1hWwJX5H3VDq5IWydbI/mh/KZ1TG8="
   },
   "md_news_author": {
     "version": "8.0.0",
@@ -34071,13 +34079,13 @@
     "hash": "sha256-AHvG+JXuzVt0bvEd+JCjdxk6D/kru1Jw8pGsIBcGvUc="
   },
   "md_newsfrontend": {
-    "version": "4.0.2",
+    "version": "5.0.0",
     "t3_versions": [
-      11,
-      12
+      12,
+      13
     ],
     "description": "This extension enables frontend users to created news records in the frontend.",
-    "hash": "sha256-Tfl2gkeA4uNyugbp1dSaM8rUnUFtDoafh+LvDV3/oEk="
+    "hash": "sha256-qBRZSNwgTfX4PFBOpZZRRSS834YpOPn3AqGC3VbYajs="
   },
   "md_notifications": {
     "version": "1.0.1",
@@ -45699,13 +45707,13 @@
     "hash": "sha256-Dhs7F/4iW1zksQ68cOUPqWGkDn8f8MEMbW6KmeaTFAc="
   },
   "psb_foundation": {
-    "version": "2.3.6",
+    "version": "2.3.7",
     "t3_versions": [
       12,
       13
     ],
     "description": "Configuration framework for TYPO3 extension development",
-    "hash": "sha256-R02NSke7/IuQn4DK8OCqOmZPEeKU98b5eJ9rsrAcFvA="
+    "hash": "sha256-tZ14HsV2caVi/kFYZkzlhz0TUrG3yNyVBGnIaiHypIQ="
   },
   "psb_user_deployment": {
     "version": "1.1.1",
@@ -47532,12 +47540,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "reserve": {
-    "version": "4.0.0",
+    "version": "4.1.0",
     "t3_versions": [
       13
     ],
     "description": "This extension allows you to reserve tickets for one or more persons using a period table and a form. Each reservation has it’s own QR Code that can be scanned at the event.",
-    "hash": "sha256-2fqVuQLQKzOvN/SsmcuGFGRTjhlbCoPs9AH3CGpJsRU="
+    "hash": "sha256-LXAw3TOBOKjpfMA2UKdKM4wenjx6ZAiMVlefPAa04iY="
   },
   "reset_scheduler": {
     "version": "1.0.1",
@@ -61809,12 +61817,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "tt_products": {
-    "version": "2.16.3",
+    "version": "2.16.4",
     "t3_versions": [
       12
     ],
     "description": "Advanced versions at ttproducts.de. Documented in the E-Book \"Der TYPO3-Webshop\" - Shop with listing in multiple languages, with order tracking, product variants, support for transactor extension, bill, creditpoint and voucher system.",
-    "hash": "sha256-pF/KB8rDV7b5YS3sGVpGThblEqaJNZruuq+WUyfi7XA="
+    "hash": "sha256-yPqJwMrgytECYeIXCpazeTtNyW4ZkhSID0Eua0/YW+c="
   },
   "tt_products_foundby": {
     "version": "0.1.4",
@@ -62636,14 +62644,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "typo3_dump_server": {
-    "version": "0.1.0",
+    "version": "0.2.0",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "This extension brings the Symfony Var Dump Server to TYPO3.",
-    "hash": "sha256-UF8RTSt5kDRuaYw+41Zye/6RglN7RnoEPIUq1T2CJeE="
+    "hash": "sha256-On5kqIX9RKtoPQiHio7xt4cstnmV4MOycrv5zX9jZBs="
   },
   "typo3_environment_indicator": {
     "version": "2.0.0",
@@ -64157,13 +64165,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "wacon_cookie_management": {
-    "version": "6.0.3",
+    "version": "6.1.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "WCM is a typo3 extension that enables website visitors to control and manage the usage of cookies on the website (commonly known as \"cookie consent box\"). Thus it helps website owner to be in line with the rules of the General Data Protection Regulation (GDPR) which took effect on 25 May 2018.",
-    "hash": "sha256-VlZD0AfovmqKCh+1QoJv5L508ThVZXKr142AN1J1wIM="
+    "hash": "sha256-I5w43+yKLQJj+Hxy4Z00uSagpbGXkJ/6ynSN5sLRpWc="
   },
   "wacon_csv2html": {
     "version": "2.0.0",
