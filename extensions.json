@@ -3716,13 +3716,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.342.28",
+    "version": "3.342.29",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-VsBzSjT0RbYguBbNpXLSEoBsjsixx1sUvBbZ3wkjTH8="
+    "hash": "sha256-FGxroUp7cse7ZrIQyZnyPcTcuuvMBJccNDMT25kYGLw="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -8178,14 +8178,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cewrap": {
-    "version": "5.0.3",
+    "version": "6.0.0",
     "t3_versions": [
-      10,
-      11,
-      12
+      13
     ],
     "description": "Allows to wrap content elements with individual IDs and/or classes and select multiple predefined classes, e.g. to hide content elements dependent to screen width.",
-    "hash": "sha256-O1y50z68icmR1ifV880C+kdKo7VGNiy2Iz+2CYflIL8="
+    "hash": "sha256-zX0M4WazaGGfhfg2/rX2iwJvwoLDdNvCB1TIeD4WFUo="
   },
   "cewrap_space": {
     "version": "2.0.0",
@@ -31056,12 +31054,12 @@
     "hash": "sha256-vRjesDendVmapW0/HLrlgEqKEw3qltr0Ai2kHMkxyh4="
   },
   "laposta": {
-    "version": "11.5.1",
+    "version": "12.4.1",
     "t3_versions": [
-      11
+      12
     ],
     "description": "Subscribe to and unsubscribe from Laposta newsletters",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-a6G7jTJNxfgW5vqEiof4DQmt6rKGTcOP0n5UfduDEcY="
   },
   "larsp_fussballde_js": {
     "version": "2.0.4",
