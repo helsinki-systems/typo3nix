@@ -3716,13 +3716,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.342.29",
+    "version": "3.342.30",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-FGxroUp7cse7ZrIQyZnyPcTcuuvMBJccNDMT25kYGLw="
+    "hash": "sha256-4COoNG8ebO1YloEop78boA/DHZRo1y5H+1bCq+knjcU="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -3853,12 +3853,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "backgroundimage": {
-    "version": "5.0.0",
+    "version": "5.1.0",
     "t3_versions": [
-      12
+      13
     ],
     "description": "Enables uploading of an image in page properties, which then is shown on page as background image for a predefined element.",
-    "hash": "sha256-VAZ1+8EOj3I20pfFhg6Oe7w196SRb2Yv2EHIELjupt8="
+    "hash": "sha256-RhZe3lFLSnXPbgmv99hT8lZa880d5ZisOwZxcIWEMT4="
   },
   "backgroundimage4ce": {
     "version": "7.0.1",
