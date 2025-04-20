@@ -32233,13 +32233,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "logs": {
-    "version": "5.2.0",
+    "version": "5.2.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "Log Reader with a backend module and API to read, filter and delete logs from the TYPO3 Logging API",
-    "hash": "sha256-qAGn/xiq2qsrC/BDHg+XFr24+l9KsK2uUNAVzMBc16g="
+    "hash": "sha256-PdWfgZFKKjfgshXhauYZDTF1tB6uSr7dvj7Ht6kR4vQ="
   },
   "loki": {
     "version": "1.1.1",
