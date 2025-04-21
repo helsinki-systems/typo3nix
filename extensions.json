@@ -3081,6 +3081,15 @@
     "description": "Good Food is a modern and responsive TYPO3 template designed for restaurants, cafés, food blogs, and catering businesses. It features a clean and elegant design, easy customization, and SEO-friendly structure to showcase menus, recipes, and services beautifully.",
     "hash": "sha256-E5Tlr42bbkp55pKP0GAH1jShGSVhzgWzJNz4HAkevdQ="
   },
+  "at_kider": {
+    "version": "1.0.0",
+    "t3_versions": [
+      11,
+      12
+    ],
+    "description": "Kider theme is a colorful and engaging TYPO3 template designed for kider, preschools, and early childhood education centers.",
+    "hash": "sha256-nbFyjFoF17U6z6uGiXNU+godLBcb6858BtCTLVabn/M="
+  },
   "at_slider": {
     "version": "10.0.1",
     "t3_versions": [
@@ -3980,13 +3989,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "base_excel": {
-    "version": "4.1.0",
+    "version": "4.2.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "This provides the PhpSpreadsheet library, formerly phpExcel from phpOffice.",
-    "hash": "sha256-MgXXed2aqz/tbIddkuaI76heqTF0gcZLXr1K0DHRJTQ="
+    "hash": "sha256-xwi+W8C4KzONVdJpydAfbmejttPM+UM/AC4ajQac+ws="
   },
   "base_font": {
     "version": "1.0.0",
