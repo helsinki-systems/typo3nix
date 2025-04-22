@@ -3725,13 +3725,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.342.30",
+    "version": "3.342.31",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-4COoNG8ebO1YloEop78boA/DHZRo1y5H+1bCq+knjcU="
+    "hash": "sha256-FD5Ia9PdGEYffiuME8h7dtsibTvz4r2ZXuCVA9dZD8w="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -21351,12 +21351,12 @@
     "hash": "sha256-hBjmSVjRbCQ3T5ftDpNSUpOhssizlr+Yuwfj2UQzOFI="
   },
   "form_email_contentblocks": {
-    "version": "3.0.1",
+    "version": "3.0.2",
     "t3_versions": [
       13
     ],
     "description": "Allows to add a content element at the beginning (introductory text) and/or at the end (email signature) of the email templates. Also, the background color and logo of the fluid email template can be edited.",
-    "hash": "sha256-UpKRNctLe+3qWBZ07ZQavX1RyfkZZdDhVtxgCw8YFG0="
+    "hash": "sha256-gZAVlPg19Fe0XiyUHY4m97cl3Y3O+bQeJu2CZXNAU9A="
   },
   "form_extended": {
     "version": "13.0.0",
@@ -41928,12 +41928,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "openweatherapi": {
-    "version": "4.0.0",
+    "version": "5.0.0",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "Displays weather forecast for a selected location in frontend based on wetter.com openweather API.",
-    "hash": "sha256-6jeAydRlwudrqZ3PaJXqmiHRnDUy8PRVaIpT1vmdrJk="
+    "hash": "sha256-jTXsfNBHZsCngf0P0cNtOfrFjO7ovZGoTESFf5Lj/7I="
   },
   "openweathermap_php_api_service": {
     "version": "1.0.0",
@@ -47259,6 +47260,15 @@
     ],
     "description": "Allow 404 handling for unconfigured domains/sites",
     "hash": "sha256-iKBBqgXEiWIRA4lVTcOrVooZ7wMw9CouFS4gIqYfbAk="
+  },
+  "redirects_export": {
+    "version": "1.0.0",
+    "t3_versions": [
+      12,
+      13
+    ],
+    "description": "Allows you to export redirects from the redirects module to a CSV file.",
+    "hash": "sha256-ZU0KP9YHXdZxsyBp58txDc8WaBOvG8jsSM234+Xu3Eg="
   },
   "redirectsmgr": {
     "version": "1.0.0",
