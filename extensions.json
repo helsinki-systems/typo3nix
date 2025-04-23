@@ -3725,13 +3725,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.342.31",
+    "version": "3.342.32",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-FD5Ia9PdGEYffiuME8h7dtsibTvz4r2ZXuCVA9dZD8w="
+    "hash": "sha256-sWOrHFwTH376jK5GHjxDU/fyvJ4doa41mqymV0mYrUQ="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -5172,12 +5172,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "bm_image_gallery": {
-    "version": "6.2.2",
+    "version": "7.0.0",
     "t3_versions": [
-      12
+      13
     ],
     "description": "Simple gallery using file collections.",
-    "hash": "sha256-GlZPe+t9hj7IxaCFJRM+iNFr6Lgu3NJnsO5850QtKg4="
+    "hash": "sha256-A0V2TBekM6SImGPoig2OtukeNhyV7BWFHyjhqowf7Ws="
   },
   "bm_lofuc": {
     "version": "0.1.1",
@@ -10011,14 +10011,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "container": {
-    "version": "3.1.6",
+    "version": "3.1.8",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "Create Custom Container Content Elements for TYPO3",
-    "hash": "sha256-Hv7emCNOz3g8FyMYaZxVLXswuGbbadjJtSBE+xNhwSk="
+    "hash": "sha256-cUmjNAU0NmQ67OU502RBvHyP9qEH9Ivk0ARQkawS9RU="
   },
   "container_elements": {
     "version": "6.0.4",
@@ -10554,12 +10554,12 @@
     "hash": "sha256-RbhGP0thpWqFqC/65d/8Ty8ALDK1PXbNl+L6pSPBbOM="
   },
   "cookieman": {
-    "version": "2.17.0",
+    "version": "3.0.1",
     "t3_versions": [
-      12
+      13
     ],
     "description": "Provides a user consent popup. It asks for approval to include tracking objects (cookies, images or any HTML) and includes the objects when consented. It also removes cookies after the consent has been revoked.",
-    "hash": "sha256-rKoLsUpvAdOZya1A8irmfJy8nkorpsUVHioH552/k5M="
+    "hash": "sha256-EULvcrz9txKo0ioVrdQIbF9tgydA+gG/wJl5YU1rwA0="
   },
   "cookiepro": {
     "version": "1.0.3",
@@ -14418,13 +14418,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "div2007": {
-    "version": "2.3.3",
+    "version": "2.3.4",
     "t3_versions": [
       12,
       13
     ],
     "description": "This library offers classes and functions to other TYPO3 extensions. Replacement for tslib_pibase methods.",
-    "hash": "sha256-gw6FK/EEfUt0RCFulvIfFvQL1pIOkIcaBNwNMwa+uro="
+    "hash": "sha256-tDob6+nbraX+unmeHYzg5342nxb4g1JehyDCQrJ19aw="
   },
   "diva": {
     "version": "8.7.1",
@@ -21698,13 +21698,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "forms2db": {
-    "version": "1.1.0",
+    "version": "1.1.4",
     "t3_versions": [
       12,
       13
     ],
     "description": "With forms2db, form data from the Forms extension is stored in the database. Additionally, the data can be exported in CSV format using a dedicated module.",
-    "hash": "sha256-t9/Q9iy/vY7yaVHMuQDGauGj3K5/KbOMUSEoQUsS6Zg="
+    "hash": "sha256-kLwW6Nt9IqB2kpYLLuNEmguNpKPcK+X/8v82uMXm7Ac="
   },
   "formsave": {
     "version": "1.6.3",
@@ -45724,13 +45724,13 @@
     "hash": "sha256-tZ14HsV2caVi/kFYZkzlhz0TUrG3yNyVBGnIaiHypIQ="
   },
   "psb_user_deployment": {
-    "version": "1.1.1",
+    "version": "1.1.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "Deployment of users, user groups and their privileges",
-    "hash": "sha256-aapU5MT6y/rszvKkbqebCJieVVtwTMAqeKTovIXv95U="
+    "hash": "sha256-CaxygeXSjkwiZJ1J2hPXTLyTiVQEikWkHD2pxrSgqis="
   },
   "psb_view_helpers": {
     "version": "2.1.0",
@@ -51343,7 +51343,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sg_cookie_optin": {
-    "version": "6.0.0",
+    "version": "6.0.7",
     "t3_versions": [
       9,
       10,
@@ -51352,7 +51352,7 @@
       13
     ],
     "description": "",
-    "hash": "sha256-J02+cN5dr7yldMwdpngmSzBJ5Ls2OqkZAGOs0BNZrCg="
+    "hash": "sha256-XET1an2dz9HVn4807IRSK3Zv+PMwO92oxposFYOVv84="
   },
   "sg_cropscale": {
     "version": "0.5.0",
@@ -51757,13 +51757,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "shop": {
-    "version": "5.2.0",
+    "version": "5.3.0",
     "t3_versions": [
       12,
       13
     ],
-    "description": "Shop for TYPO3 incl. PayPal, PayPal-Plus, Klarna, Stripe, Bookmarks, UPS-API, Invoice generation, backend module, compare feature, graduated prices and many more - note there is a Pro version as well! See https://www.coding.ms/typo3-extensions/typo3-shop",
-    "hash": "sha256-2h4t/ZnCOrONPPbRhlSCb9pnmBSrDAmq4RpytECVBq8="
+    "description": "Shop for TYPO3 incl. PayPal, PayPal-Checkout (formerly PayPal-Plus), Klarna, Stripe, Bookmarks, UPS-API, Invoice generation, backend module, compare feature, graduated prices and many more - note there is a Pro version as well! See https://www.coding.ms/typo3-extensions/typo3-shop",
+    "hash": "sha256-PC8SSsrHPqZfCFj1lDkaO3AS78fsRFc2WvxhaDm8vNo="
   },
   "shop3ox": {
     "version": "0.0.3",
