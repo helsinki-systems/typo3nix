@@ -3725,13 +3725,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.342.32",
+    "version": "3.342.34",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-sWOrHFwTH376jK5GHjxDU/fyvJ4doa41mqymV0mYrUQ="
+    "hash": "sha256-BSuAqr3dy4dmUqoZn3EZSryKPFH1zvxJZ2tBHmU3FLQ="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -12826,6 +12826,15 @@
     "description": "Sitestructur is exported into directorys, with content as xml and resourcefiles in each folders. Sponsored by www.aoemedia.de and www.poetz-media.de",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "dashbash": {
+    "version": "1.0.1",
+    "t3_versions": [
+      11,
+      12
+    ],
+    "description": "Custom dashboard widgets for TYPO3",
+    "hash": "sha256-AzTz1t8sOyfOm+VeF2v2kyDHAWBfjAHrI1NF14ZZukY="
+  },
   "databaseconnectionscanner": {
     "version": "0.1.3",
     "t3_versions": [
@@ -18635,13 +18644,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "faicon": {
-    "version": "2.0.0",
+    "version": "3.0.0",
     "t3_versions": [
-      11,
-      12
+      12,
+      13
     ],
     "description": "Provides Font Awesome Icons for the TYPO3 page settings in the backend, and Icons for the Bootstrap Package in the frontend.",
-    "hash": "sha256-GW3Iz6lRFQMR2XVFovh3gHTEG+tS5xeB526YARFGTRc="
+    "hash": "sha256-s+qR5GxBCMJdjOe+MtV85Gn8IEBxoUtFnhdxunh+whs="
   },
   "fake_fal": {
     "version": "2.4.2",
@@ -21698,13 +21707,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "forms2db": {
-    "version": "1.1.4",
+    "version": "1.1.5",
     "t3_versions": [
       12,
       13
     ],
     "description": "With forms2db, form data from the Forms extension is stored in the database. Additionally, the data can be exported in CSV format using a dedicated module.",
-    "hash": "sha256-kLwW6Nt9IqB2kpYLLuNEmguNpKPcK+X/8v82uMXm7Ac="
+    "hash": "sha256-HfNIWqZQb7toOYovDo8BG2B+/nIU/AUI2AGNO6k08ps="
   },
   "formsave": {
     "version": "1.6.3",
@@ -31731,13 +31740,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "link2language": {
-    "version": "4.0.0",
+    "version": "4.0.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "Allows to select links to pages or content elements for a specific language",
-    "hash": "sha256-pV+imVR10+3wTryHCykrZmnp4TwCRsS6W+N0MLsKqL0="
+    "hash": "sha256-s7hdE1+KOYcWV1sE7Tcwi8AHr3LJM4LrFUC935ArWHo="
   },
   "link_by_pageid": {
     "version": "1.0.2",
@@ -34344,13 +34353,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "media_processing": {
-    "version": "0.9.0",
+    "version": "0.10.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Integrates various image processing libraries and SaaS cloud services into TYPO3 by leveraging their APIs to process images.",
-    "hash": "sha256-jTB41MbfLXmzypP5Xnt4d0DFm4TdFiyHjYmstpAicWA="
+    "hash": "sha256-LsPJJogM0NRumrwl0/lNGps6LcI/1/c+IE6Mw03p2pI="
   },
   "media_upload": {
     "version": "2.0.0",
@@ -37053,14 +37062,14 @@
     "hash": "sha256-gW358m+R8mod7IoHifrW9yYgI/ozKYDTFVZhwSyiS1g="
   },
   "mst_yaml2tca": {
-    "version": "1.0.12",
+    "version": "1.0.14",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "Load contentelements from yaml in register in new element wizard",
-    "hash": "sha256-IUHKbGdspMWemGpGnBEpxsW+wCIHgDO0/rr9iENAudY="
+    "hash": "sha256-vvjcFXRWiI7oN4efa1fv665Do0WbH5ogOVmaQoyQcZc="
   },
   "msw_shoutbox": {
     "version": "1.0.0",
@@ -45724,13 +45733,13 @@
     "hash": "sha256-tZ14HsV2caVi/kFYZkzlhz0TUrG3yNyVBGnIaiHypIQ="
   },
   "psb_user_deployment": {
-    "version": "1.1.2",
+    "version": "1.1.3",
     "t3_versions": [
       12,
       13
     ],
     "description": "Deployment of users, user groups and their privileges",
-    "hash": "sha256-CaxygeXSjkwiZJ1J2hPXTLyTiVQEikWkHD2pxrSgqis="
+    "hash": "sha256-ob61C6oxlcm46VtJYjzKnKfvUzCHNZrTL/YsDsO6JJY="
   },
   "psb_view_helpers": {
     "version": "2.1.0",
@@ -50383,14 +50392,14 @@
     "hash": "sha256-bCMkdMOCy2wNJ3Gz6SWr7i1qZ9ZfxkhhegmjmYFHEdo="
   },
   "schema": {
-    "version": "3.12.0",
+    "version": "3.12.1",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "API and view helpers for schema.org markup",
-    "hash": "sha256-GgLS8JA6z2KmKfpH4wA3MnrjIaM4ZfJDcBgJXi0ThoA="
+    "hash": "sha256-ltcrugeEz6w+ZdDITicsqWLWJy3LZCsj1kAJ2ypygLg="
   },
   "schema_auto": {
     "version": "2.3.0",
@@ -51870,12 +51879,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "showcase": {
-    "version": "2.0.2",
+    "version": "3.0.0",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "Showcase is a versatile tool designed for creating dynamic portfolios, engaging galleries, and impressive presentations.",
-    "hash": "sha256-4dpIjya2p5bzPrjg/qGT2amNosfCjc+Os5LFWCRGuPk="
+    "hash": "sha256-tHYXfqkYyhzaeSleN7V7CpWsOe2qXsusWRadxcOUEu4="
   },
   "showpageeditors": {
     "version": "2.0.1",
@@ -55648,13 +55658,13 @@
     "hash": "sha256-2R8oCWKd5G3bZTY9MPatnegnTWtFW1aPq6WS5ZJLr1s="
   },
   "staticfilecache": {
-    "version": "15.1.2",
+    "version": "15.2.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "Transparent static file cache solution using mod_rewrite and mod_expires. Increase performance for static pages by a factor of 230!!",
-    "hash": "sha256-TDJVF4305Znyw+FqEehzLWccrlk2sEiiFzM7HJ+0nj0="
+    "hash": "sha256-DYLAh29R4SrigS/2/qOjAn/pTuEX3WYO5QSvXsQWwaI="
   },
   "staticpathrouteresolver": {
     "version": "1.3.0",
@@ -59958,10 +59968,12 @@
     "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
   },
   "tinyurls": {
-    "version": "13.4.0",
-    "t3_versions": [],
+    "version": "13.4.1",
+    "t3_versions": [
+      13
+    ],
     "description": "This extensions allows you to cut down long URLs. It basically works like bitly or TinyURL.",
-    "hash": "sha256-DBDaAv1CNdNB13twUVur2EM5LasZT9Efokue2a9Gd4Y="
+    "hash": "sha256-6foRVn932uvqvXxP4Gjo7Y4DkwmRaSBtmq9tp38Yh7o="
   },
   "tipafriend": {
     "version": "1.2.4",
@@ -65772,12 +65784,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "wsm_form_spamshield": {
-    "version": "2.0.0",
+    "version": "2.1.0",
     "t3_versions": [
       13
     ],
     "description": "Adds a bot detection via JavaScript and a Validator to EXT:form, GDPR compliant without a captcha.",
-    "hash": "sha256-z1Mls16o7D5+lLcEMx0zMOeLa8vhtpBwas9J7wEqJMU="
+    "hash": "sha256-Vzhts68X16y2++QCxFK8OrTathMzMExTifnupI3ez5A="
   },
   "wspowermail": {
     "version": "1.1.1",
