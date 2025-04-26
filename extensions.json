@@ -3725,13 +3725,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.342.34",
+    "version": "3.342.35",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-BSuAqr3dy4dmUqoZn3EZSryKPFH1zvxJZ2tBHmU3FLQ="
+    "hash": "sha256-7klFsXaOJJtCipRdZIRRBAtoZcw5qeWUBbhkEaSLboE="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -10578,13 +10578,12 @@
     "hash": "sha256-tc63t1KRjhmPkoblRGcYvsE/ryRBBuYeH5RlDy+fLqQ="
   },
   "cookies": {
-    "version": "9.0.5",
+    "version": "10.0.0",
     "t3_versions": [
-      11,
-      12
+      13
     ],
     "description": "Show cookie consent, optional with possibility to deactivate some or all of them.",
-    "hash": "sha256-sYQtTRyR2UgeLMQK31qjpSrSRs1NCZPvVudQBfIpk2I="
+    "hash": "sha256-TGoOVlCJ8oBF3dJwMLbs2492R+HhlgSgUFcJ+FUxZQs="
   },
   "cookieshy": {
     "version": "2.0.0",
@@ -66491,13 +66490,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "xima_typo3_content_planner": {
-    "version": "1.3.2",
+    "version": "1.4.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "This extension provides a page status functionality to support the planning of content work.",
-    "hash": "sha256-fwJ/Omh89Mp0QwlSKjL2QEjSoaonj75Js6SeOi/dHWw="
+    "hash": "sha256-Y2Ws2E/6Ehuong0TboFIm3LFsnKPO5YONx0G97JDRfU="
   },
   "xima_typo3_frontend_edit": {
     "version": "1.5.1",
