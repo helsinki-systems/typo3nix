@@ -1627,12 +1627,12 @@
     "hash": "sha256-VjFx9kagkYZ+UP502oKGTs64zlOsNZ0JCvSkQosql58="
   },
   "ai_suite": {
-    "version": "13.4.1",
+    "version": "13.5.0",
     "t3_versions": [
       13
     ],
     "description": "The AI Suite optimizes the workflow of project managers, agencies and freelancers by using the latest AI technologies. It seamlessly integrates a wide variety of AI interfaces and the AI Suite open source models into the TYPO3 backend. Enables, among other things, more efficient creation and management of image and page metadata (individually and as batch processing), content translations (including \"Easy Language\"), content creation and modification, image generation and page structure generation.",
-    "hash": "sha256-W6bAnFC1R2pzYGvr3y+gyHU9kjEk9aFSCzHlFZajwWI="
+    "hash": "sha256-zaR7re2VyNijtGtPTqE17ohGwhjgRVP16wwBfoynI2g="
   },
   "ai_tools": {
     "version": "1.1.0",
@@ -47270,13 +47270,13 @@
     "hash": "sha256-iKBBqgXEiWIRA4lVTcOrVooZ7wMw9CouFS4gIqYfbAk="
   },
   "redirects_export": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "Allows you to export redirects from the redirects module to a CSV file.",
-    "hash": "sha256-ZU0KP9YHXdZxsyBp58txDc8WaBOvG8jsSM234+Xu3Eg="
+    "hash": "sha256-aKtGm4tb+X12pdp5ZVI/d0j+5dcpHGQQAb+xCBIuCck="
   },
   "redirectsmgr": {
     "version": "1.0.0",
