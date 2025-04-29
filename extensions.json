@@ -3725,13 +3725,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.342.35",
+    "version": "3.342.36",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-7klFsXaOJJtCipRdZIRRBAtoZcw5qeWUBbhkEaSLboE="
+    "hash": "sha256-zVEeafU1IcUBUbhmkzGgnP53+Ju2TFSSnNeVkjXabbs="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -63769,13 +63769,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "view_statistics": {
-    "version": "6.0.0",
+    "version": "6.1.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Logs frontend actions and display them in a backend module. Track page views, News, Downloads and custom objects. Optionally tracks frontend user logins and login durations. Alternative extension for Google-Analytics, Matomo, Piwik - this extension does not use any cookies! By default it does not track any personal data like IP address or even the user agent (though this can be activated optionally).",
-    "hash": "sha256-A72I58cc2Qj9dCeFq5pEfwhsJVJMANA1XlobT4sl1tU="
+    "hash": "sha256-IR/qOk7ZgkpPTR2boT3HhLCuaTK1nLqYHwBARP9KHhM="
   },
   "vimeovideo": {
     "version": "2.0.0",
@@ -64401,12 +64401,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "we_cookie_consent": {
-    "version": "5.0.2",
+    "version": "5.0.4",
     "t3_versions": [
+      12,
       13
     ],
     "description": "Cookie Consent Panel (Optin) with DSGVO/GDPR-compliant use of cookies. Preconfigured modules for Google Analytics, Facebook and other frequently used services. Any extensibility with tracking scripts that generate cookies on your website Support for Google Tag Manager incl. Google Consent Mode and Google Consent Mode v2. Easy export for Google Tag Manager. Third-party cookies and scripts are only loaded if active consent has been given. Website visitors can edit their privacy settings at any time. Automatic update of cookie information when new cookies/scripts with secure consent procedure are inserted. Cookies can be automatically added to the privacy policy via a plugin Multilingual and full support for desktop, tablet and mobile. Four default modes for displaying the content solution, including the display of an always-on icon to access the privacy settings. Based on Klaro!",
-    "hash": "sha256-eJUBCHF/vFKMM+hFBhZPeJUzNLdxxEyExKKRM/6pQ2M="
+    "hash": "sha256-6Wer+KfPKo7B2H3RTAmd6wo7+cmuguh/MJNr8JyxA2k="
   },
   "we_dam2fal": {
     "version": "1.0.12",
