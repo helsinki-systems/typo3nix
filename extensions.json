@@ -3725,13 +3725,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.342.36",
+    "version": "3.343.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-zVEeafU1IcUBUbhmkzGgnP53+Ju2TFSSnNeVkjXabbs="
+    "hash": "sha256-rLSZ/2gPXiS66mEpH/Ewx4i3BOaaIJcqMWPRAJPX4L0="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -39224,12 +39224,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "newslayouts": {
-    "version": "13.0.3",
+    "version": "13.0.4",
     "t3_versions": [
       13
     ],
     "description": "Extends EXT:news plugins and records with individual layout settings. Supports bootstrap css framework.",
-    "hash": "sha256-soEbd+qsBRdJ8902lA4v1nH92C0TXQpoeYLh/nRteqE="
+    "hash": "sha256-cj9vUE7gE/7H7KEFngnwtdkBRXoHx+O3TTNxDRTF7BE="
   },
   "newsletter": {
     "version": "5.0.4",
@@ -44899,13 +44899,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "poll": {
-    "version": "5.0.1",
+    "version": "5.0.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "Create polls/surveys/Umfragen in TYPO3. Multiple question types and answer layouts. There is also a PRO version available which adds custom user answers and more. (Umfrage, Poll, Opinion, Vote, SimplePoll) See https://www.coding.ms/typo3-extensions/typo3-poll",
-    "hash": "sha256-Wo0am9kf2kkd0U9nuBP5MEhkxw73zDo/QakVxQp+Tns="
+    "hash": "sha256-Tjkr5mmAGUqIEvvV8QUHrkXtfnGeWix9pTmSbmWEQcs="
   },
   "polyglot": {
     "version": "1.0.0",
@@ -57096,12 +57096,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "t3foundation": {
-    "version": "10.0.2",
+    "version": "12.4.0",
     "t3_versions": [
-      10
+      12
     ],
-    "description": "Integration of Zurb Foundation CSS Framework for TYPO3 websites. This extension is optimised for Start TYPO3 Responsive.",
-    "hash": "sha256-7khhySLjoAcNIWNcZlC8ATP91Zm3e5TCS1AW3WDm3Eo="
+    "description": "Integration of Zurb Foundation CSS Framework for TYPO3 websites. SCSS compiling. This extension is optimised for Start TYPO3 Responsive.",
+    "hash": "sha256-W95wykuWa4UBRi66k3IPP+oIwcX7AiP8RBSTx9joTrA="
   },
   "t3getid3": {
     "version": "1.1.1",
@@ -66509,14 +66509,14 @@
     "hash": "sha256-Y2Ws2E/6Ehuong0TboFIm3LFsnKPO5YONx0G97JDRfU="
   },
   "xima_typo3_frontend_edit": {
-    "version": "1.5.1",
+    "version": "1.5.2",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "This extension provides an edit button for editors within frontend content elements.",
-    "hash": "sha256-FklrFkn+JNvDPoVylooTxItXngaEhrgrlbZY1rqH7YM="
+    "hash": "sha256-ppkKFYFhzLE1HX8p7uVyKRtCtK9BXr43VULn88DNDWw="
   },
   "xima_typo3_internal_news": {
     "version": "1.0.0",
