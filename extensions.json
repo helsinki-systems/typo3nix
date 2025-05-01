@@ -3725,13 +3725,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.343.0",
+    "version": "3.343.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-rLSZ/2gPXiS66mEpH/Ewx4i3BOaaIJcqMWPRAJPX4L0="
+    "hash": "sha256-z9M8QK82Oas4xpg5DwCxxFGt9ZoEcbDwSBcLMx/otSo="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -20871,14 +20871,15 @@
     "hash": "sha256-nVc4Dgbq6osYm2u4v/JvZGREl9Ir2jROiO3yyEiPDec="
   },
   "flux": {
-    "version": "10.1.1",
+    "version": "11.0.0",
     "t3_versions": [
       10,
       11,
-      12
+      12,
+      13
     ],
     "description": "Drop-in page and content templates with nested content feature. Provides multiple condensed integration APIs to use advanced TYPO3 features with little effort.",
-    "hash": "sha256-IZP1HgH+ZxaR8voPb4sT0mqW3LjkoIVvR+uNNAxHCro="
+    "hash": "sha256-BTIGrK+ttLYPeVEtsuiRCsY1deQeQRJzVo+S1vbqkFM="
   },
   "flux_elements": {
     "version": "1.4.1",
@@ -63624,7 +63625,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "vhs": {
-    "version": "7.1.1",
+    "version": "7.1.2",
     "t3_versions": [
       10,
       11,
@@ -63632,7 +63633,7 @@
       13
     ],
     "description": "A collection of ViewHelpers for performing rendering tasks that are not natively provided by the Fluid templating engine.",
-    "hash": "sha256-GFo3Ol3+lcoOvDWlTw1ys4XqiyPeAMyArZMkS6uGe24="
+    "hash": "sha256-aCtvE65nh+ihtyCjtsmR6E0GzmaKXv8n2tdbzFebmEo="
   },
   "vhs_scss": {
     "version": "2.0.3",
