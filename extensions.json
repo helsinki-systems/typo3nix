@@ -3725,13 +3725,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.343.1",
+    "version": "3.343.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-z9M8QK82Oas4xpg5DwCxxFGt9ZoEcbDwSBcLMx/otSo="
+    "hash": "sha256-nb/QlErVgxYfY4h0pwPZ5NoQ1IR4YXZSijSBn2EpWbY="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -18394,13 +18394,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "external_import": {
-    "version": "8.1.0",
+    "version": "8.1.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "Tool for importing data from external sources into the TYPO3 CMS database, using an extended TCA syntax. Provides a BE module, a Scheduler task, a command-line tool and an API.",
-    "hash": "sha256-O+wg7Qo8/ozX8yKzxiJSpatEQRX9NpTNaGTz0WeVIHY="
+    "hash": "sha256-EPM4mcFc4L1hiR1i/4YhPR6dhkpVk3LJPu+n6MO4FUU="
   },
   "external_import_tt_products": {
     "version": "0.0.1",
@@ -19693,13 +19693,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "feuserregistration": {
-    "version": "2.1.2",
+    "version": "2.2.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "This extension enables the easy registration of a frontend user using the double opt-in process (e.g., for newsletter sign-ups). Optionally, a notification can be sent to a centrally configured email address.",
-    "hash": "sha256-+FUmkF3O3DVsWYRyiW2ZgQvEzjZ9VIFxJDeGe/NznIo="
+    "hash": "sha256-QSpERP3exBM/33yM8KQlm/okYTBF/HUy2cK+YVocTeI="
   },
   "feusers2xml": {
     "version": "0.0.1",
@@ -30050,13 +30050,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ke_search": {
-    "version": "6.4.0",
+    "version": "6.4.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "Faceted fulltext search for TYPO3. Fast, flexible and easy to install and use. Indexes content directly from the databases. Features faceting / filtering, file indexing, images in result lists and respects access restrictions.",
-    "hash": "sha256-prUk+CP0VBHKQkWlOJmH/o1vm6NTk0W8Q4X33hJiwT8="
+    "hash": "sha256-8kvBDiRRIZS49DYvsSlypLLgbygn2iK34zXT7OKY8CQ="
   },
   "ke_search_dam_tags": {
     "version": "0.0.1",
