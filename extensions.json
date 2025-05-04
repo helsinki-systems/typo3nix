@@ -18106,12 +18106,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ext_kickstarter": {
-    "version": "0.3.3",
+    "version": "0.3.4",
     "t3_versions": [
       13
     ],
     "description": "Kickstart TYPO3 Extension",
-    "hash": "sha256-AbVqsImQa0nDcsGleBYvTO6pEqzIpUrdJ+kKJmXZjbc="
+    "hash": "sha256-WMefTWWpvpVtrRKVjqIajyEAUmY+BvM/xmevJKfDmjU="
   },
   "ext_ppferegister": {
     "version": "1.0.1",
@@ -27013,12 +27013,12 @@
     "hash": "sha256-SAghFSr4P5wmSfWXuyUCT6IJs5CLDXQPcMznaZx/uBw="
   },
   "infomaniak_vod": {
-    "version": "13.0.0",
+    "version": "13.0.2",
     "t3_versions": [
       13
     ],
-    "description": "An alternative video service like Youtube or Vimeo.",
-    "hash": "sha256-3VAcrXGUTTpY3Zi+l8JavlZ6CzBDV6ibjxoR7cuGurM="
+    "description": "An alternative video streaming service like Youtube or Vimeo by the Swiss hoster Infomaniak.",
+    "hash": "sha256-araPpI8ehBPnCO0Dca0COFIrqgK7UnDcmkFcoJlr8FA="
   },
   "ingmar_accessctrl": {
     "version": "1.0.1",
@@ -51897,13 +51897,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "showcase": {
-    "version": "3.0.1",
+    "version": "3.0.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "Showcase is a versatile tool designed for creating dynamic portfolios, engaging galleries, and impressive presentations.",
-    "hash": "sha256-juj9bjy7jG0CEKsWVUtfxxuAOQ32LS37Lcblp01qsnw="
+    "hash": "sha256-qY/nsJ06a9qKMCv0qif2t9O7FpJdVbTVkto5E7wONYU="
   },
   "showpageeditors": {
     "version": "2.0.1",
