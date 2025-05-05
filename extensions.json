@@ -10238,6 +10238,16 @@
     "description": "Shows a category icon in the content element.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "contentcleanup": {
+    "version": "1.0.0",
+    "t3_versions": [
+      11,
+      12,
+      13
+    ],
+    "description": "This extension provides a task that replaces all &nbsp; with whitespace in TYPO3 content elements",
+    "hash": "sha256-hFFgcI/BriS6PjuAlSa2p9F+ZnNGlRT3cYJ2Qt/5qgU="
+  },
   "contentfce": {
     "version": "2.0.1",
     "t3_versions": [
@@ -24540,13 +24550,13 @@
     "hash": "sha256-/jR61A4Ct78lkWaI1fgVll8PuUruNlnBE2E98U97j/s="
   },
   "hh_tt_address_places": {
-    "version": "4.1.0",
+    "version": "4.2.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Simply adds places / companies TCA for EXT:tt_address.",
-    "hash": "sha256-HgwsEjZvJ5+vnPnL64YG9YdHYI6lf4nVqEm1Kvur6q0="
+    "hash": "sha256-fzPAcKqarmvcOx6sHlCf6jokxnItRVgDUqE6G2+UPiw="
   },
   "hh_video_extender": {
     "version": "0.3.2",
@@ -34122,12 +34132,12 @@
     "hash": "sha256-6eITYT7YAbgEaXBr+RyBVZ6Ivk+zVWjRxijQL+j89FQ="
   },
   "md_saml": {
-    "version": "4.0.0",
+    "version": "4.0.1",
     "t3_versions": [
       13
     ],
     "description": "SSO frontend or backend login with SAML authentication.",
-    "hash": "sha256-WvN70zIKO6e9c6HRNqu6jM7Jdf0PMuviBNSG7VcQ+Wg="
+    "hash": "sha256-vIAB3KfhCMUEHlfaq/ty37Ekyb1Z5jRwvuhaeRomv/M="
   },
   "md_unreadnews": {
     "version": "5.0.2",
@@ -35854,13 +35864,13 @@
     "hash": "sha256-phRL0foWA1dZnNn7md29fWHqxnBhyYIrWqGysoS95EY="
   },
   "mksearch": {
-    "version": "12.0.5",
+    "version": "12.0.6",
     "t3_versions": [
       11,
       12
     ],
     "description": "Generic highly adjustable and extendable search engine framework, using Zend Lucene, Apache Solr or ElasticSearch. But support for other search engines can be provided easily.",
-    "hash": "sha256-dj65QMqRbzJ5xpyYy8iyZuMeWNApYFBougA4wIxo2Fg="
+    "hash": "sha256-5rv28DhXQP7k6dSUHliIFlPVBuEXAa/ioY6trbxz278="
   },
   "mktools": {
     "version": "12.0.2",
@@ -39234,12 +39244,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "newslayouts": {
-    "version": "13.0.4",
+    "version": "13.0.5",
     "t3_versions": [
       13
     ],
     "description": "Extends EXT:news plugins and records with individual layout settings. Supports bootstrap css framework.",
-    "hash": "sha256-cj9vUE7gE/7H7KEFngnwtdkBRXoHx+O3TTNxDRTF7BE="
+    "hash": "sha256-x0UNB2QweWoE+VxrFWwpYE6PjMp0fzi/VV9TaoMgAuM="
   },
   "newsletter": {
     "version": "5.0.4",
@@ -51784,13 +51794,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "shop": {
-    "version": "5.3.0",
+    "version": "5.3.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "Shop for TYPO3 incl. PayPal, PayPal-Checkout (formerly PayPal-Plus), Klarna, Stripe, Bookmarks, UPS-API, Invoice generation, backend module, compare feature, graduated prices and many more - note there is a Pro version as well! See https://www.coding.ms/typo3-extensions/typo3-shop",
-    "hash": "sha256-PC8SSsrHPqZfCFj1lDkaO3AS78fsRFc2WvxhaDm8vNo="
+    "hash": "sha256-gDm+MTCA7VTc4TwFg3eDSIbyX+mrJsVFwQIkoSD0p9Y="
   },
   "shop3ox": {
     "version": "0.0.3",
@@ -64467,12 +64477,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "weather2": {
-    "version": "6.0.0",
+    "version": "6.1.0",
     "t3_versions": [
       13
     ],
     "description": "Display weather forecasts and weather alerts using various Weather APIs. Default APIs: OpenWeatherMap and Deutscher Wetterdienst",
-    "hash": "sha256-U+rD49gFTalEEQyZqLfcaf1Ou6PPd31OuFMsCLQr8to="
+    "hash": "sha256-NSHLVd2uwMf3gdOOqUHsTGvvH9OhoCzEti40IVidXJk="
   },
   "weather_widget": {
     "version": "3.0.0",
@@ -65724,12 +65734,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ws_scss": {
-    "version": "13.1.1",
+    "version": "13.1.2",
     "t3_versions": [
       13
     ],
     "description": "Compiles scss files to CSS files.",
-    "hash": "sha256-1FQn1e49VvJ5lGa0Y6d29zMWk5JjKnBI6x37+A9av2c="
+    "hash": "sha256-w3fvoR/5VTBHP+HxqX4oYbD4Zg86xhpVIZ9WiPoEqRs="
   },
   "ws_sitemap": {
     "version": "0.4.8",
