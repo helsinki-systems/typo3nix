@@ -3725,13 +3725,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.343.3",
+    "version": "3.343.4",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-LcSsMPYab24KbFCxZnGdmYFiqr2VYpIHof4REiKzf44="
+    "hash": "sha256-Uiux5HW/JkuzTXQUkZMJI5CvKU0JJ7jJMcgijXh8h2s="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -8043,13 +8043,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ce_counter": {
-    "version": "2.0.0",
+    "version": "2.0.2",
     "t3_versions": [
       10,
-      11
+      11,
+      12
     ],
     "description": "Displays a visual Counter element on your website, driven by JavaScript",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-5fJj1UgZDbDPsS6Re037d63ISMzJbLXz46nDbDvxE1E="
   },
   "ce_gallery": {
     "version": "2.1.0",
@@ -11054,6 +11055,15 @@
     "t3_versions": [],
     "description": "Shows banners statistics in the Backend e.g. user ip, banner clicks, impressions and others. Extends Advanced Banner Management Tool. Adds Ip checking functionality. Public free support is provided only through TYPO3 mailing lists! Contact by e-mail for c",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "critical_css": {
+    "version": "1.0.1",
+    "t3_versions": [
+      12,
+      13
+    ],
+    "description": "Extracts and delivers above-the-fold CSS per page – fast, smart, and dynamic. Boost your page speed and reduce CLS with automated critical CSS styles.",
+    "hash": "sha256-+Sq2UHaZz36WjOFefoSxkXo0Wgi35hYYL+04PqQnsvo="
   },
   "crom_mbtypo3": {
     "version": "1.0.0",
@@ -18654,13 +18664,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "faicon": {
-    "version": "3.0.0",
+    "version": "3.0.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "Provides Font Awesome Icons for the TYPO3 page settings in the backend, and Icons for the Bootstrap Package in the frontend.",
-    "hash": "sha256-s+qR5GxBCMJdjOe+MtV85Gn8IEBxoUtFnhdxunh+whs="
+    "hash": "sha256-1/dCN6wGN3itL724Dhn+Rd/rQGE5lKr4e4ksuA3Tp0U="
   },
   "fake_fal": {
     "version": "2.4.2",
@@ -20882,7 +20892,7 @@
     "hash": "sha256-nVc4Dgbq6osYm2u4v/JvZGREl9Ir2jROiO3yyEiPDec="
   },
   "flux": {
-    "version": "11.0.0",
+    "version": "11.0.2",
     "t3_versions": [
       10,
       11,
@@ -20890,7 +20900,7 @@
       13
     ],
     "description": "Drop-in page and content templates with nested content feature. Provides multiple condensed integration APIs to use advanced TYPO3 features with little effort.",
-    "hash": "sha256-BTIGrK+ttLYPeVEtsuiRCsY1deQeQRJzVo+S1vbqkFM="
+    "hash": "sha256-4ZzOL35Ul/oPs9YsNsbUS6WQK5JxN6xY+FvN5hmzf9s="
   },
   "flux_elements": {
     "version": "1.4.1",
@@ -24524,12 +24534,12 @@
     "hash": "sha256-E0WhzZ/5vx/d19SXPvd9wgRbG2+1tk7Ejad3HfJFZNg="
   },
   "hh_simple_job_posts": {
-    "version": "5.0.1",
+    "version": "5.0.2",
     "t3_versions": [
       13
     ],
     "description": "Adds plugins for list / show job postings with meta-data and schema.org stuff. Uses tt_address for job-contacts and job-location.",
-    "hash": "sha256-eMyL3++2iHnUlkSJ0w1PedrIOOX4s0cLFpXGpI0sLeg="
+    "hash": "sha256-Ut8nWEkxe+JUpYY4k3iHyWAJl5Y9saGM7DW8g2DlDlw="
   },
   "hh_slider": {
     "version": "0.6.2",
@@ -34424,12 +34434,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mediaconsent": {
-    "version": "2.0.1",
+    "version": "3.0.0",
     "t3_versions": [
-      12
+      13
     ],
     "description": "Extension loads content only if the user agrees.",
-    "hash": "sha256-SldY4EnHpVGh+wf5NFUghGOEorG5d71PQVhSf2g03Io="
+    "hash": "sha256-KLobxkj+kaJzZqftqmR2iVr6w4wpdSrLdo5roqYzqWU="
   },
   "mediacookie_immomanager": {
     "version": "2.3.0",
@@ -35864,13 +35874,13 @@
     "hash": "sha256-phRL0foWA1dZnNn7md29fWHqxnBhyYIrWqGysoS95EY="
   },
   "mksearch": {
-    "version": "12.0.6",
+    "version": "12.0.8",
     "t3_versions": [
       11,
       12
     ],
     "description": "Generic highly adjustable and extendable search engine framework, using Zend Lucene, Apache Solr or ElasticSearch. But support for other search engines can be provided easily.",
-    "hash": "sha256-5rv28DhXQP7k6dSUHliIFlPVBuEXAa/ioY6trbxz278="
+    "hash": "sha256-fnV+TWKw2kM91Ei9l/e3cZaPLPkR2M/QRglXjIgiB5Q="
   },
   "mktools": {
     "version": "12.0.2",
@@ -51907,13 +51917,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "showcase": {
-    "version": "3.0.2",
+    "version": "3.0.3",
     "t3_versions": [
       12,
       13
     ],
     "description": "Showcase is a versatile tool designed for creating dynamic portfolios, engaging galleries, and impressive presentations.",
-    "hash": "sha256-qY/nsJ06a9qKMCv0qif2t9O7FpJdVbTVkto5E7wONYU="
+    "hash": "sha256-rUmljawiFx8icZDnIcwtWPTC6O4OsfkMlCmiLFEvDeE="
   },
   "showpageeditors": {
     "version": "2.0.1",
@@ -63228,12 +63238,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "uw_a11y_check": {
-    "version": "4.1.0",
+    "version": "6.0.0",
     "t3_versions": [
-      11
+      13
     ],
     "description": "Configurable a11y check for tt_content and extension records",
-    "hash": "sha256-AADUiUDBdVABUVLgcLjqocfl3eUjq+WjLtWk3SMgeMI="
+    "hash": "sha256-T0k0VxxgSs7PBi54v/6FNiCXxKmXOOpjCMWO1dsai3g="
   },
   "v4_crm_agent": {
     "version": "1.0.0",
@@ -63644,7 +63654,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "vhs": {
-    "version": "7.1.2",
+    "version": "7.1.3",
     "t3_versions": [
       10,
       11,
@@ -63652,7 +63662,7 @@
       13
     ],
     "description": "A collection of ViewHelpers for performing rendering tasks that are not natively provided by the Fluid templating engine.",
-    "hash": "sha256-aCtvE65nh+ihtyCjtsmR6E0GzmaKXv8n2tdbzFebmEo="
+    "hash": "sha256-grZSzHPHDZ9qNr9EErNTw4F/9T8pl4VQrMHOLtg84So="
   },
   "vhs_scss": {
     "version": "2.0.3",
