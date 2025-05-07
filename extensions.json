@@ -549,23 +549,31 @@
     "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
   },
   "academic_bite_jobs": {
-    "version": "1.0.1",
+    "version": "2.0.1",
     "t3_versions": [
-      10,
-      11,
-      12
+      12,
+      13
     ],
     "description": "The Academic Bite Jobs extension shows jobs from the B-Ite Job Board.",
-    "hash": "sha256-d2ydtyPZg9WAYXoVWSaP1mQ2MIma2GfMoQhOZumQDsk="
+    "hash": "sha256-QsHHDjcZGBfgd8mSHAXQ+58qecKIo0rE35+Jx5TegTI="
+  },
+  "academic_contacts4pages": {
+    "version": "2.0.1",
+    "t3_versions": [
+      12,
+      13
+    ],
+    "description": "Role based relations between profiles and pages",
+    "hash": "sha256-h+I2+CWQsZgjKbYzFEnHnGuYlwedfL0yKUfAUlauFNc="
   },
   "academic_jobs": {
-    "version": "1.1.0",
+    "version": "2.0.1",
     "t3_versions": [
-      11,
-      12
+      12,
+      13
     ],
     "description": "The Academic Jobs extension allows users to create and manage job postings.",
-    "hash": "sha256-hMHQiFLNh78tOo8X1Afhwz6gWYxZNXYCpAohJI+kaj0="
+    "hash": "sha256-i/HZJXKw8T3zP8pFryYwZbAb6OA6VWdwQwo1cyfTkIs="
   },
   "academic_networks_tt_address": {
     "version": "0.1.0",
@@ -578,57 +586,58 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "academic_partners": {
-    "version": "1.1.1",
+    "version": "2.0.1",
     "t3_versions": [
-      11,
-      12
+      12,
+      13
     ],
     "description": "Extension for showing academic partners in list and map view",
-    "hash": "sha256-Kfj0mFvpNtKcoOrcQHdedWzhpN6QdA10WX49wybu2BM="
+    "hash": "sha256-t01hxqmHp9aUWI+uNa3VvDs77UqI1x4Ptd+k/OfshlY="
   },
   "academic_persons": {
-    "version": "1.1.0",
+    "version": "2.0.1",
     "t3_versions": [
-      11,
-      12
+      12,
+      13
     ],
     "description": "Adds a person database to TYPO3 with plugins to show them in the frontend.",
-    "hash": "sha256-wnnxTzYwMiXtsmGDki8nSFR9vxxA+oi1Ig/D2i/P7D0="
+    "hash": "sha256-QixS0lAGmyi8OULVYvAcotx1lzfQIc2KMZjS5aeAZnw="
   },
   "academic_persons_edit": {
-    "version": "1.1.0",
+    "version": "2.0.1",
     "t3_versions": [
-      11,
-      12
+      12,
+      13
     ],
     "description": "dds the option to assign frontend users to academic persons and allow editing the profiles in frontend.",
-    "hash": "sha256-RV8z4le4x6fLRl3zJWHCHaY4PTq8+1kOxFd8VpgAvRU="
+    "hash": "sha256-9KtrbNeznngDXR4tdy2CsJiR3qQv97lxDyZy9nxTyfs="
   },
   "academic_persons_sync": {
-    "version": "1.1.0",
+    "version": "2.0.1",
     "t3_versions": [
-      11,
-      12
+      12,
+      13
     ],
     "description": "Adds some configuration for external users providers like Active Directory.",
-    "hash": "sha256-WsJS5Cc6XL4Wa//SnSNZAvx9at4yMZHD4ByD/CKqt0A="
+    "hash": "sha256-6TtHX9dkpCH6I/d69rPh4nAnReDjzMijtV+GoZdv5q4="
   },
   "academic_programs": {
-    "version": "1.1.4",
+    "version": "2.0.1",
     "t3_versions": [
-      11,
-      12
+      12,
+      13
     ],
     "description": "Educational Program page for TYPO3 with structured data based on sys_category",
-    "hash": "sha256-BgFTXwl7VbQchZG4cDgRb0MPd+EB45oukMC9ep6pyqY="
+    "hash": "sha256-4G45vynQs7SpZikpDvWrtt+EyukL4+ioRrTO6PEzvNY="
   },
   "academic_projects": {
-    "version": "1.1.0",
+    "version": "2.0.1",
     "t3_versions": [
-      11
+      12,
+      13
     ],
     "description": "Academic project pages for TYPO3 with specific structured data and typed sys_categories",
-    "hash": "sha256-ADu7RwfUj/1BpkNcJNeIp3+HLg1weWEAyPj6adZOBRs="
+    "hash": "sha256-pwMTEsfQawrlU+8dnLtLkyfRGMqvPA3Mvv7D0UzqMQc="
   },
   "academic_studies": {
     "version": "0.1.2",
@@ -3725,13 +3734,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.343.4",
+    "version": "3.343.5",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-Uiux5HW/JkuzTXQUkZMJI5CvKU0JJ7jJMcgijXh8h2s="
+    "hash": "sha256-bJDMOc4hIAGtXjFfddho4cps5sJ7QuMV8UspVVADvz8="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -7461,13 +7470,13 @@
     "hash": "sha256-3OthDkPmkF2mm6rfRzEJnu9FTfW4mu0KsHchkanqRaA="
   },
   "category_types": {
-    "version": "1.1.0",
+    "version": "2.0.1",
     "t3_versions": [
-      11,
-      12
+      12,
+      13
     ],
     "description": "Basic extension for typed categories",
-    "hash": "sha256-EHHyHz5JoaGTu4kRNZFaP16/r+1ElYe3LnHmWBGFvl4="
+    "hash": "sha256-HrKm8QscHKo8g3Gf4fMpE5bWOwZ3Ud+U0zOT4aQQZOs="
   },
   "catwalk": {
     "version": "0.11.4",
@@ -8043,14 +8052,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ce_counter": {
-    "version": "2.0.2",
+    "version": "3.0.0",
     "t3_versions": [
-      10,
-      11,
-      12
+      12,
+      13
     ],
     "description": "Displays a visual Counter element on your website, driven by JavaScript",
-    "hash": "sha256-5fJj1UgZDbDPsS6Re037d63ISMzJbLXz46nDbDvxE1E="
+    "hash": "sha256-SVI+YYRi8dcB1U4rmyw+NMD66kayaXuV1KByIZvBlHg="
   },
   "ce_gallery": {
     "version": "2.1.0",
@@ -19985,14 +19993,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "filefill": {
-    "version": "4.4.0",
+    "version": "5.0.0",
     "t3_versions": [
-      10,
-      11,
-      12
+      13
     ],
     "description": "Find and fetch missing local files from different remotes",
-    "hash": "sha256-Qv6ybzVNzTDwgWiiFI52/2KW2EkHq3jGS3zb+wqtqnw="
+    "hash": "sha256-O2BJo97UdZZE/wGhS3RD9Uv8V+1gSKkIBgLiotCD2kI="
   },
   "filefill_payload": {
     "version": "0.6.0",
@@ -34115,13 +34121,13 @@
     "hash": "sha256-MZCLN4yGvwUle+35itB6DHEwTiM+KlZDOVOUYIF5JYc="
   },
   "md_news_clickcount": {
-    "version": "4.0.0",
+    "version": "4.0.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "With this extension you are able to count views of ext:news records. You can display a list with most viewed news and delete the statistics automatically with a scheduler task.",
-    "hash": "sha256-AHvG+JXuzVt0bvEd+JCjdxk6D/kru1Jw8pGsIBcGvUc="
+    "hash": "sha256-0tDAOtfg1EslEuiy1kyFnnX3AjviSb6a1aYP40IBNDQ="
   },
   "md_newsfrontend": {
     "version": "5.0.0",
@@ -64431,13 +64437,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "we_cookie_consent": {
-    "version": "5.0.4",
+    "version": "5.0.5",
     "t3_versions": [
       12,
       13
     ],
     "description": "Cookie Consent Panel (Optin) with DSGVO/GDPR-compliant use of cookies. Preconfigured modules for Google Analytics, Facebook and other frequently used services. Any extensibility with tracking scripts that generate cookies on your website Support for Google Tag Manager incl. Google Consent Mode and Google Consent Mode v2. Easy export for Google Tag Manager. Third-party cookies and scripts are only loaded if active consent has been given. Website visitors can edit their privacy settings at any time. Automatic update of cookie information when new cookies/scripts with secure consent procedure are inserted. Cookies can be automatically added to the privacy policy via a plugin Multilingual and full support for desktop, tablet and mobile. Four default modes for displaying the content solution, including the display of an always-on icon to access the privacy settings. Based on Klaro!",
-    "hash": "sha256-6Wer+KfPKo7B2H3RTAmd6wo7+cmuguh/MJNr8JyxA2k="
+    "hash": "sha256-3/5LAAcaBTjN/wBpK4Q1YgE7G+WqwrhDlwVhayg2Pa4="
   },
   "we_dam2fal": {
     "version": "1.0.12",
