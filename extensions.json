@@ -3734,13 +3734,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.343.5",
+    "version": "3.343.6",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-bJDMOc4hIAGtXjFfddho4cps5sJ7QuMV8UspVVADvz8="
+    "hash": "sha256-VSnDpBHvMspkKJ9N0h15HQ4PjpcTLRVkdjF/d7/8Ifk="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -4311,13 +4311,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "bc_simplerate": {
-    "version": "0.0.7",
+    "version": "1.0.0",
     "t3_versions": [
-      12,
       13
     ],
     "description": "Rate section of the website",
-    "hash": "sha256-qRQ1ovoZfWQvv0g6b/EMDc9LN28ZtYhXDQ3JY5zUYOo="
+    "hash": "sha256-1Puq7g11bZNS+YeX0Gtcm3qwGlt6zfPy+DQYk9qRwM4="
   },
   "bc_tourdates": {
     "version": "0.9.1",
@@ -8093,13 +8092,13 @@
     "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
   },
   "ce_timeline": {
-    "version": "4.0.1",
+    "version": "5.0.0",
     "t3_versions": [
-      11,
-      12
+      12,
+      13
     ],
     "description": "Add a new content element of type \"Timeline\" for displaying histories of companies and more...",
-    "hash": "sha256-u5UC13aAdBb7zC0pYKqRBr40no2OnpgcLXoCSK5t/Ew="
+    "hash": "sha256-Gm5aWyjKfHbpKkKIRRSOMMNloEaF2hQ3e+R5ONUBtLw="
   },
   "ceaccord": {
     "version": "0.1.6",
@@ -10094,12 +10093,12 @@
     "hash": "sha256-AfToijkanNxy5yWgP7Vdw03r4FjS4ylg2fCf0SLYwKU="
   },
   "content_blocks": {
-    "version": "1.1.9",
+    "version": "1.1.11",
     "t3_versions": [
       13
     ],
     "description": "TYPO3 CMS Content Blocks - Content Types API | Define reusable components via YAML",
-    "hash": "sha256-D7KroWaJ8NRj1o1ADx3HkoOnjZSDK9fRoGlnJBhc5AE="
+    "hash": "sha256-dwbT5k2cPHOC+UxGA060a251Br/mhQKyEPFyF5Kfxvw="
   },
   "content_consent": {
     "version": "3.0.3",
@@ -24540,12 +24539,12 @@
     "hash": "sha256-E0WhzZ/5vx/d19SXPvd9wgRbG2+1tk7Ejad3HfJFZNg="
   },
   "hh_simple_job_posts": {
-    "version": "5.0.2",
+    "version": "5.1.0",
     "t3_versions": [
       13
     ],
     "description": "Adds plugins for list / show job postings with meta-data and schema.org stuff. Uses tt_address for job-contacts and job-location.",
-    "hash": "sha256-Ut8nWEkxe+JUpYY4k3iHyWAJl5Y9saGM7DW8g2DlDlw="
+    "hash": "sha256-vVsrCmoOPeiH6G4Z+oYqtr4nac1wBx7kYuQJ1KNwd+M="
   },
   "hh_slider": {
     "version": "0.6.2",
@@ -24566,13 +24565,13 @@
     "hash": "sha256-/jR61A4Ct78lkWaI1fgVll8PuUruNlnBE2E98U97j/s="
   },
   "hh_tt_address_places": {
-    "version": "4.2.0",
+    "version": "4.2.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "Simply adds places / companies TCA for EXT:tt_address.",
-    "hash": "sha256-fzPAcKqarmvcOx6sHlCf6jokxnItRVgDUqE6G2+UPiw="
+    "hash": "sha256-2io7Xfard+nQRKPtYh7LcGXFJn1TWvL8VTZlmmBdZD0="
   },
   "hh_video_extender": {
     "version": "0.3.2",
@@ -45286,12 +45285,12 @@
     "hash": "sha256-OQ5O44wnP0dIDs+0PvPgFmmauIMulfLLZBJhCz5r4ME="
   },
   "powermailcaptcha": {
-    "version": "2.2.1",
+    "version": "2.2.3",
     "t3_versions": [
       12
     ],
     "description": "Captcha Extension for Powermail",
-    "hash": "sha256-v/UopFMEoCxwnjO2DbP/+Rvww69e7h8fvIPSr99jXT4="
+    "hash": "sha256-CV9mCN+OzdRV/G0mBco+Krb2libBpuK+ZZYl01lL3Y4="
   },
   "powermailcustomcss": {
     "version": "1.1.0",
@@ -61165,14 +61164,13 @@
     "hash": "sha256-WS/PMoXSVuKI7RQw6Ga/CJXVDaT6na2DVI7xjx770HI="
   },
   "transactor": {
-    "version": "0.12.0",
+    "version": "0.14.0",
     "t3_versions": [
-      11,
       12,
       13
     ],
     "description": "This is a basic API to develop extensions which connect to different payment transaction gateways.",
-    "hash": "sha256-clUUtx7j15BzMQhxk3EjVX0S90pTkKDZ2SSTRLEMp5A="
+    "hash": "sha256-QjEf3KADT7Qb8hmRJUkQs3gvTd3JAT44r3X4nZYH4yo="
   },
   "transactor_concardis": {
     "version": "0.2.0",
