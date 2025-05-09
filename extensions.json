@@ -3734,13 +3734,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.343.6",
+    "version": "3.343.7",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-VSnDpBHvMspkKJ9N0h15HQ4PjpcTLRVkdjF/d7/8Ifk="
+    "hash": "sha256-ZURGVAZyBxVx8yKO8lhYiCc0bjK54onN3UExGkOZA8U="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -30159,6 +30159,15 @@
     "description": "Faceted Search Indexer for the Organiser table news. Page for the detail view must have a xBlog plugin.",
     "hash": "sha256-qLxoSMjOm9JCKJb6ZtUt5P9Iz0o2KTKUH9TtmkRVHXo="
   },
+  "ke_search_suggest": {
+    "version": "1.2.0",
+    "t3_versions": [
+      12,
+      13
+    ],
+    "description": "Autocomplete functionality for ke_search",
+    "hash": "sha256-Gpw3Ucf4keCOEvqtjTRIuLSzIpjGCOW7RyPKh9xQLjk="
+  },
   "ke_showproducts": {
     "version": "1.0.2",
     "t3_versions": [],
@@ -35733,13 +35742,13 @@
     "hash": "sha256-6H05DwRy5TP7I2m3O6nKftHQjQVN7MRXdeMYYlAY3V8="
   },
   "mkcontentai": {
-    "version": "13.0.8",
+    "version": "13.0.10",
     "t3_versions": [
       12,
       13
     ],
     "description": "MKContentAI Extension - OpenAI API",
-    "hash": "sha256-4+ViDrbkyqiDatZj/E9oohg3G+9PGXVXG/Z1v0csNa8="
+    "hash": "sha256-TlesjpfayM5VjXOYEdhZ0EGdA6MZ7CLyRwarUcmP/MQ="
   },
   "mkdam2fal": {
     "version": "1.0.16",
@@ -44313,6 +44322,14 @@
     ],
     "description": "Implements a central image rights management in FAL and automated rendering of picture credits on regular content pages.",
     "hash": "sha256-VFQoZv3qoyeZXejVkg3cLGXecj8omeYDN+uUnQXpdcc="
+  },
+  "pictureino": {
+    "version": "0.12.0",
+    "t3_versions": [
+      13
+    ],
+    "description": "Responsive images – fully automated. No setup required. Boost PageSpeed and SEO with lazy loading and modern WebP delivery",
+    "hash": "sha256-lPBzgehvVeQGSXMZ+/J7gicZgcW4PzYIK+eTlQoG1bk="
   },
   "piflexformupdate": {
     "version": "0.0.3",
@@ -57571,13 +57588,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "t3sbootstrap": {
-    "version": "5.3.22",
+    "version": "5.3.23",
     "t3_versions": [
       12,
       13
     ],
     "description": "Startup extension to use bootstrap 5 classes, components and more out of the box. Example and info: www.t3sbootstrap.de",
-    "hash": "sha256-5fUxJO2Uf5brFTbvvF23cLXhxQUcyZRultwQP26RNjk="
+    "hash": "sha256-Pr+s65V+yKWMMKblMLx54ak81LpDVx3S/jAP0EVQQek="
   },
   "t3sbootstrap_grid": {
     "version": "4.0.0",
