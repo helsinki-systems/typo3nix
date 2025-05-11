@@ -1662,12 +1662,12 @@
     "hash": "sha256-LrZ+IK11SKP3RlLmJggx2X2/cL8lV1Xhd4R045LglW8="
   },
   "aichemist": {
-    "version": "2.0.0",
+    "version": "13.4.3",
     "t3_versions": [
-      12
+      13
     ],
     "description": "Extension to do magic AI stuff around TYPO3",
-    "hash": "sha256-mLO7/zsLctavB/gvr5k6AC7eiEf9qNvZ/9WPt9NvfxY="
+    "hash": "sha256-9HaqYJClnzh8JN8UVPIESY88thrW+PLWi5kdkD8LAfE="
   },
   "aimeos": {
     "version": "25.4.1",
@@ -46774,12 +46774,12 @@
     "hash": "sha256-wE8YETdAx9SJq6fbndHGE/zpbzJCLd+WbEdKCxOrpP8="
   },
   "randomquote": {
-    "version": "12.4.0",
+    "version": "13.4.0",
     "t3_versions": [
-      12
+      13
     ],
     "description": "Frontend plugin to display random quotes",
-    "hash": "sha256-wa/XjM5zQVYsNIjUKNnTBu6grG8CG+pU5lzGeZFV9uA="
+    "hash": "sha256-bhWCGjwSCx6al7AhYn53yGncAlqdaXHvyThOVKT/IHU="
   },
   "rates": {
     "version": "0.0.1",
