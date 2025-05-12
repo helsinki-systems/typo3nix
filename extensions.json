@@ -8092,13 +8092,13 @@
     "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
   },
   "ce_timeline": {
-    "version": "5.0.0",
+    "version": "5.0.1",
     "t3_versions": [
       12,
       13
     ],
-    "description": "Add a new content element of type \"Timeline\" for displaying histories of companies and more...",
-    "hash": "sha256-Gm5aWyjKfHbpKkKIRRSOMMNloEaF2hQ3e+R5ONUBtLw="
+    "description": "Provides a new content element of type \"Timeline\". Enables the creation of visually engaging and flexible timelines in the frontend, enhancing the user experience with interactive and informative displays.",
+    "hash": "sha256-JPEJP7e7zUKchBCtwKwPU8OLa9AUXMo7kkWIIRJgBak="
   },
   "ceaccord": {
     "version": "0.1.6",
@@ -16926,12 +16926,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "editor_widgets": {
-    "version": "2.1.5",
+    "version": "2.1.6",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "Collection of useful dashboard widgets focused on editors",
-    "hash": "sha256-CiGHcU2dNV7J6eV27BhCjqWKEqkRyV5GG+SneAWEH7o="
+    "hash": "sha256-C7KA+gEep35rYJAd/70rDgheyfZLq6h7ohzghBSSfd0="
   },
   "editors_choice": {
     "version": "2.1.0",
@@ -20897,7 +20898,7 @@
     "hash": "sha256-nVc4Dgbq6osYm2u4v/JvZGREl9Ir2jROiO3yyEiPDec="
   },
   "flux": {
-    "version": "11.0.2",
+    "version": "11.0.3",
     "t3_versions": [
       10,
       11,
@@ -20905,7 +20906,7 @@
       13
     ],
     "description": "Drop-in page and content templates with nested content feature. Provides multiple condensed integration APIs to use advanced TYPO3 features with little effort.",
-    "hash": "sha256-4ZzOL35Ul/oPs9YsNsbUS6WQK5JxN6xY+FvN5hmzf9s="
+    "hash": "sha256-YzBJRGQgdYnN+7AbprJbi44ukQKvZWtLtPHpJDad2KI="
   },
   "flux_elements": {
     "version": "1.4.1",
@@ -21072,12 +21073,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fontawesome_provider": {
-    "version": "1.0.3",
+    "version": "1.0.4",
     "t3_versions": [
-      11
+      11,
+      12,
+      13
     ],
     "description": "Integrates legacy FontawesomeIconProvider and FontAwesome 4.7",
-    "hash": "sha256-I8bn4xDX29aabJhFn0l+/7+r5CkJh2ZlnlfA7uEZLGM="
+    "hash": "sha256-+HNeswVy7xEDAXUlhlCtohdzDsnTGQlUJO/Jj0anZ+Q="
   },
   "fontresize": {
     "version": "1.0.1",
@@ -21733,13 +21736,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "forms2db": {
-    "version": "1.2.1",
+    "version": "1.2.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "With forms2db, form data from the Forms extension is stored in the database. Additionally, the data can be exported in CSV format using a dedicated module.",
-    "hash": "sha256-U9/1Ge7N2qbdm4CKU6rj5O+aosoZWgLVz6I2ioQQMvU="
+    "hash": "sha256-KpNxmR/qNCfZaxz7OUn2zICzBIJVQbuXcBDtjl42gMg="
   },
   "formsave": {
     "version": "1.6.3",
@@ -30160,13 +30163,13 @@
     "hash": "sha256-qLxoSMjOm9JCKJb6ZtUt5P9Iz0o2KTKUH9TtmkRVHXo="
   },
   "ke_search_suggest": {
-    "version": "1.2.0",
+    "version": "12.4.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Autocomplete functionality for ke_search",
-    "hash": "sha256-Gpw3Ucf4keCOEvqtjTRIuLSzIpjGCOW7RyPKh9xQLjk="
+    "hash": "sha256-bUvYiI8FyAJSYb9R/wtChRbvg9o7iB4V1iIE2aIIxaw="
   },
   "ke_showproducts": {
     "version": "1.0.2",
@@ -34156,12 +34159,12 @@
     "hash": "sha256-6eITYT7YAbgEaXBr+RyBVZ6Ivk+zVWjRxijQL+j89FQ="
   },
   "md_saml": {
-    "version": "4.0.1",
+    "version": "4.0.2",
     "t3_versions": [
       13
     ],
     "description": "SSO frontend or backend login with SAML authentication.",
-    "hash": "sha256-vIAB3KfhCMUEHlfaq/ty37Ekyb1Z5jRwvuhaeRomv/M="
+    "hash": "sha256-qvwWhC9J5+gIQf76IHe44CfwYZV/vkrwLBUWiaWW/jU="
   },
   "md_unreadnews": {
     "version": "5.0.2",
@@ -49586,14 +49589,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "rx_shariff": {
-    "version": "15.2.2",
+    "version": "16.0.0",
     "t3_versions": [
-      11,
       12,
       13
     ],
     "description": "Shariff implementation for TYPO3 CMS including the backend module, a viewhelper and a plugin.",
-    "hash": "sha256-pSl5LuoU0ijmyZdPNTNKZ/q8J5IInyKRcb7cvir2Myg="
+    "hash": "sha256-DYP6xE8buqL0mDfMVrLj0kvWdQzpkaJwPm3tifcFT9A="
   },
   "rx_unrollsavebuttons": {
     "version": "1.1.1",
