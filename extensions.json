@@ -3734,13 +3734,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.343.9",
+    "version": "3.343.10",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-M/rgo2gNCZwWcbaYJMBTPpqaWMLaG5zyWr2/+LyJ+c4="
+    "hash": "sha256-mKU0MGVGUcfWyd0/T5YaDUVnWuFhmsbh0HMUda/uVpE="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -30163,13 +30163,13 @@
     "hash": "sha256-qLxoSMjOm9JCKJb6ZtUt5P9Iz0o2KTKUH9TtmkRVHXo="
   },
   "ke_search_suggest": {
-    "version": "12.4.0",
+    "version": "12.4.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "Autocomplete functionality for ke_search",
-    "hash": "sha256-bUvYiI8FyAJSYb9R/wtChRbvg9o7iB4V1iIE2aIIxaw="
+    "hash": "sha256-MRjv0xXFSPjI+s/tqaWrE4v66hIcOAV9MGRnOUf+0gE="
   },
   "ke_showproducts": {
     "version": "1.0.2",
@@ -64254,13 +64254,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "wacon_cookie_management": {
-    "version": "6.1.0",
+    "version": "6.1.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "WCM is a typo3 extension that enables website visitors to control and manage the usage of cookies on the website (commonly known as \"cookie consent box\"). Thus it helps website owner to be in line with the rules of the General Data Protection Regulation (GDPR) which took effect on 25 May 2018.",
-    "hash": "sha256-I5w43+yKLQJj+Hxy4Z00uSagpbGXkJ/6ynSN5sLRpWc="
+    "hash": "sha256-MoM/bOTS05yP34OSN3rYf3lA7e7qrU18OTwB3ig0EHc="
   },
   "wacon_csv2html": {
     "version": "2.0.0",
