@@ -648,7 +648,7 @@
     "hash": "sha256-T0y6c/asLUIuO8IBscaJ+F50IHAiSeuZFbpt3Mlk24A="
   },
   "accelerator": {
-    "version": "13.4.0",
+    "version": "13.4.2",
     "t3_versions": [
       10,
       11,
@@ -656,7 +656,7 @@
       13
     ],
     "description": "Speed up your TYPO3 installation: add Critical CSS (Above The Fold) inline, minify the HTML of your website, use subdomains as CDN to reduce page load, manage proxy-caching (e.g with Varnish) via page-properties, reduce database size when storing JSON-arrays with persisted objects to the database",
-    "hash": "sha256-6mIrI5/YO4RLnsU3N6IoQuV5itCheEGym5snCUTulAc="
+    "hash": "sha256-UPfl+R30w5gWLouW8pabXqeP1BKjLQ9ddQOUSMsVrSI="
   },
   "access_control_sync": {
     "version": "0.2.7",
@@ -3255,13 +3255,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ausstello": {
-    "version": "1.1.13",
+    "version": "1.1.15",
     "t3_versions": [
       12,
       13
     ],
     "description": "Events managen und kommunizieren, Marketing automatisieren. Einfach, ausstello.",
-    "hash": "sha256-/f7Vtp2PLYWLD4NJtVN6zC5fdlSpFmzBpLQ237L+eqA="
+    "hash": "sha256-JbBjanB6fG2t0sFc3YYZiKo3pSlYLICy9jsuYwuSX6o="
   },
   "auth0": {
     "version": "13.0.1",
@@ -3734,13 +3734,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.343.10",
+    "version": "3.343.11",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-mKU0MGVGUcfWyd0/T5YaDUVnWuFhmsbh0HMUda/uVpE="
+    "hash": "sha256-UOhtjsVSnNexffL+RmhAjBqJiWKZIRR9bY4nNVbTEvo="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -5180,12 +5180,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "bm_image_gallery": {
-    "version": "7.0.0",
+    "version": "7.0.1",
     "t3_versions": [
       13
     ],
     "description": "Simple gallery using file collections.",
-    "hash": "sha256-A0V2TBekM6SImGPoig2OtukeNhyV7BWFHyjhqowf7Ws="
+    "hash": "sha256-LOmqstvhlPOzPcIoyoM0FN134QfDt4etnxLPrrgS+ko="
   },
   "bm_lofuc": {
     "version": "0.1.1",
@@ -10019,14 +10019,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "container": {
-    "version": "3.1.8",
+    "version": "3.1.9",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "Create Custom Container Content Elements for TYPO3",
-    "hash": "sha256-cUmjNAU0NmQ67OU502RBvHyP9qEH9Ivk0ARQkawS9RU="
+    "hash": "sha256-Q9+G0wB2CRB2KQn0rNoIC9exRVYx20tLyOKoUFMezCM="
   },
   "container_elements": {
     "version": "6.0.4",
@@ -10707,7 +10707,7 @@
     "hash": "sha256-DCvKiO52hfkV4m7w1U8gjidOCZdAJWoAZ8mvqsoINWA="
   },
   "copyright_guardian": {
-    "version": "13.4.7",
+    "version": "13.4.11",
     "t3_versions": [
       10,
       11,
@@ -10715,7 +10715,7 @@
       13
     ],
     "description": "Manages the copyright details of images and other media and offers a convenient way of displaying these automatically and directly on the page on which the media is used. In addition, a list of all media used and the associated copyright information can be output",
-    "hash": "sha256-X6qhdq2DFORVrU3IaOIGBqbwPHuYmEJk0VvQRQ8hPHA="
+    "hash": "sha256-r9zxgEnmxqMYdqh/MaI1hAAi/q4Nvnw7C6QpNTAEAQg="
   },
   "core_permalogin": {
     "version": "0.0.1",
@@ -26407,12 +26407,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "imageoptimizer": {
-    "version": "4.0.3",
+    "version": "5.1.0",
     "t3_versions": [
-      12
+      13
     ],
     "description": "Optimize uploaded/processed images with binaries of your choice",
-    "hash": "sha256-TgDWfVrX6k36F1N6aiIw2vxnAVSPrb76q1/OHUG/1x8="
+    "hash": "sha256-a0W3uttgGfWAzgPHR6qoGCooRuoLtIOhUUbj7MPLcgA="
   },
   "imagerotation": {
     "version": "0.1.1",
@@ -30163,13 +30163,13 @@
     "hash": "sha256-qLxoSMjOm9JCKJb6ZtUt5P9Iz0o2KTKUH9TtmkRVHXo="
   },
   "ke_search_suggest": {
-    "version": "12.4.2",
+    "version": "12.4.3",
     "t3_versions": [
       12,
       13
     ],
     "description": "Autocomplete functionality for ke_search",
-    "hash": "sha256-MRjv0xXFSPjI+s/tqaWrE4v66hIcOAV9MGRnOUf+0gE="
+    "hash": "sha256-35VNFGoGHQEY71e8VgeotlVq/Gp/BqkXeyqwE11LCPU="
   },
   "ke_showproducts": {
     "version": "1.0.2",
@@ -30516,7 +30516,7 @@
     "hash": "sha256-t42MVuype0xnDhbTALO5MxQ26V/TjDlPsHCbb1f2TTQ="
   },
   "klarokratie": {
-    "version": "13.4.14",
+    "version": "13.4.16",
     "t3_versions": [
       10,
       11,
@@ -30524,7 +30524,7 @@
       13
     ],
     "description": "Includes Klaro! Consent-Manager into TYPO3. Completely file-based configuration for versioning without having to take care of database-entries. This extension automatically adds a consent-overlay to embedded YouTube- and Vimeo-Videos. It also comes with a ready-to-use integration for Google Analytics / Google Tag Manager and etracker.",
-    "hash": "sha256-XXfuqioGir0UHzEsmXKx+PzcVm7Yz9bvuhgy9hJlT1U="
+    "hash": "sha256-Lnhx2HrZwHI5cZdVWeywchxu2HYauTlfFarekwBT6bA="
   },
   "km_dam_extension": {
     "version": "1.0.2",
@@ -36395,13 +36395,13 @@
     "hash": "sha256-QBq7RgOtpBz21jSQfzIxEurNCmBZlHvZXZt3wzoyyMw="
   },
   "modules": {
-    "version": "7.1.1",
+    "version": "7.1.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "Frontend-Registration, Frontend-User Profile, Frontend-User Invitations, Frontend-User Addressmanagement, Frontend-Recordmanagement. User friendly Backendmodule for managing Frontend- and Backend-Users and other Records. Toolbox for frontend and backend modules in TYPO3.",
-    "hash": "sha256-VNeobGKXdAq+Sen2wjE4h2LunFUAP/VhKGLGf3QX6Bc="
+    "hash": "sha256-9+X29QYgRnsg8M947AbhoGHku2B6zyTPh5CnWVgyZVQ="
   },
   "modulis_animated_gif": {
     "version": "0.0.4",
@@ -43677,13 +43677,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "pdfviewhelpers": {
-    "version": "3.0.0",
+    "version": "3.1.0",
     "t3_versions": [
-      11,
-      12
+      12,
+      13
     ],
     "description": "Provides various Fluid ViewHelpers to create PDF documents. Under the hood pdfviewhelpers uses TCPDF and FPDI.",
-    "hash": "sha256-hAKSrM89Q/vjNbuYVZfhd+xEie/bAJpJzZSW4nT+Rzg="
+    "hash": "sha256-vxkE6VKw/X4SC96p8SfpRjPReUbRDxgtFid5VNc6gF8="
   },
   "pdmt3": {
     "version": "0.1.0",
@@ -47619,12 +47619,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "reserve": {
-    "version": "4.1.0",
+    "version": "4.1.1",
     "t3_versions": [
       13
     ],
     "description": "This extension allows you to reserve tickets for one or more persons using a period table and a form. Each reservation has it’s own QR Code that can be scanned at the event.",
-    "hash": "sha256-LXAw3TOBOKjpfMA2UKdKM4wenjx6ZAiMVlefPAa04iY="
+    "hash": "sha256-RqTHjRsNACCDPRWkJrlQgImweztHYHryQmgTTq+u9ps="
   },
   "reset_scheduler": {
     "version": "1.0.1",
@@ -51827,13 +51827,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "shop": {
-    "version": "5.3.1",
+    "version": "5.4.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Shop for TYPO3 incl. PayPal, PayPal-Checkout (formerly PayPal-Plus), Klarna, Stripe, Bookmarks, UPS-API, Invoice generation, backend module, compare feature, graduated prices and many more - note there is a Pro version as well! See https://www.coding.ms/typo3-extensions/typo3-shop",
-    "hash": "sha256-gDm+MTCA7VTc4TwFg3eDSIbyX+mrJsVFwQIkoSD0p9Y="
+    "hash": "sha256-uV9EI8k9hPaKQ9VsOawDEmAVfb23GOvENUsK+IsIJqQ="
   },
   "shop3ox": {
     "version": "0.0.3",
@@ -54200,12 +54200,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "solr": {
-    "version": "13.0.1",
+    "version": "13.0.2",
     "t3_versions": [
       13
     ],
     "description": "Apache Solr for TYPO3 is the enterprise search server you were looking for with special features such as Faceted Search or Synonym Support and incredibly fast response times of results within milliseconds.",
-    "hash": "sha256-cUOhfJrTQvI1wzLxQNkNJKzsNWH+zRqOqlhHiNl/XEc="
+    "hash": "sha256-5lCwc6HVFaZfwEZkbbkMHunhLoc+xHit9XN9dpkCWwY="
   },
   "solr_boutique": {
     "version": "1.0.0",
@@ -56819,12 +56819,13 @@
     "hash": "sha256-1sVO90DqRum2QMl7PXb4mz7TW6K54nlEiX4NGfwtupA="
   },
   "t3api": {
-    "version": "4.0.2",
+    "version": "4.1.0",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "REST API for your TYPO3 project. Config with annotations, build in filtering, pagination, typolinks, image processing, serialization contexts, responses in Hydra/JSON-LD format.",
-    "hash": "sha256-aHaVcLf4MBt/9oo25WlNpsnTt5mI+0pUsims14n11R4="
+    "hash": "sha256-P+kjrbghT1Nia31h2dNPszg7rH8LiK7YSYw15fN7Ny0="
   },
   "t3blog": {
     "version": "1.2.0",
