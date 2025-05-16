@@ -3255,13 +3255,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ausstello": {
-    "version": "1.1.15",
+    "version": "1.1.17",
     "t3_versions": [
       12,
       13
     ],
     "description": "Events managen und kommunizieren, Marketing automatisieren. Einfach, ausstello.",
-    "hash": "sha256-JbBjanB6fG2t0sFc3YYZiKo3pSlYLICy9jsuYwuSX6o="
+    "hash": "sha256-R94LU/v4Udz6QIaHTFvp8k96cOSEEztZyzsMv2dZAeU="
   },
   "auth0": {
     "version": "13.0.1",
@@ -3734,13 +3734,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.343.11",
+    "version": "3.343.12",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-UOhtjsVSnNexffL+RmhAjBqJiWKZIRR9bY4nNVbTEvo="
+    "hash": "sha256-jiRpVG60xTZTjcztyx88fKSVV+noF6M4z9EDKYwVdRE="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -10093,12 +10093,12 @@
     "hash": "sha256-AfToijkanNxy5yWgP7Vdw03r4FjS4ylg2fCf0SLYwKU="
   },
   "content_blocks": {
-    "version": "1.2.0",
+    "version": "1.2.1",
     "t3_versions": [
       13
     ],
     "description": "TYPO3 CMS Content Blocks - Content Types API | Define reusable components via YAML",
-    "hash": "sha256-OElbXD39pkfjwkOYCuu8iD+5hxV+85O1gLhU+QYTBQM="
+    "hash": "sha256-SCTFTJXS3gaUlCm7aGahPC9iwIVDdmZlAre2pGSTNhU="
   },
   "content_consent": {
     "version": "3.0.3",
@@ -35891,13 +35891,13 @@
     "hash": "sha256-phRL0foWA1dZnNn7md29fWHqxnBhyYIrWqGysoS95EY="
   },
   "mksearch": {
-    "version": "12.0.8",
+    "version": "12.0.9",
     "t3_versions": [
       11,
       12
     ],
     "description": "Generic highly adjustable and extendable search engine framework, using Zend Lucene, Apache Solr or ElasticSearch. But support for other search engines can be provided easily.",
-    "hash": "sha256-fnV+TWKw2kM91Ei9l/e3cZaPLPkR2M/QRglXjIgiB5Q="
+    "hash": "sha256-udiri918zA32OBVcHFHEqiwneQz0Zi1Hw+5QQlMeAAw="
   },
   "mktools": {
     "version": "12.0.2",
@@ -53419,12 +53419,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sluggi": {
-    "version": "12.0.2",
+    "version": "13.0.0",
     "t3_versions": [
-      12
+      13
     ],
     "description": "The little TYPO3 slug helper",
-    "hash": "sha256-nF4hndMH+q8WsVrQ4pbTLeyRsOeC8OZ/VhA3vQKFcNY="
+    "hash": "sha256-9YX4v5qxvQwyVDX8+WRNA6lIHRu8x05/ymisPclLbT0="
   },
   "sm_booklist": {
     "version": "0.0.1",
