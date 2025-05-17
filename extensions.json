@@ -3734,13 +3734,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.343.12",
+    "version": "3.343.13",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-jiRpVG60xTZTjcztyx88fKSVV+noF6M4z9EDKYwVdRE="
+    "hash": "sha256-hxmmUrQK/kVPW4copszi5BrhFJ1Eg3jZh5F2uNCTGzw="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -10093,12 +10093,12 @@
     "hash": "sha256-AfToijkanNxy5yWgP7Vdw03r4FjS4ylg2fCf0SLYwKU="
   },
   "content_blocks": {
-    "version": "1.2.1",
+    "version": "1.2.2",
     "t3_versions": [
       13
     ],
     "description": "TYPO3 CMS Content Blocks - Content Types API | Define reusable components via YAML",
-    "hash": "sha256-SCTFTJXS3gaUlCm7aGahPC9iwIVDdmZlAre2pGSTNhU="
+    "hash": "sha256-B3P3eIRDcfUPOOl0u0LSWnaZ+FTlq8v37A+HVZMK3yI="
   },
   "content_consent": {
     "version": "3.0.3",
@@ -26799,7 +26799,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "includekrexx": {
-    "version": "5.1.4",
+    "version": "5.1.5",
     "t3_versions": [
       10,
       11,
@@ -26807,7 +26807,7 @@
       13
     ],
     "description": "Fluid and PHP debugger with backend access to logfiles, code generation to reach the displayed values and much more. We added some special stuff for Aimeos.",
-    "hash": "sha256-q3/4BSez6VoCLM6S5xPT2/cfTitUHx4rh2/vM81Scb8="
+    "hash": "sha256-6SJKCRYtlu+V/DgV7c3sb2cRa6GRmvr40E0wn4uscL4="
   },
   "incore_twitter": {
     "version": "1.2.2",
@@ -33628,13 +33628,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mask": {
-    "version": "9.0.5",
+    "version": "9.0.8",
     "t3_versions": [
       12,
       13
     ],
     "description": "Create your own content elements and page templates. Easy to use, even without programming skills because of the comfortable drag and drop system. Stored in structured database tables. Style your frontend with Fluid tags. Ideal, if you want to switch from Templavoila.",
-    "hash": "sha256-c4j+H6I8Rx9zsQliVanyCyUTwSNNBFfnU7hK18vJtkg="
+    "hash": "sha256-wRunhu68pRPLRfh7NM1heeBWDKDac3/hIHqH6OIFd/w="
   },
   "mask_export": {
     "version": "4.0.2",
@@ -50453,14 +50453,14 @@
     "hash": "sha256-bCMkdMOCy2wNJ3Gz6SWr7i1qZ9ZfxkhhegmjmYFHEdo="
   },
   "schema": {
-    "version": "3.12.2",
+    "version": "3.13.0",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "API and view helpers for schema.org markup",
-    "hash": "sha256-ZEweFbvsRZuN40lBzLpB3pe0ZsMRJJPzZOvwy6d8O6g="
+    "hash": "sha256-H1Fun5uQLR/t3CCOEBQ9h16Wa5LBMtmYvLaDJe+vavU="
   },
   "schema_auto": {
     "version": "2.3.0",
@@ -50483,14 +50483,14 @@
     "hash": "sha256-dJddEkVYSeTlJCA66mwnNdjAyMbGECsjH2r/qxocAJQ="
   },
   "schema_health": {
-    "version": "2.8.0",
+    "version": "2.9.0",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "Extend the schema extension with health-related terms",
-    "hash": "sha256-Wji01OBJdjfsuhuQtDalDCSMYDOjVNMYREoiH4KTyQw="
+    "hash": "sha256-qkaWlNltS4eeQWBwW4IecqeRVDUJksCjPdnFPq4g53U="
   },
   "schema_injector": {
     "version": "1.0.1",
@@ -50511,14 +50511,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "schema_pending": {
-    "version": "2.11.0",
+    "version": "2.12.0",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "Extend the schema extension with pending terms",
-    "hash": "sha256-wlIUYoelHGo12Z1ycobhyVOjbTaJw1GeriYjEHh6btU="
+    "hash": "sha256-uDVdW5dFxsd8qu17M7kqbRd61ao8DeUhQ6Q7m8R7bnk="
   },
   "schema_virtuallocation": {
     "version": "2.1.0",
