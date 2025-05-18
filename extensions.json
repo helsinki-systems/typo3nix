@@ -10093,12 +10093,12 @@
     "hash": "sha256-AfToijkanNxy5yWgP7Vdw03r4FjS4ylg2fCf0SLYwKU="
   },
   "content_blocks": {
-    "version": "1.2.2",
+    "version": "1.2.3",
     "t3_versions": [
       13
     ],
     "description": "TYPO3 CMS Content Blocks - Content Types API | Define reusable components via YAML",
-    "hash": "sha256-B3P3eIRDcfUPOOl0u0LSWnaZ+FTlq8v37A+HVZMK3yI="
+    "hash": "sha256-xG/iTVD1d72LwGXLGVZRQDORFJRmmNCI+LlJp5VKlFI="
   },
   "content_consent": {
     "version": "3.0.3",
@@ -10217,13 +10217,13 @@
     "hash": "sha256-7SKdm3qz68prxWJa2vxG9def5h0HEoWZTPP9NzSi1Ho="
   },
   "content_slug": {
-    "version": "4.1.0",
+    "version": "4.2.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Adds a slug field for human-readable anchors (\"domain.com/page/#my-section\") to TYPO3 content elements. By default, this anchor is rendered as the header's id attribute.",
-    "hash": "sha256-759qImXWS1aoF+2FybB6KSRk36MtZr27CKEBYe0wXXo="
+    "hash": "sha256-1S7GZ7MkNa1yqxVFX9W/XE+AilaZUYDu3G4fMV0Y6f4="
   },
   "content_uneraser": {
     "version": "0.2.0",
@@ -12250,28 +12250,28 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cy_lending": {
-    "version": "3.2.2",
+    "version": "4.1.0",
     "t3_versions": [
-      12
+      13
     ],
     "description": "You can organize lending of objects",
-    "hash": "sha256-ffRLD9qZtjZ2Gtkxn9aytGinPlHmQ/Hkn48YA98ClaU="
+    "hash": "sha256-d5kNLIsPiA6emxyCohDiM9musLIM6hiZyQnnshlicpI="
   },
   "cy_newsletter": {
-    "version": "2.0.2",
+    "version": "3.0.0",
     "t3_versions": [
-      12
+      13
     ],
     "description": "This plugin contains a small service to send a newsletter for frontend user (based on the news extension).",
-    "hash": "sha256-S/FHtajQvci1S04KlOUbqCqJKeKQHvc1p4pLp5mr1x4="
+    "hash": "sha256-S1cZKXgcPo5xxj205V9C4gnhgAVqM6j/fDN0gBo13LA="
   },
   "cy_send_mails": {
-    "version": "2.0.2",
+    "version": "3.0.0",
     "t3_versions": [
-      12
+      13
     ],
     "description": "This extension allows frontend users to write emails to other ",
-    "hash": "sha256-UI55RqTok7NxmuLV/sSONmtl6CFO5WBbg8CPz62PDzs="
+    "hash": "sha256-sAmYTOFMn/UVSiw/65x9gVzBbq4nxVsCi0i628bQ5kU="
   },
   "cy_twitter": {
     "version": "0.0.2",
@@ -17826,12 +17826,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "eventplanner": {
-    "version": "3.0.0",
+    "version": "4.0.0",
     "t3_versions": [
-      12
+      13
     ],
     "description": "You can organize helper for your event. Plan places of work and the front end users can register for it.",
-    "hash": "sha256-fW7FJmsbuCfvKGtcrpJ6zM6iWzSVTnJkqvick5+P1mI="
+    "hash": "sha256-no91MHc2jfFoRzlGetLZMW0kVQwxUjvaE2e0Juc0Kvg="
   },
   "events2": {
     "version": "9.2.0",
@@ -32277,12 +32277,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "loginviaemail": {
-    "version": "5.0.0",
+    "version": "5.0.2",
     "t3_versions": [
       13
     ],
     "description": "EN:",
-    "hash": "sha256-c2mIYfNT9+diixksNnBhlauzFiuhwjQpiL3qTSoZh74="
+    "hash": "sha256-pwKYJ8G6GpIs2jRtbrsphC+ReT4QkdHiEKluTVZgZoI="
   },
   "logmail": {
     "version": "0.1.0",
@@ -63244,12 +63244,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "usertools": {
-    "version": "3.0.2",
+    "version": "4.1.1",
     "t3_versions": [
-      12
+      13
     ],
     "description": "Collection of user tools:  ",
-    "hash": "sha256-cOGv8sNZFLkTVLU+fQJMgiQlTGAJ1JBnBT7sVLsyMA4="
+    "hash": "sha256-pbe9TnDZAJazVjPDVGtqPGsIjXDbU3Sg0iD/MPmyeM0="
   },
   "uuid": {
     "version": "0.2.2",
