@@ -10572,12 +10572,12 @@
     "hash": "sha256-RbhGP0thpWqFqC/65d/8Ty8ALDK1PXbNl+L6pSPBbOM="
   },
   "cookieman": {
-    "version": "3.0.1",
+    "version": "3.1.0",
     "t3_versions": [
       13
     ],
     "description": "Provides a user consent popup. It asks for approval to include tracking objects (cookies, images or any HTML) and includes the objects when consented. It also removes cookies after the consent has been revoked.",
-    "hash": "sha256-EULvcrz9txKo0ioVrdQIbF9tgydA+gG/wJl5YU1rwA0="
+    "hash": "sha256-+UWydEGAcYrBwHO17A8w5QNqfSB7P9bMruWERkhb2xs="
   },
   "cookiepro": {
     "version": "1.0.3",
@@ -12853,14 +12853,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "dashbash": {
-    "version": "2.0.2",
+    "version": "12.0.0",
     "t3_versions": [
-      11,
       12,
       13
     ],
     "description": "Custom dashboard widgets for TYPO3",
-    "hash": "sha256-Av/IVLPe35u8MkmO7tH7xq/Ica8RoCuf/8y4HUMHlPI="
+    "hash": "sha256-Y/bJdWEq0IfWj2dv8nG+ozWnYnajHFmn0RmbfqWuB1E="
   },
   "databaseconnectionscanner": {
     "version": "0.1.3",
@@ -14745,13 +14744,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "dlf": {
-    "version": "5.0.9",
+    "version": "5.0.10",
     "t3_versions": [
       10,
       11
     ],
     "description": "Base plugins, modules, services and API of the Digital Library Framework. It is part of the community-based Kitodo Digitization Suite.",
-    "hash": "sha256-rAxiluDDRHYynbsgfGwSKMAdMMP15z4whCcTfawP5f8="
+    "hash": "sha256-kOUeiCSx7uWN72S96psxC70LIAJuE0SavgNUESt0HPM="
   },
   "dlib": {
     "version": "0.0.6",
@@ -24577,13 +24576,13 @@
     "hash": "sha256-2io7Xfard+nQRKPtYh7LcGXFJn1TWvL8VTZlmmBdZD0="
   },
   "hh_video_extender": {
-    "version": "0.3.4",
+    "version": "0.4.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Hauer-Heinrich - Extends sys_file_reference video/media. Added attributes to select in content element (eg textmedia) like: muted, loop, controls, previewImage and so on.",
-    "hash": "sha256-HWSY2+alr5mOOpZ9fw5+TN09k1EpP2PyeDhyyzG6YPU="
+    "hash": "sha256-gQ/AGljq9k8ItK05jQtU0O/KV9udoE4B9yZBel+SX8k="
   },
   "hhcanonical": {
     "version": "1.0.0",
@@ -27873,13 +27872,12 @@
     "hash": "sha256-lkh/tM6KYVlLaeomiaJxdpg1ZaI57X1AeQgkmj3fgXQ="
   },
   "jar_columnrow": {
-    "version": "1.0.22",
+    "version": "2.0.7",
     "t3_versions": [
-      10,
-      11
+      12
     ],
     "description": "Provides a freely definable and universal grid element with bootstrap-based output.",
-    "hash": "sha256-/9c2FbJcWCD7KL/lI3f+XGSwUJ1P58JAu5odsApfRTQ="
+    "hash": "sha256-umQ2V6btZYykX09cwM9HAEz4O9Dda5bDVmR6dSUJBOo="
   },
   "jar_dataflow": {
     "version": "2.0.4",
@@ -33462,12 +33460,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "maps2": {
-    "version": "12.0.5",
+    "version": "12.0.8",
     "t3_versions": [
       13
     ],
     "description": "Create maps with Marker, Area, Routes or Radius based on Google Maps or OpenStreetMap",
-    "hash": "sha256-lFjpPnDO9I6ev7BUjRxbrIRNxewsAqLiUEMHMr8A31o="
+    "hash": "sha256-5feNgh99ZBAaiBYKs5bOIpLHMC2Us3pB286hWea/Ywo="
   },
   "mapsapi3": {
     "version": "0.4.1",
@@ -40150,13 +40148,13 @@
     "hash": "sha256-tdYHMTG77JtQn3j6Yj/x/Hsbs53qxlf1/77XwibycfY="
   },
   "ns_backup": {
-    "version": "13.0.0",
+    "version": "13.0.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "Easily backup your entire TYPO3 website. The Backup Plus extension for TYPO3 lets you save your code, files, and database with just a few clicks. Install Backup Plus and connect it to your cloud storage (like Google Drive, Dropbox, Amazon S3, SFTP, Rsync, etc.) and backup your entire TYPO3 site manually with a single click.",
-    "hash": "sha256-8PvIRBI21nOQVuXHqlO+Pn34YdBrJ9Qx+HL3R6TaaZs="
+    "hash": "sha256-HhN5t8Xc7t+S3nl3h3hMlhD+wmieIRBVAJSHLXeoJIs="
   },
   "ns_basetheme": {
     "version": "13.0.6",
@@ -57563,12 +57561,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "t3s_swiper": {
-    "version": "0.0.5",
+    "version": "0.0.6",
     "t3_versions": [
       13
     ],
     "description": "Swiper is the most modern free mobile touch slider with hardware accelerated transitions and amazing native behavior.",
-    "hash": "sha256-Q8zL/t14MZZSBY5lJNJfLQmy4X9iKudN1c/p84gnAC0="
+    "hash": "sha256-OX4SF/wQtUlw0Nc8cQ7UU94hijS7R9M0m6MmUvSKvfE="
   },
   "t3s_titleattributes": {
     "version": "0.0.1",
