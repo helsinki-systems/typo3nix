@@ -3734,13 +3734,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.343.13",
+    "version": "3.343.14",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-hxmmUrQK/kVPW4copszi5BrhFJ1Eg3jZh5F2uNCTGzw="
+    "hash": "sha256-12S2J3o2nqyFwihsBWUKqPyNBZ+4qBfJeRG4G/sBx+0="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -11417,12 +11417,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cs_seo": {
-    "version": "9.2.0",
+    "version": "9.3.0",
     "t3_versions": [
       13
     ],
     "description": "SEO Extension: Enables important onpage features for search engine optimization (SEO). Expands",
-    "hash": "sha256-klOTnhZcYJp7dY0cGwbped5A0LvMUn2yVcIciLyU+dQ="
+    "hash": "sha256-/LGUiTZLM5bfDC9hIYMavuSfDs/N1Viv8lIot/4K1+E="
   },
   "cs_static_hide": {
     "version": "1.0.1",
@@ -16925,13 +16925,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "editor_widgets": {
-    "version": "2.1.6",
+    "version": "2.1.7",
     "t3_versions": [
       12,
       13
     ],
     "description": "Collection of useful dashboard widgets focused on editors",
-    "hash": "sha256-C7KA+gEep35rYJAd/70rDgheyfZLq6h7ohzghBSSfd0="
+    "hash": "sha256-NNgMfW2xyoYD1UFsLX0rLQfCqHiXdDpgvwQTpKG/Zwg="
   },
   "editors_choice": {
     "version": "2.1.0",
@@ -19496,12 +19496,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "femanager": {
-    "version": "8.2.1",
+    "version": "8.2.2",
     "t3_versions": [
       12
     ],
-    "description": "TYPO3 Frontend User Registration and Management based on",
-    "hash": "sha256-Vh05oTEk99CMa2RmWVv8XRUutoJe7gJrF+7bEiEiO5M="
+    "description": "TYPO3 Frontend User Registration and Management based on\r",
+    "hash": "sha256-K7EORMYKVHpPdzHKHd/cEjqPQCxoYcEHtE7GOF3bbP4="
   },
   "femanager_cleverreach": {
     "version": "3.0.0",
@@ -19721,13 +19721,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "feuserregistration": {
-    "version": "2.2.0",
+    "version": "2.4.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "This extension enables the easy registration of a frontend user using the double opt-in process (e.g., for newsletter sign-ups). Optionally, a notification can be sent to a centrally configured email address.",
-    "hash": "sha256-QSpERP3exBM/33yM8KQlm/okYTBF/HUy2cK+YVocTeI="
+    "hash": "sha256-8ALN5CRArkC0D+2a7I78imPVW3GcuIUInBtKwfDr9W0="
   },
   "feusers2xml": {
     "version": "0.0.1",
@@ -34139,13 +34139,13 @@
     "hash": "sha256-0tDAOtfg1EslEuiy1kyFnnX3AjviSb6a1aYP40IBNDQ="
   },
   "md_newsfrontend": {
-    "version": "5.0.0",
+    "version": "5.0.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "This extension enables frontend users to created news records in the frontend.",
-    "hash": "sha256-qBRZSNwgTfX4PFBOpZZRRSS834YpOPn3AqGC3VbYajs="
+    "hash": "sha256-Rufnm+YLosmMeCpBHdZQ66H7BBoCnesP8j463TDt6/c="
   },
   "md_notifications": {
     "version": "1.0.1",
@@ -34490,13 +34490,13 @@
     "hash": "sha256-82mXAmiJ4hic+hBTUO2nG9u+hxVzjEs5fj/o82tA0uE="
   },
   "mediapool": {
-    "version": "3.0.0",
+    "version": "4.0.1",
     "t3_versions": [
-      10,
-      11
+      11,
+      12
     ],
     "description": "Embed your favorite YouTube Videos and Playlists. Import description, title and more by just pasting the YouTube link.",
-    "hash": "sha256-0prIWTqNzOd8eUwJiuz0B0wI/VGunAYGsDABH6qITk8="
+    "hash": "sha256-45xQmmlDrDx6xBHxNO0sfw24rjJvZy+nkRHw8FnwdIY="
   },
   "mediasmile": {
     "version": "1.1.0",
@@ -47436,12 +47436,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "reint_downloadmanager": {
-    "version": "5.0.0",
+    "version": "5.0.1",
     "t3_versions": [
       13
     ],
     "description": "A simple download manager with different views of file collections as downloadable lists.",
-    "hash": "sha256-cujxBFRnXMZSijbs/XmK4m2KpU/Q/E+S0rC/8ORHxMg="
+    "hash": "sha256-G1ijTUC3RI0iwz+FHrocuCXKvpKzIbAzrbxPomKw1UQ="
   },
   "reint_file_timestamp": {
     "version": "4.0.0",
@@ -54767,12 +54767,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sr_email_subscribe": {
-    "version": "12.4.4",
+    "version": "12.5.0",
     "t3_versions": [
       12
     ],
     "description": "Email address subscription for TYPO3 CMS.",
-    "hash": "sha256-P0+dS6BxxvvUDmUPLwQjjfsj4SmmPVJyPVf21TKe5Us="
+    "hash": "sha256-7oLVxHTBH8NOSvQ87QU0x5ndM6BKHqi2Zf6IiBSYIT8="
   },
   "sr_feedit": {
     "version": "0.1.1",
@@ -54787,12 +54787,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sr_feuser_register": {
-    "version": "12.4.8",
+    "version": "12.5.0",
     "t3_versions": [
       12
     ],
     "description": "A self-registration variant of Kasper Skårhøj's Front End User Admin extension for TYPO3 CMS.",
-    "hash": "sha256-B2RRiXafrwofIbQ3qMuehJMqv1p9dFTXBKcvF2/ELc0="
+    "hash": "sha256-iWijCIxt2AvvG3tD1mUydZPzh70iseXzYaI0nlFEAJs="
   },
   "sr_freecap": {
     "version": "13.4.0",
@@ -58754,12 +58754,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "telephonedirectory": {
-    "version": "5.0.0",
+    "version": "6.0.0",
     "t3_versions": [
-      12
+      13
     ],
     "description": "Telephone Directory",
-    "hash": "sha256-MUDN5dVPFPqFsikE1n+SRyO+Zt4ssnc8sftoUujepgY="
+    "hash": "sha256-rbmTNx7XfRaNCahs3f85lyKgsWnG/ZQXo86tFaQrbwM="
   },
   "template_basics_doc": {
     "version": "0.0.3",
@@ -59737,13 +59737,13 @@
     "hash": "sha256-V7UlPSqLKD5kapOcSId6gQRbKlTuz/HlU1qUOwCeGlI="
   },
   "tile_proxy": {
-    "version": "1.3.4",
+    "version": "1.3.5",
     "t3_versions": [
       12,
       13
     ],
     "description": "Integrate OpenStreetMap without the need for a cookie banner or content blocker - that is the purpose of ext:tile_maps. All requests for map tiles are routed through a configurable proxy url within your TYPO3-system. Since the client browser does not directly requests the OpenStreetMap-server no user confirmation and no content blockers are necessary (GDPR compliant). A proxy is also provided for geocoding nominatim. For a certain area (as specified in the TYPO3-backend) the tiles are cached to improve performance.",
-    "hash": "sha256-+DLjlPuH6ucEDDtsdzqvQML0QZ8anp8qg2fPX6teew0="
+    "hash": "sha256-dr8nVRMKOXgkJ5Gb4VERRGyM6a5PRPBG3BDFQWVJSL8="
   },
   "timecollect": {
     "version": "0.0.1",
@@ -62988,12 +62988,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "uk_release_test": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "t3_versions": [
       12
     ],
-    "description": "Something",
-    "hash": "sha256-lt+NGwNHrspZXVyNmXvqMKj+wUvERribCOhrUP7ffyM="
+    "description": "This extension is only for testing the automatically release process for TYPO3 extensions.",
+    "hash": "sha256-K05D8gIT6Xml2vTylxA/yAROD+zDJmRn4EKnm3yBA/0="
   },
   "umami": {
     "version": "1.2.0",
@@ -64297,13 +64297,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "walls_io_proxy": {
-    "version": "7.0.0",
+    "version": "8.0.0",
     "t3_versions": [
-      11,
-      12
+      13
     ],
     "description": "Cache and Proxy for walls.io, so no Cookie will be set on Client",
-    "hash": "sha256-iM1zb6VUJMaSf/kBAMS/gJmRPCYAXh34cd/HNI7X37s="
+    "hash": "sha256-+DblC8ydsK9LQSUvL3eI1WGmkpLyILuhDLb/YIzkt18="
   },
   "warming": {
     "version": "3.3.5",
