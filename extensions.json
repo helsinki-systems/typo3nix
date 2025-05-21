@@ -3734,13 +3734,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.343.14",
+    "version": "3.343.15",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-12S2J3o2nqyFwihsBWUKqPyNBZ+4qBfJeRG4G/sBx+0="
+    "hash": "sha256-9g3bTDmuMNd1yo9p8Xn50V+xUKy4gQxGA+8ePjnn6Gc="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -11219,14 +11219,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "crowdin": {
-    "version": "3.0.1",
+    "version": "3.1.0",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "In-Context localization of XLF files handled by Crowdin directly in the backend.",
-    "hash": "sha256-NFfREPRvBL23g+DEfX55IN9/4xnMmlYqVpUu7UF82Kg="
+    "hash": "sha256-FnP3PCrWS4/xGkhbnqpRzduOkDoljmNNypJfmnlSmvk="
   },
   "crt_bodytext_variables": {
     "version": "1.0.2",
@@ -11993,13 +11993,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cute_mailing": {
-    "version": "4.1.2",
+    "version": "4.1.3",
     "t3_versions": [
       12,
       13
     ],
     "description": "A TYPO3 extension that makes mailing and newsletter sending cute. Send TYPO3 pages as emails (newsletter) to many recipients. Can be used as replacement for direct_mail.",
-    "hash": "sha256-bZ3ko0eschuMnh9a6Va0Q865TEZEKtg1bajunSilEIQ="
+    "hash": "sha256-H48igoK/qsS9jtsedJd/urL/Le/E6BbGZeg9NhDYhFA="
   },
   "cute_mailing_registeraddress": {
     "version": "2.2.0",
@@ -17967,10 +17967,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "examples": {
-    "version": "13.0.0",
-    "t3_versions": [],
+    "version": "13.1.1",
+    "t3_versions": [
+      13
+    ],
     "description": "This extension packages a number of code examples from the Core Documentation.",
-    "hash": "sha256-dZBhtO5jqWJKbIqo0Dg5qoVZNDzqeUPHqyuX5IUHnQw="
+    "hash": "sha256-w2DWQ0dQBdKlIoa/Rfnu69mBd2XuYAecBwpnyNPBtQg="
   },
   "excel": {
     "version": "0.0.1",
@@ -34490,13 +34492,12 @@
     "hash": "sha256-82mXAmiJ4hic+hBTUO2nG9u+hxVzjEs5fj/o82tA0uE="
   },
   "mediapool": {
-    "version": "4.0.1",
+    "version": "5.0.0",
     "t3_versions": [
-      11,
-      12
+      13
     ],
     "description": "Embed your favorite YouTube Videos and Playlists. Import description, title and more by just pasting the YouTube link.",
-    "hash": "sha256-45xQmmlDrDx6xBHxNO0sfw24rjJvZy+nkRHw8FnwdIY="
+    "hash": "sha256-1quHKVyzGsKzcCBhOUIL2dKDZPlH/RSgCT5oWSgg6JE="
   },
   "mediasmile": {
     "version": "1.1.0",
@@ -51825,13 +51826,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "shop": {
-    "version": "5.4.0",
+    "version": "5.4.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "Shop for TYPO3 incl. PayPal, PayPal-Checkout (formerly PayPal-Plus), Klarna, Stripe, Bookmarks, UPS-API, Invoice generation, backend module, compare feature, graduated prices and many more - note there is a Pro version as well! See https://www.coding.ms/typo3-extensions/typo3-shop",
-    "hash": "sha256-uV9EI8k9hPaKQ9VsOawDEmAVfb23GOvENUsK+IsIJqQ="
+    "hash": "sha256-dluA3jT7RxcIRk1PkDM63jTU6hRUAZzC1e3clnQPMLo="
   },
   "shop3ox": {
     "version": "0.0.3",
@@ -52559,12 +52560,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "siteconfiggitsync": {
-    "version": "2.0.0",
+    "version": "2.1.1",
     "t3_versions": [
       13
     ],
     "description": "This extension will push changes to the site config yaml files back to your GitLAB or GitHUB repository by creating a branch for the changes along with a merge-request. It is targeted towards automated CI/CD installations or sites in general where the site-config is git versioned. No local git binary or .git directory is needed. Requires EXT:siteconfigurationevents",
-    "hash": "sha256-ErVUN+0e32/9TK2GOXbuWvmN2UrCvNgg0cByChIKREU="
+    "hash": "sha256-pxcss82l6yakysIBS6AY6XiZy0wXZUGpdUs7QwV4I2g="
   },
   "siteconfigurationevents": {
     "version": "2.0.0",
@@ -58359,7 +58360,7 @@
   "taskqueue": {
     "version": "9.2.0",
     "t3_versions": [
-      12
+      13
     ],
     "description": "Provides a task queue for other extensions to use.",
     "hash": "sha256-6ceJpQJmUI8BmRQqwpVU564K79ouknPSiBKND9SO5bU="
@@ -65764,12 +65765,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ws_scss": {
-    "version": "13.1.3",
+    "version": "13.1.4",
     "t3_versions": [
       13
     ],
     "description": "Compiles scss files to CSS files.",
-    "hash": "sha256-d2sORESHypSVeTQaBOJsd0snOZtxspdCshth+1QOSs0="
+    "hash": "sha256-u1bCUn18LVEH2aXkbeagpaqL+u+qyJuxD/L2QaQwsco="
   },
   "ws_sitemap": {
     "version": "0.4.8",
