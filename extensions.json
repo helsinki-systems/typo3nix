@@ -1140,13 +1140,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "additional_tca": {
-    "version": "1.16.10",
+    "version": "1.17.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Additional TCA fields and tools",
-    "hash": "sha256-NXprF4lHuRC6lnDmP/W+x2ty8HtOvaX468qRRvxHunU="
+    "hash": "sha256-Y2AMEsGPzO7Bh9miXnDZXSKEP/CDINzUhARDTTbi7UE="
   },
   "addlinkheader": {
     "version": "0.0.4",
@@ -3264,12 +3264,12 @@
     "hash": "sha256-R94LU/v4Udz6QIaHTFvp8k96cOSEEztZyzsMv2dZAeU="
   },
   "auth0": {
-    "version": "13.0.1",
+    "version": "13.0.2",
     "t3_versions": [
       13
     ],
     "description": "This extension allows you to log into a TYPO3 backend via Auth0. Auth0 is the solution you need for web, mobile, IoT, and internal applications. Loved by developers and trusted by enterprises.",
-    "hash": "sha256-bhZAhOGqEcFZrr+mQfHfMHM6dnxkAg25Do1k49BELZA="
+    "hash": "sha256-7LRYxhSO8TF9G6oqiBgV1to6GNJc7nY37Llu+88XUCU="
   },
   "auth0_sso": {
     "version": "2.0.1",
@@ -3734,13 +3734,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.343.15",
+    "version": "3.343.16",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-9g3bTDmuMNd1yo9p8Xn50V+xUKy4gQxGA+8ePjnn6Gc="
+    "hash": "sha256-cOykZlws64LIWf3eCqTaC7AAx6i9fZ6Z3H2Fz4P8ZFs="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -21813,6 +21813,15 @@
     "description": "4T3 SEO provides an interface to the \"SEO Browser\" iOS app.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "forum": {
+    "version": "2.0.0",
+    "t3_versions": [
+      12,
+      13
+    ],
+    "description": "A simple forum for TYPO3 (tt_board)",
+    "hash": "sha256-/jO/fCRp2rVyNmGzia3w2hEKPypt4HtTKtqYFhiaG+k="
+  },
   "fotoblog_sitepackage": {
     "version": "10.4.0",
     "t3_versions": [
@@ -21874,12 +21883,12 @@
     "hash": "sha256-EOIEI20VeTGVo7i0CCEmaGMpTpTBBnRuI0sNRmFbQy0="
   },
   "fp_newsletter": {
-    "version": "8.2.1",
+    "version": "9.0.0",
     "t3_versions": [
       13
     ],
     "description": "Plugin for newsletter subscription and unsubscription with double opt in (and double opt out). For: mail or luxletter / tt_address or fe_users. A log is written.",
-    "hash": "sha256-gRiyYF5HhBvUXKgCzARKQklLlCLL2M8ZEn9qPl6shMk="
+    "hash": "sha256-iAtRFahkGWw1J0osNw4z6QEbCE5BtR5degfvwFSGANE="
   },
   "fp_product_features": {
     "version": "0.2.0",
@@ -28837,12 +28846,13 @@
     "hash": "sha256-n8G/Ydlv85KOgDP8dn8cSX1WRYti4uXb/6Dg7Kv+eC8="
   },
   "jobrouter_process": {
-    "version": "4.0.0",
+    "version": "4.0.1",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "Connect JobRouter® processes with TYPO3",
-    "hash": "sha256-2Jj7CjU81EB6+5JeE86b7+ZSRXzZHwB6IManTJxFEKA="
+    "hash": "sha256-2+CcnEcEWDHyR/haYchbG8j+TsGjMHOY4Quzrpw3tAI="
   },
   "jobrouter_rss_widgets": {
     "version": "1.4.0",
@@ -31550,13 +31560,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "lespf_calendar": {
-    "version": "0.8.1",
+    "version": "0.9.0",
     "t3_versions": [
       11,
-      12
+      12,
+      13
     ],
     "description": "Calendar widget with holidays",
-    "hash": "sha256-Am5srLZWHW9h9Ky+KXnDowe7RtwOxwTWY6/FiZKq/KE="
+    "hash": "sha256-BgGcVG6NXsUuh9H7m+lyOyN6+C9EzZcvHSLAMQupUI4="
   },
   "less": {
     "version": "0.2.2",
@@ -34492,12 +34503,12 @@
     "hash": "sha256-82mXAmiJ4hic+hBTUO2nG9u+hxVzjEs5fj/o82tA0uE="
   },
   "mediapool": {
-    "version": "5.0.0",
+    "version": "5.0.1",
     "t3_versions": [
       13
     ],
     "description": "Embed your favorite YouTube Videos and Playlists. Import description, title and more by just pasting the YouTube link.",
-    "hash": "sha256-1quHKVyzGsKzcCBhOUIL2dKDZPlH/RSgCT5oWSgg6JE="
+    "hash": "sha256-l29zeGkkqOLPOchrfYPb5PChN/kfdIidk2NWO1vY1qQ="
   },
   "mediasmile": {
     "version": "1.1.0",
@@ -39119,13 +39130,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "news_seo": {
-    "version": "1.0.1",
+    "version": "2.2.3",
     "t3_versions": [
-      10,
-      11
+      12,
+      13
     ],
-    "description": "Indivdual indexing/robot information for each news article record",
-    "hash": "sha256-TWgwqa7Gbjb3aFUSizwIsQ8EWj47zdp4aV1YPbSqx2o="
+    "description": "Individual indexing/robot information for each news article record",
+    "hash": "sha256-L655v29Xg91wchuRegkUefsXytR3wzzutlXN767r06E="
   },
   "news_sponsor": {
     "version": "0.4.0",
@@ -54788,12 +54799,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sr_feuser_register": {
-    "version": "12.5.0",
+    "version": "12.5.1",
     "t3_versions": [
       12
     ],
     "description": "A self-registration variant of Kasper Skårhøj's Front End User Admin extension for TYPO3 CMS.",
-    "hash": "sha256-iWijCIxt2AvvG3tD1mUydZPzh70iseXzYaI0nlFEAJs="
+    "hash": "sha256-hhhoNCnuBkUOO/J73W2SJL4cW4qcFCVfQk7VVU0L0Gk="
   },
   "sr_freecap": {
     "version": "13.4.0",
@@ -62797,6 +62808,16 @@
     "t3_versions": [],
     "description": "Typo3 Last Test",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "typo3_letter_avatar": {
+    "version": "1.0.1",
+    "t3_versions": [
+      11,
+      12,
+      13
+    ],
+    "description": "This TYPO3 extension generates colorful backend user avatars using name initials letter.",
+    "hash": "sha256-X+M95W61qrOca855kJbU7FKAbXgL7C7+r/33a4IJTuU="
   },
   "typo3_maileon_integration": {
     "version": "3.2.1",
