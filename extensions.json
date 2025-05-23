@@ -3734,13 +3734,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.343.16",
+    "version": "3.343.17",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-cOykZlws64LIWf3eCqTaC7AAx6i9fZ6Z3H2Fz4P8ZFs="
+    "hash": "sha256-XctSC4+ic3eD2B8zBv1nEvjLco/ilB9akiomIL2o2X0="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -6992,13 +6992,13 @@
     "hash": "sha256-lkYqm6ugvA1uc6PQGnaNlZvKXdCvH9of8bcPn1gDZbs="
   },
   "calendarize_address": {
-    "version": "6.0.0",
+    "version": "7.1.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Extends EXT:calendarize events with location and organizer records based on EXT:tt_address records and provides corresponding location and organizer views.",
-    "hash": "sha256-DOb0LNJhkn9HpP65Lh21b0rHrDI25Z3BdkCXKcx4S1o="
+    "hash": "sha256-L9jeljLS6cKhsiBTDLhhiEZJl++xXpv4SU5qmGtJpeU="
   },
   "calendarize_content": {
     "version": "1.0.2",
@@ -10572,12 +10572,12 @@
     "hash": "sha256-RbhGP0thpWqFqC/65d/8Ty8ALDK1PXbNl+L6pSPBbOM="
   },
   "cookieman": {
-    "version": "3.1.0",
+    "version": "3.1.1",
     "t3_versions": [
       13
     ],
     "description": "Provides a user consent popup. It asks for approval to include tracking objects (cookies, images or any HTML) and includes the objects when consented. It also removes cookies after the consent has been revoked.",
-    "hash": "sha256-+UWydEGAcYrBwHO17A8w5QNqfSB7P9bMruWERkhb2xs="
+    "hash": "sha256-VRZb+kuyWLwPX9jJCScqUbiMk052e4ngx2SOdIJc1BY="
   },
   "cookiepro": {
     "version": "1.0.3",
@@ -10987,13 +10987,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "crawler": {
-    "version": "12.0.7",
+    "version": "12.0.8",
     "t3_versions": [
       12,
       13
     ],
     "description": "Libraries and scripts for crawling the TYPO3 page tree.",
-    "hash": "sha256-9GacdXQW55b4UizLJbOYvGPJINnERQtJa3DfbgKn8bI="
+    "hash": "sha256-ZDCJvoLsLxuvOOAY9tIBVeyGJk0NOcn4YaoNGrDOBIM="
   },
   "createarp": {
     "version": "0.4.0",
@@ -22826,13 +22826,13 @@
     "hash": "sha256-v+CiJDvqHsSTrWl12GMt+rQTQCAIvPJ5yULk6ARfLW8="
   },
   "geo_redirect": {
-    "version": "1.0.3",
+    "version": "1.0.5",
     "t3_versions": [
       11,
       12
     ],
     "description": "Redirect users based on browser language and ip country to the right language version of the website",
-    "hash": "sha256-DypsPhl4ZdgxuP8KgsIc7lgX7lEyTRvkBzAZKgPL2dI="
+    "hash": "sha256-H9LSukIN+tSTOnW3w9sgsujwt+Tn7CpdD/Fvs4dDt8o="
   },
   "geocoding": {
     "version": "4.2.0",
@@ -23960,6 +23960,15 @@
     ],
     "description": "EXT:gridtocontainer is a small migration extension with backend module for those who want to switch from EXT:gridelements to EXT:container.",
     "hash": "sha256-8Tsc6yR4Kh/XcbOgLwZhsrC9xwIBITTbpJjGU+MXI94="
+  },
+  "group_access": {
+    "version": "1.0.6",
+    "t3_versions": [
+      12,
+      13
+    ],
+    "description": "Allows to limit extbase actions ba frontend user group",
+    "hash": "sha256-SJ+EZ1mxP6rbmmopx+wMX8++JAdYACXnKiRujYYQGg8="
   },
   "group_mngr": {
     "version": "0.1.0",
@@ -26772,12 +26781,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "in2studyfinder": {
-    "version": "11.0.1",
+    "version": "12.0.2",
     "t3_versions": [
       12
     ],
     "description": "List of master's and bachelor's degree programs for colleges and universities",
-    "hash": "sha256-5clzAonX7xq3MzTyLikY54bBKjEviWPiNoD9BlClsuM="
+    "hash": "sha256-5Rr9ZtaKOjVCqW/BlkU0EF0KjbuFr2avW58lTx0lemE="
   },
   "in_gallery_flickr": {
     "version": "2.0.12",
@@ -40230,7 +40239,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ns_cookieyes": {
-    "version": "1.0.1",
+    "version": "2.0.0",
     "t3_versions": [
       6,
       7,
@@ -40238,10 +40247,11 @@
       9,
       10,
       11,
-      12
+      12,
+      13
     ],
     "description": "Implement GDPR/EPR Compliant at your TYPO3 website with our TYPO3 Cookiyes Extension. Ensuring Data & Cookie Protection on your website with ns_cookiyes extension.",
-    "hash": "sha256-suSjOla2+RnkZqTCiS7B1iwM14elba2rxqfARJZRdiI="
+    "hash": "sha256-hv9Fj0rZX4hLrYgNYYg4D9yH8V0IiVrWX0CZkaYD0y8="
   },
   "ns_disqus_comments": {
     "version": "13.0.0",
@@ -43687,13 +43697,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "pdfviewhelpers": {
-    "version": "3.1.0",
+    "version": "3.1.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "Provides various Fluid ViewHelpers to create PDF documents. Under the hood pdfviewhelpers uses TCPDF and FPDI.",
-    "hash": "sha256-vxkE6VKw/X4SC96p8SfpRjPReUbRDxgtFid5VNc6gF8="
+    "hash": "sha256-AhZvBxHtt/fduHgZOTcNLPG2M5ln1mZ7KyucMNuCeBU="
   },
   "pdmt3": {
     "version": "0.1.0",
@@ -46133,12 +46143,12 @@
     "hash": "sha256-bJ7OKXnBLUFC95JigPESPpnaYEfqCmJONG44zRVu9u8="
   },
   "pw_comments": {
-    "version": "6.0.0",
+    "version": "6.0.1",
     "t3_versions": [
       12
     ],
     "description": "Powerful extension for providing comments, including replies on comments and voting.",
-    "hash": "sha256-zGhw4CzSt5IoYGBasjniqkBfjZtQnJZvvfj2Cw8es4E="
+    "hash": "sha256-z+aQ4sQClI6XqZ150aWfzZPCexRJVUV0sdkmrhtaP0k="
   },
   "pw_highslide_gallery": {
     "version": "0.3.1",
@@ -46929,6 +46939,14 @@
     "t3_versions": [],
     "description": "Integrate remote content via http get",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "rd_faq": {
+    "version": "1.0.0",
+    "t3_versions": [
+      13
+    ],
+    "description": "This FAQ Extension allow to manage and Display questions and answers easily in the frontend. ",
+    "hash": "sha256-OF9wyOK3rNWW/z5VYMhl+OZ04bn4QDGiENHgYwfi26w="
   },
   "rdct": {
     "version": "3.0.0",
@@ -51044,13 +51062,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "server_timing": {
-    "version": "1.11.4",
+    "version": "1.12.2",
     "t3_versions": [
       11,
-      12
+      12,
+      13
     ],
     "description": "Show timings of Database and HTTP Calls (send them to Sentry)",
-    "hash": "sha256-v5KsMdUC0s5ruktj2nLIcA9Tqp8PryiBCp/jYFATYxY="
+    "hash": "sha256-YsbvL7t6AiXCaxNrsfjEoXVZNyGDF1sxZEvZg1PkNmk="
   },
   "service_bw2": {
     "version": "7.0.0",
@@ -51423,7 +51442,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sg_cookie_optin": {
-    "version": "6.0.7",
+    "version": "6.0.9",
     "t3_versions": [
       9,
       10,
@@ -51432,7 +51451,7 @@
       13
     ],
     "description": "",
-    "hash": "sha256-XET1an2dz9HVn4807IRSK3Zv+PMwO92oxposFYOVv84="
+    "hash": "sha256-SUiVg2D3vdMMd5SkRzvNaFwVQMhbDrIrNHGaJ1p3jl0="
   },
   "sg_cropscale": {
     "version": "0.5.0",
@@ -55010,13 +55029,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ssi_include": {
-    "version": "1.0.2",
+    "version": "2.1.4",
     "t3_versions": [
       10,
       11
     ],
     "description": "Allows to periodically create ssi includes from anders und sehr GmbH",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-7uDUNIkKIUU/oC8UuNF2/9j7QtYd6MTfHNbkSJGQYfQ="
   },
   "ssl_certificate": {
     "version": "1.0.2",
@@ -55394,31 +55413,31 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "static_info_tables_da": {
-    "version": "11.5.3",
+    "version": "12.4.0",
     "t3_versions": [
-      11,
-      12
+      12,
+      13
     ],
     "description": "Danish (da) language pack for the Static Info Tables providing localized names for countries, currencies and so on.",
-    "hash": "sha256-XkMjLJP/kHLzxvBNOlBmiwssEhq8tC+CzWpPEUHUSTs="
+    "hash": "sha256-YerpT8puqxfq8n3zYi5nY23bLrOProa1jeAaQyIQWWc="
   },
   "static_info_tables_de": {
-    "version": "11.5.4",
+    "version": "12.4.0",
     "t3_versions": [
-      11,
-      12
+      12,
+      13
     ],
     "description": "German (de) language pack for the Static Info Tables providing localized names for countries, currencies and so on.",
-    "hash": "sha256-mJ85v/cJDhjBQAMhEdsOJiJ2YquthtEuO3CkxR9pBi4="
+    "hash": "sha256-tZBb2ljhKze/KALrOIYF9/NtP8Jkc2qgKfmcA3qe/ek="
   },
   "static_info_tables_es": {
-    "version": "11.5.4",
+    "version": "12.4.0",
     "t3_versions": [
-      11,
-      12
+      12,
+      13
     ],
     "description": "Spanish (es) language pack for the Static Info Tables providing localized names for countries, currencies and so on.",
-    "hash": "sha256-nNsBHjEelPMv94DhWVgFXB7rZF7p7AWdqcOgjPSinHk="
+    "hash": "sha256-S0H8UFIBq1DsPBOvA2mzpeCcrGFbZC3xsyPrK2AAZM0="
   },
   "static_info_tables_extbase": {
     "version": "1.2.0",
@@ -55508,13 +55527,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "static_info_tables_it": {
-    "version": "11.5.3",
+    "version": "12.4.0",
     "t3_versions": [
-      11,
-      12
+      12,
+      13
     ],
     "description": "Italian (it) language pack for the Static Info Tables providing localized names for countries, currencies and so on.",
-    "hash": "sha256-ovf5ymG3MqhEW6E3x7AbI3pSPwLrhV/UfBxvZjWeiIk="
+    "hash": "sha256-WAFeCz20t/VdRIYh+jXQpbnCiF0MTE+eXAvtQ6MAcHQ="
   },
   "static_info_tables_it_621": {
     "version": "6.2.1",
