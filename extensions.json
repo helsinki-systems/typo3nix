@@ -1636,12 +1636,12 @@
     "hash": "sha256-VjFx9kagkYZ+UP502oKGTs64zlOsNZ0JCvSkQosql58="
   },
   "ai_suite": {
-    "version": "13.5.0",
+    "version": "13.5.1",
     "t3_versions": [
       13
     ],
     "description": "The AI Suite optimizes the workflow of project managers, agencies and freelancers by using the latest AI technologies. It seamlessly integrates a wide variety of AI interfaces and the AI Suite open source models into the TYPO3 backend. Enables, among other things, more efficient creation and management of image and page metadata (individually and as batch processing), content translations (including \"Easy Language\"), content creation and modification, image generation and page structure generation.",
-    "hash": "sha256-zaR7re2VyNijtGtPTqE17ohGwhjgRVP16wwBfoynI2g="
+    "hash": "sha256-kwRgsudMHPEKYPC+EhjcQML5eVqtwXoBfNKerT+YKJU="
   },
   "ai_tools": {
     "version": "1.1.0",
@@ -3734,13 +3734,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.343.17",
+    "version": "3.343.18",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-XctSC4+ic3eD2B8zBv1nEvjLco/ilB9akiomIL2o2X0="
+    "hash": "sha256-efospqOU+rE8SXfjGVRZP9f9jyEypq0sd5IEZ4qY+ms="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -23148,12 +23148,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "gkh_rss_import": {
-    "version": "10.0.1",
+    "version": "11.0.0",
     "t3_versions": [
-      12
+      13
     ],
     "description": "Fetch an RSS / Atom Feed and display its content on the Frontend.",
-    "hash": "sha256-2VNcKAIhu9JKfElNqtYZiKyQ8BBcEcGi1ebMmlxSIFM="
+    "hash": "sha256-Hmpc5C3Y6quwCzIUXArLbu2PCXJ2lguYs0ytTtHWW5M="
   },
   "gl_be_templates": {
     "version": "0.1.0",
@@ -32176,12 +32176,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "lock_element": {
-    "version": "5.0.0",
+    "version": "6.0.0",
     "t3_versions": [
-      12
+      13
     ],
     "description": "A locked element can't be deleted.",
-    "hash": "sha256-2ZdpxU1EdwLGJY1zijXauY0/1ICbip7p67UlNO7en94="
+    "hash": "sha256-xKvKXfLzjM0BTI6+i+uPADH8cbL9Ak+QsJbz7F4cTkA="
   },
   "lock_ts": {
     "version": "3.0.0",
