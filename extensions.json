@@ -63805,12 +63805,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "videos": {
-    "version": "13.1.0",
+    "version": "13.1.1",
     "t3_versions": [
       13
     ],
     "description": "Extends video file properties and provides a player for playlists, cue points and subtitles",
-    "hash": "sha256-6XNqpcORIx42bOEZFYNltZl4vKxv51K9gqNSeXAAxtY="
+    "hash": "sha256-SIQVC+fXE7BUzyQmgun05mLbHCSuja6CBQdQSy7HVwo="
   },
   "videoswitcher": {
     "version": "0.0.4",
@@ -66600,14 +66600,14 @@
     "hash": "sha256-Y2Ws2E/6Ehuong0TboFIm3LFsnKPO5YONx0G97JDRfU="
   },
   "xima_typo3_frontend_edit": {
-    "version": "1.5.2",
+    "version": "1.6.0",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "This extension provides an edit button for editors within frontend content elements.",
-    "hash": "sha256-ppkKFYFhzLE1HX8p7uVyKRtCtK9BXr43VULn88DNDWw="
+    "hash": "sha256-aKWpDn4Uhp57Cc1E5+NCLjnJ3EYpOdOTh+2Al3Nutvw="
   },
   "xima_typo3_internal_news": {
     "version": "1.0.0",
