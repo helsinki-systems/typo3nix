@@ -10093,12 +10093,12 @@
     "hash": "sha256-AfToijkanNxy5yWgP7Vdw03r4FjS4ylg2fCf0SLYwKU="
   },
   "content_blocks": {
-    "version": "1.2.3",
+    "version": "1.3.1",
     "t3_versions": [
       13
     ],
     "description": "TYPO3 CMS Content Blocks - Content Types API | Define reusable components via YAML",
-    "hash": "sha256-xG/iTVD1d72LwGXLGVZRQDORFJRmmNCI+LlJp5VKlFI="
+    "hash": "sha256-8/QHXjO2vkUfAleJSeY5qfL3HbBKBD6nWn6PsezZ4pA="
   },
   "content_consent": {
     "version": "3.0.3",
@@ -19971,12 +19971,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "filecollection_gallery": {
-    "version": "13.0.4",
+    "version": "13.0.5",
     "t3_versions": [
       13
     ],
     "description": "Simple FileCollection Gallery with mobile and desktop view",
-    "hash": "sha256-L16ODwgOXS2M/eyGD8I8qXocFQNN+r7bhVluHQQvzgo="
+    "hash": "sha256-AxL1UT/R6WUStb6nEwBL8YBf9zluGdkjt4F8LMveuLc="
   },
   "filecollector": {
     "version": "1.1.0",
@@ -42908,13 +42908,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "parsedown_extra": {
-    "version": "4.0.2",
+    "version": "4.1.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Provides a content element which displays markdown files. Parses email links with TYPO3 encryption. ViewHelper for parsing Markdown from individual sources. Defining abbreviations globally by using TypoScript. Code Highlighting.",
-    "hash": "sha256-XFp/N8IZz+JckOS7pUvNNr/TflQVfxrvztV042PpbM0="
+    "hash": "sha256-OwSuxvCsVq4lbuWD++CoCd4JvJXc9Iugs3xAM7LwQYg="
   },
   "partner": {
     "version": "0.5.21",
