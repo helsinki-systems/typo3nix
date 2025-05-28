@@ -3734,13 +3734,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.343.18",
+    "version": "3.343.19",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-efospqOU+rE8SXfjGVRZP9f9jyEypq0sd5IEZ4qY+ms="
+    "hash": "sha256-kagYVey2rq2i1zeFC62ZFlE03tuRh1S7AQMkZpH9Y50="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -10093,12 +10093,12 @@
     "hash": "sha256-AfToijkanNxy5yWgP7Vdw03r4FjS4ylg2fCf0SLYwKU="
   },
   "content_blocks": {
-    "version": "1.3.2",
+    "version": "1.3.3",
     "t3_versions": [
       13
     ],
     "description": "TYPO3 CMS Content Blocks - Content Types API | Define reusable components via YAML",
-    "hash": "sha256-MwppbdHs6J8nggP9/vL4z2Ozq8SONbtuswCCdP0uFmA="
+    "hash": "sha256-eJ5cTjVeihtOpqrltM0wX8slOcY8o4aCTFZkEqn22pA="
   },
   "content_consent": {
     "version": "3.0.3",
@@ -23306,13 +23306,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "glossaries": {
-    "version": "4.0.4",
+    "version": "4.0.5",
     "t3_versions": [
       11,
       12
     ],
     "description": "Extension for displaying and managing your website glossar. Includes a backend module, statistics, extended authorizations and much more.f",
-    "hash": "sha256-hHtgz0hqdHyvqdGnZG8opsqQOdNlKfic3qsz9LhB4QU="
+    "hash": "sha256-M/+5Bs5+YsHVbgp8ouyIQhiLrSdDGxH6ka1gcFzpYpU="
   },
   "glossarify": {
     "version": "0.0.1",
@@ -43010,12 +43010,12 @@
     "hash": "sha256-dK23R8XTb6dKZYD3tF7BDty0/ecpVtBukQ9OoONP77Y="
   },
   "patch10011": {
-    "version": "0.6.0",
+    "version": "0.7.0",
     "t3_versions": [
-      12
+      13
     ],
     "description": "TypoScript condition which will only be executed if a named extension has been installed in a given version number. Add parameters and a return value comparison to userFunc. TYPO3 core patch #10011.",
-    "hash": "sha256-DMC3q3KWQiyuJZZPSTvouzkSYzJA3J+v4GEBdxBsLTs="
+    "hash": "sha256-+5pHyn+1ngGNttuD4OVUpT/80VsyN0uvRqkq3PUMfq8="
   },
   "patch1822": {
     "version": "0.0.10",
@@ -45079,13 +45079,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "portfolios": {
-    "version": "4.1.6",
+    "version": "4.1.7",
     "t3_versions": [
       11,
       12
     ],
-    "description": "Extension for displaying portfolios and references",
-    "hash": "sha256-+hIjzi7Gm9bWH8xJ8CmPDZcCcYkLpwnbvDyphLLsg4E="
+    "description": "Extension for displaying portfolios and references, with Bookmarks, Isotope, PDF-Generator and more - note there is a Pro version as well! See https://www.coding.ms/typo3-extensions/typo3-portfolios",
+    "hash": "sha256-Pf3/TD0sPEk+zWcEvpxBSg8yV0l99VoYE31zax/8C78="
   },
   "porto": {
     "version": "0.9.3",
