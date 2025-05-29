@@ -3734,13 +3734,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.343.19",
+    "version": "3.343.20",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-kagYVey2rq2i1zeFC62ZFlE03tuRh1S7AQMkZpH9Y50="
+    "hash": "sha256-Y/l1YP63sAUvqwEdI5kNOi/QM60K/VrK6jelueczSpQ="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -15859,13 +15859,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "dpn_glossary": {
-    "version": "6.0.0",
+    "version": "6.1.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Glossary extension with page parser",
-    "hash": "sha256-cgRzyTn/P5yiVY15PTKotMtivQAi62TszI6wLhlHuIE="
+    "hash": "sha256-im7q3BaGDz7zoTJdhJkHl8oYvpP8grQir/u+fsmX150="
   },
   "dr_blob": {
     "version": "2.3.2",
@@ -16098,12 +16098,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "dropbox": {
-    "version": "6.0.0",
+    "version": "6.1.0",
     "t3_versions": [
       13
     ],
     "description": "Provides a Dropbox driver for TYPO3 File Abstraction Layer.",
-    "hash": "sha256-ZAEZZsgEUQaaSfYgPf/K5iuwnkatPG+/AF74MVJ5238="
+    "hash": "sha256-ARCnEqdP4H1oJSKx0qRfbIYPzNccNAaVPYTv3Ex4Gfk="
   },
   "dropbox_sync": {
     "version": "0.9.5",
@@ -41633,13 +41633,13 @@
     "hash": "sha256-2dkIKHdrs7qaxD8kdQOHIrHL9d9aT7kkgxUoozxhrTA="
   },
   "ok_exchange365_mailer": {
-    "version": "4.0.1",
+    "version": "4.0.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "A TYPO3 extension for sending emails using Exchange 365 and Microsoft Graph API",
-    "hash": "sha256-bV6FE1NvQHS1LeB/fynhaQGzlTpLXBO9TpaQ4a7PXDY="
+    "hash": "sha256-74gn+TM/oV+4q+dRFTiy0VvFmVbuKutkDL6jGoCDiRY="
   },
   "ok_typo3_helper": {
     "version": "3.0.2",
@@ -46151,12 +46151,12 @@
     "hash": "sha256-bJ7OKXnBLUFC95JigPESPpnaYEfqCmJONG44zRVu9u8="
   },
   "pw_comments": {
-    "version": "6.0.1",
+    "version": "6.0.2",
     "t3_versions": [
       12
     ],
     "description": "Powerful extension for providing comments, including replies on comments and voting.",
-    "hash": "sha256-z+aQ4sQClI6XqZ150aWfzZPCexRJVUV0sdkmrhtaP0k="
+    "hash": "sha256-SfC5gg9VVOd+STuNMt460HVHg/plHZKxJghf6opMuwI="
   },
   "pw_highslide_gallery": {
     "version": "0.3.1",
@@ -46949,12 +46949,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "rd_faq": {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "t3_versions": [
       13
     ],
     "description": "This FAQ Extension allow to manage and Display questions and answers easily in the frontend. ",
-    "hash": "sha256-OF9wyOK3rNWW/z5VYMhl+OZ04bn4QDGiENHgYwfi26w="
+    "hash": "sha256-/uhrXC9i7AJoNnaXs2rrVA1TRuEMRt/PoQlucDNbxc0="
   },
   "rdct": {
     "version": "3.0.0",
@@ -51864,13 +51864,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "shop": {
-    "version": "5.4.2",
+    "version": "5.4.3",
     "t3_versions": [
       12,
       13
     ],
     "description": "Shop for TYPO3 incl. PayPal, PayPal-Checkout (formerly PayPal-Plus), Klarna, Stripe, Bookmarks, UPS-API, Invoice generation, backend module, compare feature, graduated prices and many more - note there is a Pro version as well! See https://www.coding.ms/typo3-extensions/typo3-shop",
-    "hash": "sha256-FV5EuypKRZtXSkp7fPAvYhcA2zKUPiG39da89E9dV04="
+    "hash": "sha256-yEVi0Ql1xnB481og3D6YkFokVQSJqdzYOeTekon3Mic="
   },
   "shop3ox": {
     "version": "0.0.3",
