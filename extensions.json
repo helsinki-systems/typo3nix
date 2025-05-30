@@ -3734,13 +3734,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.343.20",
+    "version": "3.343.21",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-Y/l1YP63sAUvqwEdI5kNOi/QM60K/VrK6jelueczSpQ="
+    "hash": "sha256-cq/50dCGJQbliucXdUDMyfJWn+3LWWRVna6L0TK7pr8="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -20670,13 +20670,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fluid_fpdf": {
-    "version": "2.7.6",
+    "version": "2.7.7",
     "t3_versions": [
       12,
       13
     ],
     "description": "This extension provides you a complete set of ViewHelpers for dealing with FPDF by using Fluid. You can use the ViewHelpers easily in own Extensions just by defining the fpdf-Namespace. Additionally you are able to use the build in plugin, for displaying predefined PDF. This plugin offers you automatically all available PDFs.",
-    "hash": "sha256-dj+tAy5YzspY0QUZYjFLwmkss+1cmIUh3edxil2/l2g="
+    "hash": "sha256-cjGRISMdPNfz/T0KhM4cKGfoWWwoT1AeTfWgBV9isJ4="
   },
   "fluid_info": {
     "version": "0.1.0",
@@ -33692,12 +33692,12 @@
     "hash": "sha256-gLdERazh8HCRvOJyBPlsC+uBtJe3OD0fw2pdG4gqx+Q="
   },
   "mask_to_content_blocks": {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "t3_versions": [
       13
     ],
     "description": "One command to migrate Mask elements to Content Blocks",
-    "hash": "sha256-MkGOBFMsY30AgA1ypQQ8upsuMEKjB83lJbY+4YMC090="
+    "hash": "sha256-JhYpAirjg/BvUOvbRgId4DNffWp0jL53GrqwBRwdOjE="
   },
   "massquotes": {
     "version": "0.1.0",
@@ -35463,6 +35463,14 @@
     "description": "Extends TYPO3's compressor for JS and CSS with minifier. This may save you up to 70% of default compressed file size. Also compresses HTML output of TYPO3. Full composer support.",
     "hash": "sha256-x4virbFaVbxGtPRqPo/kBp/VT+izVhug/PPoMt+R20c="
   },
+  "mindfula11y": {
+    "version": "0.1.0",
+    "t3_versions": [
+      13
+    ],
+    "description": "TYPO3 extension with backend tools to help you create accessible content. Includes management of heading structure, finding missing alternative text for images and alternative text generation using ChatGPT. More features to come.",
+    "hash": "sha256-V/sl7bxADKMCOQNWlUyUwsGnwbP1zugKJyCA9+7mzWA="
+  },
   "mindmap_import": {
     "version": "0.0.2",
     "t3_versions": [
@@ -35918,13 +35926,13 @@
     "hash": "sha256-phRL0foWA1dZnNn7md29fWHqxnBhyYIrWqGysoS95EY="
   },
   "mksearch": {
-    "version": "12.0.10",
+    "version": "12.0.11",
     "t3_versions": [
       11,
       12
     ],
     "description": "Generic highly adjustable and extendable search engine framework, using Zend Lucene, Apache Solr or ElasticSearch. But support for other search engines can be provided easily.",
-    "hash": "sha256-biRgrj3KeOMXw7DkiN7mR8rSFB+RuIzv9hOg0N/NWYU="
+    "hash": "sha256-6G/xEYNxes6DX5wKpAvuwvR4yP9YOrMMwuTT36Z52lk="
   },
   "mktools": {
     "version": "12.0.2",
@@ -38285,13 +38293,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "nagios": {
-    "version": "4.1.0",
+    "version": "5.0.0",
     "t3_versions": [
-      11,
-      12
+      13
     ],
     "description": "Monitors TYPO3 instances and warns about insecure extensions, old TYPO3 versions,",
-    "hash": "sha256-q3C4zlNeNrMgtUhgzzGls1K8JhaS1gAxeGyfP5701g8="
+    "hash": "sha256-c5qt7ItcuGJEnaGQHgLV8NeNHkuQPFWfVu25zqf1LsY="
   },
   "namespaces": {
     "version": "1.0.0",
@@ -47267,13 +47274,13 @@
     "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
   },
   "recordmodules": {
-    "version": "1.0.7",
+    "version": "1.1.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Adds backend modules for configured record types.",
-    "hash": "sha256-f+QnnfaZRxm+xKP+tF3AApE0tSZ3cwS2rR64B2n3pvM="
+    "hash": "sha256-BHiQXw1J/xCKdgAYAZFi1VkvlETNNNQEmi0x9D76aTs="
   },
   "recordsmanager": {
     "version": "1.6.9",
@@ -51194,12 +51201,12 @@
     "hash": "sha256-/r5QtxBPyy7fk2HDRAxvBYt9RtyQI1Zf4XEYkPUxxYE="
   },
   "sf_event_mgt": {
-    "version": "8.1.1",
+    "version": "8.2.0",
     "t3_versions": [
       13
     ],
     "description": "Configurable event management and registration extension based on ExtBase and Fluid",
-    "hash": "sha256-gv9iKIgL65/r8UUGXl8Xud1PkyxBrs/tFgp8l+ngCcY="
+    "hash": "sha256-HMx3g5mshT5JVWWg0dmzCPmLUz0jCOvCHjNoyzNH7ZM="
   },
   "sf_event_mgt_contentelements": {
     "version": "3.0.1",
@@ -63869,13 +63876,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "view_statistics": {
-    "version": "6.1.0",
+    "version": "6.1.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "Logs frontend actions and display them in a backend module. Track page views, News, Downloads and custom objects. Optionally tracks frontend user logins and login durations. Alternative extension for Google-Analytics, Matomo, Piwik - this extension does not use any cookies! By default it does not track any personal data like IP address or even the user agent (though this can be activated optionally).",
-    "hash": "sha256-IR/qOk7ZgkpPTR2boT3HhLCuaTK1nLqYHwBARP9KHhM="
+    "hash": "sha256-WgLkbPMMFC6RVIMuQ9Oo523fJH55RMcorv1EydQy4bo="
   },
   "vimeovideo": {
     "version": "2.0.0",
