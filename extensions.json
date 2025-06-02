@@ -3532,14 +3532,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "autotranslate": {
-    "version": "2.1.2",
+    "version": "2.1.3",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "This extension provides automatic translation of pages and content elements via DeepL API.",
-    "hash": "sha256-0ipGYiV3nmHVdrzRQwAMaKyZGbDGHfZTPJ8zGikpZp8="
+    "hash": "sha256-wzI1lLutM3Zm3/c3Je2FA1ozPr1n0OUirRK97AVoCVo="
   },
   "autoupload_dummy": {
     "version": "1.0.2",
@@ -7266,12 +7266,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cart": {
-    "version": "11.4.3",
+    "version": "11.4.7",
     "t3_versions": [
       13
     ],
     "description": "Shopping Cart(s) for TYPO3",
-    "hash": "sha256-G2mJYd585GsDLbEyUm5P/5Th1L6i70sF13c2p/BYaqA="
+    "hash": "sha256-o03QWPUNcmbYU+sfFWmdtTL9PHzkPQF6MrhteajQY9k="
   },
   "cart_basket_image": {
     "version": "1.0.3",
@@ -10019,14 +10019,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "container": {
-    "version": "3.1.9",
+    "version": "3.1.10",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "Create Custom Container Content Elements for TYPO3",
-    "hash": "sha256-Q9+G0wB2CRB2KQn0rNoIC9exRVYx20tLyOKoUFMezCM="
+    "hash": "sha256-CBc8p4U05j/ShxH8cO5Vj0ccubP+n/CojUbiY9z/JGs="
   },
   "container_elements": {
     "version": "6.0.4",
@@ -10580,12 +10580,12 @@
     "hash": "sha256-RbhGP0thpWqFqC/65d/8Ty8ALDK1PXbNl+L6pSPBbOM="
   },
   "cookieman": {
-    "version": "3.1.1",
+    "version": "3.1.3",
     "t3_versions": [
       13
     ],
     "description": "Provides a user consent popup. It asks for approval to include tracking objects (cookies, images or any HTML) and includes the objects when consented. It also removes cookies after the consent has been revoked.",
-    "hash": "sha256-VRZb+kuyWLwPX9jJCScqUbiMk052e4ngx2SOdIJc1BY="
+    "hash": "sha256-oKqbdNP/BJSaP07gastcj4aFOq8vvvR3UZsEioFpkKw="
   },
   "cookiepro": {
     "version": "1.0.3",
@@ -12266,12 +12266,12 @@
     "hash": "sha256-d5kNLIsPiA6emxyCohDiM9musLIM6hiZyQnnshlicpI="
   },
   "cy_newsletter": {
-    "version": "3.0.0",
+    "version": "3.1.0",
     "t3_versions": [
       13
     ],
     "description": "This plugin contains a small service to send a newsletter for frontend user (based on the news extension).",
-    "hash": "sha256-S1cZKXgcPo5xxj205V9C4gnhgAVqM6j/fDN0gBo13LA="
+    "hash": "sha256-XHTWMDt3/T/PXiXSSZNCWq4p75CJedVCO0Xk5ECcuhw="
   },
   "cy_send_mails": {
     "version": "3.0.0",
@@ -13273,13 +13273,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "dce": {
-    "version": "3.2.7",
+    "version": "3.3.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Best flexform based content elements since 2012. With TCA mapping feature, simple backend view and much more features which makes it super easy to create own content element types.",
-    "hash": "sha256-34LRWczHnOC4YPKjoP4k7UlyCOmNZMC/DjEN7DjRUtM="
+    "hash": "sha256-hbwOv2c5ssKep7dlMloSHQfyvIpvjgylj9U8S44n1nM="
   },
   "dcformcreator": {
     "version": "0.0.3",
@@ -24585,13 +24585,13 @@
     "hash": "sha256-vVsrCmoOPeiH6G4Z+oYqtr4nac1wBx7kYuQJ1KNwd+M="
   },
   "hh_slider": {
-    "version": "0.6.2",
+    "version": "0.7.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Hauer-Heinrich - Image and Content Slider",
-    "hash": "sha256-FiJ4E+jDfyrYupOQcoe5/y6a+SzvQhJ8es4rr+qjQEA="
+    "hash": "sha256-ig7k+R4/10uRlQepcOnXv0rvXBiWTN1GaMANvuNBmJ4="
   },
   "hh_test": {
     "version": "0.2.15",
@@ -24603,13 +24603,13 @@
     "hash": "sha256-/jR61A4Ct78lkWaI1fgVll8PuUruNlnBE2E98U97j/s="
   },
   "hh_tt_address_places": {
-    "version": "4.2.1",
+    "version": "4.2.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "Simply adds places / companies TCA for EXT:tt_address.",
-    "hash": "sha256-2io7Xfard+nQRKPtYh7LcGXFJn1TWvL8VTZlmmBdZD0="
+    "hash": "sha256-v6Z+JSW5nsx/ewYfxpY2dhurFtGEo93R9pOL/mJNyVg="
   },
   "hh_video_extender": {
     "version": "0.4.0",
@@ -25536,14 +25536,15 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "iconpack": {
-    "version": "1.1.9",
+    "version": "1.1.10",
     "t3_versions": [
       10,
       11,
-      12
+      12,
+      13
     ],
     "description": "Provides an iconpack-registry for various iconpacks.",
-    "hash": "sha256-dGwSx5kfa37VHZDCp1GKWhRjST9LKTl62WKwuvlUjHc="
+    "hash": "sha256-pKckcPRk8IQvR2Cd+Hf1BW+DQJtvjWpexot3f0bwU14="
   },
   "iconpack_bootstrap": {
     "version": "1.3.1",
@@ -30196,6 +30197,14 @@
     ],
     "description": "Faceted Search Indexer for the Organiser table news. Page for the detail view must have a xBlog plugin.",
     "hash": "sha256-qLxoSMjOm9JCKJb6ZtUt5P9Iz0o2KTKUH9TtmkRVHXo="
+  },
+  "ke_search_similarity": {
+    "version": "12.4.0",
+    "t3_versions": [
+      12
+    ],
+    "description": "Fuzzy search extension for ke_search",
+    "hash": "sha256-CDl4p7lGO+VLSk4PhevImP4y835ptbeRvKi+qwwmWI8="
   },
   "ke_search_suggest": {
     "version": "12.4.3",
@@ -39906,12 +39915,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "nnhelpers": {
-    "version": "2.0.4",
+    "version": "2.0.6",
     "t3_versions": [
       12
     ],
     "description": "Drastically speed up your extension development with this huge collection of very smart 'oneliners'. Make updating to new TYPO3 versions simple. Packed with things you've spent hours searching on the internet for. Everything accessible with one click via a convenient backend module. No mess and no conflicts. Use whatever method makes you happy – or simple grab the source-code and paste it in your own extension.",
-    "hash": "sha256-c/MOLL3sjDuci+nxDc7YG3HZTLE+V3Rw5J95TsfgiXg="
+    "hash": "sha256-OvnPKT91oyVBrKXbzsrHLYUlhy5l3LyBFTXyrv/79Mg="
   },
   "nnrestapi": {
     "version": "2.0.4",
@@ -44370,12 +44379,13 @@
     "hash": "sha256-VFQoZv3qoyeZXejVkg3cLGXecj8omeYDN+uUnQXpdcc="
   },
   "pictureino": {
-    "version": "0.12.0",
+    "version": "1.0.0",
     "t3_versions": [
+      12,
       13
     ],
     "description": "Responsive images – fully automated. No setup required. Boost PageSpeed and SEO with lazy loading and modern WebP delivery",
-    "hash": "sha256-lPBzgehvVeQGSXMZ+/J7gicZgcW4PzYIK+eTlQoG1bk="
+    "hash": "sha256-RafKHtSXGg0K5dUij/vHuA5SBitLQ0ZruNNZlImaqas="
   },
   "piflexformupdate": {
     "version": "0.0.3",
@@ -46448,20 +46458,20 @@
     "hash": "sha256-EgKvTBP/jz3HMvH0X95snx8wGHO2cKu8rrAElmyQljM="
   },
   "qc_redirects": {
-    "version": "2.0.0",
+    "version": "2.0.1",
     "t3_versions": [
       12
     ],
     "description": "Extends Core's Redirects Module with a Title column, showing creation and modification date and more sorting and filtering options. Also add an import redirects functionality.",
-    "hash": "sha256-+98PcO+aDgiUdCKn9bc4RSuCvF7CN8gPG4tf21fEwBA="
+    "hash": "sha256-MXGjNQ0DEzCTfmlvYkrRZ8RZPrnHvPSfCyA3OT5WxiQ="
   },
   "qc_references": {
-    "version": "2.0.0",
+    "version": "2.0.1",
     "t3_versions": [
       12
     ],
     "description": "This module shows the references to the selected pages in the Pagetree, even if you don't have access to the content linking to it.",
-    "hash": "sha256-4V3tijCNay5tB6GAghDu39wKDBa2nKryCqAH2JwbxDY="
+    "hash": "sha256-BJ+dM7LCiP5eLPGbZJt0/x/tNv4+lZex5DGfLj5qKg4="
   },
   "qc_widgets": {
     "version": "2.0.1",
@@ -47282,13 +47292,13 @@
     "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
   },
   "recordmodules": {
-    "version": "1.1.0",
+    "version": "1.1.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "Adds backend modules for configured record types.",
-    "hash": "sha256-BHiQXw1J/xCKdgAYAZFi1VkvlETNNNQEmi0x9D76aTs="
+    "hash": "sha256-67YMSrSMYjTvSxNvvPgBDx4J7Xymyh1t+sXYquWm4Us="
   },
   "recordsmanager": {
     "version": "1.6.9",
@@ -59791,13 +59801,13 @@
     "hash": "sha256-V7UlPSqLKD5kapOcSId6gQRbKlTuz/HlU1qUOwCeGlI="
   },
   "tile_proxy": {
-    "version": "1.3.5",
+    "version": "1.3.6",
     "t3_versions": [
       12,
       13
     ],
     "description": "Integrate OpenStreetMap without the need for a cookie banner or content blocker - that is the purpose of ext:tile_maps. All requests for map tiles are routed through a configurable proxy url within your TYPO3-system. Since the client browser does not directly requests the OpenStreetMap-server no user confirmation and no content blockers are necessary (GDPR compliant). A proxy is also provided for geocoding nominatim. For a certain area (as specified in the TYPO3-backend) the tiles are cached to improve performance.",
-    "hash": "sha256-dr8nVRMKOXgkJ5Gb4VERRGyM6a5PRPBG3BDFQWVJSL8="
+    "hash": "sha256-wNHMLeimGXnown0Ro7LQ2i1Z1xO5NzrdAECCLxcX81s="
   },
   "timecollect": {
     "version": "0.0.1",
@@ -61036,13 +61046,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "topwire": {
-    "version": "1.0.0",
+    "version": "1.1.1",
     "t3_versions": [
       11,
-      12
+      12,
+      13
     ],
     "description": "Turbo for TYPO3",
-    "hash": "sha256-TSJS/dbSbO5Dq/2M/dL0r+8IhX2Rf+OoKxf/Zxs36cc="
+    "hash": "sha256-xxb7tZvlqXac6IWxSCKbv0JfRcjfaYUOBLrSS36SlwM="
   },
   "tournament": {
     "version": "1.1.0",
@@ -63797,13 +63808,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "video": {
-    "version": "2.0.1",
+    "version": "2.1.0",
     "t3_versions": [
       12,
       13
     ],
-    "description": "TYPO3 extension that compresses videos during upload to 720p H.264 MP4 using ffmpeg.wasm for optimal compatibility, storage, and performance.",
-    "hash": "sha256-Cd+nyl5p2rTv/5n+ZDAH2MT/hDdzAJ6v8R/6Rza/Kfo="
+    "description": "TYPO3 extension that compresses videos during upload to 720p H.264 MP4 using ffmpeg.wasm for optimal compatibility and reduced storage. Additionally generates embedded poster images for improved video previews.",
+    "hash": "sha256-kgeOTaaDTqzwvY8Mw3RGLGfm2e6D49lOuCmq0cazhm4="
   },
   "video_shariff": {
     "version": "4.0.0",
@@ -64378,13 +64389,13 @@
     "hash": "sha256-+DblC8ydsK9LQSUvL3eI1WGmkpLyILuhDLb/YIzkt18="
   },
   "warming": {
-    "version": "3.3.5",
+    "version": "4.0.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Warms up Frontend caches based on an XML sitemap. Cache warmup can be triggered via TYPO3 backend or using a console command. Supports multiple languages and custom crawler implementations.",
-    "hash": "sha256-j7e1bsu+cULeKIiYggv1Xr2c1Cuo69rP5+ErBiIVn+Q="
+    "hash": "sha256-RS4B/OMJ053uAa3wjrRMo4iKwufk8m+Fzdyg0ty5vXw="
   },
   "warmup": {
     "version": "1.3.1",
