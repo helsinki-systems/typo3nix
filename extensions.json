@@ -1267,12 +1267,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "admiral_cloud_connector": {
-    "version": "2.0.1",
+    "version": "3.0.1",
     "t3_versions": [
-      12
+      13
     ],
     "description": "AdmiralCloud Connector",
-    "hash": "sha256-SfZMmXjUHcuYlCubJ2HzSwK6JDblGU31CzdSpw8q6ek="
+    "hash": "sha256-jPjqZcBNekxwt4XWTzAY1QhaEaJAKhpuADvTBDqDzfA="
   },
   "adodb": {
     "version": "8.4.0",
@@ -3532,14 +3532,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "autotranslate": {
-    "version": "2.1.3",
+    "version": "2.2.0",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "This extension provides automatic translation of pages and content elements via DeepL API.",
-    "hash": "sha256-wzI1lLutM3Zm3/c3Je2FA1ozPr1n0OUirRK97AVoCVo="
+    "hash": "sha256-sI89LqJOGbbL7MIukTU/etiJmlnJyPzWBMV/a7Y43LQ="
   },
   "autoupload_dummy": {
     "version": "1.0.2",
@@ -3734,13 +3734,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.343.23",
+    "version": "3.343.24",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-l+LG/g8zc5etiOqqpegZ8Feub5hgHWwnOZ7wINgEzeA="
+    "hash": "sha256-wHdjqA5CjMAOzrgl2qJnkT2a/18Nv8sIrV++JofEpFY="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -10102,12 +10102,12 @@
     "hash": "sha256-I//IqnRf5pr9JM0iLRdQDX2yru6L2nQB6ukl3X4eqNg="
   },
   "content_blocks_bootstrap": {
-    "version": "0.0.1",
+    "version": "0.0.2",
     "t3_versions": [
       13
     ],
     "description": "Provides Content Blocks for the Bootstrap Framework",
-    "hash": "sha256-Ysunp3zCVCREJRLnd/0OrW/D/QR8DBM4h/dRsGQFhus="
+    "hash": "sha256-8SxOhzNFgk34HmoJ2Hh0szs9nPVm04PwBDWCzn/mwmw="
   },
   "content_consent": {
     "version": "3.0.3",
@@ -35519,12 +35519,12 @@
     "hash": "sha256-x4virbFaVbxGtPRqPo/kBp/VT+izVhug/PPoMt+R20c="
   },
   "mindfula11y": {
-    "version": "0.1.0",
+    "version": "0.1.1",
     "t3_versions": [
       13
     ],
     "description": "TYPO3 extension with backend tools to help you create accessible content. Includes management of heading structure, finding missing alternative text for images and alternative text generation using ChatGPT. More features to come.",
-    "hash": "sha256-V/sl7bxADKMCOQNWlUyUwsGnwbP1zugKJyCA9+7mzWA="
+    "hash": "sha256-/wTQafQq5u+bkkbpTH6d6ZE/jAnZ6Q435zEOf1xa5Og="
   },
   "mindmap_import": {
     "version": "0.0.2",
@@ -39360,12 +39360,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "newslayouts": {
-    "version": "13.0.5",
+    "version": "13.0.6",
     "t3_versions": [
       13
     ],
     "description": "Extends EXT:news plugins and records with individual layout settings. Supports bootstrap css framework.",
-    "hash": "sha256-x0UNB2QweWoE+VxrFWwpYE6PjMp0fzi/VV9TaoMgAuM="
+    "hash": "sha256-pUuQQkqiB7yCPRCZ8dM7qeaTTtLqEM32ck8JX2k2tic="
   },
   "newsletter": {
     "version": "5.0.4",
@@ -51927,13 +51927,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "shop": {
-    "version": "5.4.4",
+    "version": "5.4.5",
     "t3_versions": [
       12,
       13
     ],
     "description": "Shop for TYPO3 incl. PayPal, PayPal-Checkout (formerly PayPal-Plus), Klarna, Stripe, Bookmarks, UPS-API, Invoice generation, backend module, compare feature, graduated prices and many more - note there is a Pro version as well! See https://www.coding.ms/typo3-extensions/typo3-shop",
-    "hash": "sha256-/qBlk+jKmTkWotyqOenPUiLzVJTU4mhCznUs3yfL89A="
+    "hash": "sha256-VzNbGTHaaI8L1Utbm/BbidO94rchSgaqwZAqs67BKkk="
   },
   "shop3ox": {
     "version": "0.0.3",
@@ -63141,6 +63141,14 @@
     ],
     "description": "Scheduler Task for uninstall and delete phpmyadmin Extension",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "uniolbeuser": {
+    "version": "1.0.0",
+    "t3_versions": [
+      12
+    ],
+    "description": "",
+    "hash": "sha256-E402Mw8+yOMjMhV0sXgv9yb5mQ95m8UG5AECq2eaH9Y="
   },
   "univie_pure": {
     "version": "12.1.524",
