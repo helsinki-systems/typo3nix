@@ -3734,13 +3734,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.343.24",
+    "version": "3.344.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-wHdjqA5CjMAOzrgl2qJnkT2a/18Nv8sIrV++JofEpFY="
+    "hash": "sha256-/X61DjD7r4ESrXxpCjX3kKzaNZ8AVxNRmezXH0btsyc="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -26727,12 +26727,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "importmap": {
-    "version": "0.1.0",
+    "version": "0.1.1",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "Easily import your JavaScript ES modules without the need of a build system like Webpack",
-    "hash": "sha256-KPHEW4yOzWHFN+u5KgDoZH8FDIWuSpIbQ+UvhL57f4w="
+    "hash": "sha256-iR+LE/1b+dT2BTuM6swk6HiDE4aoiliWbilR/pLcWOw="
   },
   "importr": {
     "version": "5.0.0",
@@ -33111,14 +33112,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mail": {
-    "version": "3.3.0",
+    "version": "3.5.0",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "Powerful newsletter system for TYPO3",
-    "hash": "sha256-yYShGJIQQgGYe7IxyPVkhdt1GcwJVTL6FKGeOBRhNd8="
+    "hash": "sha256-YYrlDdtXoLTszFCnHtlglDlaR8600g8vOUQOnwffyM4="
   },
   "mail2news": {
     "version": "2.0.3",
@@ -61621,10 +61622,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "trix": {
-    "version": "12.0.3",
-    "t3_versions": [],
+    "version": "13.4.1",
+    "t3_versions": [
+      13
+    ],
     "description": "A Trix Rich Text Editor Integration for TYPO3 CMS",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-23h2UYZSis1kuTIAAIE+e2ktobm38fCoYiVsH1+RmHM="
   },
   "tro_yui_tabs": {
     "version": "1.7.1",
@@ -61972,13 +61975,13 @@
     "hash": "sha256-KHFg2YrQeolZphyDlmmjTGp04I/6IU1WrktMh0c4lNQ="
   },
   "tt_board": {
-    "version": "1.17.0",
+    "version": "1.17.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "Simple threaded (tree) or list message board (forum).",
-    "hash": "sha256-N0ZY6Rmu1pDv7xM2Z5dCM7/9GM1RJTDNeLm1Nm8pPEg="
+    "hash": "sha256-MxU04ulAEO3a0Ga2HxxYg2Y9WzBqUdQx7YwP6oF1ZS4="
   },
   "tt_calender": {
     "version": "1.0.5",
