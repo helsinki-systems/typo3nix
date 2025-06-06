@@ -3734,13 +3734,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.344.0",
+    "version": "3.344.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-/X61DjD7r4ESrXxpCjX3kKzaNZ8AVxNRmezXH0btsyc="
+    "hash": "sha256-KDPr1l9+mBtChTxbaHcchJdeaTrR/+3pAGugSG1QRZM="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -10102,12 +10102,12 @@
     "hash": "sha256-I//IqnRf5pr9JM0iLRdQDX2yru6L2nQB6ukl3X4eqNg="
   },
   "content_blocks_bootstrap": {
-    "version": "0.0.2",
+    "version": "0.0.3",
     "t3_versions": [
       13
     ],
     "description": "Provides Content Blocks for the Bootstrap Framework",
-    "hash": "sha256-8SxOhzNFgk34HmoJ2Hh0szs9nPVm04PwBDWCzn/mwmw="
+    "hash": "sha256-ZnHOjADySWb8miVaBidJs7V9cKvwnW6D4Mj7WNzG0mM="
   },
   "content_consent": {
     "version": "3.0.3",
@@ -33112,14 +33112,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mail": {
-    "version": "3.5.0",
+    "version": "3.5.1",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "Powerful newsletter system for TYPO3",
-    "hash": "sha256-YYrlDdtXoLTszFCnHtlglDlaR8600g8vOUQOnwffyM4="
+    "hash": "sha256-DsS0IA3kV4xRG8OJedmbYCJB17HY/XmObFtUMfhiU9A="
   },
   "mail2news": {
     "version": "2.0.3",
@@ -63154,12 +63154,12 @@
     "hash": "sha256-E402Mw8+yOMjMhV0sXgv9yb5mQ95m8UG5AECq2eaH9Y="
   },
   "univie_pure": {
-    "version": "12.1.524",
+    "version": "12.4.524",
     "t3_versions": [
       12
     ],
     "description": "This extension allows you to seamlessly integrate academic content from the Elsevier Pure Research Information System (API v524) into your TYPO3 website, displaying publications, projects, datasets, and equipment details. Based on the Vienna Pure extension, our implementation has been specifically optimized to meet the requirements of Leibniz University Hannover, while also being designed for global use and continuous improvement.",
-    "hash": "sha256-FINKC8jofFIYvUMzIsMP4I4fLR0uin7Cfxvswkva8o4="
+    "hash": "sha256-vfPGMZgCpPT+6E5EHNKrZKdztd/NyrK0gYURtkfM8w4="
   },
   "unleash": {
     "version": "1.0.0",
