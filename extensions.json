@@ -3734,13 +3734,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.344.1",
+    "version": "3.344.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-KDPr1l9+mBtChTxbaHcchJdeaTrR/+3pAGugSG1QRZM="
+    "hash": "sha256-xWSzSr/fWNZLW5WJlRNSaki5GEsRJI0RxXfL6IL7P7I="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -46215,12 +46215,12 @@
     "hash": "sha256-bJ7OKXnBLUFC95JigPESPpnaYEfqCmJONG44zRVu9u8="
   },
   "pw_comments": {
-    "version": "6.0.2",
+    "version": "6.0.3",
     "t3_versions": [
       12
     ],
     "description": "Powerful extension for providing comments, including replies on comments and voting.",
-    "hash": "sha256-SfC5gg9VVOd+STuNMt460HVHg/plHZKxJghf6opMuwI="
+    "hash": "sha256-HqmQC5IGZMWvcCAb00Q/8PrMxxQ5/mNuHJputRENips="
   },
   "pw_highslide_gallery": {
     "version": "0.3.1",
