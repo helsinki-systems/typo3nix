@@ -12259,12 +12259,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cy_lending": {
-    "version": "4.1.0",
+    "version": "4.1.1",
     "t3_versions": [
       13
     ],
     "description": "You can organize lending of objects",
-    "hash": "sha256-d5kNLIsPiA6emxyCohDiM9musLIM6hiZyQnnshlicpI="
+    "hash": "sha256-leBNTYf4lRAnrhNP74nEbTmEMjql6QuJh90NQBUvZao="
   },
   "cy_newsletter": {
     "version": "3.1.0",
@@ -63392,12 +63392,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "uw_a11y_check": {
-    "version": "6.0.0",
+    "version": "6.0.1",
     "t3_versions": [
       13
     ],
     "description": "Configurable a11y check for tt_content and extension records",
-    "hash": "sha256-T0k0VxxgSs7PBi54v/6FNiCXxKmXOOpjCMWO1dsai3g="
+    "hash": "sha256-fXpTDfOEEEjTbyAQMDp9dtgMpZqNvJf1YNENqWZuN1I="
   },
   "v4_crm_agent": {
     "version": "1.0.0",
