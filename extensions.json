@@ -3532,14 +3532,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "autotranslate": {
-    "version": "2.2.0",
+    "version": "2.2.1",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "This extension provides automatic translation of pages and content elements via DeepL API.",
-    "hash": "sha256-sI89LqJOGbbL7MIukTU/etiJmlnJyPzWBMV/a7Y43LQ="
+    "hash": "sha256-rqZe9MTCXGwLfDjLE3uX30rsn5thcs24NQur+B69Idg="
   },
   "autoupload_dummy": {
     "version": "1.0.2",
@@ -6173,13 +6173,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "bw_focuspoint_images": {
-    "version": "5.2.0",
+    "version": "6.0.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Image Editor for adding focus points to images",
-    "hash": "sha256-cC9tFGO7pwvqMJF1OYyW5GUpY7H6b1HujVCUY718oT0="
+    "hash": "sha256-jiLb2j3yDluxNcPScJv4dU0zFGRg/jJ4/wmZtA7b2Ug="
   },
   "bw_icons": {
     "version": "4.0.0",
@@ -8222,13 +8222,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cf_cookiemanager": {
-    "version": "1.8.1",
+    "version": "1.8.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "Manage cookies, scripts, and GDPR compliance on your Typo3 website with CodingFreaks Typo3 Cookie Manager. Customize cookie banners, streamline workflow, and enhance user experience. Ensure GDPR compliance and take control of cookie management with our Typo3 cookie management extension. Visit the official Typo3 Documentation page to learn more.",
-    "hash": "sha256-eMj+3oVFFPLFAAJBJb8PE4NgIfFzrWgKGpAayBbUtuo="
+    "hash": "sha256-sc4up5su5vX7pa51Mu7nsdOICMc0arowsumtRgfojcY="
   },
   "cf_google_authenticator": {
     "version": "1.2.4",
@@ -12267,20 +12267,20 @@
     "hash": "sha256-leBNTYf4lRAnrhNP74nEbTmEMjql6QuJh90NQBUvZao="
   },
   "cy_newsletter": {
-    "version": "3.1.0",
+    "version": "3.1.1",
     "t3_versions": [
       13
     ],
     "description": "This plugin contains a small service to send a newsletter for frontend user (based on the news extension).",
-    "hash": "sha256-XHTWMDt3/T/PXiXSSZNCWq4p75CJedVCO0Xk5ECcuhw="
+    "hash": "sha256-TBRU2dnk8NJooY02qlmJ9GNPxDt9FE3nrE+tYSU9F4Y="
   },
   "cy_send_mails": {
-    "version": "3.0.0",
+    "version": "3.0.1",
     "t3_versions": [
       13
     ],
     "description": "This extension allows frontend users to write emails to other ",
-    "hash": "sha256-sAmYTOFMn/UVSiw/65x9gVzBbq4nxVsCi0i628bQ5kU="
+    "hash": "sha256-bxFPGNlquOhmHB+U8WGYUpn/5I1TSU6QRyAZc5agdQY="
   },
   "cy_twitter": {
     "version": "0.0.2",
@@ -17842,12 +17842,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "eventplanner": {
-    "version": "4.0.0",
+    "version": "4.0.1",
     "t3_versions": [
       13
     ],
     "description": "You can organize helper for your event. Plan places of work and the front end users can register for it.",
-    "hash": "sha256-no91MHc2jfFoRzlGetLZMW0kVQwxUjvaE2e0Juc0Kvg="
+    "hash": "sha256-WyoWMrqA0A+1a3dQRnojja1tbBuvdX3JL3WtcDlxGWk="
   },
   "events2": {
     "version": "9.2.0",
@@ -63375,12 +63375,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "usertools": {
-    "version": "4.1.1",
+    "version": "4.1.3",
     "t3_versions": [
       13
     ],
-    "description": "Collection of user tools:  ",
-    "hash": "sha256-pbe9TnDZAJazVjPDVGtqPGsIjXDbU3Sg0iD/MPmyeM0="
+    "description": "Collection of user tools:",
+    "hash": "sha256-9qmhhpDHYwRzsXV+lTA82RcFyjOvbZfgRLTCT9xMeAY="
   },
   "uuid": {
     "version": "0.2.2",
