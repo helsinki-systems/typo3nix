@@ -3839,12 +3839,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "backend_roles": {
-    "version": "3.1.0",
+    "version": "4.0.0",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "Backend user group role management for TYPO3",
-    "hash": "sha256-608yWT1itowt3FxCPUSIFyo77bcrcaJaLVEIGR+xvNI="
+    "hash": "sha256-citZmDThYYh96CMp3LP+erlIySLH9QQ4aOQqCwUDRcw="
   },
   "backend_save_buttons": {
     "version": "1.0.1",
@@ -13568,13 +13569,13 @@
     "hash": "sha256-ZDCD5e0jBU1U7aqKwhKJyCN9X15ofu9GHPIechbcLbc="
   },
   "deeplcom_deeplphp": {
-    "version": "1.12.0",
+    "version": "1.12.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "",
-    "hash": "sha256-ZLg7O5AtSkffuatw+4IqDQ2XD4iFZ3o3NvJHR565TCM="
+    "hash": "sha256-Yn8mdjdzcEHO11rlu99dDG+NjbOIf+b1x6rewaG3SRw="
   },
   "deepltranslate": {
     "version": "1.0.5",
@@ -30645,13 +30646,13 @@
     "hash": "sha256-cTJuyA9QVRSU/Mt45derKKbP4lXFrhdLyFqc+8jia2Q="
   },
   "km_news_extension": {
-    "version": "2.1.0",
+    "version": "3.0.0",
     "t3_versions": [
-      10,
-      11
+      12,
+      13
     ],
     "description": "Extends EXT:news records by e.g. adding EXT:tt_address contacts.",
-    "hash": "sha256-oGwrcjkLrsWjEK1E9QUdRdfIO5TIq8bNNdqjMGlvVww="
+    "hash": "sha256-JIx7ATv6gOGz1m+FqM3PnTd1uP2C5/zt9su9k9uMaYE="
   },
   "km_timeline": {
     "version": "2.0.0",
@@ -30663,13 +30664,13 @@
     "hash": "sha256-kcxI9UqhT/XvjYG6DhlvAkba0yLCeXqZhG5XH0Xj3/8="
   },
   "km_ttaddress_extension": {
-    "version": "6.2.0",
+    "version": "9.0.0",
     "t3_versions": [
-      10,
-      11
+      12,
+      13
     ],
     "description": "Extends EXT:tt_address by adding fields like department, qualifications and vita.",
-    "hash": "sha256-gc/Mf/vSJa5EVjKWDuNMxXMhlAAOp2O6hvbkF1UI04Y="
+    "hash": "sha256-GX/4DIIuRE/hWGWyUDsj/IVbR589b+nkXsw4WzwYNxY="
   },
   "km_ttnews_extension": {
     "version": "2.0.1",
@@ -62966,6 +62967,15 @@
     ],
     "description": "Use Sentry to track errors in your TYPO3-installation",
     "hash": "sha256-+af5NlTozjswE5jFLh2EVKyTSPMkC21YH1yT8FW3dIs="
+  },
+  "typo3_stream_writer": {
+    "version": "0.5.3",
+    "t3_versions": [
+      12,
+      13
+    ],
+    "description": "This extension adds the possibility to log to stdout and stderr.",
+    "hash": "sha256-HFIiBZZCrEbvwWFmaHG17plN8xYW9k5F+Ws/3oRxKmw="
   },
   "typo3_tut": {
     "version": "1.1.1",
