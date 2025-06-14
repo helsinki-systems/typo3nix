@@ -61313,13 +61313,13 @@
     "hash": "sha256-WS/PMoXSVuKI7RQw6Ga/CJXVDaT6na2DVI7xjx770HI="
   },
   "transactor": {
-    "version": "0.14.1",
+    "version": "0.14.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "This is a basic API to develop extensions which connect to different payment transaction gateways.",
-    "hash": "sha256-wI/CVX7ud00kjjTMyn+sxuZqfKPkb/KxHND8QlZKhkA="
+    "hash": "sha256-QDf/5Bfi++wbea+XamOaa4/fq0aeyFh1FsNJhSUobbQ="
   },
   "transactor_concardis": {
     "version": "0.2.0",
