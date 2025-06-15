@@ -3532,14 +3532,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "autotranslate": {
-    "version": "2.2.1",
+    "version": "2.2.2",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "This extension provides automatic translation of pages and content elements via DeepL API.",
-    "hash": "sha256-rqZe9MTCXGwLfDjLE3uX30rsn5thcs24NQur+B69Idg="
+    "hash": "sha256-I+G3HXCEipyCg5d3FMO+/BHSes9apCk8mjoal9eh2ds="
   },
   "autoupload_dummy": {
     "version": "1.0.2",
@@ -31748,22 +31748,24 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "lib_ical": {
-    "version": "0.4.3",
+    "version": "0.5.0",
     "t3_versions": [
       11,
-      12
+      12,
+      13
     ],
     "description": "Download database-records as calendar items (VEVENT)",
-    "hash": "sha256-71apC8QRuWyUoiYWh6DklQMXH/yQ8dluBXqB7FYW0bM="
+    "hash": "sha256-RVqMWBqR1XALx7KGVhLfTu90ZAwjBtbzRVnxkhU1ib8="
   },
   "lib_ical_eventnews": {
-    "version": "0.4.3",
+    "version": "0.5.0",
     "t3_versions": [
       11,
-      12
+      12,
+      13
     ],
     "description": "iCalendar Provider for Events",
-    "hash": "sha256-LLpmxv8d5s7UheRwJxWBrF0KhqRcN+M31ktVQL4L110="
+    "hash": "sha256-Q5zr7h9sAyGBCVX8dlPqKyahZLCwQBuI6yNiDvSnPnQ="
   },
   "lib_jquery": {
     "version": "4.0.3",
@@ -33857,13 +33859,13 @@
     "hash": "sha256-3mfOryBvxeFvY933oZWBVj/bmIpFQGdypv046cKB9QA="
   },
   "matomo_widgets": {
-    "version": "3.1.2",
+    "version": "3.2.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Dashboard widgets with Matomo reports",
-    "hash": "sha256-OnHenYFMzdnYvLxZNyLAqM5femH7Gl4953BTHSNavb4="
+    "hash": "sha256-j0ZDA249wJHGVgPvXzufXyGWRgkX1NcmgvK/4AoQsXI="
   },
   "matomoapi": {
     "version": "1.0.1",
