@@ -13130,12 +13130,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "daycarecenters": {
-    "version": "6.0.0",
+    "version": "7.0.0",
     "t3_versions": [
-      12
+      13
     ],
     "description": "This extensions lets create and show you records of day care centers",
-    "hash": "sha256-Sp/5s7U5aRC4Ih7WTMkmUVgJyupdGpscxZ8Iy7pSN3Y="
+    "hash": "sha256-SViOYse4WkSwmZ79Yui4xb06mSqbZYrV0HzDKVAt6KY="
   },
   "db_adm": {
     "version": "0.1.0",
@@ -23332,13 +23332,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "glossaries": {
-    "version": "4.0.5",
+    "version": "4.0.6",
     "t3_versions": [
       11,
       12
     ],
     "description": "Extension for displaying and managing your website glossar. Includes a backend module, statistics, extended authorizations and much more.f",
-    "hash": "sha256-M/+5Bs5+YsHVbgp8ouyIQhiLrSdDGxH6ka1gcFzpYpU="
+    "hash": "sha256-n65LkrDrSsmDgHylE7OklRDYoa7UTxp5lo4KNHNZtOI="
   },
   "glossarify": {
     "version": "0.0.1",
@@ -44634,12 +44634,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "pixxio_extension": {
-    "version": "3.0.3",
+    "version": "3.0.4",
     "t3_versions": [
       13
     ],
     "description": "Integrate pixx.io DAM Digital Asset Management into TYPO3. Use files from your pixx.io media pool with TYPO3 easily and without any detour. Use the search field to search through your pixx.io media library and find the right picture in a flash.",
-    "hash": "sha256-10GtowF+NoPgU1mg8h4wRKoHlQk5UqmpBSA00Rp6Ysg="
+    "hash": "sha256-NZGiIbiwr0YV+LeHnMHVEaq8BwgACIfmd+viExBTHek="
   },
   "pizpalue": {
     "version": "16.2.0",
@@ -51946,13 +51946,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "shop": {
-    "version": "5.4.5",
+    "version": "5.4.6",
     "t3_versions": [
       12,
       13
     ],
     "description": "Shop for TYPO3 incl. PayPal, PayPal-Checkout (formerly PayPal-Plus), Klarna, Stripe, Bookmarks, UPS-API, Invoice generation, backend module, compare feature, graduated prices and many more - note there is a Pro version as well! See https://www.coding.ms/typo3-extensions/typo3-shop",
-    "hash": "sha256-VzNbGTHaaI8L1Utbm/BbidO94rchSgaqwZAqs67BKkk="
+    "hash": "sha256-dpHz48HdFOJq7hkTurKONqt1Rvpd/HlsD29DS2rD8vI="
   },
   "shop3ox": {
     "version": "0.0.3",
@@ -63980,13 +63980,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "view_statistics": {
-    "version": "6.1.1",
+    "version": "6.1.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "Logs frontend actions and display them in a backend module. Track page views, News, Downloads and custom objects. Optionally tracks frontend user logins and login durations. Alternative extension for Google-Analytics, Matomo, Piwik - this extension does not use any cookies! By default it does not track any personal data like IP address or even the user agent (though this can be activated optionally).",
-    "hash": "sha256-WgLkbPMMFC6RVIMuQ9Oo523fJH55RMcorv1EydQy4bo="
+    "hash": "sha256-08Y1vhnIpIo0HiiVNfPNx0ZyNi0szWo/OFEV7cXaUKc="
   },
   "vimeovideo": {
     "version": "2.0.0",
