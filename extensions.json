@@ -3734,13 +3734,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.344.5",
+    "version": "3.345.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-4/4Vm7BFeYOAHzcZksZ2hdSxcXyj62Ia6Pfb7VF6B+A="
+    "hash": "sha256-MVEs+IfIG8QcsKee9g5qZurlMIHekNMbSIjPKGzq464="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -33858,13 +33858,13 @@
     "hash": "sha256-3mfOryBvxeFvY933oZWBVj/bmIpFQGdypv046cKB9QA="
   },
   "matomo_widgets": {
-    "version": "3.2.0",
+    "version": "3.2.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "Dashboard widgets with Matomo reports",
-    "hash": "sha256-j0ZDA249wJHGVgPvXzufXyGWRgkX1NcmgvK/4AoQsXI="
+    "hash": "sha256-DMXe2nP+R0zrZf4i0JZCCGUJbrOk2tZPWJh2y8+R5V4="
   },
   "matomoapi": {
     "version": "1.0.1",
@@ -47359,13 +47359,13 @@
     "hash": "sha256-67YMSrSMYjTvSxNvvPgBDx4J7Xymyh1t+sXYquWm4Us="
   },
   "recordsmanager": {
-    "version": "1.6.9",
+    "version": "1.7.0",
     "t3_versions": [
-      11,
-      12
+      12,
+      13
     ],
     "description": "Add modules to easily manage your records (insert, edit & export in be/eId) in one place.",
-    "hash": "sha256-tIYgM3NkCSXY5ErQwhx4wgvqjOIipjY0ljqEI///FEw="
+    "hash": "sha256-qaj3IGOdhXDV4hb7wjwsDpB5ZwYP8v3FjzlwE4AFHCk="
   },
   "recurr": {
     "version": "1.0.0",
@@ -50657,12 +50657,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "schooldirectory": {
-    "version": "7.0.0",
+    "version": "8.0.0",
     "t3_versions": [
-      12
+      13
     ],
     "description": "This is a TYPO3 extension to manage schools",
-    "hash": "sha256-u4askKxeTXvGqVTqflfCuZZqOyIpEFImx+qcbK3tlQo="
+    "hash": "sha256-tvThLNlXQ6+0rkAP7uZKTxEj9C3NFxkNCNGIsA1yT+0="
   },
   "scoopit": {
     "version": "0.0.4",
@@ -54376,13 +54376,13 @@
     "hash": "sha256-7ZaYZFV41K7LRbUOXerT+luyF5tdYwdGbKSl0JRxb+I="
   },
   "solradmin": {
-    "version": "2.0.1",
+    "version": "2.0.2",
     "t3_versions": [
-      11,
-      12
+      12,
+      13
     ],
     "description": "With this module you can directly access your solr module, search records with an interface, delete some specifics records and do other operations (with multi core support)",
-    "hash": "sha256-A2xAmZbrb/thKObbvXEbajv8tlvNy+/6gY26KbcdiQ4="
+    "hash": "sha256-lL19WhbGtMg6vaILuoZ4DhaeS7p9sfzoRVWi2hPgGII="
   },
   "solrfluidgrouping": {
     "version": "11.0.1",
@@ -62038,12 +62038,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "tt_products": {
-    "version": "2.16.4",
+    "version": "2.16.5",
     "t3_versions": [
       12
     ],
     "description": "Advanced versions at ttproducts.de. Documented in the E-Book \"Der TYPO3-Webshop\" - Shop with listing in multiple languages, with order tracking, product variants, support for transactor extension, bill, creditpoint and voucher system.",
-    "hash": "sha256-yPqJwMrgytECYeIXCpazeTtNyW4ZkhSID0Eua0/YW+c="
+    "hash": "sha256-R4QqNo91Lm/y9ddV22/oAphx2VRRzopyS6/B/YE4DAM="
   },
   "tt_products_foundby": {
     "version": "0.1.4",
@@ -62924,6 +62924,14 @@
     "description": "Resize and render uploaded images with external imgproxy service.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "typo3_interactive_tour": {
+    "version": "1.0.2",
+    "t3_versions": [
+      13
+    ],
+    "description": "",
+    "hash": "sha256-KRZRAqlWx3T787vzAspkpfkfexdX5BJ0XJXfYrYnk1c="
+  },
   "typo3_last_test": {
     "version": "0.0.9",
     "t3_versions": [],
@@ -63073,12 +63081,13 @@
     "hash": "sha256-dlN/719ZingF4xM+3z3d5FqB2vVw8c6w8SfziiSslyE="
   },
   "typoscript_code": {
-    "version": "7.0.0",
+    "version": "7.1.0",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "This extension allows you to insert any TypoScript code to a page as a normal content element.",
-    "hash": "sha256-0zNNvLiF6uhDI0FEo+kKz/Tp9J1/k8CWrNWQH3t8JOs="
+    "hash": "sha256-BT/INs1Is+Mkbzwbn0czAA3BXGLhzUIQMTdxFfSPuzo="
   },
   "typoscript_conditions": {
     "version": "1.0.0",
