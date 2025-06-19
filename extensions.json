@@ -1654,12 +1654,12 @@
     "hash": "sha256-GcEh2HTVZiS+fN1JRCgcvmPjut5/NyXJmqay6qD1I1A="
   },
   "ai_translate": {
-    "version": "3.1.1",
+    "version": "4.0.0",
     "t3_versions": [
-      12
+      13
     ],
-    "description": "This extension provides option to translate content element, and tca record texts to Deepl, Google, OpenAI,  Gemini and Claude supported languages.",
-    "hash": "sha256-LrZ+IK11SKP3RlLmJggx2X2/cL8lV1Xhd4R045LglW8="
+    "description": "This extension provides option to translate content element, and tca record texts to Deepl, Google, OpenAI, Gemini and Cohere supported languages.",
+    "hash": "sha256-lnKhWKWV2gn3Ng3Iq8hMsIcttJrYuBb9DYYMR2s7ytM="
   },
   "aichemist": {
     "version": "13.4.3",
@@ -3532,14 +3532,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "autotranslate": {
-    "version": "2.2.2",
+    "version": "2.2.3",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "This extension provides automatic translation of pages and content elements via DeepL API.",
-    "hash": "sha256-I+G3HXCEipyCg5d3FMO+/BHSes9apCk8mjoal9eh2ds="
+    "hash": "sha256-2jpbkQBTiiBJGn4Ra0/2l6XdhSkTOSPcQswfp2qPOKE="
   },
   "autoupload_dummy": {
     "version": "1.0.2",
@@ -3734,13 +3734,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.345.0",
+    "version": "3.346.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-MVEs+IfIG8QcsKee9g5qZurlMIHekNMbSIjPKGzq464="
+    "hash": "sha256-UhnvSMpAINNLHzoF+/OilA1zOeYthuix04y8qi0V6Jg="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -6019,12 +6019,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "bulma_package": {
-    "version": "4.0.0",
+    "version": "4.1.0",
     "t3_versions": [
       13
     ],
     "description": "Bulma Package delivers a full configured frontend theme for TYPO3, based on the Bulma CSS Framework.",
-    "hash": "sha256-IavEVl4069cG5Sl2b46aFSnZSCj9sulzYT5Z76KFMVg="
+    "hash": "sha256-owe4BoVGdOHTuE2sheHvBHq1bKqTXalXxiHWtrtHXx4="
   },
   "burmeesmenu": {
     "version": "0.1.10",
@@ -35873,13 +35873,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mkforms": {
-    "version": "12.0.1",
+    "version": "12.0.3",
     "t3_versions": [
       11,
       12
     ],
     "description": "Making HTML forms for TYPO3",
-    "hash": "sha256-R675Iz8iLq+lCT8fa8PapImvHuuypLtdy5wY1BrSD2A="
+    "hash": "sha256-3mjQhXhbJDZoIwBZcANOT1P9I2YtPHWVpDJZVbpIy2A="
   },
   "mkit_wetter": {
     "version": "1.1.0",
@@ -36002,13 +36002,13 @@
     "hash": "sha256-phRL0foWA1dZnNn7md29fWHqxnBhyYIrWqGysoS95EY="
   },
   "mksearch": {
-    "version": "12.0.13",
+    "version": "12.0.14",
     "t3_versions": [
       11,
       12
     ],
     "description": "Generic highly adjustable and extendable search engine framework, using Zend Lucene, Apache Solr or ElasticSearch. But support for other search engines can be provided easily.",
-    "hash": "sha256-un1H6PDT2ixcxKZA2uqpI6W8mdIvtZ7m2iD4+GJt+sY="
+    "hash": "sha256-TqV1Vu5OEkqQo9VRewMxXXkqv8ztDd01yCEU1linmB8="
   },
   "mktools": {
     "version": "12.0.2",
@@ -37207,7 +37207,7 @@
     "hash": "sha256-jeY6kpYKdO+XO6m9TSm4oeu/qrPqf1VszZV6m5hZ6Ho="
   },
   "mst_reloadtrigger": {
-    "version": "0.1.8",
+    "version": "0.1.9",
     "t3_versions": [
       9,
       10,
@@ -37215,8 +37215,8 @@
       12,
       13
     ],
-    "description": "add a trigger that can be watched by browsersync",
-    "hash": "sha256-gW358m+R8mod7IoHifrW9yYgI/ozKYDTFVZhwSyiS1g="
+    "description": "add a trigger that can be watched by browsersync, great for development, especially with ddev",
+    "hash": "sha256-P7SDoVW38+2llON7aBSPnPX2Zm6F7/xJb2s+N1c53uY="
   },
   "mst_yaml2tca": {
     "version": "1.0.14",
@@ -40875,14 +40875,15 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "nws_municipal_statutes": {
-    "version": "0.4.6",
+    "version": "0.4.7",
     "t3_versions": [
-      9,
       10,
-      11
+      11,
+      12,
+      13
     ],
     "description": "Reads all available municipal statutes from the TSA FullRest interface.",
-    "hash": "sha256-fDtdjicXGplDYU7QCH3YGERPupaZTd/39CawaiyF5NI="
+    "hash": "sha256-C2R0RF9dROLLfzFm3hFvl0XHPYcPF95eld7xrtFOMg8="
   },
   "nwt_base": {
     "version": "0.1.0",
@@ -57989,13 +57990,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "t3twig": {
-    "version": "12.0.2",
+    "version": "12.0.3",
     "t3_versions": [
       11,
       12
     ],
     "description": "TYPO3 extension to render page templates with Twig and extend rn_base for using Twig templates instead of marker",
-    "hash": "sha256-GBMPpUvH5gqUgf0rthhU3QEFVEHfAl9mIoHtUStgQfw="
+    "hash": "sha256-YJL4TKPBk6vyvz80V2EA/LqMm845k5ry5uxZh9uiEdc="
   },
   "t3uk_db_tutorial": {
     "version": "0.0.2",
