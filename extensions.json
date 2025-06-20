@@ -3734,13 +3734,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.346.0",
+    "version": "3.346.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-UhnvSMpAINNLHzoF+/OilA1zOeYthuix04y8qi0V6Jg="
+    "hash": "sha256-Tasd7VNt5j6vJXdcii0nRxOY/Z4jFFlYApuVBFKQ3Sw="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -21432,12 +21432,12 @@
     "hash": "sha256-gZAVlPg19Fe0XiyUHY4m97cl3Y3O+bQeJu2CZXNAU9A="
   },
   "form_extended": {
-    "version": "13.0.0",
+    "version": "13.0.1",
     "t3_versions": [
       13
     ],
     "description": "Multi upload field, sender addresses in site config, new field types and other",
-    "hash": "sha256-pd073Kxp2M49B/vrCqWIaCF1fgxIDoo4N6jTm+GQFyY="
+    "hash": "sha256-OyBGETh8HJY/Ck7NrAUn3Nb0NEYFPK2K2GtiXhutSxw="
   },
   "form_extension_tut": {
     "version": "0.0.1",
