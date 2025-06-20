@@ -10094,12 +10094,12 @@
     "hash": "sha256-AfToijkanNxy5yWgP7Vdw03r4FjS4ylg2fCf0SLYwKU="
   },
   "content_blocks": {
-    "version": "1.3.5",
+    "version": "1.3.6",
     "t3_versions": [
       13
     ],
     "description": "TYPO3 CMS Content Blocks - Content Types API | Define reusable components via YAML",
-    "hash": "sha256-MSquhXiz+lHJNtPqdLJcjZwEbCtGMyK0hnT42Kor48A="
+    "hash": "sha256-4Br330vsmBH/rtuQcq4LW0L8aCjz+xKY58R+rTU3rCs="
   },
   "content_blocks_bootstrap": {
     "version": "0.0.3",
@@ -10581,12 +10581,12 @@
     "hash": "sha256-RbhGP0thpWqFqC/65d/8Ty8ALDK1PXbNl+L6pSPBbOM="
   },
   "cookieman": {
-    "version": "3.1.3",
+    "version": "3.1.4",
     "t3_versions": [
       13
     ],
     "description": "Provides a user consent popup. It asks for approval to include tracking objects (cookies, images or any HTML) and includes the objects when consented. It also removes cookies after the consent has been revoked.",
-    "hash": "sha256-oKqbdNP/BJSaP07gastcj4aFOq8vvvR3UZsEioFpkKw="
+    "hash": "sha256-4aL/OK5yRrsh1EuVC13eBrv4+DbSsgXUaXge77waKyY="
   },
   "cookiepro": {
     "version": "1.0.3",
@@ -14779,13 +14779,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "dlf": {
-    "version": "5.0.10",
+    "version": "5.1.0",
     "t3_versions": [
       10,
       11
     ],
     "description": "Base plugins, modules, services and API of the Digital Library Framework. It is part of the community-based Kitodo Digitization Suite.",
-    "hash": "sha256-kOUeiCSx7uWN72S96psxC70LIAJuE0SavgNUESt0HPM="
+    "hash": "sha256-bX5mSno0u5dyHlArUMGnCPvNCIj1JbbOkzbSqNYy530="
   },
   "dlib": {
     "version": "0.0.6",
@@ -21848,13 +21848,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "forum": {
-    "version": "2.0.0",
+    "version": "2.0.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "A simple forum for TYPO3 (tt_board)",
-    "hash": "sha256-/jO/fCRp2rVyNmGzia3w2hEKPypt4HtTKtqYFhiaG+k="
+    "hash": "sha256-Jn6TTc0UmzP+aoUSnLKMkOig5x22x82D2JpzfZ3QIoM="
   },
   "fotoblog_sitepackage": {
     "version": "10.4.0",
@@ -35856,13 +35856,13 @@
     "hash": "sha256-6H05DwRy5TP7I2m3O6nKftHQjQVN7MRXdeMYYlAY3V8="
   },
   "mkcontentai": {
-    "version": "13.0.10",
+    "version": "13.0.11",
     "t3_versions": [
       12,
       13
     ],
     "description": "MKContentAI Extension - OpenAI API",
-    "hash": "sha256-TlesjpfayM5VjXOYEdhZ0EGdA6MZ7CLyRwarUcmP/MQ="
+    "hash": "sha256-UKMEJ4gJvEPLJUaZ1oeES6AXAKUJAHYUWdGC7Ove5q0="
   },
   "mkdam2fal": {
     "version": "1.0.16",
@@ -47285,12 +47285,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "recaptcha": {
-    "version": "14.0.3",
+    "version": "14.0.4",
     "t3_versions": [
       13
     ],
     "description": "Integrates google reCAPTCHA and invisible reCAPTCHA in EXT:form, EXT:sf_register",
-    "hash": "sha256-vUejjauCChDneYYw2Ywd8+1WZd1h45sFZNdwXWGmGWc="
+    "hash": "sha256-UdXISc5iVfkHyeFUkXMci/SBqUH2jpa1Ta3BLxGIs9o="
   },
   "recent_comments": {
     "version": "0.2.0",
@@ -63894,13 +63894,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "video": {
-    "version": "2.1.0",
+    "version": "2.1.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "TYPO3 extension that compresses videos during upload to 720p H.264 MP4 using ffmpeg.wasm for optimal compatibility and reduced storage. Additionally generates embedded poster images for improved video previews.",
-    "hash": "sha256-kgeOTaaDTqzwvY8Mw3RGLGfm2e6D49lOuCmq0cazhm4="
+    "hash": "sha256-nqzHFQUBJGNqeW04y7OIR3igPaOjfEmY46tKNSDKcqY="
   },
   "video_shariff": {
     "version": "4.0.0",
@@ -64475,13 +64475,13 @@
     "hash": "sha256-+DblC8ydsK9LQSUvL3eI1WGmkpLyILuhDLb/YIzkt18="
   },
   "warming": {
-    "version": "4.1.0",
+    "version": "4.1.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "Warms up Frontend caches based on an XML sitemap. Cache warmup can be triggered via TYPO3 backend or using a console command. Supports multiple languages and custom crawler implementations.",
-    "hash": "sha256-34sJ43l+LJAj76N3Y3DlpdWkWf9R/z9T/uXJz1XVxxI="
+    "hash": "sha256-jIbFER/+09IQnb59+77n5nlLa5PQIk99aUwf4XvCfM0="
   },
   "warmup": {
     "version": "1.3.1",
