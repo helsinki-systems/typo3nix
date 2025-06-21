@@ -3734,13 +3734,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.346.1",
+    "version": "3.346.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-Tasd7VNt5j6vJXdcii0nRxOY/Z4jFFlYApuVBFKQ3Sw="
+    "hash": "sha256-JOutAzdt50bNUwnZn1QB9GwWrAFtS+n1/bZP6noLox8="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -54426,14 +54426,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "solver": {
-    "version": "1.0.1",
+    "version": "2.0.1",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "Extends TYPO3's exception handling with AI generated solutions. Problems can also be solved from command line. Several OpenAI parameters are configurable and prompts and solution providers can be customized as desired.",
-    "hash": "sha256-4DtXgMXD85RHim65qrbky93Jas5S1eDvmhNMogMjjEM="
+    "hash": "sha256-GsANYB/UES6VoIPxCevJ3NBV0smG0gxnMpzUGICbSCE="
   },
   "sorp": {
     "version": "0.1.0",
@@ -64379,12 +64379,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "w_query2csv": {
-    "version": "0.6.8",
+    "version": "0.7.0",
     "t3_versions": [
-      12
+      13
     ],
     "description": "This is a CSV generator, which combines simplicity with high configurability and data processing powers. It provides download points",
-    "hash": "sha256-gY7Uku6amIe6MUOAh3Blc9ltsEM/jdQfSkPggS79xD4="
+    "hash": "sha256-QhF8k8XIYB3SmRwHGp9RY+22Kl2gGu/vYRLZWW73hP8="
   },
   "w_rating": {
     "version": "0.2.1",
