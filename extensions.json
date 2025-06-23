@@ -21108,14 +21108,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fontawesome_provider": {
-    "version": "1.0.4",
+    "version": "1.0.5",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "Integrates legacy FontawesomeIconProvider and FontAwesome 4.7",
-    "hash": "sha256-+HNeswVy7xEDAXUlhlCtohdzDsnTGQlUJO/Jj0anZ+Q="
+    "hash": "sha256-NwJLBdm37uJI4PVM8QlakvawO/RrJcC8A6Gw5hIxHaM="
   },
   "fontresize": {
     "version": "1.0.1",
@@ -21375,13 +21375,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "form_consent": {
-    "version": "3.1.2",
+    "version": "3.1.3",
     "t3_versions": [
       12,
       13
     ],
     "description": "An extension for TYPO3 CMS that adds double opt-in functionality to EXT:form. It allows the dynamic adaptation of the entire double opt-in process using various events. In addition, the extension integrates seamlessly into TYPO3, for example to delete outdated consents in compliance with the GDPR.",
-    "hash": "sha256-ZAGc9mABA4KXuN7c1jIkiGnveAYM6OhEOdfXgO/bVq8="
+    "hash": "sha256-jmmRC9lBzhCjw4+4knQJDveaMjKJmdn+qrRpsgtRtHE="
   },
   "form_country_select": {
     "version": "3.1.0",
@@ -24391,12 +24391,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "happy_feet": {
-    "version": "12.0.3",
+    "version": "12.1.1",
     "t3_versions": [
       12
     ],
     "description": "Handles happy footnotes",
-    "hash": "sha256-VKTcikgeay9u7+f9nyWNpaou5GKjzQQ1cNynBPOC270="
+    "hash": "sha256-+kv34ARXy3eVD6Xo1xbb1xj4AGk7cfpfF4oPRvsBItU="
   },
   "harz2night_de_flickrflashshow": {
     "version": "1.0.12",
@@ -25554,7 +25554,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "iconpack": {
-    "version": "1.1.11",
+    "version": "1.2.0",
     "t3_versions": [
       10,
       11,
@@ -25562,7 +25562,7 @@
       13
     ],
     "description": "Provides an iconpack-registry for various iconpacks.",
-    "hash": "sha256-iZvChlvvsyxySFTQPN/s1tDNBN8fd3/kOMae8r2Mumg="
+    "hash": "sha256-ZOFnqKEo/xwTxRkIJzH0h6w+gzBMiFPKtqikCwdNV60="
   },
   "iconpack_bootstrap": {
     "version": "1.3.3",
@@ -25576,7 +25576,7 @@
     "hash": "sha256-p8kjK4sHpioqABN3fXzoY5uOXYwpdJex45YsSTxliq8="
   },
   "iconpack_boxicons": {
-    "version": "1.0.2",
+    "version": "1.1.0",
     "t3_versions": [
       10,
       11,
@@ -25584,7 +25584,7 @@
       13
     ],
     "description": "This Extension registers an Iconpack-Provider for EXT:iconpack which allows you to use the \"Boxicons\" in TYPO3.",
-    "hash": "sha256-t6vkJQI/x+T12svi3rosoUf0Xa/xrdztILmtLGBPDX4="
+    "hash": "sha256-xEfRveJIOrga0P+Kqtfx4tOsn5ff+U2ENguypz2TcrQ="
   },
   "iconpack_dripicons": {
     "version": "1.1.2",
@@ -25629,7 +25629,7 @@
     "hash": "sha256-4c0coUi0EVJFzb3Ls/vu92kqf5mM5bx0uXeb3jy+RbQ="
   },
   "iconpack_fontawesome": {
-    "version": "1.0.4",
+    "version": "1.1.1",
     "t3_versions": [
       10,
       11,
@@ -25637,7 +25637,7 @@
       13
     ],
     "description": "This Extension registers an Iconpack-Provider for EXT:iconpack which allows you to use the \"Font Awesome Icons\" in TYPO3.",
-    "hash": "sha256-otL6RzjRH1m5SlYns9uqGN3thXaqEKWKchGWjXqFeSg="
+    "hash": "sha256-8RxxVcBD8qQ93usBm142EsQ972+dlAreYGOIUbf7tJE="
   },
   "iconpack_helium": {
     "version": "1.1.2",
@@ -25750,7 +25750,7 @@
     "hash": "sha256-H164GJ9gtePmqHAuQ7StLRZix7DOnoKYl+G3Jg7AZes="
   },
   "iconpack_typo3": {
-    "version": "0.0.4",
+    "version": "1.0.0",
     "t3_versions": [
       10,
       11,
@@ -25758,7 +25758,7 @@
       13
     ],
     "description": "This Extension registers an Iconpack-Provider for EXT:iconpack which allows you to use the \"TYPO3 Icons\" in ...TYPO3 (surprise!).",
-    "hash": "sha256-3lb/r4LvGsWW4iFsFYsDr/EDiMMFQII6qZd2orWqSfY="
+    "hash": "sha256-KElyxib+QqxsajXdSH/ZRMqmeLx8bhaanzRf/kzl5ZI="
   },
   "icons": {
     "version": "1.0.1",
@@ -52732,23 +52732,23 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sitemap_locator": {
-    "version": "0.1.10",
+    "version": "0.1.11",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "Looks up XML sitemaps as part of a configured site. Supports various sitemap providers, e.g. by configured page type or robots.txt, and allows to implement custom providers.",
-    "hash": "sha256-VhpC7PZpBTcpNR2k8X8vpBLZSfrccgpYg1Ct+RPcbaU="
+    "hash": "sha256-mQ/KuG/+GPdIAPfodwXh/nGqM7v7BtQwv4+xww/SW+k="
   },
   "sitemap_robots": {
-    "version": "0.2.0",
+    "version": "0.2.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "Enhances robots.txt with sitemap configurations to improve site visibility in terms of SEO. Injection of XML sitemaps can be managed on a per-site basis. Supports static routes as well as injection into local files.",
-    "hash": "sha256-c22Kiiyd1OHoCwDyas6dgcYxYLYNoPIeSzRt5D3uNYI="
+    "hash": "sha256-zUcwaB/1SentxEPMs3Ud17X8UWat93whpV7FQcPm7+c="
   },
   "sitemgr": {
     "version": "2.9.1",
@@ -54426,14 +54426,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "solver": {
-    "version": "2.0.1",
+    "version": "2.0.2",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "Extends TYPO3's exception handling with AI generated solutions. Problems can also be solved from command line. Several OpenAI parameters are configurable and prompts and solution providers can be customized as desired.",
-    "hash": "sha256-GsANYB/UES6VoIPxCevJ3NBV0smG0gxnMpzUGICbSCE="
+    "hash": "sha256-keroodxjqfvCAJzwruFikdT/ZNuwGvIzvJusS9DQYlg="
   },
   "sorp": {
     "version": "0.1.0",
@@ -54917,10 +54917,12 @@
     "hash": "sha256-hhhoNCnuBkUOO/J73W2SJL4cW4qcFCVfQk7VVU0L0Gk="
   },
   "sr_freecap": {
-    "version": "13.4.0",
-    "t3_versions": [],
+    "version": "13.4.1",
+    "t3_versions": [
+      13
+    ],
     "description": "A TYPO3 integration of freeCap CAPTCHA.",
-    "hash": "sha256-PpKvG1geoW+G4e24Jo9Z1oOmTCKsU2AHyldiwHpDbkY="
+    "hash": "sha256-2Aiiod6w4VmU2ftXXxOBfwSZvVC7KF54n1SpcCMByh4="
   },
   "sr_guestbook": {
     "version": "2.0.0",
@@ -55443,12 +55445,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "static_info_tables": {
-    "version": "13.4.1",
+    "version": "13.4.2",
     "t3_versions": [
       13
     ],
     "description": "Data and API for countries, languages and currencies for use in TYPO3 CMS.",
-    "hash": "sha256-kapU7hgh5Z5J0XF72Kr05Zx3GxshAYNGwO8xy+LNA44="
+    "hash": "sha256-o4cYz1RAW0XSD9JVX+ISNz4aMkqQNLDDHeHOt4f1TG4="
   },
   "static_info_tables_airports": {
     "version": "0.1.0",
@@ -59700,14 +59702,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "theodia": {
-    "version": "2.2.2",
+    "version": "2.2.3",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "Fetch data from theodia.org to display the Mass schedule for the various places of worship in a parish or pastoral unit.",
-    "hash": "sha256-m2SiZ3hP2ih5J+zLLU2ykPbxk/f09hx9zM0UHE/3TOQ="
+    "hash": "sha256-TvvyyUj0xTMNezbyM7+fUTVOXfsfBE+q9rCjiRNkUgU="
   },
   "thomasnu": {
     "version": "6.0.0",
@@ -62950,13 +62952,13 @@
     "hash": "sha256-X+M95W61qrOca855kJbU7FKAbXgL7C7+r/33a4IJTuU="
   },
   "typo3_maileon_integration": {
-    "version": "3.2.1",
+    "version": "4.0.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Add double-opt-in newsletter subscription form connected with Maileon to your Typo3 sites",
-    "hash": "sha256-VyuHkHsSPC4Q3E4/SfhNaxI7kOymxwQGdnbEs2TxT8E="
+    "hash": "sha256-BAKc7fT5XzIU72mdhepxILezCJArRpHBj0QBIJ6kzyo="
   },
   "typo3_ohdear_health_check": {
     "version": "12.4.1",
@@ -64475,13 +64477,13 @@
     "hash": "sha256-+DblC8ydsK9LQSUvL3eI1WGmkpLyILuhDLb/YIzkt18="
   },
   "warming": {
-    "version": "4.1.2",
+    "version": "4.1.4",
     "t3_versions": [
       12,
       13
     ],
     "description": "Warms up Frontend caches based on an XML sitemap. Cache warmup can be triggered via TYPO3 backend or using a console command. Supports multiple languages and custom crawler implementations.",
-    "hash": "sha256-jIbFER/+09IQnb59+77n5nlLa5PQIk99aUwf4XvCfM0="
+    "hash": "sha256-zZuXZBb/EmNywpvnNYWbRoyvNbA4uJFYWRW35ggAA7s="
   },
   "warmup": {
     "version": "1.3.1",
