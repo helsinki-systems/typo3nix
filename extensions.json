@@ -3734,13 +3734,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.347.0",
+    "version": "3.347.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-55NBHXb4h7yEdYc0vqezmMJNNaEPU6x7AxXXw3hVWr4="
+    "hash": "sha256-6n7TuH11DYsn+bKVIvnWfMXUlhjQsAnh9WVMaH2nOIk="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -10094,12 +10094,12 @@
     "hash": "sha256-AfToijkanNxy5yWgP7Vdw03r4FjS4ylg2fCf0SLYwKU="
   },
   "content_blocks": {
-    "version": "1.3.7",
+    "version": "1.3.8",
     "t3_versions": [
       13
     ],
     "description": "TYPO3 CMS Content Blocks - Content Types API | Define reusable components via YAML",
-    "hash": "sha256-EgMtRGKKnOBCLVo9VEsVn6MQKlgPKtXgJJgxWyBnjPY="
+    "hash": "sha256-/JEwScktGoDEF+2XRB1J6M4U1qvMe8qRBHKLanVf34o="
   },
   "content_blocks_bootstrap": {
     "version": "0.0.3",
@@ -13532,6 +13532,16 @@
     ],
     "description": "Import the needed ebay values for the German marketplace! Import is done while enabling this extension. Values are needed by Deal! See: http://typo3-deal.de/typo3conf/ext/deal_ebay_077_germany/doc/manual.pdf",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "debug": {
+    "version": "2.0.0",
+    "t3_versions": [
+      11,
+      12,
+      13
+    ],
+    "description": "Collection of debugging tools",
+    "hash": "sha256-KsCPyfOntBKV1ehGZSnFfOngItMm624sJPya0XgXZ7M="
   },
   "debug_mysql_db": {
     "version": "1.9.1",
@@ -24603,13 +24613,13 @@
     "hash": "sha256-vVsrCmoOPeiH6G4Z+oYqtr4nac1wBx7kYuQJ1KNwd+M="
   },
   "hh_slider": {
-    "version": "0.7.0",
+    "version": "0.7.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "Hauer-Heinrich - Image and Content Slider",
-    "hash": "sha256-ig7k+R4/10uRlQepcOnXv0rvXBiWTN1GaMANvuNBmJ4="
+    "hash": "sha256-fzPCWEjJJgsMsMjxgdEHOVDy2xZLAEURTpbsNFA3HnI="
   },
   "hh_test": {
     "version": "0.2.15",
@@ -25620,13 +25630,13 @@
     "hash": "sha256-IF9IeGF828sJcyhkDvcF0lziAjp+Z/Lj4K0EmnwMdlo="
   },
   "iconpack_flagicons": {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "This Extension registers an Iconpack-Provider for EXT:iconpack. Vector (*.svg) country flag icons in 3:2 aspect ratio.",
-    "hash": "sha256-4c0coUi0EVJFzb3Ls/vu92kqf5mM5bx0uXeb3jy+RbQ="
+    "hash": "sha256-xRDHM/QhQ0ef6JW1/bwEB0bh0XFLjCQolAgX9oVKhN0="
   },
   "iconpack_fontawesome": {
     "version": "1.1.1",
@@ -26206,14 +26216,14 @@
     "hash": "sha256-EQCc/x3x8rFm1OhJTTICYHtSQ03hUQQfGYrkK198r5I="
   },
   "ig_language_detection": {
-    "version": "1.0.8",
+    "version": "1.1.11",
     "t3_versions": [
-      9,
-      10,
-      11
+      11,
+      12,
+      13
     ],
     "description": "Language detection in PSR-15 middleware stack on uri=/. Based on the Accept-Language Header the corresponding site config is choosen. Additional configuration in YAML site configuration is available like aliases and more",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-PbHhYdYXqilewMGalg5iUoWlMerN2TgwCJeN2yve0xM="
   },
   "ig_ldap_sso_auth": {
     "version": "4.1.0",
@@ -26251,13 +26261,13 @@
     "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
   },
   "ig_mfa_frontend": {
-    "version": "0.9.0",
+    "version": "0.9.2",
     "t3_versions": [
-      11,
-      12
+      12,
+      13
     ],
     "description": "MFA Login and Configuration for Frontend Users",
-    "hash": "sha256-yJI/Zz5QzVGzoKp3mVoWhO64z/fZaKMkAFhbnHrSkYQ="
+    "hash": "sha256-pQQITIjSffk1XGyH9CQR0gOh7F+wI0zjtttzU9cxbGM="
   },
   "ig_pagelinked": {
     "version": "0.0.2",
@@ -26286,12 +26296,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ig_slug": {
-    "version": "1.1.2",
+    "version": "1.1.7",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "Rebuild URL slugs of the pages table and others",
-    "hash": "sha256-9CShki0tS/ov77+jtPbGhoOpUfh/7fx5I98R4H2NHfg="
+    "hash": "sha256-sRFq5EQz/jMagFASnbwsn7Eg7lSmvOy/3RSk7PSdkns="
   },
   "iglib": {
     "version": "0.1.4",
@@ -36506,13 +36517,13 @@
     "hash": "sha256-QBq7RgOtpBz21jSQfzIxEurNCmBZlHvZXZt3wzoyyMw="
   },
   "modules": {
-    "version": "7.2.0",
+    "version": "7.2.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "Frontend-User-Registration, Profile, Invitations, Listing with detailview, Addressmanagement, Frontend-Recordmanagement. User friendly Backendmodule for managing Frontend- and Backend-Users and other Records. Toolbox for frontend and backend modules in TYPO3.",
-    "hash": "sha256-HQdfL3C+SgmvqN1QXkCKedKlODiASpirS2GtvsNGygo="
+    "hash": "sha256-YQ3I/dXzDfpN547sfeU2tSKGm1JK+3YwyjS5RU3cOGw="
   },
   "modulis_animated_gif": {
     "version": "0.0.4",
@@ -45880,14 +45891,14 @@
     "hash": "sha256-GO2WvAFnzEgJCCHQcV/ybpRy1NSt8rok3KxhXtRsvxg="
   },
   "psb_debug": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "t3_versions": [
       11,
       12,
       13
     ],
-    "description": "Collection of debugging tools",
-    "hash": "sha256-Dhs7F/4iW1zksQ68cOUPqWGkDn8f8MEMbW6KmeaTFAc="
+    "description": "Abandoned! This extension has been renamed to \"debug\". New composer package: psbits/debug",
+    "hash": "sha256-Zbn+rDciKFdoksT0r18CGDEowtu0WcOILIHllptZ1nw="
   },
   "psb_foundation": {
     "version": "2.3.7",
@@ -58481,12 +58492,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "taskqueue": {
-    "version": "9.2.0",
+    "version": "9.3.0",
     "t3_versions": [
       13
     ],
     "description": "Provides a task queue for other extensions to use.",
-    "hash": "sha256-6ceJpQJmUI8BmRQqwpVU564K79ouknPSiBKND9SO5bU="
+    "hash": "sha256-QYRydeI2s9c10GTLwmWCBa6THRgAHCbHcuTifpVOyzQ="
   },
   "taxajax": {
     "version": "1.4.0",
@@ -66731,14 +66742,14 @@
     "hash": "sha256-NZTXe0f/zpzzWbkWYiN4mePkdMnVUMsqMfLnojA0Ak0="
   },
   "xima_typo3_frontend_edit": {
-    "version": "1.6.1",
+    "version": "1.6.2",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "This extension provides an edit button for editors within frontend content elements.",
-    "hash": "sha256-9AKj29v84drqC4X9N6+3+lAh+wob7KlJA0xzdeeFFDA="
+    "hash": "sha256-WcTatWflvAr9bUH9M6CFWThHXL7azCiRCjwylAQcci0="
   },
   "xima_typo3_internal_news": {
     "version": "1.0.0",
