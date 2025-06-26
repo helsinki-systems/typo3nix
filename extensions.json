@@ -2448,15 +2448,16 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ameos_tarteaucitron": {
-    "version": "3.4.0",
+    "version": "3.5.0",
     "t3_versions": [
       9,
       10,
       11,
-      12
+      12,
+      13
     ],
     "description": "Integrates tarteaucitron.js in TYPO3 (see : https://tarteaucitron.io )",
-    "hash": "sha256-46AZ9N7hMSs7w6CSZ5Mfwj6xDWyoJv/R/CLCbKvjTNE="
+    "hash": "sha256-7knpFECpwS0HlOLHP3rA0P3eWHTgOe98bgv+SL+AmA8="
   },
   "ameos_typo3_vulnerabilities": {
     "version": "1.0.0",
@@ -3230,13 +3231,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "aus_driver_amazon_s3": {
-    "version": "1.12.1",
+    "version": "1.13.3",
     "t3_versions": [
-      10,
-      11
+      11,
+      12
     ],
     "description": "Provides a FAL driver for the Amazon Web Service S3.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-8WK2RJDz6UMFkrb+5xulgLtsrXS7xrmVGgM2toVTRTQ="
   },
   "aus_driver_dropbox": {
     "version": "1.0.2",
@@ -3734,13 +3735,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.347.1",
+    "version": "3.347.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-6n7TuH11DYsn+bKVIvnWfMXUlhjQsAnh9WVMaH2nOIk="
+    "hash": "sha256-86h67kCa08iizSXeIZD4lYfNIaO9HIYuHTInU2Aje5Y="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -20663,13 +20664,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fluid_components": {
-    "version": "3.8.5",
+    "version": "3.8.6",
     "t3_versions": [
       12,
       13
     ],
     "description": "Encapsulated frontend components with Fluid's ViewHelper syntax",
-    "hash": "sha256-3Ri4mzomnYLnQCi3bDMwjSSYFM0FGnencZO5pbSQmUo="
+    "hash": "sha256-6LSJC5E6oSdadSNXxJnGnyU8y2P+uECOalK2v4KeXW8="
   },
   "fluid_contentelements": {
     "version": "1.0.0",
@@ -21781,13 +21782,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "forms2db": {
-    "version": "1.2.2",
+    "version": "1.2.3",
     "t3_versions": [
       12,
       13
     ],
     "description": "With forms2db, form data from the Forms extension is stored in the database. Additionally, the data can be exported in CSV format using a dedicated module.",
-    "hash": "sha256-KpNxmR/qNCfZaxz7OUn2zICzBIJVQbuXcBDtjl42gMg="
+    "hash": "sha256-UijnEqT9gF9kM4cT90s3lJjIiUcEKYuS3oksxi13+ys="
   },
   "formsave": {
     "version": "1.6.3",
@@ -24401,12 +24402,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "happy_feet": {
-    "version": "12.1.1",
+    "version": "12.1.2",
     "t3_versions": [
       12
     ],
     "description": "Handles happy footnotes",
-    "hash": "sha256-+kv34ARXy3eVD6Xo1xbb1xj4AGk7cfpfF4oPRvsBItU="
+    "hash": "sha256-JmocK3vzk01+yKoLbxiHUcj57OpwzFkcnGQ1z0VmtBM="
   },
   "harz2night_de_flickrflashshow": {
     "version": "1.0.12",
@@ -51958,13 +51959,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "shop": {
-    "version": "5.4.6",
+    "version": "5.5.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Shop for TYPO3 incl. PayPal, PayPal-Checkout (formerly PayPal-Plus), Klarna, Stripe, Bookmarks, UPS-API, Invoice generation, backend module, compare feature, graduated prices and many more - note there is a Pro version as well! See https://www.coding.ms/typo3-extensions/typo3-shop",
-    "hash": "sha256-dpHz48HdFOJq7hkTurKONqt1Rvpd/HlsD29DS2rD8vI="
+    "hash": "sha256-vNlYQRbpPc9dTpRGiRB8zckezmn5i0L7r8IxA67gonA="
   },
   "shop3ox": {
     "version": "0.0.3",
