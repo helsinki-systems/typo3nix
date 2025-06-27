@@ -748,6 +748,15 @@
     "description": "ACE editor for file list",
     "hash": "sha256-7MwxjrN4lZCqRlYvDVDxifcOYEMPKPjobP2A1P0jhko="
   },
+  "acl_deployment": {
+    "version": "2.0.0",
+    "t3_versions": [
+      12,
+      13
+    ],
+    "description": "Deployment of users, user groups and their privileges",
+    "hash": "sha256-clYByVo914nnnv+OrTV0Opkczi6KoyQtvElZ4qYxOPo="
+  },
   "acny": {
     "version": "1.0.5",
     "t3_versions": [],
@@ -3735,13 +3744,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.347.2",
+    "version": "3.348.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-86h67kCa08iizSXeIZD4lYfNIaO9HIYuHTInU2Aje5Y="
+    "hash": "sha256-x6ZzZm5KrUXWigFetQ0DufnKV4OsDVwsPXUG90Vhats="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -21875,6 +21884,15 @@
     ],
     "description": "Sitepackage for a Foto- or Travel-Blog",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "foundation": {
+    "version": "3.0.0",
+    "t3_versions": [
+      12,
+      13
+    ],
+    "description": "Configuration framework for TYPO3 extension development",
+    "hash": "sha256-XL4J2EQunqrBsPrhsnDTT+6at7a9qQfo0L7U+AeBUmA="
   },
   "foundation_grids": {
     "version": "2.0.0",
@@ -45902,31 +45920,31 @@
     "hash": "sha256-Zbn+rDciKFdoksT0r18CGDEowtu0WcOILIHllptZ1nw="
   },
   "psb_foundation": {
-    "version": "2.3.7",
+    "version": "2.3.8",
     "t3_versions": [
       12,
       13
     ],
-    "description": "Configuration framework for TYPO3 extension development",
-    "hash": "sha256-tZ14HsV2caVi/kFYZkzlhz0TUrG3yNyVBGnIaiHypIQ="
+    "description": "Abandoned! This extension has been renamed to \"foundation\". New composer package: psbits/foundation",
+    "hash": "sha256-d2rYNDZ2D8JOOSKdJmRLsVIA9fZ31arq9zrJJtzzEJA="
   },
   "psb_user_deployment": {
-    "version": "1.1.5",
+    "version": "1.1.6",
     "t3_versions": [
       12,
       13
     ],
-    "description": "Deployment of users, user groups and their privileges",
-    "hash": "sha256-u5rq9vrS0cpOxNULC0FuhI0s9d75sBOjQoXm9g+p9Ow="
+    "description": "Abandoned! This extension has been renamed to \"acl_deployment\". New composer package: psbits/acl-deployment",
+    "hash": "sha256-hGPereZwdpSB1f0FqGL/FzpBHt9N/6Z/pNnSHknjMoU="
   },
   "psb_view_helpers": {
-    "version": "2.1.0",
+    "version": "2.1.1",
     "t3_versions": [
       12,
       13
     ],
-    "description": "Collection of useful ViewHelpers",
-    "hash": "sha256-0ITsAZ4cXh7/pAM1SSn/J/hmXyn/qp2lfuDfm0qiUTk="
+    "description": "Abandoned! This extension has been renamed to \"view_helpers\". New composer package: psbits/view-helpers",
+    "hash": "sha256-r/8stoiyP8lxR0cU1ZSMfAQ+Di2XV4z/2lx5grw9irM="
   },
   "psc_disqus_sso": {
     "version": "0.1.3",
@@ -46247,12 +46265,12 @@
     "hash": "sha256-bJ7OKXnBLUFC95JigPESPpnaYEfqCmJONG44zRVu9u8="
   },
   "pw_comments": {
-    "version": "6.0.3",
+    "version": "6.0.4",
     "t3_versions": [
       12
     ],
     "description": "Powerful extension for providing comments, including replies on comments and voting.",
-    "hash": "sha256-HqmQC5IGZMWvcCAb00Q/8PrMxxQ5/mNuHJputRENips="
+    "hash": "sha256-3ItZyNTTpPfLxEubt1Dpyau1yNhOD4BO4sXXP9tOGPI="
   },
   "pw_highslide_gallery": {
     "version": "0.3.1",
@@ -64002,6 +64020,15 @@
     ],
     "description": "OBSOLETE - Feature set now available in TYPO3 core",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "view_helpers": {
+    "version": "3.0.1",
+    "t3_versions": [
+      12,
+      13
+    ],
+    "description": "Collection of useful ViewHelpers",
+    "hash": "sha256-NAZbz2S9WtaneanoYOmOpu0E4BR3eS+0rLNQ/sf21xg="
   },
   "view_statistics": {
     "version": "6.1.2",
