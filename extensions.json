@@ -2050,12 +2050,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "allinoneaccessibility": {
-    "version": "13.0.0",
+    "version": "13.0.1",
     "t3_versions": [
       13
     ],
     "description": "WCAG Website Accessibility widget improves Typo3 website ADA compliance and browser experience for ADA, WCAG 2.1 & 2.2, Section 508, Australian DDA, European EAA EN 301 549, UK Equality Act (EA), Israeli Standard 5568, California Unruh, Ontario AODA, Canada ACA, German BITV, France RGAA, Brazilian Inclusion Law (LBI 13.146/2015), Spain UNE 139803:2012, JIS X 8341 (Japan), Italian Stanca Act and Switzerland DDA Standards.",
-    "hash": "sha256-Z5w6CLwcB2qn3Fk/WqxrG6UD2nbK3O+RFrr1olasPC0="
+    "hash": "sha256-pxkUa3SLhVksc+xdU8aftuZjeXVnv8mjfy1spVgjWvs="
   },
   "allnews": {
     "version": "0.2.6",
@@ -21886,13 +21886,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "foundation": {
-    "version": "3.0.0",
+    "version": "3.0.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "Configuration framework for TYPO3 extension development",
-    "hash": "sha256-XL4J2EQunqrBsPrhsnDTT+6at7a9qQfo0L7U+AeBUmA="
+    "hash": "sha256-CvUXnVqjV+UdZvN6NqPLNT6r1QDinaNdl95S41oHaDc="
   },
   "foundation_grids": {
     "version": "2.0.0",
@@ -30293,13 +30293,13 @@
     "hash": "sha256-CDl4p7lGO+VLSk4PhevImP4y835ptbeRvKi+qwwmWI8="
   },
   "ke_search_suggest": {
-    "version": "12.4.3",
+    "version": "12.4.4",
     "t3_versions": [
       12,
       13
     ],
     "description": "Autocomplete functionality for ke_search",
-    "hash": "sha256-35VNFGoGHQEY71e8VgeotlVq/Gp/BqkXeyqwE11LCPU="
+    "hash": "sha256-cfSd6bhcmaHp2K4ouWp+b8p1UHKGv4yoVCgEj3lCy6c="
   },
   "ke_showproducts": {
     "version": "1.0.2",
@@ -35886,13 +35886,13 @@
     "hash": "sha256-6H05DwRy5TP7I2m3O6nKftHQjQVN7MRXdeMYYlAY3V8="
   },
   "mkcontentai": {
-    "version": "13.0.11",
+    "version": "13.0.12",
     "t3_versions": [
       12,
       13
     ],
     "description": "MKContentAI Extension - OpenAI API",
-    "hash": "sha256-UKMEJ4gJvEPLJUaZ1oeES6AXAKUJAHYUWdGC7Ove5q0="
+    "hash": "sha256-y7XFgzg2xNZOylprsAdPDBNiaqUJ03yXsgIp5MNPC2o="
   },
   "mkdam2fal": {
     "version": "1.0.16",
