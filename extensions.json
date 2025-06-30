@@ -2155,12 +2155,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "altcha": {
-    "version": "0.4.0",
+    "version": "0.5.0",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "TYPO3 form element for spam protection by utilizing the proof-of-work mechanism Altcha.",
-    "hash": "sha256-QhW+UDROQ6WCPTdNUUCazJ+A97pS5qQcem5SVJAu4l8="
+    "hash": "sha256-g4suI6ZIHrFlQzRHPnxXgHXOe0TGUmeN0JomxGb8qwY="
   },
   "altern_lang_menu_page_title": {
     "version": "1.0.1",
@@ -3239,15 +3240,6 @@
     "description": "Incorporates typoscript, file and hooks for the current unibe corporate design",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
-  "aus_driver_amazon_s3": {
-    "version": "1.13.3",
-    "t3_versions": [
-      11,
-      12
-    ],
-    "description": "Provides a FAL driver for the Amazon Web Service S3.",
-    "hash": "sha256-8WK2RJDz6UMFkrb+5xulgLtsrXS7xrmVGgM2toVTRTQ="
-  },
   "aus_driver_dropbox": {
     "version": "1.0.2",
     "t3_versions": [
@@ -4009,13 +4001,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "base_excel": {
-    "version": "4.2.0",
+    "version": "4.3.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "This provides the PhpSpreadsheet library, formerly phpExcel from phpOffice.",
-    "hash": "sha256-xwi+W8C4KzONVdJpydAfbmejttPM+UM/AC4ajQac+ws="
+    "hash": "sha256-nhF9t/DSdlNkWbcG14ENXO8UNSK4dPeBUtvFlfuY4eA="
   },
   "base_font": {
     "version": "1.0.0",
@@ -12012,13 +12004,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cute_mailing": {
-    "version": "4.1.3",
+    "version": "4.1.4",
     "t3_versions": [
       12,
       13
     ],
     "description": "A TYPO3 extension that makes mailing and newsletter sending cute. Send TYPO3 pages as emails (newsletter) to many recipients. Can be used as replacement for direct_mail.",
-    "hash": "sha256-H48igoK/qsS9jtsedJd/urL/Le/E6BbGZeg9NhDYhFA="
+    "hash": "sha256-iV3IF0hHLQcb/Whgpnj3qdSvxqT/aRESfL3zNtIMOX4="
   },
   "cute_mailing_registeraddress": {
     "version": "2.2.0",
@@ -26850,12 +26842,12 @@
     "hash": "sha256-BFdTRWWeRaqtvDUFfouCjp9+is3B2SY0zKVQskUhklI="
   },
   "in2publish_core": {
-    "version": "13.0.0",
+    "version": "13.0.1",
     "t3_versions": [
       13
     ],
     "description": "Content publishing extension to connect stage and production server",
-    "hash": "sha256-Um3iEigW/KRM3hY6vkDJkkvHYYdefliwJE+QNx55sn4="
+    "hash": "sha256-63v4AGxkkVr8dlkTE2/Q2cnTWYMtZsby3g0VyCXZHc8="
   },
   "in2rss": {
     "version": "0.2.2",
@@ -33888,13 +33880,13 @@
     "hash": "sha256-3mfOryBvxeFvY933oZWBVj/bmIpFQGdypv046cKB9QA="
   },
   "matomo_widgets": {
-    "version": "3.2.1",
+    "version": "3.2.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "Dashboard widgets with Matomo reports",
-    "hash": "sha256-DMXe2nP+R0zrZf4i0JZCCGUJbrOk2tZPWJh2y8+R5V4="
+    "hash": "sha256-66QdxKSVrwAGXyqVlF+4VCG2BgETyoY3bS+cs0oKgq0="
   },
   "matomoapi": {
     "version": "1.0.1",
@@ -39752,7 +39744,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "nitsan_hellobar": {
-    "version": "7.0.0",
+    "version": "7.0.1",
     "t3_versions": [
       6,
       7,
@@ -39760,19 +39752,20 @@
       9,
       10,
       11,
-      12
+      12,
+      13
     ],
-    "description": "The HelloBar TYPO3 Extension is a valuable tool for configuring and designing messages on your website. It provides tools and services to schedule messages for your guests exactly when you want them to see the messages. With Hello Bar, you can attract guests to your website and improve user engagement.",
-    "hash": "sha256-vyqcoq+2pqyHXzz//MY6IfTuUTX9xFYVClwqK8Iy+is="
+    "description": "The TYPO3 HelloBar Extension helps you schedule and display engaging notification messages to your visitors, boosting visibility and user interaction.",
+    "hash": "sha256-QTRVQQJ4H31bTQs04MSNFKIEcJbQORATCNyYFF10GH4="
   },
   "nitsan_maintenance": {
-    "version": "13.0.0",
+    "version": "13.0.1",
     "t3_versions": [
       12,
       13
     ],
-    "description": "This TYPO3 Maintenance extension will help you with simple plug & play which have a special TYPO3 Page & TYPO3 Template. It would be useful on criteria like to set Site Coming to Soon Page, Maintenance of Site, Offline while Upgrading your site, etc.",
-    "hash": "sha256-rxkNPw/76qTVk3R6cDzkNaSuZduov4AgEOG6IM0EWRI="
+    "description": "A simple plug & play TYPO3 extension to display a custom maintenance or coming soon page while your site is offline for updates, redesign, or launch preparation.",
+    "hash": "sha256-ZT971PVlIhSRSjySao30J4dcdhOo+IYPi+pW1n8jhps="
   },
   "nittygritty": {
     "version": "2.0.0",
@@ -40261,25 +40254,27 @@
     "hash": "sha256-oevUHYBYnEnCyZJQ8iZPusuhpo5IPKayTVJcaT2igSM="
   },
   "ns_all_chat": {
-    "version": "13.0.0",
+    "version": "13.0.1",
     "t3_versions": [
-      12
+      12,
+      13
     ],
-    "description": "The All in One TYPO3 Chat Extension is the only TYPO3 extension that helps to integrate the most popular chat tools directly into your website. With this extension, you can easily connect various live chat tools such as zopim.com, livechatinc.com, purechat.com, and more. ",
-    "hash": "sha256-JApeV//um/A18+DWXO+oajvVvx2ffDUumjaqInXdiK0="
+    "description": "Easily integrate multiple popular live chat tools like Zopim, LiveChatInc, and PureChat into your TYPO3 site to improve user communication and support.",
+    "hash": "sha256-WeMI9Qu/eOkFdn7XsWrYZGKA3pHzaotg6V4Uank5maY="
   },
   "ns_all_lightbox": {
-    "version": "13.0.0",
+    "version": "13.0.1",
     "t3_versions": [
       7,
       8,
       9,
       10,
       11,
-      12
+      12,
+      13
     ],
-    "description": "Introducing the TYPO3 All-in-One Extension, a plugin that effortlessly integrates popular jQuery slider plugins into your website with just a few clicks! Enjoy a range of slider options including Nivo Slider, Royal Slider, Owlcarousel, Sliderjs Slider, and more.",
-    "hash": "sha256-f0+D0JjeFnrLFxDufCES8MtUycrxADyyYmo4dLaIEmw="
+    "description": "Seamlessly integrate multiple jQuery sliders like Nivo, Royal Slider, OwlCarousel, and more into your TYPO3 site – all in one lightweight extension.",
+    "hash": "sha256-Y8UFhdxAA1X4YZf6gSMgEK7HwCpjF+6H28dkGq0KL9M="
   },
   "ns_all_sliders": {
     "version": "13.0.0",
@@ -40291,13 +40286,13 @@
     "hash": "sha256-tdYHMTG77JtQn3j6Yj/x/Hsbs53qxlf1/77XwibycfY="
   },
   "ns_backup": {
-    "version": "13.0.1",
+    "version": "13.0.2",
     "t3_versions": [
       12,
       13
     ],
-    "description": "Easily backup your entire TYPO3 website. The Backup Plus extension for TYPO3 lets you save your code, files, and database with just a few clicks. Install Backup Plus and connect it to your cloud storage (like Google Drive, Dropbox, Amazon S3, SFTP, Rsync, etc.) and backup your entire TYPO3 site manually with a single click.",
-    "hash": "sha256-HhN5t8Xc7t+S3nl3h3hMlhD+wmieIRBVAJSHLXeoJIs="
+    "description": "Easily back up your entire TYPO3 site—including code, files, and database—with one click. Supports cloud storage like Google Drive, Dropbox, Amazon S3, SFTP, Rsync, and more.",
+    "hash": "sha256-3Fw0JmxNYlTMfikG9jylpO4kN9P0N9f6Pnqlx8XDSCc="
   },
   "ns_basetheme": {
     "version": "13.0.6",
@@ -40327,13 +40322,13 @@
     "hash": "sha256-/280QR/TsvRchum0/fsMvTSUoWFnaH5cIQpLpz5roi8="
   },
   "ns_comments": {
-    "version": "13.0.0",
+    "version": "13.0.1",
     "t3_versions": [
       12,
       13
     ],
-    "description": "The TYPO3 Comment Extension simplifies the process for visitors to leave comments on your website's published pages. It utilizes nested comments to create a user-friendly experience. Admins receive email notifications, allowing them to easily manage comments either through email or the backend.",
-    "hash": "sha256-MpBliwWpAjfKgTo/8onMYHPz9gIqC1H5vbqbkMMBULw="
+    "description": "Enable user-friendly commenting functionality for TYPO3 pages. Features nested replies, backend moderation, and admin email notifications.",
+    "hash": "sha256-lgw55tmo/kFCW+FfhZSJiBw8TWu82IWOlZjKmonyiqQ="
   },
   "ns_cookiebot": {
     "version": "4.0.0",
@@ -58511,12 +58506,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "taskqueue": {
-    "version": "9.3.0",
+    "version": "9.3.1",
     "t3_versions": [
       13
     ],
     "description": "Provides a task queue for other extensions to use.",
-    "hash": "sha256-QYRydeI2s9c10GTLwmWCBa6THRgAHCbHcuTifpVOyzQ="
+    "hash": "sha256-1LVyxlFrzCKwQ8yd4RIQXU8zDecJelVdboCSTKGOzYE="
   },
   "taxajax": {
     "version": "1.4.0",
