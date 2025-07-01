@@ -3736,13 +3736,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.348.1",
+    "version": "3.348.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-4nPZ1x5HmStkTuiONnaoz4iX0zFO4fiZKVke8SLwLyc="
+    "hash": "sha256-5enawc9oK27wcl+AAwgG1/i+nvaoZoYUBjIY+Yz8dcM="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -13571,13 +13571,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "deepl_base": {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "Provides shared things across deepl related extensions, for example a shared point when overriding same TYPO3 backend fluid files are required and similar.",
-    "hash": "sha256-ZDCD5e0jBU1U7aqKwhKJyCN9X15ofu9GHPIechbcLbc="
+    "hash": "sha256-SujcMrjj/16VvMobqHVZzeEdES1KP4m0Pnli7BPEuIg="
   },
   "deeplcom_deeplphp": {
     "version": "1.12.1",
@@ -13597,22 +13597,22 @@
     "hash": "sha256-zubGGULUMiOLlijfkwn7FtLyHVbYdKVB2h8DBjoJVXg="
   },
   "deepltranslate_core": {
+    "version": "5.1.1",
+    "t3_versions": [
+      12,
+      13
+    ],
+    "description": "This extension provides option to translate content element, and TCA record texts to DeepL supported languages.",
+    "hash": "sha256-0Bk3me7Tvs9wcl9AYWkX7vhCb5w7fKhp6tzpjsFMp9w="
+  },
+  "deepltranslate_glossary": {
     "version": "5.1.0",
     "t3_versions": [
       12,
       13
     ],
-    "description": "This extension provides option to translate content element, and TCA record texts to DeepL supported languages.",
-    "hash": "sha256-49IUnQw+E72S3xowKoeXbwormi5OoigBtD8nV6y6wm8="
-  },
-  "deepltranslate_glossary": {
-    "version": "5.0.0",
-    "t3_versions": [
-      12,
-      13
-    ],
-    "description": "This extension provides option to translate content element, and TCA record texts to DeepL supported languages.",
-    "hash": "sha256-x1PTk9/2VCuy0xgL7OQWjbpEoAMHLGssR53qPzrlh2k="
+    "description": "DeepL Translate Add-On providing glossary functionality",
+    "hash": "sha256-QeqQ7ytA/fZ0iSnKhvSiwazcal1LD0vED4+9DlSdlFE="
   },
   "default_upload_folder": {
     "version": "2.0.4",
@@ -13643,13 +13643,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "deferred_image_processing": {
-    "version": "1.1.0",
+    "version": "2.0.0",
     "t3_versions": [
-      10,
-      11
+      11,
+      12
     ],
     "description": "Handles image processing on request instead of during page generation",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-zXIiAGLpVowUQbxOQLqiqwvEKRmyeUiF58ERBNskVIY="
   },
   "dejure_org": {
     "version": "11.0.0",
@@ -24507,12 +24507,13 @@
     "hash": "sha256-EWjbl0TTjAojdrTUm6kVWQ8HHzeSxpL0+Rk74sP9Tp0="
   },
   "headless_container": {
-    "version": "2.0.0",
+    "version": "3.0.0",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "Container Content Elements (EXT:container) json output for EXT:headless",
-    "hash": "sha256-seCYjGGF1ZYcpq+YO08abUETlyQBpF4/H6SSXcymGzk="
+    "hash": "sha256-GIfcSNRDE1zSpj0sro1FuN1ZpH8aLH0h5IwM3lxW5qE="
   },
   "headless_gridelements": {
     "version": "3.0.0",
@@ -40331,7 +40332,7 @@
     "hash": "sha256-lgw55tmo/kFCW+FfhZSJiBw8TWu82IWOlZjKmonyiqQ="
   },
   "ns_cookiebot": {
-    "version": "4.0.0",
+    "version": "4.0.1",
     "t3_versions": [
       6,
       7,
@@ -40339,10 +40340,11 @@
       9,
       10,
       11,
-      12
+      12,
+      13
     ],
-    "description": "The Cookiebot.com GDPR Compliant TYPO3 Extension aids publishers, technology vendors, and advertisers in complying with GDPR and ePrivacy Directive regulations by ensuring transparency and obtaining user consent. T3Planet has developed a TYPO3 CMS extension to seamlessly integrate Cookiebot, one of the most popular solutions for managing cookies.",
-    "hash": "sha256-D/KqnqBVUzKROOcuiA/YK6vmX052sNIU72zfMYdZDkI="
+    "description": "Integrate Cookiebot into your TYPO3 site to ensure GDPR and ePrivacy compliance. Automatically manage cookie consent and transparency for users.",
+    "hash": "sha256-Cdk0a7uL69CKpGXIaMiCkGaGvPDJ14adxMDOmgcCdwQ="
   },
   "ns_cookies": {
     "version": "2.0.1",
@@ -40356,7 +40358,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ns_cookieyes": {
-    "version": "2.0.0",
+    "version": "2.0.1",
     "t3_versions": [
       6,
       7,
@@ -40367,19 +40369,20 @@
       12,
       13
     ],
-    "description": "Implement GDPR/EPR Compliant at your TYPO3 website with our TYPO3 Cookiyes Extension. Ensuring Data & Cookie Protection on your website with ns_cookiyes extension.",
-    "hash": "sha256-hv9Fj0rZX4hLrYgNYYg4D9yH8V0IiVrWX0CZkaYD0y8="
+    "description": "Easily integrate CookieYes for GDPR and ePrivacy compliance on your TYPO3 website. Ensure cookie consent and data protection in a few clicks.",
+    "hash": "sha256-iciiLa1XHeH9nDEBDkR2ROJpMdWXEqzX/WAj0f4E6ME="
   },
   "ns_disqus_comments": {
-    "version": "13.0.0",
+    "version": "13.0.1",
     "t3_versions": [
-      12
+      12,
+      13
     ],
-    "description": "Using the TYPO3 Disqus Comment Extension you can connect DISQUS comments plugin into your website. This extension adds a DISQUS comments section to TYPO3 pages, allowing users to comment using their favorite social networks. Users can receive notifications about new replies, share messages, and engage with your content. ",
-    "hash": "sha256-Bkd/9HyCIyhEGv2nsDpknNjxu/55zOfGHQPV07i/DqY="
+    "description": "Integrate the Disqus comment system seamlessly into your TYPO3 website. Allow users to post comments using their social accounts and stay engaged through notifications and replies.",
+    "hash": "sha256-YzGvGOypRCb3uhEBAJNh2yJVYhrUt8+nb9SYYxgNUmk="
   },
   "ns_event": {
-    "version": "2.0.1",
+    "version": "2.0.2",
     "t3_versions": [
       9,
       10,
@@ -40387,16 +40390,16 @@
       12,
       13
     ],
-    "description": "TYPO3 Event Manager is a full-featured events management extension that lets you create multiple events and get them listed on your website. TYPO3  Event Manager provides a user-friendly interface that allows you to effortlessly create and customize events. Specify event details such as date, time, location, ticket types, and more in a matter of minutes.",
-    "hash": "sha256-3X0kJOKfrtv4SSKOeDWUKsmkC6H0/M/TssJceWKNIbE="
+    "description": "Create, manage, and display events on your TYPO3 website with ease. The extension offers features like customizable event details, ticket types, schedules, and more—all from a user-friendly backend.",
+    "hash": "sha256-LC8WZhXXAAhwQuZYrTPokOxloKNUB+aBJ3DlwA8O9iU="
   },
   "ns_ext_compatibility": {
-    "version": "12.0.0",
+    "version": "12.0.1",
     "t3_versions": [
       12
     ],
-    "description": "Are you in need of a TYPO3 Extension that offers features such as system information reporting, statistical analysis of TYPO3 extensions, downloadable compatibility options, and more? TYPO3 Extensions Compatibility Report, tailored to meet your specific requirements! Compatible with all major versions of TYPO3 , it assists you in assessing the feasibility and complexity of TYPO3 upgrades. ",
-    "hash": "sha256-bEhgXXojlaHqsXnSzj6T+qAqqLk2WLh4ORtX0SXib3M="
+    "description": "Analyze the compatibility of your TYPO3 extensions before upgrading. Get insights, reports, and recommendations to ensure smooth version upgrades and better system stability.",
+    "hash": "sha256-AAYlnQ6v/x5gSstgQquL6NEY6x+W9rpL97K7k0KRrws="
   },
   "ns_facebook_comment": {
     "version": "2.0.2",
@@ -40412,31 +40415,31 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ns_faq": {
-    "version": "13.0.0",
-    "t3_versions": [
-      12,
-      13
-    ],
-    "description": "The Ultimate FAQ TYPO3 Extension helps in managing Frequently Asked Questions easy and efficient for your TYPO3 website. With its user-friendly backend module, you can effortlessly add, customize, and style the FAQs. It's fully compatible with the latest TYPO3 Version",
-    "hash": "sha256-bqYZ6vvhj2p2R8uDWgaP7x88j/Zfy8nEe87BCWmm0Fg="
-  },
-  "ns_feedback": {
     "version": "13.0.1",
     "t3_versions": [
       12,
       13
     ],
-    "description": "The TYPO3 Feedback Extension is a great tool for gathering feedback from visitors or customers on your website. With the All In One TYPO3 Feedback extension, website admin can easily add feedback forms in various styles to their website, allowing them to collect valuable insights from their visitors.",
-    "hash": "sha256-0O91xqEFSGx7rsFx6M/0AOhaRHMQArhLsGnq7WveUzY="
+    "description": "Easily manage and display Frequently Asked Questions on your TYPO3 website. This extension offers a user-friendly backend interface to create, customize, and organize FAQs efficiently. Compatible with the latest TYPO3 versions.",
+    "hash": "sha256-q9uy+zN4hmbt5MQgf7JrZ12+yYwVFM/A6RXOa2fCY+U="
   },
-  "ns_friendlycaptcha": {
-    "version": "13.0.0",
+  "ns_feedback": {
+    "version": "13.0.2",
     "t3_versions": [
       12,
       13
     ],
-    "description": "Friendly Captcha is a new way to protect your forms from bots without asking users to solve puzzles. It fully complies with GDPR regulations. Their device solves the challenge in the background, so they don't have to do anything extra. ",
-    "hash": "sha256-Aq/7MxNJItvPiBf5j0XKlGYCOeUGNkfKKYdvlcECBOg="
+    "description": "A powerful TYPO3 extension to collect user feedback through customizable forms. Easily embed feedback forms in various styles to gather insights and improve your website’s performance. Fully compatible with TYPO3 v12 and v13.",
+    "hash": "sha256-H4leX1zdSjHeFmScR6pTsmULwM8uYE12M6GWQ0720s8="
+  },
+  "ns_friendlycaptcha": {
+    "version": "13.0.1",
+    "t3_versions": [
+      12,
+      13
+    ],
+    "description": "Protect your TYPO3 forms from bots without annoying puzzles. Friendly Captcha runs seamlessly in the background and complies fully with GDPR regulations.",
+    "hash": "sha256-nS6WUThfMdO7bCeyZY9BtOpMbLBwfnZoEHZEpcsf9Nk="
   },
   "ns_gallery": {
     "version": "12.1.0",
@@ -40476,23 +40479,23 @@
     "hash": "sha256-0qPSKL4orLEda4qMUz6Z0Q14T4ISW6AKYJGsQxJbWdU="
   },
   "ns_gridtocontainer": {
-    "version": "2.0.0",
+    "version": "2.0.1",
     "t3_versions": [
       10,
       11,
       12
     ],
-    "description": "Are you tired of waiting for a public version of Gridelements for the current TYPO3 version? With EXT:container, there's a public solution available for creating grids and containers in TYPO3. We've developed a developer-friendly TYPO3 extension called EXT:ns_gridtocontainer to help you migrate from EXT:gridelements to this new extension. By using our TYPO3 extension, you can easily migrate and save yourself time and effort. ",
-    "hash": "sha256-Xv/Doq8TMQyjs2h3fvvrix6YddPXrzem1g6gQyRjFOU="
+    "description": "Quickly migrate from EXT:gridelements to EXT:container in TYPO3 with this developer-friendly tool. Save time and ensure compatibility with the latest TYPO3 versions using this streamlined migration extension.",
+    "hash": "sha256-K6NngXzvL9o1RgxjOoBzlrPj4m4u9a7B/a2zNdjbYKc="
   },
   "ns_guestbook": {
-    "version": "13.0.0",
+    "version": "13.0.1",
     "t3_versions": [
       12,
       13
     ],
-    "description": "TYPO3 Guestbook Extension easily integrates all the features of a guestbook, including a review form with email sending functionality. This TYPO3 guestbook plugin also includes spam protection and numerous customization options. Guests can share their reviews, ratings, and contact details, as well as personal experiences, through this Guestbook TYPO3 Extension. ",
-    "hash": "sha256-ogeTkT8fLP5XQa3G70LjQouFE0cd4d9e1+bLprb0clo="
+    "description": "Add a user-friendly guestbook to your TYPO3 website with customizable forms, spam protection, and email notifications. Let visitors leave reviews, ratings, and share experiences easily.",
+    "hash": "sha256-F/oCMYf0KPuy4hkPNKwsyFxmHF3emSbkqwRl4GFlDhk="
   },
   "ns_headless_blog": {
     "version": "1.0.0",
@@ -40512,13 +40515,13 @@
     "hash": "sha256-DSVYVOyfTNbpZqnbsFA6VVfQgOeCL3864aaWXJ+UHyA="
   },
   "ns_helpdesk": {
-    "version": "13.0.0",
+    "version": "13.0.1",
     "t3_versions": [
       12,
       13
     ],
-    "description": "Manage customer support with the all-in-one TYPO3 Help Desk extension. This user-friendly tool lets you set up a support help desk quickly with support tickets, providing a dedicated dashboard, ticketing system, email notifications, restricted access, and options for file and media uploads.",
-    "hash": "sha256-qSyxALEXkCDkGn41rWZSM05PFcALJvs3b0T/71h0OmQ="
+    "description": "Easily manage customer support on your TYPO3 site with a ticket-based helpdesk system. Includes dashboard, ticket management, email alerts, file uploads, and user access control.",
+    "hash": "sha256-vNguRm+482b8z6MdCxexJc0/cpaFJmx+KtrxMeFw5cc="
   },
   "ns_hubspot": {
     "version": "1.0.1",
@@ -40530,7 +40533,7 @@
     "hash": "sha256-jCClL1DA/rkavnnbKWUmrPixckzDrF2k4ckp7pa7QU8="
   },
   "ns_instagram": {
-    "version": "6.0.0",
+    "version": "6.0.1",
     "t3_versions": [
       8,
       9,
@@ -40539,8 +40542,8 @@
       12,
       13
     ],
-    "description": "The TYPO3 Instagram extension is a straightforward plugin that easily integrates to display your Instagram Feed. It offers clean, customizable, and responsive feeds directly from your Instagram account. Showcase galleries, feeds, and photo tiles from multiple Instagram accounts in an appealing format. It adds a visually attractive frontend display of Instagram posts to your TYPO3 website.  *** Live-Demo: https://demo.t3planet.com/t3t-extensions/instagram *** Documentation & Free Support: https://t3planet.com/typo3-instagram-extension",
-    "hash": "sha256-WkGp2I7hEuqjN0SVWJacyRm4/XibwESCFldOkscxC9k="
+    "description": "Easily display responsive and customizable Instagram feeds on your TYPO3 site. Show galleries and photo tiles from one or multiple Instagram accounts in a clean and attractive layout.",
+    "hash": "sha256-UuzstY2CCzROtDbj/rKivZmS5yESVGRpn/z/7dIYRkw="
   },
   "ns_langtmplsel": {
     "version": "0.0.3",
@@ -40569,39 +40572,41 @@
     "hash": "sha256-ROtQrJdQf/8yRNfzlMo1485sJMo0siP6ro64h/2C3Vo="
   },
   "ns_news_advancedsearch": {
-    "version": "13.0.0",
+    "version": "13.0.1",
     "t3_versions": [
-      12
+      12,
+      13
     ],
-    "description": "Enhance your TYPO3 News Extension with the Advanced TYPO3 News Extension. Expand your news search capabilities with detailed, precise results and the ability to filter content by specific fields using the Advanced Extension. This extension incorporates specially crafted search algorithms to ensure both speed and relevance in your searches. ",
-    "hash": "sha256-K/57p/jayI26fpgfM9gkq6lhcvJSuer1I5/PbsJCics="
+    "description": "Extend the TYPO3 News extension with powerful advanced search functionality. Easily filter news by categories, authors, tags, and custom fields with precision and speed—thanks to optimized search algorithms designed for relevance.",
+    "hash": "sha256-g4Ncfb+5WQ2DUVy0N9EegmcmxXA+SdTIYMuIPXNxA9U="
   },
   "ns_news_comments": {
-    "version": "13.0.0",
+    "version": "13.0.1",
     "t3_versions": [
       11,
-      12
+      12,
+      13
     ],
-    "description": "All New TYPO3 News Comment Extension helps add comments to your news pages and articles. It comes with a variety of features for managing and customizing comments. It is designed to enhance user experience with a simple interface and is SEO-friendly.",
-    "hash": "sha256-3JUafyWieLeiN5q4cKB8nNEFnlAjq5onkTbIrXrrYDo="
+    "description": "Add a full-featured comment system to your TYPO3 News articles. This extension provides easy comment management, a clean frontend interface, and SEO-friendly functionality to improve user engagement on your news pages.",
+    "hash": "sha256-5yCMK1snhHW/Zno2b6X59ReW78pllqrKrcqygYH5YRc="
   },
   "ns_news_slider": {
-    "version": "13.0.0",
+    "version": "13.0.1",
     "t3_versions": [
       12,
       13
     ],
-    "description": "The TYPO3 News Slider extension lets you create an attractive news slider for your website. It offers several popular JQuery slider plugins like Owlcarousel Slider, Royal Slider, Slidejs Slider, and Slick Slider. It's an easy and convenient way to add a news slider to your site!",
-    "hash": "sha256-+2Ob+LNLSpNHlgtrhhoJQobrl1pe002osseJh5U7aEA="
+    "description": "Easily showcase news items in an interactive and visually appealing slider. This extension supports multiple jQuery sliders including OwlCarousel, RoyalSlider, SlideJS, and Slick Slider—making it simple to integrate a modern news carousel into your TYPO3 website.",
+    "hash": "sha256-agUf4sjZiVI+T7wThTvVQW/FKyAmuZqJPRGegomT5TA="
   },
   "ns_open_streetmap": {
-    "version": "13.0.0",
+    "version": "13.0.1",
     "t3_versions": [
       12,
       13
     ],
-    "description": "The TYPO3 OpenStreetMap extension allows you to effortlessly embed maps from OpenStreetMap into your TYPO3 website. It enables features such as 5+ OpenStreetMap styles, displaying physical addresses, location popups, and 10+ customization options, compatible with TYPO3 v12.",
-    "hash": "sha256-maC6Zls9cxstbJp+Ag3sTdTnjkyis3hG/GOEuH7pGjw="
+    "description": "Easily embed interactive maps from OpenStreetMap into your TYPO3 website. Supports multiple map styles, location markers, popups, and over 10 customization options—fully compatible with TYPO3 v12 and v13.",
+    "hash": "sha256-V6+jNHMs1SalIoahzmaKQ5adPDX+/eJWtmeD8xVSU2Y="
   },
   "ns_openai": {
     "version": "2.0.0",
@@ -40662,23 +40667,24 @@
     "hash": "sha256-xVFsaavQo/WR6o5/G4USI5sRsKyHHXTzUfHQXbwD5lc="
   },
   "ns_snow": {
-    "version": "13.0.0",
+    "version": "13.0.1",
     "t3_versions": [
-      12
+      12,
+      13
     ],
-    "description": "Spread the joy of Christmas on your TYPO3 website with the Snowfall TYPO3 Extension. This addon, ns_snow, adds beautiful snowflakes and snowfall animation to all pages, creating a festive atmosphere. TYPO3 Snowfall Extension is also compatible with the latest TYPO3 Version 12. *** Live-Demo: https://demo.t3planet.com/t3-extensions/snow/ *** Documentation & Free Support: https://t3planet.com/typo3-snowfall-extension",
-    "hash": "sha256-/nhITowPjqStS4ucbLeUTJMtWro2aFac7j/FeImKICw="
+    "description": "Add festive snowfall animations to your TYPO3 website with this lightweight extension. Enhance the holiday mood with animated snowflakes across all pages. Fully compatible with TYPO3 v12 and v13.",
+    "hash": "sha256-qvUa4WJ8gJez2LRTXpjZwkCSDmZNnCxpGEBSJqE7gEg="
   },
   "ns_social_login": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "t3_versions": [
       9,
       10,
       11,
       12
     ],
-    "description": "Meet our all-in-one TYPO3 Social Login and Register extension, which allows users to log in and register using various social media accounts directly from your TYPO3 frontend. With this extension, users can easily access your site using popular platforms like Facebook, Google, Twitter, LinkedIn, Instagram, OpenID, Apple, Discord, Keycloak, Slack, Telegram, Dropbox, and more. Get seamless, one-click frontend login with the TYPO3 Social Login extension. Explore the Demo, Product Page, Documentation & Support: https://t3planet.com/typo3-social-login-extension",
-    "hash": "sha256-2CfeOD/hXNIgdppUNSiCdF+V5OiUKBCpCzZN7+TRAXc="
+    "description": "Enable users to log in and register via popular social platforms like Google, Facebook, LinkedIn, Apple, Discord, and more. A seamless one-click login experience directly on your TYPO3 frontend.",
+    "hash": "sha256-dw7ZIqYRgucDO+F7SUIokA5EV1H2r67ktdJlTlCNS7o="
   },
   "ns_statcounter": {
     "version": "3.0.2",
@@ -40774,7 +40780,7 @@
     "hash": "sha256-D8BO8ZpAHN38kkaAIa+nwmfPJGB2LyRe6cwQ7LGzuG0="
   },
   "ns_twitter": {
-    "version": "3.1.1",
+    "version": "3.1.2",
     "t3_versions": [
       7,
       8,
@@ -40782,8 +40788,8 @@
       10,
       11
     ],
-    "description": "Display fully customizable, responsive, and search engine crawlable  Twitter feeds on your TYPO3 website. The TYPO3 Twitter Extension easily integrates to display Tweets that perfectly match your site's appearance and offers many customization options. Easily embed Twitter Timelines, Feeds, Follow buttons, and Like buttons on posts, pages, and widget areas. ",
-    "hash": "sha256-wGosHSOLGy6KiFuKm80a+gEbSTLJWIYysRwnmUWUh6Y="
+    "description": "Easily display responsive, customizable, and SEO-friendly Twitter feeds on your TYPO3 site. Embed timelines, tweets, follow buttons, and more with full control over layout and appearance.",
+    "hash": "sha256-cVQEaCr1R0E1Yz5tNlICF2S9n6+0ij/n301mxlKTTnU="
   },
   "ns_whatsapp": {
     "version": "12.1.0",
@@ -53268,12 +53274,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "skins": {
-    "version": "11.1.6",
+    "version": "11.4.1",
     "t3_versions": [
-      12
+      13
     ],
     "description": "This extension adds a dark skin (dark theme) to the TYPO3 backend. The colors are customizable and can be changed to your favorite colors.",
-    "hash": "sha256-Pdznymtit/W/U2gvXqc30heoALhFMb/aUPg2JyoZ2pI="
+    "hash": "sha256-/TgIUFHSiOh3vIbrR1GTZIgR7Hh/ncKYKR5cel+mEyM="
   },
   "skip_page_is_being_generated": {
     "version": "1.1.7",
@@ -67318,14 +67324,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "yoast_seo": {
-    "version": "11.0.2",
+    "version": "11.1.0",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "Optimise your website for search engines with Yoast SEO for TYPO3. With this extension you get all the technical SEO stuff you need and will help editors to write high quality content.",
-    "hash": "sha256-clai7noh9kStmevVG4iCwELXabzDiFk3I0oWYMGjXzc="
+    "hash": "sha256-YzYWsROQcP4kL1CLCu/3m8bWlY8z305Nmt2lIDRF7dE="
   },
   "yoo_blockimage": {
     "version": "1.0.0",
