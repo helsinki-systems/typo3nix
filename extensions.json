@@ -3257,13 +3257,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ausstello": {
-    "version": "1.1.18",
+    "version": "1.2.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Events managen und kommunizieren, Marketing automatisieren. Einfach, ausstello.",
-    "hash": "sha256-sqDxYDxFGC9TfWv6tAzIkPie3YV7TzKdK3S5Cufk/SA="
+    "hash": "sha256-R8115n7qkGwI6kkKF3ryKYgrEL193TYNcTwSA/lMt8g="
   },
   "auth0": {
     "version": "13.0.2",
@@ -3736,13 +3736,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.348.2",
+    "version": "3.349.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-5enawc9oK27wcl+AAwgG1/i+nvaoZoYUBjIY+Yz8dcM="
+    "hash": "sha256-2Oj5hexOuF+JA/RnJfCsIan8cRZysEG+z0i3pzf46y8="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -13643,13 +13643,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "deferred_image_processing": {
-    "version": "2.0.0",
+    "version": "3.0.0",
     "t3_versions": [
-      11,
-      12
+      12,
+      13
     ],
     "description": "Handles image processing on request instead of during page generation",
-    "hash": "sha256-zXIiAGLpVowUQbxOQLqiqwvEKRmyeUiF58ERBNskVIY="
+    "hash": "sha256-dTjAnb9O0I8sMAJ2IsMFnSw+iKBHI58C2lV+KSIXFiM="
   },
   "dejure_org": {
     "version": "11.0.0",
@@ -27988,12 +27988,12 @@
     "hash": "sha256-lkh/tM6KYVlLaeomiaJxdpg1ZaI57X1AeQgkmj3fgXQ="
   },
   "jar_columnrow": {
-    "version": "2.0.7",
+    "version": "2.0.8",
     "t3_versions": [
       12
     ],
     "description": "Provides a freely definable and universal grid element with bootstrap-based output.",
-    "hash": "sha256-umQ2V6btZYykX09cwM9HAEz4O9Dda5bDVmR6dSUJBOo="
+    "hash": "sha256-OCn149HnphMnbAIJr046SEx4J4ILeZczuP3FRfsZPH4="
   },
   "jar_dataflow": {
     "version": "2.0.4",
@@ -32721,13 +32721,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "lux": {
-    "version": "38.5.1",
+    "version": "38.6.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Living User Experience - LUX - the Marketing Automation tool for TYPO3.",
-    "hash": "sha256-naR/339FyZMJGwaL6QMUSU/Re33ZtT5uwkklU/Hj0GE="
+    "hash": "sha256-tjgH0Te5vE4AHO3SP5CMCrIAJjLBEaHMSOmJPiFiFvE="
   },
   "luxletter": {
     "version": "27.2.1",
@@ -40563,13 +40563,13 @@
     "hash": "sha256-kPxKaPOFunsxkd20gpiPaMTtTkdDsAyhYtNQVZgoXGY="
   },
   "ns_license": {
-    "version": "13.0.7",
+    "version": "13.0.9",
     "t3_versions": [
       12,
       13
     ],
     "description": "Manage licenses of your TYPO3 templates and extensions purchased from T3Planet. Includes activation and license validation. Documentation available at https://docs.t3planet.com/en/latest/License/LicenseActivation/Index.html",
-    "hash": "sha256-ROtQrJdQf/8yRNfzlMo1485sJMo0siP6ro64h/2C3Vo="
+    "hash": "sha256-Habll/ayUPBH0hlHqhTpmKaSZDKUT7/cQBpIuAQahmQ="
   },
   "ns_news_advancedsearch": {
     "version": "13.0.1",
@@ -40711,13 +40711,13 @@
     "hash": "sha256-p9NkLUwME/aWKWfdM1ZhB2pnjWrzcOa0zz2kDd28VFI="
   },
   "ns_theme_agency": {
-    "version": "13.0.4",
+    "version": "13.0.6",
     "t3_versions": [
       12,
       13
     ],
-    "description": "T3 Agency Template for TYPO3 Website, for Build your TYPO3 website for a software development company, a product startup or any new business. plus its compatible with the latest TYPO3 v12 & v13.",
-    "hash": "sha256-jGZlFBNuU594cOvwCicK1ImSM3IJX7HQ4M8Eh9uln0s="
+    "description": "A professional TYPO3 website template ideal for software companies, startups, and digital agencies. Fully responsive and compatible with TYPO3 v12 & v13.",
+    "hash": "sha256-mxfqZGFMVdoI8S7XQovD8syF2Xj9NiSF9spMPwbQIXE="
   },
   "ns_theme_cleanblog": {
     "version": "13.0.0",
@@ -40747,13 +40747,13 @@
     "hash": "sha256-bgovpmuiunAbezIgZrBx4+IhHe5V9z9hbi288Jbrswo="
   },
   "ns_theme_freelancer": {
-    "version": "13.0.1",
+    "version": "13.0.2",
     "t3_versions": [
       12,
       13
     ],
-    "description": "Are you a TYPO3 freelancer? Are you looking for a free TYPO3 template for your portfolio? Create an eye-catching portfolio and showcase your skills with the T3 Freelancer Template. This template is perfect for illustrating your portfolio and allows you to create stylish presentations.",
-    "hash": "sha256-JPLOtiKU3UDOMVL8TEs7bRfNSmv10GezEVYigyysf1k="
+    "description": "A modern and responsive TYPO3 template for freelancers to showcase their work, services, and personal brand. Ideal for portfolios and professional presentations.",
+    "hash": "sha256-QU1O38CN1WB8VygWGZJbAaFYjH8fiaLFg675HMvenQE="
   },
   "ns_theme_newage": {
     "version": "13.0.0",
@@ -40809,12 +40809,13 @@
     "hash": "sha256-hrks1LWCZh7LfUfMZ+edapH26cjxeyYwFLF7PB9mMFU="
   },
   "ns_youtube": {
-    "version": "13.0.0",
+    "version": "13.0.1",
     "t3_versions": [
-      12
+      12,
+      13
     ],
-    "description": "Using Youtube TYPO3 Extension you can display your YouTube videos directly on your TYPO3 site within a video box, allowing visitors to view them without being redirected to www.youtube.com. It easily integrates all YouTube features, such as Simple Video, Channel and Playlist management, Live-streaming, and engagement options such as likes and subscribe. ",
-    "hash": "sha256-LXhKIpHVriHjbLlUa5YbGwEl+GydOBrMEILSoavbfoU="
+    "description": "Seamlessly embed and manage YouTube videos, playlists, and channels in your TYPO3 website. Includes support for live streaming and full YouTube feature integration — without redirecting users to YouTube.",
+    "hash": "sha256-l8ik3WazeoLc1a4uk/aGVSpIZjFHi/bIUvFveS48bDk="
   },
   "ns_zoho": {
     "version": "2.0.0",
