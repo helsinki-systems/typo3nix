@@ -3736,13 +3736,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.349.0",
+    "version": "3.349.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-2Oj5hexOuF+JA/RnJfCsIan8cRZysEG+z0i3pzf46y8="
+    "hash": "sha256-VEpoB7TkTwU8QO/u1dsQ+s81bIsl8bSQR0gaRAtDdfE="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -10220,12 +10220,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "content_replacer": {
-    "version": "8.0.0",
+    "version": "9.0.2",
     "t3_versions": [
-      12
+      13
     ],
     "description": "You need a fast substitution of terms with full support of typoscript, categories and RTE integration? If yes, the extension could be perfectly fit into your project. The performance is gained by wrapping of the replacement terms to simplify the parsing process.",
-    "hash": "sha256-7SKdm3qz68prxWJa2vxG9def5h0HEoWZTPP9NzSi1Ho="
+    "hash": "sha256-5I5dA6zktVRurewT5TByORfCyylIra1fkJ2b2nfmUow="
   },
   "content_slug": {
     "version": "4.2.0",
@@ -13989,12 +13989,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "df_tabs": {
-    "version": "9.0.0",
+    "version": "10.0.4",
     "t3_versions": [
-      12
+      13
     ],
     "description": "Create tab based content elements and pages easily and flexible with configurable mouseover handling, animations and autoplay features! It requires jquery.",
-    "hash": "sha256-W66V5TTD19NQwS0WBdtR04Bpg6/g3feNR5kv5inJeiw="
+    "hash": "sha256-77GL0JSBxrFKUI3skUPpmuAwzaw/7GdqxlnIXRzkkqU="
   },
   "df_titleclass": {
     "version": "0.0.2",
@@ -21654,12 +21654,22 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "formhandler": {
-    "version": "2.4.1",
+    "version": "13.0.1",
     "t3_versions": [
-      7
+      12,
+      13
     ],
-    "description": "The swiss army knife for all kinds of mailforms, completely new written using the MVC concept. Result: Flexibility, Flexibility, Flexibility  :-).",
-    "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
+    "description": "The swiss army knife for all kinds of mail forms.",
+    "hash": "sha256-PR7MHyDtXEqgPh2nHYTgCvozo8suEqWO62HpqCS+5cI="
+  },
+  "formhandler_ajax": {
+    "version": "13.0.1",
+    "t3_versions": [
+      12,
+      13
+    ],
+    "description": "Add AJAX capability to Formhandler. File upload, validation, submit.",
+    "hash": "sha256-jN0VxU2q6ykLzpOVrSbJ4vaCiqgA9BU1r8iQ1oxAghk="
   },
   "formhandler_backend": {
     "version": "0.1.1",
@@ -21702,6 +21712,15 @@
     ],
     "description": "Enhances the formhandler extension with the possibility to call Extbase PreProcessors, Finishers etc.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "formhandler_hcaptcha": {
+    "version": "13.0.2",
+    "t3_versions": [
+      12,
+      13
+    ],
+    "description": "Add error check hcaptcha to Formhandler.",
+    "hash": "sha256-iLPpuUu0jfDqoYWETtgsN3AWaBRuNrfuL2260kIJC78="
   },
   "formhandler_payment": {
     "version": "0.0.3",
@@ -31715,13 +31734,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "lfeditor": {
-    "version": "8.0.1",
+    "version": "9.0.4",
     "t3_versions": [
-      11,
-      12
+      13
     ],
     "description": "This module serves several functions for editing of language files.",
-    "hash": "sha256-LlaFK1lnQm7H34X4Lw2ylJjGBAwJ04wI9dBy2jQnNxc="
+    "hash": "sha256-4M60DzJ+QxTJwp6jWV8iJtexig7k1AfDAU705QFwEgQ="
   },
   "lfeditor_impexp": {
     "version": "2.0.0",
@@ -40183,12 +40201,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "nr_image_sitemap": {
-    "version": "11.1.2",
+    "version": "13.0.6",
     "t3_versions": [
-      11
+      13
     ],
     "description": "Provides a data provider to use with the typo3/cms-seo extension, to create an image sitemap",
-    "hash": "sha256-z0CQA/GG9Llz6xTopXE55oDJ0HuIi4/yt09IKgfe2JE="
+    "hash": "sha256-zA6YMAbXpkiY+rd+wcmLce9rJxD+YMBt7nNXPXTtRgc="
   },
   "nr_indexedsearch_patch": {
     "version": "0.0.3",
@@ -50713,12 +50731,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "scriptmerger": {
-    "version": "9.0.0",
+    "version": "10.0.2",
     "t3_versions": [
-      12
+      13
     ],
     "description": "This extension minimizes the http requests by concatenating your css and javascript. Furthermore the result can be minified and compressed. This whole process is highly configurable and is partly based on the \"minify\", \"jsminplus\" and \"jsmin\" projects.",
-    "hash": "sha256-l97+/R4ZD+jCbSSvGWYtz+C1+Gsp3QriL+sVLsQgi/Y="
+    "hash": "sha256-V6MRsJcmHBF0/YoW4uOlJSP9UuBXb1okPw44OOHjEXY="
   },
   "scriptmergerbless": {
     "version": "0.0.1",
@@ -51511,6 +51529,14 @@
     "description": "Adds some new widgets for myDashboard. F.e. filesystem informations",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "sg_account": {
+    "version": "11.0.8",
+    "t3_versions": [
+      13
+    ],
+    "description": "Offers Website user functionalities (Register, Edit, Login, Account links, User management)",
+    "hash": "sha256-2T9MWpLQTgrfed9DLU6D9h8qpDytAlLZQHvoPNetqzs="
+  },
   "sg_address": {
     "version": "0.14.3",
     "t3_versions": [
@@ -51525,6 +51551,14 @@
     "t3_versions": [],
     "description": "Use sg_address instead ! Additional Address Database (for Companies with payed Ads, Hotels etc.) with FE-editable Entries and Typolink for Adress-Popups (LAST Version, that relies on sg_zfeeditlib !)\r",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "sg_ajax": {
+    "version": "6.0.1",
+    "t3_versions": [
+      13
+    ],
+    "description": "Handles our ajax implementation.",
+    "hash": "sha256-1hUUywGngDRoRdbxkQpczfdtDOuq77pez2mn+wfvJYg="
   },
   "sg_ajaxnews": {
     "version": "0.2.1",
@@ -51555,6 +51589,22 @@
     "description": "Auto-Login by IP, if no Username/PW is given at BE-Login. Enter IP (or comma-separated IP-List without spaces) for BE User; make sure, that same IP(s) are NOT given to more than one BE-User. Then Click on \"Login\" with empty BE-Login-Form logs in by IP. Lo",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "sg_cache_extender": {
+    "version": "7.0.2",
+    "t3_versions": [
+      13
+    ],
+    "description": "Adds a possibility to clear all caches at once",
+    "hash": "sha256-zxjiGId9xWULEyT8Y5Bdv6zYrZyEFwbXa5d7g05ASdQ="
+  },
+  "sg_comments": {
+    "version": "8.0.10",
+    "t3_versions": [
+      13
+    ],
+    "description": "Possibility to comment on the posts with replies and moderate comments",
+    "hash": "sha256-+8Tpd1z+JI9k/F2AL/LgyPUFKE/lnkwigN6paJSVm1M="
+  },
   "sg_contentlink": {
     "version": "3.0.0",
     "t3_versions": [
@@ -51565,16 +51615,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sg_cookie_optin": {
-    "version": "6.0.9",
+    "version": "7.0.9",
     "t3_versions": [
-      9,
-      10,
-      11,
       12,
       13
     ],
     "description": "",
-    "hash": "sha256-SUiVg2D3vdMMd5SkRzvNaFwVQMhbDrIrNHGaJ1p3jl0="
+    "hash": "sha256-luccwADmmpnQelddsIDUJMKdx5dq6kk6UnzxV+KJHDs="
   },
   "sg_cropscale": {
     "version": "0.5.0",
@@ -51653,6 +51700,14 @@
     "description": "Let FE-User upload/download files and categorize them by given Categories.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "sg_forms": {
+    "version": "7.1.2",
+    "t3_versions": [
+      13
+    ],
+    "description": "Additional features for the Forms extension",
+    "hash": "sha256-HqOMumt//zUne0YgVenR2OVfWwo+rsuLCut50gMK3kk="
+  },
   "sg_genealogy": {
     "version": "0.4.0",
     "t3_versions": [
@@ -51690,6 +51745,14 @@
     "description": "Content AUtoparser for sg_glossary",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "sg_jobs": {
+    "version": "7.3.0",
+    "t3_versions": [
+      13
+    ],
+    "description": "Manage and display your Job offers.",
+    "hash": "sha256-Z9JIVEwLxVdUmafEQS0tEt2NePBCWSzVkp67/ocLzzE="
+  },
   "sg_layerslider": {
     "version": "3.0.14",
     "t3_versions": [
@@ -51697,6 +51760,30 @@
     ],
     "description": "Integrates Kreaturemedia Layerslider",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "sg_logs": {
+    "version": "2.0.5",
+    "t3_versions": [
+      13
+    ],
+    "description": "This extension provides scripts for logs viewing",
+    "hash": "sha256-k+4mjr4roxfN0u6mREeWEu9HKdbMBt+tVU4hm03YuTE="
+  },
+  "sg_mail": {
+    "version": "10.0.8",
+    "t3_versions": [
+      13
+    ],
+    "description": "Mail Templates",
+    "hash": "sha256-pOlQ+vrKdf/GLeQWv5UcVP4kg5ogDQAvgdlrPVG136c="
+  },
+  "sg_news": {
+    "version": "12.0.7",
+    "t3_versions": [
+      13
+    ],
+    "description": "News System",
+    "hash": "sha256-x8sX8Xhy65wjza4uWIAs431sIz2vDAuXc3xbFdt0E4w="
   },
   "sg_newsgrid": {
     "version": "0.5.1",
@@ -51747,19 +51834,35 @@
     "description": "Extension Replaces Placeholder with values",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
-  "sg_routes": {
-    "version": "7.0.0",
+  "sg_rest": {
+    "version": "7.0.1",
     "t3_versions": [
-      12
+      13
+    ],
+    "description": "The extension provides a basic REST environment.",
+    "hash": "sha256-tDN8FyO2UR/foRkgoTD61WTe8sABkRcVW/3ntbifjPE="
+  },
+  "sg_routes": {
+    "version": "8.0.7",
+    "t3_versions": [
+      13
     ],
     "description": "URL Redirects and Page Not Found Handling",
-    "hash": "sha256-RA9uAxz1lfhNCE0Cu5Bi9ZPz7Op3YoFnaKaT+a+Kd/U="
+    "hash": "sha256-92AL9QHviVOcR2klJUkhp2cZk2VcFCAbGC3zr9oJWSU="
   },
   "sg_search": {
     "version": "0.7.501",
     "t3_versions": [],
     "description": "Extends Standard-Search with search in Plugins tt_news/sg_newsplus, sg_glossary, sg_address and sg_prodprom so far. Theoretically extendable by TS to search also any other tables. Please wait for coming Docu.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "sg_seo": {
+    "version": "8.0.2",
+    "t3_versions": [
+      13
+    ],
+    "description": "Extended SEO Integration for TYPO3 based on EXT:seo",
+    "hash": "sha256-Obpi4Zv80DczWat5+UvgOX79dpFNkDCAXQ4Z1Ib9BlY="
   },
   "sg_showdoku": {
     "version": "0.3.1",
@@ -51802,22 +51905,22 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sg_vimeo": {
-    "version": "5.1.0",
+    "version": "6.0.5",
     "t3_versions": [
       12,
       13
     ],
     "description": "A solution for embedding Vimeo videos, playlists, or channels easily into TYPO3 pages.",
-    "hash": "sha256-fbYyClVvYFxUlHsM5JNfk4VT36VXVcdkkOGIMbeYnn0="
+    "hash": "sha256-nzJTN12GXvaSywEfoQS6uFCGiuclBOaME08GUDnQNlQ="
   },
   "sg_youtube": {
-    "version": "8.1.0",
+    "version": "9.0.4",
     "t3_versions": [
       12,
       13
     ],
     "description": "A solution for embedding YouTube videos, playlists, or channels easily into TYPO3 pages.",
-    "hash": "sha256-DWOWW4LGGXTI2bjkI8NLFCA8foOkJCO2VA1NAVNI+gI="
+    "hash": "sha256-rvHfXTyT9T1U+ukyf9ao0sfOzwUw61pci3JLE53HyOc="
   },
   "sg_zfeeditlib": {
     "version": "0.8.12",
