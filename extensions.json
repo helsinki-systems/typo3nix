@@ -2155,13 +2155,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "altcha": {
-    "version": "0.5.0",
+    "version": "0.5.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "TYPO3 form element for spam protection by utilizing the proof-of-work mechanism Altcha.",
-    "hash": "sha256-g4suI6ZIHrFlQzRHPnxXgHXOe0TGUmeN0JomxGb8qwY="
+    "hash": "sha256-Tla5oZoUDKZxDQ4aj7akzOfvyGsfnC5ugEZwQRC5BS8="
   },
   "altern_lang_menu_page_title": {
     "version": "1.0.1",
@@ -21057,6 +21057,17 @@
     ],
     "description": "",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "fnn_powermail_altcha": {
+    "version": "10.0.0",
+    "t3_versions": [
+      10,
+      11,
+      12,
+      13
+    ],
+    "description": "Altcha Spam Protection for powermail",
+    "hash": "sha256-YjzZC18F53NjPNKH4hto3VQTtqwIGFnfJAczmVTEqeM="
   },
   "focuspoint": {
     "version": "7.0.5",
@@ -40296,13 +40307,13 @@
     "hash": "sha256-Y8UFhdxAA1X4YZf6gSMgEK7HwCpjF+6H28dkGq0KL9M="
   },
   "ns_all_sliders": {
-    "version": "13.0.0",
+    "version": "13.0.1",
     "t3_versions": [
       12,
       13
     ],
-    "description": "TYPO3 Slider Extension - All In One TYPO3 Slider Extension. Experience the power of this versatile TYPO3 slider plugin, integrating the most popular jQuery slider plugins seamlessly into your website. With configurable options for Nivo Slider, Royal Slider, Owlcarousel, Sliderjs Slider, and more, our TYPO3 Slider Extension transforms your site's visual appeal.",
-    "hash": "sha256-tdYHMTG77JtQn3j6Yj/x/Hsbs53qxlf1/77XwibycfY="
+    "description": "A powerful TYPO3 extension that integrates multiple jQuery sliders like Nivo, Royal Slider, OwlCarousel, and more—offering flexible options to enhance your website’s visual storytelling.",
+    "hash": "sha256-W6LGxHx3LtekO7fgw2NZKqc80h1uYBdeO8tC1l86eT8="
   },
   "ns_backup": {
     "version": "13.0.2",
@@ -40323,22 +40334,22 @@
     "hash": "sha256-ikMAjKvTYlAmwIPsNXZJJEawK80L6/gQYHPY7pYQqF0="
   },
   "ns_cache_webhook": {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "t3_versions": [
       10,
       11
     ],
-    "description": "Introducing our Flush Webhook Cache Extension for TYPO3 Backend, designed to streamline your web development process. With just a click, you can instantly clear the webhook cache, ensuring that your website stays updated with the latest changes and configurations.",
-    "hash": "sha256-WgYFfbJb1bFc5Dqt1IqyVCjoRjCisihNmQmpw/4q8RQ="
+    "description": "A simple TYPO3 extension to clear webhook cache directly from the backend with one click—ensuring your latest changes and configurations are always live.",
+    "hash": "sha256-Jyl5Flrteo1cn+4kRzQwMI+Lvz4o+pSFpTmYfXDygGM="
   },
   "ns_cloudflare": {
-    "version": "1.0.3",
+    "version": "1.0.4",
     "t3_versions": [
       11,
       12
     ],
-    "description": "",
-    "hash": "sha256-/280QR/TsvRchum0/fsMvTSUoWFnaH5cIQpLpz5roi8="
+    "description": "A TYPO3 extension to simplify cache management via Cloudflare. Seamlessly integrates with Cloudflare to enhance site performance and security for developers and administrators.",
+    "hash": "sha256-QQVmdqSbu5qtxtHdKSyld57HihPkdyctUECZ90wsFNo="
   },
   "ns_comments": {
     "version": "13.0.1",
@@ -40460,41 +40471,41 @@
     "hash": "sha256-nS6WUThfMdO7bCeyZY9BtOpMbLBwfnZoEHZEpcsf9Nk="
   },
   "ns_gallery": {
-    "version": "12.1.0",
+    "version": "12.1.1",
     "t3_versions": [
       12
     ],
-    "description": "Using the All In One TYPO3 Gallery Extension, you can easily create beautiful lightbox image and video galleries with various grid layouts right from the TYPO3 dashboard in just a few clicks. Try the best TYPO3 gallery extension for adding custom, unique and responsive galleries to your website.",
-    "hash": "sha256-cnNL6BBacIr2mj6eACtnV568GAk7lUSy5vxwH1+bxNU="
+    "description": "Create responsive and visually stunning lightbox image and video galleries with grid layouts directly from the TYPO3 backend. Easily manage and showcase your media in a user-friendly way.",
+    "hash": "sha256-uZmu4a7bcUiibU1cV+zC/TbFKePmLYO7y8emBmhqqxM="
   },
   "ns_google_map": {
-    "version": "12.0.2",
+    "version": "12.0.3",
     "t3_versions": [
       12
     ],
-    "description": "Introducing the TYPO3 Google Map Extension! This TYPO3 extension enables you to seamlessly add and customize Google Maps to your website with ease. Designed with responsive layouts and SEO-friendly features, it ensures a smooth and optimized experience for your visitors.",
-    "hash": "sha256-d56t0LV5x4uR80dXXh3q7LwLGRjbYG2k3bro0WJ82Og="
+    "description": "Easily integrate and customize responsive Google Maps on your TYPO3 website. Designed to be SEO-friendly and user-centric, it enhances user experience with smooth map embedding and layout options.",
+    "hash": "sha256-10CIKSgXZoXHzR/U3U9g8VgSWt2Tl+QdZhQ22EAVS9c="
   },
   "ns_google_sitekit": {
-    "version": "1.0.2",
+    "version": "1.0.3",
     "t3_versions": [
       10,
       11,
       12
     ],
-    "description": "Know what's going on with your TYPO3 site? How users visit and interact with your pages? Get Every Insights with single click button of Popular Google Tools including Google Analytics, Search Console, Google Ads & AdSense, and Tag Manager to your TYPO3 site without coding. Improve your website's performance and SEO. *** Live Demo: https://t3planet.com/sitekit-by-google-for-typo3 *** Documentation & Free Support: https://docs.t3planet.com/en/latest/ExtNsGoogleSiteKit/Index.html",
-    "hash": "sha256-RroHcuQZPB50JHkHKAuAQOF1+V5oYTllB+SVwW6sVEw="
+    "description": "Integrate Google tools like Analytics, Search Console, Google Ads, AdSense, and Tag Manager into your TYPO3 site—without writing any code. Track user behavior, enhance SEO, and optimize your website’s performance with a single extension.",
+    "hash": "sha256-rfcPzt+nbpWyEkOi8RqSlSbclpdf3ZoA+uDBOLUOD68="
   },
   "ns_googledocs": {
-    "version": "2.0.1",
+    "version": "2.0.2",
     "t3_versions": [
       8,
       9,
       10,
       11
     ],
-    "description": "Manually transferring all content from Google Docs to your TYPO3 website can be a boring task, right? We understand your concerns, which is why we've created an efficient solution to simplify this migration process for TYPO3 users. Our innovative solution allows you to import your Google Docs directly into your TYPO3 pages, news, and blogs with just one click, saving you valuable time. ",
-    "hash": "sha256-0qPSKL4orLEda4qMUz6Z0Q14T4ISW6AKYJGsQxJbWdU="
+    "description": "Tired of copying content manually from Google Docs to TYPO3? This extension lets you import Google Docs into TYPO3 pages, blogs, and news with a single click—saving time and improving productivity.",
+    "hash": "sha256-mWYy6+s9DRSLPfviPD+sZqRJs22U9qULuCtLN90lxIE="
   },
   "ns_gridtocontainer": {
     "version": "2.0.1",
@@ -40637,7 +40648,7 @@
     "hash": "sha256-rxC7Xh4SIE84kc6Cr0ncTzVUEAPSdzpH0bG0yoDjWs0="
   },
   "ns_personio": {
-    "version": "2.0.0",
+    "version": "2.0.1",
     "t3_versions": [
       9,
       10,
@@ -40645,8 +40656,8 @@
       12,
       13
     ],
-    "description": "The extension offers various customization options for job listing, detail, and application pages on the frontend. Additionally, a scheduler ensures data synchronization. Directly list, view, and apply to Personio vacancies through the TYPO3 Backend. ",
-    "hash": "sha256-yof9uX6dMs2pQgePjGRV5/NFrp2IpoZXdck8zwbRtOU="
+    "description": "Seamlessly integrate Personio job listings into your TYPO3 website. Customize job listings, detail pages, and application forms with real-time synchronization via TYPO3 Scheduler. Enables direct interaction with Personio from the TYPO3 backend.",
+    "hash": "sha256-6CPRd9OkOA1tU50K18rOggXGYeRmNgWdQreLaWhb9+Q="
   },
   "ns_protect_site": {
     "version": "2.0.4",
@@ -40660,21 +40671,21 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ns_pwa": {
-    "version": "1.1.1",
+    "version": "1.1.2",
     "t3_versions": [
       11,
       12
     ],
-    "description": "Make your TYPO3 website lightning fast & work offline! Get our TYPO3 PWA extension for a better SEO & mobile experience. Install today!",
-    "hash": "sha256-+NCKHEVbPKz5W82/uo07uA/b8wLz+ecDmumdoqQ1hCk="
+    "description": "Turn your TYPO3 website into a high-performance Progressive Web App (PWA) with offline access, fast loading, and improved mobile and SEO experience.",
+    "hash": "sha256-av02t5N8GAAdCLi2OIXKR/MrmaZvvKCvCUNOCUNmv94="
   },
   "ns_revolution_slider": {
-    "version": "12.0.1",
+    "version": "12.0.2",
     "t3_versions": [
       12
     ],
-    "description": "More than just a TYPO3 Slider! The TYPO3 Slider Revolution is developed in official partnership with Slider Revolution. It allows you to create effective sliders easily using the drag-and-drop feature. It comes with over 250+ modern slider templates and more than 2000+ pre-built slider elements, offering a wide range of transitions and effects.",
-    "hash": "sha256-HWJ14MqBLt8+z39ESl7hKsWAwjoVWSeYhC0LXAsIO04="
+    "description": "Create powerful and modern sliders for your TYPO3 website using the official Revolution Slider integration. Easily build sliders with drag-and-drop, 250+ templates, and 2000+ pre-built elements with advanced transitions and effects.",
+    "hash": "sha256-ypGtbeafhKWTkTS0TZ6rfBUxWDnrP0s8tDYih/EsNXc="
   },
   "ns_sharethis": {
     "version": "12.0.1",
@@ -51054,13 +51065,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "semantic_suggestion": {
-    "version": "2.0.0",
+    "version": "2.0.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "TYPO3 extension for suggesting semantically related pages",
-    "hash": "sha256-uuRgrjE7EgCB25vOqxKSsjRm2EL/tjZs7Nm9S5sn3EY="
+    "hash": "sha256-jJcHR3Cy+fgxVTRPQhI5IYeYuHS+0AQavPcUvDskywA="
   },
   "semantify_it": {
     "version": "0.1.8",
