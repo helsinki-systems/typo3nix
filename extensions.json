@@ -59162,12 +59162,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "templavoilaplus": {
-    "version": "12.0.0",
+    "version": "12.0.1",
     "t3_versions": [
       12
     ],
     "description": "Building kit for custom  pages and content elements with individual fields, containers and backend layouts. Supporting drag'n'drop and multiple references.",
-    "hash": "sha256-9prIpkrXY4EovzqIDFIG8rbRH8w5U/LJZRUOc6+h0gI="
+    "hash": "sha256-CWEopoRbBahvt/ubQ2ZGh29Ks757kt60xcjfj6VtpUg="
   },
   "tender": {
     "version": "2.0.2",
@@ -66877,13 +66877,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "xima_typo3_content_planner": {
-    "version": "1.5.0",
+    "version": "1.5.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "This extension provides a page status functionality to support the planning of content work.",
-    "hash": "sha256-NZTXe0f/zpzzWbkWYiN4mePkdMnVUMsqMfLnojA0Ak0="
+    "hash": "sha256-NHBHnZHP7CHMtSRtolh9wLJartHGmd1dCAAnKnXHFco="
   },
   "xima_typo3_frontend_edit": {
     "version": "1.6.2",
