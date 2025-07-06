@@ -8128,12 +8128,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cefooter": {
-    "version": "3.0.1",
+    "version": "3.0.2",
     "t3_versions": [
       13
     ],
     "description": "Preview of settings in footer of tt_content element in page module.",
-    "hash": "sha256-aSb8e88o4zVNhHXBXU2vRB2V+m0NmVmMEs4tWn/vccw="
+    "hash": "sha256-HS5VVJOwAF4uJuwNyys0Ln1NmHvTu8iMRxuR8l/agvk="
   },
   "celum_asset_picker": {
     "version": "1.0.8",
@@ -51409,12 +51409,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sf_register": {
-    "version": "13.1.3",
+    "version": "13.2.0",
     "t3_versions": [
       13
     ],
     "description": "Offers the possibility to maintain the fe_user data in frontend by the user self.",
-    "hash": "sha256-SYM29AvghZWVrs2upv+hshGmOANK+RVcWps4jLudWh0="
+    "hash": "sha256-i23hssFPrsQ9Y0lEJM83u6hFp/WX8iBcSQ9Eq2HhfLs="
   },
   "sf_simple_faq": {
     "version": "1.3.0",
