@@ -731,6 +731,17 @@
     "description": "Accessible content first template using templavoila. Visit http://www.typo3phoenixtemplates.com/accessible-template.html for setup instructions.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "accesstive": {
+    "version": "1.0.0",
+    "t3_versions": [
+      10,
+      11,
+      12,
+      13
+    ],
+    "description": "Accesstive is an all-in-one accessibility platform that helps websites become inclusive, compliant, and user-friendly. It combines powerful tools like an accessibility assistant widget, AI-based live audits, monitoring, and an intelligent assistant. Designed for businesses, developers, and agencies—Accesstive makes accessibility simple, scalable, and smart.",
+    "hash": "sha256-ZYpqECStatVkyFPFmds8LLChRXKzF6B1bFalbSJ3Rhc="
+  },
   "accuweather": {
     "version": "10.0.0",
     "t3_versions": [
@@ -3257,13 +3268,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ausstello": {
-    "version": "1.2.0",
+    "version": "1.2.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "Events managen und kommunizieren, Marketing automatisieren. Einfach, ausstello.",
-    "hash": "sha256-R8115n7qkGwI6kkKF3ryKYgrEL193TYNcTwSA/lMt8g="
+    "hash": "sha256-RgBgSC3gmlL2mMmLyRtjPzBwkAHxBNtdZLYBmczBp/c="
   },
   "auth0": {
     "version": "13.0.2",
@@ -13643,13 +13654,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "deferred_image_processing": {
-    "version": "3.0.0",
+    "version": "3.0.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "Handles image processing on request instead of during page generation",
-    "hash": "sha256-dTjAnb9O0I8sMAJ2IsMFnSw+iKBHI58C2lV+KSIXFiM="
+    "hash": "sha256-ZCt04YZYmh2FFA6/jlZ7MlaSx9T6nBF+VpckrpY+Ak0="
   },
   "dejure_org": {
     "version": "11.0.0",
@@ -28897,13 +28908,12 @@
     "hash": "sha256-UiV4ENeK3s25DNBoplclJy/WMzTOQ8D+byxmMmEIxAk="
   },
   "jobcenter": {
-    "version": "3.2.1",
+    "version": "5.0.0",
     "t3_versions": [
-      10,
-      11
+      13
     ],
     "description": "Recommend employer contacts based on conditions",
-    "hash": "sha256-1l2qnR24Uj66g8z4HM++GDYa0K/F5ArBSCIH/9vQruo="
+    "hash": "sha256-g606IXOhyb5ulp32QIVl3tyzVkbkmJRBJ/dXxUEpmSQ="
   },
   "jobfair": {
     "version": "6.0.1",
@@ -33184,14 +33194,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mail": {
-    "version": "3.5.1",
+    "version": "3.6.1",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "Powerful newsletter system for TYPO3",
-    "hash": "sha256-DsS0IA3kV4xRG8OJedmbYCJB17HY/XmObFtUMfhiU9A="
+    "hash": "sha256-hNcbjHyA5fC9i1jiLMteT1HIsyRYCs5KFIdfrGQnB/4="
   },
   "mail2news": {
     "version": "2.0.3",
@@ -40553,13 +40563,13 @@
     "hash": "sha256-vNguRm+482b8z6MdCxexJc0/cpaFJmx+KtrxMeFw5cc="
   },
   "ns_hubspot": {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "t3_versions": [
       11,
       12
     ],
-    "description": "HubSpot Extension for TYPO3 forms easily connects with HubSpot CRM. This TYPO3 add-on for your forms ensures you capture all leads from your TYPO3 websites. Take advantage of your leads! Our integration of TYPO3 forms and HubSpot CRM offers a strong combination that will change the way you collect, nurture, and convert leads. ",
-    "hash": "sha256-jCClL1DA/rkavnnbKWUmrPixckzDrF2k4ckp7pa7QU8="
+    "description": "Seamlessly connect your TYPO3 forms with HubSpot CRM to capture, manage, and convert leads efficiently. Improve your marketing automation and sales pipeline with direct integration.",
+    "hash": "sha256-eXV+/Jpxk9eMhK9uo7X8ALJYFtmHrg1l/um1YtGZgV0="
   },
   "ns_instagram": {
     "version": "6.0.1",
@@ -40688,12 +40698,12 @@
     "hash": "sha256-ypGtbeafhKWTkTS0TZ6rfBUxWDnrP0s8tDYih/EsNXc="
   },
   "ns_sharethis": {
-    "version": "12.0.1",
+    "version": "12.0.2",
     "t3_versions": [
       12
     ],
-    "description": "With Help of TYPO3 ShareThis Extension, users can share the page/post with others effortlessly using the native share action.Additionally, you can choose which pages or posts to show the share buttons via our Settings page, making it simple to add the share feature to your websites.TYPO3 v12 Compitibilty is Plus! ",
-    "hash": "sha256-xVFsaavQo/WR6o5/G4USI5sRsKyHHXTzUfHQXbwD5lc="
+    "description": "Easily integrate social share buttons into your TYPO3 website. Choose where to display share options using extension settings. Enhance user engagement and support TYPO3 v12 compatibility.",
+    "hash": "sha256-YSpcFCOBa6BQV3tT7YL5Fu0kU/TqlMqFci4ffib7uow="
   },
   "ns_snow": {
     "version": "13.0.1",
@@ -40729,15 +40739,15 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ns_t3ai": {
-    "version": "2.0.2",
+    "version": "2.0.3",
     "t3_versions": [
       10,
       11,
       12,
       13
     ],
-    "description": "Meet T3AI- Experience AI-powered Models with ChatGPT, Gemini, Cloude & Azure AI for content generation, advanced SEO optimization, creative media production, easy language translation, and more—all within a few clicks, directly from your TYPO3 backend. Maximize your productivity by saving up to four times your time with T3AI.",
-    "hash": "sha256-p9NkLUwME/aWKWfdM1ZhB2pnjWrzcOa0zz2kDd28VFI="
+    "description": "T3AI empowers your TYPO3 backend with advanced AI capabilities including content generation, SEO optimization, media creation, translation, and more using ChatGPT, Gemini, Claude, and Azure AI. Save time and boost productivity with powerful AI tools built directly into your TYPO3 environment.",
+    "hash": "sha256-10LddMKF39yjOejYkwKtPNQl7kCT2HBb7Pu+zERrAP8="
   },
   "ns_theme_agency": {
     "version": "13.0.6",
@@ -40749,22 +40759,22 @@
     "hash": "sha256-mxfqZGFMVdoI8S7XQovD8syF2Xj9NiSF9spMPwbQIXE="
   },
   "ns_theme_cleanblog": {
-    "version": "13.0.0",
+    "version": "13.0.1",
     "t3_versions": [
       12,
       13
     ],
-    "description": "T3 Clean Blog is a premium TYPO3 template for personal or company blogs. Developed with meticulous attention to detail and minimal design aesthetics, it offers effortless settings, easy configuration, and prioritizes SEO and optimized page speed.",
-    "hash": "sha256-5FlDr+8+qkl0sDjtZN18ioQWnR6wLvUvdG2ZRZvz1kI="
+    "description": "A modern and minimalist TYPO3 blog template perfect for personal and business blogs. Easy to configure, SEO-optimized, and performance-focused for TYPO3 v12 & v13.",
+    "hash": "sha256-cQJMXJAMPAfA2nxAWH2FTfNHyn43d09psue7l7JEDYE="
   },
   "ns_theme_comingsoon": {
-    "version": "11.1.2",
+    "version": "11.1.3",
     "t3_versions": [
       10,
       11
     ],
-    "description": "Maintenance Mode TYPO3 Template is carefully designed with attention to the details. This TYPO3 maintenance template is designed to catch attention and inform visitors what you and your TYPO3 website are up to. Live-Demo: https://demo.t3terminal.com/?theme=t3t-coming-soon Pro Support: https://t3terminal.com/t3-coming-soon-typo3-template",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "description": "A minimal and effective TYPO3 template for maintenance or coming soon pages. Inform your visitors while your TYPO3 site is under construction or updates.",
+    "hash": "sha256-asuLLhMRGqumJ6qirBFF8k2MZa/ArxtUY7B1HM+pybc="
   },
   "ns_theme_extend": {
     "version": "13.0.0",
@@ -40785,10 +40795,12 @@
     "hash": "sha256-QU1O38CN1WB8VygWGZJbAaFYjH8fiaLFg675HMvenQE="
   },
   "ns_theme_newage": {
-    "version": "13.0.0",
-    "t3_versions": [],
-    "description": "T3 New Age Landing TYPO3 Template is a Bootstrap minimal app landing page. This template has been designed for any need to showcase app or website, app landing page. Built it with twitter bootstrap 3, HTML5, CSS3 and SASS. Live-Demo: https://demo.t3planet.com/?theme=t3t-newage Pro-Version & Support: https://t3planet.com/t3-new-age-landing-typo3-template",
-    "hash": "sha256-aZ7AIKODbYVjaenoP2vwYBX/FMzOcugpOoFfTCBuBCg="
+    "version": "13.0.1",
+    "t3_versions": [
+      13
+    ],
+    "description": "A modern TYPO3 landing page template designed for showcasing mobile apps, SaaS products, or web platforms. Built with Bootstrap 3, HTML5, CSS3, and SASS for performance and flexibility.",
+    "hash": "sha256-cbRg+JmXfnT+LSJzP/WwAwIzImz7yiUidY2Te6JNFuo="
   },
   "ns_theme_t3nitsan": {
     "version": "1.0.0",
@@ -40821,21 +40833,21 @@
     "hash": "sha256-cVQEaCr1R0E1Yz5tNlICF2S9n6+0ij/n301mxlKTTnU="
   },
   "ns_whatsapp": {
-    "version": "12.1.0",
+    "version": "12.1.1",
     "t3_versions": [
       12
     ],
-    "description": "Introducing the TYPO3 WhatsApp Chat Extension for your TYPO3 websites, seamlessly integrating WhatsApp chat into your site. Customize colors to match your brand, and personalize agent profiles with their image, job title, and button options. Plus, advanced chat settings! ",
-    "hash": "sha256-ODPREuoiz9Wd+79kcFUnrMD6Jyj4oYQ9WkwwnfdGR7A="
+    "description": "Easily integrate WhatsApp chat into your TYPO3 website. Customize chat button styles, agent profiles, and color themes to match your brand. Enhance visitor engagement with advanced chat configurations.",
+    "hash": "sha256-93DhCYOR1EJ/AopLEhq740iNbz7ePTb9tJ1iVf7lqOU="
   },
   "ns_wp_migration": {
-    "version": "1.1.0",
+    "version": "1.1.1",
     "t3_versions": [
       11,
       12
     ],
-    "description": "Plug-n-play TYPO3 extension to migrate wordpress page and page data to your TYPO3 site.",
-    "hash": "sha256-hrks1LWCZh7LfUfMZ+edapH26cjxeyYwFLF7PB9mMFU="
+    "description": "Easily migrate your WordPress pages and data into a TYPO3 website with this plug-and-play backend extension. Simplifies migration for posts, authors, media, and more.",
+    "hash": "sha256-EKVUP8HP2rFVUDUmofeFhxXnnfMv2MJoFSERZ5FgBBg="
   },
   "ns_youtube": {
     "version": "13.0.1",
@@ -40847,15 +40859,15 @@
     "hash": "sha256-l8ik3WazeoLc1a4uk/aGVSpIZjFHi/bIUvFveS48bDk="
   },
   "ns_zoho": {
-    "version": "2.0.0",
+    "version": "2.0.1",
     "t3_versions": [
       10,
       11,
       12,
       13
     ],
-    "description": "The TYPO3 Zoho Extension offers seamless integration between TYPO3 forms and Zoho CRM, streamlining the lead management process. By automatically capturing leads from your website, this innovative integration ensures no opportunity is missed. *** Live Demo: https://demo.t3planet.com/t3-extensions/typo3-zoho-crm *** Premium Version, Documentation & Free Support: https://t3planet.com/typo3-zoho-extension",
-    "hash": "sha256-2xvx2Aah68mKyj5RxIWNT1Z3mjxwM0GxnOZvWWQbL8A="
+    "description": "Seamlessly connect TYPO3 forms with Zoho CRM. Automatically capture and manage leads from your website to streamline your marketing and sales process.",
+    "hash": "sha256-7PMHs7VL8arpw5ZrYZOWECQcSoEllonBV23yOsTjtmc="
   },
   "ns_zoho_crm": {
     "version": "3.0.0",
