@@ -2469,7 +2469,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ameos_tarteaucitron": {
-    "version": "3.5.0",
+    "version": "3.6.0",
     "t3_versions": [
       9,
       10,
@@ -2478,7 +2478,7 @@
       13
     ],
     "description": "Integrates tarteaucitron.js in TYPO3 (see : https://tarteaucitron.io )",
-    "hash": "sha256-7knpFECpwS0HlOLHP3rA0P3eWHTgOe98bgv+SL+AmA8="
+    "hash": "sha256-t3E8LIt9BVVfotzHuLCIEBUPlltAbnXWsDeJuxPjhYk="
   },
   "ameos_typo3_vulnerabilities": {
     "version": "1.0.0",
@@ -24540,12 +24540,13 @@
     "hash": "sha256-qsVb91W381Ah5wL7o6z9RqpRGdTMCJ/CKYGdCc3xWoI="
   },
   "headless": {
-    "version": "4.5.0",
+    "version": "4.7.0",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "Makes TYPO3 a headless CMS. Content and pages available in JSON format. Supports multilanguage, multidomain, forms, frontend login, workspaces and more. For JS frontend app see nuxt-typo3 package",
-    "hash": "sha256-EWjbl0TTjAojdrTUm6kVWQ8HHzeSxpL0+Rk74sP9Tp0="
+    "hash": "sha256-7i28d1LAgrrAslwy1XOsC01lJ4RG5+Ny0da8LdAdrU4="
   },
   "headless_container": {
     "version": "3.0.0",
@@ -26808,13 +26809,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "importmap": {
-    "version": "0.1.1",
+    "version": "0.1.5",
     "t3_versions": [
-      12,
       13
     ],
     "description": "Easily import your JavaScript ES modules without the need of a build system like Webpack",
-    "hash": "sha256-iR+LE/1b+dT2BTuM6swk6HiDE4aoiliWbilR/pLcWOw="
+    "hash": "sha256-VeHRKB0RhDftQuF+ztfm6iW/5gu872I34UZsB5VcbSs="
   },
   "importr": {
     "version": "5.0.0",
@@ -26955,7 +26955,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "includekrexx": {
-    "version": "5.1.5",
+    "version": "5.1.6",
     "t3_versions": [
       10,
       11,
@@ -26963,7 +26963,7 @@
       13
     ],
     "description": "Fluid and PHP debugger with backend access to logfiles, code generation to reach the displayed values and much more. We added some special stuff for Aimeos.",
-    "hash": "sha256-6SJKCRYtlu+V/DgV7c3sb2cRa6GRmvr40E0wn4uscL4="
+    "hash": "sha256-MA+GCD87brUaHiSlbE5TR2uMhXT+Kp8cm89EHu0H2SI="
   },
   "incore_twitter": {
     "version": "1.2.2",
@@ -42634,6 +42634,15 @@
     "description": "show page parameters on pages where these parameters are hidden like using RealUrl",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "page_password": {
+    "version": "1.0.2",
+    "t3_versions": [
+      12,
+      13
+    ],
+    "description": "PagePassword provides a simple way to restrict access to specific pages and their sub-pages with password authentication.",
+    "hash": "sha256-j/LOKgzWFHnHPRFa+gglrrhdzYXNrktlumzr4kY2IqU="
+  },
   "page_qrcode": {
     "version": "0.2.0",
     "t3_versions": [
@@ -46308,12 +46317,12 @@
     "hash": "sha256-bJ7OKXnBLUFC95JigPESPpnaYEfqCmJONG44zRVu9u8="
   },
   "pw_comments": {
-    "version": "6.0.4",
+    "version": "7.0.0",
     "t3_versions": [
-      12
+      13
     ],
     "description": "Powerful extension for providing comments, including replies on comments and voting.",
-    "hash": "sha256-3ItZyNTTpPfLxEubt1Dpyau1yNhOD4BO4sXXP9tOGPI="
+    "hash": "sha256-he/6iPKEtxGhrevizxUrz9QRajhSm5J5IDgSrOyCDCY="
   },
   "pw_highslide_gallery": {
     "version": "0.3.1",
@@ -66075,12 +66084,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ws_less": {
-    "version": "12.0.1",
+    "version": "13.0.0",
     "t3_versions": [
-      12
+      13
     ],
     "description": "Compiles LESS files to CSS files.",
-    "hash": "sha256-Oa5NVfv0LylNWX5HA4MI1Jc+Vuz0WoZn65fVJzWWX1k="
+    "hash": "sha256-bSXiMVJzDxYTd04JsCAsCnU9WIulziyt1uz5IpKeCEg="
   },
   "ws_map": {
     "version": "0.1.1",
