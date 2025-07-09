@@ -1690,13 +1690,13 @@
     "hash": "sha256-9HaqYJClnzh8JN8UVPIESY88thrW+PLWi5kdkD8LAfE="
   },
   "aimeos": {
-    "version": "25.4.1",
+    "version": "25.7.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "Professional, full-featured and ultra-fast TYPO3 e-commerce extension for online shops, complex B2B applications and #gigacommerce. Turns TYPO3 into the best platform for content commerce and your e-commerce requirements (also available as TYPO3 distribution)",
-    "hash": "sha256-1tmZNhbSMIjt01P331ea6G1xO5bXrSq1kQgabBSoiXQ="
+    "hash": "sha256-Q6Dw+FNFqNwm5ykG0CmFPq4A3/6aiAAphCvJg+Sx8YI="
   },
   "aimeos_dist": {
     "version": "25.4.1",
@@ -13224,13 +13224,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "dbdoctor": {
-    "version": "1.0.2",
+    "version": "1.0.4",
     "t3_versions": [
       12,
       13
     ],
     "description": "Find and fix TYPO3 database inconsistencies",
-    "hash": "sha256-Ojw/V9vHt9PRmoWapi4mq7hQJ4zoLOxJ1AowUsbGS1A="
+    "hash": "sha256-Uf/vlpoQpVzIx7bdynaVybHntT68KovvuqxyRHQiWHw="
   },
   "dbdownloadtracker": {
     "version": "2.0.0",
@@ -19664,13 +19664,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fetchurl": {
-    "version": "5.0.3",
+    "version": "6.0.1",
     "t3_versions": [
-      11,
-      12
+      12,
+      13
     ],
     "description": "Fetch an url and show the content in frontend. Inline or iframe display possible",
-    "hash": "sha256-sg3ODv5JE7UQ/qRrxbTVF/rKk1gVC7c9m3zCMTKacjA="
+    "hash": "sha256-3OjiqLmJcsgBzm375pP3lSAkZ+JpvDOopzYfV50RTrY="
   },
   "fete": {
     "version": "0.0.1",
@@ -27892,6 +27892,14 @@
     ],
     "description": "Simple protection of files. You can protect filemounts with fe_groups. Requires simple htaccess setting.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "iupacnomenclature": {
+    "version": "1.0.0",
+    "t3_versions": [
+      12
+    ],
+    "description": "An extension to find the right IUPAC nomenclature for a given chemical structure.",
+    "hash": "sha256-p1WIf4/V8E80UDkCmrwK2Qfsweb2Np24ZNSWcWgC6ks="
   },
   "ivw": {
     "version": "1.1.0",
@@ -36568,13 +36576,13 @@
     "hash": "sha256-QBq7RgOtpBz21jSQfzIxEurNCmBZlHvZXZt3wzoyyMw="
   },
   "modules": {
-    "version": "7.2.1",
+    "version": "7.3.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Frontend-User-Registration, Profile, Invitations, Listing with detailview, Addressmanagement, Frontend-Recordmanagement. User friendly Backendmodule for managing Frontend- and Backend-Users and other Records. Toolbox for frontend and backend modules in TYPO3.",
-    "hash": "sha256-YQ3I/dXzDfpN547sfeU2tSKGm1JK+3YwyjS5RU3cOGw="
+    "hash": "sha256-z2FPDojU6kY58xwDi14mFctCRqRbYx4dmt1hjiQG7bE="
   },
   "modulis_animated_gif": {
     "version": "0.0.4",
@@ -37279,6 +37287,14 @@
     ],
     "description": "add a trigger that can be watched by browsersync, great for development, especially with ddev",
     "hash": "sha256-P7SDoVW38+2llON7aBSPnPX2Zm6F7/xJb2s+N1c53uY="
+  },
+  "mst_unlockctype": {
+    "version": "0.0.4",
+    "t3_versions": [
+      13
+    ],
+    "description": "In v13, the ctype of content elements is locked in translations. This extension removes this lock.",
+    "hash": "sha256-79KjbQuMEp7ZlMgJaG1j8g3/mlSL/iqsgdy13/2Rzug="
   },
   "mst_yaml2tca": {
     "version": "1.0.14",
@@ -51647,13 +51663,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sg_cookie_optin": {
-    "version": "7.0.9",
+    "version": "7.0.10",
     "t3_versions": [
       12,
       13
     ],
     "description": "",
-    "hash": "sha256-luccwADmmpnQelddsIDUJMKdx5dq6kk6UnzxV+KJHDs="
+    "hash": "sha256-H0h6Ao1fFsTcVHplY2Bi8Yo9qAm/Z7P1H1MeSrP28Eo="
   },
   "sg_cropscale": {
     "version": "0.5.0",
@@ -58648,12 +58664,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "taskqueue": {
-    "version": "9.3.1",
+    "version": "9.3.2",
     "t3_versions": [
       13
     ],
     "description": "Provides a task queue for other extensions to use.",
-    "hash": "sha256-1LVyxlFrzCKwQ8yd4RIQXU8zDecJelVdboCSTKGOzYE="
+    "hash": "sha256-kR1zWWNfHS2LwTghrAuWsJJiOgyutWGqMQk/Cgs2bDA="
   },
   "taxajax": {
     "version": "1.4.0",
@@ -64601,13 +64617,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "wacon_cookie_management": {
-    "version": "6.1.1",
+    "version": "6.1.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "WCM is a typo3 extension that enables website visitors to control and manage the usage of cookies on the website (commonly known as \"cookie consent box\"). Thus it helps website owner to be in line with the rules of the General Data Protection Regulation (GDPR) which took effect on 25 May 2018.",
-    "hash": "sha256-MoM/bOTS05yP34OSN3rYf3lA7e7qrU18OTwB3ig0EHc="
+    "hash": "sha256-huErshFUsjRlLF5Q+1tAxcmDXsriXGd77EI3SR6AVMA="
   },
   "wacon_csv2html": {
     "version": "2.0.0",
