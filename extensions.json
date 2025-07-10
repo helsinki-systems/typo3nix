@@ -3747,13 +3747,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.349.2",
+    "version": "3.349.3",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-kfMaxCwPbU22RNN+Cdx/10hKO1DdmUvgG/OEKWhqAZo="
+    "hash": "sha256-hkACj2TjlV79SUC4PTUFVE4HgqFKKDU7jy8R0H2Hc0k="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -30678,13 +30678,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "klaro_consent_manager": {
-    "version": "2.0.9",
+    "version": "2.0.10",
     "t3_versions": [
       12,
       13
     ],
     "description": "Functionally complete, flexible TYPO3 integration of Klaro! Consent Management by KIProtect GmbH, a powerful tool that protects your visitors' privacy and data.",
-    "hash": "sha256-t42MVuype0xnDhbTALO5MxQ26V/TjDlPsHCbb1f2TTQ="
+    "hash": "sha256-Xgoj9jEJxTcXY+pjY1JVMB+twM4k+lFGm1/tlQ1eISY="
   },
   "klarokratie": {
     "version": "13.4.17",
@@ -52130,13 +52130,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "shop": {
-    "version": "5.5.0",
+    "version": "5.6.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Shop for TYPO3 incl. PayPal, PayPal-Checkout (formerly PayPal-Plus), Klarna, Stripe, Bookmarks, UPS-API, Invoice generation, backend module, compare feature, graduated prices and many more - note there is a Pro version as well! See https://www.coding.ms/typo3-extensions/typo3-shop",
-    "hash": "sha256-vNlYQRbpPc9dTpRGiRB8zckezmn5i0L7r8IxA67gonA="
+    "hash": "sha256-JI1DuRd98Wrm/kyZTDI3UXjQam8hfgHkhDe7e5b6k+w="
   },
   "shop3ox": {
     "version": "0.0.3",
@@ -62009,12 +62009,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "tscobj": {
-    "version": "4.0.1",
+    "version": "5.0.1",
     "t3_versions": [
-      12
+      13
     ],
     "description": "A plugin which lets you use any TypoScript object as a normal content element.",
-    "hash": "sha256-rxTyr8sdmbtrGXs/SelghoQD5exSVRLPF2jTOsJcOPc="
+    "hash": "sha256-4bC0wmyX8PCK3uTSF7wmsFjs+FD1fDIGl7VKW94yKvM="
   },
   "tsconf": {
     "version": "12.4.0",
@@ -63161,15 +63161,6 @@
     "description": "Use Sentry to track errors in your TYPO3-installation",
     "hash": "sha256-+af5NlTozjswE5jFLh2EVKyTSPMkC21YH1yT8FW3dIs="
   },
-  "typo3_stream_writer": {
-    "version": "0.5.3",
-    "t3_versions": [
-      12,
-      13
-    ],
-    "description": "This extension adds the possibility to log to stdout and stderr.",
-    "hash": "sha256-HFIiBZZCrEbvwWFmaHG17plN8xYW9k5F+Ws/3oRxKmw="
-  },
   "typo3_tut": {
     "version": "1.1.1",
     "t3_versions": [
@@ -63368,12 +63359,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "uniolbeuser": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "t3_versions": [
       12
     ],
     "description": "",
-    "hash": "sha256-E402Mw8+yOMjMhV0sXgv9yb5mQ95m8UG5AECq2eaH9Y="
+    "hash": "sha256-56T/P4tDefm2x72Rn/JDDtIcqQZKvVV5YsP1BIud8Os="
   },
   "univie_pure": {
     "version": "12.4.524",
@@ -66207,12 +66198,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "wsm_form_spamshield": {
-    "version": "2.1.0",
+    "version": "2.1.1",
     "t3_versions": [
       13
     ],
     "description": "Adds a bot detection via JavaScript and a Validator to EXT:form, GDPR compliant without a captcha.",
-    "hash": "sha256-Vzhts68X16y2++QCxFK8OrTathMzMExTifnupI3ez5A="
+    "hash": "sha256-job0GmGtq/S8LoNpbffnyscEcbtsc0yyPUqHKrV22Dc="
   },
   "wspowermail": {
     "version": "1.1.1",
