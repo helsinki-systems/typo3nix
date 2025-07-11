@@ -11408,12 +11408,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cs_powermail_gdpr": {
-    "version": "4.0.2",
+    "version": "4.1.0",
     "t3_versions": [
       12
     ],
     "description": "",
-    "hash": "sha256-QGdLvZvASrBqZJQmbLUpiet1538p0zn5lKU0fX91ZSA="
+    "hash": "sha256-u1o9zjBYvRsYg7OyNvNU1h6KlmWXI3Ho3vUJ5vXYHS4="
   },
   "cs_powermail_limit": {
     "version": "1.0.3",
@@ -45318,12 +45318,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "powermail": {
-    "version": "12.5.1",
+    "version": "13.0.0",
     "t3_versions": [
-      12
+      13
     ],
     "description": "Powermail is a well-known, editor-friendly, powerful",
-    "hash": "sha256-TmowOg9g17PzBKEfTNeEeasu1QaIXF30dIlG/rRI6C8="
+    "hash": "sha256-M+AXbJGH70iDIL8VsqfMhX18DqFM+hsAeujPWjvEYP8="
   },
   "powermail2document": {
     "version": "1.6.1",
@@ -45360,12 +45360,12 @@
     "hash": "sha256-3LdQALLY43/Ufj4yP0Ztg5o0o4vFujokFNnp6XsV3DU="
   },
   "powermail_cond": {
-    "version": "11.2.4",
+    "version": "13.0.0",
     "t3_versions": [
-      12
+      13
     ],
     "description": "Add conditions (via AJAX) to powermail forms for fields and pages",
-    "hash": "sha256-yedsxb4IacGMR9CDNI2yijdErWXMfBvH/qeeJ+bEzpA="
+    "hash": "sha256-QP0houNol0RIv3Ku5bgliznOj+KCLE0d4vcHx2kvcFs="
   },
   "powermail_cond_jquery": {
     "version": "1.0.1",
@@ -45515,12 +45515,13 @@
     "hash": "sha256-OQ5O44wnP0dIDs+0PvPgFmmauIMulfLLZBJhCz5r4ME="
   },
   "powermailcaptcha": {
-    "version": "2.2.3",
+    "version": "3.0.0",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "Captcha Extension for Powermail",
-    "hash": "sha256-CV9mCN+OzdRV/G0mBco+Krb2libBpuK+ZZYl01lL3Y4="
+    "hash": "sha256-867t/kkgXcZ4KMXkmtjbX1SsTw5x//1M2dc/bWtyzRI="
   },
   "powermailcustomcss": {
     "version": "1.1.0",
@@ -64998,12 +64999,12 @@
     "hash": "sha256-itNedeNXFYBBody6dXFJP00nefYaceCZWluvenu3IdQ="
   },
   "webp": {
-    "version": "5.1.0",
+    "version": "13.0.1",
     "t3_versions": [
-      12
+      13
     ],
     "description": "Creates WebP copies of all jpeg and png images",
-    "hash": "sha256-ipJLQfjsI+HNQGVvrR6e6JDNilhaMwiV8z9905GwKA4="
+    "hash": "sha256-/9JfWoRRSCaaCxEQpa5srx5u5q+Mkw1goPde3yuh+yk="
   },
   "webparser": {
     "version": "0.1.0",
