@@ -42651,13 +42651,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "page_password": {
-    "version": "1.0.2",
+    "version": "1.1.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "PagePassword provides a simple way to restrict access to specific pages and their sub-pages with password authentication.",
-    "hash": "sha256-j/LOKgzWFHnHPRFa+gglrrhdzYXNrktlumzr4kY2IqU="
+    "hash": "sha256-rOburjijwHPPZFfctHiTU/0xHCeTzUxgLGmIgSwvWpo="
   },
   "page_qrcode": {
     "version": "0.2.0",
