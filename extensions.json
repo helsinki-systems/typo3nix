@@ -14511,13 +14511,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "div2007": {
-    "version": "2.3.4",
+    "version": "2.3.5",
     "t3_versions": [
       12,
       13
     ],
     "description": "This library offers classes and functions to other TYPO3 extensions. Replacement for tslib_pibase methods.",
-    "hash": "sha256-tDob6+nbraX+unmeHYzg5342nxb4g1JehyDCQrJ19aw="
+    "hash": "sha256-kDFd49DTYP5p4EPcpEGvuUdlHr45in+iNzz+9G4rdms="
   },
   "diva": {
     "version": "8.7.1",
