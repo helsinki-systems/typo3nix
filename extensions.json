@@ -51370,10 +51370,12 @@
     "hash": "sha256-nk6QyRtptgf9DP0vKYT3qllWU31vfbAWhLyiG61a1/E="
   },
   "sf_books": {
-    "version": "10.0.0",
-    "t3_versions": [],
+    "version": "10.0.1",
+    "t3_versions": [
+      13
+    ],
     "description": "Managing lots of books is not easy without a good tool.",
-    "hash": "sha256-/r5QtxBPyy7fk2HDRAxvBYt9RtyQI1Zf4XEYkPUxxYE="
+    "hash": "sha256-t+tpv2NMa8x0h/r2nj21yNy6rBopZbtlnTOgtQU+L14="
   },
   "sf_event_mgt": {
     "version": "8.2.0",
@@ -61579,10 +61581,12 @@
     "hash": "sha256-BNgXT/XaxE7ArnrnrjouR7FBMMFTVYNUNIITm0MRQ38="
   },
   "translate_locallang": {
-    "version": "3.1.1",
-    "t3_versions": [],
+    "version": "4.0.0",
+    "t3_versions": [
+      13
+    ],
     "description": "Backend Module for creating and editing of language files (locallang.xlf).",
-    "hash": "sha256-zGJX8s8riFP8dBNeA8s8OLfmE46YM4KztSLnm70jNwc="
+    "hash": "sha256-n05aik91UBxxpKMqJNr61cJ9bBAyy/WGWEMx3pt2lUM="
   },
   "translatelabels": {
     "version": "2.3.9",
