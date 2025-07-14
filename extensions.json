@@ -3545,14 +3545,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "autotranslate": {
-    "version": "2.2.3",
+    "version": "2.2.4",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "This extension provides automatic translation of pages and content elements via DeepL API.",
-    "hash": "sha256-2jpbkQBTiiBJGn4Ra0/2l6XdhSkTOSPcQswfp2qPOKE="
+    "hash": "sha256-NS/28XcXjYdHBglma8GFmSOpI+W+tSC0BLrA03HRzrI="
   },
   "autoupload_dummy": {
     "version": "1.0.2",
@@ -8200,13 +8200,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ceselector": {
-    "version": "3.0.2",
+    "version": "4.0.1",
     "t3_versions": [
-      9,
-      10
+      11
     ],
     "description": "Selects and displays content elements according to certain parameters (Max elements, sorting, persistent mode)",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-G37MOG4nBOJBZPX1YJ8LmRYFS9fY16mAPy8CL8o1j50="
   },
   "cewrap": {
     "version": "6.0.0",
@@ -29540,10 +29539,12 @@
     "hash": "sha256-xPhQ6TaqSsrf+ZVEbZH9+ZWXzTbvqEOLGTajmlgG1kM="
   },
   "just_news": {
-    "version": "4.0.0",
-    "t3_versions": [],
+    "version": "4.0.1",
+    "t3_versions": [
+      13
+    ],
     "description": "Easy, flexible and lightweight news extension. No extra tables needed, using pages for news articles.",
-    "hash": "sha256-qJMQaTrrNi14qko7Bl1+mt8gBzc0dtVOdd0xL7ad6U8="
+    "hash": "sha256-myQxrSdHSw5jXxQht+Al9n1lYoBU0mxHXUSbx8YjoUo="
   },
   "just_realurl": {
     "version": "0.0.1",
@@ -36357,12 +36358,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mmc_guestbook": {
-    "version": "3.0.8",
+    "version": "3.0.10",
     "t3_versions": [
       11
     ],
     "description": "A guestbook plugin providing several mechanisms for spam prevention",
-    "hash": "sha256-3RqniwsawBwhPvTovDxLcuHm7GTxIPiKhyENJXJahsA="
+    "hash": "sha256-FuiHqZrllmVjJv1XPoxVDWhA3SuigvwDXOO0WZLZZpc="
   },
   "mmc_slideshow": {
     "version": "3.0.7",
