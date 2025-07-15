@@ -3545,14 +3545,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "autotranslate": {
-    "version": "2.2.4",
+    "version": "2.2.5",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "This extension provides automatic translation of pages and content elements via DeepL API.",
-    "hash": "sha256-NS/28XcXjYdHBglma8GFmSOpI+W+tSC0BLrA03HRzrI="
+    "hash": "sha256-hDXd7VBgFALlxxgGj0wxRoCBJYuGv6QkRkRYey6Iyik="
   },
   "autoupload_dummy": {
     "version": "1.0.2",
@@ -8790,6 +8790,14 @@
     ],
     "description": "CKEditor for TYPO3",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "ckeditor5_abbreviation": {
+    "version": "1.1.3",
+    "t3_versions": [
+      13
+    ],
+    "description": "Add abbreviations information through the ckeditor",
+    "hash": "sha256-ZCfYL4FDqwOOoeBWxRJb8vEPQf5nS19e2xj0ntVnqX4="
   },
   "ckeditor_custom_bullets": {
     "version": "1.0.1",
@@ -27044,13 +27052,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "indexnow": {
-    "version": "0.0.6",
+    "version": "0.0.8",
     "t3_versions": [
       12,
       13
     ],
     "description": "TYPO3 extension to inform various search engines over IndexNow endpoint about content updates",
-    "hash": "sha256-iz1+qS9hUZDndzWAwrNVB/RXjPLh9Q2WyQ0KjtP6B7Y="
+    "hash": "sha256-aFo6/a4uJP+dGSVG4OrQ021k7WhpUkc570aUOmqWAf8="
   },
   "indieweb": {
     "version": "0.1.1",
@@ -44025,14 +44033,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "personio_jobs": {
-    "version": "0.5.12",
+    "version": "0.6.0",
     "t3_versions": [
-      11,
       12,
       13
     ],
     "description": "Extension to integrate jobs from Personio Recruiting API",
-    "hash": "sha256-oR6bvdz6yyeltAzMQE453OrglP627OnNKuS/YYSEoWU="
+    "hash": "sha256-bsRglACUyJ4FtRXAmmq/00yPuh4ny0gw8xEqpHY614Y="
   },
   "personnel": {
     "version": "4.2.1",
@@ -44734,12 +44741,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "pixxio_extension": {
-    "version": "3.0.4",
+    "version": "3.1.0",
     "t3_versions": [
       13
     ],
     "description": "Integrate pixx.io DAM Digital Asset Management into TYPO3. Use files from your pixx.io media pool with TYPO3 easily and without any detour. Use the search field to search through your pixx.io media library and find the right picture in a flash.",
-    "hash": "sha256-NZGiIbiwr0YV+LeHnMHVEaq8BwgACIfmd+viExBTHek="
+    "hash": "sha256-rRqX2n1NQ9Zpz6V3agDetrOsft4rmBS4ZsxrAoKvxoI="
   },
   "pizpalue": {
     "version": "16.2.0",
@@ -54507,12 +54514,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "solr": {
-    "version": "13.0.2",
+    "version": "13.0.3",
     "t3_versions": [
       13
     ],
     "description": "Apache Solr for TYPO3 is the enterprise search server you were looking for with special features such as Faceted Search or Synonym Support and incredibly fast response times of results within milliseconds.",
-    "hash": "sha256-5lCwc6HVFaZfwEZkbbkMHunhLoc+xHit9XN9dpkCWwY="
+    "hash": "sha256-pfjkQTWjGgJ0dVZ74YNoLwacxTE4kuCZXfE1mQwX0dk="
   },
   "solr_boutique": {
     "version": "1.0.0",
@@ -62062,13 +62069,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "tslib_fetce": {
-    "version": "0.9.4",
+    "version": "0.9.5",
     "t3_versions": [
       12,
       13
     ],
     "description": "It brings the deprecated TYPO3 4.x class tslib_feTCE and the processScript FEData setup with new features partly back into TYPO3 10 and later. This is needed by extensions based on the former TYPO3 FORM like tt_board and tt_guest. Only form MAIL and form wizards additionally require code provided by the extension compatibility6.",
-    "hash": "sha256-hnnNKeD2gqBcZSxksv/9dITe1tENJUHm0wPDPWpobHE="
+    "hash": "sha256-tlKLFbGB5mxdtul88Q4Z1Bct180sywhKjPW0pq/Eja0="
   },
   "tslib_patcher": {
     "version": "0.1.4",
