@@ -3747,13 +3747,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.349.3",
+    "version": "3.351.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-hkACj2TjlV79SUC4PTUFVE4HgqFKKDU7jy8R0H2Hc0k="
+    "hash": "sha256-1tFKCLdhAF+ycP+S/9dkDyeOsntP+nMsLxpuuogXwn0="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -8792,12 +8792,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ckeditor5_abbreviation": {
-    "version": "1.1.3",
+    "version": "1.1.4",
     "t3_versions": [
       13
     ],
     "description": "Add abbreviations information through the ckeditor",
-    "hash": "sha256-ZCfYL4FDqwOOoeBWxRJb8vEPQf5nS19e2xj0ntVnqX4="
+    "hash": "sha256-cJamPIn5rffDs2EQnJMoFb73KYb/wKyGgLq+PjeUGXw="
   },
   "ckeditor_custom_bullets": {
     "version": "1.0.1",
@@ -21416,13 +21416,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "form_consent": {
-    "version": "3.1.3",
+    "version": "3.1.4",
     "t3_versions": [
       12,
       13
     ],
     "description": "An extension for TYPO3 CMS that adds double opt-in functionality to EXT:form. It allows the dynamic adaptation of the entire double opt-in process using various events. In addition, the extension integrates seamlessly into TYPO3, for example to delete outdated consents in compliance with the GDPR.",
-    "hash": "sha256-jmmRC9lBzhCjw4+4knQJDveaMjKJmdn+qrRpsgtRtHE="
+    "hash": "sha256-0bY7r31jqCnSSvyZV3loN52Uhlg0W0EGik26ooPaf7Y="
   },
   "form_country_select": {
     "version": "3.1.0",
@@ -32777,22 +32777,22 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "lux": {
-    "version": "38.6.0",
+    "version": "38.7.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "Living User Experience - LUX - the Marketing Automation tool for TYPO3.",
-    "hash": "sha256-tjgH0Te5vE4AHO3SP5CMCrIAJjLBEaHMSOmJPiFiFvE="
+    "hash": "sha256-Qqh0aUPKmsMjxIWPnjNYyKIalMx/4wluqt8fmmkEhlU="
   },
   "luxletter": {
-    "version": "27.2.1",
+    "version": "27.2.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "Free newsletter extension for TYPO3 for an individual email marketing. A lot of analytics and modern concepts. Works with and without EXT:lux.",
-    "hash": "sha256-KlE2qd5GbHJw5+e1HpEdQzIEqyRk6WTpU3mdfAHiG2Y="
+    "hash": "sha256-lv5MAV0xF2r+iDow8PZa7wLrxcrYPpxnOTwrupsOgqo="
   },
   "lvcleantemp": {
     "version": "1.0.4",
@@ -40360,13 +40360,13 @@
     "hash": "sha256-3Fw0JmxNYlTMfikG9jylpO4kN9P0N9f6Pnqlx8XDSCc="
   },
   "ns_basetheme": {
-    "version": "13.0.6",
+    "version": "13.0.7",
     "t3_versions": [
       12,
       13
     ],
     "description": "The architecture of parent/child TYPO3 theme concept. Explore https://t3planet.com and https://nitsantech.com",
-    "hash": "sha256-ikMAjKvTYlAmwIPsNXZJJEawK80L6/gQYHPY7pYQqF0="
+    "hash": "sha256-mYjfniG/7M434e/L/p7q6NszV0ryk0iajLEw08v1Hck="
   },
   "ns_cache_webhook": {
     "version": "1.0.2",
@@ -52199,13 +52199,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "shortcodes": {
-    "version": "2.0.1",
+    "version": "2.2.0",
     "t3_versions": [
       11,
-      12
+      12,
+      13
     ],
     "description": "Wordpress-style shortcodes for TYPO3",
-    "hash": "sha256-3Lrq7/ZlcECUDgUnHUTeC+OV0C9wJzwsP8K8p5UeufM="
+    "hash": "sha256-i7CdsiHDHJPnoJCNCc8WLLQjMz7GHw6S10r77I6GdTw="
   },
   "shortcut_redirect": {
     "version": "0.0.2",
@@ -52875,12 +52876,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "siteconfiggitsync": {
-    "version": "2.1.1",
+    "version": "2.1.2",
     "t3_versions": [
       13
     ],
     "description": "This extension will push changes to the site config yaml files back to your GitLAB or GitHUB repository by creating a branch for the changes along with a merge-request. It is targeted towards automated CI/CD installations or sites in general where the site-config is git versioned. No local git binary or .git directory is needed. Requires EXT:siteconfigurationevents",
-    "hash": "sha256-pxcss82l6yakysIBS6AY6XiZy0wXZUGpdUs7QwV4I2g="
+    "hash": "sha256-edsLg5PuCr8Rnp8JqR66W7z1DYl6PAVJNCsU4dAl0NM="
   },
   "siteconfigurationevents": {
     "version": "2.0.0",
@@ -62192,13 +62193,13 @@
     "hash": "sha256-KHFg2YrQeolZphyDlmmjTGp04I/6IU1WrktMh0c4lNQ="
   },
   "tt_board": {
-    "version": "1.17.1",
+    "version": "1.17.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "Simple threaded (tree) or list message board (forum).",
-    "hash": "sha256-MxU04ulAEO3a0Ga2HxxYg2Y9WzBqUdQx7YwP6oF1ZS4="
+    "hash": "sha256-NkXvdlpcceNVP5vXFWo9GvDB6OOlmuMj45Ndq06jd2E="
   },
   "tt_calender": {
     "version": "1.0.5",
