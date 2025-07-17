@@ -32786,13 +32786,13 @@
     "hash": "sha256-Qqh0aUPKmsMjxIWPnjNYyKIalMx/4wluqt8fmmkEhlU="
   },
   "luxletter": {
-    "version": "27.2.2",
+    "version": "27.2.3",
     "t3_versions": [
       12,
       13
     ],
     "description": "Free newsletter extension for TYPO3 for an individual email marketing. A lot of analytics and modern concepts. Works with and without EXT:lux.",
-    "hash": "sha256-lv5MAV0xF2r+iDow8PZa7wLrxcrYPpxnOTwrupsOgqo="
+    "hash": "sha256-CPO812NrxB3F2kpDdpEe9UsTW00LjkzBvWDCSKzIZCg="
   },
   "lvcleantemp": {
     "version": "1.0.4",
@@ -36641,6 +36641,14 @@
     "t3_versions": [],
     "description": "makes all types of boxes",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "monitoring": {
+    "version": "0.2.1",
+    "t3_versions": [
+      13
+    ],
+    "description": "Exposes health state information of selected components in your TYPO3 instance to be integrated in external monitoring",
+    "hash": "sha256-HV5PXVVlnB/PTbCrEiNJaKL59mABOSL9HkQC7VWX47A="
   },
   "mono_ga": {
     "version": "1.0.1",
@@ -40571,12 +40579,13 @@
     "hash": "sha256-52vYo4qq7QqsY52A3Vw94DwfULbb7ao0iTOHsp9Shnw="
   },
   "ns_headless_mask": {
-    "version": "1.0.0",
+    "version": "13.0.1",
     "t3_versions": [
-      12
+      12,
+      13
     ],
-    "description": "Support headless for the mask elements",
-    "hash": "sha256-DSVYVOyfTNbpZqnbsFA6VVfQgOeCL3864aaWXJ+UHyA="
+    "description": "The ns_headless_mask TYPO3 extension provides TypoScript setup to generate clean JSON output from EXT:mask for headless CMS integrations",
+    "hash": "sha256-DSiIht18LEBcQz11giqQm7x49Uj6Kz9tjF9GuI5hMD8="
   },
   "ns_helpdesk": {
     "version": "13.0.1",
@@ -40627,13 +40636,13 @@
     "hash": "sha256-kPxKaPOFunsxkd20gpiPaMTtTkdDsAyhYtNQVZgoXGY="
   },
   "ns_license": {
-    "version": "13.0.9",
+    "version": "13.0.10",
     "t3_versions": [
       12,
       13
     ],
     "description": "Manage licenses of your TYPO3 templates and extensions purchased from T3Planet. Includes activation and license validation. Documentation available at https://docs.t3planet.com/en/latest/License/LicenseActivation/Index.html",
-    "hash": "sha256-Habll/ayUPBH0hlHqhTpmKaSZDKUT7/cQBpIuAQahmQ="
+    "hash": "sha256-BdHkDmORU4BjfSdbEiLxlc076Pysle0CtMo2elaNBQc="
   },
   "ns_news_advancedsearch": {
     "version": "13.0.1",
@@ -44058,13 +44067,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "petabot": {
-    "version": "2.0.1",
+    "version": "2.1.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "An AI chatbot plugin for Typo3 to boost support, engage users, and enhance your site with natural conversations.",
-    "hash": "sha256-tuj5oC/rqx1tvLmI30709crqPRr7T/IC24sPUbRNes4="
+    "hash": "sha256-Gx32/MrhWbV766ii/r1GcjDTUMc1UCBcvn6Ggwfso0o="
   },
   "petition": {
     "version": "1.1.0",
@@ -62193,13 +62202,12 @@
     "hash": "sha256-KHFg2YrQeolZphyDlmmjTGp04I/6IU1WrktMh0c4lNQ="
   },
   "tt_board": {
-    "version": "1.17.2",
+    "version": "1.18.0",
     "t3_versions": [
-      12,
       13
     ],
     "description": "Simple threaded (tree) or list message board (forum).",
-    "hash": "sha256-NkXvdlpcceNVP5vXFWo9GvDB6OOlmuMj45Ndq06jd2E="
+    "hash": "sha256-t6fYlwnbuPpNo7gk8bUKH4NgLa/pefqd+rCqeLotsrY="
   },
   "tt_calender": {
     "version": "1.0.5",
@@ -66919,13 +66927,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "xima_typo3_content_planner": {
-    "version": "1.5.1",
+    "version": "1.5.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "This extension provides a page status functionality to support the planning of content work.",
-    "hash": "sha256-NHBHnZHP7CHMtSRtolh9wLJartHGmd1dCAAnKnXHFco="
+    "hash": "sha256-SJPm6mk5bICLPP+YBuiX6C8Y2d6/RxE4eg8NRkbg46o="
   },
   "xima_typo3_frontend_edit": {
     "version": "1.6.2",
