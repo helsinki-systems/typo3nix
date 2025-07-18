@@ -3545,14 +3545,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "autotranslate": {
-    "version": "2.2.5",
+    "version": "2.3.0",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "This extension provides automatic translation of pages and content elements via DeepL API.",
-    "hash": "sha256-hDXd7VBgFALlxxgGj0wxRoCBJYuGv6QkRkRYey6Iyik="
+    "hash": "sha256-xxKtEJWGdl5O1J6FdAmnNRFE4yIjKlvGo/UkhJ74pgw="
   },
   "autoupload_dummy": {
     "version": "1.0.2",
@@ -3747,13 +3747,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.351.0",
+    "version": "3.351.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-1tFKCLdhAF+ycP+S/9dkDyeOsntP+nMsLxpuuogXwn0="
+    "hash": "sha256-LInuqTRhcEObkGsql5dxTkHVnK4eYD7brPWWLydPy3A="
   },
   "aws_system_information": {
     "version": "1.0.0",
