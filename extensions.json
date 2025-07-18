@@ -24460,12 +24460,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "happy_feet": {
-    "version": "12.1.2",
+    "version": "12.1.3",
     "t3_versions": [
       12
     ],
     "description": "Handles happy footnotes",
-    "hash": "sha256-JmocK3vzk01+yKoLbxiHUcj57OpwzFkcnGQ1z0VmtBM="
+    "hash": "sha256-AUXGehiRjs2TDHUw2osWvmIs0B4dyzJ0iMWYEEweUy0="
   },
   "harz2night_de_flickrflashshow": {
     "version": "1.0.12",
@@ -30820,12 +30820,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "komm_one_jobs": {
-    "version": "1.1.1",
+    "version": "3.0.0",
     "t3_versions": [
-      11
+      12,
+      13
     ],
-    "description": "Use komm.ONE jobs API to show jobs",
-    "hash": "sha256-x7UGjNriaHWToK71hENG74try/Mrp8VHN5PMa4khWv0="
+    "description": "Use the komm.ONE jobs API to display jobs",
+    "hash": "sha256-29Ox+GvgpG0Z87yJIiQxYImd2uFwLZRkxDmiDf9N+Uo="
   },
   "koning_api_queue": {
     "version": "1.0.4",
@@ -32777,13 +32778,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "lux": {
-    "version": "38.7.1",
+    "version": "38.7.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "Living User Experience - LUX - the Marketing Automation tool for TYPO3.",
-    "hash": "sha256-Qqh0aUPKmsMjxIWPnjNYyKIalMx/4wluqt8fmmkEhlU="
+    "hash": "sha256-LF8jwK2+XV7L2X+6k7KWt1OOoSw2G6PJQzsaHgxuqi0="
   },
   "luxletter": {
     "version": "27.2.3",
@@ -36643,12 +36644,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "monitoring": {
-    "version": "0.2.1",
+    "version": "0.3.1",
     "t3_versions": [
       13
     ],
     "description": "Exposes health state information of selected components in your TYPO3 instance to be integrated in external monitoring",
-    "hash": "sha256-HV5PXVVlnB/PTbCrEiNJaKL59mABOSL9HkQC7VWX47A="
+    "hash": "sha256-/hhRwMwtlROldxoS9LOyDZzFTisH7t4EPFU2viAQZQ4="
   },
   "mono_ga": {
     "version": "1.0.1",
@@ -50689,14 +50690,14 @@
     "hash": "sha256-bCMkdMOCy2wNJ3Gz6SWr7i1qZ9ZfxkhhegmjmYFHEdo="
   },
   "schema": {
-    "version": "3.13.0",
+    "version": "3.13.1",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "API and view helpers for schema.org markup",
-    "hash": "sha256-H1Fun5uQLR/t3CCOEBQ9h16Wa5LBMtmYvLaDJe+vavU="
+    "hash": "sha256-2pJQuABHiB/DnOWWw/l9zulDT4TqyLaoxyYoAZXHHvk="
   },
   "schema_auto": {
     "version": "2.3.0",
@@ -63083,14 +63084,14 @@
     "hash": "sha256-On5kqIX9RKtoPQiHio7xt4cstnmV4MOycrv5zX9jZBs="
   },
   "typo3_environment_indicator": {
-    "version": "2.0.0",
+    "version": "2.1.0",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "This extension comes with several features to show an environment indicator in the TYPO3 frontend and backend.",
-    "hash": "sha256-lsqaYBUC0CYnm4b9MeDsjyWMfQD7HU6/v8jN0uqZ3J4="
+    "hash": "sha256-fa0sQihWdCAMttU/sgthFol5ywlFUDmwS/DlUR+rCDs="
   },
   "typo3_feed": {
     "version": "2.0.1",
@@ -64828,13 +64829,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "we_cookie_consent": {
-    "version": "5.0.7",
+    "version": "5.0.8",
     "t3_versions": [
       12,
       13
     ],
     "description": "Cookie Consent Panel (Optin) with DSGVO/GDPR-compliant use of cookies. Preconfigured modules for Google Analytics, Facebook and other frequently used services. Any extensibility with tracking scripts that generate cookies on your website Support for Google Tag Manager incl. Google Consent Mode and Google Consent Mode v2. Easy export for Google Tag Manager. Third-party cookies and scripts are only loaded if active consent has been given. Website visitors can edit their privacy settings at any time. Automatic update of cookie information when new cookies/scripts with secure consent procedure are inserted. Cookies can be automatically added to the privacy policy via a plugin Multilingual and full support for desktop, tablet and mobile. Four default modes for displaying the content solution, including the display of an always-on icon to access the privacy settings. Based on Klaro!",
-    "hash": "sha256-6vrqUd3ykdIff9cYNLn1Qv1f4hBWc7ZwxP5Kd16Rd44="
+    "hash": "sha256-wT5VGLF1S7czk0Hi+13ghGGw6ZYZ80JyUByp0J6/ANI="
   },
   "we_dam2fal": {
     "version": "1.0.12",
