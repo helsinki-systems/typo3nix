@@ -1522,12 +1522,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "agency": {
-    "version": "0.13.2",
+    "version": "0.14.0",
     "t3_versions": [
-      12
+      13
     ],
     "description": "An improved variant of Kasper Skårhøj’s Front End User Admin extension.",
-    "hash": "sha256-Qx0l1Av3kbINGgDVdn1BUOS9WKa7tvi+JC7K4mLZ7jM="
+    "hash": "sha256-i6W7lwjAf/9aJ7J9hhIdojw5Tm/at/09OSZ6JuIEJUo="
   },
   "agency_tt_address": {
     "version": "0.2.0",
@@ -3747,13 +3747,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.351.1",
+    "version": "3.351.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-LInuqTRhcEObkGsql5dxTkHVnK4eYD7brPWWLydPy3A="
+    "hash": "sha256-cq4XSNDs83xKQgtvbeeMoKYUJ+GnzRVNJ9Yip78vUN4="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -21433,10 +21433,12 @@
     "hash": "sha256-zI/AhMUQpm4wg0ertfHnjOmH0n9HXCXpmryClbhsTnI="
   },
   "form_crshield": {
-    "version": "2.0.0",
-    "t3_versions": [],
+    "version": "2.0.1",
+    "t3_versions": [
+      13
+    ],
     "description": "Challenge/response spambot protection for ext:form",
-    "hash": "sha256-N3doFJd+1va0N5+ZV7bCuej3e2JmGnqLHWrHzkBWcR0="
+    "hash": "sha256-09GWENWzk5jm1dCiQqDRT8xx39T25UxZ89/fXHVIl98="
   },
   "form_doubleoptin": {
     "version": "1.1.1",
@@ -51467,12 +51469,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sf_register": {
-    "version": "13.2.0",
+    "version": "13.2.1",
     "t3_versions": [
       13
     ],
     "description": "Offers the possibility to maintain the fe_user data in frontend by the user self.",
-    "hash": "sha256-i23hssFPrsQ9Y0lEJM83u6hFp/WX8iBcSQ9Eq2HhfLs="
+    "hash": "sha256-DLk2432i1N2Otb5KJZOIApNVbU8kWl1uTigm4qSXOtU="
   },
   "sf_simple_faq": {
     "version": "1.3.0",
@@ -55682,14 +55684,15 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "static_info_tables_bic_de": {
-    "version": "1.3.0",
+    "version": "1.3.1",
     "t3_versions": [
       7,
       8,
-      9
+      9,
+      10
     ],
     "description": "Database with german bank identifier codes and the associated bank names and Swiftcodes.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-+HJXozfNuTCombnGo+dsNwydNCemoB/HbFjjmpoyKcM="
   },
   "static_info_tables_cs": {
     "version": "7.1.0",
@@ -62203,12 +62206,12 @@
     "hash": "sha256-KHFg2YrQeolZphyDlmmjTGp04I/6IU1WrktMh0c4lNQ="
   },
   "tt_board": {
-    "version": "1.18.0",
+    "version": "1.18.1",
     "t3_versions": [
       13
     ],
     "description": "Simple threaded (tree) or list message board (forum).",
-    "hash": "sha256-t6fYlwnbuPpNo7gk8bUKH4NgLa/pefqd+rCqeLotsrY="
+    "hash": "sha256-DBi9z4l6pT1LCoL8v/rI73jCidzMb93S0QUF4Gw7QTE="
   },
   "tt_calender": {
     "version": "1.0.5",
