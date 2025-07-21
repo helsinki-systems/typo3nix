@@ -1195,12 +1195,12 @@
     "hash": "sha256-Qx7pEfxHzU21N5I2lCBk34qUvM/L0Ij1XDE7AIhUKNI="
   },
   "address": {
-    "version": "13.0.0",
+    "version": "13.0.1",
     "t3_versions": [
       13
     ],
     "description": "Address extension with multiple contact types per address. Code is based on news extension.",
-    "hash": "sha256-IuIJiMUpUghajGnMzoL04WxzsifynwmkVwFq8fsN+Dk="
+    "hash": "sha256-sJPCpKOAMENbbE79KIWsC8iCR6kffVfbWvAgoLEst94="
   },
   "address_manager": {
     "version": "4.0.7",
@@ -30745,13 +30745,13 @@
     "hash": "sha256-kcxI9UqhT/XvjYG6DhlvAkba0yLCeXqZhG5XH0Xj3/8="
   },
   "km_ttaddress_extension": {
-    "version": "9.0.0",
+    "version": "9.0.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "Extends EXT:tt_address by adding fields like department, qualifications and vita.",
-    "hash": "sha256-GX/4DIIuRE/hWGWyUDsj/IVbR589b+nkXsw4WzwYNxY="
+    "hash": "sha256-5FrAFIoGUqsEIyJbCeaKhCz1EJkcZHfa+wXxuwgQWEM="
   },
   "km_ttnews_extension": {
     "version": "2.0.1",
@@ -30822,13 +30822,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "komm_one_jobs": {
-    "version": "3.0.0",
+    "version": "3.0.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "Use the komm.ONE jobs API to display jobs",
-    "hash": "sha256-29Ox+GvgpG0Z87yJIiQxYImd2uFwLZRkxDmiDf9N+Uo="
+    "hash": "sha256-RWo55fo2ICeLQrESbMTWp+s5CS2UReokbUC75B48aAA="
   },
   "koning_api_queue": {
     "version": "1.0.4",
