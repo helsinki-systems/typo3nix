@@ -3747,13 +3747,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.351.2",
+    "version": "3.351.3",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-cq4XSNDs83xKQgtvbeeMoKYUJ+GnzRVNJ9Yip78vUN4="
+    "hash": "sha256-M45pGF+9MOmJbXKyViSFQ2/s4eP7H8Kgq9E1Ov3ggS0="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -19562,12 +19562,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "femanager": {
-    "version": "8.3.0",
+    "version": "8.3.1",
     "t3_versions": [
       12
     ],
     "description": "TYPO3 Frontend User Registration and Management based on",
-    "hash": "sha256-eoVZse/T2nfXQwqm5K+VronjlwTEN/cU7sI0apL2Sk0="
+    "hash": "sha256-IFY07/DUjH7OcuhQSZauOTpa6rKajPcHgFm19zHUwEI="
   },
   "femanager_cleverreach": {
     "version": "3.0.0",
@@ -34659,6 +34659,15 @@
     "description": "A Media Center Extension based upon MediaElement.js and jQuery",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "mediaflow_extension": {
+    "version": "0.0.3",
+    "t3_versions": [
+      12,
+      13
+    ],
+    "description": "This is an integration of the Mediaflow image/video database into the TYPO3 CMS.",
+    "hash": "sha256-arfD1PrecYFwwaKqRoy1KUqxNRCSoJ7b4mmp52/QTqc="
+  },
   "mediaintegration": {
     "version": "1.0.0",
     "t3_versions": [],
@@ -45338,12 +45347,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "powermail": {
-    "version": "13.0.0",
+    "version": "13.0.1",
     "t3_versions": [
       13
     ],
     "description": "Powermail is a well-known, editor-friendly, powerful",
-    "hash": "sha256-M+AXbJGH70iDIL8VsqfMhX18DqFM+hsAeujPWjvEYP8="
+    "hash": "sha256-crl6ID3mE2qpkvGi058loJONocpYn+BUXaaoEBfq844="
   },
   "powermail2document": {
     "version": "1.6.1",
@@ -49337,15 +49346,13 @@
     "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
   },
   "rte_ckeditor_dl": {
-    "version": "1.0.7",
+    "version": "2.0.0",
     "t3_versions": [
-      8,
-      9,
-      10,
-      11
+      12,
+      13
     ],
-    "description": "A simple wrapper extension to integrate Reinmar's ckeditor-plugin-descriptionlist into TYPO3's default editor ckeditor.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "description": "An extension to integrate \"definition lists\" into TYPO3's default editor ckeditor.",
+    "hash": "sha256-6IyRHR0See1YxEWQaSwYH2fF3i7UasApdnFxh1MFgBs="
   },
   "rte_ckeditor_fontawesome": {
     "version": "12.1.0",
@@ -50692,14 +50699,14 @@
     "hash": "sha256-bCMkdMOCy2wNJ3Gz6SWr7i1qZ9ZfxkhhegmjmYFHEdo="
   },
   "schema": {
-    "version": "3.13.1",
+    "version": "3.13.2",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "API and view helpers for schema.org markup",
-    "hash": "sha256-2pJQuABHiB/DnOWWw/l9zulDT4TqyLaoxyYoAZXHHvk="
+    "hash": "sha256-tZVwDg5+j3Fg1tqKOMuS0sSY5UonORkRNf7BmCpPkfQ="
   },
   "schema_auto": {
     "version": "2.3.0",
@@ -58688,12 +58695,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "taskqueue": {
-    "version": "9.3.2",
+    "version": "9.4.0",
     "t3_versions": [
       13
     ],
     "description": "Provides a task queue for other extensions to use.",
-    "hash": "sha256-kR1zWWNfHS2LwTghrAuWsJJiOgyutWGqMQk/Cgs2bDA="
+    "hash": "sha256-FUqggu5Dd1rdgC3Rs87vYT7y9OcYqYzfbw257VZPRJs="
   },
   "taxajax": {
     "version": "1.4.0",
@@ -62205,12 +62212,12 @@
     "hash": "sha256-KHFg2YrQeolZphyDlmmjTGp04I/6IU1WrktMh0c4lNQ="
   },
   "tt_board": {
-    "version": "1.18.1",
+    "version": "1.18.3",
     "t3_versions": [
       13
     ],
     "description": "Simple threaded (tree) or list message board (forum).",
-    "hash": "sha256-DBi9z4l6pT1LCoL8v/rI73jCidzMb93S0QUF4Gw7QTE="
+    "hash": "sha256-gbuh7WRW49gKlgf9idR+m1PfLomnt8PORpxQ1jsoJbw="
   },
   "tt_calender": {
     "version": "1.0.5",
@@ -63086,14 +63093,14 @@
     "hash": "sha256-On5kqIX9RKtoPQiHio7xt4cstnmV4MOycrv5zX9jZBs="
   },
   "typo3_environment_indicator": {
-    "version": "2.1.0",
+    "version": "2.1.1",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "This extension comes with several features to show an environment indicator in the TYPO3 frontend and backend.",
-    "hash": "sha256-fa0sQihWdCAMttU/sgthFol5ywlFUDmwS/DlUR+rCDs="
+    "hash": "sha256-mNhi4qtkr9iCjQkge2f/ZL8xLYV8le0SwkZaRUhnP3k="
   },
   "typo3_feed": {
     "version": "2.0.1",
