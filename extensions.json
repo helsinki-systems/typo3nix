@@ -3747,13 +3747,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.351.3",
+    "version": "3.351.4",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-M45pGF+9MOmJbXKyViSFQ2/s4eP7H8Kgq9E1Ov3ggS0="
+    "hash": "sha256-gnXcyn+1NYnw2GC8itcmvVjrD5iQV14TnNs4Z0X+4rs="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -18488,13 +18488,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "external_import": {
-    "version": "8.1.1",
+    "version": "8.1.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "Tool for importing data from external sources into the TYPO3 CMS database, using an extended TCA syntax. Provides a BE module, a Scheduler task, a command-line tool and an API.",
-    "hash": "sha256-EPM4mcFc4L1hiR1i/4YhPR6dhkpVk3LJPu+n6MO4FUU="
+    "hash": "sha256-DK13axeCt02fGViyBgvaneRawLDEc7Cws5k0fsB0QXA="
   },
   "external_import_tt_products": {
     "version": "0.0.1",
@@ -21475,12 +21475,12 @@
     "hash": "sha256-gZAVlPg19Fe0XiyUHY4m97cl3Y3O+bQeJu2CZXNAU9A="
   },
   "form_extended": {
-    "version": "13.0.1",
+    "version": "13.0.2",
     "t3_versions": [
       13
     ],
     "description": "Multi upload field, sender addresses in site config, new field types and other",
-    "hash": "sha256-OyBGETh8HJY/Ck7NrAUn3Nb0NEYFPK2K2GtiXhutSxw="
+    "hash": "sha256-1e3Rt4l8LN1ulGGb8whCeRMV3RTBhsxaH1dE44Sxkv8="
   },
   "form_extension_tut": {
     "version": "0.0.1",
@@ -23420,12 +23420,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "glossary2": {
-    "version": "7.0.1",
+    "version": "7.0.2",
     "t3_versions": [
       13
     ],
     "description": "This TYPO3 extension creates a glossary with A-Z links for you",
-    "hash": "sha256-eLFdVgXqThsssIRfwXfx5iVPAqt724rZGhzMBdRkhQU="
+    "hash": "sha256-MgQiQxT+W42ky6lvpyHjH3TcWa9fBnyqBWjbU0tje6o="
   },
   "glossary_one": {
     "version": "1.0.4",
@@ -36597,13 +36597,13 @@
     "hash": "sha256-QBq7RgOtpBz21jSQfzIxEurNCmBZlHvZXZt3wzoyyMw="
   },
   "modules": {
-    "version": "7.3.0",
+    "version": "7.3.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "Frontend-User-Registration, Profile, Invitations, Listing with detailview, Addressmanagement, Frontend-Recordmanagement. User friendly Backendmodule for managing Frontend- and Backend-Users and other Records. Toolbox for frontend and backend modules in TYPO3.",
-    "hash": "sha256-z2FPDojU6kY58xwDi14mFctCRqRbYx4dmt1hjiQG7bE="
+    "hash": "sha256-MeM5TZDwGHfsPSza2U925w34Cf5Va0/wuYS8LCaDMC8="
   },
   "modulis_animated_gif": {
     "version": "0.0.4",
@@ -63013,6 +63013,14 @@
     "description": "DOMPDF wrapper for TYPO3",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "typed_extconf": {
+    "version": "0.1.0",
+    "t3_versions": [
+      13
+    ],
+    "description": "Aims to provide a type-safe extension configuration management for TYPO3, ensuring proper types instead of string-only values from backend configuration or mixed types from config/system/settings.php",
+    "hash": "sha256-tOqu0GaIO1HGe5Q1nKOBnI4sxvfNUqog7Mks9LMbBNo="
+  },
   "typo3_ai": {
     "version": "1.1.1",
     "t3_versions": [
@@ -64692,13 +64700,13 @@
     "hash": "sha256-+DblC8ydsK9LQSUvL3eI1WGmkpLyILuhDLb/YIzkt18="
   },
   "warming": {
-    "version": "4.1.4",
+    "version": "4.1.5",
     "t3_versions": [
       12,
       13
     ],
     "description": "Warms up Frontend caches based on an XML sitemap. Cache warmup can be triggered via TYPO3 backend or using a console command. Supports multiple languages and custom crawler implementations.",
-    "hash": "sha256-zZuXZBb/EmNywpvnNYWbRoyvNbA4uJFYWRW35ggAA7s="
+    "hash": "sha256-x6OuGptX2nv2EL+gCia/oZ/ZO19cI84iJHrZYdhvBSI="
   },
   "warmup": {
     "version": "1.3.1",
