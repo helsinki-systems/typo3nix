@@ -2469,7 +2469,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ameos_tarteaucitron": {
-    "version": "3.6.0",
+    "version": "3.6.1",
     "t3_versions": [
       9,
       10,
@@ -2478,7 +2478,7 @@
       13
     ],
     "description": "Integrates tarteaucitron.js in TYPO3 (see : https://tarteaucitron.io )",
-    "hash": "sha256-t3E8LIt9BVVfotzHuLCIEBUPlltAbnXWsDeJuxPjhYk="
+    "hash": "sha256-+P933b9vwxceWQ0K1fBp/t/eKcttrSp3vVl490IHyeA="
   },
   "ameos_typo3_vulnerabilities": {
     "version": "1.0.0",
@@ -3545,14 +3545,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "autotranslate": {
-    "version": "2.3.0",
+    "version": "2.3.1",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "This extension provides automatic translation of pages and content elements via DeepL API.",
-    "hash": "sha256-xxKtEJWGdl5O1J6FdAmnNRFE4yIjKlvGo/UkhJ74pgw="
+    "hash": "sha256-/Rrm/snzTeNs8rVLv3UY3SdbO2javtBwaksuVNgCgAQ="
   },
   "autoupload_dummy": {
     "version": "1.0.2",
@@ -3747,13 +3747,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.351.4",
+    "version": "3.351.6",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-gnXcyn+1NYnw2GC8itcmvVjrD5iQV14TnNs4Z0X+4rs="
+    "hash": "sha256-hjqWj6+ECodW2mx/SN/fiMbK1gJVWtiX7fxTgS6ejIQ="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -5448,13 +5448,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "bootstrap_package": {
-    "version": "15.0.2",
+    "version": "15.0.3",
     "t3_versions": [
       12,
       13
     ],
     "description": "Bootstrap Package delivers a full configured frontend theme for TYPO3, based on the Bootstrap CSS Framework.",
-    "hash": "sha256-ZPdYjs4q2RuV5tsKxHBPgqVSat5pUWxzBCpfDTg8kNA="
+    "hash": "sha256-5Z7Jt0VjWtAQr3+pNKPYhDtcAYIHs1/QaOBHiwVLVmc="
   },
   "bootstrap_package_iconpack": {
     "version": "0.3.1",
@@ -13698,12 +13698,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "delete_processed_image": {
-    "version": "12.0.0",
+    "version": "13.0.0",
     "t3_versions": [
-      12
+      13
     ],
     "description": "This TYPO3 extension provides a backend tool to remove all processed (cropped, scaled, etc.) variants of a FAL image.",
-    "hash": "sha256-DYhy0XhZCrurVL4WToeuKxquAu0bDlNcfVGs1SJsJAg="
+    "hash": "sha256-OA2VrAUPbMf0X5WVzfX9kwNyPhkrdRkOnAaCuREBqRo="
   },
   "delete_staticfile_by_3party": {
     "version": "0.0.4",
@@ -14358,22 +14358,22 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "disable_beuser": {
-    "version": "4.2.0",
+    "version": "5.0.0",
     "t3_versions": [
-      11,
-      12
+      13
     ],
     "description": "Scheduler task to disable inactive User",
-    "hash": "sha256-4yW5NcHu1uM937gj0ZvyD3ulEGJSXMMtXzKAWZBfOG0="
+    "hash": "sha256-yAUsk6/Gq+uAHvO9NDxzS+ceZVrck0+CgP8xvda4TPw="
   },
   "disable_beuser_csv": {
-    "version": "2.0.2",
+    "version": "2.0.4",
     "t3_versions": [
       11,
-      12
+      12,
+      13
     ],
     "description": "EventListener for disable_beuser to add user as Csv to Email",
-    "hash": "sha256-m5GefpgSXbpcVxx++sOYFya9Clr15ZEimrBVQ/8DtAA="
+    "hash": "sha256-BZlpuDM43JQ2Y5d/2beN3YrhsTzjqSbOLVkKJtIByI4="
   },
   "disable_feuser": {
     "version": "1.0.0",
@@ -24511,13 +24511,13 @@
     "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
   },
   "hd_structureddata": {
-    "version": "0.8.0",
+    "version": "0.8.6",
     "t3_versions": [
       11,
       12
     ],
     "description": "Extension for adding structured JSON-LD into page headers",
-    "hash": "sha256-VXcU1tKdZNCM4fYpvvGdCo8SLCyuazaim2tkoLyZVyo="
+    "hash": "sha256-acw7GBcqxlQK1+ahrjMmvEdDJAi53WJtHAjUfyV8a3I="
   },
   "hd_translator": {
     "version": "2.0.7",
@@ -24549,13 +24549,13 @@
     "hash": "sha256-qsVb91W381Ah5wL7o6z9RqpRGdTMCJ/CKYGdCc3xWoI="
   },
   "headless": {
-    "version": "4.7.0",
+    "version": "4.7.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "Makes TYPO3 a headless CMS. Content and pages available in JSON format. Supports multilanguage, multidomain, forms, frontend login, workspaces and more. For JS frontend app see nuxt-typo3 package",
-    "hash": "sha256-7i28d1LAgrrAslwy1XOsC01lJ4RG5+Ny0da8LdAdrU4="
+    "hash": "sha256-BmTfMTuuVxy7pHbmnJI9MTrUXrOvmiI3DmxArF5NK9g="
   },
   "headless_container": {
     "version": "3.0.0",
@@ -36597,13 +36597,13 @@
     "hash": "sha256-QBq7RgOtpBz21jSQfzIxEurNCmBZlHvZXZt3wzoyyMw="
   },
   "modules": {
-    "version": "7.3.1",
+    "version": "7.3.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "Frontend-User-Registration, Profile, Invitations, Listing with detailview, Addressmanagement, Frontend-Recordmanagement. User friendly Backendmodule for managing Frontend- and Backend-Users and other Records. Toolbox for frontend and backend modules in TYPO3.",
-    "hash": "sha256-MeM5TZDwGHfsPSza2U925w34Cf5Va0/wuYS8LCaDMC8="
+    "hash": "sha256-Em4DxoHnVOaADbG50ILRUMKx/bTazCENTrqhbxJYoRs="
   },
   "modulis_animated_gif": {
     "version": "0.0.4",
@@ -36655,12 +36655,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "monitoring": {
-    "version": "0.3.1",
+    "version": "0.3.2",
     "t3_versions": [
+      12,
       13
     ],
     "description": "Exposes health state information of selected components in your TYPO3 instance to be integrated in external monitoring",
-    "hash": "sha256-/hhRwMwtlROldxoS9LOyDZzFTisH7t4EPFU2viAQZQ4="
+    "hash": "sha256-gY3xBgB67gAAoLHUt0xLsW7gcKbjfP7GY/BMdJ01pOg="
   },
   "mono_ga": {
     "version": "1.0.1",
@@ -40648,13 +40649,13 @@
     "hash": "sha256-kPxKaPOFunsxkd20gpiPaMTtTkdDsAyhYtNQVZgoXGY="
   },
   "ns_license": {
-    "version": "13.0.10",
+    "version": "13.0.11",
     "t3_versions": [
       12,
       13
     ],
     "description": "Manage licenses of your TYPO3 templates and extensions purchased from T3Planet. Includes activation and license validation. Documentation available at https://docs.t3planet.com/en/latest/License/LicenseActivation/Index.html",
-    "hash": "sha256-BdHkDmORU4BjfSdbEiLxlc076Pysle0CtMo2elaNBQc="
+    "hash": "sha256-r7MMJkHcWIpTXxgPI4wPCuBrVRG74hz6eYx7kNzHbuo="
   },
   "ns_news_advancedsearch": {
     "version": "13.0.1",
@@ -44113,22 +44114,20 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "pforum": {
-    "version": "4.0.3",
+    "version": "5.0.0",
     "t3_versions": [
-      10,
-      11
+      12
     ],
     "description": "Forum",
-    "hash": "sha256-GO2e9tfQY0Do6l3/HPoMOk/nc/3TTKRmMWq2ESOnx/0="
+    "hash": "sha256-RJ18ijn+IFTaT+t18twQHAkV5UhaSPTI2yTEcwZvP1g="
   },
   "pfprojects": {
-    "version": "6.0.1",
+    "version": "7.0.0",
     "t3_versions": [
-      10,
-      11
+      12
     ],
     "description": "This extension shows a list of projects and can be connected with service_bw2.",
-    "hash": "sha256-+3jRnlgCAnIW3TEbj8iEAaoPI3SQDy/k7mUvU5F/hr4="
+    "hash": "sha256-aH6pFgYRZYSjN6COzWzXqikdWXIEthFYveeraeVSsJw="
   },
   "pg_events": {
     "version": "0.1.2",
@@ -45389,12 +45388,12 @@
     "hash": "sha256-3LdQALLY43/Ufj4yP0Ztg5o0o4vFujokFNnp6XsV3DU="
   },
   "powermail_cond": {
-    "version": "13.0.0",
+    "version": "13.0.1",
     "t3_versions": [
       13
     ],
     "description": "Add conditions (via AJAX) to powermail forms for fields and pages",
-    "hash": "sha256-QP0houNol0RIv3Ku5bgliznOj+KCLE0d4vcHx2kvcFs="
+    "hash": "sha256-/ArFOZuQju5eqcDBg9RwyfplMxjsbzoYr6OdRBYGJZI="
   },
   "powermail_cond_jquery": {
     "version": "1.0.1",
@@ -63014,12 +63013,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "typed_extconf": {
-    "version": "0.1.0",
+    "version": "0.1.1",
     "t3_versions": [
+      12,
       13
     ],
     "description": "Aims to provide a type-safe extension configuration management for TYPO3, ensuring proper types instead of string-only values from backend configuration or mixed types from config/system/settings.php",
-    "hash": "sha256-tOqu0GaIO1HGe5Q1nKOBnI4sxvfNUqog7Mks9LMbBNo="
+    "hash": "sha256-EW87ChGOg6DAov8JWLpq0M6cEvlbO4ZDqV6RLYxEZBw="
   },
   "typo3_ai": {
     "version": "1.1.1",
