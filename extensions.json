@@ -17897,12 +17897,12 @@
     "hash": "sha256-WyoWMrqA0A+1a3dQRnojja1tbBuvdX3JL3WtcDlxGWk="
   },
   "events2": {
-    "version": "9.2.0",
+    "version": "10.0.0",
     "t3_versions": [
-      12
+      13
     ],
     "description": "Create single and recurring events",
-    "hash": "sha256-5EmX5QnJbasnWIIIUkDkEk5kAgPGTiXus+Bs8hEHozM="
+    "hash": "sha256-Wqdm6ZSzZUMpKbmJ3TPHY3mSzVC+uM9CwwcU5e49MEY="
   },
   "events2_reserve_connector": {
     "version": "1.0.0",
@@ -25627,7 +25627,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "iconpack": {
-    "version": "1.2.0",
+    "version": "1.2.1",
     "t3_versions": [
       10,
       11,
@@ -25635,7 +25635,7 @@
       13
     ],
     "description": "Provides an iconpack-registry for various iconpacks.",
-    "hash": "sha256-ZOFnqKEo/xwTxRkIJzH0h6w+gzBMiFPKtqikCwdNV60="
+    "hash": "sha256-POuyZ/3SY9iuIlpH0iSW0AhyE34qRJHxX6RkJYyNko0="
   },
   "iconpack_bootstrap": {
     "version": "1.3.3",
@@ -25649,7 +25649,7 @@
     "hash": "sha256-p8kjK4sHpioqABN3fXzoY5uOXYwpdJex45YsSTxliq8="
   },
   "iconpack_boxicons": {
-    "version": "1.1.0",
+    "version": "1.1.1",
     "t3_versions": [
       10,
       11,
@@ -25657,7 +25657,7 @@
       13
     ],
     "description": "This Extension registers an Iconpack-Provider for EXT:iconpack which allows you to use the \"Boxicons\" in TYPO3.",
-    "hash": "sha256-xEfRveJIOrga0P+Kqtfx4tOsn5ff+U2ENguypz2TcrQ="
+    "hash": "sha256-IM9mJ83TZ6F1S1OHdkk93W+keZoNHzdV0eBb4MbsSVc="
   },
   "iconpack_dripicons": {
     "version": "1.1.2",
@@ -25702,7 +25702,7 @@
     "hash": "sha256-xRDHM/QhQ0ef6JW1/bwEB0bh0XFLjCQolAgX9oVKhN0="
   },
   "iconpack_fontawesome": {
-    "version": "1.1.1",
+    "version": "1.2.1",
     "t3_versions": [
       10,
       11,
@@ -25710,7 +25710,7 @@
       13
     ],
     "description": "This Extension registers an Iconpack-Provider for EXT:iconpack which allows you to use the \"Font Awesome Icons\" in TYPO3.",
-    "hash": "sha256-8RxxVcBD8qQ93usBm142EsQ972+dlAreYGOIUbf7tJE="
+    "hash": "sha256-Dt0BCekOVs1SLE8H3CkoSZY2mI/vSfqX2erljwzsuMU="
   },
   "iconpack_helium": {
     "version": "1.1.2",
@@ -25724,7 +25724,7 @@
     "hash": "sha256-nuwhTC7EnUpe92jRnNrTy9T1SurvoLoEMUDt5/iCtGA="
   },
   "iconpack_iconoir": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "t3_versions": [
       10,
       11,
@@ -25732,7 +25732,7 @@
       13
     ],
     "description": "This Extension registers an Iconpack-Provider for EXT:iconpack which allows you to use the \"Iconoir Icons\" in TYPO3.",
-    "hash": "sha256-urNfd1UcqLlqDiJsYEJ7RYB+Rndo+Lkn4qu6ThK8NJA="
+    "hash": "sha256-UHo/YkAMrCTH6P4IWdke2UHyY4slRviSon3qBcje4c0="
   },
   "iconpack_ikons": {
     "version": "1.1.2",
@@ -25746,7 +25746,7 @@
     "hash": "sha256-sFdFMQW1GmxjIUE0OmNKa4al0CojtlscLIfJtTxXJfY="
   },
   "iconpack_ionicons": {
-    "version": "1.1.2",
+    "version": "1.1.3",
     "t3_versions": [
       10,
       11,
@@ -25754,10 +25754,10 @@
       13
     ],
     "description": "This Extension registers an Iconpack-Provider for EXT:iconpack which allows you to use the \"Ionicons\" in TYPO3.",
-    "hash": "sha256-jrApVDwXNMhI99u+C/li6gpeWgJQQOymJ+bxdqytZRI="
+    "hash": "sha256-5KWqIvn537Jt6F75pXcw4BJjTd3tIAIlbDDqBgCOLQ0="
   },
   "iconpack_linea": {
-    "version": "1.1.2",
+    "version": "1.1.3",
     "t3_versions": [
       10,
       11,
@@ -25765,7 +25765,7 @@
       13
     ],
     "description": "This Extension registers an Iconpack-Provider for EXT:iconpack which allows you to use the \"Linea Icons\" in TYPO3.",
-    "hash": "sha256-I5sCu30Ts+SvktS6f6aOJ/HfNOBQOi1rdOiPwgxC6pQ="
+    "hash": "sha256-pFqcSCIk+N2mq8/4twcALS+CAYVkVquti/9/FTmoJ14="
   },
   "iconpack_linearicons": {
     "version": "1.1.2",
@@ -25789,6 +25789,17 @@
     "description": "This Extension registers an Iconpack-Provider for EXT:iconpack which allows you to use the \"LineIcons\" in TYPO3.",
     "hash": "sha256-Y+cN/7jtOG0ZvqsWrxWZvOj7GdkeI8XrMA1bdqEtEwU="
   },
+  "iconpack_material": {
+    "version": "0.1.0",
+    "t3_versions": [
+      10,
+      11,
+      12,
+      13
+    ],
+    "description": "This Extension registers an Iconpack-Provider for EXT:iconpack which allows you to use the \"Material Icons\" in TYPO3.",
+    "hash": "sha256-2Xqim9MgXVfoAs0eIoEuHsNplIaCFs6ayQW8CkzlJAQ="
+  },
   "iconpack_octicons": {
     "version": "1.1.2",
     "t3_versions": [
@@ -25801,7 +25812,7 @@
     "hash": "sha256-Um9B8T+a6bpA7zc7ql3Xu6L/YP9JKFUaQRFC5/q4jkM="
   },
   "iconpack_tablericons": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "t3_versions": [
       10,
       11,
@@ -25809,7 +25820,7 @@
       13
     ],
     "description": "This Extension registers an Iconpack-Provider for EXT:iconpack which allows you to use the \"Tabler Icons\" in TYPO3.",
-    "hash": "sha256-hSB1TtLBD3cCp6xhikC6/mMPwIejvJgoES2HTO2zO6o="
+    "hash": "sha256-973nY2UWzGdAUjQfijxzF0nQyaSHUJvM0hHqLqLgAfU="
   },
   "iconpack_themify": {
     "version": "1.1.2",
@@ -61569,13 +61580,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "transactor_paypal": {
-    "version": "0.6.0",
+    "version": "0.6.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "Provides the possibility to transact payments via PayPal based on Webpayment Standard using the Payment Transactor extension.",
-    "hash": "sha256-X2TbmK8G7WTY3gky2IiDw2/UJwVW8O9wdsUZQlCNjCU="
+    "hash": "sha256-pCNBEZURDHWrfWBQnTDpyBF/BUC4jCFEk2EgVxh+nC4="
   },
   "transfusion": {
     "version": "0.0.1",
@@ -63013,13 +63024,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "typed_extconf": {
-    "version": "0.1.1",
+    "version": "0.2.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Aims to provide a type-safe extension configuration management for TYPO3, ensuring proper types instead of string-only values from backend configuration or mixed types from config/system/settings.php",
-    "hash": "sha256-EW87ChGOg6DAov8JWLpq0M6cEvlbO4ZDqV6RLYxEZBw="
+    "hash": "sha256-k8/m6VnlYYfF1DpZvJ7URhJ29wco2rpIpJjMRa+an8o="
   },
   "typo3_ai": {
     "version": "1.1.1",
