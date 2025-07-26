@@ -3747,13 +3747,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.351.6",
+    "version": "3.351.7",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-hjqWj6+ECodW2mx/SN/fiMbK1gJVWtiX7fxTgS6ejIQ="
+    "hash": "sha256-IjzAsEaabrPaKy2GoyWYmxPYfQYc0jdBd7DUaPzskR4="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -63024,13 +63024,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "typed_extconf": {
-    "version": "0.2.0",
+    "version": "0.2.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "Aims to provide a type-safe extension configuration management for TYPO3, ensuring proper types instead of string-only values from backend configuration or mixed types from config/system/settings.php",
-    "hash": "sha256-k8/m6VnlYYfF1DpZvJ7URhJ29wco2rpIpJjMRa+an8o="
+    "hash": "sha256-iG9L02Uccz9PHJCBd3mnDEM4dJZbZfsR6PVSOcRC+yA="
   },
   "typo3_ai": {
     "version": "1.1.1",
