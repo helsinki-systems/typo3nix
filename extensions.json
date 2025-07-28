@@ -1287,12 +1287,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "admiral_cloud_connector": {
-    "version": "3.0.1",
+    "version": "3.0.2",
     "t3_versions": [
       13
     ],
     "description": "AdmiralCloud Connector",
-    "hash": "sha256-jPjqZcBNekxwt4XWTzAY1QhaEaJAKhpuADvTBDqDzfA="
+    "hash": "sha256-aoYY2RbEDHBEdE8pAidnbAq7/l8MHuWIui6GH5WT4Ug="
   },
   "adodb": {
     "version": "8.4.0",
@@ -1656,12 +1656,12 @@
     "hash": "sha256-VjFx9kagkYZ+UP502oKGTs64zlOsNZ0JCvSkQosql58="
   },
   "ai_suite": {
-    "version": "13.5.2",
+    "version": "13.6.0",
     "t3_versions": [
       13
     ],
     "description": "The AI Suite optimizes the workflow of project managers, agencies and freelancers by using the latest AI technologies. It seamlessly integrates a wide variety of AI interfaces and the AI Suite open source models into the TYPO3 backend. Enables, among other things, more efficient creation and management of image and page metadata (individually and as batch processing), content translations (including \"Easy Language\"), content creation and modification, image generation and page structure generation.",
-    "hash": "sha256-AxaVCuNilSrurOfAwrKqKtCsZNvl50+A4r2bkiSUv3s="
+    "hash": "sha256-63C8x7xZqaXOqhAfZl6m52xgYw7a7FXuwPok2TuKfNw="
   },
   "ai_tools": {
     "version": "1.1.0",
@@ -8200,12 +8200,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ceselector": {
-    "version": "4.0.1",
+    "version": "5.0.0",
     "t3_versions": [
-      11
+      12
     ],
     "description": "Selects and displays content elements according to certain parameters (Max elements, sorting, persistent mode)",
-    "hash": "sha256-G37MOG4nBOJBZPX1YJ8LmRYFS9fY16mAPy8CL8o1j50="
+    "hash": "sha256-RBrGBf95A6ZBw5hYOmIPu0EBAEWTj9vnFjiAqY0g0dA="
   },
   "cewrap": {
     "version": "6.0.0",
@@ -19562,12 +19562,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "femanager": {
-    "version": "8.3.1",
+    "version": "13.0.0",
     "t3_versions": [
-      12
+      13
     ],
     "description": "TYPO3 Frontend User Registration and Management based on",
-    "hash": "sha256-IFY07/DUjH7OcuhQSZauOTpa6rKajPcHgFm19zHUwEI="
+    "hash": "sha256-DkTNBbmZt9cEULXWp/bJ5hBew39u/ghyV/qVf+6kjDs="
   },
   "femanager_cleverreach": {
     "version": "3.0.0",
@@ -21600,12 +21600,12 @@
     "hash": "sha256-CN1nAK2dmfTk6hcy2nAercA6NbfnnBuOX1j95cmyle4="
   },
   "form_to_database": {
-    "version": "4.1.0",
+    "version": "4.2.1",
     "t3_versions": [
       12
     ],
     "description": "Extends the TYPO3 form with a very simple database finisher, to save the form-results in the database.",
-    "hash": "sha256-TZaFl8KYHpfI87tDOpgoRxbF0NkxqiTmaFsypNp/qcQ="
+    "hash": "sha256-G1zFkWNkPECJ+YF9eAnZ5yL/jdy/LkRzJ92odPU80vA="
   },
   "form_tools": {
     "version": "2.0.1",
@@ -36372,12 +36372,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mmc_directmail_subscription": {
-    "version": "3.0.2",
+    "version": "4.0.0",
     "t3_versions": [
-      11
+      12
     ],
     "description": "Custom direct-mail subscription plugin",
-    "hash": "sha256-+zP3of5E2S3Utbm92iOvsji/uxDkOV5WU2N1IUQzQJI="
+    "hash": "sha256-Ar71EPeZio7vrNRTwaQlrpr2T9AAcqjEWVXN0T4m6QU="
   },
   "mmc_extbasewsutility": {
     "version": "1.1.3",
@@ -36389,20 +36389,20 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mmc_guestbook": {
-    "version": "3.0.10",
+    "version": "4.0.0",
     "t3_versions": [
-      11
+      12
     ],
     "description": "A guestbook plugin providing several mechanisms for spam prevention",
-    "hash": "sha256-FuiHqZrllmVjJv1XPoxVDWhA3SuigvwDXOO0WZLZZpc="
+    "hash": "sha256-IFFzo/p9m6KRn7wNZPV2Pho2MxInOCq3DVHz3ZCkX3c="
   },
   "mmc_slideshow": {
-    "version": "3.0.7",
+    "version": "4.0.0",
     "t3_versions": [
-      11
+      12
     ],
     "description": "Slideshow with multiple sequences, each sequence can be configured (interval, animation, random mode)",
-    "hash": "sha256-3bODIuDdivM3JV4nCuetp2W9wp6Ex90g1r6bxVCFnBQ="
+    "hash": "sha256-vDffSQVZYcHEizOacDU0ehZejhY/xgZpDtU46OCtDgI="
   },
   "mmforeign": {
     "version": "0.4.0",
