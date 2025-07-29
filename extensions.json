@@ -3747,13 +3747,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.351.7",
+    "version": "3.351.8",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-IjzAsEaabrPaKy2GoyWYmxPYfQYc0jdBd7DUaPzskR4="
+    "hash": "sha256-QdnRPd8jvYf6K20WF/HzaVAFQGBVSJU+nXkxbZ8uSFQ="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -5194,12 +5194,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "bm_image_gallery": {
-    "version": "7.0.1",
+    "version": "7.0.2",
     "t3_versions": [
       13
     ],
     "description": "Simple gallery using file collections.",
-    "hash": "sha256-LOmqstvhlPOzPcIoyoM0FN134QfDt4etnxLPrrgS+ko="
+    "hash": "sha256-DDoJEA4kONXWOpORy7sZ05JjvcVVtarMYlh6UANnkt4="
   },
   "bm_lofuc": {
     "version": "0.1.1",
@@ -8200,12 +8200,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ceselector": {
-    "version": "5.0.0",
+    "version": "6.0.0",
     "t3_versions": [
-      12
+      13
     ],
     "description": "Selects and displays content elements according to certain parameters (Max elements, sorting, persistent mode)",
-    "hash": "sha256-RBrGBf95A6ZBw5hYOmIPu0EBAEWTj9vnFjiAqY0g0dA="
+    "hash": "sha256-A3dS1OxfyTr3XQPxQrtM6vf4hC1lOeybduVBuESe1wg="
   },
   "cewrap": {
     "version": "6.0.0",
@@ -24635,6 +24635,14 @@
     "description": "RTE ck_editor custom config with example data",
     "hash": "sha256-mNoV+xn4ysih1Z9VZeEE121Q7WX3OKSuuilIJTHtS8I="
   },
+  "hh_ckeditor_highlight": {
+    "version": "2.0.1",
+    "t3_versions": [
+      13
+    ],
+    "description": "Same as the original ck_editor highlight plugin but output \"span\"-tag instead of \"mark\" (optional).",
+    "hash": "sha256-HNSj0nS/XnsdZZ2r2yl/mW+JpFk4eDkEctvnNE341NU="
+  },
   "hh_multipageform_example": {
     "version": "0.0.1",
     "t3_versions": [],
@@ -24830,6 +24838,15 @@
     ],
     "description": "Create a highlight.js element on TYPO3 as normal content element",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "hio_typo3_connector": {
+    "version": "0.7.41",
+    "t3_versions": [
+      12,
+      13
+    ],
+    "description": "TYPO3 Connector for HISinOne",
+    "hash": "sha256-JERE1E3qvsKyAFCbdOtnTuNW+y/S1JO/TOxetW9PMRk="
   },
   "hipchat": {
     "version": "1.1.3",
@@ -26975,15 +26992,15 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "includekrexx": {
-    "version": "5.1.6",
+    "version": "6.0.0",
     "t3_versions": [
       10,
       11,
       12,
       13
     ],
-    "description": "Fluid and PHP debugger with backend access to logfiles, code generation to reach the displayed values and much more. We added some special stuff for Aimeos.",
-    "hash": "sha256-MA+GCD87brUaHiSlbE5TR2uMhXT+Kp8cm89EHu0H2SI="
+    "description": "Fluid and PHP debugger with backend access to logfiles, code generation to reach the displayed values and much more. We added some special stuff for Aimeos and Content Blocks.",
+    "hash": "sha256-1YdRwYNAdtDQ2QcYnt6j9aUW7Ik6ISZFd9L/npL8Pk0="
   },
   "incore_twitter": {
     "version": "1.2.2",
@@ -33310,12 +33327,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mailfiles": {
-    "version": "8.0.0",
+    "version": "8.1.0",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "Upload files and send download links via email. Uses plupload. Please see readme file.",
-    "hash": "sha256-M83tL1h2+2NpnI/XzSVoTsKFWbIyAibPwKy/7GNbHOA="
+    "hash": "sha256-rviQx2D9sWK9fFiEyf+jwracngMCB+T5UGl/KhbYkoM="
   },
   "mailform": {
     "version": "0.9.35",
@@ -36389,20 +36407,20 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mmc_guestbook": {
-    "version": "4.0.0",
+    "version": "5.0.0",
     "t3_versions": [
-      12
+      13
     ],
     "description": "A guestbook plugin providing several mechanisms for spam prevention",
-    "hash": "sha256-IFFzo/p9m6KRn7wNZPV2Pho2MxInOCq3DVHz3ZCkX3c="
+    "hash": "sha256-gKQFfsFfY5GTm1tpdASCTR/FDWNad4B7XX/ojjTIuEc="
   },
   "mmc_slideshow": {
-    "version": "4.0.0",
+    "version": "5.0.0",
     "t3_versions": [
-      12
+      13
     ],
     "description": "Slideshow with multiple sequences, each sequence can be configured (interval, animation, random mode)",
-    "hash": "sha256-vDffSQVZYcHEizOacDU0ehZejhY/xgZpDtU46OCtDgI="
+    "hash": "sha256-F+0TLcOY0pwombRTpMTbXJNhjfwYq3lEYc6t+jDYCZM="
   },
   "mmforeign": {
     "version": "0.4.0",
@@ -36608,13 +36626,13 @@
     "hash": "sha256-QBq7RgOtpBz21jSQfzIxEurNCmBZlHvZXZt3wzoyyMw="
   },
   "modules": {
-    "version": "7.3.2",
+    "version": "7.3.3",
     "t3_versions": [
       12,
       13
     ],
     "description": "Frontend-User-Registration, Profile, Invitations, Listing with detailview, Addressmanagement, Frontend-Recordmanagement. User friendly Backendmodule for managing Frontend- and Backend-Users and other Records. Toolbox for frontend and backend modules in TYPO3.",
-    "hash": "sha256-Em4DxoHnVOaADbG50ILRUMKx/bTazCENTrqhbxJYoRs="
+    "hash": "sha256-WVx/IqWMKvreg/d5SYPgXd/hMuiYbYgNcc4N00w5pFo="
   },
   "modulis_animated_gif": {
     "version": "0.0.4",
@@ -44960,12 +44978,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "pluploadfe": {
-    "version": "8.0.0",
+    "version": "8.1.0",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "Provides an API and a FE plugin for using plupload, a highly usable and advanced upload handler.",
-    "hash": "sha256-gA4FmqxBMfGf/b+XZKIZ4JY5Gs6DvvgYufFCY0S3Lg8="
+    "hash": "sha256-vaoicJyTjEaJ2iYGiIKkhMNLnxTNwLBhNbw7aD3L+94="
   },
   "pluploadfe_powermail": {
     "version": "1.0.1",
@@ -45357,12 +45376,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "powermail": {
-    "version": "13.0.1",
+    "version": "13.0.2",
     "t3_versions": [
       13
     ],
     "description": "Powermail is a well-known, editor-friendly, powerful",
-    "hash": "sha256-crl6ID3mE2qpkvGi058loJONocpYn+BUXaaoEBfq844="
+    "hash": "sha256-5meYSlOxKaJ2YvqmePYR/sA0I9C1xYnCBfAWfbW5SKQ="
   },
   "powermail2document": {
     "version": "1.6.1",
@@ -52170,13 +52189,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "shop": {
-    "version": "5.6.0",
+    "version": "5.7.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "Shop for TYPO3 incl. PayPal, PayPal-Checkout (formerly PayPal-Plus), Klarna, Stripe, Bookmarks, UPS-API, Invoice generation, backend module, compare feature, graduated prices and many more - note there is a Pro version as well! See https://www.coding.ms/typo3-extensions/typo3-shop",
-    "hash": "sha256-JI1DuRd98Wrm/kyZTDI3UXjQam8hfgHkhDe7e5b6k+w="
+    "hash": "sha256-y3Ax+7Z4bN2VZDCtZskwfo1slxKwlz0MROpC71RiB8M="
   },
   "shop3ox": {
     "version": "0.0.3",
@@ -52345,6 +52364,16 @@
     ],
     "description": "Address Extension that can either enhance or replace tt_address. You can add required fields dynamically like mask/powermail. Originally it was written in 2016 to replace extensions like nicos_directory, wt_directory or sp_directory and grew from there.",
     "hash": "sha256-bYgfzakXCgQqkcIZgtVHxuhS5+EGUw54m/6juCzL5Z0="
+  },
+  "sic_mosparo": {
+    "version": "1.0.0",
+    "t3_versions": [
+      11,
+      12,
+      13
+    ],
+    "description": "Mosparo captcha extension for powermail",
+    "hash": "sha256-/oh30dpBpMYFQuMXs3obW6jiXU/2mW1z8A4tYrNXlCE="
   },
   "sici_core": {
     "version": "2.0.0",
@@ -56332,6 +56361,14 @@
     "description": "Plugin to search for stores and show them in responsive Google maps with driving routes. Single view implemented too.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "storybook": {
+    "version": "0.1.10",
+    "t3_versions": [
+      13
+    ],
+    "description": "The one and only Storybook Renderer for TYPO3 Fluid Components",
+    "hash": "sha256-V0l7xz4gOKRAlj/s+zcGJGeK6Ffoxl5KfPD8VmV5eQs="
+  },
   "streamovations_vp": {
     "version": "2.0.2",
     "t3_versions": [
@@ -58395,6 +58432,25 @@
     ],
     "description": "Replaces keywords in your content with a tooltip text taken from database. You can also grab keywords replacement from any other table e.g. sg_glossary or mr_glossary.",
     "hash": "sha256-03kws4QYWThdiF7DS6RyY2pM9G+ATTH5v2UhBv6nUxU="
+  },
+  "t5_bootstrap5_components": {
+    "version": "1.4.4",
+    "t3_versions": [
+      11,
+      12,
+      13
+    ],
+    "description": "Provide bootstrap components",
+    "hash": "sha256-9GBbBx0gIyD+rEvXhe36p5ykVqBrUZHJx2eQkb7v9CE="
+  },
+  "t5_bootstrap_form": {
+    "version": "4.13.23",
+    "t3_versions": [
+      12,
+      13
+    ],
+    "description": "Extended form structure for bootstrap",
+    "hash": "sha256-xA/CPJ9KgqlI7zt3EuXb9xYEuJqBR/Fn67wNptNQMqM="
   },
   "t5_sal_animation": {
     "version": "1.1.9",
