@@ -3747,13 +3747,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.351.8",
+    "version": "3.351.9",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-QdnRPd8jvYf6K20WF/HzaVAFQGBVSJU+nXkxbZ8uSFQ="
+    "hash": "sha256-ttJkiRW8w39UvfpdgfubpLJhYoebAWgEgqpFD1rhXIc="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -19736,13 +19736,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "feuserextrafields": {
-    "version": "6.5.1",
+    "version": "6.6.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Extra fields for TYPO3 frontend users and drop-in replacement for the removed FrontEndUser Core model",
-    "hash": "sha256-EQTXkwvLQCtN7o9t+omWjawOdOYtpt2eMz9T9q3/iKA="
+    "hash": "sha256-3dCfvwXcW9r1p2rlbGcB3sX0upthbojGYHNRUMSTZJM="
   },
   "feuserfeediting": {
     "version": "0.0.2",
@@ -24702,13 +24702,13 @@
     "hash": "sha256-/jR61A4Ct78lkWaI1fgVll8PuUruNlnBE2E98U97j/s="
   },
   "hh_tt_address_places": {
-    "version": "4.2.2",
+    "version": "4.3.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Simply adds places / companies TCA for EXT:tt_address.",
-    "hash": "sha256-v6Z+JSW5nsx/ewYfxpY2dhurFtGEo93R9pOL/mJNyVg="
+    "hash": "sha256-OgrHN5zZx2vgYSxH2IWdIy7qLHX9Vjw7nt7weyU1FqU="
   },
   "hh_video_extender": {
     "version": "0.4.1",
@@ -24840,13 +24840,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "hio_typo3_connector": {
-    "version": "0.7.41",
+    "version": "0.7.42",
     "t3_versions": [
       12,
       13
     ],
     "description": "TYPO3 Connector for HISinOne",
-    "hash": "sha256-JERE1E3qvsKyAFCbdOtnTuNW+y/S1JO/TOxetW9PMRk="
+    "hash": "sha256-AQ7RcXyWy026zHb9mnhww6Myz4fNEQbjzLv/IvFiG3s="
   },
   "hipchat": {
     "version": "1.1.3",
@@ -25292,14 +25292,13 @@
     "hash": "sha256-Ms0z6h1FO2yCQ1xBvrUK76WEOe0RU4pH/nKWbtK3ImM="
   },
   "http2": {
-    "version": "2.0.0",
+    "version": "3.0.0",
     "t3_versions": [
-      10,
-      11,
-      12
+      12,
+      13
     ],
     "description": "",
-    "hash": "sha256-AP81PEF9YwTNHtxTBW4W+WCAfH0OmTNdnayOY1mPOks="
+    "hash": "sha256-DCP73j8pOcak9SWmPVx5iPoR3dL3MW7by9gYNULTGac="
   },
   "http2_push": {
     "version": "0.3.4",
@@ -41867,22 +41866,22 @@
     "hash": "sha256-2dkIKHdrs7qaxD8kdQOHIrHL9d9aT7kkgxUoozxhrTA="
   },
   "ok_exchange365_mailer": {
-    "version": "4.0.2",
+    "version": "4.0.3",
     "t3_versions": [
       12,
       13
     ],
     "description": "A TYPO3 extension for sending emails using Exchange 365 and Microsoft Graph API",
-    "hash": "sha256-74gn+TM/oV+4q+dRFTiy0VvFmVbuKutkDL6jGoCDiRY="
+    "hash": "sha256-20VJheoejnaBLQY3Ou2BUNeSDi2+kLIVVxssm9YqXFU="
   },
   "ok_typo3_helper": {
-    "version": "3.0.2",
+    "version": "3.0.6",
     "t3_versions": [
       12,
       13
     ],
     "description": "A TYPO3 extension with helper traits and utilities.",
-    "hash": "sha256-3QSPnduVzGX8WYRtimrvODmxlGm2QJZBdyNQDqrF09Q="
+    "hash": "sha256-lzK2D3uYJ8sKawyNucoPd4Rnn5k5CukXPAWE9T5K6hU="
   },
   "ol_donationmeter": {
     "version": "1.1.1",
@@ -44143,12 +44142,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "pforum": {
-    "version": "5.0.0",
+    "version": "6.0.0",
     "t3_versions": [
-      12
+      13
     ],
     "description": "Forum",
-    "hash": "sha256-RJ18ijn+IFTaT+t18twQHAkV5UhaSPTI2yTEcwZvP1g="
+    "hash": "sha256-aN2VhdlBkdVXc7Fk8uwIYwLpQ7pcD5hh6rh6I+g8mf8="
   },
   "pfprojects": {
     "version": "7.0.0",
@@ -51318,12 +51317,12 @@
     "hash": "sha256-YsbvL7t6AiXCaxNrsfjEoXVZNyGDF1sxZEvZg1PkNmk="
   },
   "service_bw2": {
-    "version": "7.0.0",
+    "version": "8.0.1",
     "t3_versions": [
-      12
+      13
     ],
     "description": "With this extension you can access interface of service BW",
-    "hash": "sha256-UFpdXE1/o13E+kon8uhYZI2bqSdkLl95KKS+sYu6LbY="
+    "hash": "sha256-9K+5GAFaBoQ09XjdPl7k7g5+Umr/hrx/1LLkd9H0grA="
   },
   "ses_mailer": {
     "version": "1.0.0",
