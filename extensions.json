@@ -3747,13 +3747,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.351.9",
+    "version": "3.351.11",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-ttJkiRW8w39UvfpdgfubpLJhYoebAWgEgqpFD1rhXIc="
+    "hash": "sha256-0w3vB81FX6rtJQ+SEqI332SxVFyZEnpKpeJ4x2/X2ec="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -10114,12 +10114,12 @@
     "hash": "sha256-AfToijkanNxy5yWgP7Vdw03r4FjS4ylg2fCf0SLYwKU="
   },
   "content_blocks": {
-    "version": "1.3.8",
+    "version": "1.3.9",
     "t3_versions": [
       13
     ],
     "description": "TYPO3 CMS Content Blocks - Content Types API | Define reusable components via YAML",
-    "hash": "sha256-/JEwScktGoDEF+2XRB1J6M4U1qvMe8qRBHKLanVf34o="
+    "hash": "sha256-f9Eo8MjunqJCfCU0CpUMS5F94aOvsSQ8UWwCMlL9HlI="
   },
   "content_blocks_bootstrap": {
     "version": "0.0.3",
@@ -16990,12 +16990,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "editor_widgets": {
-    "version": "2.1.8",
+    "version": "2.1.9",
     "t3_versions": [
       13
     ],
     "description": "Collection of useful dashboard widgets focused on editors",
-    "hash": "sha256-YwfEHIFteoTjr81X+PlAtjLb5Clap+R4WSf/gr1MgT4="
+    "hash": "sha256-ednUrRlMuwOfd8UXoqzY3nJKCbal4RdMD9EKi3VvEWs="
   },
   "editors_choice": {
     "version": "2.1.0",
@@ -21077,15 +21077,15 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fnn_powermail_altcha": {
-    "version": "10.0.0",
+    "version": "10.0.1",
     "t3_versions": [
       10,
       11,
       12,
       13
     ],
-    "description": "Altcha Spam Protection for powermail",
-    "hash": "sha256-YjzZC18F53NjPNKH4hto3VQTtqwIGFnfJAczmVTEqeM="
+    "description": "Accessible and GDPR compliant proof-of-work (pow) captcha for powermail, no external service required",
+    "hash": "sha256-GYGxm5JsFjuowwYeCN5FUEU5MjJcdJUOvOKo18r1ZT4="
   },
   "focuspoint": {
     "version": "7.0.5",
@@ -27930,12 +27930,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "iupacnomenclature": {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "t3_versions": [
       12
     ],
     "description": "An extension to find the right IUPAC nomenclature for a given chemical structure.",
-    "hash": "sha256-p1WIf4/V8E80UDkCmrwK2Qfsweb2Np24ZNSWcWgC6ks="
+    "hash": "sha256-eRotLejeVeBrUqMZkNmkVH15xlR0X1je0TxcfcLTwxA="
   },
   "ivw": {
     "version": "1.1.0",
@@ -36389,12 +36389,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mmc_directmail_subscription": {
-    "version": "4.0.0",
+    "version": "4.0.2",
     "t3_versions": [
       12
     ],
     "description": "Custom direct-mail subscription plugin",
-    "hash": "sha256-Ar71EPeZio7vrNRTwaQlrpr2T9AAcqjEWVXN0T4m6QU="
+    "hash": "sha256-djbkI21R284DtbTiQJtYitwdSPr/NPAGQpo8ELx+FoM="
   },
   "mmc_extbasewsutility": {
     "version": "1.1.3",
@@ -36683,13 +36683,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "monitoring": {
-    "version": "0.3.2",
+    "version": "0.4.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Exposes health state information of selected components in your TYPO3 instance to be integrated in external monitoring",
-    "hash": "sha256-gY3xBgB67gAAoLHUt0xLsW7gcKbjfP7GY/BMdJ01pOg="
+    "hash": "sha256-aDgKSpLlntRlbzgO5pnCiRcvdsDihm5JX+NeQthEi7Y="
   },
   "mono_ga": {
     "version": "1.0.1",
@@ -36931,6 +36931,24 @@
     "t3_versions": [],
     "description": "Calculates mortgage related numbers like monthly payment and remaining loan.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "mosparo_form": {
+    "version": "1.0.2",
+    "t3_versions": [
+      12,
+      13
+    ],
+    "description": "Integrates the mosparo spam protection system into TYPO3 EXT:form and Extbase forms, allowing easy and effective spam protection across different form implementations.",
+    "hash": "sha256-W/2/qMT+oW903P7fxMgTZi51SkKNhBnn7WTt5oX3i/w="
+  },
+  "mosparo_powermail": {
+    "version": "1.0.2",
+    "t3_versions": [
+      12,
+      13
+    ],
+    "description": "Integrates the mosparo spam protection system into TYPO3 Powermail extension, enabling easy and effective spam protection for Powermail forms.",
+    "hash": "sha256-CRLWdak0R+sRBpGHks4QjIfi91FvDMXTGrsVB1/YWvk="
   },
   "mouseoverimages": {
     "version": "0.2.5",
