@@ -3747,13 +3747,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.351.11",
+    "version": "3.351.12",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-0w3vB81FX6rtJQ+SEqI332SxVFyZEnpKpeJ4x2/X2ec="
+    "hash": "sha256-UoKCv38WAWDBetqoxTqR0HidVldHUBxCQwNgiGvFRM0="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -56379,12 +56379,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "storybook": {
-    "version": "0.1.10",
+    "version": "0.1.11",
     "t3_versions": [
       13
     ],
     "description": "The one and only Storybook Renderer for TYPO3 Fluid Components",
-    "hash": "sha256-V0l7xz4gOKRAlj/s+zcGJGeK6Ffoxl5KfPD8VmV5eQs="
+    "hash": "sha256-zGrngUQZ3OfQQusFAZfAvshpfqsPeWjv4PUHoWcu+xo="
   },
   "streamovations_vp": {
     "version": "2.0.2",
