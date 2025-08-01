@@ -2061,12 +2061,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "allinoneaccessibility": {
-    "version": "13.0.1",
+    "version": "13.0.2",
     "t3_versions": [
       13
     ],
     "description": "WCAG Website Accessibility widget improves Typo3 website ADA compliance and browser experience for ADA, WCAG 2.1 & 2.2, Section 508, Australian DDA, European EAA EN 301 549, UK Equality Act (EA), Israeli Standard 5568, California Unruh, Ontario AODA, Canada ACA, German BITV, France RGAA, Brazilian Inclusion Law (LBI 13.146/2015), Spain UNE 139803:2012, JIS X 8341 (Japan), Italian Stanca Act and Switzerland DDA Standards.",
-    "hash": "sha256-pxkUa3SLhVksc+xdU8aftuZjeXVnv8mjfy1spVgjWvs="
+    "hash": "sha256-mgH3GjFMb4hRBmN2989fnu+/Nt9Rfcu0SFbvg1pvTCo="
   },
   "allnews": {
     "version": "0.2.6",
@@ -39637,13 +39637,13 @@
     "hash": "sha256-uJeJf/6bZopKPPRCHLAzV4hwnQUCUb38OyhmDoGAfLc="
   },
   "newsstylist": {
-    "version": "6.0.1",
+    "version": "6.0.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "all in one: one-touch settings within news plugin - fast & cool way to change the output of news, List view 5 layouts (default, card, carousel, newsletter) and swiper slider with some effects",
-    "hash": "sha256-tdCusgPhYG1Kq34PtMCj0pOiK6v4fYpFaSsvNbQSIwQ="
+    "hash": "sha256-yhtSgdJnPoaYbHkeNFf/Mie2vQ8ZZAbb335mg1qDFJM="
   },
   "newssubmit": {
     "version": "1.0.0",
@@ -40926,12 +40926,13 @@
     "hash": "sha256-cVQEaCr1R0E1Yz5tNlICF2S9n6+0ij/n301mxlKTTnU="
   },
   "ns_whatsapp": {
-    "version": "12.1.1",
+    "version": "13.0.0",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "Easily integrate WhatsApp chat into your TYPO3 website. Customize chat button styles, agent profiles, and color themes to match your brand. Enhance visitor engagement with advanced chat configurations.",
-    "hash": "sha256-93DhCYOR1EJ/AopLEhq740iNbz7ePTb9tJ1iVf7lqOU="
+    "hash": "sha256-Z3R/xt77qJZ12g151BGFLJneqr9Epz38pXLJW5W2YQQ="
   },
   "ns_wp_migration": {
     "version": "1.1.1",
@@ -44168,12 +44169,12 @@
     "hash": "sha256-aN2VhdlBkdVXc7Fk8uwIYwLpQ7pcD5hh6rh6I+g8mf8="
   },
   "pfprojects": {
-    "version": "7.0.0",
+    "version": "8.0.0",
     "t3_versions": [
-      12
+      13
     ],
     "description": "This extension shows a list of projects and can be connected with service_bw2.",
-    "hash": "sha256-aH6pFgYRZYSjN6COzWzXqikdWXIEthFYveeraeVSsJw="
+    "hash": "sha256-heVjA9fBmxkc8Fc9GLDOAFLC9yWK7YqImW2pbLNqqY8="
   },
   "pg_events": {
     "version": "0.1.2",
@@ -50846,6 +50847,14 @@
     "description": "Display scoop.it topics, posts, and user profiles on your website. Utilises the scoop.it API and ExtBase/Fluid.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "scp_easyvision_typo3": {
+    "version": "1.0.0",
+    "t3_versions": [
+      13
+    ],
+    "description": "Integrate SiteCockpit into TYPO3: With SiteCockpit’s easyVision, your visitors can customize the website to their needs—for more accessibility and a better user experience. Integration takes just a few minutes!",
+    "hash": "sha256-VzkMicMghA4k7/PVkiOyiv+3MQCkwjPIr9931J+NoFQ="
+  },
   "scriptaculous": {
     "version": "1.7.0",
     "t3_versions": [],
@@ -52206,13 +52215,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "shop": {
-    "version": "5.7.1",
+    "version": "5.7.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "Shop for TYPO3 incl. PayPal, PayPal-Checkout (formerly PayPal-Plus), Klarna, Stripe, Bookmarks, UPS-API, Invoice generation, backend module, compare feature, graduated prices and many more - note there is a Pro version as well! See https://www.coding.ms/typo3-extensions/typo3-shop",
-    "hash": "sha256-y3Ax+7Z4bN2VZDCtZskwfo1slxKwlz0MROpC71RiB8M="
+    "hash": "sha256-eYeToxtcGL2efJzGHJ/xjeRWzTzrnA05lgjWkE9SuhE="
   },
   "shop3ox": {
     "version": "0.0.3",
@@ -56379,12 +56388,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "storybook": {
-    "version": "0.1.11",
+    "version": "0.1.13",
     "t3_versions": [
       13
     ],
     "description": "The one and only Storybook Renderer for TYPO3 Fluid Components",
-    "hash": "sha256-zGrngUQZ3OfQQusFAZfAvshpfqsPeWjv4PUHoWcu+xo="
+    "hash": "sha256-ow86mQcp+Z8fs01pPSNzxezb7H+6sE3Eo+C20Zn8z+0="
   },
   "streamovations_vp": {
     "version": "2.0.2",
@@ -67048,13 +67057,13 @@
     "hash": "sha256-WcTatWflvAr9bUH9M6CFWThHXL7azCiRCjwylAQcci0="
   },
   "xima_typo3_internal_news": {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "This extension provide internal news for backend users.",
-    "hash": "sha256-lRtkARWgGz2CN4W+KX37oResSjOgRuxlo20hEZ400dI="
+    "hash": "sha256-eyE+fQaafCEahK+nX0tD+Io2Qe+VrfU0TSO697BFaQI="
   },
   "xima_typo3_mailcatcher": {
     "version": "1.6.0",
