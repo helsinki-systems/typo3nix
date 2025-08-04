@@ -1287,12 +1287,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "admiral_cloud_connector": {
-    "version": "3.0.2",
+    "version": "3.0.3",
     "t3_versions": [
       13
     ],
     "description": "AdmiralCloud Connector",
-    "hash": "sha256-aoYY2RbEDHBEdE8pAidnbAq7/l8MHuWIui6GH5WT4Ug="
+    "hash": "sha256-AdbSzwBFRxe9henZYorNZW2qsX0WybHQKhkytnc6BtI="
   },
   "adodb": {
     "version": "8.4.0",
@@ -1522,12 +1522,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "agency": {
-    "version": "0.14.0",
+    "version": "0.14.1",
     "t3_versions": [
       13
     ],
     "description": "An improved variant of Kasper Skårhøj’s Front End User Admin extension.",
-    "hash": "sha256-i6W7lwjAf/9aJ7J9hhIdojw5Tm/at/09OSZ6JuIEJUo="
+    "hash": "sha256-6/ZaBeLgfIUq6L9vlP6U4jI33diquQJ6aiLn4uxEseM="
   },
   "agency_tt_address": {
     "version": "0.2.0",
@@ -7219,6 +7219,15 @@
     "description": "Captcha.eu - The intelligent GDPR-compliant Captcha solution without interrupting puzzles or riddles",
     "hash": "sha256-9WVqV3BMmXx5DY2mjEpcfyBEFWrBG7Cnjg66UDmGqII="
   },
+  "captchafox_official": {
+    "version": "12.0.1",
+    "t3_versions": [
+      12,
+      13
+    ],
+    "description": "CaptchaFox Integration for EXT:form",
+    "hash": "sha256-0MDtwBAt8D4Zw/b8qz/sbcpUKD2Ro0XTjPJxDSZU+VM="
+  },
   "car": {
     "version": "0.1.2",
     "t3_versions": [],
@@ -12882,13 +12891,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "dashbash": {
-    "version": "12.0.0",
+    "version": "13.0.1",
     "t3_versions": [
+      11,
       12,
       13
     ],
     "description": "Custom dashboard widgets for TYPO3",
-    "hash": "sha256-Y/bJdWEq0IfWj2dv8nG+ozWnYnajHFmn0RmbfqWuB1E="
+    "hash": "sha256-SR3XoNtyo/ehn4W3CS77ZrkpQf/uDC2jQabRgJhr000="
   },
   "databaseconnectionscanner": {
     "version": "0.1.3",
@@ -18533,13 +18543,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "externalimport_tut": {
-    "version": "5.1.0",
+    "version": "6.0.0",
     "t3_versions": [
-      11,
-      12
+      12,
+      13
     ],
     "description": "Tutorial for the External Import extension. Contains the manual and the necessary files.",
-    "hash": "sha256-zneT6aH2v4NZvvkUucdbrfWraftcTgXrKznCnHPZfwI="
+    "hash": "sha256-BSlt21ZRYXcGF8ET84YaEsR3OOzsb1jJgEn3SZ33WcA="
   },
   "extfileupload": {
     "version": "0.0.1",
@@ -24702,13 +24712,13 @@
     "hash": "sha256-/jR61A4Ct78lkWaI1fgVll8PuUruNlnBE2E98U97j/s="
   },
   "hh_tt_address_places": {
-    "version": "4.3.0",
+    "version": "4.3.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "Simply adds places / companies TCA for EXT:tt_address.",
-    "hash": "sha256-OgrHN5zZx2vgYSxH2IWdIy7qLHX9Vjw7nt7weyU1FqU="
+    "hash": "sha256-ozPnfeigV/4khuSRAz2iuwdb+e4T8noFdt618jGTy0E="
   },
   "hh_video_extender": {
     "version": "0.4.1",
@@ -40843,13 +40853,13 @@
     "hash": "sha256-10LddMKF39yjOejYkwKtPNQl7kCT2HBb7Pu+zERrAP8="
   },
   "ns_theme_agency": {
-    "version": "13.0.6",
+    "version": "13.0.7",
     "t3_versions": [
       12,
       13
     ],
     "description": "A professional TYPO3 website template ideal for software companies, startups, and digital agencies. Fully responsive and compatible with TYPO3 v12 & v13.",
-    "hash": "sha256-mxfqZGFMVdoI8S7XQovD8syF2Xj9NiSF9spMPwbQIXE="
+    "hash": "sha256-8gxF9xmjwZK8ZlEX34xuENs0QPT57hPl+7n5Kut4ZYg="
   },
   "ns_theme_cleanblog": {
     "version": "13.0.1",
@@ -56388,12 +56398,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "storybook": {
-    "version": "0.1.13",
+    "version": "0.1.16",
     "t3_versions": [
       13
     ],
     "description": "The one and only Storybook Renderer for TYPO3 Fluid Components",
-    "hash": "sha256-ow86mQcp+Z8fs01pPSNzxezb7H+6sE3Eo+C20Zn8z+0="
+    "hash": "sha256-hGdl8qcrRRaC960dzMXh81OrJ5S6w4Y250bw//71FAo="
   },
   "streamovations_vp": {
     "version": "2.0.2",
