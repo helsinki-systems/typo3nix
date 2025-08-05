@@ -1522,12 +1522,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "agency": {
-    "version": "0.14.1",
+    "version": "0.15.0",
     "t3_versions": [
       13
     ],
     "description": "An improved variant of Kasper Skårhøj’s Front End User Admin extension.",
-    "hash": "sha256-6/ZaBeLgfIUq6L9vlP6U4jI33diquQJ6aiLn4uxEseM="
+    "hash": "sha256-vA6j/C08E5ohX+vaaMPr5Y2AU2u79PLQEemwpHF0A1o="
   },
   "agency_tt_address": {
     "version": "0.2.0",
@@ -1656,12 +1656,12 @@
     "hash": "sha256-VjFx9kagkYZ+UP502oKGTs64zlOsNZ0JCvSkQosql58="
   },
   "ai_suite": {
-    "version": "13.6.0",
+    "version": "13.6.1",
     "t3_versions": [
       13
     ],
     "description": "The AI Suite optimizes the workflow of project managers, agencies and freelancers by using the latest AI technologies. It seamlessly integrates a wide variety of AI interfaces and the AI Suite open source models into the TYPO3 backend. Enables, among other things, more efficient creation and management of image and page metadata (individually and as batch processing), content translations (including \"Easy Language\"), content creation and modification, image generation and page structure generation.",
-    "hash": "sha256-63C8x7xZqaXOqhAfZl6m52xgYw7a7FXuwPok2TuKfNw="
+    "hash": "sha256-R7q5bz98FUqLkQDuupLCNNXXW2AZPxUOUBanOo2/VgY="
   },
   "ai_tools": {
     "version": "1.1.0",
@@ -3747,13 +3747,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.352.0",
+    "version": "3.352.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-foPjZ6lCzFqNw21sdlGyTbGFW3Yni8arz1eUFIroR58="
+    "hash": "sha256-KRfx7SPIe4NxA+4aUCQKJqq/LJuVcqUvSKqS7PrnKj8="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -4012,13 +4012,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "base_excel": {
-    "version": "4.3.1",
+    "version": "4.5.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "This provides the PhpSpreadsheet library, formerly phpExcel from phpOffice.",
-    "hash": "sha256-nhF9t/DSdlNkWbcG14ENXO8UNSK4dPeBUtvFlfuY4eA="
+    "hash": "sha256-ftXrx+twDeH2v8tpO+TlXdzuDjnPtFCFlyfzemrFoKA="
   },
   "base_font": {
     "version": "1.0.0",
@@ -7111,13 +7111,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "campus_events_connector": {
-    "version": "5.0.0",
+    "version": "5.0.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "Connecting the event software campus events with TYPO3, to import the event data into TYPO3 as data records. Get further information about Campus Events: www.campus-events.com",
-    "hash": "sha256-kiSVvfUJuJShv4wuFwqH+o4BNf9JuVWqWbdndCF1QtU="
+    "hash": "sha256-wiTOOTiq7ypDchAQeXkP0t2chEHGBisWKymbYQ/BibY="
   },
   "campus_events_convert2news": {
     "version": "5.0.0",
@@ -25220,10 +25220,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "html5mediakit": {
-    "version": "13.4.0",
-    "t3_versions": [],
+    "version": "13.5.0",
+    "t3_versions": [
+      13
+    ],
     "description": "Allows easy embedding of HTML5 video and audio elements.",
-    "hash": "sha256-/4hGG45quAgSwJr9gMqEqul/4og/wA4v5uBE3wa0f9Q="
+    "hash": "sha256-SkHM6Zxx8pQkNZ7xgPRcUQ+I9WifqFONNn+ebzo51TA="
   },
   "html5meta_t3lib_pagerenderer": {
     "version": "0.1.0",
@@ -30726,13 +30728,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "klaro_consent_manager": {
-    "version": "2.0.11",
+    "version": "2.0.12",
     "t3_versions": [
       12,
       13
     ],
     "description": "Functionally complete, flexible TYPO3 integration of Klaro! Consent Management by KIProtect GmbH, a powerful tool that protects your visitors' privacy and data.",
-    "hash": "sha256-CxbdUsm63c0HL6PVAA7t6o++5xC5EyBiMklXgSP6Tn8="
+    "hash": "sha256-IitXejadVSdjXaIbzKE6z2/lIii/MnVvaqN4WKlYzK4="
   },
   "klarokratie": {
     "version": "13.4.17",
@@ -40556,22 +40558,22 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ns_faq": {
-    "version": "13.0.1",
-    "t3_versions": [
-      12,
-      13
-    ],
-    "description": "Easily manage and display Frequently Asked Questions on your TYPO3 website. This extension offers a user-friendly backend interface to create, customize, and organize FAQs efficiently. Compatible with the latest TYPO3 versions.",
-    "hash": "sha256-q9uy+zN4hmbt5MQgf7JrZ12+yYwVFM/A6RXOa2fCY+U="
-  },
-  "ns_feedback": {
     "version": "13.0.2",
     "t3_versions": [
       12,
       13
     ],
+    "description": "Easily manage and display Frequently Asked Questions on your TYPO3 website. This extension offers a user-friendly backend interface to create, customize, and organize FAQs efficiently. Compatible with the latest TYPO3 versions.",
+    "hash": "sha256-MdVaBXwLr+YYAVRAvUfnFxsDaCX9bR7+FiPxDAc/XbQ="
+  },
+  "ns_feedback": {
+    "version": "13.0.3",
+    "t3_versions": [
+      12,
+      13
+    ],
     "description": "A powerful TYPO3 extension to collect user feedback through customizable forms. Easily embed feedback forms in various styles to gather insights and improve your website’s performance. Fully compatible with TYPO3 v12 and v13.",
-    "hash": "sha256-H4leX1zdSjHeFmScR6pTsmULwM8uYE12M6GWQ0720s8="
+    "hash": "sha256-BlirUAl3ADhmrEGCKQI+6UZ32w5b5Qvtv6wX4Xx0uHI="
   },
   "ns_friendlycaptcha": {
     "version": "13.0.1",
@@ -40657,13 +40659,13 @@
     "hash": "sha256-DSiIht18LEBcQz11giqQm7x49Uj6Kz9tjF9GuI5hMD8="
   },
   "ns_helpdesk": {
-    "version": "13.0.1",
+    "version": "13.0.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "Easily manage customer support on your TYPO3 site with a ticket-based helpdesk system. Includes dashboard, ticket management, email alerts, file uploads, and user access control.",
-    "hash": "sha256-vNguRm+482b8z6MdCxexJc0/cpaFJmx+KtrxMeFw5cc="
+    "hash": "sha256-dcjwoU7c+HEu9Nxsx+dcm4QlLcCskpHzsOqy0T0v3Jw="
   },
   "ns_hubspot": {
     "version": "1.0.2",
@@ -56398,12 +56400,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "storybook": {
-    "version": "0.1.16",
+    "version": "0.1.18",
     "t3_versions": [
       13
     ],
     "description": "The one and only Storybook Renderer for TYPO3 Fluid Components",
-    "hash": "sha256-hGdl8qcrRRaC960dzMXh81OrJ5S6w4Y250bw//71FAo="
+    "hash": "sha256-pbvZy9ycFGVZ+ZOm4yumP51oWawIOlyfxUZMzwyeGFI="
   },
   "streamovations_vp": {
     "version": "2.0.2",
