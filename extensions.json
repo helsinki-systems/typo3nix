@@ -3747,13 +3747,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.352.1",
+    "version": "3.352.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-KRfx7SPIe4NxA+4aUCQKJqq/LJuVcqUvSKqS7PrnKj8="
+    "hash": "sha256-Yb/nOSEa+P6J++K/cq5y7QcqZo7FjuyfA5wf4hFf4L0="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -4096,14 +4096,14 @@
     "hash": "sha256-l8PBJJwDFJIwWZRT8RDeVcxlOwCHEA4ifkv6GxnaxD0="
   },
   "base_word": {
-    "version": "1.3.0",
+    "version": "1.4.0",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "This provides the PHPWord library from phpOffice.",
-    "hash": "sha256-dpYIT/5Uh/MhRS/dkGrM9DmO/+7txMoUUfGaShBNdWg="
+    "hash": "sha256-9FUIagVbft8Had0bNppENcMKLurJlK/vZdG3M5pupus="
   },
   "base_zip": {
     "version": "3.1.1",
@@ -24530,12 +24530,12 @@
     "hash": "sha256-acw7GBcqxlQK1+ahrjMmvEdDJAi53WJtHAjUfyV8a3I="
   },
   "hd_translator": {
-    "version": "2.0.7",
+    "version": "2.1.0",
     "t3_versions": [
       13
     ],
     "description": "Translation of static strings from locallang.xlf files and export/import of database related content",
-    "hash": "sha256-A+HsR6uI77kk2Zu/X3B2cO8JLNZYwIQMjlU88RKpChE="
+    "hash": "sha256-HbJ16WjbSODI/VLBujSOGcOffdULJl/XnE/gxEoOQbI="
   },
   "header_flashexample": {
     "version": "0.1.2",
@@ -24850,13 +24850,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "hio_typo3_connector": {
-    "version": "0.7.42",
+    "version": "0.8.0",
     "t3_versions": [
       12,
       13
     ],
-    "description": "TYPO3 Connector for HISinOne",
-    "hash": "sha256-AQ7RcXyWy026zHb9mnhww6Myz4fNEQbjzLv/IvFiG3s="
+    "description": "TYPO3 Connector für die Integration von Daten aus HISinOne",
+    "hash": "sha256-qIrwlPG0Eqdu1gD3M+ryg9y/oTfEWIrUHNmRzX30ZbA="
   },
   "hipchat": {
     "version": "1.1.3",
@@ -30300,13 +30300,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ke_search": {
-    "version": "6.4.1",
+    "version": "6.5.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Faceted fulltext search for TYPO3. Fast, flexible and easy to install and use. Indexes content directly from the databases. Features faceting / filtering, file indexing, images in result lists and respects access restrictions.",
-    "hash": "sha256-8kvBDiRRIZS49DYvsSlypLLgbygn2iK34zXT7OKY8CQ="
+    "hash": "sha256-OT6kRE5/wafkKzeifGj7rSvLp5fQEwcTHynLy1iNAOs="
   },
   "ke_search_dam_tags": {
     "version": "0.0.1",
@@ -30384,13 +30384,13 @@
     "hash": "sha256-CDl4p7lGO+VLSk4PhevImP4y835ptbeRvKi+qwwmWI8="
   },
   "ke_search_suggest": {
-    "version": "12.4.4",
+    "version": "12.4.5",
     "t3_versions": [
       12,
       13
     ],
     "description": "Autocomplete functionality for ke_search",
-    "hash": "sha256-cfSd6bhcmaHp2K4ouWp+b8p1UHKGv4yoVCgEj3lCy6c="
+    "hash": "sha256-QzPVTdAz+Vo1dSvYcNpgwEOJMddWxfGWREpFbTAvYYM="
   },
   "ke_showproducts": {
     "version": "1.0.2",
@@ -34393,13 +34393,13 @@
     "hash": "sha256-6EQ32/uZZ3HtnpPOGUmLN+fHWVUQGBa9TJKeL094fUQ="
   },
   "md_unreadnews": {
-    "version": "5.0.2",
+    "version": "5.0.3",
     "t3_versions": [
       11,
       12
     ],
     "description": "This extension adds unread information to the records of ext:news for frontend users.",
-    "hash": "sha256-Io+PIElbkVXUvNfJi1e/NmQLrHAHyTx+ra9EpeCfwxo="
+    "hash": "sha256-K+YtvzuXRg6iBFfkS7705WGRH6PyEi86ooGZod2T2kM="
   },
   "mda_autopublish": {
     "version": "0.0.1",
@@ -36695,13 +36695,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "monitoring": {
-    "version": "0.4.0",
+    "version": "0.4.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "Exposes health state information of selected components in your TYPO3 instance to be integrated in external monitoring",
-    "hash": "sha256-aDgKSpLlntRlbzgO5pnCiRcvdsDihm5JX+NeQthEi7Y="
+    "hash": "sha256-aBd5Bvc5rhYWsTrFfDN/uMYh8zygrM/PDNuDPBtYxCs="
   },
   "mono_ga": {
     "version": "1.0.1",
@@ -38361,6 +38361,14 @@
     ],
     "description": "An very old, but advanced quiz-extension which can be used as a quiz, questionnaire, survey, poll, rating or psychological test.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "myra_cloud_connector": {
+    "version": "2.0.1",
+    "t3_versions": [
+      12
+    ],
+    "description": "Clear-Cache for Myra Cloud systems",
+    "hash": "sha256-q5hipnTRA8GdQ9caAQaSJX778oaRVT054J0VVY9pYCk="
   },
   "myriad": {
     "version": "0.0.1",
@@ -56400,12 +56408,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "storybook": {
-    "version": "0.1.18",
+    "version": "0.1.20",
     "t3_versions": [
       13
     ],
     "description": "The one and only Storybook Renderer for TYPO3 Fluid Components",
-    "hash": "sha256-pbvZy9ycFGVZ+ZOm4yumP51oWawIOlyfxUZMzwyeGFI="
+    "hash": "sha256-uAdtHUn12r2EYqVbhKJWgSXMo63xxEP+JPGwH7BiT7w="
   },
   "streamovations_vp": {
     "version": "2.0.2",
@@ -58491,13 +58499,13 @@
     "hash": "sha256-xA/CPJ9KgqlI7zt3EuXb9xYEuJqBR/Fn67wNptNQMqM="
   },
   "t5_sal_animation": {
-    "version": "1.1.9",
+    "version": "1.5.59",
     "t3_versions": [
-      11,
-      12
+      12,
+      13
     ],
     "description": "Animate content elements on page scrolling with sal.js",
-    "hash": "sha256-PBdZ2zmuX0wV9odEFXIfISVtNUNbYWgXVPGoXFQ9FVQ="
+    "hash": "sha256-+kzILGrVZgmt7RZT1uDy5qosXEuwrKHTSsy3iQ8wKWU="
   },
   "t_banner": {
     "version": "0.1.3",
