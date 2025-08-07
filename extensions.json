@@ -3747,13 +3747,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.352.2",
+    "version": "3.352.3",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-Yb/nOSEa+P6J++K/cq5y7QcqZo7FjuyfA5wf4hFf4L0="
+    "hash": "sha256-B7WJ+gvLJtDBCW0MiqL6gC7jXlPtb+aRigKV1idPUv0="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -21610,12 +21610,12 @@
     "hash": "sha256-CN1nAK2dmfTk6hcy2nAercA6NbfnnBuOX1j95cmyle4="
   },
   "form_to_database": {
-    "version": "4.2.1",
+    "version": "5.0.0",
     "t3_versions": [
-      12
+      13
     ],
     "description": "Extends the TYPO3 form with a very simple database finisher, to save the form-results in the database.",
-    "hash": "sha256-G1zFkWNkPECJ+YF9eAnZ5yL/jdy/LkRzJ92odPU80vA="
+    "hash": "sha256-Dn81ktjboAd0VqZnFN2708t4m+CTExm7BzfVb2FkoyQ="
   },
   "form_tools": {
     "version": "2.0.1",
@@ -26907,21 +26907,21 @@
     "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
   },
   "in2faq": {
-    "version": "7.0.1",
+    "version": "13.0.0",
     "t3_versions": [
-      12
+      13
     ],
     "description": "Simple FAQ extension with a cli command to import faq from extension irfaq",
-    "hash": "sha256-UZV44SN2n7AvtZqpfjPN9tUQa7eVW393wQ6YjSI3ifg="
+    "hash": "sha256-60xdYIRQxxO+T4Sw8nRWm7W63CC9w2eJoN36JpS91mI="
   },
   "in2frontendauthentication": {
-    "version": "9.0.2",
+    "version": "13.0.0",
     "t3_versions": [
-      11,
-      12
+      12,
+      13
     ],
     "description": "Authenticate every visitor as a defined frontend user if IP matches",
-    "hash": "sha256-ZB123KW/2Iwz2rWViVyBofjJ7KSa9F6CWTgh5HMjMlw="
+    "hash": "sha256-PrLmwyMKXeHsmOZQ0jHcUn/NORYMLhuezlNCsmyRtRU="
   },
   "in2help": {
     "version": "7.0.1",
@@ -27533,13 +27533,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ipandlanguageredirect": {
-    "version": "5.2.2",
+    "version": "13.0.0",
     "t3_versions": [
-      11,
-      12
+      12,
+      13
     ],
     "description": "TYPO3 extension to redirect a user based on location and browser language.",
-    "hash": "sha256-ftmn+pWIypXW21+oSwjTbJHNobdAJZ1z7v8TVC5UulE="
+    "hash": "sha256-ciEzWsVc/tk+6LsVkPTEDVYCe7HsjW6mhY4o3yzRlAM="
   },
   "ipayment": {
     "version": "0.0.1",
@@ -30737,7 +30737,7 @@
     "hash": "sha256-IitXejadVSdjXaIbzKE6z2/lIii/MnVvaqN4WKlYzK4="
   },
   "klarokratie": {
-    "version": "13.4.17",
+    "version": "13.4.19",
     "t3_versions": [
       10,
       11,
@@ -30745,7 +30745,7 @@
       13
     ],
     "description": "Includes Klaro! Consent-Manager into TYPO3. Completely file-based configuration for versioning without having to take care of database-entries. This extension automatically adds a consent-overlay to embedded YouTube- and Vimeo-Videos. It also comes with a ready-to-use integration for Google Analytics / Google Tag Manager and etracker.",
-    "hash": "sha256-bWz164j4TAPicNZKA+mzG9x7KzNJN1nhbuV2NF1IGGY="
+    "hash": "sha256-6Gy5mrw7NpQOm+d/LYz6wJIVy8fv2wNOiVszHNZC/1s="
   },
   "km_dam_extension": {
     "version": "1.0.2",
@@ -33253,14 +33253,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mail": {
-    "version": "3.6.1",
+    "version": "3.6.2",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "Powerful newsletter system for TYPO3",
-    "hash": "sha256-hNcbjHyA5fC9i1jiLMteT1HIsyRYCs5KFIdfrGQnB/4="
+    "hash": "sha256-byjLHYQLYxPSD3NfjNVGapD8Hh9bOSpDSGLDuHdA0Cg="
   },
   "mail2news": {
     "version": "2.0.3",
@@ -35778,16 +35778,17 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "miniorange_saml": {
-    "version": "5.5.0",
+    "version": "5.6.1",
     "t3_versions": [
       8,
       9,
       10,
       11,
-      12
+      12,
+      13
     ],
     "description": "SAML SSO for Typo3 frontend and Backend",
-    "hash": "sha256-XnJiY+AoHeeCAn7uoEgiMwbaxT7cU0VI+e/59Av3ugY="
+    "hash": "sha256-a/0H06eVwrVUgjexVtr73pC7pyY9FMN7uO5eYJK8Gsg="
   },
   "miniredirect": {
     "version": "3.0.1",
@@ -36954,13 +36955,13 @@
     "hash": "sha256-W/2/qMT+oW903P7fxMgTZi51SkKNhBnn7WTt5oX3i/w="
   },
   "mosparo_powermail": {
-    "version": "1.0.2",
+    "version": "1.0.3",
     "t3_versions": [
       12,
       13
     ],
     "description": "Integrates the mosparo spam protection system into TYPO3 Powermail extension, enabling easy and effective spam protection for Powermail forms.",
-    "hash": "sha256-CRLWdak0R+sRBpGHks4QjIfi91FvDMXTGrsVB1/YWvk="
+    "hash": "sha256-t+al97MPih2B0/wTp4RMYbKYKNJg7tk40kSHy24ps8Y="
   },
   "mouseoverimages": {
     "version": "0.2.5",
@@ -40601,12 +40602,13 @@
     "hash": "sha256-uZmu4a7bcUiibU1cV+zC/TbFKePmLYO7y8emBmhqqxM="
   },
   "ns_google_map": {
-    "version": "12.0.3",
+    "version": "13.0.0",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "Easily integrate and customize responsive Google Maps on your TYPO3 website. Designed to be SEO-friendly and user-centric, it enhances user experience with smooth map embedding and layout options.",
-    "hash": "sha256-10CIKSgXZoXHzR/U3U9g8VgSWt2Tl+QdZhQ22EAVS9c="
+    "hash": "sha256-5ci+/3JVn3VX7bhtS3iA5CN13QKbSlUPRj4L6raGi3U="
   },
   "ns_google_sitekit": {
     "version": "1.0.3",
@@ -45643,14 +45645,15 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "powermailrecaptcha": {
-    "version": "5.2.3",
+    "version": "13.0.0",
     "t3_versions": [
       10,
       11,
-      12
+      12,
+      13
     ],
     "description": "Google recaptcha extension for powermail",
-    "hash": "sha256-sLi3LDMZGEfQZjaqiKzCYdT3Z5OgwMdVY4e2cY9cCsw="
+    "hash": "sha256-aLwapQ+4fB+5DQw6ox4AfKM+GNeZCqKCrJSHOFOBFPA="
   },
   "powersearch": {
     "version": "1.0.2",
@@ -56408,12 +56411,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "storybook": {
-    "version": "0.1.20",
+    "version": "0.1.21",
     "t3_versions": [
       13
     ],
     "description": "The one and only Storybook Renderer for TYPO3 Fluid Components",
-    "hash": "sha256-uAdtHUn12r2EYqVbhKJWgSXMo63xxEP+JPGwH7BiT7w="
+    "hash": "sha256-hAP+6iz+AY5ySDZFQg9gJbwu4MHGwXa2oBpX/xnD9u0="
   },
   "streamovations_vp": {
     "version": "2.0.2",
@@ -58659,12 +58662,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "tagging": {
-    "version": "12.0.2",
+    "version": "13.0.0",
     "t3_versions": [
-      12
+      13
     ],
     "description": "A patch for TYPO3 to easily add tags just like categories to any element",
-    "hash": "sha256-LUugrHfUSPHHJXtmLOE5tj4sDikStZ2dQPcPK4KyyL0="
+    "hash": "sha256-9EvHhp/SvUkDXU6NpSy5RuntO1QQ5NxBSxxoJWCWK0U="
   },
   "tagpack": {
     "version": "0.12.2",
@@ -60145,12 +60148,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "tight": {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "t3_versions": [
       13
     ],
     "description": "Tweaks the backend CSS of TYPO3 **13.4** to reduce the vast space set between the UI elements.",
-    "hash": "sha256-gDYv4PEbbNQ+6jaDneISGhXY3nAI8QPuobKaM+f4Sgw="
+    "hash": "sha256-Pl0djjBnkvV/OWHvoYAZIFLisz9tJbE5RZw/K3Jh8/M="
   },
   "tika": {
     "version": "13.0.0",
