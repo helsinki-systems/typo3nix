@@ -1195,12 +1195,12 @@
     "hash": "sha256-Qx7pEfxHzU21N5I2lCBk34qUvM/L0Ij1XDE7AIhUKNI="
   },
   "address": {
-    "version": "13.0.1",
+    "version": "13.0.3",
     "t3_versions": [
       13
     ],
     "description": "Address extension with multiple contact types per address. Code is based on news extension.",
-    "hash": "sha256-sJPCpKOAMENbbE79KIWsC8iCR6kffVfbWvAgoLEst94="
+    "hash": "sha256-6WW9ySDhznjn2H9fqjn+iWTmIIXOZlMgCGbfG7+oAb0="
   },
   "address_manager": {
     "version": "4.0.7",
@@ -1637,13 +1637,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ai_filemetadata": {
-    "version": "1.2.0",
+    "version": "1.3.5",
     "t3_versions": [
       12,
       13
     ],
     "description": "Automatically generates FAL metadata for files by means of public LLMs",
-    "hash": "sha256-vzqFT9lpmCoOvfQXDTRAmnUaDx0P66Z3LXodg1/OyrM="
+    "hash": "sha256-eVMMMjNdZrAltNZt3cyRrRdxdEH3Xg8UM9JBNAxzQY0="
   },
   "ai_seo_helper": {
     "version": "0.7.0",
@@ -3747,13 +3747,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.352.3",
+    "version": "3.352.4",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-B7WJ+gvLJtDBCW0MiqL6gC7jXlPtb+aRigKV1idPUv0="
+    "hash": "sha256-2+ms/KCVqKfgeTPP/7p/xvX929zRd4gF9FJuoijH1sg="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -44183,12 +44183,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "pforum": {
-    "version": "6.0.0",
+    "version": "6.0.1",
     "t3_versions": [
       13
     ],
     "description": "Forum",
-    "hash": "sha256-aN2VhdlBkdVXc7Fk8uwIYwLpQ7pcD5hh6rh6I+g8mf8="
+    "hash": "sha256-nyocZz4Ue4Z4fB88Rt8c35F3OEnVUkEP7wlW+h2DLSY="
   },
   "pfprojects": {
     "version": "8.0.0",
@@ -47909,12 +47909,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "replacer": {
-    "version": "4.0.0",
+    "version": "4.0.2",
     "t3_versions": [
       13
     ],
     "description": "Replaces string patterns from the page. You can use it to replace URLs for Content Delivery Network (CDN).",
-    "hash": "sha256-jcdNjKKkARdIm4N4BDPU2Ae4fGhRAeenLqWL0U38Bvw="
+    "hash": "sha256-bpNgxrFQaCFt/UsltELkJ4ck6yb5bw1cGWo9pRhxG1Y="
   },
   "reqmngmt": {
     "version": "0.0.1",
@@ -56411,12 +56411,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "storybook": {
-    "version": "0.1.21",
+    "version": "0.1.22",
     "t3_versions": [
       13
     ],
     "description": "The one and only Storybook Renderer for TYPO3 Fluid Components",
-    "hash": "sha256-hAP+6iz+AY5ySDZFQg9gJbwu4MHGwXa2oBpX/xnD9u0="
+    "hash": "sha256-vq6ZhfipOKsrhCiVvMUgz1k3HdS4V/7TgnRwWB7OK+4="
   },
   "streamovations_vp": {
     "version": "2.0.2",
