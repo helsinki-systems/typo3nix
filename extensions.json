@@ -1195,12 +1195,12 @@
     "hash": "sha256-Qx7pEfxHzU21N5I2lCBk34qUvM/L0Ij1XDE7AIhUKNI="
   },
   "address": {
-    "version": "13.0.3",
+    "version": "13.0.5",
     "t3_versions": [
       13
     ],
     "description": "Address extension with multiple contact types per address. Code is based on news extension.",
-    "hash": "sha256-6WW9ySDhznjn2H9fqjn+iWTmIIXOZlMgCGbfG7+oAb0="
+    "hash": "sha256-k/RvxYrxvhuZaJ3/2v3hhyBsux4eastaKpnFIE4U87s="
   },
   "address_manager": {
     "version": "4.0.7",
@@ -3268,13 +3268,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ausstello": {
-    "version": "1.2.1",
+    "version": "1.3.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "Events managen und kommunizieren, Marketing automatisieren. Einfach, ausstello.",
-    "hash": "sha256-RgBgSC3gmlL2mMmLyRtjPzBwkAHxBNtdZLYBmczBp/c="
+    "hash": "sha256-WqAak1zU9tDY6b2nFCHBcg3CzX2FTlj3OJ3tdJEIOK0="
   },
   "auth0": {
     "version": "13.0.2",
@@ -26924,12 +26924,12 @@
     "hash": "sha256-PrLmwyMKXeHsmOZQ0jHcUn/NORYMLhuezlNCsmyRtRU="
   },
   "in2help": {
-    "version": "7.0.1",
+    "version": "13.0.0",
     "t3_versions": [
-      12
+      13
     ],
     "description": "Provides a Backend Help Modul, to display any page of the frontend in the backend. So you can use this module as an entry point for editors documentation.",
-    "hash": "sha256-BFdTRWWeRaqtvDUFfouCjp9+is3B2SY0zKVQskUhklI="
+    "hash": "sha256-MOD26kr1/KRW+zzn6ijqaJ4qYdmFYWBjyKzT8KEFFrk="
   },
   "in2publish_core": {
     "version": "13.0.1",
@@ -27296,13 +27296,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "instagram": {
-    "version": "8.0.0",
+    "version": "13.0.1",
     "t3_versions": [
-      11,
-      12
+      12,
+      13
     ],
     "description": "Show images and posts from instagram profiles",
-    "hash": "sha256-+EPJ3nIMBRKgQlqFxfN9QP7t78Zsy9hiSyPcaWqjk5w="
+    "hash": "sha256-3r1++B6Sclm1oNIAxt3srMzJhpOCPa98owQoC631nVU="
   },
   "instagramapi": {
     "version": "1.0.1",
@@ -27391,13 +27391,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "interamt_connect": {
-    "version": "1.1.5",
+    "version": "2.0.0",
     "t3_versions": [
       11,
-      12
+      12,
+      13
     ],
     "description": "Creates an overview of all job advertisements of a public authority, which are listed in the public service job portal INTERAMT.de.",
-    "hash": "sha256-wcgjhJqqFFmo3bokeKZlkS6hI64rIKfwRn8Jd+vjcPA="
+    "hash": "sha256-NOD+k80sGhX2Zb2GSD+pSmpl9c87rEDcQr0ZyNMez9I="
   },
   "interest": {
     "version": "3.0.0",
@@ -32819,13 +32820,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "lux": {
-    "version": "38.7.2",
+    "version": "39.0.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Living User Experience - LUX - the Marketing Automation tool for TYPO3.",
-    "hash": "sha256-LF8jwK2+XV7L2X+6k7KWt1OOoSw2G6PJQzsaHgxuqi0="
+    "hash": "sha256-Uq0MXzbdg1c+mfWCtRlhjiHORWw4AUC8COinfO31jsU="
   },
   "luxletter": {
     "version": "27.2.3",
@@ -40726,13 +40727,13 @@
     "hash": "sha256-r7MMJkHcWIpTXxgPI4wPCuBrVRG74hz6eYx7kNzHbuo="
   },
   "ns_news_advancedsearch": {
-    "version": "13.0.1",
+    "version": "13.0.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "Extend the TYPO3 News extension with powerful advanced search functionality. Easily filter news by categories, authors, tags, and custom fields with precision and speed—thanks to optimized search algorithms designed for relevance.",
-    "hash": "sha256-g4Ncfb+5WQ2DUVy0N9EegmcmxXA+SdTIYMuIPXNxA9U="
+    "hash": "sha256-8pQgSnjxDBJXgW9HKOpWMrVavmnmhATYFsnCSXZrUWs="
   },
   "ns_news_comments": {
     "version": "13.0.1",
@@ -40957,13 +40958,14 @@
     "hash": "sha256-Z3R/xt77qJZ12g151BGFLJneqr9Epz38pXLJW5W2YQQ="
   },
   "ns_wp_migration": {
-    "version": "1.1.1",
+    "version": "2.0.0",
     "t3_versions": [
       11,
-      12
+      12,
+      13
     ],
     "description": "Easily migrate your WordPress pages and data into a TYPO3 website with this plug-and-play backend extension. Simplifies migration for posts, authors, media, and more.",
-    "hash": "sha256-EKVUP8HP2rFVUDUmofeFhxXnnfMv2MJoFSERZ5FgBBg="
+    "hash": "sha256-rPFx1BTd6uWXoEZrkLaDHSKMoPi0AWw47qfqPdlPwyM="
   },
   "ns_youtube": {
     "version": "13.0.1",
@@ -42431,12 +42433,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "osm": {
-    "version": "4.0.3",
+    "version": "13.0.0",
     "t3_versions": [
-      12
+      13
     ],
     "description": "A smart OpenStreetMap solution in TYPO3",
-    "hash": "sha256-oE+XbSuE2JdP5H7OvKf+ix/C5uVIyobvUrGhS8WaI+4="
+    "hash": "sha256-I57gdSS20D8vWcZNmbqGFuDk3izIh6Wtw5XTBCgynJo="
   },
   "osmplus": {
     "version": "0.0.1",
@@ -46347,12 +46349,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "publications": {
-    "version": "6.2.1",
+    "version": "13.0.0",
     "t3_versions": [
-      12
+      13
     ],
     "description": "Publication reference extension with im- and export with bibtex and xml files",
-    "hash": "sha256-vrSyGos9urrAvmOdf9tgY1QDOB8TAVlHzhLQNfMzRr4="
+    "hash": "sha256-lgC8uH0/8XthM7Q9cUT4fGlfYCc5ejqvX8xKbb9kqYU="
   },
   "publish": {
     "version": "11.1.1",
@@ -56411,12 +56413,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "storybook": {
-    "version": "0.1.22",
+    "version": "0.1.25",
     "t3_versions": [
       13
     ],
     "description": "The one and only Storybook Renderer for TYPO3 Fluid Components",
-    "hash": "sha256-vq6ZhfipOKsrhCiVvMUgz1k3HdS4V/7TgnRwWB7OK+4="
+    "hash": "sha256-rp70N7X2JeCAKogNGeHYsli3rxRsEXNqJHC51AZvxDg="
   },
   "streamovations_vp": {
     "version": "2.0.2",
@@ -63855,13 +63857,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "varnish": {
-    "version": "7.0.1",
+    "version": "7.1.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Seamless integration of TYPO3 cached pages into Varnish. Blazing fast response times for loads of simultaneous visitors.",
-    "hash": "sha256-3onvdv1J5N/vn9z3433Pv246KTrTqOMl/Bk82N9Hy8o="
+    "hash": "sha256-p/vzG1JC9g8FYt4q6hTg5CakfEmMpyzm6qAhY2Xl/FU="
   },
   "varnishcache": {
     "version": "5.0.0",
@@ -67106,13 +67108,14 @@
     "hash": "sha256-e73DSCNpPz0WeNjDzUr3rSRlOcg91zQuddfgX2vs48k="
   },
   "xima_typo3_recent_updates": {
-    "version": "1.0.1",
+    "version": "1.1.0",
     "t3_versions": [
       11,
-      12
+      12,
+      13
     ],
     "description": "A widget for the dashboard to display new and recently updated elements.",
-    "hash": "sha256-i2N34/yLifSG3L095yCtkYDuXTFqR4vk7v4fpsO79ww="
+    "hash": "sha256-AD5jyNoCyw3Z7xslqmqRltbncm8b7rs/0UapClzI14Q="
   },
   "xing": {
     "version": "1.0.3",
