@@ -5568,13 +5568,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "brofix": {
-    "version": "6.4.0",
+    "version": "6.5.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Check for broken links and fix them via a backend module (forked from core linkvalidator)",
-    "hash": "sha256-LKpQID/NosFIyG9vaors/0zz94bG2Bg1DRnhxUWTAZ8="
+    "hash": "sha256-bgBuL8U7SW7GQAf1uTM/CLWy0XWGCwyZtnguNudq8Ec="
   },
   "browser": {
     "version": "10.0.3",
