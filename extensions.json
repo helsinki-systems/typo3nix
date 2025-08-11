@@ -26932,12 +26932,12 @@
     "hash": "sha256-MOD26kr1/KRW+zzn6ijqaJ4qYdmFYWBjyKzT8KEFFrk="
   },
   "in2publish_core": {
-    "version": "13.0.1",
+    "version": "13.1.0",
     "t3_versions": [
       13
     ],
     "description": "Content publishing extension to connect stage and production server",
-    "hash": "sha256-63v4AGxkkVr8dlkTE2/Q2cnTWYMtZsby3g0VyCXZHc8="
+    "hash": "sha256-4kTsvXfdEiQckv9p9y605uODU16XB4yVSsG/2rvbivU="
   },
   "in2rss": {
     "version": "0.2.2",
@@ -56413,12 +56413,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "storybook": {
-    "version": "0.1.25",
+    "version": "0.1.26",
     "t3_versions": [
       13
     ],
     "description": "The one and only Storybook Renderer for TYPO3 Fluid Components",
-    "hash": "sha256-rp70N7X2JeCAKogNGeHYsli3rxRsEXNqJHC51AZvxDg="
+    "hash": "sha256-flg0fdeelXlt0Hct7Wa5doV7QixIpQShKC1u0y8jXoM="
   },
   "streamovations_vp": {
     "version": "2.0.2",
@@ -63251,6 +63251,15 @@
     "description": "This extension provides a GraphQL API for TYPO3.",
     "hash": "sha256-se61oteiP9nP5Rcwy5lNZIbGy5zbCHYMrSplkcHbLks="
   },
+  "typo3_heatmap_widget": {
+    "version": "0.1.0",
+    "t3_versions": [
+      12,
+      13
+    ],
+    "description": "Dashboard widget to display a (GitHub lookalike) contribution heatmap of e.g. content changes.",
+    "hash": "sha256-hGC141515yLB/Lc43YXh2V9UsUnzhvhbqFxzYZSpfQ0="
+  },
   "typo3_hyphenator": {
     "version": "1.4.0",
     "t3_versions": [
@@ -67108,14 +67117,14 @@
     "hash": "sha256-e73DSCNpPz0WeNjDzUr3rSRlOcg91zQuddfgX2vs48k="
   },
   "xima_typo3_recent_updates": {
-    "version": "1.1.0",
+    "version": "1.1.1",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "A widget for the dashboard to display new and recently updated elements.",
-    "hash": "sha256-AD5jyNoCyw3Z7xslqmqRltbncm8b7rs/0UapClzI14Q="
+    "hash": "sha256-rO7/pIsXa/VfoVnULfzJMee0PFzI+BCaM0d3D7+R5oo="
   },
   "xing": {
     "version": "1.0.3",
