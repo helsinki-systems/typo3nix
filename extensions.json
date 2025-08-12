@@ -3094,6 +3094,16 @@
     "description": "Advanced age calculator to fix problems with singular/plural grammatical forms in age.",
     "hash": "sha256-cuD2LvCqE2H93HnqjsNG/Oy/F3JysphDtL54aHpu4W4="
   },
+  "at_backup": {
+    "version": "1.0.0",
+    "t3_versions": [
+      11,
+      12,
+      13
+    ],
+    "description": "Effortlessly create a complete backup of your TYPO3 project with a single click.",
+    "hash": "sha256-2XhBg4wHBmWLL1RmP05UpOJXsIgcjNTjsQm7WS38mqA="
+  },
   "at_christmas": {
     "version": "1.0.0",
     "t3_versions": [
@@ -3747,13 +3757,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.352.5",
+    "version": "3.352.6",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-rtlPO+36SNPCnrfeJ4Jv3bRbTP+QVIm+JwQHtDtIxls="
+    "hash": "sha256-UD6DMXWNy6fdCueU1QSlaSjacetd6MfOS/+C26wKvTs="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -4323,6 +4333,14 @@
     "t3_versions": [],
     "description": "Posts almost any data record to almost any channel on Facebook available through the Graph API",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "bc_simpleproject": {
+    "version": "0.0.1",
+    "t3_versions": [
+      13
+    ],
+    "description": "Additional items for your project",
+    "hash": "sha256-9VRGqmzWg0tFc0VSPvqg5XkBtP75x/RJsSYbwtvhhRY="
   },
   "bc_simplerate": {
     "version": "1.0.0",
@@ -17481,13 +17499,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "er24_rechtstexte": {
-    "version": "2.0.4",
+    "version": "3.0.0",
     "t3_versions": [
-      11,
-      12
+      12,
+      13
     ],
     "description": "This extension allows the easy integration of imprint and privacy policy of eRecht24.",
-    "hash": "sha256-+D1pgz2ZNoBhQpHlSqCPjUMfUU6ptuMeZrGNmdfNA+I="
+    "hash": "sha256-4papLix0doJZFOkMVi+FEmQ3nAlkyv/5FCCU2tIHGEo="
   },
   "erdal_googlemap": {
     "version": "0.1.2",
@@ -21485,12 +21503,12 @@
     "hash": "sha256-gZAVlPg19Fe0XiyUHY4m97cl3Y3O+bQeJu2CZXNAU9A="
   },
   "form_extended": {
-    "version": "13.0.2",
+    "version": "13.0.3",
     "t3_versions": [
       13
     ],
     "description": "Multi upload field, sender addresses in site config, new field types and other",
-    "hash": "sha256-1e3Rt4l8LN1ulGGb8whCeRMV3RTBhsxaH1dE44Sxkv8="
+    "hash": "sha256-vpIPPl6Pt2WCvMzzHIUYRa+AzXSHh/WQmafXjwWkwOM="
   },
   "form_extension_tut": {
     "version": "0.0.1",
@@ -33254,14 +33272,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mail": {
-    "version": "3.6.2",
+    "version": "3.7.0",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "Powerful newsletter system for TYPO3",
-    "hash": "sha256-byjLHYQLYxPSD3NfjNVGapD8Hh9bOSpDSGLDuHdA0Cg="
+    "hash": "sha256-IMkC0ZYjewxKpJsDGnQmGsNtMJQMdJ3rc6qIEXUP9PE="
   },
   "mail2news": {
     "version": "2.0.3",
@@ -36152,13 +36170,13 @@
     "hash": "sha256-f57Dd7iMXErvW2eXGZ4JCxtEKjGlM+Sm3thMBYILcXY="
   },
   "mkvarnish": {
-    "version": "13.0.0",
+    "version": "13.0.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "This extension takes care of connecting TYPO3 to Varnish servers for proper caching.",
-    "hash": "sha256-VepRpaVk+qKpE4H7EbIJQnVvPehnUQclh6r4Kfl0KMw="
+    "hash": "sha256-XHMGhpnlzWX6tln8PMkvAj0/I0QwBTrd7aBh3pYSbYs="
   },
   "ml_autoinstall_scheduler": {
     "version": "1.0.0",
@@ -36638,13 +36656,13 @@
     "hash": "sha256-QBq7RgOtpBz21jSQfzIxEurNCmBZlHvZXZt3wzoyyMw="
   },
   "modules": {
-    "version": "7.3.3",
+    "version": "7.4.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Frontend-User-Registration, Profile, Invitations, Listing with detailview, Addressmanagement, Frontend-Recordmanagement. User friendly Backendmodule for managing Frontend- and Backend-Users and other Records. Toolbox for frontend and backend modules in TYPO3.",
-    "hash": "sha256-WVx/IqWMKvreg/d5SYPgXd/hMuiYbYgNcc4N00w5pFo="
+    "hash": "sha256-Ehn9ajE0zOd+cMPrWcaCDc9PpevIQQMpuxADKSmogJc="
   },
   "modulis_animated_gif": {
     "version": "0.0.4",
@@ -52240,13 +52258,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "shop": {
-    "version": "5.7.2",
+    "version": "5.7.3",
     "t3_versions": [
       12,
       13
     ],
     "description": "Shop for TYPO3 incl. PayPal, PayPal-Checkout (formerly PayPal-Plus), Klarna, Stripe, Bookmarks, UPS-API, Invoice generation, backend module, compare feature, graduated prices and many more - note there is a Pro version as well! See https://www.coding.ms/typo3-extensions/typo3-shop",
-    "hash": "sha256-eYeToxtcGL2efJzGHJ/xjeRWzTzrnA05lgjWkE9SuhE="
+    "hash": "sha256-KAdcYmJlgGxpw9vcMcwLrR9dwvutlNmIf7LvFSHfadw="
   },
   "shop3ox": {
     "version": "0.0.3",
@@ -62206,13 +62224,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "tslib_fetce": {
-    "version": "0.9.5",
+    "version": "0.9.6",
     "t3_versions": [
       12,
       13
     ],
-    "description": "It brings the deprecated TYPO3 4.x class tslib_feTCE and the processScript FEData setup with new features partly back into TYPO3 10 and later. This is needed by extensions based on the former TYPO3 FORM like tt_board and tt_guest. Only form MAIL and form wizards additionally require code provided by the extension compatibility6.",
-    "hash": "sha256-tlKLFbGB5mxdtul88Q4Z1Bct180sywhKjPW0pq/Eja0="
+    "description": "It brings the removed TYPO3 4.x class tslib_feTCE and the processScript FEData setup with new features partly back into TYPO3 10 and later. This is needed by extensions based on the former TYPO3 FORM like tt_board and tt_guest.",
+    "hash": "sha256-BERusz2B7a+BGThY63TpnCbeleaH9CacOsbMq0TuFL8="
   },
   "tslib_patcher": {
     "version": "0.1.4",
@@ -62373,12 +62391,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "tt_products": {
-    "version": "2.16.5",
+    "version": "2.16.6",
     "t3_versions": [
       12
     ],
     "description": "Advanced versions at ttproducts.de. Documented in the E-Book \"Der TYPO3-Webshop\" - Shop with listing in multiple languages, with order tracking, product variants, support for transactor extension, bill, creditpoint and voucher system.",
-    "hash": "sha256-R4QqNo91Lm/y9ddV22/oAphx2VRRzopyS6/B/YE4DAM="
+    "hash": "sha256-L3DWLG78VhugCtXkv9IZyrD260SY6rjAGPOWIHINrtc="
   },
   "tt_products_foundby": {
     "version": "0.1.4",
@@ -63252,13 +63270,13 @@
     "hash": "sha256-se61oteiP9nP5Rcwy5lNZIbGy5zbCHYMrSplkcHbLks="
   },
   "typo3_heatmap_widget": {
-    "version": "0.1.0",
+    "version": "0.2.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Dashboard widget to display a (GitHub lookalike) contribution heatmap of e.g. content changes.",
-    "hash": "sha256-hGC141515yLB/Lc43YXh2V9UsUnzhvhbqFxzYZSpfQ0="
+    "hash": "sha256-U8qKBz0TsT9abzTJY1XhapjFnvOPeDimRZ8NI//Nyqk="
   },
   "typo3_hyphenator": {
     "version": "1.4.0",
@@ -67072,13 +67090,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "xima_typo3_content_planner": {
-    "version": "1.5.2",
+    "version": "1.5.3",
     "t3_versions": [
       12,
       13
     ],
     "description": "This extension provides a page status functionality to support the planning of content work.",
-    "hash": "sha256-SJPm6mk5bICLPP+YBuiX6C8Y2d6/RxE4eg8NRkbg46o="
+    "hash": "sha256-bGcvclQmUZwvPsTOAc8WVNYexZ4tqCFFRFHIhe1MoyM="
   },
   "xima_typo3_frontend_edit": {
     "version": "1.6.2",
@@ -67091,13 +67109,13 @@
     "hash": "sha256-WcTatWflvAr9bUH9M6CFWThHXL7azCiRCjwylAQcci0="
   },
   "xima_typo3_internal_news": {
-    "version": "1.1.0",
+    "version": "1.1.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "This extension provide internal news for backend users.",
-    "hash": "sha256-eyE+fQaafCEahK+nX0tD+Io2Qe+VrfU0TSO697BFaQI="
+    "hash": "sha256-jDvLamClsrLfSj+Ei0lcyG2HIjvfsRqgR40e4nhUyLA="
   },
   "xima_typo3_mailcatcher": {
     "version": "1.6.0",
