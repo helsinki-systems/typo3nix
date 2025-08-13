@@ -3757,13 +3757,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.352.6",
+    "version": "3.352.7",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-UD6DMXWNy6fdCueU1QSlaSjacetd6MfOS/+C26wKvTs="
+    "hash": "sha256-kj1MX6YANu0HknIPdehP3Ekz+ttpXP+caVEujtiYItk="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -4335,12 +4335,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "bc_simpleproject": {
-    "version": "0.0.1",
+    "version": "0.0.2",
     "t3_versions": [
       13
     ],
     "description": "Additional items for your project",
-    "hash": "sha256-9VRGqmzWg0tFc0VSPvqg5XkBtP75x/RJsSYbwtvhhRY="
+    "hash": "sha256-gt9TcXV0m5vk9H1JXyMT6HUkvZ1usmtg+yE5cug4HqM="
   },
   "bc_simplerate": {
     "version": "1.0.0",
@@ -14546,13 +14546,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "div2007": {
-    "version": "2.3.5",
+    "version": "2.3.6",
     "t3_versions": [
       12,
       13
     ],
     "description": "This library offers classes and functions to other TYPO3 extensions. Replacement for tslib_pibase methods.",
-    "hash": "sha256-kDFd49DTYP5p4EPcpEGvuUdlHr45in+iNzz+9G4rdms="
+    "hash": "sha256-zW51UMg51xFqaQFLTwbi91+zsUNoNjyJyxBSombPU2s="
   },
   "diva": {
     "version": "8.7.1",
@@ -19315,10 +19315,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fe_login_mode": {
-    "version": "1.0.1",
-    "t3_versions": [],
+    "version": "1.1.0",
+    "t3_versions": [
+      12,
+      13
+    ],
     "description": "Provides the frontend user login mode functionality for TYPO3",
-    "hash": "sha256-6CPvSgUmHQ9wwnd63rFd7MGlHOwTffNBkFb/jPw1jT4="
+    "hash": "sha256-ncUtvxR503EC3cHt/FJuU/WoxJzeMeMwE3bzECqRBbs="
   },
   "fe_mp3player": {
     "version": "0.2.4",
@@ -52258,13 +52261,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "shop": {
-    "version": "5.7.3",
+    "version": "5.7.4",
     "t3_versions": [
       12,
       13
     ],
     "description": "Shop for TYPO3 incl. PayPal, PayPal-Checkout (formerly PayPal-Plus), Klarna, Stripe, Bookmarks, UPS-API, Invoice generation, backend module, compare feature, graduated prices and many more - note there is a Pro version as well! See https://www.coding.ms/typo3-extensions/typo3-shop",
-    "hash": "sha256-KAdcYmJlgGxpw9vcMcwLrR9dwvutlNmIf7LvFSHfadw="
+    "hash": "sha256-v8E6X4e2+IqpD1T577BaIFvhbhJz26/GMOdrl9l2WYQ="
   },
   "shop3ox": {
     "version": "0.0.3",
@@ -63065,13 +63068,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "twentythree": {
-    "version": "0.2.2",
+    "version": "0.3.2",
     "t3_versions": [
       11,
-      12
+      12,
+      13
     ],
     "description": "Provides an online media provider for the TwentyThree Video Marketing Platform",
-    "hash": "sha256-TtKWcybzcfj+XERUZIqPkqWdXP7oYO16VG4KLrwVfuI="
+    "hash": "sha256-IF63t1M4Llol0UKR2OSDqwroTlhE9KRSNO52hsxTx4U="
   },
   "twig_for_typo3": {
     "version": "1.0.0",
@@ -66304,12 +66308,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ws_scss": {
-    "version": "13.1.4",
+    "version": "13.1.5",
     "t3_versions": [
       13
     ],
     "description": "Compiles scss files to CSS files.",
-    "hash": "sha256-u1bCUn18LVEH2aXkbeagpaqL+u+qyJuxD/L2QaQwsco="
+    "hash": "sha256-iVZWvodDLsoTicCcjtOv4X3l/6yMqOa3/nnooDzKHRw="
   },
   "ws_sitemap": {
     "version": "0.4.8",
@@ -67090,13 +67094,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "xima_typo3_content_planner": {
-    "version": "1.5.3",
+    "version": "1.5.4",
     "t3_versions": [
       12,
       13
     ],
     "description": "This extension provides a page status functionality to support the planning of content work.",
-    "hash": "sha256-bGcvclQmUZwvPsTOAc8WVNYexZ4tqCFFRFHIhe1MoyM="
+    "hash": "sha256-6aSZK4WemRln/uQ3AB3dy+kvaPovltc5RdzauEBuY/s="
   },
   "xima_typo3_frontend_edit": {
     "version": "1.6.2",
