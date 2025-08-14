@@ -1195,12 +1195,12 @@
     "hash": "sha256-Qx7pEfxHzU21N5I2lCBk34qUvM/L0Ij1XDE7AIhUKNI="
   },
   "address": {
-    "version": "13.0.5",
+    "version": "13.0.6",
     "t3_versions": [
       13
     ],
     "description": "Address extension with multiple contact types per address. Code is based on news extension.",
-    "hash": "sha256-k/RvxYrxvhuZaJ3/2v3hhyBsux4eastaKpnFIE4U87s="
+    "hash": "sha256-gBlg7snPRZZlW1scOT7RCKyuAvJWjjE5qHEzt1bRz58="
   },
   "address_manager": {
     "version": "4.0.7",
@@ -3757,13 +3757,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.352.7",
+    "version": "3.353.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-kj1MX6YANu0HknIPdehP3Ekz+ttpXP+caVEujtiYItk="
+    "hash": "sha256-LINypedrd/TlXyZ/6SeApdVWun3llapnpbheXV7Yqzk="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -27040,6 +27040,14 @@
     "description": "This extension provides a fancy jQuery-based Twitter Ticker, featuring the latest Tweets of one or more Twitter accounts, as a Frontend Plugin.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "index": {
+    "version": "0.0.2",
+    "t3_versions": [
+      13
+    ],
+    "description": "Smart and flexible indexing of pages and documents for e.h. search engines or AI provider",
+    "hash": "sha256-dDXFxLgg9/YwzXqPBPE6WqmixlYSUftNgXc3mXCSkz0="
+  },
   "indexed_search_autocomplete": {
     "version": "12.1.13",
     "t3_versions": [
@@ -34783,12 +34791,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "meilisearch": {
-    "version": "0.5.5",
+    "version": "0.6.0",
     "t3_versions": [
       12
     ],
     "description": "This extension integrates \"meilisearch\" into your TYPO3.",
-    "hash": "sha256-OEYxwYGr5Jdus75YdRM96/Ff4+bqp1bqZvSn7UKpfI4="
+    "hash": "sha256-RBXyPubIUbRE1+HrDOSgXkZGom4m59uneFs1l+aiYcM="
   },
   "meinpraktikum_widget": {
     "version": "1.0.1",
@@ -40615,12 +40623,13 @@
     "hash": "sha256-nS6WUThfMdO7bCeyZY9BtOpMbLBwfnZoEHZEpcsf9Nk="
   },
   "ns_gallery": {
-    "version": "12.1.1",
+    "version": "13.0.0",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "Create responsive and visually stunning lightbox image and video galleries with grid layouts directly from the TYPO3 backend. Easily manage and showcase your media in a user-friendly way.",
-    "hash": "sha256-uZmu4a7bcUiibU1cV+zC/TbFKePmLYO7y8emBmhqqxM="
+    "hash": "sha256-4URyfuLqJloiUcO9pEENELrHcV4ZuqOast/2GRInYNw="
   },
   "ns_google_map": {
     "version": "13.0.0",
@@ -64797,13 +64806,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "wacon_cookie_management": {
-    "version": "6.1.2",
+    "version": "6.2.3",
     "t3_versions": [
       12,
       13
     ],
     "description": "WCM is a typo3 extension that enables website visitors to control and manage the usage of cookies on the website (commonly known as \"cookie consent box\"). Thus it helps website owner to be in line with the rules of the General Data Protection Regulation (GDPR) which took effect on 25 May 2018.",
-    "hash": "sha256-huErshFUsjRlLF5Q+1tAxcmDXsriXGd77EI3SR6AVMA="
+    "hash": "sha256-oETxgynqi1SNuNLfRDt5R9Jjyrbl3rixDv1Hz5Q99eU="
   },
   "wacon_csv2html": {
     "version": "2.0.0",
