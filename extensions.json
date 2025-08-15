@@ -10141,12 +10141,12 @@
     "hash": "sha256-AfToijkanNxy5yWgP7Vdw03r4FjS4ylg2fCf0SLYwKU="
   },
   "content_blocks": {
-    "version": "1.3.9",
+    "version": "1.3.10",
     "t3_versions": [
       13
     ],
     "description": "TYPO3 CMS Content Blocks - Content Types API | Define reusable components via YAML",
-    "hash": "sha256-f9Eo8MjunqJCfCU0CpUMS5F94aOvsSQ8UWwCMlL9HlI="
+    "hash": "sha256-AebArLA+0RpDgGVVND22TUZwCQlVShgmI7CuEU0yVE4="
   },
   "content_blocks_bootstrap": {
     "version": "0.0.3",
