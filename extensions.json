@@ -3757,13 +3757,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.354.0",
+    "version": "3.354.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-IJxJdnuda9tBbGjLkPiHZfStCV+/vIE7jM1rm3fSvj8="
+    "hash": "sha256-G0vUwx0gDGHdBDkMUO7ZqxLEJfmifIF91xA4Jvdjupo="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -57283,13 +57283,13 @@
     "hash": "sha256-1sVO90DqRum2QMl7PXb4mz7TW6K54nlEiX4NGfwtupA="
   },
   "t3api": {
-    "version": "4.1.0",
+    "version": "4.1.3",
     "t3_versions": [
       12,
       13
     ],
     "description": "REST API for your TYPO3 project. Config with annotations, build in filtering, pagination, typolinks, image processing, serialization contexts, responses in Hydra/JSON-LD format.",
-    "hash": "sha256-P+kjrbghT1Nia31h2dNPszg7rH8LiK7YSYw15fN7Ny0="
+    "hash": "sha256-W35TIY39noIAg23BShCSzoR/02tKgAUNHX95bgMjhWY="
   },
   "t3blog": {
     "version": "1.2.0",
