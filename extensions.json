@@ -12335,6 +12335,14 @@
     "description": "Make it posible to send status messages to twitter by filling a dedicated record or a tt_news record. Various views on the twitter data for integration as plugin.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "cy_watermark": {
+    "version": "0.6.0",
+    "t3_versions": [
+      13
+    ],
+    "description": "",
+    "hash": "sha256-8a94jTXrUbRsyt58uHH9Jkj2bapuHSaV8M5P7TGzwrU="
+  },
   "cyberpeace": {
     "version": "1.0.2",
     "t3_versions": [
@@ -33283,14 +33291,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mail": {
-    "version": "3.7.0",
+    "version": "3.7.1",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "Powerful newsletter system for TYPO3",
-    "hash": "sha256-IMkC0ZYjewxKpJsDGnQmGsNtMJQMdJ3rc6qIEXUP9PE="
+    "hash": "sha256-gQtBvdYOeBwiYeCCaIz8tz7BLhb84sercbFOz+xTgR0="
   },
   "mail2news": {
     "version": "2.0.3",
@@ -41609,13 +41617,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ods_osm": {
-    "version": "4.2.2",
+    "version": "4.3.0",
     "t3_versions": [
-      11,
-      12
+      12,
+      13
     ],
     "description": "Add an interactive OpenStreetMap map to your website. Can also show other OpenLayers compatible maps.",
-    "hash": "sha256-TlDlUEkank1kvNzim8+tCpzgPSNKL03b2Gb6mzXJ8hA="
+    "hash": "sha256-Sjcph8yamZQjBNposxeYWw+kmH39gQGquH4k162uTv0="
   },
   "ods_osm_cal": {
     "version": "1.0.0",
@@ -45048,6 +45056,14 @@
     "t3_versions": [],
     "description": "",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "pluploadbe": {
+    "version": "13.0.0",
+    "t3_versions": [
+      13
+    ],
+    "description": "A TYPO3 extension that enables backend users to upload large files exceeding the upload_max_filesize limit in PHP.",
+    "hash": "sha256-rI3aHPoVgj78n6avVrVqkxWM5NphT4IwEasGC2dG1vk="
   },
   "pluploadfe": {
     "version": "8.1.0",
