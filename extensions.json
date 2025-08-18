@@ -17507,13 +17507,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "er24_rechtstexte": {
-    "version": "3.0.0",
+    "version": "3.0.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "This extension allows the easy integration of imprint and privacy policy of eRecht24.",
-    "hash": "sha256-4papLix0doJZFOkMVi+FEmQ3nAlkyv/5FCCU2tIHGEo="
+    "hash": "sha256-Fg2flTAUCHl55W8jlF80M3j0aj1RYyPMJFiIQzCn9X4="
   },
   "erdal_googlemap": {
     "version": "0.1.2",
@@ -36105,13 +36105,13 @@
     "hash": "sha256-L1eMgdoWIA438H/aCPkaYuz0SNfRgocuqGUwlh9mzlU="
   },
   "mklog": {
-    "version": "13.0.7",
+    "version": "13.0.8",
     "t3_versions": [
       12,
       13
     ],
     "description": "Keep track of developer logs. Provides automatic email notification about important errors.",
-    "hash": "sha256-xhdIjjUR1cY4C9Z3OngsX6jXIvk6cVOOO0tv4fkVGEw="
+    "hash": "sha256-B9WB2HpCDeYgzyWssTk9oBvp13SChAOGBQaStjWVXmc="
   },
   "mkmailer": {
     "version": "9.0.0",
@@ -40965,13 +40965,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ns_timeline": {
-    "version": "13.0.0",
+    "version": "13.0.1",
     "t3_versions": [
       12,
       13
     ],
-    "description": "Create engaging stories, timelines, histories, and roadmaps easily with the All In One Timeline TYPO3 Extension. With 18 unique styles and layouts, this extension offers unlimited possibilities for showcasing content on your TYPO3 website. Additionally, the TYPO3 Event extension integrates with TYPO3 Blog and TYPO3 News extensions allowing you to display timeline posts.",
-    "hash": "sha256-D8BO8ZpAHN38kkaAIa+nwmfPJGB2LyRe6cwQ7LGzuG0="
+    "description": "Create interactive stories, visual roadmaps, and chronological events with 18+ unique timeline styles. Perfect for company history, product roadmaps, or storytelling in your TYPO3 site. Supports integration with TYPO3 Blog and News extensions.",
+    "hash": "sha256-C3bJpcrqkEN15xA3J5ehImDW57EjcV9ho+hPltl6Tss="
   },
   "ns_twitter": {
     "version": "3.1.2",
@@ -67128,14 +67128,14 @@
     "hash": "sha256-6aSZK4WemRln/uQ3AB3dy+kvaPovltc5RdzauEBuY/s="
   },
   "xima_typo3_frontend_edit": {
-    "version": "1.6.2",
+    "version": "1.7.0",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "This extension provides an edit button for editors within frontend content elements.",
-    "hash": "sha256-WcTatWflvAr9bUH9M6CFWThHXL7azCiRCjwylAQcci0="
+    "hash": "sha256-8zN0fbkeewPlZpVkdkNqolVmkpu0mLASOv8yRg5t9/Y="
   },
   "xima_typo3_internal_news": {
     "version": "1.1.1",
