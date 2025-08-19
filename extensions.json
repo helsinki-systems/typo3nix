@@ -3757,13 +3757,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.354.1",
+    "version": "3.355.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-G0vUwx0gDGHdBDkMUO7ZqxLEJfmifIF91xA4Jvdjupo="
+    "hash": "sha256-lMtMwR3X117zqeRnDRW5gDCKK1Z++y0N+FS+raOJX5g="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -3880,13 +3880,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "backendtools": {
-    "version": "6.0.3",
+    "version": "6.1.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "8 admin tools: extension-list, recent pages & elements, backend layouts, redirects import & check, missing files, images with no alt or title and link-list.",
-    "hash": "sha256-v2JOXWfFTEbiy/kulANR1JWTiP8e44/+yL7KWGdBNVo="
+    "hash": "sha256-YgPdKa2rry2wp85KDxB6srI8b7HvBiyZtxS8U5k9pt8="
   },
   "backendwiki": {
     "version": "0.1.1",
@@ -13600,10 +13600,12 @@
     "hash": "sha256-KsCPyfOntBKV1ehGZSnFfOngItMm624sJPya0XgXZ7M="
   },
   "debug_mysql_db": {
-    "version": "1.9.1",
-    "t3_versions": [],
+    "version": "1.9.2",
+    "t3_versions": [
+      13
+    ],
     "description": "Extends \\TYPO3\\CMS\\Core\\Database\\DatabaseConnection and \\TYPO3\\CMS\\Core\\Database\\Connection to show Errors and Debug-Messages. Debugging of sql-queries by debug and FileWriter.",
-    "hash": "sha256-SsO8rwbDBla+lzlrYA6Q64evkYGjqNo6OklLJuZtpIE="
+    "hash": "sha256-FZC5GpLavLRvf40qYJ2o89nMoYM/xtuxHa1mKBPgIpo="
   },
   "debug_settings_task": {
     "version": "2.2.1",
@@ -35708,12 +35710,12 @@
     "hash": "sha256-x4virbFaVbxGtPRqPo/kBp/VT+izVhug/PPoMt+R20c="
   },
   "mindfula11y": {
-    "version": "0.1.2",
+    "version": "0.2.0",
     "t3_versions": [
       13
     ],
-    "description": "TYPO3 extension with backend tools to help you create accessible content. Includes management of heading structure, finding missing alternative text for images and alternative text generation using ChatGPT. More features to come.",
-    "hash": "sha256-yMWOq/5zWYJ40UckEH/LKvWxHWUy9akpl9adMZolAOQ="
+    "description": "Comprehensive accessibility extension for TYPO3 providing backend tools for content editors and integrators. Features include missing alternative text detection with AI-powered generation via ChatGPT, semantic heading structure management with ViewHelper integration, ARIA landmark configuration for improved navigation, and inline editing capabilities within a unified accessibility backend module.",
+    "hash": "sha256-DgC0I7Aj6vkh6apUiV/KACc3H5vMa5/o22RCHgPJU44="
   },
   "mindmap_import": {
     "version": "0.0.2",
@@ -40868,15 +40870,16 @@
     "hash": "sha256-qvUa4WJ8gJez2LRTXpjZwkCSDmZNnCxpGEBSJqE7gEg="
   },
   "ns_social_login": {
-    "version": "1.0.1",
+    "version": "2.0.0",
     "t3_versions": [
       9,
       10,
       11,
-      12
+      12,
+      13
     ],
     "description": "Enable users to log in and register via popular social platforms like Google, Facebook, LinkedIn, Apple, Discord, and more. A seamless one-click login experience directly on your TYPO3 frontend.",
-    "hash": "sha256-dw7ZIqYRgucDO+F7SUIokA5EV1H2r67ktdJlTlCNS7o="
+    "hash": "sha256-XIZAvwM3hWvfgyA6kGiCzOOiF+yOEH173RGGaxStzow="
   },
   "ns_statcounter": {
     "version": "3.0.2",
@@ -46979,13 +46982,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "questions": {
-    "version": "4.0.11",
+    "version": "5.0.0",
     "t3_versions": [
-      11,
-      12
+      12,
+      13
     ],
     "description": "Questions is a frequently asked questions (FAQ) extension for TYPO3. It's compatible with following extensions: shop, ",
-    "hash": "sha256-Wz1ZGobtb5a2/86YJnOdtAIaNgTzGl+HZK0ZC17VVdc="
+    "hash": "sha256-hjE1sHrvVXpznNgayDLz47DK1cT9SWW0RXbGXDhimUw="
   },
   "quick_shop": {
     "version": "10.0.12",
@@ -47126,13 +47129,13 @@
     "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
   },
   "randomizer": {
-    "version": "3.5.0",
+    "version": "4.0.1",
     "t3_versions": [
-      11,
-      12
+      12,
+      13
     ],
     "description": "This is a TYPO3 extension. It randomizes content in the database or during an export. It's a wrapper for fakerphp/faker.",
-    "hash": "sha256-wE8YETdAx9SJq6fbndHGE/zpbzJCLd+WbEdKCxOrpP8="
+    "hash": "sha256-9aV5aZE3gjGalEcB16V05iQ4mEyeyN9bphJbDPDskC8="
   },
   "randomquote": {
     "version": "13.4.0",
@@ -51193,6 +51196,14 @@
     "t3_versions": [],
     "description": "Security question in addtion to password",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "securitytxt": {
+    "version": "0.1.0",
+    "t3_versions": [
+      13
+    ],
+    "description": "Integration the security.txt standard into TYPO3",
+    "hash": "sha256-FNFw67r8GHY+OhnVQT7vSvd0HGfN2aYqJuiigL225Gg="
   },
   "see_direct_mail_statistics": {
     "version": "1.0.2",
@@ -62375,12 +62386,12 @@
     "hash": "sha256-KHFg2YrQeolZphyDlmmjTGp04I/6IU1WrktMh0c4lNQ="
   },
   "tt_board": {
-    "version": "1.18.4",
+    "version": "1.18.5",
     "t3_versions": [
       13
     ],
     "description": "Simple threaded (tree) or list message board (forum).",
-    "hash": "sha256-GHDvObppnn+XGRfUkhbRPYzx5IOqQtGU4GZckP6Lq5w="
+    "hash": "sha256-+caPflPl9FsPXh1LcXwE/qsfNHwhR3B7+hqfkxyBiQs="
   },
   "tt_calender": {
     "version": "1.0.5",
@@ -63297,6 +63308,15 @@
     ],
     "description": "This extension provides a GraphQL API for TYPO3.",
     "hash": "sha256-se61oteiP9nP5Rcwy5lNZIbGy5zbCHYMrSplkcHbLks="
+  },
+  "typo3_heatmap": {
+    "version": "0.3.0",
+    "t3_versions": [
+      12,
+      13
+    ],
+    "description": "TYPO3 extension to display heatmaps of content changes, user activity and more at various places in the TYPO3 backend.",
+    "hash": "sha256-RQ2PafwFz54wQfORfpBfUDxjz+u8sEIjc+B+dFrl4bQ="
   },
   "typo3_heatmap_widget": {
     "version": "0.2.0",
