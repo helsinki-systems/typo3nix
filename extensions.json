@@ -3757,13 +3757,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.355.0",
+    "version": "3.356.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-lMtMwR3X117zqeRnDRW5gDCKK1Z++y0N+FS+raOJX5g="
+    "hash": "sha256-MIZ5WvzaccNjGVPGGx7KrO6IXMzdcxXJw2EUjRLyJ/s="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -5466,13 +5466,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "bootstrap_package": {
-    "version": "15.0.3",
+    "version": "15.0.4",
     "t3_versions": [
       12,
       13
     ],
     "description": "Bootstrap Package delivers a full configured frontend theme for TYPO3, based on the Bootstrap CSS Framework.",
-    "hash": "sha256-5Z7Jt0VjWtAQr3+pNKPYhDtcAYIHs1/QaOBHiwVLVmc="
+    "hash": "sha256-+1JC84B2LXiiNQhnikAQUjb/OEUKwPZdji5HOw2tdWk="
   },
   "bootstrap_package_iconpack": {
     "version": "0.3.1",
@@ -14556,13 +14556,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "div2007": {
-    "version": "2.3.6",
+    "version": "2.3.7",
     "t3_versions": [
       12,
       13
     ],
     "description": "This library offers classes and functions to other TYPO3 extensions. Replacement for tslib_pibase methods.",
-    "hash": "sha256-zW51UMg51xFqaQFLTwbi91+zsUNoNjyJyxBSombPU2s="
+    "hash": "sha256-bn2hpCzNxfixV/ZVTqxqRqH1bymNAjg9pCx6QLuphJE="
   },
   "diva": {
     "version": "8.7.1",
@@ -15954,13 +15954,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "dpn_glossary": {
-    "version": "6.1.0",
+    "version": "6.1.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "Glossary extension with page parser",
-    "hash": "sha256-im7q3BaGDz7zoTJdhJkHl8oYvpP8grQir/u+fsmX150="
+    "hash": "sha256-gDSj6LcJoafFx7LZLLYfUsKt1PErrCbj94+1XCjD1+Q="
   },
   "dr_blob": {
     "version": "2.3.2",
@@ -18526,13 +18526,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "external_import": {
-    "version": "8.1.2",
+    "version": "8.1.3",
     "t3_versions": [
       12,
       13
     ],
     "description": "Tool for importing data from external sources into the TYPO3 CMS database, using an extended TCA syntax. Provides a BE module, a Scheduler task, a command-line tool and an API.",
-    "hash": "sha256-DK13axeCt02fGViyBgvaneRawLDEc7Cws5k0fsB0QXA="
+    "hash": "sha256-ty69hnhRbQHGBAXqOyONMQPnQdYSmyseIxD3tehJXiw="
   },
   "external_import_tt_products": {
     "version": "0.0.1",
@@ -20767,13 +20767,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fluid_fpdf": {
-    "version": "2.7.7",
+    "version": "2.8.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "This extension provides you a complete set of ViewHelpers for dealing with FPDF by using Fluid. You can use the ViewHelpers easily in own Extensions just by defining the fpdf-Namespace. Additionally you are able to use the build in plugin, for displaying predefined PDF. This plugin offers you automatically all available PDFs.",
-    "hash": "sha256-cjGRISMdPNfz/T0KhM4cKGfoWWwoT1AeTfWgBV9isJ4="
+    "hash": "sha256-hMKeuJwvFar7bB31rvYXJw+JrXSTxUwRnWpoUEFJk1k="
   },
   "fluid_info": {
     "version": "0.1.0",
@@ -27051,12 +27051,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "index": {
-    "version": "0.0.2",
+    "version": "0.1.0",
     "t3_versions": [
       13
     ],
-    "description": "Smart and flexible indexing of pages and documents for e.h. search engines or AI provider",
-    "hash": "sha256-dDXFxLgg9/YwzXqPBPE6WqmixlYSUftNgXc3mXCSkz0="
+    "description": "Smart and flexible async indexing of pages and documents for e.g. search engines or AI provider",
+    "hash": "sha256-u2GFpwrJeWPjCwch9Uw7cSNCH7KL16Zppv99Dq08f+o="
   },
   "indexed_search_autocomplete": {
     "version": "12.1.13",
@@ -34416,13 +34416,13 @@
     "hash": "sha256-Rufnm+YLosmMeCpBHdZQ66H7BBoCnesP8j463TDt6/c="
   },
   "md_notifications": {
-    "version": "1.0.2",
+    "version": "1.0.3",
     "t3_versions": [
       12,
       13
     ],
     "description": "Notify frontend users about the creation of new data records. Every data type can be configured easily, for example pages (blog posts) or tx_news records.",
-    "hash": "sha256-ynsRMX7ElcISUPzQ12KxAVd6Fsq69XCTxVLD69Ecu3o="
+    "hash": "sha256-RmZsPp2u2Y6VG84AolsQxchIZtygxn64USedn4n9wWU="
   },
   "md_saml": {
     "version": "4.0.3",
@@ -38463,12 +38463,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "myttaddressmap": {
-    "version": "2.3.3",
+    "version": "2.3.4",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "Google maps for tt_address with radial search and categories",
-    "hash": "sha256-NoX/iwv4cs8wQ0kaHwoFt2as3FMhy1fIjviDiTrZllA="
+    "hash": "sha256-TUMKUEselo6iQSlaKZ6CGls7Fla+II84bRE6JrYPwtU="
   },
   "mytypo3": {
     "version": "0.1.1",
@@ -40438,12 +40439,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "nr_textdb": {
-    "version": "1.0.0",
+    "version": "3.0.1",
     "t3_versions": [
-      11
+      13
     ],
     "description": "Allows you to edit the translations in the back end",
-    "hash": "sha256-oevUHYBYnEnCyZJQ8iZPusuhpo5IPKayTVJcaT2igSM="
+    "hash": "sha256-eDwOxLBrMeaKSN0DTOW+ptSB3YiFEXZAQXNiHKMmNkU="
   },
   "ns_all_chat": {
     "version": "13.0.1",
