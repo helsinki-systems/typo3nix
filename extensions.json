@@ -3757,13 +3757,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.356.0",
+    "version": "3.356.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-MIZ5WvzaccNjGVPGGx7KrO6IXMzdcxXJw2EUjRLyJ/s="
+    "hash": "sha256-qZST+j9hZnFaLIhoddwLHhW1QL0oA0W3YwF5Rpghsu0="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -11043,13 +11043,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "crawler": {
-    "version": "12.0.8",
+    "version": "12.0.9",
     "t3_versions": [
       12,
       13
     ],
     "description": "Libraries and scripts for crawling the TYPO3 page tree.",
-    "hash": "sha256-ZDCJvoLsLxuvOOAY9tIBVeyGJk0NOcn4YaoNGrDOBIM="
+    "hash": "sha256-UEZVyNphKzODhOnMHu/jY4OvB9Uko74CePfYxDrCMUc="
   },
   "createarp": {
     "version": "0.4.0",
@@ -11275,14 +11275,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "crowdin": {
-    "version": "3.1.0",
+    "version": "3.1.1",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "In-Context localization of XLF files handled by Crowdin directly in the backend.",
-    "hash": "sha256-FnP3PCrWS4/xGkhbnqpRzduOkDoljmNNypJfmnlSmvk="
+    "hash": "sha256-Mc7QqVccubo1nrt6TT3XuCc0777LKmURUdgdzjnZU/U="
   },
   "crt_bodytext_variables": {
     "version": "1.0.2",
@@ -20767,13 +20767,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fluid_fpdf": {
-    "version": "2.8.0",
+    "version": "2.8.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "This extension provides you a complete set of ViewHelpers for dealing with FPDF by using Fluid. You can use the ViewHelpers easily in own Extensions just by defining the fpdf-Namespace. Additionally you are able to use the build in plugin, for displaying predefined PDF. This plugin offers you automatically all available PDFs.",
-    "hash": "sha256-hMKeuJwvFar7bB31rvYXJw+JrXSTxUwRnWpoUEFJk1k="
+    "hash": "sha256-8Yv5pPWgQLfY76jR9zuTga/VK4J45NpU/7GBddrA3ZI="
   },
   "fluid_info": {
     "version": "0.1.0",
@@ -24717,12 +24717,12 @@
     "hash": "sha256-E0WhzZ/5vx/d19SXPvd9wgRbG2+1tk7Ejad3HfJFZNg="
   },
   "hh_simple_job_posts": {
-    "version": "5.1.0",
+    "version": "5.1.1",
     "t3_versions": [
       13
     ],
     "description": "Adds plugins for list / show job postings with meta-data and schema.org stuff. Uses tt_address for job-contacts and job-location.",
-    "hash": "sha256-vVsrCmoOPeiH6G4Z+oYqtr4nac1wBx7kYuQJ1KNwd+M="
+    "hash": "sha256-B3UTfZUVvHdGwoin+h+haDxnK0tnR10QK/lYuLWyWkc="
   },
   "hh_slider": {
     "version": "0.7.1",
@@ -27051,12 +27051,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "index": {
-    "version": "0.1.0",
+    "version": "0.2.0",
     "t3_versions": [
       13
     ],
     "description": "Smart and flexible async indexing of pages and documents for e.g. search engines or AI provider",
-    "hash": "sha256-u2GFpwrJeWPjCwch9Uw7cSNCH7KL16Zppv99Dq08f+o="
+    "hash": "sha256-Tev2cTocVS7bv7/XmS1EfoUqbA4kGbB3jVhd0VCceAo="
   },
   "indexed_search_autocomplete": {
     "version": "12.1.13",
@@ -33293,14 +33293,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mail": {
-    "version": "3.7.1",
+    "version": "3.7.2",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "Powerful newsletter system for TYPO3",
-    "hash": "sha256-gQtBvdYOeBwiYeCCaIz8tz7BLhb84sercbFOz+xTgR0="
+    "hash": "sha256-w7uFAxSaK/woRSgMAMZu5DaaJ5QUCTsbov5/HxYMfdA="
   },
   "mail2news": {
     "version": "2.0.3",
@@ -35710,12 +35710,12 @@
     "hash": "sha256-x4virbFaVbxGtPRqPo/kBp/VT+izVhug/PPoMt+R20c="
   },
   "mindfula11y": {
-    "version": "0.2.0",
+    "version": "0.2.1",
     "t3_versions": [
       13
     ],
     "description": "Comprehensive accessibility extension for TYPO3 providing backend tools for content editors and integrators. Features include missing alternative text detection with AI-powered generation via ChatGPT, semantic heading structure management with ViewHelper integration, ARIA landmark configuration for improved navigation, and inline editing capabilities within a unified accessibility backend module.",
-    "hash": "sha256-DgC0I7Aj6vkh6apUiV/KACc3H5vMa5/o22RCHgPJU44="
+    "hash": "sha256-AYiuB03TuK9v/jFLaQapEC7QPAzI658RE+tIEJ1L1fs="
   },
   "mindmap_import": {
     "version": "0.0.2",
@@ -35737,13 +35737,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mindshape_cookie_consent": {
-    "version": "4.1.0",
+    "version": "4.1.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "This extension provides functionality to create  a customizable cookie consent for your website. It is developed for flexibility to be customized in accordance to your data security guidelines.",
-    "hash": "sha256-SZgMtj+UX/dPtigE9tzQFHE0sFJ1ABdXer9pEtaRQMs="
+    "hash": "sha256-FLOIcWLVGxCsKoasnnRtTFrZUok3CS8XzeoLR6jJ2yM="
   },
   "mindshape_cookie_hint": {
     "version": "1.1.0",
@@ -45510,12 +45510,12 @@
     "hash": "sha256-3LdQALLY43/Ufj4yP0Ztg5o0o4vFujokFNnp6XsV3DU="
   },
   "powermail_cond": {
-    "version": "13.0.1",
+    "version": "13.0.2",
     "t3_versions": [
       13
     ],
     "description": "Add conditions (via AJAX) to powermail forms for fields and pages",
-    "hash": "sha256-/ArFOZuQju5eqcDBg9RwyfplMxjsbzoYr6OdRBYGJZI="
+    "hash": "sha256-aZDIu/5ZG2PyPP7aoQKpthrulakFRAJjaBlpucBZ7Vo="
   },
   "powermail_cond_jquery": {
     "version": "1.0.1",
@@ -50923,12 +50923,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "scp_easyvision_typo3": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "t3_versions": [
       13
     ],
     "description": "Integrate SiteCockpit into TYPO3: With SiteCockpit’s easyVision, your visitors can customize the website to their needs—for more accessibility and a better user experience. Integration takes just a few minutes!",
-    "hash": "sha256-VzkMicMghA4k7/PVkiOyiv+3MQCkwjPIr9931J+NoFQ="
+    "hash": "sha256-wnCeYk0yS32vbx9c+DTH3rBuIHKq3wYUlg9pURQgKtE="
   },
   "scriptaculous": {
     "version": "1.7.0",
@@ -52298,13 +52298,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "shop": {
-    "version": "5.7.4",
+    "version": "5.7.5",
     "t3_versions": [
       12,
       13
     ],
     "description": "Shop for TYPO3 incl. PayPal, PayPal-Checkout (formerly PayPal-Plus), Klarna, Stripe, Bookmarks, UPS-API, Invoice generation, backend module, compare feature, graduated prices and many more - note there is a Pro version as well! See https://www.coding.ms/typo3-extensions/typo3-shop",
-    "hash": "sha256-v8E6X4e2+IqpD1T577BaIFvhbhJz26/GMOdrl9l2WYQ="
+    "hash": "sha256-4NZd9jRLOBnixf7qq+Yufg0Nm0BuJ7sNwaRkXa/dm+I="
   },
   "shop3ox": {
     "version": "0.0.3",
