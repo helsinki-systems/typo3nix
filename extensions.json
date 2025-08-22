@@ -3757,13 +3757,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.356.1",
+    "version": "3.356.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-qZST+j9hZnFaLIhoddwLHhW1QL0oA0W3YwF5Rpghsu0="
+    "hash": "sha256-85hQgJ3CciS6O4t8ZCbtMRaezwZq0aLPRJwxejU3GCY="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -35710,12 +35710,12 @@
     "hash": "sha256-x4virbFaVbxGtPRqPo/kBp/VT+izVhug/PPoMt+R20c="
   },
   "mindfula11y": {
-    "version": "0.2.1",
+    "version": "0.3.1",
     "t3_versions": [
       13
     ],
     "description": "Comprehensive accessibility extension for TYPO3 providing backend tools for content editors and integrators. Features include missing alternative text detection with AI-powered generation via ChatGPT, semantic heading structure management with ViewHelper integration, ARIA landmark configuration for improved navigation, and inline editing capabilities within a unified accessibility backend module.",
-    "hash": "sha256-AYiuB03TuK9v/jFLaQapEC7QPAzI658RE+tIEJ1L1fs="
+    "hash": "sha256-t/ctDuTRuRT2NAlGm+OKDFMLOVaWXt2sT+5PDg8KkV8="
   },
   "mindmap_import": {
     "version": "0.0.2",
