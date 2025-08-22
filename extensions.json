@@ -14556,13 +14556,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "div2007": {
-    "version": "2.3.7",
+    "version": "2.3.8",
     "t3_versions": [
       12,
       13
     ],
     "description": "This library offers classes and functions to other TYPO3 extensions. Replacement for tslib_pibase methods.",
-    "hash": "sha256-bn2hpCzNxfixV/ZVTqxqRqH1bymNAjg9pCx6QLuphJE="
+    "hash": "sha256-0ktTH2kZsWdMomIeGWNXa1P2arpg0xK8tc7KeX6Fu2U="
   },
   "diva": {
     "version": "8.7.1",
@@ -24590,13 +24590,13 @@
     "hash": "sha256-qsVb91W381Ah5wL7o6z9RqpRGdTMCJ/CKYGdCc3xWoI="
   },
   "headless": {
-    "version": "4.7.1",
+    "version": "4.7.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "Makes TYPO3 a headless CMS. Content and pages available in JSON format. Supports multilanguage, multidomain, forms, frontend login, workspaces and more. For JS frontend app see nuxt-typo3 package",
-    "hash": "sha256-BmTfMTuuVxy7pHbmnJI9MTrUXrOvmiI3DmxArF5NK9g="
+    "hash": "sha256-NIZ66SnFzyCzKBncd2frk00ipKFfBIl3mzWO9q4P9Z8="
   },
   "headless_container": {
     "version": "3.0.0",
@@ -24881,13 +24881,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "hio_typo3_connector": {
-    "version": "0.8.0",
+    "version": "0.9.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "TYPO3 Connector für die Integration von Daten aus HISinOne",
-    "hash": "sha256-qIrwlPG0Eqdu1gD3M+ryg9y/oTfEWIrUHNmRzX30ZbA="
+    "hash": "sha256-VWtySscT+eOJHw2Dj2joJvFjObuG8Pe3NF4GdZ0oABg="
   },
   "hipchat": {
     "version": "1.1.3",
@@ -34801,12 +34801,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "meilisearch": {
-    "version": "0.6.0",
+    "version": "0.6.1",
     "t3_versions": [
       12
     ],
     "description": "This extension integrates \"meilisearch\" into your TYPO3.",
-    "hash": "sha256-RBXyPubIUbRE1+HrDOSgXkZGom4m59uneFs1l+aiYcM="
+    "hash": "sha256-eb9pcQkUOkPhfNXpM3sFAe+UzfsPnuRBH7d4fPb1vtw="
   },
   "meinpraktikum_widget": {
     "version": "1.0.1",
@@ -49294,13 +49294,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "rss_app": {
-    "version": "3.0.2",
+    "version": "4.0.0",
     "t3_versions": [
-      11,
-      12
+      12,
+      13
     ],
     "description": "This Plugin enables you to display RSS.App feeds (Instagram, Twitter, Facebook and more) in TYPO3 - more information on https://rss.app",
-    "hash": "sha256-Eo7kLMbuzI9/UilkpYcRcQNWtz6tj5EPtoY9/KHor7c="
+    "hash": "sha256-qSwXz7kM8sAHveiLYAEpnaSGTkGswrqX6tVnr6wE6XA="
   },
   "rss_display": {
     "version": "5.0.1",
@@ -62387,12 +62387,12 @@
     "hash": "sha256-KHFg2YrQeolZphyDlmmjTGp04I/6IU1WrktMh0c4lNQ="
   },
   "tt_board": {
-    "version": "1.18.5",
+    "version": "1.18.6",
     "t3_versions": [
       13
     ],
     "description": "Simple threaded (tree) or list message board (forum).",
-    "hash": "sha256-+caPflPl9FsPXh1LcXwE/qsfNHwhR3B7+hqfkxyBiQs="
+    "hash": "sha256-NAuELOWe+PuHKcqvhEKAmgRNIxdjTeIZK4KYfzFNJfw="
   },
   "tt_calender": {
     "version": "1.0.5",
