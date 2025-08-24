@@ -6479,12 +6479,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "c1_adaptive_images": {
-    "version": "1.0.2",
+    "version": "1.1.1",
     "t3_versions": [
-      11
+      12,
+      13
     ],
     "description": "ViewHelpers for adaptive images in fluid_styled_content.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-2bp1lQHBkMJsr0VXPGDzsIVb9i+ziwobhPFUF0jQ9K0="
   },
   "c1_svg_viewhelpers": {
     "version": "1.1.0",
