@@ -5119,12 +5119,12 @@
     "hash": "sha256-ri5KkgZAoUCpjo27Z1tieNLrjm5ybj5QszyIP2E8sVA="
   },
   "blog": {
-    "version": "13.0.0",
+    "version": "14.0.0",
     "t3_versions": [
-      12
+      13
     ],
     "description": "This blog extension uses TYPO3s core concepts and elements to provide a full-blown blog that users of TYPO3 can instantly understand and use.",
-    "hash": "sha256-sVFsSnysnTM33GBerCd0tk4IukeT4nGFufJeQ6V7IjU="
+    "hash": "sha256-7MnC3gRXSR0dj3YNBFzs35oshtqZ8LkJ+vkvXkAWtfo="
   },
   "blog_author": {
     "version": "1.0.0",
@@ -7130,13 +7130,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "campus_events_connector": {
-    "version": "5.0.1",
+    "version": "5.0.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "Connecting the event software campus events with TYPO3, to import the event data into TYPO3 as data records. Get further information about Campus Events: www.campus-events.com",
-    "hash": "sha256-wiTOOTiq7ypDchAQeXkP0t2chEHGBisWKymbYQ/BibY="
+    "hash": "sha256-L0vA3kv+bXS9OEW1gtxYHAhSLYDIUsXywEN1Q29yOIU="
   },
   "campus_events_convert2news": {
     "version": "5.0.0",
@@ -10142,12 +10142,12 @@
     "hash": "sha256-AfToijkanNxy5yWgP7Vdw03r4FjS4ylg2fCf0SLYwKU="
   },
   "content_blocks": {
-    "version": "1.3.10",
+    "version": "1.3.11",
     "t3_versions": [
       13
     ],
     "description": "TYPO3 CMS Content Blocks - Content Types API | Define reusable components via YAML",
-    "hash": "sha256-AebArLA+0RpDgGVVND22TUZwCQlVShgmI7CuEU0yVE4="
+    "hash": "sha256-9Q8NP49qeQU2nCjTVbZ6xhzoxaxfKKY25Vy825spPaI="
   },
   "content_blocks_bootstrap": {
     "version": "0.0.3",
@@ -28946,7 +28946,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "jn_lighterbox": {
-    "version": "1.3.6",
+    "version": "1.3.7",
     "t3_versions": [
       9,
       10,
@@ -28955,7 +28955,7 @@
       13
     ],
     "description": "A very lightweight Lightbox extension for click-enlarging content element images using lightbox2 or any other library of your choice.",
-    "hash": "sha256-4RypW0WEuJWlLECXvLsMVL1EFzl0ScPXw5aA3phXaFk="
+    "hash": "sha256-HF1TKFuXmrzNRH/gUk/BHopfn/BNV9w//0XY/Y0LSrE="
   },
   "jn_phpcontentelement": {
     "version": "1.3.5",
@@ -35711,12 +35711,12 @@
     "hash": "sha256-x4virbFaVbxGtPRqPo/kBp/VT+izVhug/PPoMt+R20c="
   },
   "mindfula11y": {
-    "version": "0.3.1",
+    "version": "0.4.0",
     "t3_versions": [
       13
     ],
-    "description": "Comprehensive accessibility extension for TYPO3 providing backend tools for content editors and integrators. Features include missing alternative text detection with AI-powered generation via ChatGPT, semantic heading structure management with ViewHelper integration, ARIA landmark configuration for improved navigation, and inline editing capabilities within a unified accessibility backend module.",
-    "hash": "sha256-t/ctDuTRuRT2NAlGm+OKDFMLOVaWXt2sT+5PDg8KkV8="
+    "description": "Find, fix and improve accessibility in TYPO3 — AI-assisted alt text, semantic headings, ARIA landmarks and inline remediation.",
+    "hash": "sha256-F10uWuAe1JUWiG5wt/9/26Nslm9sB+C/Qgez4Qpjb54="
   },
   "mindmap_import": {
     "version": "0.0.2",
@@ -36986,13 +36986,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mosparo_form": {
-    "version": "1.0.2",
+    "version": "1.0.3",
     "t3_versions": [
       12,
       13
     ],
     "description": "Integrates the mosparo spam protection system into TYPO3 EXT:form and Extbase forms, allowing easy and effective spam protection across different form implementations.",
-    "hash": "sha256-W/2/qMT+oW903P7fxMgTZi51SkKNhBnn7WTt5oX3i/w="
+    "hash": "sha256-7p4to7AHg0mePfUzi1XjVj7UutLq9nsbjnnadpnjCi4="
   },
   "mosparo_powermail": {
     "version": "1.0.3",
@@ -47131,13 +47131,13 @@
     "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
   },
   "randomizer": {
-    "version": "4.0.1",
+    "version": "4.1.1",
     "t3_versions": [
       12,
       13
     ],
-    "description": "This is a TYPO3 extension. It randomizes content in the database or during an export. It's a wrapper for fakerphp/faker.",
-    "hash": "sha256-9aV5aZE3gjGalEcB16V05iQ4mEyeyN9bphJbDPDskC8="
+    "description": "This TYPO3 extension allows you to randomize the content of database tables, either during a database export or directly in the database. The extension is useful for anonymizing data on or for development systems. The random values are generated with the fakerphp/faker package.",
+    "hash": "sha256-Oi9ipbp+icjtsFMSEErEAiiPWslPMWlB5cAVort2690="
   },
   "randomquote": {
     "version": "13.4.0",
@@ -62265,13 +62265,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "tslib_fetce": {
-    "version": "0.9.6",
+    "version": "0.10.0",
     "t3_versions": [
-      12,
       13
     ],
     "description": "It brings the removed TYPO3 4.x class tslib_feTCE and the processScript FEData setup with new features partly back into TYPO3 10 and later. This is needed by extensions based on the former TYPO3 FORM like tt_board and tt_guest.",
-    "hash": "sha256-BERusz2B7a+BGThY63TpnCbeleaH9CacOsbMq0TuFL8="
+    "hash": "sha256-ztbCBoXrRlh0ejDm9HkSHrFyrH5Bwpb9khuNYCcg0TI="
   },
   "tslib_patcher": {
     "version": "0.1.4",
