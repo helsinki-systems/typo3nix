@@ -3757,13 +3757,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.356.3",
+    "version": "3.356.4",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-XNqq4JNJUEHGlngf+r+KGJm0GTmUBny0Boxgrz15iLQ="
+    "hash": "sha256-y6mvMW0fSx23D02DM7MZD8VPDuXIzsH4N8LBmLwv1as="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -23445,13 +23445,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "glossaries": {
-    "version": "4.0.6",
+    "version": "5.0.1",
     "t3_versions": [
-      11,
-      12
+      12,
+      13
     ],
     "description": "Extension for displaying and managing your website glossar. Includes a backend module, statistics, extended authorizations and much more.f",
-    "hash": "sha256-n65LkrDrSsmDgHylE7OklRDYoa7UTxp5lo4KNHNZtOI="
+    "hash": "sha256-vggJ5Wcq7yvLxk6WGHQUR97dAjj1rsZvKrrMuBIIGs0="
   },
   "glossarify": {
     "version": "0.0.1",
@@ -27052,12 +27052,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "index": {
-    "version": "0.2.0",
+    "version": "0.3.0",
     "t3_versions": [
       13
     ],
     "description": "Smart and flexible async indexing of pages and documents for e.g. search engines or AI provider",
-    "hash": "sha256-Tev2cTocVS7bv7/XmS1EfoUqbA4kGbB3jVhd0VCceAo="
+    "hash": "sha256-gcfmDVJ9stFIR5GkwGuvvrKtBDr5YzSBsN2DyQDgVbg="
   },
   "indexed_search_autocomplete": {
     "version": "12.1.13",
@@ -35711,12 +35711,12 @@
     "hash": "sha256-x4virbFaVbxGtPRqPo/kBp/VT+izVhug/PPoMt+R20c="
   },
   "mindfula11y": {
-    "version": "0.4.0",
+    "version": "0.5.0",
     "t3_versions": [
       13
     ],
-    "description": "Find, fix and improve accessibility in TYPO3 — AI-assisted alt text, semantic headings, ARIA landmarks and inline remediation.",
-    "hash": "sha256-F10uWuAe1JUWiG5wt/9/26Nslm9sB+C/Qgez4Qpjb54="
+    "description": "Find and fix accessibility issues in TYPO3: viewhelpers for semantic headings and landmarks, missing image alt detection and generation with AI (ChatGPT). A backend module for quick remediation. More features to come.",
+    "hash": "sha256-6xR3WaM076IWmtEKsjrbvvqGT5DGJMEamYmJ7x0cul0="
   },
   "mindmap_import": {
     "version": "0.0.2",
@@ -39598,12 +39598,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "newslayouts": {
-    "version": "13.0.6",
+    "version": "13.0.7",
     "t3_versions": [
       13
     ],
     "description": "Extends EXT:news plugins and records with individual layout settings. Supports bootstrap css framework.",
-    "hash": "sha256-pUuQQkqiB7yCPRCZ8dM7qeaTTtLqEM32ck8JX2k2tic="
+    "hash": "sha256-p2ID6F1DxxPUQPo8/WCLCPmssvdALV+n4RXP9WD0zXU="
   },
   "newsletter": {
     "version": "5.0.4",
@@ -39615,13 +39615,13 @@
     "hash": "sha256-pp7RxGbrctngYRUNyD/475/61tA8/xZU6RM7yllT+uY="
   },
   "newsletter_subscribe": {
-    "version": "7.0.7",
+    "version": "7.1.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "subscribe and unsubscribe to tt_address, generate static Link to unsubscribe (to use in Newsletter), remove unvalidated subscriptions with scheduler task",
-    "hash": "sha256-LKM0v0Cc8XqcpxQhi7OWxA382GX2A8tNoA3ugaQ23Z8="
+    "hash": "sha256-H0964ZADTxID3gRiSxD5nEArLyMNynBfVIHjeat+M/Y="
   },
   "newslettermanager": {
     "version": "0.0.1",
@@ -52299,13 +52299,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "shop": {
-    "version": "5.7.5",
+    "version": "5.8.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Shop for TYPO3 incl. PayPal, PayPal-Checkout (formerly PayPal-Plus), Klarna, Stripe, Bookmarks, UPS-API, Invoice generation, backend module, compare feature, graduated prices and many more - note there is a Pro version as well! See https://www.coding.ms/typo3-extensions/typo3-shop",
-    "hash": "sha256-4NZd9jRLOBnixf7qq+Yufg0Nm0BuJ7sNwaRkXa/dm+I="
+    "hash": "sha256-EULeD3G5TcwfhqG3ren6VE9LSWZBNlqSbiSj+MtvlXE="
   },
   "shop3ox": {
     "version": "0.0.3",
@@ -63105,14 +63105,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "twentythree": {
-    "version": "0.3.2",
+    "version": "0.3.3",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "Provides an online media provider for the TwentyThree Video Marketing Platform",
-    "hash": "sha256-IF63t1M4Llol0UKR2OSDqwroTlhE9KRSNO52hsxTx4U="
+    "hash": "sha256-pkMJALxvCaCkBLIn3hHpjD1H78/CT3W+VAJvmp9/C8k="
   },
   "twig_for_typo3": {
     "version": "1.0.0",
