@@ -3757,13 +3757,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.356.4",
+    "version": "3.356.5",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-y6mvMW0fSx23D02DM7MZD8VPDuXIzsH4N8LBmLwv1as="
+    "hash": "sha256-Ltkh0solKv2y2gFUDbqUo/tRSfPdX0mHSQX0HYTTegw="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -9181,13 +9181,13 @@
     "hash": "sha256-2LK8BvUmfZOl87jK2C3LKvSPWFQSHDjMeo59gxRjRUs="
   },
   "clubmanager": {
-    "version": "1.1.10",
+    "version": "1.2.0",
     "t3_versions": [
-      11,
-      12
+      12,
+      13
     ],
     "description": "The TYPO3 module for managing clubs, foundations and associations. With Clubmanager, you get the tool to manage the organization AND public relations of your club or association in a cost-saving and effective way.",
-    "hash": "sha256-hwb3s1hjLFXV+/3UEY+txWM1QpMJ1N+ECIige/SCC3c="
+    "hash": "sha256-Zp8q5OyQbe82ezB3k0AeilJsbKkutuo2OELC5RvxWMA="
   },
   "cm_ajax": {
     "version": "0.6.0",
@@ -24726,13 +24726,13 @@
     "hash": "sha256-B3UTfZUVvHdGwoin+h+haDxnK0tnR10QK/lYuLWyWkc="
   },
   "hh_slider": {
-    "version": "0.7.1",
+    "version": "0.8.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "Hauer-Heinrich - Image and Content Slider",
-    "hash": "sha256-fzPCWEjJJgsMsMjxgdEHOVDy2xZLAEURTpbsNFA3HnI="
+    "hash": "sha256-myCHVihylt70l0F74CTG/HUEBqSf4XrlYdNe7lsJPgA="
   },
   "hh_test": {
     "version": "0.2.15",
@@ -39243,13 +39243,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "news": {
-    "version": "12.3.0",
+    "version": "12.3.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "Versatile news system based on Extbase & Fluid and using the latest technologies provided by TYPO3 CMS.",
-    "hash": "sha256-YSfHDzyxzKyyxxGHs0042rnYE96XBK7QHeniVx0dZYo="
+    "hash": "sha256-vxe/r0qEHLa/v+u99jjgyCD359W4mOaXKE31wGR/efg="
   },
   "news2facebook": {
     "version": "1.1.0",
@@ -64410,13 +64410,13 @@
     "hash": "sha256-NAZbz2S9WtaneanoYOmOpu0E4BR3eS+0rLNQ/sf21xg="
   },
   "view_statistics": {
-    "version": "6.1.2",
+    "version": "6.1.3",
     "t3_versions": [
       12,
       13
     ],
     "description": "Logs frontend actions and display them in a backend module. Track page views, News, Downloads and custom objects. Optionally tracks frontend user logins and login durations. Alternative extension for Google-Analytics, Matomo, Piwik - this extension does not use any cookies! By default it does not track any personal data like IP address or even the user agent (though this can be activated optionally).",
-    "hash": "sha256-08Y1vhnIpIo0HiiVNfPNx0ZyNi0szWo/OFEV7cXaUKc="
+    "hash": "sha256-iboq90rYc0IF6zous/ErQWwtzLRA4sMbbFO9/y0y9Yw="
   },
   "vimeovideo": {
     "version": "2.0.0",
@@ -65895,13 +65895,12 @@
     "hash": "sha256-MwrYPTvYChV8wWOTJDZxVRpmZUQ+XKVY4wm9czNYBw0="
   },
   "wizard_crpagetree": {
-    "version": "6.0.1",
+    "version": "7.0.0",
     "t3_versions": [
-      11,
-      12
+      13
     ],
     "description": "Wizard that will create a page tree for you. Feed it with a space indented tree structure of the desired pages and the pages will be created for you.",
-    "hash": "sha256-Y6mfxs0RDjjgHNVPGiF2fDX0ixZn3+0qmgjVD1htEQE="
+    "hash": "sha256-3HfFskPURtq9LokAbrUPXyyQejaXxKS4y9S+mlm8RPA="
   },
   "wizard_uploads_path": {
     "version": "1.0.1",
