@@ -1160,13 +1160,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "additional_tca": {
-    "version": "1.17.0",
+    "version": "1.17.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "Additional TCA fields and tools",
-    "hash": "sha256-Y2AMEsGPzO7Bh9miXnDZXSKEP/CDINzUhARDTTbi7UE="
+    "hash": "sha256-17uWz0mBCAXVZXruOJ3Pgym/0l/5+96tsMOfvPdkC9M="
   },
   "addlinkheader": {
     "version": "0.0.4",
@@ -3757,13 +3757,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.356.5",
+    "version": "3.356.6",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-Ltkh0solKv2y2gFUDbqUo/tRSfPdX0mHSQX0HYTTegw="
+    "hash": "sha256-FsM+uoRwPsKQPlv6wkVWX4l6ORY1hwvMf9ut+e+a+Zc="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -10142,12 +10142,12 @@
     "hash": "sha256-AfToijkanNxy5yWgP7Vdw03r4FjS4ylg2fCf0SLYwKU="
   },
   "content_blocks": {
-    "version": "1.3.11",
+    "version": "1.3.12",
     "t3_versions": [
       13
     ],
     "description": "TYPO3 CMS Content Blocks - Content Types API | Define reusable components via YAML",
-    "hash": "sha256-9Q8NP49qeQU2nCjTVbZ6xhzoxaxfKKY25Vy825spPaI="
+    "hash": "sha256-SFkIh+bb3bnGY/C42oPyYV7LsaW7TBhqVc7LGf3NK+8="
   },
   "content_blocks_bootstrap": {
     "version": "0.0.3",
@@ -14557,13 +14557,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "div2007": {
-    "version": "2.3.8",
+    "version": "2.3.10",
     "t3_versions": [
       12,
       13
     ],
     "description": "This library offers classes and functions to other TYPO3 extensions. Replacement for tslib_pibase methods.",
-    "hash": "sha256-0ktTH2kZsWdMomIeGWNXa1P2arpg0xK8tc7KeX6Fu2U="
+    "hash": "sha256-+y5OMSBGmAOSCYqaIoCxXY0DybjQW6gRJ3sdqoXgHwY="
   },
   "diva": {
     "version": "8.7.1",
@@ -16722,13 +16722,13 @@
     "hash": "sha256-IURLA09rFCcs7/s8u2XiHi6X43OK4/RBYXs1T5hp5xU="
   },
   "easydb": {
-    "version": "3.0.2",
+    "version": "3.1.0",
     "t3_versions": [
-      11,
-      12
+      12,
+      13
     ],
     "description": "Integration of easydb / fylr asset management in TYPO3",
-    "hash": "sha256-msDiRIWJgL9FB8loeOil3TKSyVc38pl3uZkfBxSRuOU="
+    "hash": "sha256-cS08F9/zUZwmdqA1QqDT48rMkK6gqTu+YCTdKkkv6BM="
   },
   "easyforms": {
     "version": "0.9.5",
@@ -17936,12 +17936,12 @@
     "hash": "sha256-WyoWMrqA0A+1a3dQRnojja1tbBuvdX3JL3WtcDlxGWk="
   },
   "events2": {
-    "version": "10.0.0",
+    "version": "10.0.2",
     "t3_versions": [
       13
     ],
     "description": "Create single and recurring events",
-    "hash": "sha256-Wqdm6ZSzZUMpKbmJ3TPHY3mSzVC+uM9CwwcU5e49MEY="
+    "hash": "sha256-WvxWu5zrjl/dJEQGt8a3eWQon7lIBYkRHmMnvQvk9qM="
   },
   "events2_reserve_connector": {
     "version": "1.0.0",
@@ -21458,13 +21458,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "form_consent": {
-    "version": "3.1.4",
+    "version": "3.1.5",
     "t3_versions": [
       12,
       13
     ],
     "description": "An extension for TYPO3 CMS that adds double opt-in functionality to EXT:form. It allows the dynamic adaptation of the entire double opt-in process using various events. In addition, the extension integrates seamlessly into TYPO3, for example to delete outdated consents in compliance with the GDPR.",
-    "hash": "sha256-0bY7r31jqCnSSvyZV3loN52Uhlg0W0EGik26ooPaf7Y="
+    "hash": "sha256-cnbu+Ei/PVCEA/SwbXZk77D79dMSqROXx4QTRSWBHR4="
   },
   "form_country_select": {
     "version": "3.1.0",
@@ -22030,12 +22030,12 @@
     "hash": "sha256-EOIEI20VeTGVo7i0CCEmaGMpTpTBBnRuI0sNRmFbQy0="
   },
   "fp_newsletter": {
-    "version": "9.0.0",
+    "version": "9.0.3",
     "t3_versions": [
       13
     ],
     "description": "Plugin for newsletter subscription and unsubscription with double opt in (and double opt out). For: mail or luxletter / tt_address or fe_users. A log is written.",
-    "hash": "sha256-iAtRFahkGWw1J0osNw4z6QEbCE5BtR5degfvwFSGANE="
+    "hash": "sha256-V84IoJSa8Ul9ahwgzMP4R8u8j/laEXTjuQ8USXdvWHU="
   },
   "fp_product_features": {
     "version": "0.2.0",
@@ -36678,13 +36678,13 @@
     "hash": "sha256-QBq7RgOtpBz21jSQfzIxEurNCmBZlHvZXZt3wzoyyMw="
   },
   "modules": {
-    "version": "7.4.0",
+    "version": "7.4.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "Frontend-User-Registration, Profile, Invitations, Listing with detailview, Addressmanagement, Frontend-Recordmanagement. User friendly Backendmodule for managing Frontend- and Backend-Users and other Records. Toolbox for frontend and backend modules in TYPO3.",
-    "hash": "sha256-Ehn9ajE0zOd+cMPrWcaCDc9PpevIQQMpuxADKSmogJc="
+    "hash": "sha256-8X6svfYN2AjkVlNDfycXQ3PY351Ds4nRZNvQ6L1Rlew="
   },
   "modulis_animated_gif": {
     "version": "0.0.4",
@@ -46984,13 +46984,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "questions": {
-    "version": "5.0.0",
+    "version": "5.0.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "Questions is a frequently asked questions (FAQ) extension for TYPO3. It's compatible with following extensions: shop, ",
-    "hash": "sha256-hjE1sHrvVXpznNgayDLz47DK1cT9SWW0RXbGXDhimUw="
+    "hash": "sha256-RRe+yqovXPSg/MPrhCCbyAy2oe0mM+ybj0AVI6sy/Sk="
   },
   "quick_shop": {
     "version": "10.0.12",
@@ -52299,13 +52299,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "shop": {
-    "version": "5.8.0",
+    "version": "5.8.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "Shop for TYPO3 incl. PayPal, PayPal-Checkout (formerly PayPal-Plus), Klarna, Stripe, Bookmarks, UPS-API, Invoice generation, backend module, compare feature, graduated prices and many more - note there is a Pro version as well! See https://www.coding.ms/typo3-extensions/typo3-shop",
-    "hash": "sha256-EULeD3G5TcwfhqG3ren6VE9LSWZBNlqSbiSj+MtvlXE="
+    "hash": "sha256-jBV+dDMMrHokr5k+G6Fwz9sh+Ru1Gdf3P+vgPCvxU0M="
   },
   "shop3ox": {
     "version": "0.0.3",
@@ -63370,13 +63370,13 @@
     "hash": "sha256-X+M95W61qrOca855kJbU7FKAbXgL7C7+r/33a4IJTuU="
   },
   "typo3_maileon_integration": {
-    "version": "4.0.0",
+    "version": "4.0.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "Add double-opt-in newsletter subscription form connected with Maileon to your Typo3 sites",
-    "hash": "sha256-BAKc7fT5XzIU72mdhepxILezCJArRpHBj0QBIJ6kzyo="
+    "hash": "sha256-3RTtIITC1JwHgHSYSSURCypTXstFMpXRAi65e+OwClI="
   },
   "typo3_ohdear_health_check": {
     "version": "12.4.1",
