@@ -20768,13 +20768,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fluid_fpdf": {
-    "version": "2.8.1",
+    "version": "2.8.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "This extension provides you a complete set of ViewHelpers for dealing with FPDF by using Fluid. You can use the ViewHelpers easily in own Extensions just by defining the fpdf-Namespace. Additionally you are able to use the build in plugin, for displaying predefined PDF. This plugin offers you automatically all available PDFs.",
-    "hash": "sha256-8Yv5pPWgQLfY76jR9zuTga/VK4J45NpU/7GBddrA3ZI="
+    "hash": "sha256-v47MmDVegGLEr3B7+Lk8SKIBBhvdv5wkwfPUpO+vN8c="
   },
   "fluid_info": {
     "version": "0.1.0",
@@ -23445,13 +23445,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "glossaries": {
-    "version": "5.0.1",
+    "version": "5.0.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "Extension for displaying and managing your website glossar. Includes a backend module, statistics, extended authorizations and much more.f",
-    "hash": "sha256-vggJ5Wcq7yvLxk6WGHQUR97dAjj1rsZvKrrMuBIIGs0="
+    "hash": "sha256-LWnBgyLDXf/Jngg3A6QVKUhOnvmAEToxl7ZiZZawyUE="
   },
   "glossarify": {
     "version": "0.0.1",
@@ -35711,12 +35711,12 @@
     "hash": "sha256-x4virbFaVbxGtPRqPo/kBp/VT+izVhug/PPoMt+R20c="
   },
   "mindfula11y": {
-    "version": "0.5.0",
+    "version": "0.6.0",
     "t3_versions": [
       13
     ],
     "description": "Find and fix accessibility issues in TYPO3: viewhelpers for semantic headings and landmarks, missing image alt detection and generation with AI (ChatGPT). A backend module for quick remediation. More features to come.",
-    "hash": "sha256-6xR3WaM076IWmtEKsjrbvvqGT5DGJMEamYmJ7x0cul0="
+    "hash": "sha256-Y/4yxhwqWbZVJXsLcDs9ZLveOemm+bnybea1Yle8ql4="
   },
   "mindmap_import": {
     "version": "0.0.2",
@@ -40498,13 +40498,13 @@
     "hash": "sha256-mYjfniG/7M434e/L/p7q6NszV0ryk0iajLEw08v1Hck="
   },
   "ns_cache_webhook": {
-    "version": "1.0.2",
+    "version": "1.0.3",
     "t3_versions": [
       10,
       11
     ],
     "description": "A simple TYPO3 extension to clear webhook cache directly from the backend with one click—ensuring your latest changes and configurations are always live.",
-    "hash": "sha256-Jyl5Flrteo1cn+4kRzQwMI+Lvz4o+pSFpTmYfXDygGM="
+    "hash": "sha256-KRD9uk2As3bWL9ovOmy41aVgqkmxnm8jkR6DxCjvLU4="
   },
   "ns_cloudflare": {
     "version": "1.0.4",
@@ -43244,13 +43244,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "parsedown_extra": {
-    "version": "4.1.0",
+    "version": "4.1.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "Provides a content element which displays markdown files. Parses email links with TYPO3 encryption. ViewHelper for parsing Markdown from individual sources. Defining abbreviations globally by using TypoScript. Code Highlighting.",
-    "hash": "sha256-OwSuxvCsVq4lbuWD++CoCd4JvJXc9Iugs3xAM7LwQYg="
+    "hash": "sha256-EpjVSzALIb0PfO3Y8CcOl3er0SVCEYpacuz8a5+4YrE="
   },
   "partner": {
     "version": "0.5.21",
@@ -49295,13 +49295,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "rss_app": {
-    "version": "4.0.0",
+    "version": "4.0.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "This Plugin enables you to display RSS.App feeds (Instagram, Twitter, Facebook and more) in TYPO3 - more information on https://rss.app",
-    "hash": "sha256-qSwXz7kM8sAHveiLYAEpnaSGTkGswrqX6tVnr6wE6XA="
+    "hash": "sha256-Xvj1rkoYFYCNRgGUC+eENxtqQ/f4LAOPEbF0N9nuX2I="
   },
   "rss_display": {
     "version": "5.0.1",
@@ -56472,12 +56472,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "storybook": {
-    "version": "0.1.26",
+    "version": "0.1.27",
     "t3_versions": [
       13
     ],
     "description": "The one and only Storybook Renderer for TYPO3 Fluid Components",
-    "hash": "sha256-flg0fdeelXlt0Hct7Wa5doV7QixIpQShKC1u0y8jXoM="
+    "hash": "sha256-Q5LdJFRcIbWc7YvICqyrQQVjYMqHKwug6adY48fXUFE="
   },
   "streamovations_vp": {
     "version": "2.0.2",
@@ -67148,14 +67148,14 @@
     "hash": "sha256-6aSZK4WemRln/uQ3AB3dy+kvaPovltc5RdzauEBuY/s="
   },
   "xima_typo3_frontend_edit": {
-    "version": "1.7.0",
+    "version": "1.7.1",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "This extension provides an edit button for editors within frontend content elements.",
-    "hash": "sha256-8zN0fbkeewPlZpVkdkNqolVmkpu0mLASOv8yRg5t9/Y="
+    "hash": "sha256-gIqMgyGZQNIKPruUIEC3vqdoG5mqHMpOH4X59qHgHis="
   },
   "xima_typo3_internal_news": {
     "version": "1.1.1",
