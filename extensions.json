@@ -4343,12 +4343,12 @@
     "hash": "sha256-tKpiVtD6Q6GvSfPFJQTyDg/cMaaF0Rw4lK3dUJkqKRI="
   },
   "bc_simplerate": {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "t3_versions": [
       13
     ],
     "description": "Rate section of the website",
-    "hash": "sha256-bJutLibZVx7SumOxubAw/X8nMAkKSWqDQ8Acr1d4M/M="
+    "hash": "sha256-MUeR9dkC3uvcluGKwuEhO3184cJQQUKMirGG7Tuv++4="
   },
   "bc_tourdates": {
     "version": "0.9.1",
@@ -17936,12 +17936,12 @@
     "hash": "sha256-WyoWMrqA0A+1a3dQRnojja1tbBuvdX3JL3WtcDlxGWk="
   },
   "events2": {
-    "version": "10.0.2",
+    "version": "10.0.3",
     "t3_versions": [
       13
     ],
     "description": "Create single and recurring events",
-    "hash": "sha256-WvxWu5zrjl/dJEQGt8a3eWQon7lIBYkRHmMnvQvk9qM="
+    "hash": "sha256-UbZZ2FrIHbjxek7IP8jaAODHSRe9dV8EnCFg0FOD+bo="
   },
   "events2_reserve_connector": {
     "version": "1.0.0",
@@ -40480,13 +40480,13 @@
     "hash": "sha256-W6LGxHx3LtekO7fgw2NZKqc80h1uYBdeO8tC1l86eT8="
   },
   "ns_backup": {
-    "version": "13.0.2",
+    "version": "13.0.3",
     "t3_versions": [
       12,
       13
     ],
     "description": "Easily back up your entire TYPO3 site—including code, files, and database—with one click. Supports cloud storage like Google Drive, Dropbox, Amazon S3, SFTP, Rsync, and more.",
-    "hash": "sha256-3Fw0JmxNYlTMfikG9jylpO4kN9P0N9f6Pnqlx8XDSCc="
+    "hash": "sha256-abmGcUPFM6xtnrirb0MQhlXfrNVzegyk+kT+guxGNJs="
   },
   "ns_basetheme": {
     "version": "13.0.7",
@@ -42989,12 +42989,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "pagelist": {
-    "version": "4.0.0",
+    "version": "4.1.2",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "Page based news, events, products and vacancies or just page lists. Demo: microtemplate.t3brightside.com",
-    "hash": "sha256-sxYsfH5OpcRdR6+o7lTxH+SJSi2/oMHSrp57XFhfG7g="
+    "hash": "sha256-4j/kPZAyN0h8oCF4QE2yEsHRR5BE4n4s3esAjyPQbkw="
   },
   "pagemanager": {
     "version": "0.7.1",
@@ -50822,14 +50823,14 @@
     "hash": "sha256-bCMkdMOCy2wNJ3Gz6SWr7i1qZ9ZfxkhhegmjmYFHEdo="
   },
   "schema": {
-    "version": "3.13.2",
+    "version": "3.14.0",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "API and view helpers for schema.org markup",
-    "hash": "sha256-tZVwDg5+j3Fg1tqKOMuS0sSY5UonORkRNf7BmCpPkfQ="
+    "hash": "sha256-La5pR/SSkdgLu7IkFT3BhoZRlCeNv7lx9Rtk8xd20WI="
   },
   "schema_auto": {
     "version": "2.3.0",
@@ -55252,12 +55253,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sr_email_subscribe": {
-    "version": "12.5.0",
+    "version": "13.4.0",
     "t3_versions": [
-      12
+      13
     ],
     "description": "Email address subscription for TYPO3 CMS.",
-    "hash": "sha256-7oLVxHTBH8NOSvQ87QU0x5ndM6BKHqi2Zf6IiBSYIT8="
+    "hash": "sha256-Uq0M3qjHAbdBGm3/V1xdLAwjPH1v6axualYgtt7adxc="
   },
   "sr_feedit": {
     "version": "0.1.1",
@@ -55272,12 +55273,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sr_feuser_register": {
-    "version": "12.5.1",
+    "version": "13.4.0",
     "t3_versions": [
-      12
+      13
     ],
     "description": "A self-registration variant of Kasper Skårhøj's Front End User Admin extension for TYPO3 CMS.",
-    "hash": "sha256-hhhoNCnuBkUOO/J73W2SJL4cW4qcFCVfQk7VVU0L0Gk="
+    "hash": "sha256-2nTXJR/3E/VeqAvBRYLjJx7Aae6bbqCkMUb52yyb3LU="
   },
   "sr_freecap": {
     "version": "13.4.1",
@@ -62265,12 +62266,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "tslib_fetce": {
-    "version": "0.10.0",
+    "version": "0.10.1",
     "t3_versions": [
       13
     ],
     "description": "It brings the removed TYPO3 4.x class tslib_feTCE and the processScript FEData setup with new features partly back into TYPO3 10 and later. This is needed by extensions based on the former TYPO3 FORM like tt_board and tt_guest.",
-    "hash": "sha256-ztbCBoXrRlh0ejDm9HkSHrFyrH5Bwpb9khuNYCcg0TI="
+    "hash": "sha256-GzKgW1x2964rTfSJ/NskTFmpUlcuUa2iDXzrZaT3E6Y="
   },
   "tslib_patcher": {
     "version": "0.1.4",
