@@ -1160,13 +1160,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "additional_tca": {
-    "version": "1.17.1",
+    "version": "1.17.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "Additional TCA fields and tools",
-    "hash": "sha256-17uWz0mBCAXVZXruOJ3Pgym/0l/5+96tsMOfvPdkC9M="
+    "hash": "sha256-YVHvYYNNSBdLJmfJIgOcKsZwSXgXtmQAIT57MQMZ71U="
   },
   "addlinkheader": {
     "version": "0.0.4",
@@ -17510,13 +17510,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "er24_rechtstexte": {
-    "version": "3.0.1",
+    "version": "3.0.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "This extension allows the easy integration of imprint and privacy policy of eRecht24.",
-    "hash": "sha256-Fg2flTAUCHl55W8jlF80M3j0aj1RYyPMJFiIQzCn9X4="
+    "hash": "sha256-UuGmo3kx9aoD2TBmzyHVU760M22pYlA+/xADN+f2chs="
   },
   "erdal_googlemap": {
     "version": "0.1.2",
@@ -21970,13 +21970,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "foundation": {
-    "version": "3.0.1",
+    "version": "3.0.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "Configuration framework for TYPO3 extension development",
-    "hash": "sha256-CvUXnVqjV+UdZvN6NqPLNT6r1QDinaNdl95S41oHaDc="
+    "hash": "sha256-CviXILReBC1eXNH+NWThQGIF/HJSdP6u5YHDUGt9Vko="
   },
   "foundation_grids": {
     "version": "2.0.0",
@@ -64411,13 +64411,13 @@
     "hash": "sha256-NAZbz2S9WtaneanoYOmOpu0E4BR3eS+0rLNQ/sf21xg="
   },
   "view_statistics": {
-    "version": "6.1.3",
+    "version": "6.1.4",
     "t3_versions": [
       12,
       13
     ],
     "description": "Logs frontend actions and display them in a backend module. Track page views, News, Downloads and custom objects. Optionally tracks frontend user logins and login durations. Alternative extension for Google-Analytics, Matomo, Piwik - this extension does not use any cookies! By default it does not track any personal data like IP address or even the user agent (though this can be activated optionally).",
-    "hash": "sha256-iboq90rYc0IF6zous/ErQWwtzLRA4sMbbFO9/y0y9Yw="
+    "hash": "sha256-ZWg9J6uW+tTL2WyQG3UtfMefgFlXYfabrvhI7Svrk2g="
   },
   "vimeovideo": {
     "version": "2.0.0",
