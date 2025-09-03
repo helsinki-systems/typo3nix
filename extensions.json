@@ -3757,13 +3757,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.356.8",
+    "version": "3.356.9",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-suhPZ2TUqIgporhfrD/qATg9TJuAgnvVC4RSJVAwzo4="
+    "hash": "sha256-OM1qvYuuYEobMylsqplE7XAnizkzntRgpF7ln4XAB4k="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -10142,12 +10142,12 @@
     "hash": "sha256-AfToijkanNxy5yWgP7Vdw03r4FjS4ylg2fCf0SLYwKU="
   },
   "content_blocks": {
-    "version": "1.3.12",
+    "version": "1.3.13",
     "t3_versions": [
       13
     ],
     "description": "TYPO3 CMS Content Blocks - Content Types API | Define reusable components via YAML",
-    "hash": "sha256-SFkIh+bb3bnGY/C42oPyYV7LsaW7TBhqVc7LGf3NK+8="
+    "hash": "sha256-72OKtOiEy/hfsYi06P5iHcTx9fjkS0IkTe1p5aU6F6s="
   },
   "content_blocks_bootstrap": {
     "version": "0.0.3",
@@ -21005,7 +21005,7 @@
     "hash": "sha256-nVc4Dgbq6osYm2u4v/JvZGREl9Ir2jROiO3yyEiPDec="
   },
   "flux": {
-    "version": "11.0.3",
+    "version": "11.0.4",
     "t3_versions": [
       10,
       11,
@@ -21013,7 +21013,7 @@
       13
     ],
     "description": "Drop-in page and content templates with nested content feature. Provides multiple condensed integration APIs to use advanced TYPO3 features with little effort.",
-    "hash": "sha256-YzBJRGQgdYnN+7AbprJbi44ukQKvZWtLtPHpJDad2KI="
+    "hash": "sha256-kcVBBlTtZQl5F3r3WBxXWaco3J5Q6W9qriwEbYlh/6s="
   },
   "flux_elements": {
     "version": "1.4.1",
@@ -24553,13 +24553,12 @@
     "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
   },
   "hd_structureddata": {
-    "version": "0.8.6",
+    "version": "1.0.0",
     "t3_versions": [
-      11,
-      12
+      13
     ],
     "description": "Extension for adding structured JSON-LD into page headers",
-    "hash": "sha256-acw7GBcqxlQK1+ahrjMmvEdDJAi53WJtHAjUfyV8a3I="
+    "hash": "sha256-dWTVLIE62nqSdGHRJ7CUPE1W8o3xGn4FXGp1NbXQuoA="
   },
   "hd_translator": {
     "version": "2.1.0",
@@ -34651,13 +34650,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "media2click": {
-    "version": "3.5.3",
+    "version": "3.5.4",
     "t3_versions": [
       12,
       13
     ],
     "description": "Render external content like videos and iframes with privacy in mind: User has to click on placeholder to load the actual content.",
-    "hash": "sha256-7VctO6gA9Xf6XGeSa1P8kZVqX6pe/87r4pG0y1XOa4E="
+    "hash": "sha256-Si8VlQzeq+RhEFVPPolsiFraVkIZ7puOQ6eJpxLYOcs="
   },
   "media_center": {
     "version": "1.0.3",
@@ -35711,12 +35710,12 @@
     "hash": "sha256-x4virbFaVbxGtPRqPo/kBp/VT+izVhug/PPoMt+R20c="
   },
   "mindfula11y": {
-    "version": "0.6.0",
+    "version": "0.7.0",
     "t3_versions": [
       13
     ],
     "description": "Find and fix accessibility issues in TYPO3: viewhelpers for semantic headings and landmarks, missing image alt detection and generation with AI (ChatGPT). A backend module for quick remediation. More features to come.",
-    "hash": "sha256-Y/4yxhwqWbZVJXsLcDs9ZLveOemm+bnybea1Yle8ql4="
+    "hash": "sha256-0hNQN2mzTmNFsjXEA0dNqsWW0EDzfJrG1gFfOUJW1Lk="
   },
   "mindmap_import": {
     "version": "0.0.2",
@@ -39615,13 +39614,13 @@
     "hash": "sha256-pp7RxGbrctngYRUNyD/475/61tA8/xZU6RM7yllT+uY="
   },
   "newsletter_subscribe": {
-    "version": "7.1.1",
+    "version": "7.1.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "subscribe and unsubscribe to tt_address, generate static Link to unsubscribe (to use in Newsletter), remove unvalidated subscriptions with scheduler task",
-    "hash": "sha256-H0964ZADTxID3gRiSxD5nEArLyMNynBfVIHjeat+M/Y="
+    "hash": "sha256-PxgpGohy9GQ2feDWKeMc4yy4hf82ud5fmGyITdpzR0g="
   },
   "newslettermanager": {
     "version": "0.0.1",
@@ -51021,6 +51020,22 @@
     "description": "Connects to the Dutch database for municipalities and shows information from that database",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "seal": {
+    "version": "0.0.2",
+    "t3_versions": [
+      13
+    ],
+    "description": "SEAL Search - Flexible integration of the Search Engine Abstraction Layer project",
+    "hash": "sha256-JisNMfNYoiXVZTQ7ocP8MI32iW9PFtfyH09ja6z/b/Q="
+  },
+  "seal_ai": {
+    "version": "0.0.3",
+    "t3_versions": [
+      13
+    ],
+    "description": "SEAL Search AI - Vector based search based on EXT:seal",
+    "hash": "sha256-B+EBYcrriQet4r0uODZOLfvUwbPFySfHYXvRNICONTw="
+  },
   "search_suggestions": {
     "version": "1.0.0",
     "t3_versions": [],
@@ -56205,13 +56220,13 @@
     "hash": "sha256-2R8oCWKd5G3bZTY9MPatnegnTWtFW1aPq6WS5ZJLr1s="
   },
   "staticfilecache": {
-    "version": "15.2.2",
+    "version": "15.2.3",
     "t3_versions": [
       12,
       13
     ],
     "description": "Transparent static file cache solution using mod_rewrite and mod_expires. Increase performance for static pages by a factor of 230!!",
-    "hash": "sha256-DYLAh29R4SrigS/2/qOjAn/pTuEX3WYO5QSvXsQWwaI="
+    "hash": "sha256-q+4s0rrYKmFMLyurNV6XNsS0Clh536LdukBvjg7rPUM="
   },
   "staticpathrouteresolver": {
     "version": "1.3.0",
@@ -64257,7 +64272,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "vhs": {
-    "version": "7.1.3",
+    "version": "7.1.4",
     "t3_versions": [
       10,
       11,
@@ -64265,7 +64280,7 @@
       13
     ],
     "description": "A collection of ViewHelpers for performing rendering tasks that are not natively provided by the Fluid templating engine.",
-    "hash": "sha256-grZSzHPHDZ9qNr9EErNTw4F/9T8pl4VQrMHOLtg84So="
+    "hash": "sha256-ScyR2IXqeo2WOQEctc5QTaaX6dA788uNH0Z9+Wh8/Tc="
   },
   "vhs_scss": {
     "version": "2.0.3",
@@ -64896,13 +64911,13 @@
     "hash": "sha256-+DblC8ydsK9LQSUvL3eI1WGmkpLyILuhDLb/YIzkt18="
   },
   "warming": {
-    "version": "4.2.0",
+    "version": "4.2.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "Warms up Frontend caches based on an XML sitemap. Cache warmup can be triggered via TYPO3 backend or using a console command. Supports multiple languages and custom crawler implementations.",
-    "hash": "sha256-q7N5Ml/oHrZD02Yzch/BfO3B1k6rYpmDKckF/kPmNS8="
+    "hash": "sha256-h1BMNidOqlxVVc/G2C0+Oaod+8/sYrYXbrYGF5P6ljY="
   },
   "warmup": {
     "version": "1.3.1",
