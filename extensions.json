@@ -1195,12 +1195,12 @@
     "hash": "sha256-Qx7pEfxHzU21N5I2lCBk34qUvM/L0Ij1XDE7AIhUKNI="
   },
   "address": {
-    "version": "13.0.6",
+    "version": "13.0.8",
     "t3_versions": [
       13
     ],
     "description": "Address extension with multiple contact types per address. Code is based on news extension.",
-    "hash": "sha256-gBlg7snPRZZlW1scOT7RCKyuAvJWjjE5qHEzt1bRz58="
+    "hash": "sha256-1nXUqSHTTlOGiYSqbi7iXRhV7wYZHrdFcBc2qlyr0/o="
   },
   "address_manager": {
     "version": "4.0.7",
@@ -2469,7 +2469,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ameos_tarteaucitron": {
-    "version": "3.6.1",
+    "version": "3.7.0",
     "t3_versions": [
       9,
       10,
@@ -2478,7 +2478,7 @@
       13
     ],
     "description": "Integrates tarteaucitron.js in TYPO3 (see : https://tarteaucitron.io )",
-    "hash": "sha256-+P933b9vwxceWQ0K1fBp/t/eKcttrSp3vVl490IHyeA="
+    "hash": "sha256-DbG6u606lu8JFZvws7IZpTYlrSR6Dj9IoNm5+JFbgpo="
   },
   "ameos_typo3_vulnerabilities": {
     "version": "1.0.0",
@@ -3757,13 +3757,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.356.9",
+    "version": "3.356.10",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-OM1qvYuuYEobMylsqplE7XAnizkzntRgpF7ln4XAB4k="
+    "hash": "sha256-5pMBFYyFsZ3dnhQmYAJQQ4y12PJlYLCnMtG+s0E68vI="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -10142,12 +10142,12 @@
     "hash": "sha256-AfToijkanNxy5yWgP7Vdw03r4FjS4ylg2fCf0SLYwKU="
   },
   "content_blocks": {
-    "version": "1.3.13",
+    "version": "1.3.14",
     "t3_versions": [
       13
     ],
     "description": "TYPO3 CMS Content Blocks - Content Types API | Define reusable components via YAML",
-    "hash": "sha256-72OKtOiEy/hfsYi06P5iHcTx9fjkS0IkTe1p5aU6F6s="
+    "hash": "sha256-/ka3j6tGmqiY4rZOg10stGJkSScqH7A/wnEez6duE40="
   },
   "content_blocks_bootstrap": {
     "version": "0.0.3",
@@ -26997,12 +26997,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "in2studyfinder": {
-    "version": "12.0.2",
+    "version": "13.0.0",
     "t3_versions": [
-      12
+      13
     ],
     "description": "List of master's and bachelor's degree programs for colleges and universities",
-    "hash": "sha256-5Rr9ZtaKOjVCqW/BlkU0EF0KjbuFr2avW58lTx0lemE="
+    "hash": "sha256-Rr3QwYEWpOo53vpKtpm3igqQaSMPvdRhyQN1DvD0V90="
   },
   "in_gallery_flickr": {
     "version": "2.0.12",
@@ -56175,12 +56175,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "static_info_tables_tr": {
-    "version": "12.4.0",
+    "version": "13.4.1",
     "t3_versions": [
-      12
+      13
     ],
     "description": "Turkish (tr) language pack for the Static Info Tables providing localized names for countries.",
-    "hash": "sha256-SvGdpo8csxcotZefCzGSy8lp0IvR+m50w2rGPrgo0lU="
+    "hash": "sha256-957hV1jtM8OTsYeMEIh4sbDlw+8ezzgGtKcXZ8+lHEw="
   },
   "static_info_tables_ua": {
     "version": "12.4.0",
@@ -62395,12 +62395,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "tt_address": {
-    "version": "9.0.1",
+    "version": "9.1.0",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "Displays a list of addresses from an address table on the page.",
-    "hash": "sha256-KHFg2YrQeolZphyDlmmjTGp04I/6IU1WrktMh0c4lNQ="
+    "hash": "sha256-DE0JOIo/3NMJA1VsRETaE1Oa0Hlsrb32C0uMYDs/b7Q="
   },
   "tt_board": {
     "version": "1.18.6",
