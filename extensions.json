@@ -3278,13 +3278,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ausstello": {
-    "version": "1.3.1",
+    "version": "1.3.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "Events managen und kommunizieren, Marketing automatisieren. Einfach, ausstello.",
-    "hash": "sha256-WqAak1zU9tDY6b2nFCHBcg3CzX2FTlj3OJ3tdJEIOK0="
+    "hash": "sha256-B3HQQQ1NttdrzNXP32OhVCk7JapTybp2pufneWHTlC0="
   },
   "auth0": {
     "version": "13.0.2",
@@ -3757,13 +3757,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.356.11",
+    "version": "3.356.12",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-628SlL/tqMrdHBDOr1VnKwDy6wZHgbbj3XtOiQHoUQ8="
+    "hash": "sha256-tf+a0Cx9C7xKPWisshOd1KeqqJQMdzGxZUTC1GzwkS0="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -4022,13 +4022,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "base_excel": {
-    "version": "4.5.0",
+    "version": "5.1.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "This provides the PhpSpreadsheet library, formerly phpExcel from phpOffice.",
-    "hash": "sha256-ftXrx+twDeH2v8tpO+TlXdzuDjnPtFCFlyfzemrFoKA="
+    "hash": "sha256-v6AdIQ1b08C7eFY8nIB5PnvsnOYWWFSapZd9zv/VC08="
   },
   "base_font": {
     "version": "1.0.0",
@@ -42352,13 +42352,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "operations": {
-    "version": "8.1.1",
+    "version": "8.2.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "TYPO3 extension to manage firefighter operations with detailed reports, images, used resources or vehicles, map view for locations.",
-    "hash": "sha256-AnAS7XdOH3ii3dY7VM8X9a6SxLkvDE9IFYeFfUI7c34="
+    "hash": "sha256-5U/36WslN5khnPqKKO1TU4YJcAY2iV+l1iVUFWDwRxk="
   },
   "opetraining": {
     "version": "0.0.1",
@@ -44702,6 +44702,14 @@
     "t3_versions": [],
     "description": "Template-based mailform that aims to give the developer the highest amount of design flexibility. Originally written by Tonni Aagesen (pil.dk).",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "pinned_content": {
+    "version": "1.0.0",
+    "t3_versions": [
+      13
+    ],
+    "description": "Enhances the TYPO3 content element wizard with pinned items, templates, and personal pin lists for faster editing.",
+    "hash": "sha256-Ei/u3NOvN6WSo9PALb53t/lE9s4KsLc8UCLtcS8alms="
   },
   "pinned_sites": {
     "version": "1.0.2",
@@ -51560,12 +51568,12 @@
     "hash": "sha256-t+tpv2NMa8x0h/r2nj21yNy6rBopZbtlnTOgtQU+L14="
   },
   "sf_event_mgt": {
-    "version": "8.2.0",
+    "version": "8.3.0",
     "t3_versions": [
       13
     ],
     "description": "Configurable event management and registration extension based on ExtBase and Fluid",
-    "hash": "sha256-HMx3g5mshT5JVWWg0dmzCPmLUz0jCOvCHjNoyzNH7ZM="
+    "hash": "sha256-HcZ+xo9Rl7oxoIXKPE6WlVqVwKyeamC81F8gOXATU+A="
   },
   "sf_event_mgt_contentelements": {
     "version": "3.0.1",
@@ -52315,13 +52323,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "shop": {
-    "version": "5.8.1",
+    "version": "5.8.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "Shop for TYPO3 incl. PayPal, PayPal-Checkout (formerly PayPal-Plus), Klarna, Stripe, Bookmarks, UPS-API, Invoice generation, backend module, compare feature, graduated prices and many more - note there is a Pro version as well! See https://www.coding.ms/typo3-extensions/typo3-shop",
-    "hash": "sha256-jBV+dDMMrHokr5k+G6Fwz9sh+Ru1Gdf3P+vgPCvxU0M="
+    "hash": "sha256-r+b9U8EIlJSJ4qApcIZFktjxE1Dbeho3rYiO71AoGUQ="
   },
   "shop3ox": {
     "version": "0.0.3",
@@ -55856,14 +55864,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "static_info_tables_bic_de": {
-    "version": "2.0.0",
+    "version": "2.0.1",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "Database with german bank identifier codes and the associated bank names.",
-    "hash": "sha256-LskATYJWX2uDx/Rxr7tUScanExjnLhknvLQP3/oO5Ro="
+    "hash": "sha256-aAs2OQvMdvV9Qy+YN8Kcles9RE+3k0TucpCI0sKC2L8="
   },
   "static_info_tables_cs": {
     "version": "7.1.0",
