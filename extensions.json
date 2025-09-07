@@ -25686,7 +25686,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "iconpack": {
-    "version": "1.2.1",
+    "version": "1.2.2",
     "t3_versions": [
       10,
       11,
@@ -25694,7 +25694,7 @@
       13
     ],
     "description": "Provides an iconpack-registry for various iconpacks.",
-    "hash": "sha256-POuyZ/3SY9iuIlpH0iSW0AhyE34qRJHxX6RkJYyNko0="
+    "hash": "sha256-thRgxy10UcxXs5s5bPWNtLxmckwYotxoHF0gmtPUp+E="
   },
   "iconpack_bootstrap": {
     "version": "1.3.3",
@@ -50830,14 +50830,14 @@
     "hash": "sha256-bCMkdMOCy2wNJ3Gz6SWr7i1qZ9ZfxkhhegmjmYFHEdo="
   },
   "schema": {
-    "version": "3.14.0",
+    "version": "3.14.1",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "API and view helpers for schema.org markup",
-    "hash": "sha256-La5pR/SSkdgLu7IkFT3BhoZRlCeNv7lx9Rtk8xd20WI="
+    "hash": "sha256-MtcimLTj2WZlwAZhpkQibugM4IRZcWA1uLQpNvVPPcI="
   },
   "schema_auto": {
     "version": "2.3.0",
@@ -53668,12 +53668,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "skjsonlylightbox": {
-    "version": "0.5.0",
+    "version": "0.5.1",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "Provides the pure Javascript GLightbox for text with image and tx_news. Based on jn_lighterbox",
-    "hash": "sha256-cMltFO3/ZJDBFD4Gdae6yaiioEEpO0cVALAicG3o1zw="
+    "hash": "sha256-A9jbpaHSs3B0W+8u3FxdGBp9M5Y4wMSqWsDUiAqItto="
   },
   "skm_locallang_js": {
     "version": "1.0.0",
