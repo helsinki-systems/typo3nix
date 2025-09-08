@@ -12337,12 +12337,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cy_watermark": {
-    "version": "0.6.0",
+    "version": "0.9.0",
     "t3_versions": [
       13
     ],
     "description": "",
-    "hash": "sha256-8a94jTXrUbRsyt58uHH9Jkj2bapuHSaV8M5P7TGzwrU="
+    "hash": "sha256-OSW0LMT3AuBwW7alSOXE0/zDFILgwgHwI8+QjC3JvLE="
   },
   "cyberpeace": {
     "version": "1.0.2",
@@ -17936,12 +17936,12 @@
     "hash": "sha256-WyoWMrqA0A+1a3dQRnojja1tbBuvdX3JL3WtcDlxGWk="
   },
   "events2": {
-    "version": "10.0.3",
+    "version": "10.0.4",
     "t3_versions": [
       13
     ],
     "description": "Create single and recurring events",
-    "hash": "sha256-UbZZ2FrIHbjxek7IP8jaAODHSRe9dV8EnCFg0FOD+bo="
+    "hash": "sha256-18ngbFucIEL/Z6g3bAjeUqv0rLpONOGkACD29v6pdUQ="
   },
   "events2_reserve_connector": {
     "version": "1.0.0",
@@ -21005,7 +21005,7 @@
     "hash": "sha256-nVc4Dgbq6osYm2u4v/JvZGREl9Ir2jROiO3yyEiPDec="
   },
   "flux": {
-    "version": "11.0.4",
+    "version": "11.0.5",
     "t3_versions": [
       10,
       11,
@@ -21013,7 +21013,7 @@
       13
     ],
     "description": "Drop-in page and content templates with nested content feature. Provides multiple condensed integration APIs to use advanced TYPO3 features with little effort.",
-    "hash": "sha256-kcVBBlTtZQl5F3r3WBxXWaco3J5Q6W9qriwEbYlh/6s="
+    "hash": "sha256-hUyq3ji692P2dV54aLBr8i8ZwNlRAKe7W6VRrQ6IFEg="
   },
   "flux_elements": {
     "version": "1.4.1",
@@ -23445,13 +23445,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "glossaries": {
-    "version": "5.0.2",
+    "version": "5.0.3",
     "t3_versions": [
       12,
       13
     ],
-    "description": "Extension for displaying and managing your website glossar. Includes a backend module, statistics, extended authorizations and much more.f",
-    "hash": "sha256-LWnBgyLDXf/Jngg3A6QVKUhOnvmAEToxl7ZiZZawyUE="
+    "description": "Extension for displaying and managing your website glossar. Includes a backend module, statistics, extended authorizations and much more.",
+    "hash": "sha256-aRjxQ6mErcKbbPZgoeA8aKCn3/1W94PTSkuqbgICzdw="
   },
   "glossarify": {
     "version": "0.0.1",
@@ -24691,12 +24691,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "hh_openstreetmap": {
-    "version": "1.1.0",
+    "version": "1.2.0",
     "t3_versions": [
       13
     ],
     "description": "Simple OpenStreetMap",
-    "hash": "sha256-Ka1ZqfivJrb+dd09DWgiWjVZfZf0oySlqY5/VgU0lLU="
+    "hash": "sha256-LgeQxEOCLyaUDjOYLliyJDngEesTLEBZy9QnbtTYih8="
   },
   "hh_powermail_checkboxlink": {
     "version": "0.2.0",
@@ -28978,13 +28978,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "job_finder": {
-    "version": "5.0.1",
+    "version": "5.1.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Job finder extension including job listing, details, application, microdata and more - note there is a Pro version as well! See https://www.coding.ms/typo3-extensions/typo3-job-finder",
-    "hash": "sha256-moeN+PP4celjIBXd49rIpJFYksRqNSt/jVO8ROf92OE="
+    "hash": "sha256-DBNJ36PRfOcSXlvoCUg6YBqOxNSWrAqq4HIBO895yLY="
   },
   "job_market": {
     "version": "2.1.1",
@@ -43244,13 +43244,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "parsedown_extra": {
-    "version": "4.1.1",
+    "version": "4.1.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "Provides a content element which displays markdown files. Parses email links with TYPO3 encryption. ViewHelper for parsing Markdown from individual sources. Defining abbreviations globally by using TypoScript. Code Highlighting.",
-    "hash": "sha256-EpjVSzALIb0PfO3Y8CcOl3er0SVCEYpacuz8a5+4YrE="
+    "hash": "sha256-iea3xqzrTNlfu8U17N6teue2q+6XGvBidy34SQ41ONg="
   },
   "partner": {
     "version": "0.5.21",
@@ -50888,14 +50888,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "schema_pending": {
-    "version": "2.12.0",
+    "version": "2.13.0",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "Extend the schema extension with pending terms",
-    "hash": "sha256-uDVdW5dFxsd8qu17M7kqbRd61ao8DeUhQ6Q7m8R7bnk="
+    "hash": "sha256-8c873oppYJKcbdAek0KlzLJYxvYvXtjwHBxxESdjoYo="
   },
   "schema_virtuallocation": {
     "version": "2.1.0",
@@ -52323,13 +52323,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "shop": {
-    "version": "5.8.2",
+    "version": "5.8.3",
     "t3_versions": [
       12,
       13
     ],
     "description": "Shop for TYPO3 incl. PayPal, PayPal-Checkout (formerly PayPal-Plus), Klarna, Stripe, Bookmarks, UPS-API, Invoice generation, backend module, compare feature, graduated prices and many more - note there is a Pro version as well! See https://www.coding.ms/typo3-extensions/typo3-shop",
-    "hash": "sha256-r+b9U8EIlJSJ4qApcIZFktjxE1Dbeho3rYiO71AoGUQ="
+    "hash": "sha256-Xt+BkrhwX33cpqAmByJ6PsqkWK2nAq4nZK3QFy00mdw="
   },
   "shop3ox": {
     "version": "0.0.3",
@@ -67856,12 +67856,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "z7_semantilizer": {
-    "version": "4.3.1",
+    "version": "4.3.3",
     "t3_versions": [
       13
     ],
     "description": "Simplify your semantic heading structure.",
-    "hash": "sha256-K5skhXTgL+Wx0vMSLWS3/a3PKgDUHHuBf1IGFK1YnJE="
+    "hash": "sha256-1TVFuYIAtMH3hcuOHQ/0e7vn7TbEfnS7uXZY7e9dd4Q="
   },
   "zabbix_client": {
     "version": "13.2.2",
