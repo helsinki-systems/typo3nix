@@ -3757,13 +3757,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.356.12",
+    "version": "3.356.13",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-tf+a0Cx9C7xKPWisshOd1KeqqJQMdzGxZUTC1GzwkS0="
+    "hash": "sha256-Fl5R9qWMEUT39bCF8G1heItDwDR7Pq2+fDKITm30gBU="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -24590,13 +24590,13 @@
     "hash": "sha256-qsVb91W381Ah5wL7o6z9RqpRGdTMCJ/CKYGdCc3xWoI="
   },
   "headless": {
-    "version": "4.7.2",
+    "version": "4.7.3",
     "t3_versions": [
       12,
       13
     ],
     "description": "Makes TYPO3 a headless CMS. Content and pages available in JSON format. Supports multilanguage, multidomain, forms, frontend login, workspaces and more. For JS frontend app see nuxt-typo3 package",
-    "hash": "sha256-NIZ66SnFzyCzKBncd2frk00ipKFfBIl3mzWO9q4P9Z8="
+    "hash": "sha256-k5N1lagUbzt3qgWEppGLS06HLha3TAundG1X/Nfjenk="
   },
   "headless_container": {
     "version": "3.0.0",
@@ -38017,12 +38017,12 @@
     "hash": "sha256-KON3MkLTQO2l6ymxUOD5oeEKPuXQf4ZiKgihG56TgiY="
   },
   "multisite_belogin": {
-    "version": "12.0.4",
+    "version": "13.0.0",
     "t3_versions": [
-      12
+      13
     ],
     "description": "Cross site/domain backend login for TYPO3. It allows backend users to work in the frontend across domains.",
-    "hash": "sha256-RLm0ulGYuXBhSZY+1imLR/slj+1tT7xw0Rs9GucqbNs="
+    "hash": "sha256-rIUpTRp1aS7u0ofG2DCKQtTP7x7K3XuyOz4ESww6XvM="
   },
   "multivote": {
     "version": "0.0.4",
@@ -50830,44 +50830,42 @@
     "hash": "sha256-bCMkdMOCy2wNJ3Gz6SWr7i1qZ9ZfxkhhegmjmYFHEdo="
   },
   "schema": {
-    "version": "3.14.1",
+    "version": "4.0.0",
     "t3_versions": [
-      11,
-      12,
       13
     ],
     "description": "API and view helpers for schema.org markup",
-    "hash": "sha256-MtcimLTj2WZlwAZhpkQibugM4IRZcWA1uLQpNvVPPcI="
+    "hash": "sha256-AEa8n6nMoFgG29jdrHeeU6zxkE38HlTxMkKub6dVCqc="
   },
   "schema_auto": {
-    "version": "2.3.0",
-    "t3_versions": [
-      11,
-      12,
-      13
-    ],
-    "description": "Extend the schema extension with auto-related terms",
-    "hash": "sha256-zzzJGTP3N7zSi1vIbZXzx+87uuWQ3MWtLKgl7yNnabI="
-  },
-  "schema_bib": {
     "version": "2.4.0",
     "t3_versions": [
       11,
       12,
       13
     ],
+    "description": "Extend the schema extension with auto-related terms",
+    "hash": "sha256-U+VbJQ8+uDMAACvX49NKpWvCa0Zz60fV/E19arsJVsA="
+  },
+  "schema_bib": {
+    "version": "2.5.0",
+    "t3_versions": [
+      11,
+      12,
+      13
+    ],
     "description": "Extend the schema extension with bibliographic-related terms",
-    "hash": "sha256-dJddEkVYSeTlJCA66mwnNdjAyMbGECsjH2r/qxocAJQ="
+    "hash": "sha256-Zr8bo+Z1+I3g0h3sNaSQGDMZlMk4xGprMncFverkS9w="
   },
   "schema_health": {
-    "version": "2.9.0",
+    "version": "2.10.0",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "Extend the schema extension with health-related terms",
-    "hash": "sha256-qkaWlNltS4eeQWBwW4IecqeRVDUJksCjPdnFPq4g53U="
+    "hash": "sha256-gnUtsEuw7ghTl/wLYkhu+QwlvBR4IWgckf04FeBgrzQ="
   },
   "schema_injector": {
     "version": "1.0.1",
@@ -50888,23 +50886,24 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "schema_pending": {
-    "version": "2.13.0",
+    "version": "2.14.0",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "Extend the schema extension with pending terms",
-    "hash": "sha256-8c873oppYJKcbdAek0KlzLJYxvYvXtjwHBxxESdjoYo="
+    "hash": "sha256-GdC2ynPK7f/6mUYdqz1O/U8XMAtydc+IjyWAjCrxM7w="
   },
   "schema_virtuallocation": {
-    "version": "2.1.0",
+    "version": "2.2.0",
     "t3_versions": [
       11,
-      12
+      12,
+      13
     ],
     "description": "Add-on to the schema extension, providing VirtualLocation",
-    "hash": "sha256-qtBry1MEAAYBjqGNw4SDUPMXtHC4pvu2GKROAIXlR7M="
+    "hash": "sha256-PU9+TUqb/U1ri02dCfVL8b3W/Els5f/25WEvSYLooE4="
   },
   "schemaker": {
     "version": "3.2.0",
@@ -60181,6 +60180,15 @@
     "description": "Kickstart your TYPO3 project with Threeme. Visit https://www.threeme.de for detailed information. The distribution focus on rapid Frontend development and preconfigurated Backend with low entrylevel for editors.",
     "hash": "sha256-2twQTN4zDARdH+gMUrD896YME3lFDr8PhXobcKRDmf8="
   },
+  "thumb_hash": {
+    "version": "1.0.0",
+    "t3_versions": [
+      12,
+      13
+    ],
+    "description": "Generate ThumbHash for images in TYPO3. Enhance user experience with fast image thumbnails.",
+    "hash": "sha256-62La690/wIuKzFajZkUpHL4GK0AHRBFKYWbpZtTegRU="
+  },
   "thumbsfix": {
     "version": "1.0.0",
     "t3_versions": [],
@@ -64427,13 +64435,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "view_helpers": {
-    "version": "3.0.1",
+    "version": "3.1.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Collection of useful ViewHelpers",
-    "hash": "sha256-NAZbz2S9WtaneanoYOmOpu0E4BR3eS+0rLNQ/sf21xg="
+    "hash": "sha256-+AwO3CThLYLUfSte8VAz0yVlPyS+WVovZ57gl4XEds8="
   },
   "view_statistics": {
     "version": "6.1.4",
