@@ -3757,13 +3757,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.356.13",
+    "version": "3.356.14",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-Fl5R9qWMEUT39bCF8G1heItDwDR7Pq2+fDKITm30gBU="
+    "hash": "sha256-RvH+U7KgXX4cn8vx2h7c/bglHNxyi0TAjn5s8pSoBlQ="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -16722,13 +16722,13 @@
     "hash": "sha256-IURLA09rFCcs7/s8u2XiHi6X43OK4/RBYXs1T5hp5xU="
   },
   "easydb": {
-    "version": "3.1.0",
+    "version": "3.1.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "Integration of easydb / fylr asset management in TYPO3",
-    "hash": "sha256-cS08F9/zUZwmdqA1QqDT48rMkK6gqTu+YCTdKkkv6BM="
+    "hash": "sha256-8xLZjD/oPb8rsr6ioBcvtAVUJTWYMOGq+ka1Gxw+xNY="
   },
   "easyforms": {
     "version": "0.9.5",
@@ -25686,7 +25686,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "iconpack": {
-    "version": "1.2.2",
+    "version": "1.2.4",
     "t3_versions": [
       10,
       11,
@@ -25694,7 +25694,7 @@
       13
     ],
     "description": "Provides an iconpack-registry for various iconpacks.",
-    "hash": "sha256-thRgxy10UcxXs5s5bPWNtLxmckwYotxoHF0gmtPUp+E="
+    "hash": "sha256-iPnxyx0auomb2lX+EQCLXnkSd8jKhZzHaqLi5h8ZYDY="
   },
   "iconpack_bootstrap": {
     "version": "1.3.3",
@@ -50830,12 +50830,12 @@
     "hash": "sha256-bCMkdMOCy2wNJ3Gz6SWr7i1qZ9ZfxkhhegmjmYFHEdo="
   },
   "schema": {
-    "version": "4.0.0",
+    "version": "4.0.1",
     "t3_versions": [
       13
     ],
     "description": "API and view helpers for schema.org markup",
-    "hash": "sha256-AEa8n6nMoFgG29jdrHeeU6zxkE38HlTxMkKub6dVCqc="
+    "hash": "sha256-AwWDFg9ng80OtTLKXiV0IPldHD+0DCqn5AG7liOw9PI="
   },
   "schema_auto": {
     "version": "2.4.0",
@@ -64929,13 +64929,13 @@
     "hash": "sha256-+DblC8ydsK9LQSUvL3eI1WGmkpLyILuhDLb/YIzkt18="
   },
   "warming": {
-    "version": "4.2.1",
+    "version": "4.2.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "Warms up Frontend caches based on an XML sitemap. Cache warmup can be triggered via TYPO3 backend or using a console command. Supports multiple languages and custom crawler implementations.",
-    "hash": "sha256-h1BMNidOqlxVVc/G2C0+Oaod+8/sYrYXbrYGF5P6ljY="
+    "hash": "sha256-wSSjZVTIMOYdr8RhroZyxVq7sw3ZRmqM4BmMLCf6DEU="
   },
   "warmup": {
     "version": "1.3.1",
