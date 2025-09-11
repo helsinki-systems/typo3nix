@@ -1195,12 +1195,12 @@
     "hash": "sha256-Qx7pEfxHzU21N5I2lCBk34qUvM/L0Ij1XDE7AIhUKNI="
   },
   "address": {
-    "version": "13.0.8",
+    "version": "13.0.9",
     "t3_versions": [
       13
     ],
     "description": "Address extension with multiple contact types per address. Code is based on news extension.",
-    "hash": "sha256-1nXUqSHTTlOGiYSqbi7iXRhV7wYZHrdFcBc2qlyr0/o="
+    "hash": "sha256-U1lSfq2h9/eNfnKMv4/lfUJfJVFNHCa/ayGDnyOY6ZE="
   },
   "address_manager": {
     "version": "4.0.7",
@@ -3757,13 +3757,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.356.14",
+    "version": "3.356.15",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-RvH+U7KgXX4cn8vx2h7c/bglHNxyi0TAjn5s8pSoBlQ="
+    "hash": "sha256-4O2IaymDCF19HuwGKSOdF3a9Flb5QUzR3mAgZLiNPaM="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -10142,12 +10142,12 @@
     "hash": "sha256-AfToijkanNxy5yWgP7Vdw03r4FjS4ylg2fCf0SLYwKU="
   },
   "content_blocks": {
-    "version": "1.3.14",
+    "version": "1.3.15",
     "t3_versions": [
       13
     ],
     "description": "TYPO3 CMS Content Blocks - Content Types API | Define reusable components via YAML",
-    "hash": "sha256-/ka3j6tGmqiY4rZOg10stGJkSScqH7A/wnEez6duE40="
+    "hash": "sha256-GJon7C5lxm7rsyoicXHM4DHVBYzsw6ldNcx3l5/LMqM="
   },
   "content_blocks_bootstrap": {
     "version": "0.0.3",
@@ -21642,12 +21642,12 @@
     "hash": "sha256-CN1nAK2dmfTk6hcy2nAercA6NbfnnBuOX1j95cmyle4="
   },
   "form_to_database": {
-    "version": "5.0.0",
+    "version": "5.0.1",
     "t3_versions": [
       13
     ],
     "description": "Extends the TYPO3 form with a very simple database finisher, to save the form-results in the database.",
-    "hash": "sha256-Dn81ktjboAd0VqZnFN2708t4m+CTExm7BzfVb2FkoyQ="
+    "hash": "sha256-agSeXuRZZfOKwtWhgbsV4N3KvxTES1xOzD5CoMsxj2M="
   },
   "form_tools": {
     "version": "2.0.1",
@@ -25325,14 +25325,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "htmltables": {
-    "version": "0.9.11",
+    "version": "0.9.13",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "Create sophisticated HTML tables easily using Inline Records (IRRE)",
-    "hash": "sha256-Ms0z6h1FO2yCQ1xBvrUK76WEOe0RU4pH/nKWbtK3ImM="
+    "hash": "sha256-0sWkJNMkHc0/OPR77CgluGyqD5c+/jer78/8Y05fr74="
   },
   "http2": {
     "version": "3.0.0",
@@ -25686,7 +25686,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "iconpack": {
-    "version": "1.2.4",
+    "version": "1.2.5",
     "t3_versions": [
       10,
       11,
@@ -25694,7 +25694,7 @@
       13
     ],
     "description": "Provides an iconpack-registry for various iconpacks.",
-    "hash": "sha256-iPnxyx0auomb2lX+EQCLXnkSd8jKhZzHaqLi5h8ZYDY="
+    "hash": "sha256-oisG/MivOYa8MQITcclwoilfhVeRB08iYNxXfPNNTzg="
   },
   "iconpack_bootstrap": {
     "version": "1.3.3",
@@ -33328,14 +33328,13 @@
     "hash": "sha256-t0gqOIUAOKi/kMXgs47/cwYU7JK/m7fcCg8s8Rhkm+g="
   },
   "mail_logger": {
-    "version": "4.1.2",
+    "version": "5.0.0",
     "t3_versions": [
-      11,
       12,
       13
     ],
     "description": "This extension logs all your outgoing mails and provides email templates and debugging tools",
-    "hash": "sha256-LsuWfQ/1Q5W+GwXHbR8lD+3Wuu59JVhogKDjWa5a5Qc="
+    "hash": "sha256-arP83UqVO3SGNCShtFMBytvUKmN9OW+LhpEHoEQFwXQ="
   },
   "mail_routing": {
     "version": "0.1.2",
@@ -40706,7 +40705,7 @@
       12,
       13
     ],
-    "description": "The ns_headless_mask TYPO3 extension provides TypoScript setup to generate clean JSON output from EXT:mask for headless CMS integrations",
+    "description": "ns_headless_blog TYPO3 extension helps you render blog content in clean JSON format for headless CMS integrations & modern frontend frameworks",
     "hash": "sha256-DSiIht18LEBcQz11giqQm7x49Uj6Kz9tjF9GuI5hMD8="
   },
   "ns_helpdesk": {
@@ -44883,12 +44882,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "pixxio_extension": {
-    "version": "3.1.0",
+    "version": "3.3.0",
     "t3_versions": [
       13
     ],
     "description": "Integrate pixx.io DAM Digital Asset Management into TYPO3. Use files from your pixx.io media pool with TYPO3 easily and without any detour. Use the search field to search through your pixx.io media library and find the right picture in a flash.",
-    "hash": "sha256-rRqX2n1NQ9Zpz6V3agDetrOsft4rmBS4ZsxrAoKvxoI="
+    "hash": "sha256-nfJFwwjE4CVj72YL40YRM6w/ir42fFjKvcVs39N2cQE="
   },
   "pizpalue": {
     "version": "16.2.0",
@@ -51036,12 +51035,12 @@
     "hash": "sha256-JisNMfNYoiXVZTQ7ocP8MI32iW9PFtfyH09ja6z/b/Q="
   },
   "seal_ai": {
-    "version": "0.0.3",
+    "version": "0.0.4",
     "t3_versions": [
       13
     ],
     "description": "SEAL Search AI - Vector based search based on EXT:seal",
-    "hash": "sha256-B+EBYcrriQet4r0uODZOLfvUwbPFySfHYXvRNICONTw="
+    "hash": "sha256-74T8OxDhm0ktnGwnI7GMKkN0mhhyeuQbAjurg26UFPI="
   },
   "search_suggestions": {
     "version": "1.0.0",
@@ -58747,12 +58746,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "tagging": {
-    "version": "13.0.0",
+    "version": "13.0.1",
     "t3_versions": [
       13
     ],
     "description": "A patch for TYPO3 to easily add tags just like categories to any element",
-    "hash": "sha256-9EvHhp/SvUkDXU6NpSy5RuntO1QQ5NxBSxxoJWCWK0U="
+    "hash": "sha256-vw4n6usjWseF1ZohXR1M+1l3p3WSSPmQx6hwhe618bc="
   },
   "tagpack": {
     "version": "0.12.2",
