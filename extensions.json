@@ -3757,13 +3757,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.356.15",
+    "version": "3.356.16",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-4O2IaymDCF19HuwGKSOdF3a9Flb5QUzR3mAgZLiNPaM="
+    "hash": "sha256-tbshnEyhdE+vDYvwkWRYiv9Lf1PQeSt0ObRe4e2/9gA="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -33377,13 +33377,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mailfiles": {
-    "version": "8.1.0",
+    "version": "8.2.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Upload files and send download links via email. Uses plupload. Please see readme file.",
-    "hash": "sha256-rviQx2D9sWK9fFiEyf+jwracngMCB+T5UGl/KhbYkoM="
+    "hash": "sha256-8M+2LhbeSqqVxllDZ7Zjwh2Ff3xIWdXeNZsjJEJSc+E="
   },
   "mailform": {
     "version": "0.9.35",
@@ -63223,13 +63223,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "typed_extconf": {
-    "version": "0.2.2",
+    "version": "0.2.3",
     "t3_versions": [
       12,
       13
     ],
     "description": "Aims to provide a type-safe extension configuration management for TYPO3, ensuring proper types instead of string-only values from backend configuration or mixed types from config/system/settings.php",
-    "hash": "sha256-Dn7D74Z0zxIQTTLP6cpkxi09UdmWbTRwwPvTSyjo4Ko="
+    "hash": "sha256-Bpzyw4IEkM3zVCPTJjtNRn18QJJaPjpe5MxtbEOl6P8="
   },
   "typo3_ai": {
     "version": "1.1.1",
