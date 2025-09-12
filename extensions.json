@@ -1637,13 +1637,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ai_filemetadata": {
-    "version": "1.3.5",
+    "version": "1.4.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "Automatically generates FAL metadata for files by means of public LLMs",
-    "hash": "sha256-eVMMMjNdZrAltNZt3cyRrRdxdEH3Xg8UM9JBNAxzQY0="
+    "hash": "sha256-949ouCIbpQ+kQ7+CpVy7aQ6af6e42/03MQHEqxZCMI8="
   },
   "ai_seo_helper": {
     "version": "0.7.0",
@@ -1656,12 +1656,12 @@
     "hash": "sha256-VjFx9kagkYZ+UP502oKGTs64zlOsNZ0JCvSkQosql58="
   },
   "ai_suite": {
-    "version": "13.6.1",
+    "version": "13.6.2",
     "t3_versions": [
       13
     ],
     "description": "The AI Suite optimizes the workflow of project managers, agencies and freelancers by using the latest AI technologies. It seamlessly integrates a wide variety of AI interfaces and the AI Suite open source models into the TYPO3 backend. Enables, among other things, more efficient creation and management of image and page metadata (individually and as batch processing), content translations (including \"Easy Language\"), content creation and modification, image generation and page structure generation.",
-    "hash": "sha256-R7q5bz98FUqLkQDuupLCNNXXW2AZPxUOUBanOo2/VgY="
+    "hash": "sha256-bKiD6BcmRpmmhPLO8EOS0Pz//H3Gohl09qvw2sk4ulU="
   },
   "ai_tools": {
     "version": "1.1.0",
@@ -21005,7 +21005,7 @@
     "hash": "sha256-nVc4Dgbq6osYm2u4v/JvZGREl9Ir2jROiO3yyEiPDec="
   },
   "flux": {
-    "version": "11.0.5",
+    "version": "11.0.6",
     "t3_versions": [
       10,
       11,
@@ -21013,7 +21013,7 @@
       13
     ],
     "description": "Drop-in page and content templates with nested content feature. Provides multiple condensed integration APIs to use advanced TYPO3 features with little effort.",
-    "hash": "sha256-hUyq3ji692P2dV54aLBr8i8ZwNlRAKe7W6VRrQ6IFEg="
+    "hash": "sha256-Dl0+05KtB7uZrO9z9JeBmz+oQgyATmemuRtDJHRpVcE="
   },
   "flux_elements": {
     "version": "1.4.1",
@@ -33328,13 +33328,13 @@
     "hash": "sha256-t0gqOIUAOKi/kMXgs47/cwYU7JK/m7fcCg8s8Rhkm+g="
   },
   "mail_logger": {
-    "version": "5.0.0",
+    "version": "5.0.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "This extension logs all your outgoing mails and provides email templates and debugging tools",
-    "hash": "sha256-arP83UqVO3SGNCShtFMBytvUKmN9OW+LhpEHoEQFwXQ="
+    "hash": "sha256-KI7PhYa+3WhPmczIi7nl4daqm72vzMJGKWvwQnIXRjs="
   },
   "mail_routing": {
     "version": "0.1.2",
@@ -33893,13 +33893,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mask": {
-    "version": "9.0.8",
+    "version": "9.0.9",
     "t3_versions": [
       12,
       13
     ],
     "description": "Create your own content elements and page templates. Easy to use, even without programming skills because of the comfortable drag and drop system. Stored in structured database tables. Style your frontend with Fluid tags. Ideal, if you want to switch from Templavoila.",
-    "hash": "sha256-wRunhu68pRPLRfh7NM1heeBWDKDac3/hIHqH6OIFd/w="
+    "hash": "sha256-9s6mbVTqsUIH77OXnWs5kGsWIblQekYALjtM/pHmNhQ="
   },
   "mask_export": {
     "version": "4.0.2",
@@ -34415,13 +34415,13 @@
     "hash": "sha256-Rufnm+YLosmMeCpBHdZQ66H7BBoCnesP8j463TDt6/c="
   },
   "md_notifications": {
-    "version": "1.0.3",
+    "version": "1.0.4",
     "t3_versions": [
       12,
       13
     ],
     "description": "Notify frontend users about the creation of new data records. Every data type can be configured easily, for example pages (blog posts) or tx_news records.",
-    "hash": "sha256-RmZsPp2u2Y6VG84AolsQxchIZtygxn64USedn4n9wWU="
+    "hash": "sha256-4ND3ktSZkbgoqygfaIlQJphCXndUZncn7x80liNW3aQ="
   },
   "md_saml": {
     "version": "4.0.3",
@@ -35709,12 +35709,12 @@
     "hash": "sha256-x4virbFaVbxGtPRqPo/kBp/VT+izVhug/PPoMt+R20c="
   },
   "mindfula11y": {
-    "version": "0.7.0",
+    "version": "0.8.1",
     "t3_versions": [
       13
     ],
     "description": "Find and fix accessibility issues in TYPO3: viewhelpers for semantic headings and landmarks, missing image alt detection and generation with AI (ChatGPT). A backend module for quick remediation. More features to come.",
-    "hash": "sha256-0hNQN2mzTmNFsjXEA0dNqsWW0EDzfJrG1gFfOUJW1Lk="
+    "hash": "sha256-Aiiwi7a2C+IGaPIoSE0jFY1HGWH822l0+H1kr18PWDM="
   },
   "mindmap_import": {
     "version": "0.0.2",
@@ -40372,6 +40372,15 @@
     ],
     "description": "An easy workspace administration tool for editors and reviewers.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "nr_image_optimize": {
+    "version": "1.0.1",
+    "t3_versions": [
+      11,
+      12
+    ],
+    "description": "Advanced image optimization extension for TYPO3. Features include: Lazy image processing (on-demand generation), WebP and AVIF format support with automatic fallback, optimized compression for smaller file sizes, ViewHelper for responsive images with srcset support, middleware for efficient image delivery, and support for Intervention Image library. Perfect for improving Core Web Vitals and page loading performance.",
+    "hash": "sha256-nUaYwHr+6xBN4C/ANsv9BQnC/O2VesKEM4jkUrumDpM="
   },
   "nr_image_sitemap": {
     "version": "13.0.6",
