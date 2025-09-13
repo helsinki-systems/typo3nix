@@ -3757,13 +3757,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.356.16",
+    "version": "3.356.17",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-tbshnEyhdE+vDYvwkWRYiv9Lf1PQeSt0ObRe4e2/9gA="
+    "hash": "sha256-KxXhq0NJP0FPidQZaawfiWRxH87IkdTYJW0i4Q2l4pQ="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -13601,12 +13601,12 @@
     "hash": "sha256-KsCPyfOntBKV1ehGZSnFfOngItMm624sJPya0XgXZ7M="
   },
   "debug_mysql_db": {
-    "version": "1.9.2",
+    "version": "1.9.3",
     "t3_versions": [
       13
     ],
     "description": "Extends \\TYPO3\\CMS\\Core\\Database\\DatabaseConnection and \\TYPO3\\CMS\\Core\\Database\\Connection to show Errors and Debug-Messages. Debugging of sql-queries by debug and FileWriter.",
-    "hash": "sha256-FZC5GpLavLRvf40qYJ2o89nMoYM/xtuxHa1mKBPgIpo="
+    "hash": "sha256-yhYOVmdTVe/vz9BxDZ2M/hgAmIo+KRygPyQCvJKtLxg="
   },
   "debug_settings_task": {
     "version": "2.2.1",
@@ -17272,6 +17272,14 @@
     "t3_versions": [],
     "description": "Find and delete entrys in pages (and regarding entrys in tt_content) which have broken relations (where a left join of pages using pid and uid is NULL). This may be usefull during developement if you are generating and deleting pages as well as content di",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "elevate_to_admin": {
+    "version": "1.0.0",
+    "t3_versions": [
+      11
+    ],
+    "description": "Allow backend users to elevate themselves to admin privileges",
+    "hash": "sha256-rOYH4qvdX95ssHZZh6fd9kvrtMZrK9SMyvDRbNy4R7Q="
   },
   "elnews": {
     "version": "0.0.1",
@@ -25325,14 +25333,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "htmltables": {
-    "version": "0.9.13",
+    "version": "1.0.0",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "Create sophisticated HTML tables easily using Inline Records (IRRE)",
-    "hash": "sha256-0sWkJNMkHc0/OPR77CgluGyqD5c+/jer78/8Y05fr74="
+    "hash": "sha256-g5/29DIMmZAdKGwMaQxL7DBxTEWjcVSgIH5oduqHczE="
   },
   "http2": {
     "version": "3.0.0",
@@ -25686,7 +25694,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "iconpack": {
-    "version": "1.2.5",
+    "version": "1.2.6",
     "t3_versions": [
       10,
       11,
@@ -25694,7 +25702,7 @@
       13
     ],
     "description": "Provides an iconpack-registry for various iconpacks.",
-    "hash": "sha256-oisG/MivOYa8MQITcclwoilfhVeRB08iYNxXfPNNTzg="
+    "hash": "sha256-ydN7vrW41E9yAmmwrqcAVrtPMlRUCJ/Wp3Tj+Pq28BY="
   },
   "iconpack_bootstrap": {
     "version": "1.3.3",
@@ -32859,13 +32867,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "lux": {
-    "version": "39.0.0",
+    "version": "39.1.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Living User Experience - LUX - the Marketing Automation tool for TYPO3.",
-    "hash": "sha256-Uq0MXzbdg1c+mfWCtRlhjiHORWw4AUC8COinfO31jsU="
+    "hash": "sha256-iFuSPN9K52afliCT2YjTebccLt/qpUdYVYJQJmtNskM="
   },
   "luxletter": {
     "version": "27.2.3",
