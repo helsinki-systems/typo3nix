@@ -1212,12 +1212,13 @@
     "hash": "sha256-9R04ap1pdwL1ZnCzBW47nWCfarN00qS15S71veAE/mQ="
   },
   "addresses": {
-    "version": "1.1.0",
+    "version": "1.1.1",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "Address lists or selected records. Demo at: microtemplate.t3brightside.com",
-    "hash": "sha256-SVH2AcSl/ViG6Yq9KbL5bVoXhERPbS3Wt9e4veWDGhk="
+    "hash": "sha256-qfTmBd68tdVcZwQWnbsk+x6JAdUyJ8nsfOLizXKqL2c="
   },
   "addressespersonnel": {
     "version": "1.0.0",
@@ -3542,6 +3543,15 @@
     ],
     "description": "Plugin for a sitemap and menu which groups the first four menus in first four columns and all others in a fifth column. Great menus will get a linebreak. Configuration is based on TypoScript HMENU.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "autosuggest": {
+    "version": "13.0.0",
+    "t3_versions": [
+      12,
+      13
+    ],
+    "description": "A TYPO3 extension that adds auto suggestion for frontend and backend input fields.",
+    "hash": "sha256-03IaohlYfKY4Z0htD3edEmOdDmQgMkaFbswalLy+/EA="
   },
   "autoswitchtolistview": {
     "version": "2.0.3",
@@ -12337,12 +12347,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cy_watermark": {
-    "version": "0.9.0",
+    "version": "0.9.2",
     "t3_versions": [
       13
     ],
     "description": "",
-    "hash": "sha256-OSW0LMT3AuBwW7alSOXE0/zDFILgwgHwI8+QjC3JvLE="
+    "hash": "sha256-om7YUfVjjFRZ3q5aQlJTO3N2Q1bi1AM2MUWeCGWjRXw="
   },
   "cyberpeace": {
     "version": "1.0.2",
@@ -44194,12 +44204,13 @@
     "hash": "sha256-bsRglACUyJ4FtRXAmmq/00yPuh4ny0gw8xEqpHY614Y="
   },
   "personnel": {
-    "version": "4.2.1",
+    "version": "4.2.2",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "Persons contact lists with vCard support. Demo: microtemplate.t3brightside.com",
-    "hash": "sha256-sZq/y5QTNrI+LoCHbr857MIqgxYREy7GonKRY61LM3c="
+    "hash": "sha256-enD2w//3x36+yeui1g1QNqD8Wy/DZ1g4JPeRq7V43ig="
   },
   "persons": {
     "version": "1.0.0",
