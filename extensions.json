@@ -21023,7 +21023,7 @@
     "hash": "sha256-nVc4Dgbq6osYm2u4v/JvZGREl9Ir2jROiO3yyEiPDec="
   },
   "flux": {
-    "version": "11.0.6",
+    "version": "11.0.7",
     "t3_versions": [
       10,
       11,
@@ -21031,7 +21031,7 @@
       13
     ],
     "description": "Drop-in page and content templates with nested content feature. Provides multiple condensed integration APIs to use advanced TYPO3 features with little effort.",
-    "hash": "sha256-Dl0+05KtB7uZrO9z9JeBmz+oQgyATmemuRtDJHRpVcE="
+    "hash": "sha256-odsgK4DF37dn2srGCUl2ivSfc3T+q5ps3XQiFX6BUro="
   },
   "flux_elements": {
     "version": "1.4.1",
@@ -33311,14 +33311,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mail": {
-    "version": "3.7.2",
+    "version": "3.8.0",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "Powerful newsletter system for TYPO3",
-    "hash": "sha256-w7uFAxSaK/woRSgMAMZu5DaaJ5QUCTsbov5/HxYMfdA="
+    "hash": "sha256-QSf0/ol7iLApoJGUW+uAD/hxUEVffpsa0HznOxLlCqY="
   },
   "mail2news": {
     "version": "2.0.3",
@@ -38480,13 +38480,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "myttaddressmap": {
-    "version": "2.3.4",
+    "version": "2.3.5",
     "t3_versions": [
       12,
       13
     ],
     "description": "Google maps for tt_address with radial search and categories",
-    "hash": "sha256-TUMKUEselo6iQSlaKZ6CGls7Fla+II84bRE6JrYPwtU="
+    "hash": "sha256-XAWOVBMea2QvgCkjE99RITNlRgRC6Ank+OLdTAwHyNk="
   },
   "mytypo3": {
     "version": "0.1.1",
@@ -67200,13 +67200,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "xima_typo3_content_planner": {
-    "version": "1.5.4",
+    "version": "1.5.5",
     "t3_versions": [
       12,
       13
     ],
     "description": "This extension provides a page status functionality to support the planning of content work.",
-    "hash": "sha256-6aSZK4WemRln/uQ3AB3dy+kvaPovltc5RdzauEBuY/s="
+    "hash": "sha256-0gajc+qYt+TXB92TxUKYwsLprPM/4xNGwYSfr35EaqU="
   },
   "xima_typo3_frontend_edit": {
     "version": "1.7.1",
