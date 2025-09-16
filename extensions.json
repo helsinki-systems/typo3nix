@@ -2385,12 +2385,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ameos_filemanager": {
-    "version": "3.0.4",
+    "version": "3.1.1",
     "t3_versions": [
-      12
+      13
     ],
     "description": "This will allow you to fully handle file upload in FE context",
-    "hash": "sha256-FsHKazEO7HoEiUEpZ6XHI75NWh8oGtGduseSB/NpnU0="
+    "hash": "sha256-FfQYxGAqEVA2r1qSKSFLp/SEEeEsJ919SccQnsjP95w="
   },
   "ameos_form": {
     "version": "2.1.1",
@@ -2470,7 +2470,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ameos_tarteaucitron": {
-    "version": "3.7.0",
+    "version": "3.8.0",
     "t3_versions": [
       9,
       10,
@@ -2479,7 +2479,7 @@
       13
     ],
     "description": "Integrates tarteaucitron.js in TYPO3 (see : https://tarteaucitron.io )",
-    "hash": "sha256-DbG6u606lu8JFZvws7IZpTYlrSR6Dj9IoNm5+JFbgpo="
+    "hash": "sha256-sj7S97dN9Rky/MJhQgs7Hyr6s/7KZ+Bwaq6eQYuCsNw="
   },
   "ameos_typo3_vulnerabilities": {
     "version": "1.0.0",
@@ -3767,13 +3767,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.356.17",
+    "version": "3.356.18",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-KxXhq0NJP0FPidQZaawfiWRxH87IkdTYJW0i4Q2l4pQ="
+    "hash": "sha256-pGXmExFYf1u2fGeXPR77x0YjPFNW4mj1yMJGeHoxMnw="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -8205,13 +8205,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "celum_connect_fal": {
-    "version": "2.0.14",
+    "version": "3.0.1",
     "t3_versions": [
-      11,
-      12
+      12,
+      13
     ],
     "description": "Provides a FAL driver for the CELUM DAM.",
-    "hash": "sha256-hVsqvj+ipU79S6b9gvLyeA3WNOZ5hWFGLezGgXlnyXY="
+    "hash": "sha256-BKv0QmrRJepnSO77SfkLJYtyjcgvlFyEcRaFo/sJgJs="
   },
   "cen_csvexport": {
     "version": "1.1.2",
@@ -21660,12 +21660,12 @@
     "hash": "sha256-CN1nAK2dmfTk6hcy2nAercA6NbfnnBuOX1j95cmyle4="
   },
   "form_to_database": {
-    "version": "5.0.1",
+    "version": "5.0.2",
     "t3_versions": [
       13
     ],
     "description": "Extends the TYPO3 form with a very simple database finisher, to save the form-results in the database.",
-    "hash": "sha256-agSeXuRZZfOKwtWhgbsV4N3KvxTES1xOzD5CoMsxj2M="
+    "hash": "sha256-l4xJnc2+YO8k0scK8wfA9PVz5ZlcA3GSk6nhgjskDaA="
   },
   "form_tools": {
     "version": "2.0.1",
@@ -24735,12 +24735,12 @@
     "hash": "sha256-E0WhzZ/5vx/d19SXPvd9wgRbG2+1tk7Ejad3HfJFZNg="
   },
   "hh_simple_job_posts": {
-    "version": "5.1.1",
+    "version": "5.2.0",
     "t3_versions": [
       13
     ],
     "description": "Adds plugins for list / show job postings with meta-data and schema.org stuff. Uses tt_address for job-contacts and job-location.",
-    "hash": "sha256-B3UTfZUVvHdGwoin+h+haDxnK0tnR10QK/lYuLWyWkc="
+    "hash": "sha256-afU9L7B+j3ES1pRnyMzXZNKT1l5G0XAY8S2+8jIF5r4="
   },
   "hh_slider": {
     "version": "0.8.2",
@@ -40185,13 +40185,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "nlp_tools": {
-    "version": "1.2.0",
+    "version": "1.3.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Natural Language Processing tools for TYPO3 with language detection, stemming, stop words filtering, and text clustering",
-    "hash": "sha256-S3Vwot8bkuvTeFmznoBulSovzt9aTpPkAVqV2LH6Qx0="
+    "hash": "sha256-DYZOB3LiH7Ze21KhFekMplYi8oLMGo3r5ztHipqRFr8="
   },
   "nn_address": {
     "version": "2.4.1",
@@ -45504,12 +45504,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "powermail": {
-    "version": "13.0.2",
+    "version": "13.0.3",
     "t3_versions": [
       13
     ],
     "description": "Powermail is a well-known, editor-friendly, powerful",
-    "hash": "sha256-5meYSlOxKaJ2YvqmePYR/sA0I9C1xYnCBfAWfbW5SKQ="
+    "hash": "sha256-n3XTsjRAKwn7ggCJ8ksKU7+A0HZzx7CjrXcmTL11Qmo="
   },
   "powermail2document": {
     "version": "1.6.1",
@@ -51319,13 +51319,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "semantic_suggestion": {
-    "version": "2.0.1",
+    "version": "2.3.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "TYPO3 extension for suggesting semantically related pages",
-    "hash": "sha256-jJcHR3Cy+fgxVTRPQhI5IYeYuHS+0AQavPcUvDskywA="
+    "hash": "sha256-6oL7UOUovb59GET245wDdl+u5wVBtvDiFI3gB/O4VHw="
   },
   "semantify_it": {
     "version": "0.1.8",
@@ -58922,12 +58922,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "taskqueue": {
-    "version": "9.4.0",
+    "version": "9.4.1",
     "t3_versions": [
       13
     ],
     "description": "Provides a task queue for other extensions to use.",
-    "hash": "sha256-FUqggu5Dd1rdgC3Rs87vYT7y9OcYqYzfbw257VZPRJs="
+    "hash": "sha256-YcShgAK0xm5vUbACBdZ7FGb/p6uHf/ausM73xnLhPcU="
   },
   "taxajax": {
     "version": "1.4.0",
@@ -67200,13 +67200,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "xima_typo3_content_planner": {
-    "version": "1.5.5",
+    "version": "1.5.6",
     "t3_versions": [
       12,
       13
     ],
     "description": "This extension provides a page status functionality to support the planning of content work.",
-    "hash": "sha256-0gajc+qYt+TXB92TxUKYwsLprPM/4xNGwYSfr35EaqU="
+    "hash": "sha256-ONsGwbM36NFxSVV39oneEReZRjF2lNO7nT+qcSsO7Hk="
   },
   "xima_typo3_frontend_edit": {
     "version": "1.7.1",
