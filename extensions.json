@@ -3767,13 +3767,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.356.18",
+    "version": "3.356.19",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-pGXmExFYf1u2fGeXPR77x0YjPFNW4mj1yMJGeHoxMnw="
+    "hash": "sha256-d9JkW24FuBkGkZDJhHtd+7OmTKnzhZCGX7nlM/0arxA="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -6060,12 +6060,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "bulma_package": {
-    "version": "4.1.0",
+    "version": "4.1.2",
     "t3_versions": [
       13
     ],
     "description": "Bulma Package delivers a full configured frontend theme for TYPO3, based on the Bulma CSS Framework.",
-    "hash": "sha256-owe4BoVGdOHTuE2sheHvBHq1bKqTXalXxiHWtrtHXx4="
+    "hash": "sha256-D6hNe/Vogq6h2l8kcoObjld4cj6QBBJ+bou6BZJkQX4="
   },
   "burmeesmenu": {
     "version": "0.1.10",
@@ -13710,13 +13710,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "deferred_image_processing": {
-    "version": "3.0.1",
+    "version": "3.0.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "Handles image processing on request instead of during page generation",
-    "hash": "sha256-ZCt04YZYmh2FFA6/jlZ7MlaSx9T6nBF+VpckrpY+Ak0="
+    "hash": "sha256-YO8ifonx07EP9+d5k0fB79RL10HnAzdkO+pg/EUK1xA="
   },
   "dejure_org": {
     "version": "11.0.0",
@@ -17039,12 +17039,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "editor_widgets": {
-    "version": "2.1.9",
+    "version": "2.1.10",
     "t3_versions": [
       13
     ],
     "description": "Collection of useful dashboard widgets focused on editors",
-    "hash": "sha256-ednUrRlMuwOfd8UXoqzY3nJKCbal4RdMD9EKi3VvEWs="
+    "hash": "sha256-lvdRhqDsaAQAtzfFjD8M7uTmQNeR93mYirdYm8o82nQ="
   },
   "editors_choice": {
     "version": "2.1.0",
@@ -17284,12 +17284,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "elevate_to_admin": {
-    "version": "1.0.0",
+    "version": "2.0.0",
     "t3_versions": [
-      11
+      12,
+      13
     ],
     "description": "Allow backend users to elevate themselves to admin privileges",
-    "hash": "sha256-rOYH4qvdX95ssHZZh6fd9kvrtMZrK9SMyvDRbNy4R7Q="
+    "hash": "sha256-gbekrNXyAgdxLi2J6Vp8rLT15/uSD/MAtwtqZ+545jo="
   },
   "elnews": {
     "version": "0.0.1",
@@ -19932,13 +19933,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fh_debug": {
-    "version": "0.18.0",
+    "version": "0.18.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "This generates a PHP debug output file. FileWriter into debug",
-    "hash": "sha256-47c4qOLSeyXAk1+GsVFJ5Lb13e8zucWc7AKp7Wz4d8g="
+    "hash": "sha256-I80d70oPlsuxu5g4XmfJvlwxNzCdNFr5+K4hoZtYYMM="
   },
   "fh_library": {
     "version": "0.0.20",
@@ -36190,13 +36191,13 @@
     "hash": "sha256-phRL0foWA1dZnNn7md29fWHqxnBhyYIrWqGysoS95EY="
   },
   "mksearch": {
-    "version": "12.0.14",
+    "version": "12.0.15",
     "t3_versions": [
       11,
       12
     ],
     "description": "Generic highly adjustable and extendable search engine framework, using Zend Lucene, Apache Solr or ElasticSearch. But support for other search engines can be provided easily.",
-    "hash": "sha256-TqV1Vu5OEkqQo9VRewMxXXkqv8ztDd01yCEU1linmB8="
+    "hash": "sha256-fJdSOxqFiF8KZwp480YqemrezZrt7rVve3zNq4IIdbM="
   },
   "mktools": {
     "version": "12.0.2",
@@ -38048,7 +38049,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mv_analysis_index": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "t3_versions": [
       9,
       10,
@@ -38056,7 +38057,7 @@
       12
     ],
     "description": "Renders an analysis index based on medicalvalues data management.",
-    "hash": "sha256-flT+T+pOEVhJuWXX+12OxzaiPeLddcct0lW9cnMb3gI="
+    "hash": "sha256-kD+dFZgfTJhQ1+oc0JY92frs1AeJjBsS6cc5im2XGkk="
   },
   "mv_columns_number": {
     "version": "0.3.0",
@@ -40392,13 +40393,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "nr_image_optimize": {
-    "version": "1.0.1",
+    "version": "2.0.1",
     "t3_versions": [
-      11,
-      12
+      13
     ],
-    "description": "Advanced image optimization extension for TYPO3. Features include: Lazy image processing (on-demand generation), WebP and AVIF format support with automatic fallback, optimized compression for smaller file sizes, ViewHelper for responsive images with srcset support, middleware for efficient image delivery, and support for Intervention Image library. Perfect for improving Core Web Vitals and page loading performance.",
-    "hash": "sha256-nUaYwHr+6xBN4C/ANsv9BQnC/O2VesKEM4jkUrumDpM="
+    "description": "Advanced image optimization extension for TYPO3 13. Features include: Lazy image processing (on-demand generation), WebP and AVIF format support with automatic fallback, optimized compression for smaller file sizes, ViewHelper for responsive images with srcset support, middleware for efficient image delivery, and support for Intervention Image library. Perfect for improving Core Web Vitals and page loading performance.",
+    "hash": "sha256-PT0kqD/QnGJKTjnkMAAjvTRNlTYayF+8BwwGdORJNKg="
   },
   "nr_image_sitemap": {
     "version": "13.0.6",
@@ -51319,13 +51319,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "semantic_suggestion": {
-    "version": "2.3.0",
+    "version": "2.3.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "TYPO3 extension for suggesting semantically related pages",
-    "hash": "sha256-6oL7UOUovb59GET245wDdl+u5wVBtvDiFI3gB/O4VHw="
+    "hash": "sha256-3YmW8KK0GMW54V5ngzRBk6CPkH+LFRsjOc63t+1O3k4="
   },
   "semantify_it": {
     "version": "0.1.8",
