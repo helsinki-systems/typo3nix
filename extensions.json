@@ -3767,13 +3767,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.356.19",
+    "version": "3.356.20",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-d9JkW24FuBkGkZDJhHtd+7OmTKnzhZCGX7nlM/0arxA="
+    "hash": "sha256-3YT9HDDeqsaACvuwN0hVk49km5Jg3o5QlBeQX3E+VpY="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -21989,13 +21989,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "foundation": {
-    "version": "3.0.2",
+    "version": "3.1.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Configuration framework for TYPO3 extension development",
-    "hash": "sha256-CviXILReBC1eXNH+NWThQGIF/HJSdP6u5YHDUGt9Vko="
+    "hash": "sha256-ZOfa2EEwuVAetU8fG1+SxmghmExRl+N0R/Vu0Nwh1nU="
   },
   "foundation_grids": {
     "version": "2.0.0",
@@ -24736,12 +24736,12 @@
     "hash": "sha256-E0WhzZ/5vx/d19SXPvd9wgRbG2+1tk7Ejad3HfJFZNg="
   },
   "hh_simple_job_posts": {
-    "version": "5.2.0",
+    "version": "5.2.1",
     "t3_versions": [
       13
     ],
     "description": "Adds plugins for list / show job postings with meta-data and schema.org stuff. Uses tt_address for job-contacts and job-location.",
-    "hash": "sha256-afU9L7B+j3ES1pRnyMzXZNKT1l5G0XAY8S2+8jIF5r4="
+    "hash": "sha256-a7k0jLdJ2pJgjuxullrUaRBdZFb7Y5DpD5SFgFj+ELQ="
   },
   "hh_slider": {
     "version": "0.8.2",
@@ -26661,12 +26661,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "imageoptimizer": {
-    "version": "5.1.0",
+    "version": "5.1.1",
     "t3_versions": [
       13
     ],
     "description": "Optimize uploaded/processed images with binaries of your choice",
-    "hash": "sha256-a0W3uttgGfWAzgPHR6qoGCooRuoLtIOhUUbj7MPLcgA="
+    "hash": "sha256-rjQwnuKLOb1ZJdp4140b7cXq3tPyeiJ+e7DQtfrEM1I="
   },
   "imagerotation": {
     "version": "0.1.1",
@@ -34018,14 +34018,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "matomo_integration": {
-    "version": "2.3.0",
+    "version": "2.4.0",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "Matomo integration for TYPO3",
-    "hash": "sha256-PQXKi1mO1UokioRolEC7L3c8JyVx3xQX5LCqIVHetw0="
+    "hash": "sha256-BPmopYWjzrzrSLuiXGLChYEvt6ePlCyCQfkW0Mn4idk="
   },
   "matomo_optout": {
     "version": "1.2.0",
@@ -34443,12 +34443,12 @@
     "hash": "sha256-4ND3ktSZkbgoqygfaIlQJphCXndUZncn7x80liNW3aQ="
   },
   "md_saml": {
-    "version": "4.0.3",
+    "version": "4.0.4",
     "t3_versions": [
       13
     ],
     "description": "SSO frontend or backend login with SAML authentication.",
-    "hash": "sha256-6EQ32/uZZ3HtnpPOGUmLN+fHWVUQGBa9TJKeL094fUQ="
+    "hash": "sha256-VhEhGY3zX3uKdhDnFUOxRd/aI/I0h8HaEAZ9tO/6Pl0="
   },
   "md_unreadnews": {
     "version": "5.0.3",
@@ -36695,13 +36695,13 @@
     "hash": "sha256-QBq7RgOtpBz21jSQfzIxEurNCmBZlHvZXZt3wzoyyMw="
   },
   "modules": {
-    "version": "7.4.1",
+    "version": "7.4.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "Frontend-User-Registration, Profile, Invitations, Listing with detailview, Addressmanagement, Frontend-Recordmanagement. User friendly Backendmodule for managing Frontend- and Backend-Users and other Records. Toolbox for frontend and backend modules in TYPO3.",
-    "hash": "sha256-8X6svfYN2AjkVlNDfycXQ3PY351Ds4nRZNvQ6L1Rlew="
+    "hash": "sha256-Xd2sVbAEe7X6IC6NmmzhQgIBEG/JzT8/2AYvWfy2heI="
   },
   "modulis_animated_gif": {
     "version": "0.0.4",
@@ -40393,12 +40393,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "nr_image_optimize": {
-    "version": "2.0.1",
+    "version": "2.1.0",
     "t3_versions": [
       13
     ],
     "description": "Advanced image optimization extension for TYPO3 13. Features include: Lazy image processing (on-demand generation), WebP and AVIF format support with automatic fallback, optimized compression for smaller file sizes, ViewHelper for responsive images with srcset support, middleware for efficient image delivery, and support for Intervention Image library. Perfect for improving Core Web Vitals and page loading performance.",
-    "hash": "sha256-PT0kqD/QnGJKTjnkMAAjvTRNlTYayF+8BwwGdORJNKg="
+    "hash": "sha256-i1RLPwgrBDe/1+ES0gUubN3BIC6pWUpvAU9qTzeIrQA="
   },
   "nr_image_sitemap": {
     "version": "13.0.6",
@@ -47019,13 +47019,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "questions": {
-    "version": "5.0.1",
+    "version": "5.0.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "Questions is a frequently asked questions (FAQ) extension for TYPO3. It's compatible with following extensions: shop, ",
-    "hash": "sha256-RRe+yqovXPSg/MPrhCCbyAy2oe0mM+ybj0AVI6sy/Sk="
+    "hash": "sha256-8Kh5gIGHXQpSMwvaDZA18foJFJevBY7IJew4q+0hYWI="
   },
   "quick_shop": {
     "version": "10.0.12",
@@ -47637,13 +47637,13 @@
     "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
   },
   "recordmodules": {
-    "version": "1.1.1",
+    "version": "1.1.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "Adds backend modules for configured record types.",
-    "hash": "sha256-67YMSrSMYjTvSxNvvPgBDx4J7Xymyh1t+sXYquWm4Us="
+    "hash": "sha256-cVUVjfuD3NTnOYNexORnuB5wPdXTVdT+mmBILsLhlaw="
   },
   "recordsmanager": {
     "version": "1.7.0",
@@ -51319,13 +51319,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "semantic_suggestion": {
-    "version": "2.3.1",
+    "version": "3.1.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "TYPO3 extension for suggesting semantically related pages",
-    "hash": "sha256-3YmW8KK0GMW54V5ngzRBk6CPkH+LFRsjOc63t+1O3k4="
+    "hash": "sha256-uNoaTktwev/hWFDLhZ/uYGVHLD8Jb6hOc56bmB6SJlA="
   },
   "semantify_it": {
     "version": "0.1.8",
@@ -58595,14 +58595,14 @@
     "hash": "sha256-03kws4QYWThdiF7DS6RyY2pM9G+ATTH5v2UhBv6nUxU="
   },
   "t5_bootstrap5_components": {
-    "version": "1.4.4",
+    "version": "1.4.16",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "Provide bootstrap components",
-    "hash": "sha256-9GBbBx0gIyD+rEvXhe36p5ykVqBrUZHJx2eQkb7v9CE="
+    "hash": "sha256-LPVMeTJNDn0Z7NlOjSJ07h8jEY0gt7LtqZxBOYgg32w="
   },
   "t5_bootstrap_form": {
     "version": "4.13.23",
@@ -63251,13 +63251,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "typed_extconf": {
-    "version": "0.2.3",
+    "version": "0.2.4",
     "t3_versions": [
       12,
       13
     ],
     "description": "Aims to provide a type-safe extension configuration management for TYPO3, ensuring proper types instead of string-only values from backend configuration or mixed types from config/system/settings.php",
-    "hash": "sha256-Bpzyw4IEkM3zVCPTJjtNRn18QJJaPjpe5MxtbEOl6P8="
+    "hash": "sha256-YGCJLjdAqDwLEsvn6NhzqLGctd3ieAL39eGQDVJBkNo="
   },
   "typo3_ai": {
     "version": "1.1.1",
@@ -63364,12 +63364,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "typo3_graphql": {
-    "version": "1.0.2",
+    "version": "3.0.0",
     "t3_versions": [
-      12
+      13
     ],
     "description": "This extension provides a GraphQL API for TYPO3.",
-    "hash": "sha256-se61oteiP9nP5Rcwy5lNZIbGy5zbCHYMrSplkcHbLks="
+    "hash": "sha256-5mIJluLVlAPmkNbbq5fZ65FoDPZllrtnAOu3Eu0DodY="
   },
   "typo3_heatmap": {
     "version": "0.3.0",
@@ -63655,12 +63655,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "uniolbeuser": {
-    "version": "1.0.1",
+    "version": "1.0.3",
     "t3_versions": [
       12
     ],
     "description": "",
-    "hash": "sha256-56T/P4tDefm2x72Rn/JDDtIcqQZKvVV5YsP1BIud8Os="
+    "hash": "sha256-NFrrkLgA190uLAhNkkK564DLqoOQsdAFHLrs+aePAmg="
   },
   "univie_pure": {
     "version": "12.4.524",
