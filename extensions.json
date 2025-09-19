@@ -3296,16 +3296,17 @@
     "hash": "sha256-7LRYxhSO8TF9G6oqiBgV1to6GNJc7nY37Llu+88XUCU="
   },
   "auth0_sso": {
-    "version": "2.0.1",
+    "version": "2.0.2",
     "t3_versions": [
       8,
       9,
       10,
       11,
-      12
+      12,
+      13
     ],
-    "description": "Auth0 extension for Typo3 allows your backend and frontend users to log into TYPO3 using Auth0 credentials.",
-    "hash": "sha256-2QtmZdKb88HD9LTELuiR4HBTMmWhdJy+wcB8NyXOQU8="
+    "description": "TYPO3 Auth0 SSO extension by miniOrange allows both TYPO3 backend and frontend users to log in securely using their Auth0 credentials. By integrating TYPO3 with Auth0, this extension eliminates the need for separate TYPO3 accounts, streamlines authentication, and enhances user experience.This extension is fully compatible with TYPO3 v13. ",
+    "hash": "sha256-ArgqjEKtF05Jjy25LFnr4+KCs20ld22L2WV4tvId11M="
   },
   "auth_certificate": {
     "version": "0.2.0",
@@ -30535,16 +30536,17 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "keycloak_sso": {
-    "version": "2.0.1",
+    "version": "2.0.2",
     "t3_versions": [
       8,
       9,
       10,
       11,
-      12
+      12,
+      13
     ],
-    "description": "Keycloak SSO extension for Typo3 allows your backend and frontend users to log into TYPO3 using Keycloak credentials.",
-    "hash": "sha256-hb2vV2lSk8eWaKg1f0KuauEMNjv459wB7VcgRWBurHk="
+    "description": "TYPO3 Keycloak SSO extension by miniOrange enables seamless Single Sign-On for both TYPO3 backend and frontend users using their Keycloak credentials. Simplify the login process and enhance user experience by enabling admins and website visitors to access your Magento store using their existing Keycloak credentials. This extension is fully compatible with TYPO3 v13.",
+    "hash": "sha256-DuASMEtxxeilLy7dILXuWcepxbU8hvPwzUucl20I6wk="
   },
   "keywordsmenu": {
     "version": "0.0.3",
@@ -31947,14 +31949,13 @@
     "hash": "sha256-Q5zr7h9sAyGBCVX8dlPqKyahZLCwQBuI6yNiDvSnPnQ="
   },
   "lib_jquery": {
-    "version": "4.0.3",
+    "version": "5.0.0",
     "t3_versions": [
-      10,
-      11,
-      12
+      12,
+      13
     ],
     "description": "Integrates the jQuery-library from CDN with a local fallback if requested library is not available. All relevant versions of jQuery (including minified and gzipped-versions) are shipped with this extension.",
-    "hash": "sha256-DlxPlg6+00Pj4zAuqv0pBi4djis3phsdX0u30W8QSxU="
+    "hash": "sha256-x5vd29L7v1c78HOicVTQJPVYAcF57vOgdi2+BInP9/Q="
   },
   "lib_jquery_colorbox": {
     "version": "0.0.3",
@@ -36036,13 +36037,13 @@
     "hash": "sha256-VQx5mRteRKYOJMZwY5kse4LAkdYXkyWrnx5U6hSQyrU="
   },
   "mkcleaner": {
-    "version": "12.0.1",
+    "version": "13.0.0",
     "t3_versions": [
-      11,
-      12
+      12,
+      13
     ],
     "description": "Cleans files by removing any metadata with the help of mat2, exiftool and qpdf according to BSI guidelines.",
-    "hash": "sha256-6H05DwRy5TP7I2m3O6nKftHQjQVN7MRXdeMYYlAY3V8="
+    "hash": "sha256-1qh8G1YH5slBHE+3Tw7LtMgSQuVx5WtfPJ4Sk9JPDtw="
   },
   "mkcontentai": {
     "version": "13.0.12",
@@ -41274,16 +41275,17 @@
     "hash": "sha256-VeBL0f2XaRr0bSWdu540LJVcEP6ovUDWxETKhVsvPWY="
   },
   "oauth_openid_single_sign_on": {
-    "version": "1.1.0",
+    "version": "1.1.1",
     "t3_versions": [
       8,
       9,
       10,
       11,
-      12
+      12,
+      13
     ],
-    "description": "Typo3 OAuth / OpenID Connect Single Sign-On SSO extension by miniOrange allows your users (Frontend & Backend) to login (Single Sign-On) into Typo3 with Azure AD, Azure B2C, AWS Cognito, Office 365, WSO2, Okta, Salesforce, Discord, Keycloak, PingFederate, OneLogin or other custom OAuth 2.0 providers. Typo3 OAuth / OIDC extension can be used for authorization and authentication purposes with any OAuth / OIDC Provider that conforms to the OAuth 2.0 and OpenID Connect (OIDC) standards. Typo3 OAuth / OpenID Connect Single Sign-On SSO provides user authentication with OAuth & OpenID Connect protocol and allows authorized users to login into the Typo3 site. We provide features like Attribute Mapping & Role Mapping which help to map user data returned from your OAuth Provider to Typo3. You can add an SSO Login Button on both your Typo3 frontend and backend (Admin Panel) login page with our extension.",
-    "hash": "sha256-nN4z6hcQRoRfx7fEcXVGTlpC8JMQ8CxVGMksmaXva/U="
+    "description": "Typo3 OAuth / OpenID Connect Single Sign-On SSO extension by miniOrange allows your users (Frontend & Backend) to login (Single Sign-On) into Typo3 with Azure AD, Azure B2C, AWS Cognito, Office 365, WSO2, Okta, Salesforce, Discord, Keycloak, PingFederate, OneLogin or other custom OAuth 2.0 providers. Typo3 OAuth / OIDC extension can be used for authorization and authentication purposes with any OAuth / OIDC Provider that conforms to the OAuth 2.0 and OpenID Connect (OIDC) standards. Typo3 OAuth / OpenID Connect Single Sign-On SSO provides user authentication with OAuth & OpenID Connect protocol and allows authorized users to login into the Typo3 site. We provide features like Attribute Mapping & Role Mapping which help to map user data returned from your OAuth Provider to Typo3. You can configure and enable SSO Login on both your Typo3 frontend and backend (Admin Panel) login page with our extension. This extension is fully compatible with TYPO3 v13.",
+    "hash": "sha256-xjONUQbBlF00c7dsn6le95Dcu8igBf/mFaVusJKMEcw="
   },
   "objmgr": {
     "version": "1.0.0",
@@ -48057,14 +48059,15 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "resourcehints": {
-    "version": "1.0.2",
+    "version": "1.0.3",
     "t3_versions": [
       10,
       11,
-      12
+      12,
+      13
     ],
     "description": "Adds external hosts to the HTML-header for DNS-refetching.",
-    "hash": "sha256-VwkHgGexqhf7xNNkcOsSkm/FCa5J6ODGw+9vINYiFHY="
+    "hash": "sha256-1UfLcSri9umXKu/eYDXUrmLNW0jLKqBi9ga61GXgL0g="
   },
   "responsible": {
     "version": "1.0.3",
@@ -64389,13 +64392,12 @@
     "hash": "sha256-WLnIEx/iFLE+1a+Imu6aaXAQ/969oGaP5j714gHg27w="
   },
   "video_vtt": {
-    "version": "2.3.1",
+    "version": "2.5.1",
     "t3_versions": [
-      12,
       13
     ],
     "description": "Extend TYPO3 Video functionality",
-    "hash": "sha256-5v1+MPIcSGcJ7kSz8aSrnceKXpk3cF3p2vYSFdyNxx0="
+    "hash": "sha256-/5Puz5JFjVvLI+0KhvRFcZidL+zCCGfkXsKDZqz817E="
   },
   "videoce": {
     "version": "0.10.0",
