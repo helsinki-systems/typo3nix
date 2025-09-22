@@ -1133,13 +1133,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "additional_reports": {
-    "version": "3.4.8",
+    "version": "3.4.9",
     "t3_versions": [
       12,
       13
     ],
     "description": "Useful information in the reports module: xclass, ajax, cliKeys, eID, general status of the system (encoding, DB, php vars...), hooks, compare local and TER extension (diff), used content type, used plugins, ExtDirect... It can really help you during migration or new existing project (to have global reports of the system).",
-    "hash": "sha256-hJnURVGKMRmdJ0ZXEL5Nm66MAc/kJn8e6X4T51sKyME="
+    "hash": "sha256-DRFUd5nO5/xMv25Mkr88ZOUzfo8HqmsSda5wTYQ2rSU="
   },
   "additional_scheduler": {
     "version": "1.6.0",
@@ -21635,14 +21635,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "form_rate_limit": {
-    "version": "1.7.1",
+    "version": "2.0.0",
     "t3_versions": [
-      11,
-      12,
       13
     ],
     "description": "TYPO3 form finisher for rate limiting when sending a form",
-    "hash": "sha256-m/2VGyloXleXI8qochITaH/NCo25dMoMF2ce5pf3obk="
+    "hash": "sha256-dBGLdjS3ZGFy4G3EaksQe2f/K2UVAp3zptVzUdyft7Q="
   },
   "form_search": {
     "version": "2.0.0",
@@ -22042,12 +22040,12 @@
     "hash": "sha256-0rD6l8oEBj66t+1uE7cQDvrUFL4Sz3ynqyhzaceTm04="
   },
   "fp_masterquiz": {
-    "version": "7.1.0",
+    "version": "7.2.4",
     "t3_versions": [
       13
     ],
     "description": "A modern extension that offers quiz, polls and tests. Ajax support. The result can be displayed as a chart too. Supports 8 question modes.",
-    "hash": "sha256-EOIEI20VeTGVo7i0CCEmaGMpTpTBBnRuI0sNRmFbQy0="
+    "hash": "sha256-J/X3Z4wKhxtz8Hjnx/o2eodfHzzI7alfjCVBifooDC0="
   },
   "fp_newsletter": {
     "version": "9.0.3",
@@ -45352,13 +45350,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "poll": {
-    "version": "5.0.2",
+    "version": "5.0.3",
     "t3_versions": [
       12,
       13
     ],
     "description": "Create polls/surveys/Umfragen in TYPO3. Multiple question types and answer layouts. There is also a PRO version available which adds custom user answers and more. (Umfrage, Poll, Opinion, Vote, SimplePoll) See https://www.coding.ms/typo3-extensions/typo3-poll",
-    "hash": "sha256-Tjkr5mmAGUqIEvvV8QUHrkXtfnGeWix9pTmSbmWEQcs="
+    "hash": "sha256-ghyB6AOVQAwPfsgqz1hDfdjZhy16JkWhZ5tTAUV5fX8="
   },
   "polyglot": {
     "version": "1.0.0",
@@ -63314,13 +63312,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "typo3_docchecklogin": {
-    "version": "2.0.8",
+    "version": "2.1.0",
     "t3_versions": [
       11,
-      12
+      12,
+      13
     ],
     "description": "Integrate DocCheck Login with your Project",
-    "hash": "sha256-0FphpI270C2F0PKZqXeyXr4q6EJW8B9m/GkFRpq0trQ="
+    "hash": "sha256-Sdk4fDGyKWQpD4zjOfPXwmRTzo58mW6hQtltcQ/JR6Y="
   },
   "typo3_dummy_extension": {
     "version": "1.1.0",
