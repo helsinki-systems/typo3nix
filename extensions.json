@@ -1657,12 +1657,12 @@
     "hash": "sha256-VjFx9kagkYZ+UP502oKGTs64zlOsNZ0JCvSkQosql58="
   },
   "ai_suite": {
-    "version": "13.6.2",
+    "version": "13.7.0",
     "t3_versions": [
       13
     ],
     "description": "The AI Suite optimizes the workflow of project managers, agencies and freelancers by using the latest AI technologies. It seamlessly integrates a wide variety of AI interfaces and the AI Suite open source models into the TYPO3 backend. Enables, among other things, more efficient creation and management of image and page metadata (individually and as batch processing), content translations (including \"Easy Language\"), content creation and modification, image generation and page structure generation.",
-    "hash": "sha256-bKiD6BcmRpmmhPLO8EOS0Pz//H3Gohl09qvw2sk4ulU="
+    "hash": "sha256-ugQQudPRCapoQbF84Hf4TnxbzXgYZmgrgPV4WuMPCVg="
   },
   "ai_tools": {
     "version": "1.1.0",
@@ -3768,13 +3768,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.356.22",
+    "version": "3.356.23",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-TqJfAQeIhx1LLxX4uJP/AaEhQT5gUGV7xhBLRFYioGE="
+    "hash": "sha256-kjbCVZLlEEC3+uaGvBO0h4wX9zyRuIx0Maj0+Bf9tDQ="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -21634,6 +21634,15 @@
     "description": "Form finisher to write form data into pre-existing PDF file",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "form_range": {
+    "version": "1.0.0",
+    "t3_versions": [
+      12,
+      13
+    ],
+    "description": "Adds an input type=\"range\" element for EXT:form including FormEditor support.",
+    "hash": "sha256-vZQ0+z6kzEgjCkHkVn2c4yD1Dn4fPIcxwvZqDenPTDg="
+  },
   "form_rate_limit": {
     "version": "2.0.0",
     "t3_versions": [
@@ -26981,12 +26990,12 @@
     "hash": "sha256-MOD26kr1/KRW+zzn6ijqaJ4qYdmFYWBjyKzT8KEFFrk="
   },
   "in2publish_core": {
-    "version": "13.1.0",
+    "version": "13.1.1",
     "t3_versions": [
       13
     ],
     "description": "Content publishing extension to connect stage and production server",
-    "hash": "sha256-4kTsvXfdEiQckv9p9y605uODU16XB4yVSsG/2rvbivU="
+    "hash": "sha256-qdEi5A2Pep8iX2UWbBqaBlsZixnYkD8ZYwPMsu1V0rU="
   },
   "in2rss": {
     "version": "0.2.2",
@@ -34037,13 +34046,13 @@
     "hash": "sha256-3mfOryBvxeFvY933oZWBVj/bmIpFQGdypv046cKB9QA="
   },
   "matomo_widgets": {
-    "version": "3.2.3",
+    "version": "3.3.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Dashboard widgets with Matomo reports",
-    "hash": "sha256-dZSBYN4rjbGq5zTBqDBbctpnln4tMOTBx3PgRqjLxLw="
+    "hash": "sha256-9oL8gtQvYcL/QXRu9vTpPMtkfKn14clzgdNvSylbIQs="
   },
   "matomoapi": {
     "version": "1.0.1",
@@ -55537,13 +55546,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ssi_include": {
-    "version": "2.1.4",
+    "version": "2.2.0",
     "t3_versions": [
       10,
       11
     ],
     "description": "Allows to periodically create ssi includes from anders und sehr GmbH",
-    "hash": "sha256-7uDUNIkKIUU/oC8UuNF2/9j7QtYd6MTfHNbkSJGQYfQ="
+    "hash": "sha256-6CtlrabkaC2Io7LQTHGYYbpxhr5kiWR80vq0rtEjiqQ="
   },
   "ssl_certificate": {
     "version": "1.0.2",
@@ -57347,12 +57356,12 @@
     "hash": "sha256-v0jr7+ZjBssqYVB6ri+6xlT1x1BQMZYDmC09tV/Mz+c="
   },
   "t3am": {
-    "version": "5.0.0",
+    "version": "6.0.0",
     "t3_versions": [
-      12
+      13
     ],
     "description": "T3AM - TYPO3 Authentication Manager",
-    "hash": "sha256-6W8U/zzVWcJLYfjeOcY8mBl/k8zNMx8KNqaY7CE7Ypc="
+    "hash": "sha256-WvIYyZQ0rxTTI5ULok+1dQej+hHvg4d9YADj2yycxxQ="
   },
   "t3am_server": {
     "version": "3.0.2",
