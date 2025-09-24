@@ -3768,13 +3768,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.356.23",
+    "version": "3.356.24",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-kjbCVZLlEEC3+uaGvBO0h4wX9zyRuIx0Maj0+Bf9tDQ="
+    "hash": "sha256-M/lr/KNwKv99VS0rO4oq4Ug2SFaMRNV0mcm3E8xTH6s="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -5486,14 +5486,15 @@
     "hash": "sha256-+1JC84B2LXiiNQhnikAQUjb/OEUKwPZdji5HOw2tdWk="
   },
   "bootstrap_package_iconpack": {
-    "version": "0.3.1",
+    "version": "1.0.1",
     "t3_versions": [
       10,
       11,
-      12
+      12,
+      13
     ],
     "description": "Replaces the icons in bootstrap_package with iconpacks.",
-    "hash": "sha256-aQX5AVUoe06PGziywcC0x2J6G2n5izj2I01QiN75868="
+    "hash": "sha256-zSqbWu63SZfmdcTdcpAMoJdqPEk4fdXu4FWDh+9mhMM="
   },
   "bootstrapicons": {
     "version": "0.0.1",
@@ -17285,13 +17286,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "elevate_to_admin": {
-    "version": "2.0.0",
+    "version": "2.1.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Allow backend users to elevate themselves to admin privileges",
-    "hash": "sha256-gbekrNXyAgdxLi2J6Vp8rLT15/uSD/MAtwtqZ+545jo="
+    "hash": "sha256-B5X7HIFYBWHUBjso6jBdZmUcdkNb4rIb2m18T+m1kkE="
   },
   "elnews": {
     "version": "0.0.1",
@@ -21476,6 +21477,15 @@
     ],
     "description": "Provides a powerful and expandable pages teaser plugin.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "form_carousel": {
+    "version": "1.0.0",
+    "t3_versions": [
+      12,
+      13
+    ],
+    "description": "Slide/animate EXT:form steps via AJAX with Bootstrap-like carousel transitions.",
+    "hash": "sha256-BWcHU1c1baANiR9B0bA0+4JiV8GdVqQ4WyNtScWUmJs="
   },
   "form_consent": {
     "version": "3.1.5",
@@ -29005,13 +29015,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "job_finder": {
-    "version": "5.1.0",
+    "version": "5.1.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "Job finder extension including job listing, details, application, microdata and more - note there is a Pro version as well! See https://www.coding.ms/typo3-extensions/typo3-job-finder",
-    "hash": "sha256-DBNJ36PRfOcSXlvoCUg6YBqOxNSWrAqq4HIBO895yLY="
+    "hash": "sha256-gMGVOP7F8QHeIe/ukb2RyRrWTaOWhJQmHVecFTbZL+g="
   },
   "job_market": {
     "version": "2.1.1",
@@ -34827,12 +34837,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "meilisearch": {
-    "version": "0.6.1",
+    "version": "0.7.0",
     "t3_versions": [
       12
     ],
     "description": "This extension integrates \"meilisearch\" into your TYPO3.",
-    "hash": "sha256-eb9pcQkUOkPhfNXpM3sFAe+UzfsPnuRBH7d4fPb1vtw="
+    "hash": "sha256-eAGVpR8twA0GuUPcJpgEb5TxqXy+SypqE6Oda9j1pWo="
   },
   "meinpraktikum_widget": {
     "version": "1.0.1",
