@@ -1160,13 +1160,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "additional_tca": {
-    "version": "1.17.2",
+    "version": "1.17.3",
     "t3_versions": [
       12,
       13
     ],
     "description": "Additional TCA fields and tools",
-    "hash": "sha256-YVHvYYNNSBdLJmfJIgOcKsZwSXgXtmQAIT57MQMZ71U="
+    "hash": "sha256-flQx70Mu+8QqcAkRf9eeGBzLI76noW8O58FeRPmo/Y4="
   },
   "addlinkheader": {
     "version": "0.0.4",
@@ -3768,13 +3768,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.356.24",
+    "version": "3.356.25",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-M/lr/KNwKv99VS0rO4oq4Ug2SFaMRNV0mcm3E8xTH6s="
+    "hash": "sha256-GMfXYa1cz++Ulrtj/mGeAHINJlwfWI4V+xHMG5ikSFk="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -6610,12 +6610,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cabag_loginas": {
-    "version": "5.0.0",
+    "version": "6.0.0",
     "t3_versions": [
-      11
+      11,
+      12
     ],
     "description": "Within the backend you have a button in the fe_user table and in the upper right corner to quickly login as this fe user in frontend.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-iv+dheFUj5Anjf/uUc3qvyxeZfkVyqxFplA6+2dPka0="
   },
   "cabag_realurl": {
     "version": "0.2.5",
@@ -10299,6 +10300,17 @@
     "t3_versions": [],
     "description": "Allows backend users to retrieve erased content from all the available tables present in the Typo3 database.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "content_visibility": {
+    "version": "0.1.0",
+    "t3_versions": [
+      10,
+      11,
+      12,
+      13
+    ],
+    "description": "Control the visibility of content elements depending on the screen size.",
+    "hash": "sha256-GDZXzpbaYM4cP90MRqrvYnZFxc3oYyB/Ia6V17OnE88="
   },
   "contentblocks_reg_api": {
     "version": "3.0.5",
@@ -20789,13 +20801,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fluid_fpdf": {
-    "version": "2.8.2",
+    "version": "2.8.3",
     "t3_versions": [
       12,
       13
     ],
     "description": "This extension provides you a complete set of ViewHelpers for dealing with FPDF by using Fluid. You can use the ViewHelpers easily in own Extensions just by defining the fpdf-Namespace. Additionally you are able to use the build in plugin, for displaying predefined PDF. This plugin offers you automatically all available PDFs.",
-    "hash": "sha256-v47MmDVegGLEr3B7+Lk8SKIBBhvdv5wkwfPUpO+vN8c="
+    "hash": "sha256-Dt+i9vTxUZ3Sz/c4Qpeihjc8exSv7t2MfgZG/KRwR4Y="
   },
   "fluid_info": {
     "version": "0.1.0",
@@ -24918,13 +24930,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "hio_typo3_connector": {
-    "version": "0.9.1",
+    "version": "0.10.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "TYPO3 Connector für die Integration von Daten aus HISinOne",
-    "hash": "sha256-VWtySscT+eOJHw2Dj2joJvFjObuG8Pe3NF4GdZ0oABg="
+    "hash": "sha256-jvBRD2IpKJZKKBsEpeICMRoU39KbhJC6Wz+UfEdJRnI="
   },
   "hipchat": {
     "version": "1.1.3",
@@ -26193,16 +26205,17 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "idp": {
-    "version": "1.0.4",
+    "version": "1.0.5",
     "t3_versions": [
       8,
       9,
       10,
       11,
-      12
+      12,
+      13
     ],
-    "description": "Typo3 as IdP Single Sign On (SSO) extension allows users residing in your Typo3 site to login to your SAML 2.0 Compliant Service Provider. Login into your websites (Service Providers) using Typo3 credentials. This extension enables your Typo3 site to operate as a SAML 2.0 Identity Provider, which can be set to build trust between the Typo3 site and multiple SAML 2.0 compliant Service Providers in order to securely authenticate users who use the Typo3 site.",
-    "hash": "sha256-WUAnF73n/Zgjy0vbfNJFGW2XHA1ZPsshqH6l9YmErqk="
+    "description": "TYPO3 as IdP (Identity Provider) Single Sign On - SSO extension allows users residing in your TYPO3 site to login to your SAML 2.0 Compliant Service Provider. Login into your websites & applications (Service Providers) using TYPO3 credentials. This extension enables your TYPO3 site to operate as a SAML 2.0 Identity Provider, which can be set to build trust between the TYPO3 site and multiple SAML 2.0 compliant Service Providers giving your users a seamless way to log into TYPO3 site. This extension is fully compatible with TYPO3 v13.",
+    "hash": "sha256-gDf75wGk0iNq95OkopoTODE35EZppb1th4VIIMl0tFA="
   },
   "ie6basetag": {
     "version": "1.0.1",
@@ -32288,6 +32301,15 @@
     "description": "This is NOT a statistic module or similar. This extension only loads an external HTML source in the \"content\" frame of the Typo3 backend via a HTTP GET call. Here we load the current users statistic-interface. Created/tested for Livestat. With small modif",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "ll_elevate_to_admin": {
+    "version": "2.2.0",
+    "t3_versions": [
+      12,
+      13
+    ],
+    "description": "Allow backend users to elevate themselves to admin privileges",
+    "hash": "sha256-voCZmciVKizcxq67Rhu8yJJJiju+cn1lMoGQ24988nk="
+  },
   "llxmltranslate": {
     "version": "2.2.0",
     "t3_versions": [
@@ -33764,12 +33786,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "maps2": {
-    "version": "12.0.8",
+    "version": "12.0.10",
     "t3_versions": [
       13
     ],
     "description": "Create maps with Marker, Area, Routes or Radius based on Google Maps or OpenStreetMap",
-    "hash": "sha256-5feNgh99ZBAaiBYKs5bOIpLHMC2Us3pB286hWea/Ywo="
+    "hash": "sha256-R+usyRJx51Y89CcLZw1rvUhN6cJb1PDLVo3MVmjgDWg="
   },
   "mapsapi3": {
     "version": "0.4.1",
@@ -36713,13 +36735,13 @@
     "hash": "sha256-QBq7RgOtpBz21jSQfzIxEurNCmBZlHvZXZt3wzoyyMw="
   },
   "modules": {
-    "version": "7.4.2",
+    "version": "7.4.4",
     "t3_versions": [
       12,
       13
     ],
     "description": "Frontend-User-Registration, Profile, Invitations, Listing with detailview, Addressmanagement, Frontend-Recordmanagement. User friendly Backendmodule for managing Frontend- and Backend-Users and other Records. Toolbox for frontend and backend modules in TYPO3.",
-    "hash": "sha256-Xd2sVbAEe7X6IC6NmmzhQgIBEG/JzT8/2AYvWfy2heI="
+    "hash": "sha256-nJl4yb6b1nF/a6nSFd/4qoVR8GpI+TWMfgfCxOgykSI="
   },
   "modulis_animated_gif": {
     "version": "0.0.4",
@@ -45557,12 +45579,12 @@
     "hash": "sha256-pmF02elaEIPa0hT7bj7fWRcPMiuXx70XLwBheXPHgcU="
   },
   "powermail_cleaner": {
-    "version": "12.0.0",
+    "version": "13.0.0",
     "t3_versions": [
-      12
+      13
     ],
     "description": "A Powermail extension to clean up answers with files via Scheduler / Command line or Backend",
-    "hash": "sha256-3LdQALLY43/Ufj4yP0Ztg5o0o4vFujokFNnp6XsV3DU="
+    "hash": "sha256-g6if+pbaQmX7TpkBTRYbztYwDjMOdxyI+bMP1Hvvznc="
   },
   "powermail_cond": {
     "version": "13.0.2",
@@ -61873,13 +61895,13 @@
     "hash": "sha256-n05aik91UBxxpKMqJNr61cJ9bBAyy/WGWEMx3pt2lUM="
   },
   "translatelabels": {
-    "version": "2.3.9",
+    "version": "2.3.11",
     "t3_versions": [
       10,
       11
     ],
     "description": "This extension extends the TYPO3 translation handling by translation records that can be edited by backend users. In this way backend users are able to translate labels without having access to the language files.",
-    "hash": "sha256-sf4fkQTseDL+EdQH5v9oww6/n5MZ9WkoentgcLQRspQ="
+    "hash": "sha256-iDlV+QqLG+GQhhFN2APuJgmVNd1UBSbFlvz3LwOTwXQ="
   },
   "translationapi": {
     "version": "2.0.0",
