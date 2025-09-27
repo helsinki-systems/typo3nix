@@ -5415,13 +5415,12 @@
     "hash": "sha256-B8oTmmLJpv5PacBLjpC0pcaxIQqSxhvTPhc9ZuIIw1Y="
   },
   "booking": {
-    "version": "2.1.6",
+    "version": "2.5.6",
     "t3_versions": [
-      11,
-      12
+      13
     ],
     "description": "Booking extension for FE users",
-    "hash": "sha256-zUZKk25dIEmnlqSe7S4aLDlsMR6IbmR65dRKOYeQ4Pw="
+    "hash": "sha256-BbfvP6HVMrsTqfLjGOMc+MZM2vjib/QFxW6eUATTQx8="
   },
   "bookmark_pages": {
     "version": "3.0.0",
@@ -21517,12 +21516,12 @@
     "hash": "sha256-zI/AhMUQpm4wg0ertfHnjOmH0n9HXCXpmryClbhsTnI="
   },
   "form_crshield": {
-    "version": "2.0.1",
+    "version": "3.0.0",
     "t3_versions": [
       13
     ],
-    "description": "Challenge/response spambot protection for ext:form",
-    "hash": "sha256-09GWENWzk5jm1dCiQqDRT8xx39T25UxZ89/fXHVIl98="
+    "description": "Adds a hidden input field containing a challenge string to forms. Client must execute included JavaScript to calculate the expected response.",
+    "hash": "sha256-CNJUhzGJR9yg5Y8nOD6dlH+xm5a8HYTDoZw3nUnT4AE="
   },
   "form_doubleoptin": {
     "version": "1.1.1",
@@ -47678,13 +47677,13 @@
     "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
   },
   "recordmodules": {
-    "version": "1.1.2",
+    "version": "1.2.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Adds backend modules for configured record types.",
-    "hash": "sha256-cVUVjfuD3NTnOYNexORnuB5wPdXTVdT+mmBILsLhlaw="
+    "hash": "sha256-rWzRIGHVKqHwn5fLlIKzLN9lOsPGylvbAzzRszwi2UQ="
   },
   "recordsmanager": {
     "version": "1.7.0",
@@ -58176,13 +58175,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "t3sbootstrap": {
-    "version": "5.3.24",
+    "version": "5.3.25",
     "t3_versions": [
       12,
       13
     ],
     "description": "Startup extension to use bootstrap 5 classes, components and more out of the box. Example and info: www.t3sbootstrap.de",
-    "hash": "sha256-xs/o5V4ZO1eUxhmSp3nKvLwQQWDppK8lOGlXPf9tJp4="
+    "hash": "sha256-MpnmTcYQ/4v8Na2mQbl3AqnngUFJUmHiTRSOFnR+upE="
   },
   "t3sbootstrap_grid": {
     "version": "4.0.0",
