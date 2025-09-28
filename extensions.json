@@ -5524,6 +5524,15 @@
     "description": "Generate a lateral box with template. Tipical lateral boxs on Web Portals (see slashdot.com for instance)",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "bp_background_video": {
+    "version": "0.1.0",
+    "t3_versions": [
+      12,
+      13
+    ],
+    "description": "Add background videos to EXT:bootstrap_package",
+    "hash": "sha256-0xh67ktLoGITGQIe/KCXu2s/psblaKzaLVk22/n7PMI="
+  },
   "bp_clubmanage": {
     "version": "0.0.4",
     "t3_versions": [],
@@ -45578,12 +45587,12 @@
     "hash": "sha256-pmF02elaEIPa0hT7bj7fWRcPMiuXx70XLwBheXPHgcU="
   },
   "powermail_cleaner": {
-    "version": "13.0.0",
+    "version": "13.0.1",
     "t3_versions": [
       13
     ],
     "description": "A Powermail extension to clean up answers with files via Scheduler / Command line or Backend",
-    "hash": "sha256-g6if+pbaQmX7TpkBTRYbztYwDjMOdxyI+bMP1Hvvznc="
+    "hash": "sha256-lK9AGoQoc5+TKypf/QmovUeJXSgCnu93eEzggKXYq4c="
   },
   "powermail_cond": {
     "version": "13.0.2",
