@@ -1195,12 +1195,12 @@
     "hash": "sha256-Qx7pEfxHzU21N5I2lCBk34qUvM/L0Ij1XDE7AIhUKNI="
   },
   "address": {
-    "version": "13.0.9",
+    "version": "13.0.10",
     "t3_versions": [
       13
     ],
     "description": "Address extension with multiple contact types per address. Code is based on news extension.",
-    "hash": "sha256-U1lSfq2h9/eNfnKMv4/lfUJfJVFNHCa/ayGDnyOY6ZE="
+    "hash": "sha256-US1PAvcVTdlJF8xJV1V7/ZZUGXfaPeT/EzbZaZO+8+o="
   },
   "address_manager": {
     "version": "4.0.7",
@@ -3768,13 +3768,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.356.25",
+    "version": "3.356.27",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-GMfXYa1cz++Ulrtj/mGeAHINJlwfWI4V+xHMG5ikSFk="
+    "hash": "sha256-aEfe48a1/XMRC7stbtvUd6agpHotpPsL+ioxYo2gbuk="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -19645,12 +19645,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "femanager": {
-    "version": "13.0.0",
+    "version": "13.1.0",
     "t3_versions": [
       13
     ],
     "description": "TYPO3 Frontend User Registration and Management based on",
-    "hash": "sha256-DkTNBbmZt9cEULXWp/bJ5hBew39u/ghyV/qVf+6kjDs="
+    "hash": "sha256-7MtnDpyYg3MEhuV7C6K3RM/JKzL0RxkbuRjqWVCLYqQ="
   },
   "femanager_cleverreach": {
     "version": "3.0.0",
@@ -23037,6 +23037,15 @@
     ],
     "description": "Redirect users based on browser language and ip country to the right language version of the website",
     "hash": "sha256-x6TrN99z33jfF4v0uOrmG89A9t0Xw/iDzGNC0o8BoS8="
+  },
+  "geocode_osm": {
+    "version": "1.0.0",
+    "t3_versions": [
+      12,
+      13
+    ],
+    "description": "This extension provides a task that generates tt_address geocoding information via OpenStreetMap instead of GoogleMaps",
+    "hash": "sha256-gIVqXSJ/ZlHwmpDwFRPPcG6mqIKmd5RYeB8JXSiWgl0="
   },
   "geocoding": {
     "version": "4.2.0",
