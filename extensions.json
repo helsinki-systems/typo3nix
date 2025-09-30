@@ -1288,12 +1288,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "admiral_cloud_connector": {
-    "version": "3.0.3",
+    "version": "3.0.4",
     "t3_versions": [
       13
     ],
     "description": "AdmiralCloud Connector",
-    "hash": "sha256-AdbSzwBFRxe9henZYorNZW2qsX0WybHQKhkytnc6BtI="
+    "hash": "sha256-PjlylKHjHIh1KhJpXcvqP9gTX1xPid/m/0OTPx4jAj0="
   },
   "adodb": {
     "version": "8.4.0",
@@ -2062,12 +2062,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "allinoneaccessibility": {
-    "version": "13.0.2",
+    "version": "13.0.3",
     "t3_versions": [
       13
     ],
     "description": "WCAG Website Accessibility widget improves Typo3 website ADA compliance and browser experience for ADA, WCAG 2.1 & 2.2, Section 508, Australian DDA, European EAA EN 301 549, UK Equality Act (EA), Israeli Standard 5568, California Unruh, Ontario AODA, Canada ACA, German BITV, France RGAA, Brazilian Inclusion Law (LBI 13.146/2015), Spain UNE 139803:2012, JIS X 8341 (Japan), Italian Stanca Act and Switzerland DDA Standards.",
-    "hash": "sha256-mgH3GjFMb4hRBmN2989fnu+/Nt9Rfcu0SFbvg1pvTCo="
+    "hash": "sha256-UhaJMQ76n0qXrGV8p3H5YBW01rF9foZTHP1xJbnUrbU="
   },
   "allnews": {
     "version": "0.2.6",
@@ -3768,13 +3768,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.356.27",
+    "version": "3.356.28",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-aEfe48a1/XMRC7stbtvUd6agpHotpPsL+ioxYo2gbuk="
+    "hash": "sha256-KbzL+FkOR+NgVfbG+KKCBr9LsUOrfp1QJ46iEpGYWnw="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -3914,12 +3914,12 @@
     "hash": "sha256-RhZe3lFLSnXPbgmv99hT8lZa880d5ZisOwZxcIWEMT4="
   },
   "backgroundimage4ce": {
-    "version": "7.0.1",
+    "version": "7.0.2",
     "t3_versions": [
       13
     ],
     "description": "Allows background images and background options for all types of content elements (text, text with image, forms, plugins, ...). Background images are adaptive.",
-    "hash": "sha256-dVZuVD1pRRWnGYy/dw/zkdjcgPRlESYfkH1x+GOboFI="
+    "hash": "sha256-GnnlDydgwnZBaOSl03Po0l2bNOYCYMb0qmu9HDTQ7FY="
   },
   "backup": {
     "version": "0.1.0",
@@ -12457,6 +12457,14 @@
     ],
     "description": "Displays the Watchword of the day",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "dailyverses": {
+    "version": "13.4.1",
+    "t3_versions": [
+      13
+    ],
+    "description": "Show a daily verse from the Bible of your choice",
+    "hash": "sha256-Ggi1UfwP+pOIzuqRSVMLUGS+zgqT/laGjPmixOufFr4="
   },
   "daimi_event": {
     "version": "0.10.1",
@@ -63490,6 +63498,14 @@
     "description": "This TYPO3 extension generates colorful backend user avatars using name initials letter.",
     "hash": "sha256-X+M95W61qrOca855kJbU7FKAbXgL7C7+r/33a4IJTuU="
   },
+  "typo3_login_warning": {
+    "version": "0.1.1",
+    "t3_versions": [
+      13
+    ],
+    "description": "Extends the TYPO3 backend login warning_mode functionality to inform about suspicious logins with several features.",
+    "hash": "sha256-yEMO7Pyu50vXS+8TyMFlHEyFgSmr/+J7FxLPNUTfJG8="
+  },
   "typo3_maileon_integration": {
     "version": "4.0.1",
     "t3_versions": [
@@ -65015,13 +65031,13 @@
     "hash": "sha256-+DblC8ydsK9LQSUvL3eI1WGmkpLyILuhDLb/YIzkt18="
   },
   "warming": {
-    "version": "4.2.2",
+    "version": "4.3.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Warms up Frontend caches based on an XML sitemap. Cache warmup can be triggered via TYPO3 backend or using a console command. Supports multiple languages and custom crawler implementations.",
-    "hash": "sha256-wSSjZVTIMOYdr8RhroZyxVq7sw3ZRmqM4BmMLCf6DEU="
+    "hash": "sha256-oQ0BFSxyqiMtEd8LIMi376ECd32Zv90tfYVw8/4DKAc="
   },
   "warmup": {
     "version": "1.3.1",
@@ -67259,13 +67275,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "xima_typo3_content_planner": {
-    "version": "1.5.6",
+    "version": "1.5.7",
     "t3_versions": [
       12,
       13
     ],
     "description": "This extension provides a page status functionality to support the planning of content work.",
-    "hash": "sha256-ONsGwbM36NFxSVV39oneEReZRjF2lNO7nT+qcSsO7Hk="
+    "hash": "sha256-mDutkNTYuuuJEjBPNBbAbXALc9znomyUOCXdfGICzQA="
   },
   "xima_typo3_frontend_edit": {
     "version": "1.7.1",
