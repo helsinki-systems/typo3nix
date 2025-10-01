@@ -3768,13 +3768,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.356.28",
+    "version": "3.356.29",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-KbzL+FkOR+NgVfbG+KKCBr9LsUOrfp1QJ46iEpGYWnw="
+    "hash": "sha256-AJsZN3M6Zv2oiHNNa1bCF5Gc2YLpdI4LEbqeqYHkC6Q="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -10163,12 +10163,12 @@
     "hash": "sha256-AfToijkanNxy5yWgP7Vdw03r4FjS4ylg2fCf0SLYwKU="
   },
   "content_blocks": {
-    "version": "1.3.15",
+    "version": "1.3.16",
     "t3_versions": [
       13
     ],
     "description": "TYPO3 CMS Content Blocks - Content Types API | Define reusable components via YAML",
-    "hash": "sha256-GJon7C5lxm7rsyoicXHM4DHVBYzsw6ldNcx3l5/LMqM="
+    "hash": "sha256-6vIui5pM2R4zXfzXGB2nwO0zwoRMmSPkkfgesQyzOIw="
   },
   "content_blocks_bootstrap": {
     "version": "0.0.3",
@@ -12459,12 +12459,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "dailyverses": {
-    "version": "13.4.1",
+    "version": "13.4.2",
     "t3_versions": [
       13
     ],
     "description": "Show a daily verse from the Bible of your choice",
-    "hash": "sha256-Ggi1UfwP+pOIzuqRSVMLUGS+zgqT/laGjPmixOufFr4="
+    "hash": "sha256-mCGz5/uadrnjwe31ReT27vrkDXD3kLPtXXUHmmgejTk="
   },
   "daimi_event": {
     "version": "0.10.1",
@@ -17985,12 +17985,12 @@
     "hash": "sha256-WyoWMrqA0A+1a3dQRnojja1tbBuvdX3JL3WtcDlxGWk="
   },
   "events2": {
-    "version": "10.0.4",
+    "version": "10.0.5",
     "t3_versions": [
       13
     ],
     "description": "Create single and recurring events",
-    "hash": "sha256-18ngbFucIEL/Z6g3bAjeUqv0rLpONOGkACD29v6pdUQ="
+    "hash": "sha256-3YNQ0jLAwvg2t7Xy747rIuQjVFJuZmjrW4zvYJ4f3ys="
   },
   "events2_reserve_connector": {
     "version": "1.0.0",
@@ -18713,6 +18713,15 @@
     ],
     "description": "",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "f7hyphenator": {
+    "version": "1.0.0",
+    "t3_versions": [
+      12,
+      13
+    ],
+    "description": "Provides a hyphenator ViewHelper to add &shy; to text output.",
+    "hash": "sha256-l5TPHyG+Q7GW2blcqFbXLhr487SEW2anMC1r8FiScG4="
   },
   "fab74_softlink": {
     "version": "1.0.0",
@@ -36760,13 +36769,13 @@
     "hash": "sha256-QBq7RgOtpBz21jSQfzIxEurNCmBZlHvZXZt3wzoyyMw="
   },
   "modules": {
-    "version": "7.4.4",
+    "version": "7.4.5",
     "t3_versions": [
       12,
       13
     ],
     "description": "Frontend-User-Registration, Profile, Invitations, Listing with detailview, Addressmanagement, Frontend-Recordmanagement. User friendly Backendmodule for managing Frontend- and Backend-Users and other Records. Toolbox for frontend and backend modules in TYPO3.",
-    "hash": "sha256-nJl4yb6b1nF/a6nSFd/4qoVR8GpI+TWMfgfCxOgykSI="
+    "hash": "sha256-noAKdsUL8nm95PJ7wzgzvEXy7A4elSgIKDUuJ1t4UIM="
   },
   "modulis_animated_gif": {
     "version": "0.0.4",
@@ -45612,12 +45621,12 @@
     "hash": "sha256-lK9AGoQoc5+TKypf/QmovUeJXSgCnu93eEzggKXYq4c="
   },
   "powermail_cond": {
-    "version": "13.0.2",
+    "version": "13.0.3",
     "t3_versions": [
       13
     ],
     "description": "Add conditions (via AJAX) to powermail forms for fields and pages",
-    "hash": "sha256-aZDIu/5ZG2PyPP7aoQKpthrulakFRAJjaBlpucBZ7Vo="
+    "hash": "sha256-UXrdLDgdxmfhHyUEYFw5sgaL/AQpa/Bn1pMV+rFsUJM="
   },
   "powermail_cond_jquery": {
     "version": "1.0.1",
@@ -63499,12 +63508,12 @@
     "hash": "sha256-X+M95W61qrOca855kJbU7FKAbXgL7C7+r/33a4IJTuU="
   },
   "typo3_login_warning": {
-    "version": "0.1.1",
+    "version": "0.2.0",
     "t3_versions": [
       13
     ],
     "description": "Extends the TYPO3 backend login warning_mode functionality to inform about suspicious logins with several features.",
-    "hash": "sha256-yEMO7Pyu50vXS+8TyMFlHEyFgSmr/+J7FxLPNUTfJG8="
+    "hash": "sha256-OmlgMpjiWnoaVHr53ltp4ncZFrvIttbWXf9UOZPow/w="
   },
   "typo3_maileon_integration": {
     "version": "4.0.1",
@@ -65031,13 +65040,13 @@
     "hash": "sha256-+DblC8ydsK9LQSUvL3eI1WGmkpLyILuhDLb/YIzkt18="
   },
   "warming": {
-    "version": "4.3.0",
+    "version": "4.3.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "Warms up Frontend caches based on an XML sitemap. Cache warmup can be triggered via TYPO3 backend or using a console command. Supports multiple languages and custom crawler implementations.",
-    "hash": "sha256-oQ0BFSxyqiMtEd8LIMi376ECd32Zv90tfYVw8/4DKAc="
+    "hash": "sha256-qU+3NO77XmFIzQGgLOch/Uz+bVCvpZxnGRIAZoAKnZs="
   },
   "warmup": {
     "version": "1.3.1",
