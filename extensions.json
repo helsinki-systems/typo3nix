@@ -27118,7 +27118,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "includekrexx": {
-    "version": "6.1.0",
+    "version": "6.1.1",
     "t3_versions": [
       10,
       11,
@@ -27126,7 +27126,7 @@
       13
     ],
     "description": "Alternative for f:debug (fluid) and debug(); (PHP) with additional analysis features and logging options.",
-    "hash": "sha256-QV6YYBluD37sqD6NXucOSLzagaZGhU8HVF4r/qwqiLA="
+    "hash": "sha256-/hch7ObXcbXZkX2VuI29Mhi9G0+yrHKd2lC67oB88cQ="
   },
   "incore_twitter": {
     "version": "1.2.2",
@@ -31298,13 +31298,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "l10nmgr": {
-    "version": "12.1.0",
+    "version": "12.2.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Power up your TYPO3 translations with L10nmgr! Get exclusive early access to v13! L10nmgr is the go-to extension for professional TYPO3 translations, enabling efficient bulk translation exports and imports. L10nmgr 13 makes multilingual content management even more powerful and flexible! Support L10nmgr now and unlock v13 today! Sponsor us here: https://coders.care/for/crowdfunding/l10nmgr-and-localizer",
-    "hash": "sha256-CKYS0PnIPkwT2oF2Lwc1YzP+Sud/nn2bgpmebje8WHs="
+    "hash": "sha256-jPBXoDaaXxz8ffToji/UHLfFR5NP0HUWCeakOSHlp1Q="
   },
   "l10nmgr_grid": {
     "version": "0.2.2",
@@ -32428,13 +32428,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "localizer": {
-    "version": "12.0.0",
+    "version": "12.1.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "This extension provides a fully automated workflow and GUI for the well known Localization Manager (l10nmgr). While L10nmgr still provides exports and imports, Localizer will take care of all necessary steps in between. Editors responsible for translations won't have to deal with L10nmgr configurations anymore and administrators just create one configuration per Localizer Project. Sponsor us here: https://coders.care/for/crowdfunding/l10nmgr-and-localizer",
-    "hash": "sha256-xlr+nCmmD7IwGyglVrB87U9HEET5xbIpxOEUim7McWg="
+    "hash": "sha256-gsdN267Tk5yYTIWEo6lQRU0JGqujF9rC7UjrrUrxeqQ="
   },
   "localizer_beebox": {
     "version": "10.2.0",
