@@ -3768,13 +3768,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.356.31",
+    "version": "3.356.32",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-9d64sP5A2oZ4EKWGut57R7YHiZhVwLYkswpw4Nwrm+s="
+    "hash": "sha256-xWDK1HfhSOIHfNQ3nsxfkkjqKbRpRb/8CavYpDPTg44="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -5485,7 +5485,7 @@
     "hash": "sha256-+1JC84B2LXiiNQhnikAQUjb/OEUKwPZdji5HOw2tdWk="
   },
   "bootstrap_package_iconpack": {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "t3_versions": [
       10,
       11,
@@ -5493,7 +5493,7 @@
       13
     ],
     "description": "Replaces the icons in bootstrap_package with iconpacks.",
-    "hash": "sha256-zSqbWu63SZfmdcTdcpAMoJdqPEk4fdXu4FWDh+9mhMM="
+    "hash": "sha256-8GP7Epk1mw2ccU/jZX9sWLiuURFTrBSn4nI54Iz3Gkw="
   },
   "bootstrapicons": {
     "version": "0.0.1",
@@ -5538,6 +5538,17 @@
     "t3_versions": [],
     "description": "Manage the teams of your club",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "bp_gallery_settings": {
+    "version": "0.0.1",
+    "t3_versions": [
+      10,
+      11,
+      12,
+      13
+    ],
+    "description": "Gallery Settings for Bootstrap Package",
+    "hash": "sha256-+PruBURpoTfcVCUICnx+cKK7UkKhV7D5GzrupiB9618="
   },
   "bp_pagetree": {
     "version": "1.0.3",
@@ -13641,12 +13652,12 @@
     "hash": "sha256-KsCPyfOntBKV1ehGZSnFfOngItMm624sJPya0XgXZ7M="
   },
   "debug_mysql_db": {
-    "version": "1.9.3",
+    "version": "1.9.4",
     "t3_versions": [
       13
     ],
-    "description": "Extends \\TYPO3\\CMS\\Core\\Database\\DatabaseConnection and \\TYPO3\\CMS\\Core\\Database\\Connection to show Errors and Debug-Messages. Debugging of sql-queries by debug and FileWriter.",
-    "hash": "sha256-yhYOVmdTVe/vz9BxDZ2M/hgAmIo+KRygPyQCvJKtLxg="
+    "description": "Extends \\TYPO3\\CMS\\Core\\Database\\Connection and \\TYPO3\\CMS\\Typo3DbLegacy\\Database\\DatabaseConnection to show Errors and Debug-Messages. Debugging of sql-queries by debug and FileWriter.",
+    "hash": "sha256-Rvg53vususaZl3PiDgcqjRbW32f7t18GgMHOq+X67ZM="
   },
   "debug_settings_task": {
     "version": "2.2.1",
@@ -59533,12 +59544,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "templavoilaplus": {
-    "version": "12.0.1",
+    "version": "12.0.3",
     "t3_versions": [
       12
     ],
     "description": "Building kit for custom  pages and content elements with individual fields, containers and backend layouts. Supporting drag'n'drop and multiple references.",
-    "hash": "sha256-CWEopoRbBahvt/ubQ2ZGh29Ks757kt60xcjfj6VtpUg="
+    "hash": "sha256-wWlK0YlYHG0VYBcyOUPWnYLpQdJWwWm2nnBKEoA4fSE="
   },
   "tender": {
     "version": "2.0.2",
