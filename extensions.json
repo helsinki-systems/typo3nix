@@ -1160,13 +1160,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "additional_tca": {
-    "version": "1.17.3",
+    "version": "1.17.4",
     "t3_versions": [
       12,
       13
     ],
     "description": "Additional TCA fields and tools",
-    "hash": "sha256-flQx70Mu+8QqcAkRf9eeGBzLI76noW8O58FeRPmo/Y4="
+    "hash": "sha256-FnsB1/dqoLdwhV3gmphkMKh0T8g/tbLgYC9ZRVUthrs="
   },
   "addlinkheader": {
     "version": "0.0.4",
@@ -45654,6 +45654,14 @@
     "description": "Improve Country selection based on static_info_tables with Powermail",
     "hash": "sha256-fKcU9WziII300LutqXGgvj7TyOlztwDLmlf6UiC2JS0="
   },
+  "powermail_crshield": {
+    "version": "1.0.0",
+    "t3_versions": [
+      12
+    ],
+    "description": "Adds a hidden input field containing a challenge string to powermail forms. Client must execute included JavaScript to calculate the expected response.",
+    "hash": "sha256-KzwPqnTJctYkaf7vM1eC2u+EvfF2Tmt1rIOhXbreILo="
+  },
   "powermail_fastexport": {
     "version": "1.0.5",
     "t3_versions": [
@@ -45787,13 +45795,12 @@
     "hash": "sha256-OQ5O44wnP0dIDs+0PvPgFmmauIMulfLLZBJhCz5r4ME="
   },
   "powermailcaptcha": {
-    "version": "3.0.0",
+    "version": "3.0.2",
     "t3_versions": [
-      12,
       13
     ],
     "description": "Captcha Extension for Powermail",
-    "hash": "sha256-867t/kkgXcZ4KMXkmtjbX1SsTw5x//1M2dc/bWtyzRI="
+    "hash": "sha256-mxfD/6QV4UHV8nql3872vb9a4s7THe5I+sTY3ipqqYk="
   },
   "powermailcustomcss": {
     "version": "1.1.0",
