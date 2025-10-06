@@ -3566,14 +3566,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "autotranslate": {
-    "version": "2.3.1",
+    "version": "2.3.2",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "This extension provides automatic translation of pages and content elements via DeepL API.",
-    "hash": "sha256-/Rrm/snzTeNs8rVLv3UY3SdbO2javtBwaksuVNgCgAQ="
+    "hash": "sha256-XN0pYIOthCwU36JBjejSJnToXFXxtF46/8wa6ND+DqA="
   },
   "autoupload_dummy": {
     "version": "1.0.2",
@@ -9213,13 +9213,13 @@
     "hash": "sha256-2LK8BvUmfZOl87jK2C3LKvSPWFQSHDjMeo59gxRjRUs="
   },
   "clubmanager": {
-    "version": "1.2.0",
+    "version": "1.2.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "The TYPO3 module for managing clubs, foundations and associations. With Clubmanager, you get the tool to manage the organization AND public relations of your club or association in a cost-saving and effective way.",
-    "hash": "sha256-Zp8q5OyQbe82ezB3k0AeilJsbKkutuo2OELC5RvxWMA="
+    "hash": "sha256-M9VMMJR2cGN6OKPuMjQ/2FhCZK6Ql3CN0Tj3mlh6AKI="
   },
   "cm_ajax": {
     "version": "0.6.0",
@@ -21570,12 +21570,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "form_dynamic_recipient": {
-    "version": "4.0.1",
+    "version": "4.0.2",
     "t3_versions": [
       13
     ],
     "description": "Adds new form select type, which shows recipient records of a given page. This information can be used as dynamic recipient for the form data.",
-    "hash": "sha256-QjX/9Xh7D3kcQDePUMEFptbFzX5U0p1cFcx9yffIVHY="
+    "hash": "sha256-dNitjRiv1xLnQ0iopS/0x/lPbrO5XmQVzevJhLAvLAE="
   },
   "form_element_linked_checkbox": {
     "version": "5.0.2",
@@ -63526,12 +63526,12 @@
     "hash": "sha256-X+M95W61qrOca855kJbU7FKAbXgL7C7+r/33a4IJTuU="
   },
   "typo3_login_warning": {
-    "version": "0.2.0",
+    "version": "0.3.0",
     "t3_versions": [
       13
     ],
     "description": "Extends the TYPO3 backend login warning_mode functionality to inform about suspicious logins with several features.",
-    "hash": "sha256-OmlgMpjiWnoaVHr53ltp4ncZFrvIttbWXf9UOZPow/w="
+    "hash": "sha256-kheboqwgph/KaU1XofdxWVkp4DmJPBqStoqlrbQHDPo="
   },
   "typo3_maileon_integration": {
     "version": "4.0.1",
