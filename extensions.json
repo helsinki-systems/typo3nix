@@ -1160,13 +1160,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "additional_tca": {
-    "version": "1.17.4",
+    "version": "1.17.5",
     "t3_versions": [
       12,
       13
     ],
     "description": "Additional TCA fields and tools",
-    "hash": "sha256-FnsB1/dqoLdwhV3gmphkMKh0T8g/tbLgYC9ZRVUthrs="
+    "hash": "sha256-v/BVk9LwFlAoSeqUhMOYSGdokWGtpwzeTyHVoPYSF7Y="
   },
   "addlinkheader": {
     "version": "0.0.4",
@@ -3768,13 +3768,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.356.32",
+    "version": "3.356.33",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-xWDK1HfhSOIHfNQ3nsxfkkjqKbRpRb/8CavYpDPTg44="
+    "hash": "sha256-0whfZKQ5cRxno17CqbRXgn5MiBKBUMAdi9WAxUQDQKw="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -9213,13 +9213,13 @@
     "hash": "sha256-2LK8BvUmfZOl87jK2C3LKvSPWFQSHDjMeo59gxRjRUs="
   },
   "clubmanager": {
-    "version": "1.2.1",
+    "version": "1.2.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "The TYPO3 module for managing clubs, foundations and associations. With Clubmanager, you get the tool to manage the organization AND public relations of your club or association in a cost-saving and effective way.",
-    "hash": "sha256-M9VMMJR2cGN6OKPuMjQ/2FhCZK6Ql3CN0Tj3mlh6AKI="
+    "hash": "sha256-rPtiN0XbfC4e2oslxHNOuTCf9HnMQTufXUfZXuApPj0="
   },
   "cm_ajax": {
     "version": "0.6.0",
@@ -19898,13 +19898,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "feuserregistration": {
-    "version": "2.4.2",
+    "version": "2.6.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "This extension enables the easy registration of a frontend user using the double opt-in process (e.g., for newsletter sign-ups). Optionally, a notification can be sent to a centrally configured email address.",
-    "hash": "sha256-8jCwO8RKTDzDPGFvr24ljsgio9hsVopQR838vJ/nvH4="
+    "hash": "sha256-NfK1pFGlNIsvcSNZaWgdxnGmSPKjRwU1tmDqTonH+pk="
   },
   "feusers2xml": {
     "version": "0.0.1",
@@ -30864,13 +30864,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "klaro_consent_manager": {
-    "version": "2.0.12",
+    "version": "2.1.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "Functionally complete, flexible TYPO3 integration of Klaro! Consent Management by KIProtect GmbH, a powerful tool that protects your visitors' privacy and data.",
-    "hash": "sha256-IitXejadVSdjXaIbzKE6z2/lIii/MnVvaqN4WKlYzK4="
+    "hash": "sha256-CscdI/XUYXlBN9JLaorPzI3XUssFOJ6TRvWF6VjiT+8="
   },
   "klarokratie": {
     "version": "13.4.19",
@@ -45795,12 +45795,12 @@
     "hash": "sha256-OQ5O44wnP0dIDs+0PvPgFmmauIMulfLLZBJhCz5r4ME="
   },
   "powermailcaptcha": {
-    "version": "3.0.2",
+    "version": "3.1.0",
     "t3_versions": [
       13
     ],
     "description": "Captcha Extension for Powermail",
-    "hash": "sha256-mxfD/6QV4UHV8nql3872vb9a4s7THe5I+sTY3ipqqYk="
+    "hash": "sha256-+gLsJx704PWARexALZHpj7w5VkObLNRhp/0dhBPWB3M="
   },
   "powermailcustomcss": {
     "version": "1.1.0",
@@ -67311,14 +67311,14 @@
     "hash": "sha256-mDutkNTYuuuJEjBPNBbAbXALc9znomyUOCXdfGICzQA="
   },
   "xima_typo3_frontend_edit": {
-    "version": "1.7.1",
+    "version": "1.7.2",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "This extension provides an edit button for editors within frontend content elements.",
-    "hash": "sha256-gIqMgyGZQNIKPruUIEC3vqdoG5mqHMpOH4X59qHgHis="
+    "hash": "sha256-2w0Nm/55UQTUEmBuQYQLAwDJWmNeBuaDmQE5alswzW8="
   },
   "xima_typo3_internal_news": {
     "version": "1.1.1",
