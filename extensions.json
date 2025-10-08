@@ -1160,13 +1160,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "additional_tca": {
-    "version": "1.17.5",
+    "version": "1.17.6",
     "t3_versions": [
       12,
       13
     ],
     "description": "Additional TCA fields and tools",
-    "hash": "sha256-v/BVk9LwFlAoSeqUhMOYSGdokWGtpwzeTyHVoPYSF7Y="
+    "hash": "sha256-+TsXXjnB2R2cYHb6rGQry8T+Ogp/DLS6uVTZl7ekSSg="
   },
   "addlinkheader": {
     "version": "0.0.4",
@@ -1195,12 +1195,12 @@
     "hash": "sha256-Qx7pEfxHzU21N5I2lCBk34qUvM/L0Ij1XDE7AIhUKNI="
   },
   "address": {
-    "version": "13.0.10",
+    "version": "13.0.11",
     "t3_versions": [
       13
     ],
     "description": "Address extension with multiple contact types per address. Code is based on news extension.",
-    "hash": "sha256-US1PAvcVTdlJF8xJV1V7/ZZUGXfaPeT/EzbZaZO+8+o="
+    "hash": "sha256-q7+1v6fFBGknJVnA/P2qx0DJmwlE5BmqyeK8av7atZE="
   },
   "address_manager": {
     "version": "4.0.7",
@@ -2470,7 +2470,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ameos_tarteaucitron": {
-    "version": "3.8.0",
+    "version": "3.9.0",
     "t3_versions": [
       9,
       10,
@@ -2479,7 +2479,7 @@
       13
     ],
     "description": "Integrates tarteaucitron.js in TYPO3 (see : https://tarteaucitron.io )",
-    "hash": "sha256-sj7S97dN9Rky/MJhQgs7Hyr6s/7KZ+Bwaq6eQYuCsNw="
+    "hash": "sha256-ISV9GcfR2iMm/Zg1AepPP8QCPMgvGnKl2CKFwP2qMAc="
   },
   "ameos_typo3_vulnerabilities": {
     "version": "1.0.0",
@@ -3566,14 +3566,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "autotranslate": {
-    "version": "2.3.2",
+    "version": "2.3.3",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "This extension provides automatic translation of pages and content elements via DeepL API.",
-    "hash": "sha256-XN0pYIOthCwU36JBjejSJnToXFXxtF46/8wa6ND+DqA="
+    "hash": "sha256-P5KM/g899tcX/0yV1+JdXIdI88pl76wstbj5rmzxlbg="
   },
   "autoupload_dummy": {
     "version": "1.0.2",
@@ -3768,13 +3768,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.356.33",
+    "version": "3.356.34",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-0whfZKQ5cRxno17CqbRXgn5MiBKBUMAdi9WAxUQDQKw="
+    "hash": "sha256-GbcUTFgLvivNccXo9k1iFnc4BZcs+yV/xlSHYee01pM="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -9213,13 +9213,13 @@
     "hash": "sha256-2LK8BvUmfZOl87jK2C3LKvSPWFQSHDjMeo59gxRjRUs="
   },
   "clubmanager": {
-    "version": "1.2.2",
+    "version": "1.2.3",
     "t3_versions": [
       12,
       13
     ],
     "description": "The TYPO3 module for managing clubs, foundations and associations. With Clubmanager, you get the tool to manage the organization AND public relations of your club or association in a cost-saving and effective way.",
-    "hash": "sha256-rPtiN0XbfC4e2oslxHNOuTCf9HnMQTufXUfZXuApPj0="
+    "hash": "sha256-LnDiT4NCgTbUSGtlDCjwT5lyhiddP0WL2EwyJfBOiow="
   },
   "cm_ajax": {
     "version": "0.6.0",
@@ -12470,12 +12470,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "dailyverses": {
-    "version": "13.4.2",
+    "version": "13.4.3",
     "t3_versions": [
       13
     ],
-    "description": "Show a daily verse from the Bible of your choice",
-    "hash": "sha256-mCGz5/uadrnjwe31ReT27vrkDXD3kLPtXXUHmmgejTk="
+    "description": "Displays a daily or random Bible verse from dailyverses.net, with support for 26 languages and multiple translations. Offers flexible layout options like background images and verse links, and integrates smoothly with bootstrap_package and other Fluid-based content.",
+    "hash": "sha256-sSyow5oO79jTz4jiG3LZvoo8v7Z423men+NSA1XmLPM="
   },
   "daimi_event": {
     "version": "0.10.1",
@@ -20128,14 +20128,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "file_list": {
-    "version": "3.2.0",
+    "version": "3.3.0",
     "t3_versions": [
-      10,
       11,
-      12
+      12,
+      13
     ],
     "description": "This extension provides a frontend plugin which shows a list of files and folders in a specified directory on the file system (comparable to Apache directory listing) or using more advanced FAL selectors (categories, collection of files, ...). This extension may also be used for creating image galleries. Default templates are Bootstrap-ready.",
-    "hash": "sha256-oQb3rxZen2LCEgtOPuZdnGKKvvhv/1NT1hRU87X1ICY="
+    "hash": "sha256-J5MI/GPgkMq67Y77zXffMI+c0PnED2AYdsIx5XNq6Xw="
   },
   "file_ref_list": {
     "version": "0.1.1",
@@ -26454,14 +26454,14 @@
     "hash": "sha256-PbHhYdYXqilewMGalg5iUoWlMerN2TgwCJeN2yve0xM="
   },
   "ig_ldap_sso_auth": {
-    "version": "4.1.0",
+    "version": "4.2.0",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "This extension provides LDAP support for TYPO3 by delegating the authentication of frontend and/or backend users to the centrally-managed directory of your organization. It fully supports OpenLDAP and Active Directory and is capable of connecting securely to the authentication server using either TLS or SSL (ldaps://).",
-    "hash": "sha256-/bZ5W/ZC78caomV+pL4s76Ax+aywDbktMem2cO2rWTo="
+    "hash": "sha256-D9oekLNW54kHMhohxZpEFi23Pms6/tT24kEzdDO6iwA="
   },
   "ig_log404errors": {
     "version": "1.0.0",
@@ -36276,13 +36276,13 @@
     "hash": "sha256-phRL0foWA1dZnNn7md29fWHqxnBhyYIrWqGysoS95EY="
   },
   "mksearch": {
-    "version": "12.0.15",
+    "version": "12.0.16",
     "t3_versions": [
       11,
       12
     ],
     "description": "Generic highly adjustable and extendable search engine framework, using Zend Lucene, Apache Solr or ElasticSearch. But support for other search engines can be provided easily.",
-    "hash": "sha256-fJdSOxqFiF8KZwp480YqemrezZrt7rVve3zNq4IIdbM="
+    "hash": "sha256-2NQLhJkO+B4ScQjGjpHYzpIqywvC74pW+kb2QyB3lUQ="
   },
   "mktools": {
     "version": "12.0.2",
@@ -48305,12 +48305,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "restler": {
-    "version": "12.0.4",
+    "version": "12.0.6",
     "t3_versions": [
       12
     ],
     "description": "This extension integrates the REST-API-framework \"restler\" in TYPO3",
-    "hash": "sha256-zVM8zGMBTT6dbyZZYo0NQ03hepWyzf/uEKAKOMUKIVw="
+    "hash": "sha256-CaTw2zAPHDJnfibsyU8WPGvTpzVisoeq5GXmmQt9Rms="
   },
   "restler_examples": {
     "version": "11.0.1",
@@ -51413,13 +51413,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "semantic_suggestion": {
-    "version": "3.1.0",
+    "version": "3.2.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "TYPO3 extension for suggesting semantically related pages",
-    "hash": "sha256-uNoaTktwev/hWFDLhZ/uYGVHLD8Jb6hOc56bmB6SJlA="
+    "hash": "sha256-f2WoD3ya60DiBqgn7Fn8kelI/glb2YytdPW1gNhDbb8="
   },
   "semantify_it": {
     "version": "0.1.8",
@@ -52443,13 +52443,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "shop": {
-    "version": "5.8.3",
+    "version": "5.9.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Shop for TYPO3 incl. PayPal, PayPal-Checkout (formerly PayPal-Plus), Klarna, Stripe, Bookmarks, UPS-API, Invoice generation, backend module, compare feature, graduated prices and many more - note there is a Pro version as well! See https://www.coding.ms/typo3-extensions/typo3-shop",
-    "hash": "sha256-Xt+BkrhwX33cpqAmByJ6PsqkWK2nAq4nZK3QFy00mdw="
+    "hash": "sha256-DC9XvnJ29Enb5xjmRCzErhmyGVXN06aSUR/3swgn6rE="
   },
   "shop3ox": {
     "version": "0.0.3",
@@ -60237,14 +60237,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "theodia": {
-    "version": "2.2.3",
+    "version": "3.0.0",
     "t3_versions": [
       11,
       12,
       13
     ],
-    "description": "Fetch data from theodia.org to display the Mass schedule for the various places of worship in a parish or pastoral unit.",
-    "hash": "sha256-TvvyyUj0xTMNezbyM7+fUTVOXfsfBE+q9rCjiRNkUgU="
+    "description": "Fetch data from theodia.org to display the mass schedule for the various places of worship in a parish or pastoral unit.",
+    "hash": "sha256-/A5vrJRaXzvv3WdVDu2sUZlF/MRMYAH38iyyMludhjU="
   },
   "thomasnu": {
     "version": "6.0.0",
