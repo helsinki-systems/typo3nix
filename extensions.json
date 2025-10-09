@@ -3768,13 +3768,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.356.34",
+    "version": "3.356.35",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-GbcUTFgLvivNccXo9k1iFnc4BZcs+yV/xlSHYee01pM="
+    "hash": "sha256-hRoXEpgGuMxOMvADjEgZJkb6FvO5bWeKHIAltKTgoY4="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -19898,13 +19898,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "feuserregistration": {
-    "version": "2.6.0",
+    "version": "2.7.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "This extension enables the easy registration of a frontend user using the double opt-in process (e.g., for newsletter sign-ups). Optionally, a notification can be sent to a centrally configured email address.",
-    "hash": "sha256-NfK1pFGlNIsvcSNZaWgdxnGmSPKjRwU1tmDqTonH+pk="
+    "hash": "sha256-odNXwbfZpNvD7BPK4BSK2TLOPp0t4xT3U62Cjw7X1KU="
   },
   "feusers2xml": {
     "version": "0.0.1",
@@ -25546,14 +25546,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "hubspot_forms": {
-    "version": "1.1.1",
+    "version": "1.2.0",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "Automatically load HubSpot forms in TYPO3 pages via the HubSpot API",
-    "hash": "sha256-tzOaRusNL0U9igKAVPzv+sde5RQz7QNgj0MShbEb++4="
+    "hash": "sha256-Z8cpxB0R4gQWMYPo/7OBpQTV6fJmhkEMXQi5XPJvTuw="
   },
   "humhub": {
     "version": "12.4.8",
@@ -28077,12 +28077,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "iupacnomenclature": {
-    "version": "1.1.0",
+    "version": "1.1.1",
     "t3_versions": [
       12
     ],
     "description": "An extension to find the right IUPAC nomenclature for a given chemical structure.",
-    "hash": "sha256-eRotLejeVeBrUqMZkNmkVH15xlR0X1je0TxcfcLTwxA="
+    "hash": "sha256-lkBZDEX1+QCzkiOVQOGxFLzF/il7EksmANFGt72tozU="
   },
   "ivw": {
     "version": "1.1.0",
@@ -34123,13 +34123,13 @@
     "hash": "sha256-3mfOryBvxeFvY933oZWBVj/bmIpFQGdypv046cKB9QA="
   },
   "matomo_widgets": {
-    "version": "3.3.0",
+    "version": "3.4.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Dashboard widgets with Matomo reports",
-    "hash": "sha256-9oL8gtQvYcL/QXRu9vTpPMtkfKn14clzgdNvSylbIQs="
+    "hash": "sha256-GV+8YmQD9CACP+CNjIW/ojH4QbxDaJkeYYOWZxmDnzg="
   },
   "matomoapi": {
     "version": "1.0.1",
@@ -42025,14 +42025,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "oidc": {
-    "version": "4.0.0",
+    "version": "4.0.1",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "This extension uses OpenID Connect to authenticate users.",
-    "hash": "sha256-i3gM4/HDuNdLopa69MOEJ3HC4OKmcDGtJH7FdOJi6AI="
+    "hash": "sha256-D1Jc3GkZzKDoxz2o9THEGni/Px7ObGKgh2/yl1bwskg="
   },
   "oidc_client": {
     "version": "0.3.1",
@@ -47730,13 +47730,13 @@
     "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
   },
   "recordmodules": {
-    "version": "1.2.0",
+    "version": "1.2.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "Adds backend modules for configured record types.",
-    "hash": "sha256-rWzRIGHVKqHwn5fLlIKzLN9lOsPGylvbAzzRszwi2UQ="
+    "hash": "sha256-OV12prIwjmkQw0hUct+/vBdx+DoOzjERtzOrBq1aAm8="
   },
   "recordsmanager": {
     "version": "1.7.0",
@@ -52443,13 +52443,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "shop": {
-    "version": "5.9.0",
+    "version": "5.9.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "Shop for TYPO3 incl. PayPal, PayPal-Checkout (formerly PayPal-Plus), Klarna, Stripe, Bookmarks, UPS-API, Invoice generation, backend module, compare feature, graduated prices and many more - note there is a Pro version as well! See https://www.coding.ms/typo3-extensions/typo3-shop",
-    "hash": "sha256-DC9XvnJ29Enb5xjmRCzErhmyGVXN06aSUR/3swgn6rE="
+    "hash": "sha256-KdWxk8S4OK93qOWfIeKlcb5J5+ffrh/gPteDhSRHC1g="
   },
   "shop3ox": {
     "version": "0.0.3",
@@ -53860,6 +53860,14 @@
     ],
     "description": "Portfolio is an easy extension for showing your achivements to public. Organized presentation of work samples.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "skynetaccessibilityscanner": {
+    "version": "13.0.0",
+    "t3_versions": [
+      13
+    ],
+    "description": "WCAG Website Accessibility widget improves Typo3 website ADA compliance and browser experience for ADA, WCAG 2.1 & 2.2, Section 508, Australian DDA, European EAA EN 301 549, UK Equality Act (EA), Israeli Standard 5568, California Unruh, Ontario AODA, Canada ACA, German BITV, France RGAA, Brazilian Inclusion Law (LBI 13.146/2015), Spain UNE 139803:2012, JIS X 8341 (Japan), Italian Stanca Act and Switzerland DDA Standards.",
+    "hash": "sha256-wzjTusK1ltGDhn+KzuGV5lRy56+M6HwzKLuGNOve26Y="
   },
   "sl_codesnippets24": {
     "version": "0.0.0",
