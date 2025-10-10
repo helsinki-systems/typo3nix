@@ -20837,13 +20837,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fluid_fpdf": {
-    "version": "2.8.3",
+    "version": "2.8.4",
     "t3_versions": [
       12,
       13
     ],
     "description": "This extension provides you a complete set of ViewHelpers for dealing with FPDF by using Fluid. You can use the ViewHelpers easily in own Extensions just by defining the fpdf-Namespace. Additionally you are able to use the build in plugin, for displaying predefined PDF. This plugin offers you automatically all available PDFs.",
-    "hash": "sha256-Dt+i9vTxUZ3Sz/c4Qpeihjc8exSv7t2MfgZG/KRwR4Y="
+    "hash": "sha256-m7jYXVaUyCSAsU2Mpg/A+KEwjNMHuCtZwR76FslmpOY="
   },
   "fluid_info": {
     "version": "0.1.0",
@@ -32064,12 +32064,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "libconnect": {
-    "version": "10.0.1",
+    "version": "10.0.3",
     "t3_versions": [
       12
     ],
     "description": "Diese Extension ist von Avonis im Auftrag der Staats- und Universitaetsbibliothek Hamburg entwickelt worden. Mit ihr lassen sich Ergebnisse aus den Informationssystemen EZB und DBIS der Universitaet Regensburg direkt in das TYPO3-System einbinden.",
-    "hash": "sha256-hR3N0ZhVl1FskiygZ16dvqITZswVlSQotRZfXkdnhM8="
+    "hash": "sha256-1gEx6KBYr78UFrfviCnJpXv0ahjgL61s354p7tP2Vv0="
   },
   "libideal": {
     "version": "1.0.0",
@@ -36276,13 +36276,13 @@
     "hash": "sha256-phRL0foWA1dZnNn7md29fWHqxnBhyYIrWqGysoS95EY="
   },
   "mksearch": {
-    "version": "12.0.16",
+    "version": "12.0.17",
     "t3_versions": [
       11,
       12
     ],
     "description": "Generic highly adjustable and extendable search engine framework, using Zend Lucene, Apache Solr or ElasticSearch. But support for other search engines can be provided easily.",
-    "hash": "sha256-2NQLhJkO+B4ScQjGjpHYzpIqywvC74pW+kb2QyB3lUQ="
+    "hash": "sha256-elrT0fza7sE0osfiwUJkpMMWU/MEfeWVwVPebNZ+VUc="
   },
   "mktools": {
     "version": "12.0.2",
@@ -40965,12 +40965,13 @@
     "hash": "sha256-ypGtbeafhKWTkTS0TZ6rfBUxWDnrP0s8tDYih/EsNXc="
   },
   "ns_sharethis": {
-    "version": "12.0.2",
+    "version": "13.0.0",
     "t3_versions": [
-      12
+      12,
+      13
     ],
-    "description": "Easily integrate social share buttons into your TYPO3 website. Choose where to display share options using extension settings. Enhance user engagement and support TYPO3 v12 compatibility.",
-    "hash": "sha256-YSpcFCOBa6BQV3tT7YL5Fu0kU/TqlMqFci4ffib7uow="
+    "description": "With Help of TYPO3 ShareThis Extension, users can share the page/post with others effortlessly using the native share action.Additionally, you can choose which pages or posts to show the share buttons via our Settings page, making it simple to add the share feature to your websites.TYPO3 v12 Compitibilty is Plus! ",
+    "hash": "sha256-LBdQnYwHHilVFO+NRS1mpZb4A5ddu4joGAZnvBxJWZk="
   },
   "ns_snow": {
     "version": "13.0.1",
@@ -45436,13 +45437,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "poll": {
-    "version": "5.0.3",
+    "version": "5.0.4",
     "t3_versions": [
       12,
       13
     ],
     "description": "Create polls/surveys/Umfragen in TYPO3. Multiple question types and answer layouts. There is also a PRO version available which adds custom user answers and more. (Umfrage, Poll, Opinion, Vote, SimplePoll) See https://www.coding.ms/typo3-extensions/typo3-poll",
-    "hash": "sha256-ghyB6AOVQAwPfsgqz1hDfdjZhy16JkWhZ5tTAUV5fX8="
+    "hash": "sha256-PuGCNlsuxBDTXtFAoJDDyjIquxdtejrRQn2CJU0yZNw="
   },
   "polyglot": {
     "version": "1.0.0",
@@ -57733,12 +57734,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "t3extblog": {
-    "version": "9.0.0",
+    "version": "9.1.0",
     "t3_versions": [
       13
     ],
-    "description": "A record based blog extension for TYPO3 CMS. Easy to use and packed with features (incl.\r",
-    "hash": "sha256-v25cWtHlFhRoPw2QZafdszukqPP94Fd9eBl1pmo8ryw="
+    "description": "A record based blog extension for TYPO3 CMS. Easy to use and packed with features (incl.",
+    "hash": "sha256-wDkYD658J2MjM2ecD0PQq3/jliN59iOAyaOS1PCdOiI="
   },
   "t3extension_tools": {
     "version": "1.0.1",
