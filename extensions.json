@@ -3768,13 +3768,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.356.36",
+    "version": "3.356.37",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-MPfSUTgamgM73AyRncciVBYaI5H1Ik4SJmf4IsoUCLM="
+    "hash": "sha256-gD5LUq4Z7WeQ4AQSJmTvLWNU3Rhx7vtFvNAvF7jjmQ8="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -8294,13 +8294,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cf_cookiemanager": {
-    "version": "1.8.2",
+    "version": "1.8.3",
     "t3_versions": [
       12,
       13
     ],
     "description": "Manage cookies, scripts, and GDPR compliance on your Typo3 website with CodingFreaks Typo3 Cookie Manager. Customize cookie banners, streamline workflow, and enhance user experience. Ensure GDPR compliance and take control of cookie management with our Typo3 cookie management extension. Visit the official Typo3 Documentation page to learn more.",
-    "hash": "sha256-sc4up5su5vX7pa51Mu7nsdOICMc0arowsumtRgfojcY="
+    "hash": "sha256-jQS5efcncgbvjpJu6rBa16ISMBCeCoHccRGFgHTLQug="
   },
   "cf_google_authenticator": {
     "version": "1.2.4",
@@ -16006,13 +16006,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "dpn_glossary": {
-    "version": "6.1.1",
+    "version": "6.1.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "Glossary extension with page parser",
-    "hash": "sha256-gDSj6LcJoafFx7LZLLYfUsKt1PErrCbj94+1XCjD1+Q="
+    "hash": "sha256-YZspZscDOHjW3+hg8gI6OQnDCBdZjO+pxqScMQxSy98="
   },
   "dr_blob": {
     "version": "2.3.2",
@@ -43357,13 +43357,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "parsedown_extra": {
-    "version": "4.1.2",
+    "version": "4.2.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "Provides a content element which displays markdown files. Parses email links with TYPO3 encryption. ViewHelper for parsing Markdown from individual sources. Defining abbreviations globally by using TypoScript. Code Highlighting.",
-    "hash": "sha256-iea3xqzrTNlfu8U17N6teue2q+6XGvBidy34SQ41ONg="
+    "hash": "sha256-cakSSkWgdea7D/WPEZL3VlBlF55l2Ujq90Nmpb5D6bQ="
   },
   "partner": {
     "version": "0.5.21",
