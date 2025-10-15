@@ -1665,14 +1665,14 @@
     "hash": "sha256-ugQQudPRCapoQbF84Hf4TnxbzXgYZmgrgPV4WuMPCVg="
   },
   "ai_tools": {
-    "version": "1.1.0",
+    "version": "1.2.0",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "A TYPO3 extension that leverages artificial intelligence to enhance content and accessibility",
-    "hash": "sha256-GcEh2HTVZiS+fN1JRCgcvmPjut5/NyXJmqay6qD1I1A="
+    "hash": "sha256-ihH3MUYavBBEDbSrgkk+sOxiGYSpJTMQuJnsFDwR/nY="
   },
   "ai_translate": {
     "version": "4.0.0",
@@ -3768,13 +3768,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.356.37",
+    "version": "3.356.39",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-gD5LUq4Z7WeQ4AQSJmTvLWNU3Rhx7vtFvNAvF7jjmQ8="
+    "hash": "sha256-YkcdlwILyD2quLJZeNWLh+INbCP0UyU54HdtFTC+HdE="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -30864,13 +30864,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "klaro_consent_manager": {
-    "version": "2.1.1",
+    "version": "2.2.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "Functionally complete, flexible TYPO3 integration of Klaro! Consent Management by KIProtect GmbH, a powerful tool that protects your visitors' privacy and data.",
-    "hash": "sha256-CscdI/XUYXlBN9JLaorPzI3XUssFOJ6TRvWF6VjiT+8="
+    "hash": "sha256-e/9yAVBpjAlnXPopn8vAblDBzLJViaiZ6fvVUC2p9wQ="
   },
   "klarokratie": {
     "version": "13.4.19",
@@ -32064,12 +32064,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "libconnect": {
-    "version": "10.0.3",
+    "version": "10.0.4",
     "t3_versions": [
       12
     ],
     "description": "Diese Extension ist von Avonis im Auftrag der Staats- und Universitaetsbibliothek Hamburg entwickelt worden. Mit ihr lassen sich Ergebnisse aus den Informationssystemen EZB und DBIS der Universitaet Regensburg direkt in das TYPO3-System einbinden.",
-    "hash": "sha256-1gEx6KBYr78UFrfviCnJpXv0ahjgL61s354p7tP2Vv0="
+    "hash": "sha256-LE38YqbQZG74CnIUhV6DyTKalXSNg9KrCXQF85m7sqU="
   },
   "libideal": {
     "version": "1.0.0",
@@ -40478,12 +40478,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "nr_image_optimize": {
-    "version": "2.1.0",
+    "version": "2.2.0",
     "t3_versions": [
       13
     ],
     "description": "Advanced image optimization extension for TYPO3 13. Features include: Lazy image processing (on-demand generation), WebP and AVIF format support with automatic fallback, optimized compression for smaller file sizes, ViewHelper for responsive images with srcset support, middleware for efficient image delivery, and support for Intervention Image library. Perfect for improving Core Web Vitals and page loading performance.",
-    "hash": "sha256-i1RLPwgrBDe/1+ES0gUubN3BIC6pWUpvAU9qTzeIrQA="
+    "hash": "sha256-3JVt0aZPjsQfKTHIvjIkzKXLr81twqqhVj2p572o+XY="
   },
   "nr_image_sitemap": {
     "version": "13.0.6",
@@ -45591,12 +45591,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "powermail": {
-    "version": "13.0.3",
+    "version": "13.0.4",
     "t3_versions": [
       13
     ],
     "description": "Powermail is a well-known, editor-friendly, powerful",
-    "hash": "sha256-n3XTsjRAKwn7ggCJ8ksKU7+A0HZzx7CjrXcmTL11Qmo="
+    "hash": "sha256-GMmhap3IfPLUEm1yx03IADP9g4tfT/I0oNtGTYdGa4w="
   },
   "powermail2document": {
     "version": "1.6.1",
@@ -48119,12 +48119,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "reserve": {
-    "version": "4.1.1",
+    "version": "4.1.3",
     "t3_versions": [
       13
     ],
     "description": "This extension allows you to reserve tickets for one or more persons using a period table and a form. Each reservation has it’s own QR Code that can be scanned at the event.",
-    "hash": "sha256-RqTHjRsNACCDPRWkJrlQgImweztHYHryQmgTTq+u9ps="
+    "hash": "sha256-uLnyLtQjhIv+RKJyOeWb2wiARvh2fv0m26SOaDwauKs="
   },
   "reset_scheduler": {
     "version": "1.0.1",
@@ -56110,13 +56110,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "static_info_tables_hu": {
-    "version": "7.0.0",
+    "version": "13.4.0",
     "t3_versions": [
-      10,
-      11
+      13
     ],
     "description": "Hungarian (hu) language pack for the Static Info Tables providing localized names for countries.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-+Y1IiUoU2gVmpPgcueXM/FwgYxCRNYvH4oNjK+KlU2o="
   },
   "static_info_tables_id": {
     "version": "7.0.0",
@@ -56203,12 +56202,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "static_info_tables_nl": {
-    "version": "12.4.0",
+    "version": "13.4.0",
     "t3_versions": [
-      12
+      13
     ],
     "description": "(nl) language pack for the Static Info Tables providing localized names for countries, currencies and so on.",
-    "hash": "sha256-zFbr1kFd4IgZ3F3kyEJAXFn/IdPHA2uGsKs8fxsCabw="
+    "hash": "sha256-NW1rPDeYw362VUMmbEBmXQQ77P5lRxqWxskC97lN7sU="
   },
   "static_info_tables_no": {
     "version": "6.4.0",
@@ -56219,20 +56218,20 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "static_info_tables_pl": {
-    "version": "12.4.0",
+    "version": "13.4.0",
     "t3_versions": [
-      12
+      13
     ],
     "description": "Polish (pl) language pack for the Static Info Tables providing localized names for countries, currencies and so on.",
-    "hash": "sha256-QKde1wpmTvWbqHSd3rWNs1V9LGfvvffdiQ7qX5Jw+E4="
+    "hash": "sha256-273ZcblS28hmTxrkZWsFgytWaNN4vWZS0ZENb0oAeQc="
   },
   "static_info_tables_pt": {
-    "version": "12.4.0",
+    "version": "13.4.0",
     "t3_versions": [
-      12
+      13
     ],
     "description": "(pt) language pack for the Static Info Tables providing localized names for countries.",
-    "hash": "sha256-dk3Rt9nKkDfSVzVBFNh4ZLp/X/QMhsSo9J2a6nM0hQ8="
+    "hash": "sha256-ggehL69ogXfewJZuLtHUql/M8jLQU8t3ZrBZXtJ0YU8="
   },
   "static_info_tables_pt_br": {
     "version": "7.0.0",
@@ -56252,12 +56251,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "static_info_tables_ro": {
-    "version": "12.4.0",
+    "version": "13.4.0",
     "t3_versions": [
-      12
+      13
     ],
     "description": "(ro) language pack for the Static Info Tables providing localized names for countries.",
-    "hash": "sha256-3t+pq11Yhbao2b+L+6z/A4YjprPoB2NUbADu0r0y68k="
+    "hash": "sha256-3dIl2EqmeDfyMVzF5NZuVL2J/G1LFHYqZudEeoPKerQ="
   },
   "static_info_tables_ru": {
     "version": "12.4.0",
@@ -65067,13 +65066,13 @@
     "hash": "sha256-+DblC8ydsK9LQSUvL3eI1WGmkpLyILuhDLb/YIzkt18="
   },
   "warming": {
-    "version": "4.4.0",
+    "version": "4.4.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "Warms up Frontend caches based on an XML sitemap. Cache warmup can be triggered via TYPO3 backend or using a console command. Supports multiple languages and custom crawler implementations.",
-    "hash": "sha256-vjj/lB10ZH2pO+lia5Zh3bqChcBkbfi59OrpyBe5T1U="
+    "hash": "sha256-sB5Nm+0UWTPyMY4guARLnHkwRzlh/Y3/H8xGNFY25Gs="
   },
   "warmup": {
     "version": "1.3.1",
