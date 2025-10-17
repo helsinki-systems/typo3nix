@@ -1195,12 +1195,12 @@
     "hash": "sha256-Qx7pEfxHzU21N5I2lCBk34qUvM/L0Ij1XDE7AIhUKNI="
   },
   "address": {
-    "version": "13.0.12",
+    "version": "13.0.13",
     "t3_versions": [
       13
     ],
     "description": "Address extension with multiple contact types per address. Code is based on news extension.",
-    "hash": "sha256-UQhdDCbl9speH1Dm5S6ZGuCUWAQBBXCzM4lxe7nsNIA="
+    "hash": "sha256-u/cK6S7KkdAkJOL7iF2k+VJBVMxYvNIhTfTbZ8nh/uI="
   },
   "address_manager": {
     "version": "4.0.7",
@@ -1657,12 +1657,12 @@
     "hash": "sha256-VjFx9kagkYZ+UP502oKGTs64zlOsNZ0JCvSkQosql58="
   },
   "ai_suite": {
-    "version": "13.7.0",
+    "version": "13.8.0",
     "t3_versions": [
       13
     ],
     "description": "The AI Suite optimizes the workflow of project managers, agencies and freelancers by using the latest AI technologies. It seamlessly integrates a wide variety of AI interfaces and the AI Suite open source models into the TYPO3 backend. Enables, among other things, more efficient creation and management of image and page metadata (individually and as batch processing), content translations (including \"Easy Language\"), content creation and modification, image generation and page structure generation.",
-    "hash": "sha256-ugQQudPRCapoQbF84Hf4TnxbzXgYZmgrgPV4WuMPCVg="
+    "hash": "sha256-QhYyf36PhowydTZRUgZeOuVvgpi6eCAoLhhTSWSiNqc="
   },
   "ai_tools": {
     "version": "1.2.0",
@@ -1691,13 +1691,13 @@
     "hash": "sha256-9HaqYJClnzh8JN8UVPIESY88thrW+PLWi5kdkD8LAfE="
   },
   "aimeos": {
-    "version": "25.7.1",
+    "version": "25.10.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "Professional, full-featured and ultra-fast TYPO3 e-commerce extension for online shops, complex B2B applications and #gigacommerce. Turns TYPO3 into the best platform for content commerce and your e-commerce requirements (also available as TYPO3 distribution)",
-    "hash": "sha256-Q6Dw+FNFqNwm5ykG0CmFPq4A3/6aiAAphCvJg+Sx8YI="
+    "hash": "sha256-r7VfhxechclZon9dCF5R0x5dxgtfoJJDmmXRSrQNmAY="
   },
   "aimeos_dist": {
     "version": "25.4.1",
@@ -3768,13 +3768,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.356.39",
+    "version": "3.356.41",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-YkcdlwILyD2quLJZeNWLh+INbCP0UyU54HdtFTC+HdE="
+    "hash": "sha256-4A2M5LOIzc9nITyK+JfpTIdS8a22TRrzjAxveid28/A="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -27058,12 +27058,12 @@
     "hash": "sha256-MOD26kr1/KRW+zzn6ijqaJ4qYdmFYWBjyKzT8KEFFrk="
   },
   "in2publish_core": {
-    "version": "13.1.1",
+    "version": "13.2.0",
     "t3_versions": [
       13
     ],
     "description": "Content publishing extension to connect stage and production server",
-    "hash": "sha256-qdEi5A2Pep8iX2UWbBqaBlsZixnYkD8ZYwPMsu1V0rU="
+    "hash": "sha256-evwGUsTKVuvnNqEEax8exVjscIeCWRgWd4r5/igCqXk="
   },
   "in2rss": {
     "version": "0.2.2",
@@ -30864,13 +30864,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "klaro_consent_manager": {
-    "version": "2.2.1",
+    "version": "2.2.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "Functionally complete, flexible TYPO3 integration of Klaro! Consent Management by KIProtect GmbH, a powerful tool that protects your visitors' privacy and data.",
-    "hash": "sha256-e/9yAVBpjAlnXPopn8vAblDBzLJViaiZ6fvVUC2p9wQ="
+    "hash": "sha256-KqDXDPMNfAkxSj2lCNT9SHk+p+GnyoA89X/rprCM6dE="
   },
   "klarokratie": {
     "version": "13.4.19",
@@ -33397,14 +33397,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mail": {
-    "version": "3.8.0",
+    "version": "3.9.0",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "Powerful newsletter system for TYPO3",
-    "hash": "sha256-QSf0/ol7iLApoJGUW+uAD/hxUEVffpsa0HznOxLlCqY="
+    "hash": "sha256-j2KXfuzWz9xIKDgVNJ4QDhU/UOFTVfesiQaWVoQokBA="
   },
   "mail2news": {
     "version": "2.0.3",
@@ -40567,18 +40567,13 @@
     "hash": "sha256-WeMI9Qu/eOkFdn7XsWrYZGKA3pHzaotg6V4Uank5maY="
   },
   "ns_all_lightbox": {
-    "version": "13.0.1",
+    "version": "13.1.0",
     "t3_versions": [
-      7,
-      8,
-      9,
-      10,
-      11,
       12,
       13
     ],
     "description": "Seamlessly integrate multiple jQuery sliders like Nivo, Royal Slider, OwlCarousel, and more into your TYPO3 site – all in one lightweight extension.",
-    "hash": "sha256-Y8UFhdxAA1X4YZf6gSMgEK7HwCpjF+6H28dkGq0KL9M="
+    "hash": "sha256-zHLb0izO/x6LxFdnXEoZcgSkPwWVCmmdjpuL7p+szAk="
   },
   "ns_all_sliders": {
     "version": "13.0.1",
