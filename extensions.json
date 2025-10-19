@@ -5458,13 +5458,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "bootstrap_grids": {
-    "version": "3.0.0",
+    "version": "6.0.0",
     "t3_versions": [
-      10,
-      11
+      12,
+      13
     ],
     "description": "Gridelements for bootstrap v5. Column grids, tabs and accordion.",
-    "hash": "sha256-/sbBrqv2cLJORtxsyRlrMziUPwH/hxGE+UHNpKbjqxI="
+    "hash": "sha256-enAjz6OGExIPoclDwxFsPaopz98GNa56n5EFUW+V0wg="
   },
   "bootstrap_links": {
     "version": "0.6.0",
@@ -38548,10 +38548,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mysqlreport": {
-    "version": "4.0.1",
-    "t3_versions": [],
+    "version": "4.0.2",
+    "t3_versions": [
+      13
+    ],
     "description": "Analyze and profile your TYPO3 database queries",
-    "hash": "sha256-f17j+Dzrr/ng/gg5OIae/L2nFQi6F+vXpTf9k7kQkuw="
+    "hash": "sha256-++DbdUiKevNf+NN5hbybjHX9/QR4m7lvZcDqqhvPJmA="
   },
   "mytemplate1": {
     "version": "0.0.2",
@@ -63529,12 +63531,13 @@
     "hash": "sha256-X+M95W61qrOca855kJbU7FKAbXgL7C7+r/33a4IJTuU="
   },
   "typo3_login_warning": {
-    "version": "0.3.0",
+    "version": "0.5.0",
     "t3_versions": [
+      12,
       13
     ],
     "description": "Extends the TYPO3 backend login warning_mode functionality to inform about suspicious logins with several features.",
-    "hash": "sha256-kheboqwgph/KaU1XofdxWVkp4DmJPBqStoqlrbQHDPo="
+    "hash": "sha256-COqWuWs1+mnbklQF/G/fTa1cR5E7Jd2Chv36uud1sUA="
   },
   "typo3_maileon_integration": {
     "version": "4.0.1",
