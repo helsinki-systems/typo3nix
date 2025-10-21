@@ -10174,12 +10174,12 @@
     "hash": "sha256-AfToijkanNxy5yWgP7Vdw03r4FjS4ylg2fCf0SLYwKU="
   },
   "content_blocks": {
-    "version": "1.3.16",
+    "version": "1.3.18",
     "t3_versions": [
       13
     ],
     "description": "TYPO3 CMS Content Blocks - Content Types API | Define reusable components via YAML",
-    "hash": "sha256-6vIui5pM2R4zXfzXGB2nwO0zwoRMmSPkkfgesQyzOIw="
+    "hash": "sha256-Bqh+pZg6O21FdDpt7jg9pNER7LuKfbxzkqo/bo8Olh8="
   },
   "content_blocks_bootstrap": {
     "version": "0.0.3",
@@ -10190,13 +10190,12 @@
     "hash": "sha256-ZnHOjADySWb8miVaBidJs7V9cKvwnW6D4Mj7WNzG0mM="
   },
   "content_consent": {
-    "version": "3.0.3",
+    "version": "4.0.0",
     "t3_versions": [
-      12,
       13
     ],
     "description": "Provides a content consent plugin to load any content elements and custom plugins by ajax without jQuery! So you can include Google Maps, YouTube- or Vimeo videos GDPR/DSGVO compliant. Best used with Bootstrap 5",
-    "hash": "sha256-w0zmHb1yBnOag8+dl3XMcbYNLzN75pe6BGb8pjWuQeo="
+    "hash": "sha256-POMY2cIYglXtNScTk9Ts6T7pQxOtrF6KvZY+JLdMkvg="
   },
   "content_defender": {
     "version": "3.5.3",
@@ -10490,13 +10489,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "contributory_calculator": {
-    "version": "5.0.1",
+    "version": "7.0.0",
     "t3_versions": [
-      10,
-      11
+      13
     ],
     "description": "Extension to calculate contributories in the frontend.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-SLOad4P4PZn64TKbs62c8TmpsnKVzueNIa9SKZuOdns="
   },
   "contsite": {
     "version": "0.2.0",
@@ -20866,6 +20864,14 @@
     "description": "Creates automatically tags for TYPO3's page cache, based on used variables in rendered Fluid templates on current page.",
     "hash": "sha256-DiE5UgAFeEq3UHmNQg2lOvRlmIIEj29ELkb0ylk6/9M="
   },
+  "fluid_primitives": {
+    "version": "0.0.1",
+    "t3_versions": [
+      13
+    ],
+    "description": "The headless component library for TYPO3 Fluid",
+    "hash": "sha256-yI/jPmjiIDKFKsLqgeMVQH/gZCe7goCC0na25rcQjRI="
+  },
   "fluid_recommendation": {
     "version": "1.3.0",
     "t3_versions": [
@@ -23539,13 +23545,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "glossaries": {
-    "version": "5.0.4",
+    "version": "5.1.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Extension for displaying and managing your website glossar. Includes a backend module, statistics, extended authorizations and much more.",
-    "hash": "sha256-Cx7QhPV6r8cKYN2Ks5J+ZpdoeUrBvybFh/yPZSozFCs="
+    "hash": "sha256-uV8iiLiELR9bxd3g/+RC4yyNFZiMQbOmZp3ZyGxjLFY="
   },
   "glossarify": {
     "version": "0.0.1",
@@ -24975,13 +24981,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "hio_typo3_connector": {
-    "version": "0.10.0",
+    "version": "0.11.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "TYPO3 Connector für die Integration von Daten aus HISinOne",
-    "hash": "sha256-jvBRD2IpKJZKKBsEpeICMRoU39KbhJC6Wz+UfEdJRnI="
+    "hash": "sha256-9hjDW7B3k+yWPKivMbPBaDt7pCS3I2orRVKpHmqLcmk="
   },
   "hipchat": {
     "version": "1.1.3",
@@ -27058,12 +27064,12 @@
     "hash": "sha256-MOD26kr1/KRW+zzn6ijqaJ4qYdmFYWBjyKzT8KEFFrk="
   },
   "in2publish_core": {
-    "version": "13.2.0",
+    "version": "13.2.1",
     "t3_versions": [
       13
     ],
     "description": "Content publishing extension to connect stage and production server",
-    "hash": "sha256-evwGUsTKVuvnNqEEax8exVjscIeCWRgWd4r5/igCqXk="
+    "hash": "sha256-6tKJUR0n7A9Boo+l3R/tXGAIvxZ1nKYiswnvRUN4hVk="
   },
   "in2rss": {
     "version": "0.2.2",
@@ -32064,12 +32070,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "libconnect": {
-    "version": "10.0.4",
+    "version": "11.0.0",
     "t3_versions": [
-      12
+      13
     ],
     "description": "Diese Extension ist von Avonis im Auftrag der Staats- und Universitaetsbibliothek Hamburg entwickelt worden. Mit ihr lassen sich Ergebnisse aus den Informationssystemen EZB und DBIS der Universitaet Regensburg direkt in das TYPO3-System einbinden.",
-    "hash": "sha256-LE38YqbQZG74CnIUhV6DyTKalXSNg9KrCXQF85m7sqU="
+    "hash": "sha256-yYvAwPI2Y49Z1Vj9eW9kv8USUGLA2sKHfuUhS3JWmrM="
   },
   "libideal": {
     "version": "1.0.0",
@@ -34332,12 +34338,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mbox": {
-    "version": "3.0.0",
+    "version": "3.0.2",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "TYPO3 CMS backend module to view mbox file contents, like an email client.",
-    "hash": "sha256-7kSF+ntiTzW/F6qeMiSqkygDWfVdum4PJwVMH6mINRM="
+    "hash": "sha256-oyQQ8Sf1Bwx/DH3u0GoSRiTjKSxccXsr4sxslGg0Kt0="
   },
   "mbox_userimport": {
     "version": "0.0.1",
@@ -36276,13 +36283,13 @@
     "hash": "sha256-phRL0foWA1dZnNn7md29fWHqxnBhyYIrWqGysoS95EY="
   },
   "mksearch": {
-    "version": "12.0.17",
+    "version": "12.0.19",
     "t3_versions": [
       11,
       12
     ],
     "description": "Generic highly adjustable and extendable search engine framework, using Zend Lucene, Apache Solr or ElasticSearch. But support for other search engines can be provided easily.",
-    "hash": "sha256-elrT0fza7sE0osfiwUJkpMMWU/MEfeWVwVPebNZ+VUc="
+    "hash": "sha256-Yxi3wd6PUsFS7yMlRvMqxpiRUNbHQdANx9EPJm9RK+A="
   },
   "mktools": {
     "version": "12.0.2",
@@ -36780,13 +36787,13 @@
     "hash": "sha256-QBq7RgOtpBz21jSQfzIxEurNCmBZlHvZXZt3wzoyyMw="
   },
   "modules": {
-    "version": "7.4.6",
+    "version": "7.5.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "Frontend-User-Registration, Profile, Invitations, Listing with detailview, Addressmanagement, Frontend-Recordmanagement. User friendly Backendmodule for managing Frontend- and Backend-Users and other Records. Toolbox for frontend and backend modules in TYPO3.",
-    "hash": "sha256-cWWfSIt6IoJLk2GSohsiwHFnFs5y6isti67OB1GmiYU="
+    "hash": "sha256-g2s0FDbkbAjjayKxPIiq3ReJM+FnpJr0blTB2mi1/fs="
   },
   "modulis_animated_gif": {
     "version": "0.0.4",
@@ -38506,12 +38513,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "myra_cloud_connector": {
-    "version": "2.0.1",
+    "version": "3.0.0",
     "t3_versions": [
-      12
+      13
     ],
     "description": "Clear-Cache for Myra Cloud systems",
-    "hash": "sha256-q5hipnTRA8GdQ9caAQaSJX778oaRVT054J0VVY9pYCk="
+    "hash": "sha256-79/QfoOg9TVXT98MrW9yQTeA+YJM/qzsAk/nPNvd3Z4="
   },
   "myriad": {
     "version": "0.0.1",
@@ -43354,13 +43361,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "parsedown_extra": {
-    "version": "4.3.0",
+    "version": "4.3.2",
     "t3_versions": [
       12,
       13
     ],
-    "description": "Provides a content element which displays markdown files including Mermaid diagrams. Parses email links with TYPO3 encryption. ViewHelper for parsing Markdown from individual sources. Defining abbreviations globally by using TypoScript. Code Highlighting.",
-    "hash": "sha256-rcEDuMTqLypbXY990eK0kxn+6eBCzeIu16UB98NYpKI="
+    "description": "Provides a content element and ViewHelper which displays markdown files including Mermaid diagrams. Parses email links with TYPO3 encryption. ViewHelper for parsing Markdown from individual sources. Defining abbreviations globally by using TypoScript. Code Highlighting.",
+    "hash": "sha256-lIy71Uzb/DtOFS/3ACzpYWHv/bQZhxBZKi4XiNig74Y="
   },
   "partner": {
     "version": "0.5.21",
@@ -45434,13 +45441,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "poll": {
-    "version": "5.0.4",
+    "version": "5.1.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Create polls/surveys/Umfragen in TYPO3. Multiple question types and answer layouts. There is also a PRO version available which adds custom user answers and more. (Umfrage, Poll, Opinion, Vote, SimplePoll) See https://www.coding.ms/typo3-extensions/typo3-poll",
-    "hash": "sha256-PuGCNlsuxBDTXtFAoJDDyjIquxdtejrRQn2CJU0yZNw="
+    "hash": "sha256-Kj9swcZn3TWcmD47sl8y88Jv4NEHqhljjklErZYLf4E="
   },
   "polyglot": {
     "version": "1.0.0",
@@ -52441,13 +52448,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "shop": {
-    "version": "5.9.1",
+    "version": "5.9.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "Shop for TYPO3 incl. PayPal, PayPal-Checkout (formerly PayPal-Plus), Klarna, Stripe, Bookmarks, UPS-API, Invoice generation, backend module, compare feature, graduated prices and many more - note there is a Pro version as well! See https://www.coding.ms/typo3-extensions/typo3-shop",
-    "hash": "sha256-KdWxk8S4OK93qOWfIeKlcb5J5+ffrh/gPteDhSRHC1g="
+    "hash": "sha256-bh2B4mCFAnIsHQH1fpj40wcj95OFGZ2txFdesuKIfdw="
   },
   "shop3ox": {
     "version": "0.0.3",
@@ -55268,13 +55275,13 @@
     "hash": "sha256-No1JK3KFYUaqRS+mR2FRmLw40WGYz4eLCKQ7BFq8Ha0="
   },
   "spreadsheets": {
-    "version": "4.0.2",
+    "version": "4.0.3",
     "t3_versions": [
       11,
       12
     ],
     "description": "Extension to add field definition and plugin to show and select information from spreadsheets",
-    "hash": "sha256-NhrkBu4avo3yFFycfol+V70k4TX6twUM/5nIxHhvs7E="
+    "hash": "sha256-EUECmzSmrNZjOrj9ry3Y0gNcXFgoBOnG0sted+la5F0="
   },
   "spreadshop": {
     "version": "1.0.2",
@@ -56622,12 +56629,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "storybook": {
-    "version": "0.1.27",
+    "version": "0.1.28",
     "t3_versions": [
       13
     ],
     "description": "The one and only Storybook Renderer for TYPO3 Fluid Components",
-    "hash": "sha256-Q5LdJFRcIbWc7YvICqyrQQVjYMqHKwug6adY48fXUFE="
+    "hash": "sha256-Zw1TxFnDWp1Ts6cZGT/fjEoZMrZHR6oqEn+ONcah8kY="
   },
   "streamovations_vp": {
     "version": "2.0.2",
@@ -63531,13 +63538,13 @@
     "hash": "sha256-X+M95W61qrOca855kJbU7FKAbXgL7C7+r/33a4IJTuU="
   },
   "typo3_login_warning": {
-    "version": "0.5.0",
+    "version": "0.6.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Extends the TYPO3 backend login warning_mode functionality to inform about suspicious logins with several features.",
-    "hash": "sha256-COqWuWs1+mnbklQF/G/fTa1cR5E7Jd2Chv36uud1sUA="
+    "hash": "sha256-TUSeka4F7Qjq0eM0bOJB7tNAxWmh9yKIUwETOtJ6as8="
   },
   "typo3_maileon_integration": {
     "version": "4.0.1",
