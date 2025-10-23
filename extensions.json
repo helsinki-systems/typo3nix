@@ -3768,13 +3768,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.356.42",
+    "version": "3.357.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-YiDwPxNhx6rgl6PjGIhsBxxanC8ti5TIllN/2j1j+jw="
+    "hash": "sha256-4btMgRS5dbTCglMB0dEe8xS0OVRg/2q4Af6ed94BurA="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -27863,13 +27863,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "itmedia2": {
-    "version": "3.2.0",
+    "version": "5.0.0",
     "t3_versions": [
-      10,
-      11
+      13
     ],
     "description": "With this extension you can build your own industry directory for IT and Media",
-    "hash": "sha256-MU2LYimY9CgdhXAkWY++DAG+5widZLn2IGr2rvxO6Jc="
+    "hash": "sha256-PTyVsUzSqacmh30Z3DLX+nfXu/kic+NSOnHpxu3IxAU="
   },
   "itrk_legaltexts_typo3": {
     "version": "3.0.2",
@@ -36787,13 +36786,13 @@
     "hash": "sha256-QBq7RgOtpBz21jSQfzIxEurNCmBZlHvZXZt3wzoyyMw="
   },
   "modules": {
-    "version": "7.5.2",
+    "version": "7.5.3",
     "t3_versions": [
       12,
       13
     ],
     "description": "Frontend-User-Registration, Profile, Invitations, Listing with detailview, Addressmanagement, Frontend-Recordmanagement. User friendly Backendmodule for managing Frontend- and Backend-Users and other Records. Toolbox for frontend and backend modules in TYPO3.",
-    "hash": "sha256-g2s0FDbkbAjjayKxPIiq3ReJM+FnpJr0blTB2mi1/fs="
+    "hash": "sha256-LPOxbi+heYfHpJvwqMF40BkxGItBpxm4xLKCNlxlgxU="
   },
   "modulis_animated_gif": {
     "version": "0.0.4",
@@ -38141,15 +38140,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mv_analysis_index": {
-    "version": "1.0.1",
+    "version": "1.1.2",
     "t3_versions": [
-      9,
-      10,
       11,
       12
     ],
     "description": "Renders an analysis index based on medicalvalues data management.",
-    "hash": "sha256-kD+dFZgfTJhQ1+oc0JY92frs1AeJjBsS6cc5im2XGkk="
+    "hash": "sha256-vj+hseWpQ1ueUzCVJn4egEKybCpE7XYaZdT2ytUy0rs="
   },
   "mv_columns_number": {
     "version": "0.3.0",
@@ -41223,7 +41220,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "nws_municipal_statutes": {
-    "version": "0.4.7",
+    "version": "0.4.8",
     "t3_versions": [
       10,
       11,
@@ -41231,7 +41228,7 @@
       13
     ],
     "description": "Reads all available municipal statutes from the TSA FullRest interface.",
-    "hash": "sha256-C2R0RF9dROLLfzFm3hFvl0XHPYcPF95eld7xrtFOMg8="
+    "hash": "sha256-CzxrsS8fAncNLIIX3pFWYBkn40BQZj3uUTOXJ0VUxys="
   },
   "nwt_base": {
     "version": "0.1.0",
@@ -63390,14 +63387,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "typo3_console": {
-    "version": "8.2.2",
+    "version": "8.2.3",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "A reliable and powerful command line interface for TYPO3 CMS",
-    "hash": "sha256-fK3/08HHOwdvBBlZh7pEElslSg70qSNXrWLTMb7uB7I="
+    "hash": "sha256-8+mIf7FLWjhlDdzckxXuMIuLFiunwuLre5dRhB60/1U="
   },
   "typo3_console_cleartempfiles": {
     "version": "1.0.0",
@@ -63538,13 +63535,13 @@
     "hash": "sha256-X+M95W61qrOca855kJbU7FKAbXgL7C7+r/33a4IJTuU="
   },
   "typo3_login_warning": {
-    "version": "0.6.0",
+    "version": "0.7.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Extends the TYPO3 backend login warning_mode functionality to inform about suspicious logins with several features.",
-    "hash": "sha256-TUSeka4F7Qjq0eM0bOJB7tNAxWmh9yKIUwETOtJ6as8="
+    "hash": "sha256-6/pWF9mE/Z1WpQ6XDUQeAFkfJavy5GoKfxi5p7KCODA="
   },
   "typo3_maileon_integration": {
     "version": "4.0.1",
@@ -64586,13 +64583,13 @@
     "hash": "sha256-+AwO3CThLYLUfSte8VAz0yVlPyS+WVovZ57gl4XEds8="
   },
   "view_statistics": {
-    "version": "6.1.4",
+    "version": "6.1.5",
     "t3_versions": [
       12,
       13
     ],
     "description": "Logs frontend actions and display them in a backend module. Track page views, News, Downloads and custom objects. Optionally tracks frontend user logins and login durations. Alternative extension for Google-Analytics, Matomo, Piwik - this extension does not use any cookies! By default it does not track any personal data like IP address or even the user agent (though this can be activated optionally).",
-    "hash": "sha256-ZWg9J6uW+tTL2WyQG3UtfMefgFlXYfabrvhI7Svrk2g="
+    "hash": "sha256-A0Li+7S3nAWhfLCt7iv3f8ubVgEHaqohgFfwhlcMhWk="
   },
   "vimeovideo": {
     "version": "2.0.0",
