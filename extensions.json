@@ -19671,12 +19671,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "femanager": {
-    "version": "13.1.0",
+    "version": "13.2.0",
     "t3_versions": [
       13
     ],
     "description": "TYPO3 Frontend User Registration and Management based on",
-    "hash": "sha256-7MtnDpyYg3MEhuV7C6K3RM/JKzL0RxkbuRjqWVCLYqQ="
+    "hash": "sha256-zOc7LLDDnv7E8eMTostMeuOldsxkVS0vX4hmVFAwjLc="
   },
   "femanager_cleverreach": {
     "version": "3.0.0",
@@ -27152,12 +27152,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "index": {
-    "version": "0.3.0",
+    "version": "0.3.2",
     "t3_versions": [
       13
     ],
     "description": "Smart and flexible async indexing of pages and documents for e.g. search engines or AI provider",
-    "hash": "sha256-gcfmDVJ9stFIR5GkwGuvvrKtBDr5YzSBsN2DyQDgVbg="
+    "hash": "sha256-hn3r8k65J8ZfDUbh0XTbuqT2Rt3FNY18jl/qaDFn1qY="
   },
   "indexed_search_autocomplete": {
     "version": "12.1.13",
@@ -32968,13 +32968,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "lux": {
-    "version": "39.1.0",
+    "version": "39.1.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "Living User Experience - LUX - the Marketing Automation tool for TYPO3.",
-    "hash": "sha256-iFuSPN9K52afliCT2YjTebccLt/qpUdYVYJQJmtNskM="
+    "hash": "sha256-+mmwTewXmUs0of0sWeL4VGW6KyEcggGeWMMRlTHnGZY="
   },
   "luxletter": {
     "version": "27.2.3",
@@ -45634,12 +45634,12 @@
     "hash": "sha256-lK9AGoQoc5+TKypf/QmovUeJXSgCnu93eEzggKXYq4c="
   },
   "powermail_cond": {
-    "version": "13.0.3",
+    "version": "13.1.0",
     "t3_versions": [
       13
     ],
     "description": "Add conditions (via AJAX) to powermail forms for fields and pages",
-    "hash": "sha256-UXrdLDgdxmfhHyUEYFw5sgaL/AQpa/Bn1pMV+rFsUJM="
+    "hash": "sha256-fScRDB1uvECCcLycgxesy57rxwiLvdF7pyBdT/itEFk="
   },
   "powermail_cond_jquery": {
     "version": "1.0.1",
@@ -48998,16 +48998,15 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "rn_base": {
-    "version": "1.19.4",
+    "version": "1.20.0",
     "t3_versions": [
-      8,
-      9,
       10,
       11,
-      12
+      12,
+      13
     ],
     "description": "TYPO3 plugins based on rn_base can use MVC design principles and domain driven development. This extension also provides an abstraction layer for TYPO3 API to support LTS version since 6.2.",
-    "hash": "sha256-ubQZ6h0EdX7gvXnosFGYRMoJjcjjNIBsXU38yYZa/YM="
+    "hash": "sha256-SWkwXW/ELaMgLynXPsY99hb1TynZwaePG/shfK+4Tq4="
   },
   "rn_memento": {
     "version": "0.0.1",
@@ -53190,12 +53189,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "siteconfiggitsync": {
-    "version": "2.1.2",
+    "version": "2.1.3",
     "t3_versions": [
       13
     ],
     "description": "This extension will push changes to the site config yaml files back to your GitLAB or GitHUB repository by creating a branch for the changes along with a merge-request. It is targeted towards automated CI/CD installations or sites in general where the site-config is git versioned. No local git binary or .git directory is needed. Requires EXT:siteconfigurationevents",
-    "hash": "sha256-edsLg5PuCr8Rnp8JqR66W7z1DYl6PAVJNCsU4dAl0NM="
+    "hash": "sha256-3oMeDLskmqbMqgR/Usrv52LToYtTVkEmUyrU3TaEVmo="
   },
   "siteconfigurationevents": {
     "version": "2.0.0",
@@ -63443,14 +63442,14 @@
     "hash": "sha256-XbSyrw/yg70cGmJZNgmu+jGKpqI1+HmdrcPFYrMuH8A="
   },
   "typo3_environment_indicator": {
-    "version": "2.1.1",
+    "version": "2.2.0",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "This extension comes with several features to show an environment indicator in the TYPO3 frontend and backend.",
-    "hash": "sha256-mNhi4qtkr9iCjQkge2f/ZL8xLYV8le0SwkZaRUhnP3k="
+    "hash": "sha256-1MZ7AefsCGXx4+AOJxBZIXqTcYgL2n50h8V7ni020g0="
   },
   "typo3_feed": {
     "version": "2.0.1",
@@ -65738,16 +65737,15 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "wes_reader": {
-    "version": "1.4.1",
+    "version": "1.6.0",
     "t3_versions": [
-      7,
-      8,
-      9,
       10,
-      11
+      11,
+      12,
+      13
     ],
     "description": "Official extension for integrating an online screen reader using Linguatec Voice Reader Web (www.linguatec.de). Can be used on any site with html content. Requires a valid Voice Reader Web license. See manual for a free trial license. Keywords: Text to Speech, Sprachausgabe, Sprachsynthese, Vorlesesoftware, Reader, Vorlesen, Speech, Accessibility, Inclusion, Inklusion, Barrierefreiheit.",
-    "hash": "sha256-+uzWNbpVrovZLY0A7K1l4N2vRqczx6cs78PLjhhibXk="
+    "hash": "sha256-q80yff8p1IWE04zkCj3/x4dtxt6S7qXxRdJZ8yfaJ9Q="
   },
   "wes_stormalert": {
     "version": "1.0.3",
@@ -67312,13 +67310,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "xima_typo3_content_planner": {
-    "version": "1.5.7",
+    "version": "1.5.8",
     "t3_versions": [
       12,
       13
     ],
     "description": "This extension provides a page status functionality to support the planning of content work.",
-    "hash": "sha256-mDutkNTYuuuJEjBPNBbAbXALc9znomyUOCXdfGICzQA="
+    "hash": "sha256-P+r2dr1dbJkB+n23uyJWfOZjUZShlrOLZqQImJWdyKk="
   },
   "xima_typo3_frontend_edit": {
     "version": "1.7.2",
