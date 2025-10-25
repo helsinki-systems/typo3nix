@@ -3768,13 +3768,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.357.1",
+    "version": "3.357.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-I/R9uLJNFhAfwNsQdL5PzJZ1UImoH1y5oKSfEY2W+H4="
+    "hash": "sha256-qwgK1YKuhjG1CCoC83TPXvvnsU+MhXFvxAeYPZIHjKw="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -16004,13 +16004,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "dpn_glossary": {
-    "version": "6.1.2",
+    "version": "6.1.3",
     "t3_versions": [
       12,
       13
     ],
     "description": "Glossary extension with page parser",
-    "hash": "sha256-YZspZscDOHjW3+hg8gI6OQnDCBdZjO+pxqScMQxSy98="
+    "hash": "sha256-TRj2NtYbTdkW5qjMU6xVmkdZEWOs4q7AXEV31DNpMaI="
   },
   "dr_blob": {
     "version": "2.3.2",
@@ -21593,12 +21593,12 @@
     "hash": "sha256-hBjmSVjRbCQ3T5ftDpNSUpOhssizlr+Yuwfj2UQzOFI="
   },
   "form_email_contentblocks": {
-    "version": "3.0.2",
+    "version": "3.0.3",
     "t3_versions": [
       13
     ],
     "description": "Allows to add a content element at the beginning (introductory text) and/or at the end (email signature) of the email templates. Also, the background color and logo of the fluid email template can be edited.",
-    "hash": "sha256-gZAVlPg19Fe0XiyUHY4m97cl3Y3O+bQeJu2CZXNAU9A="
+    "hash": "sha256-9By7NCR3qJwvu7CRaPGYi8p/AO4MqqTF2TozgElpf6Q="
   },
   "form_extended": {
     "version": "13.0.3",
@@ -51689,12 +51689,12 @@
     "hash": "sha256-t+tpv2NMa8x0h/r2nj21yNy6rBopZbtlnTOgtQU+L14="
   },
   "sf_event_mgt": {
-    "version": "8.3.0",
+    "version": "8.4.0",
     "t3_versions": [
       13
     ],
     "description": "Configurable event management and registration extension based on ExtBase and Fluid",
-    "hash": "sha256-HcZ+xo9Rl7oxoIXKPE6WlVqVwKyeamC81F8gOXATU+A="
+    "hash": "sha256-xtgAEZblzJ1CQp+LJszQPx8iebWePMxemXt8br/mEyM="
   },
   "sf_event_mgt_contentelements": {
     "version": "3.0.1",
