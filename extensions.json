@@ -20865,12 +20865,12 @@
     "hash": "sha256-DiE5UgAFeEq3UHmNQg2lOvRlmIIEj29ELkb0ylk6/9M="
   },
   "fluid_primitives": {
-    "version": "0.0.1",
+    "version": "0.1.1",
     "t3_versions": [
       13
     ],
     "description": "The headless component library for TYPO3 Fluid",
-    "hash": "sha256-yI/jPmjiIDKFKsLqgeMVQH/gZCe7goCC0na25rcQjRI="
+    "hash": "sha256-zg1zyz4kaN6dbjgC3pqxt9Nvsj7L3U8UY6+3TECLFnE="
   },
   "fluid_recommendation": {
     "version": "1.3.0",
@@ -64501,12 +64501,12 @@
     "hash": "sha256-WLnIEx/iFLE+1a+Imu6aaXAQ/969oGaP5j714gHg27w="
   },
   "video_vtt": {
-    "version": "2.5.1",
+    "version": "2.5.4",
     "t3_versions": [
       13
     ],
     "description": "Extend TYPO3 Video functionality",
-    "hash": "sha256-/5Puz5JFjVvLI+0KhvRFcZidL+zCCGfkXsKDZqz817E="
+    "hash": "sha256-u8wTQ3O6PEaJz5IQbCWTRoPz4SQOI1WWoy2A1lUv6cE="
   },
   "videoce": {
     "version": "0.10.0",
