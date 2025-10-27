@@ -3768,13 +3768,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.357.2",
+    "version": "3.357.3",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-qwgK1YKuhjG1CCoC83TPXvvnsU+MhXFvxAeYPZIHjKw="
+    "hash": "sha256-2CCveGagVCYgRP4Hv4g2S0AUGxGFH6dbnwg9J9nC26U="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -7145,13 +7145,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "camaliga": {
-    "version": "13.1.2",
+    "version": "13.2.3",
     "t3_versions": [
       12,
       13
     ],
-    "description": "A carousel/gallery/map/list extension that can use the TYPO3 categories and different jQuery-plugins like Slick. Bootstrap 5 support. Indexer for ke_search.",
-    "hash": "sha256-W80oW9NL7uo17shqmqryCiyx5+kP9BHu3xNq2ObkJJI="
+    "description": "An old carousel/gallery/map/list extension that can use the TYPO3 categories and different jQuery-plugins like Slick. Bootstrap 5 support. Indexer for ke_search.",
+    "hash": "sha256-wqY5gjpQ59fF5qFrEcSav+XNN7MsfvbV5CpzY5wcowk="
   },
   "campaignmonitor": {
     "version": "2.0.0",
@@ -9213,13 +9213,13 @@
     "hash": "sha256-2LK8BvUmfZOl87jK2C3LKvSPWFQSHDjMeo59gxRjRUs="
   },
   "clubmanager": {
-    "version": "1.2.3",
+    "version": "1.2.4",
     "t3_versions": [
       12,
       13
     ],
     "description": "The TYPO3 module for managing clubs, foundations and associations. With Clubmanager, you get the tool to manage the organization AND public relations of your club or association in a cost-saving and effective way.",
-    "hash": "sha256-LnDiT4NCgTbUSGtlDCjwT5lyhiddP0WL2EwyJfBOiow="
+    "hash": "sha256-d4WebmIsxSuz+qP71bnraOy2JfFe10Z3Z9CpGk7DoJk="
   },
   "cm_ajax": {
     "version": "0.6.0",
@@ -20865,12 +20865,12 @@
     "hash": "sha256-DiE5UgAFeEq3UHmNQg2lOvRlmIIEj29ELkb0ylk6/9M="
   },
   "fluid_primitives": {
-    "version": "0.1.1",
+    "version": "0.2.0",
     "t3_versions": [
       13
     ],
     "description": "The headless component library for TYPO3 Fluid",
-    "hash": "sha256-zg1zyz4kaN6dbjgC3pqxt9Nvsj7L3U8UY6+3TECLFnE="
+    "hash": "sha256-Nq02JH7HRuiwnGZ4KNctX+K6lOAe6se4VN/gzaNQKOc="
   },
   "fluid_recommendation": {
     "version": "1.3.0",
@@ -22342,12 +22342,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "frp_form_answers": {
-    "version": "4.0.2",
+    "version": "6.1.2",
     "t3_versions": [
-      11
+      13
     ],
     "description": "Adds the possibility, as a finisher, to save and export the form entries from customers",
-    "hash": "sha256-Hyk87C8TfeahEs/G1+L9T4R9cqYvaTSpDTULZQ6dBeg="
+    "hash": "sha256-npXKagSUZdF6RN3K1lzPvQpkNBtCBPhew3F8ZGJ2Wcw="
   },
   "frp_simpledownloads": {
     "version": "0.0.1",
@@ -36207,13 +36207,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mklib": {
-    "version": "12.0.3",
+    "version": "13.0.1",
     "t3_versions": [
-      11,
-      12
+      12,
+      13
     ],
     "description": "Utilities for extensions",
-    "hash": "sha256-L1eMgdoWIA438H/aCPkaYuz0SNfRgocuqGUwlh9mzlU="
+    "hash": "sha256-P7YRcQk2Zt6fYHaCzJc4WXgUo1ikPyqFf7rBFHPn9Pg="
   },
   "mklog": {
     "version": "13.1.0",
@@ -36225,15 +36225,13 @@
     "hash": "sha256-Hdk6DtHfRfb35AhpQhA+1cEh/Byep9ZNYCLsMQpO3Vs="
   },
   "mkmailer": {
-    "version": "9.0.0",
+    "version": "13.0.0",
     "t3_versions": [
-      6,
-      7,
-      8,
-      9
+      12,
+      13
     ],
     "description": "Provides a asynchronous mail system with full template support",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-6D8Ls7W7+qLWfTQPr5YjXHomllTQYC1M10jD8n7Y+Eg="
   },
   "mkoptin": {
     "version": "10.0.0",
@@ -36282,22 +36280,22 @@
     "hash": "sha256-phRL0foWA1dZnNn7md29fWHqxnBhyYIrWqGysoS95EY="
   },
   "mksearch": {
-    "version": "12.0.19",
+    "version": "13.0.0",
     "t3_versions": [
-      11,
-      12
+      12,
+      13
     ],
     "description": "Generic highly adjustable and extendable search engine framework, using Zend Lucene, Apache Solr or ElasticSearch. But support for other search engines can be provided easily.",
-    "hash": "sha256-Yxi3wd6PUsFS7yMlRvMqxpiRUNbHQdANx9EPJm9RK+A="
+    "hash": "sha256-EWteB5Y69k5XsxP/S448hQsg+7NK6sBcbSCDysGqbuI="
   },
   "mktools": {
-    "version": "12.0.2",
+    "version": "13.0.0",
     "t3_versions": [
-      11,
-      12
+      12,
+      13
     ],
     "description": "Collection of some useful tools",
-    "hash": "sha256-f57Dd7iMXErvW2eXGZ4JCxtEKjGlM+Sm3thMBYILcXY="
+    "hash": "sha256-dGEqbQwZT9CbiwxnesXDI+dyeyHfvCCe+qrdjjgRQlw="
   },
   "mkvarnish": {
     "version": "13.0.1",
@@ -40764,14 +40762,15 @@
     "hash": "sha256-5ci+/3JVn3VX7bhtS3iA5CN13QKbSlUPRj4L6raGi3U="
   },
   "ns_google_sitekit": {
-    "version": "1.0.3",
+    "version": "1.2.0",
     "t3_versions": [
       10,
       11,
-      12
+      12,
+      13
     ],
     "description": "Integrate Google tools like Analytics, Search Console, Google Ads, AdSense, and Tag Manager into your TYPO3 site—without writing any code. Track user behavior, enhance SEO, and optimize your website’s performance with a single extension.",
-    "hash": "sha256-rfcPzt+nbpWyEkOi8RqSlSbclpdf3ZoA+uDBOLUOD68="
+    "hash": "sha256-k4pTOpOwMUjHFv/1shkh1TzQaQ3PID4svIUahNhC4PQ="
   },
   "ns_googledocs": {
     "version": "2.0.2",
@@ -43258,13 +43257,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "paginatedprocessors": {
-    "version": "1.6.4",
+    "version": "1.6.5",
     "t3_versions": [
       11,
-      12
+      12,
+      13
     ],
     "description": "Data processors with pagination",
-    "hash": "sha256-lhd0MtQibAVtz1IG0prT09lBGSb54AITzSSzA4YHUSY="
+    "hash": "sha256-kaijFCJeVN3ahe04uhQtST2wYYT8ztA2DkxgvaZ5xTc="
   },
   "pandorabot_include": {
     "version": "0.1.0",
@@ -43444,12 +43444,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "paste_reference": {
-    "version": "4.0.1",
+    "version": "4.0.3",
     "t3_versions": [
       13
     ],
     "description": "Paste reference instead of copy for content elements",
-    "hash": "sha256-dK23R8XTb6dKZYD3tF7BDty0/ecpVtBukQ9OoONP77Y="
+    "hash": "sha256-MN5wxCUZqk8YtkbkLG9CwQGUdGU8GjB4n1UT/G00LWk="
   },
   "patch10011": {
     "version": "0.7.0",
@@ -56391,13 +56391,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "statictagcloud": {
-    "version": "4.0.1",
+    "version": "6.0.0",
     "t3_versions": [
-      10,
-      11
+      13
     ],
     "description": "Create your own static tagcloud and define on your own which word has priority",
-    "hash": "sha256-uDYxtK0Rq8aGqdKvTe9SjY/yHgy2s40otzE0l242gmk="
+    "hash": "sha256-5gdix7P0wUxBWGDRQznJX6T3iU/X6vGBWiChSXPlsbo="
   },
   "statictemplates": {
     "version": "6.0.0",
