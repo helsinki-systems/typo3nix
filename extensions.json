@@ -3768,13 +3768,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.357.3",
+    "version": "3.358.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-2CCveGagVCYgRP4Hv4g2S0AUGxGFH6dbnwg9J9nC26U="
+    "hash": "sha256-u15frKgsOfnB2gDBe+x8qlNwPfvnsdUqxxr7ri2+jPU="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -8318,12 +8318,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cf_phpinclude": {
-    "version": "1.1.0",
+    "version": "1.3.0",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "Includes a Custom PHP Script in Typo3 Context",
-    "hash": "sha256-dUU+XiTv/zfxBuN9rL4trY4pnzKOcnDIKnIeFCuIS9k="
+    "hash": "sha256-IN1Cg/koIpWkndTaLMwfZkCvhVDuQT0CQZ+deOAAhW4="
   },
   "cfa_globalweatherws": {
     "version": "0.1.0",
@@ -9188,13 +9189,14 @@
     "hash": "sha256-gF55Oa9X81SK/JprdpNGnEo5lViuqyHVqm+Y4bCk3gc="
   },
   "cloudflare": {
-    "version": "2.6.2",
+    "version": "2.6.3",
     "t3_versions": [
       11,
-      12
+      12,
+      13
     ],
     "description": "The Cloudflare extension for TYPO3 is a powerful solution to integrate your website with Cloudflare, whose mission is to help build a better Internet. This extension provides a variety of features to ensure your website is running optimally on the Cloudflare platform, a global leader in web performance and security.",
-    "hash": "sha256-tkIQWtIutiRWMqYikJjRHtCkFMDIt8g90C7JF0uMKRs="
+    "hash": "sha256-Hko+LjvH3DPJwgHFjJ1VT26RH+w7SwXxl/FKt4vvAow="
   },
   "clubcms": {
     "version": "0.2.2",
@@ -9213,13 +9215,13 @@
     "hash": "sha256-2LK8BvUmfZOl87jK2C3LKvSPWFQSHDjMeo59gxRjRUs="
   },
   "clubmanager": {
-    "version": "1.2.4",
+    "version": "1.2.5",
     "t3_versions": [
       12,
       13
     ],
     "description": "The TYPO3 module for managing clubs, foundations and associations. With Clubmanager, you get the tool to manage the organization AND public relations of your club or association in a cost-saving and effective way.",
-    "hash": "sha256-d4WebmIsxSuz+qP71bnraOy2JfFe10Z3Z9CpGk7DoJk="
+    "hash": "sha256-zSQbingjdHLFrjqw8PJ4HfGPJIpO3QJn3D+xFyW/Fj4="
   },
   "cm_ajax": {
     "version": "0.6.0",
@@ -11085,13 +11087,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "crawler": {
-    "version": "12.0.9",
+    "version": "12.0.10",
     "t3_versions": [
       12,
       13
     ],
-    "description": "Libraries and scripts for crawling the TYPO3 page tree.",
-    "hash": "sha256-UEZVyNphKzODhOnMHu/jY4OvB9Uko74CePfYxDrCMUc="
+    "description": "TYPO3 Crawler crawls the TYPO3 page tree. Used for cache warmup, indexing, publishing applications etc.",
+    "hash": "sha256-SDwMIhToOu7V1Lw1vq1dAsdPXXeoLcsjDpkrUf6gv3o="
   },
   "createarp": {
     "version": "0.4.0",
@@ -12100,22 +12102,24 @@
     "hash": "sha256-iV3IF0hHLQcb/Whgpnj3qdSvxqT/aRESfL3zNtIMOX4="
   },
   "cute_mailing_registeraddress": {
-    "version": "2.2.0",
+    "version": "2.3.1",
     "t3_versions": [
       11,
-      12
+      12,
+      13
     ],
     "description": "A TYPO3 extension that connects registeraddress and cute-mailing.",
-    "hash": "sha256-ry3XS542mKwvahhbNSM6jRB9NlDT3rfNS3ReS2+xNzc="
+    "hash": "sha256-mSCgerbNZD40SZZqr1/rtxpeiy3wCptFI9QVY4kR/fk="
   },
   "cute_mailing_ttaddress": {
-    "version": "2.2.0",
+    "version": "2.3.1",
     "t3_versions": [
       11,
-      12
+      12,
+      13
     ],
     "description": "A TYPO3 extension that connects tt_address and cute-mailing.",
-    "hash": "sha256-Ag9h75ru9ED3ebMWV2RjpNeiihunMJCd8e/8w3zR09U="
+    "hash": "sha256-KwqifFsRWlzqz7Fz3HXK6y/API6o4qQDdkkYUYjFhq8="
   },
   "cv_merge_flexform": {
     "version": "0.1.0",
@@ -20865,12 +20869,12 @@
     "hash": "sha256-DiE5UgAFeEq3UHmNQg2lOvRlmIIEj29ELkb0ylk6/9M="
   },
   "fluid_primitives": {
-    "version": "0.2.0",
+    "version": "0.2.2",
     "t3_versions": [
       13
     ],
     "description": "The headless component library for TYPO3 Fluid",
-    "hash": "sha256-Nq02JH7HRuiwnGZ4KNctX+K6lOAe6se4VN/gzaNQKOc="
+    "hash": "sha256-Vr9NgPnRb1GTuYgQuhyZnWjFWMMPvjoZ1H4mI7QEKx4="
   },
   "fluid_recommendation": {
     "version": "1.3.0",
@@ -27541,12 +27545,12 @@
     "hash": "sha256-NOD+k80sGhX2Zb2GSD+pSmpl9c87rEDcQr0ZyNMez9I="
   },
   "interest": {
-    "version": "3.0.0",
+    "version": "3.0.1",
     "t3_versions": [
       13
     ],
     "description": "REST and CLI API for adding, updating, and deleting records in TYPO3. Tracks relations so records can be inserted in any order. Uses remote ID mapping so you don't have to keep track of what UID a record has gotten after import. Data is inserted using backend APIs as if a real human did it, so you can can inspect the record history and undo actions.",
-    "hash": "sha256-5KyntiZ9ZB6oXv9eWOx3Ok2OuYV0Hz55lEizZ7EYa7c="
+    "hash": "sha256-eH7QJ6WckubSAbUr7BbLG0n/umNLThFFaHq/h2ybB3g="
   },
   "internal_notes": {
     "version": "1.2.0",
@@ -42864,13 +42868,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "page_backend_layout": {
-    "version": "2.0.1",
+    "version": "2.0.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "Helper for Backend layout overrides based on page doktype",
-    "hash": "sha256-X2jwq/c6VCQrJmkh1/nk2gtUUGlUs9NOxoYl8Bi451Q="
+    "hash": "sha256-7VoPe13Vs78FGOCe2y92mmmZ7guBedKIC/Rw6wPBs24="
   },
   "page_callouts": {
     "version": "6.1.2",
@@ -48307,12 +48311,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "restler": {
-    "version": "12.0.6",
+    "version": "12.1.1",
     "t3_versions": [
       12
     ],
     "description": "This extension integrates the REST-API-framework \"restler\" in TYPO3",
-    "hash": "sha256-CaTw2zAPHDJnfibsyU8WPGvTpzVisoeq5GXmmQt9Rms="
+    "hash": "sha256-nnmAfx/fOAW44SFFAOIPv6AEt12KFJrMOhM5KUjbNHA="
   },
   "restler_examples": {
     "version": "11.0.1",
@@ -52444,13 +52448,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "shop": {
-    "version": "5.9.2",
+    "version": "5.10.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Shop for TYPO3 incl. PayPal, PayPal-Checkout (formerly PayPal-Plus), Klarna, Stripe, Bookmarks, UPS-API, Invoice generation, backend module, compare feature, graduated prices and many more - note there is a Pro version as well! See https://www.coding.ms/typo3-extensions/typo3-shop",
-    "hash": "sha256-bh2B4mCFAnIsHQH1fpj40wcj95OFGZ2txFdesuKIfdw="
+    "hash": "sha256-9+/X+jHUoRr2ifFDTUs2KM7+zg0bt2HP+Wc7GXGgb2E="
   },
   "shop3ox": {
     "version": "0.0.3",
@@ -64516,12 +64520,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "videos": {
-    "version": "13.1.1",
+    "version": "13.1.2",
     "t3_versions": [
       13
     ],
     "description": "Extends video file properties and provides a player for playlists, cue points and subtitles",
-    "hash": "sha256-SIQVC+fXE7BUzyQmgun05mLbHCSuja6CBQdQSy7HVwo="
+    "hash": "sha256-D6rV5DItTR2ttmaaRTwO5Xzm8dmrfW+V/A32X/7Z+OE="
   },
   "videoswitcher": {
     "version": "0.0.4",
