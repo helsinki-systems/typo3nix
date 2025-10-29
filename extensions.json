@@ -1203,13 +1203,13 @@
     "hash": "sha256-u/cK6S7KkdAkJOL7iF2k+VJBVMxYvNIhTfTbZ8nh/uI="
   },
   "address_manager": {
-    "version": "4.0.7",
+    "version": "5.0.1",
     "t3_versions": [
-      11,
-      12
+      12,
+      13
     ],
-    "description": "Manages and displays address and person records. Comes with three kinds of categories (groups, organisations and positions) with frontend filtering and fulltext search. Includes Google Maps and SEO support. There is also a pro version available. (Personenverzeichnis, Personendatenbank, Mitarbeiterverzeichnis, Filialfinder, Umkreissuche, Standortuebersicht, radial search, radius search)",
-    "hash": "sha256-9R04ap1pdwL1ZnCzBW47nWCfarN00qS15S71veAE/mQ="
+    "description": "Manages and displays address and person records. Comes with three kinds of categories (groups, organisations and positions) with frontend filtering and fulltext search. Includes Google Maps and SEO support. There is also a pro version available. (Personenverzeichnis, Personendatenbank, Mitarbeiterverzeichnis, Filialfinder, Umkreissuche, Standortuebersicht, radial search, radius search) - note there is a Pro version as well! See https://www.coding.ms/typo3-extensions/typo3-address-manager",
+    "hash": "sha256-Ny5oh3/Syv41gC3g35XZ0RzlCojBaVRmgoz2b4+F2ig="
   },
   "addresses": {
     "version": "1.1.1",
@@ -3079,6 +3079,15 @@
     "description": "vtiger Integration in Typo3. Displays products from vtiger in Typo3-Backend.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "asyntai_chatbot": {
+    "version": "1.0.0",
+    "t3_versions": [
+      12,
+      13
+    ],
+    "description": "AI assistant / chatbot – Provides instant answers to your website visitors",
+    "hash": "sha256-2SfE29RM5ke45r4cIEbL6z2egjJkNWkYX16biUAbsOY="
+  },
   "asys_emhi": {
     "version": "0.0.7",
     "t3_versions": [],
@@ -3768,13 +3777,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.358.1",
+    "version": "3.359.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-u15frKgsOfnB2gDBe+x8qlNwPfvnsdUqxxr7ri2+jPU="
+    "hash": "sha256-PsXGrr7K6Fgq9nhyCsgVDVwY4akVhnSJsXXMzBFdDaQ="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -9207,12 +9216,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "clubdirectory": {
-    "version": "8.0.0",
+    "version": "8.0.1",
     "t3_versions": [
       13
     ],
     "description": "Manage and display clubs",
-    "hash": "sha256-2LK8BvUmfZOl87jK2C3LKvSPWFQSHDjMeo59gxRjRUs="
+    "hash": "sha256-x7VHcwQz35mp6NacncvOvJVKCMOkF5a+CtAF7qWN0oM="
   },
   "clubmanager": {
     "version": "1.2.5",
@@ -10491,12 +10500,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "contributory_calculator": {
-    "version": "7.0.0",
+    "version": "7.1.0",
     "t3_versions": [
       13
     ],
     "description": "Extension to calculate contributories in the frontend.",
-    "hash": "sha256-SLOad4P4PZn64TKbs62c8TmpsnKVzueNIa9SKZuOdns="
+    "hash": "sha256-mkNiwHRg5KsFFkF+bbli0EbXU+9tvN08mCRclUUOTvU="
   },
   "contsite": {
     "version": "0.2.0",
@@ -13240,12 +13249,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "daycarecenters": {
-    "version": "7.0.0",
+    "version": "7.0.2",
     "t3_versions": [
       13
     ],
     "description": "This extensions lets create and show you records of day care centers",
-    "hash": "sha256-SViOYse4WkSwmZ79Yui4xb06mSqbZYrV0HzDKVAt6KY="
+    "hash": "sha256-YEUQI/+lLZTm4VhnDIYrrRSLsU3uNeRVPdFo+xl9Gec="
   },
   "db_adm": {
     "version": "0.1.0",
@@ -20869,12 +20878,12 @@
     "hash": "sha256-DiE5UgAFeEq3UHmNQg2lOvRlmIIEj29ELkb0ylk6/9M="
   },
   "fluid_primitives": {
-    "version": "0.2.2",
+    "version": "0.2.3",
     "t3_versions": [
       13
     ],
     "description": "The headless component library for TYPO3 Fluid",
-    "hash": "sha256-Vr9NgPnRb1GTuYgQuhyZnWjFWMMPvjoZ1H4mI7QEKx4="
+    "hash": "sha256-VVS9wLYp8QL3ARpKtcfXbGkuKP0qHyv/MN/NBO54KcA="
   },
   "fluid_recommendation": {
     "version": "1.3.0",
@@ -23566,12 +23575,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "glossary2": {
-    "version": "7.0.2",
+    "version": "7.0.3",
     "t3_versions": [
       13
     ],
     "description": "This TYPO3 extension creates a glossary with A-Z links for you",
-    "hash": "sha256-MgQiQxT+W42ky6lvpyHjH3TcWa9fBnyqBWjbU0tje6o="
+    "hash": "sha256-poRNNqImNSWf413OOyKu6XsjBR2c7+9HitMz9IZwBbo="
   },
   "glossary_one": {
     "version": "1.0.4",
@@ -29108,12 +29117,12 @@
     "hash": "sha256-UiV4ENeK3s25DNBoplclJy/WMzTOQ8D+byxmMmEIxAk="
   },
   "jobcenter": {
-    "version": "5.0.0",
+    "version": "5.0.1",
     "t3_versions": [
       13
     ],
     "description": "Recommend employer contacts based on conditions",
-    "hash": "sha256-g606IXOhyb5ulp32QIVl3tyzVkbkmJRBJ/dXxUEpmSQ="
+    "hash": "sha256-hJMtH9a4fg851jswaaVhTftQymrttahXa255pXH9rD8="
   },
   "jobfair": {
     "version": "6.0.1",
@@ -29836,13 +29845,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "jw_forms": {
-    "version": "3.0.3",
+    "version": "5.0.1",
     "t3_versions": [
-      10,
-      11
+      13
     ],
     "description": "With this extension you can provide a list of downloadable files in FE.",
-    "hash": "sha256-HRE89CaohHypAtaDD++V3lBYg7zyd6JhRmW1KJMT/g0="
+    "hash": "sha256-imf+papDkCfhQwUH3FXnzLYTNemecuCsOT16b7xCY+c="
   },
   "jw_shell_exec": {
     "version": "3.0.1",
@@ -32568,13 +32576,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "logformatter": {
-    "version": "1.6.0",
+    "version": "1.6.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "A CLI tool to format and search TYPO3 Logfiles",
-    "hash": "sha256-ZPBFnnVZiDgk/IL0PqucttRORHnUph+GI3vo2zfz8ts="
+    "hash": "sha256-qGDPXgjtoXDTWT57obD0K/uuxrQ/M57DAl9g1HXp/rQ="
   },
   "logging": {
     "version": "1.0.0",
@@ -34830,12 +34838,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mediaconsent": {
-    "version": "3.0.0",
+    "version": "3.0.1",
     "t3_versions": [
       13
     ],
     "description": "Extension loads content only if the user agrees.",
-    "hash": "sha256-KLobxkj+kaJzZqftqmR2iVr6w4wpdSrLdo5roqYzqWU="
+    "hash": "sha256-OYcdLbXYaJOeQPnTuRKd2T5iVs7t6RrbKUV7NKBKm84="
   },
   "mediacookie_immomanager": {
     "version": "2.3.0",
@@ -36788,13 +36796,13 @@
     "hash": "sha256-QBq7RgOtpBz21jSQfzIxEurNCmBZlHvZXZt3wzoyyMw="
   },
   "modules": {
-    "version": "7.5.3",
+    "version": "7.5.4",
     "t3_versions": [
       12,
       13
     ],
     "description": "Frontend-User-Registration, Profile, Invitations, Listing with detailview, Addressmanagement, Frontend-Recordmanagement. User friendly Backendmodule for managing Frontend- and Backend-Users and other Records. Toolbox for frontend and backend modules in TYPO3.",
-    "hash": "sha256-LPOxbi+heYfHpJvwqMF40BkxGItBpxm4xLKCNlxlgxU="
+    "hash": "sha256-kzhdTi13eKfW2r8k/chcWSIsyVeoHVu6gzNqsWgfGBo="
   },
   "modulis_animated_gif": {
     "version": "0.0.4",
@@ -40873,13 +40881,13 @@
     "hash": "sha256-kPxKaPOFunsxkd20gpiPaMTtTkdDsAyhYtNQVZgoXGY="
   },
   "ns_license": {
-    "version": "13.0.11",
+    "version": "13.0.12",
     "t3_versions": [
       12,
       13
     ],
     "description": "Manage licenses of your TYPO3 templates and extensions purchased from T3Planet. Includes activation and license validation. Documentation available at https://docs.t3planet.com/en/latest/License/LicenseActivation/Index.html",
-    "hash": "sha256-r7MMJkHcWIpTXxgPI4wPCuBrVRG74hz6eYx7kNzHbuo="
+    "hash": "sha256-BMP4O33/TwdsnS/abh1AClT/aIrngca7YNljrLR/0/U="
   },
   "ns_news_advancedsearch": {
     "version": "13.0.2",
@@ -44347,20 +44355,20 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "pforum": {
-    "version": "6.0.1",
+    "version": "6.0.2",
     "t3_versions": [
       13
     ],
     "description": "Forum",
-    "hash": "sha256-nyocZz4Ue4Z4fB88Rt8c35F3OEnVUkEP7wlW+h2DLSY="
+    "hash": "sha256-7nO/j4gsNKXzBHk00YqqtEE25/Fg5PHdfA2DdZGTqX8="
   },
   "pfprojects": {
-    "version": "8.0.0",
+    "version": "8.0.1",
     "t3_versions": [
       13
     ],
     "description": "This extension shows a list of projects and can be connected with service_bw2.",
-    "hash": "sha256-heVjA9fBmxkc8Fc9GLDOAFLC9yWK7YqImW2pbLNqqY8="
+    "hash": "sha256-Z8ag4RTnNNuXh4RCAysCR4LIIg00oFue0PKIMvOZgSE="
   },
   "pg_events": {
     "version": "0.1.2",
@@ -48124,12 +48132,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "reserve": {
-    "version": "4.1.3",
+    "version": "4.1.4",
     "t3_versions": [
       13
     ],
     "description": "This extension allows you to reserve tickets for one or more persons using a period table and a form. Each reservation has it’s own QR Code that can be scanned at the event.",
-    "hash": "sha256-uLnyLtQjhIv+RKJyOeWb2wiARvh2fv0m26SOaDwauKs="
+    "hash": "sha256-7Y5RgQe90dbiMyfWsQbUiEyPP4YOm+c9ap5K775X7cs="
   },
   "reset_scheduler": {
     "version": "1.0.1",
@@ -51040,12 +51048,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "schooldirectory": {
-    "version": "8.0.0",
+    "version": "8.0.1",
     "t3_versions": [
       13
     ],
     "description": "This is a TYPO3 extension to manage schools",
-    "hash": "sha256-tvThLNlXQ6+0rkAP7uZKTxEj9C3NFxkNCNGIsA1yT+0="
+    "hash": "sha256-90y6u3A+8GNk+dh8N4BoZaDRE7iQVdMw05b5sHpGCsY="
   },
   "scoopit": {
     "version": "0.0.4",
