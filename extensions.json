@@ -1195,12 +1195,12 @@
     "hash": "sha256-Qx7pEfxHzU21N5I2lCBk34qUvM/L0Ij1XDE7AIhUKNI="
   },
   "address": {
-    "version": "13.0.13",
+    "version": "13.0.14",
     "t3_versions": [
       13
     ],
     "description": "Address extension with multiple contact types per address. Code is based on news extension.",
-    "hash": "sha256-u/cK6S7KkdAkJOL7iF2k+VJBVMxYvNIhTfTbZ8nh/uI="
+    "hash": "sha256-OEFgLxQD/Tdt5kQ7lM47wuVB1S2LvxFVQdRhe4jtx4Y="
   },
   "address_manager": {
     "version": "5.0.1",
@@ -1646,6 +1646,14 @@
     "description": "Automatically generates FAL metadata for files by means of public LLMs",
     "hash": "sha256-949ouCIbpQ+kQ7+CpVy7aQ6af6e42/03MQHEqxZCMI8="
   },
+  "ai_llms_txt": {
+    "version": "0.1.0",
+    "t3_versions": [
+      13
+    ],
+    "description": "TYPO3 extension for generating llms.txt links according to llmstxt.org specification to control Large Language Model crawling policies.",
+    "hash": "sha256-+MZgFIxfUZwTetViBFW24UKO7YM9IPIrminUp1dQEO4="
+  },
   "ai_seo_helper": {
     "version": "0.7.0",
     "t3_versions": [
@@ -1675,12 +1683,12 @@
     "hash": "sha256-ihH3MUYavBBEDbSrgkk+sOxiGYSpJTMQuJnsFDwR/nY="
   },
   "ai_translate": {
-    "version": "4.0.0",
+    "version": "4.0.2",
     "t3_versions": [
       13
     ],
     "description": "This extension provides option to translate content element, and tca record texts to Deepl, Google, OpenAI, Gemini and Cohere supported languages.",
-    "hash": "sha256-lnKhWKWV2gn3Ng3Iq8hMsIcttJrYuBb9DYYMR2s7ytM="
+    "hash": "sha256-UUvp1GTNXepIhiBjoFxOct25MVM7GL9lWvXlvjkjGBo="
   },
   "aichemist": {
     "version": "13.4.3",
@@ -3777,13 +3785,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.359.0",
+    "version": "3.359.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-PsXGrr7K6Fgq9nhyCsgVDVwY4akVhnSJsXXMzBFdDaQ="
+    "hash": "sha256-le3G/5Sqi0eSZTuAZo0aO/0ZVgduBIEZA01Mvc1jjNs="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -13716,13 +13724,13 @@
     "hash": "sha256-zubGGULUMiOLlijfkwn7FtLyHVbYdKVB2h8DBjoJVXg="
   },
   "deepltranslate_core": {
-    "version": "5.1.1",
+    "version": "5.1.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "This extension provides option to translate content element, and TCA record texts to DeepL supported languages.",
-    "hash": "sha256-0Bk3me7Tvs9wcl9AYWkX7vhCb5w7fKhp6tzpjsFMp9w="
+    "hash": "sha256-jWWvDFtVaMZJxOA1S0T5+EVwi01QEZMYXx1K4r9S/sU="
   },
   "deepltranslate_glossary": {
     "version": "5.1.0",
@@ -15847,6 +15855,15 @@
     "t3_versions": [],
     "description": "Tutorial Introduction to  TYPO3",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "documentationhub": {
+    "version": "0.1.0",
+    "t3_versions": [
+      12,
+      13
+    ],
+    "description": "Backend documentation with markdown, directory structure, and PDF export. Displays an entry in the top help menu.",
+    "hash": "sha256-nncN+mUqG+M+/OMCIjPtDcxM+RESce1ofod/U6wgrco="
   },
   "docuseal": {
     "version": "2.0.0",
@@ -22472,6 +22489,14 @@
     "t3_versions": [],
     "description": "Anzeiger fr den nchsten Sitzungstermin",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "fsq_kfl_karli": {
+    "version": "1.0.16",
+    "t3_versions": [
+      13
+    ],
+    "description": "Provides custom endpoints for frontend use",
+    "hash": "sha256-QqkjeogtJHfaaHhl9OOMMOJn3W78HcbFT3I1POBSUiQ="
   },
   "fst_ptviewer": {
     "version": "0.5.2",
@@ -30937,13 +30962,13 @@
     "hash": "sha256-kcxI9UqhT/XvjYG6DhlvAkba0yLCeXqZhG5XH0Xj3/8="
   },
   "km_ttaddress_extension": {
-    "version": "9.0.1",
+    "version": "9.0.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "Extends EXT:tt_address by adding fields like department, qualifications and vita.",
-    "hash": "sha256-5FrAFIoGUqsEIyJbCeaKhCz1EJkcZHfa+wXxuwgQWEM="
+    "hash": "sha256-CPGrn/y6WSFmXhrutyV9dhLHWa1EWKFfj1mIR2MiKwQ="
   },
   "km_ttnews_extension": {
     "version": "2.0.1",
@@ -51585,12 +51610,12 @@
     "hash": "sha256-YsbvL7t6AiXCaxNrsfjEoXVZNyGDF1sxZEvZg1PkNmk="
   },
   "service_bw2": {
-    "version": "8.0.1",
+    "version": "8.0.2",
     "t3_versions": [
       13
     ],
     "description": "With this extension you can access interface of service BW",
-    "hash": "sha256-9K+5GAFaBoQ09XjdPl7k7g5+Umr/hrx/1LLkd9H0grA="
+    "hash": "sha256-SuRGvvW2uBu4TTRZx1TD0/J5md7OsLCvdEZllqsv4Es="
   },
   "ses_mailer": {
     "version": "1.0.0",
