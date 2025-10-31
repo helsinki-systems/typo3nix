@@ -3785,13 +3785,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.359.1",
+    "version": "3.359.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-le3G/5Sqi0eSZTuAZo0aO/0ZVgduBIEZA01Mvc1jjNs="
+    "hash": "sha256-zE3DkhzIpUFrdW4QQ5Eg/iFN5tbN6itZHdD0ViuHgsk="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -10849,12 +10849,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "core_upgrader2": {
-    "version": "12.0.4",
+    "version": "13.0.0",
     "t3_versions": [
-      12
+      13
     ],
-    "description": "Run upgrade wizards for multiple TYPO3 versions at once",
-    "hash": "sha256-Fn942w3/3RG3rHJOOqaYPyYvXEAC5hHaQpNYmmS68mA="
+    "description": "Run upgrade wizards for multiple TYPO3 versions at once and clean up the system",
+    "hash": "sha256-+gDbatscRTO4HHZwXI1HQ0nN3CG+SjB0PDToPGLtZsI="
   },
   "coreapi": {
     "version": "1.3.0",
@@ -35494,6 +35494,14 @@
     "t3_versions": [],
     "description": "Allows auto subscription from Mailform to PHP-List",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "mg_image_comparison_slider": {
+    "version": "1.0.0",
+    "t3_versions": [
+      13
+    ],
+    "description": "Slider for showing the difference between two images",
+    "hash": "sha256-cva3cyczNymCe6C2XMsr8toqWS6Ay24qf8xbedOFhUY="
   },
   "mgl_linkdir": {
     "version": "0.0.0",
