@@ -1647,12 +1647,12 @@
     "hash": "sha256-949ouCIbpQ+kQ7+CpVy7aQ6af6e42/03MQHEqxZCMI8="
   },
   "ai_llms_txt": {
-    "version": "0.1.0",
+    "version": "0.1.2",
     "t3_versions": [
       13
     ],
     "description": "TYPO3 extension for generating llms.txt links according to llmstxt.org specification to control Large Language Model crawling policies.",
-    "hash": "sha256-+MZgFIxfUZwTetViBFW24UKO7YM9IPIrminUp1dQEO4="
+    "hash": "sha256-V5EG5JiXRN/rY0y/fOya5568+jxCTM6KTiRJx+OY3E8="
   },
   "ai_seo_helper": {
     "version": "0.7.0",
@@ -3785,13 +3785,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.359.2",
+    "version": "3.359.3",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-zE3DkhzIpUFrdW4QQ5Eg/iFN5tbN6itZHdD0ViuHgsk="
+    "hash": "sha256-GiOZt9ZVLgFBP+e4TcnSV0vHgMZsaLLucNEPxh50biI="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -13338,13 +13338,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "dbdoctor": {
-    "version": "1.0.4",
+    "version": "1.0.5",
     "t3_versions": [
       12,
       13
     ],
     "description": "Find and fix TYPO3 database inconsistencies",
-    "hash": "sha256-Uf/vlpoQpVzIx7bdynaVybHntT68KovvuqxyRHQiWHw="
+    "hash": "sha256-li8yA/276+EjcfFvQkVt+gqGPuwR6yzjN8Uzw+36sUQ="
   },
   "dbdownloadtracker": {
     "version": "2.0.0",
@@ -34095,13 +34095,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "masterplan": {
-    "version": "3.0.4",
+    "version": "6.0.1",
     "t3_versions": [
-      9,
-      10
+      13
     ],
     "description": "Masterplan",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-Gd02PKB8uQ2SxGbQ0tq77qVyLziLFoxGlzPbQq7jeWQ="
   },
   "mastertemplate": {
     "version": "0.6.2",
@@ -35496,12 +35495,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mg_image_comparison_slider": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "t3_versions": [
       13
     ],
     "description": "Slider for showing the difference between two images",
-    "hash": "sha256-cva3cyczNymCe6C2XMsr8toqWS6Ay24qf8xbedOFhUY="
+    "hash": "sha256-iUsKQiegnF8unx/7WxKIDaoK7eRKsaagQtwKR2IxxpE="
   },
   "mgl_linkdir": {
     "version": "0.0.0",
@@ -51203,12 +51202,12 @@
     "hash": "sha256-JisNMfNYoiXVZTQ7ocP8MI32iW9PFtfyH09ja6z/b/Q="
   },
   "seal_ai": {
-    "version": "0.0.4",
+    "version": "0.0.5",
     "t3_versions": [
       13
     ],
     "description": "SEAL Search AI - Vector based search based on EXT:seal",
-    "hash": "sha256-74T8OxDhm0ktnGwnI7GMKkN0mhhyeuQbAjurg26UFPI="
+    "hash": "sha256-GhHV7DfArgWatzbRQL7rSS/Xbp2+WmnSYDX41SiuEm0="
   },
   "search_suggestions": {
     "version": "1.0.0",
