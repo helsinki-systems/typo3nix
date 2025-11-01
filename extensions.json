@@ -15857,13 +15857,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "documentationhub": {
-    "version": "0.1.0",
+    "version": "0.1.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "Backend documentation with markdown, directory structure, and PDF export. Displays an entry in the top help menu.",
-    "hash": "sha256-nncN+mUqG+M+/OMCIjPtDcxM+RESce1ofod/U6wgrco="
+    "hash": "sha256-davRjtOUVJ7UqO/e8XgJ6mqNqM87TMCY5lPRqXFXcbs="
   },
   "docuseal": {
     "version": "2.0.0",
