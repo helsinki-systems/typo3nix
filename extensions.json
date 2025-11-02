@@ -20895,12 +20895,12 @@
     "hash": "sha256-DiE5UgAFeEq3UHmNQg2lOvRlmIIEj29ELkb0ylk6/9M="
   },
   "fluid_primitives": {
-    "version": "0.2.3",
+    "version": "0.4.0",
     "t3_versions": [
       13
     ],
     "description": "The headless component library for TYPO3 Fluid",
-    "hash": "sha256-VVS9wLYp8QL3ARpKtcfXbGkuKP0qHyv/MN/NBO54KcA="
+    "hash": "sha256-qmWfhjdxvs+n9OdiN9X8McxNqY4zrGLAyOO2XKeDrhg="
   },
   "fluid_recommendation": {
     "version": "1.3.0",
