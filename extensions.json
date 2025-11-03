@@ -1523,12 +1523,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "agency": {
-    "version": "0.15.0",
+    "version": "0.15.1",
     "t3_versions": [
       13
     ],
     "description": "An improved variant of Kasper Skårhøj’s Front End User Admin extension.",
-    "hash": "sha256-vA6j/C08E5ohX+vaaMPr5Y2AU2u79PLQEemwpHF0A1o="
+    "hash": "sha256-OrJv4pLXtCniSmqilDLWc9jTJxFTx0g1FsQ9N3X1gXI="
   },
   "agency_tt_address": {
     "version": "0.2.0",
@@ -9109,10 +9109,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cli_config": {
-    "version": "1.0.0",
-    "t3_versions": [],
+    "version": "1.0.1",
+    "t3_versions": [
+      13
+    ],
     "description": "TYPO3 CMS extension to provide a command to set or unset global system settings on CLI.",
-    "hash": "sha256-GPWqFJNJPKw3q5SxLW1NZUW0jHQ0S7I/HjBJKkhIk/8="
+    "hash": "sha256-ANVqV0SbfclafH0jYe0sFTMgGhWZReWCthuf86v8Nbw="
   },
   "cli_ensure_admin": {
     "version": "2.0.3",
@@ -20895,12 +20897,12 @@
     "hash": "sha256-DiE5UgAFeEq3UHmNQg2lOvRlmIIEj29ELkb0ylk6/9M="
   },
   "fluid_primitives": {
-    "version": "0.4.0",
+    "version": "0.5.1",
     "t3_versions": [
       13
     ],
     "description": "The headless component library for TYPO3 Fluid",
-    "hash": "sha256-qmWfhjdxvs+n9OdiN9X8McxNqY4zrGLAyOO2XKeDrhg="
+    "hash": "sha256-TfIJWGx0yYjhR4Rp9WNe5/cyxWMNQR6VOjAbWkkyrik="
   },
   "fluid_recommendation": {
     "version": "1.3.0",
@@ -22491,12 +22493,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fsq_kfl_karli": {
-    "version": "1.0.16",
+    "version": "1.0.21",
     "t3_versions": [
       13
     ],
-    "description": "Provides custom endpoints for frontend use",
-    "hash": "sha256-QqkjeogtJHfaaHhl9OOMMOJn3W78HcbFT3I1POBSUiQ="
+    "description": "Extbase plugin and optional route to connect an external chatbot.",
+    "hash": "sha256-Dvax+SG5/D+NRnQ1T6a2j4m5W1lBBuDRLbDvLmXrZmU="
   },
   "fst_ptviewer": {
     "version": "0.5.2",
@@ -51134,12 +51136,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "scroll": {
-    "version": "2.0.2",
+    "version": "2.1.0",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "Prevents scroll jumps in TYPO3 CMS backend.",
-    "hash": "sha256-qW/z7vA2QNjLYRh5dKnyH0yoXyZFS2P8fUyjhuxvHz8="
+    "hash": "sha256-NNbDp/2OIeGaHHHEqJ6SJoPpHPOzV/AIC+5TqWlJabg="
   },
   "scroll2anchor_jquery": {
     "version": "1.0.3",
@@ -64544,12 +64547,12 @@
     "hash": "sha256-WLnIEx/iFLE+1a+Imu6aaXAQ/969oGaP5j714gHg27w="
   },
   "video_vtt": {
-    "version": "2.5.4",
+    "version": "2.5.5",
     "t3_versions": [
       13
     ],
     "description": "Extend TYPO3 Video functionality",
-    "hash": "sha256-u8wTQ3O6PEaJz5IQbCWTRoPz4SQOI1WWoy2A1lUv6cE="
+    "hash": "sha256-QxcQH0fsWydP89LGkeeF3QHuDIhSOrcVhHW0gngynxg="
   },
   "videoce": {
     "version": "0.10.0",
