@@ -2739,6 +2739,22 @@
     "description": "TYPO3 REST API foundation built using middleware",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "api_caller": {
+    "version": "1.0.0",
+    "t3_versions": [
+      13
+    ],
+    "description": "Plugin to call external API via backend and JS snippet in frontend, now with SSE",
+    "hash": "sha256-i5YI2llnVAAyiRrv50VUlp2l0GP5Uzbyqhi+LBDRxT8="
+  },
+  "api_example": {
+    "version": "1.1.1",
+    "t3_versions": [
+      13
+    ],
+    "description": "Einfaches API Plugin + Backend Module (TYPO3 v13)",
+    "hash": "sha256-WzlB09D0wtuF7G0+18nmMh8NhTnvzoKDljmrmJ/aW2E="
+  },
   "api_macmade": {
     "version": "0.4.7",
     "t3_versions": [
@@ -3785,13 +3801,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.359.3",
+    "version": "3.359.4",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-GiOZt9ZVLgFBP+e4TcnSV0vHgMZsaLLucNEPxh50biI="
+    "hash": "sha256-yyyhgswK10fY9g7i31J1TsY8LWajN/Ilwfrz89T6NMo="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -22493,12 +22509,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fsq_kfl_karli": {
-    "version": "1.0.21",
+    "version": "1.0.25",
     "t3_versions": [
       13
     ],
     "description": "Extbase plugin and optional route to connect an external chatbot.",
-    "hash": "sha256-Dvax+SG5/D+NRnQ1T6a2j4m5W1lBBuDRLbDvLmXrZmU="
+    "hash": "sha256-HyQc0n7X0JnMyJP+Gvr286T/atLPZmCHc2FATWh6pSw="
   },
   "fst_ptviewer": {
     "version": "0.5.2",
@@ -24865,13 +24881,13 @@
     "hash": "sha256-a7k0jLdJ2pJgjuxullrUaRBdZFb7Y5DpD5SFgFj+ELQ="
   },
   "hh_slider": {
-    "version": "0.8.2",
+    "version": "1.0.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "Hauer-Heinrich - Image and Content Slider",
-    "hash": "sha256-myCHVihylt70l0F74CTG/HUEBqSf4XrlYdNe7lsJPgA="
+    "hash": "sha256-pUqmLXodhGVnS9hEs6RCqksG0aWV0di8zuYc0TnXs3M="
   },
   "hh_test": {
     "version": "0.2.15",
@@ -24987,6 +25003,15 @@
     ],
     "description": "Removes used content elements with own colPos configuration from \"Unused\" column",
     "hash": "sha256-P0Sn1rp+fDlR5/nst6V4QMvbjpFbfZ7W5SWEDTcUBNk="
+  },
+  "hidebycountries": {
+    "version": "2.0.0",
+    "t3_versions": [
+      12,
+      13
+    ],
+    "description": "restrict access to some CEs based on the frontEnd user country",
+    "hash": "sha256-ZSumQua7B8P8fgy2EOTECzbPcDepyq5yFwyVUnTtRtg="
   },
   "hidelisticons": {
     "version": "1.0.1",
