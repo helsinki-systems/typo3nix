@@ -3801,13 +3801,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.359.5",
+    "version": "3.359.6",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-rWsXPo3NtTRG6si+/UoAvcSZydeMDWRzMmERguE7YsM="
+    "hash": "sha256-h/IFMCajAUwMHgjfEU9ztR/fuZO18rVOC6SAI8bc3Qc="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -9242,12 +9242,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "clubdirectory": {
-    "version": "8.0.1",
+    "version": "8.0.2",
     "t3_versions": [
       13
     ],
     "description": "Manage and display clubs",
-    "hash": "sha256-x7VHcwQz35mp6NacncvOvJVKCMOkF5a+CtAF7qWN0oM="
+    "hash": "sha256-/FlZHDnQPrCgawzFFJKwHwJWVaLuGrnyG3Q/3m8WJIg="
   },
   "clubmanager": {
     "version": "1.2.5",
@@ -9692,13 +9692,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "commands": {
-    "version": "1.5.2",
+    "version": "2.0.0",
     "t3_versions": [
-      10,
-      11
+      12,
+      13
     ],
     "description": "Additional commands for the TYPO3 scheduler and the console",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-02vYFSfiI+zCyoEfnGyEFtJmrCJQA2YKiYUpy3eAmBs="
   },
   "comments": {
     "version": "1.7.1",
@@ -30504,13 +30504,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ke_search": {
-    "version": "6.5.0",
+    "version": "6.6.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Faceted fulltext search for TYPO3. Fast, flexible and easy to install and use. Indexes content directly from the databases. Features faceting / filtering, file indexing, images in result lists and respects access restrictions.",
-    "hash": "sha256-OT6kRE5/wafkKzeifGj7rSvLp5fQEwcTHynLy1iNAOs="
+    "hash": "sha256-zVXYPq2sLVaxyvqsL1ba9ODpEAHHOOhStOMS+pCWUt4="
   },
   "ke_search_dam_tags": {
     "version": "0.0.1",
@@ -51353,12 +51353,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "secure_downloads": {
-    "version": "7.0.1",
+    "version": "7.0.2",
     "t3_versions": [
       13
     ],
     "description": "\"Secure Download\": Apply TYPO3 access rights to ALL file assets (PDFs, TGZs or JPGs etc. - configurable) - protect them from direct access.",
-    "hash": "sha256-JaVXQphVtTUsYty7dwjMLgDpkZVnfxsqs4ikzK+LRB8="
+    "hash": "sha256-zVjMFPYgvDTSTNiPoe9lz6tDmCcW3xlpRUhT3qJgfEI="
   },
   "secure_filemount": {
     "version": "1.1.2",
@@ -52686,12 +52686,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sic_address": {
-    "version": "5.1.0",
+    "version": "6.0.0",
     "t3_versions": [
-      12
+      13
     ],
     "description": "Address Extension that can either enhance or replace tt_address. You can add required fields dynamically like mask/powermail. Originally it was written in 2016 to replace extensions like nicos_directory, wt_directory or sp_directory and grew from there.",
-    "hash": "sha256-bYgfzakXCgQqkcIZgtVHxuhS5+EGUw54m/6juCzL5Z0="
+    "hash": "sha256-Ngskqkfc9iVb7kLDKDTyxUeyVi8oJ7TEXCHlLV5KHdc="
   },
   "sic_mosparo": {
     "version": "1.0.0",
@@ -63514,14 +63514,14 @@
     "hash": "sha256-XbSyrw/yg70cGmJZNgmu+jGKpqI1+HmdrcPFYrMuH8A="
   },
   "typo3_environment_indicator": {
-    "version": "2.2.0",
+    "version": "2.2.1",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "This extension comes with several features to show an environment indicator in the TYPO3 frontend and backend.",
-    "hash": "sha256-1MZ7AefsCGXx4+AOJxBZIXqTcYgL2n50h8V7ni020g0="
+    "hash": "sha256-WO0A3lEhRjQU58g2WQbP2LoDfn2vIJOhsTE8mGoDTFs="
   },
   "typo3_feed": {
     "version": "2.0.1",
@@ -64573,12 +64573,12 @@
     "hash": "sha256-WLnIEx/iFLE+1a+Imu6aaXAQ/969oGaP5j714gHg27w="
   },
   "video_vtt": {
-    "version": "2.5.5",
+    "version": "2.6.2",
     "t3_versions": [
       13
     ],
     "description": "Extend TYPO3 Video functionality",
-    "hash": "sha256-QxcQH0fsWydP89LGkeeF3QHuDIhSOrcVhHW0gngynxg="
+    "hash": "sha256-yyCaIp9gZyhd+abxZHoL7XgXzY94YlefwaCfHmnn5c0="
   },
   "videoce": {
     "version": "0.10.0",
