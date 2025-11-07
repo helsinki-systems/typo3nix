@@ -12507,12 +12507,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "dailyverses": {
-    "version": "13.4.3",
+    "version": "13.4.5",
     "t3_versions": [
       13
     ],
     "description": "Displays a daily or random Bible verse from dailyverses.net, with support for 26 languages and multiple translations. Offers flexible layout options like background images and verse links, and integrates smoothly with bootstrap_package and other Fluid-based content.",
-    "hash": "sha256-sSyow5oO79jTz4jiG3LZvoo8v7Z423men+NSA1XmLPM="
+    "hash": "sha256-+XIBgFprqyDQrNT3aXviVEMhjbBhcs+5avLnhexLYQE="
   },
   "daimi_event": {
     "version": "0.10.1",
@@ -27217,12 +27217,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "index": {
-    "version": "0.3.2",
+    "version": "0.4.0",
     "t3_versions": [
       13
     ],
     "description": "Smart and flexible async indexing of pages and documents for e.g. search engines or AI provider",
-    "hash": "sha256-hn3r8k65J8ZfDUbh0XTbuqT2Rt3FNY18jl/qaDFn1qY="
+    "hash": "sha256-ncPvMWyeKZGUWMa5S1YKpRCAwtmobcNzEGbg/hR+sMg="
   },
   "indexed_search_autocomplete": {
     "version": "12.1.13",
@@ -35882,13 +35882,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "min": {
-    "version": "3.1.1",
+    "version": "3.1.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "Extends TYPO3's compressor for JS and CSS with minifier. This may save you up to 70% of default compressed file size. Also compresses HTML output of TYPO3. Full composer support.",
-    "hash": "sha256-x4virbFaVbxGtPRqPo/kBp/VT+izVhug/PPoMt+R20c="
+    "hash": "sha256-HN0PoXrO4Vr0AqXpyffu1Xf+/SBxCilztZD4CTHh0y4="
   },
   "mindfula11y": {
     "version": "0.8.1",
@@ -39421,13 +39421,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "news": {
-    "version": "12.3.1",
+    "version": "13.0.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Versatile news system based on Extbase & Fluid and using the latest technologies provided by TYPO3 CMS.",
-    "hash": "sha256-vxe/r0qEHLa/v+u99jjgyCD359W4mOaXKE31wGR/efg="
+    "hash": "sha256-9fvbjwTR1DZc8SxoGR7ErMdtBetB1djko5mhUGXozAQ="
   },
   "news2facebook": {
     "version": "1.1.0",
@@ -52686,22 +52686,22 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sic_address": {
-    "version": "6.0.0",
+    "version": "6.0.1",
     "t3_versions": [
       13
     ],
     "description": "Address Extension that can either enhance or replace tt_address. You can add required fields dynamically like mask/powermail. Originally it was written in 2016 to replace extensions like nicos_directory, wt_directory or sp_directory and grew from there.",
-    "hash": "sha256-Ngskqkfc9iVb7kLDKDTyxUeyVi8oJ7TEXCHlLV5KHdc="
+    "hash": "sha256-1TvPORmcTw0Qjcjnnoe99pNufasMnCVopv0ySrtUPHw="
   },
   "sic_mosparo": {
-    "version": "1.0.0",
+    "version": "1.0.2",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "Mosparo captcha extension for powermail",
-    "hash": "sha256-/oh30dpBpMYFQuMXs3obW6jiXU/2mW1z8A4tYrNXlCE="
+    "hash": "sha256-nuk8Uog1Y5v2MmTCxTi9ShJqlz3BbNSbCjgDDiBjbDQ="
   },
   "sici_core": {
     "version": "2.0.0",
@@ -63504,24 +63504,24 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "typo3_dump_server": {
-    "version": "0.5.0",
+    "version": "0.5.1",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "This extension brings the Symfony Var Dump Server to TYPO3.",
-    "hash": "sha256-XbSyrw/yg70cGmJZNgmu+jGKpqI1+HmdrcPFYrMuH8A="
+    "hash": "sha256-Q+fyn8GdbPzhNXFy5VitVgvHQlUeK+uWYA1fVzRB24o="
   },
   "typo3_environment_indicator": {
-    "version": "2.2.1",
+    "version": "2.2.2",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "This extension comes with several features to show an environment indicator in the TYPO3 frontend and backend.",
-    "hash": "sha256-WO0A3lEhRjQU58g2WQbP2LoDfn2vIJOhsTE8mGoDTFs="
+    "hash": "sha256-sLdOBYU0hY3dgR2d6ZEDWMrecyZpC4zRXzaBUiNMlmQ="
   },
   "typo3_feed": {
     "version": "2.0.1",
@@ -67382,13 +67382,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "xima_typo3_content_planner": {
-    "version": "1.5.8",
+    "version": "1.5.9",
     "t3_versions": [
       12,
       13
     ],
     "description": "This extension provides a page status functionality to support the planning of content work.",
-    "hash": "sha256-P+r2dr1dbJkB+n23uyJWfOZjUZShlrOLZqQImJWdyKk="
+    "hash": "sha256-jF0g55moEswKvEiw4utqWATCm5oAN49dHCFucXbYQAM="
   },
   "xima_typo3_frontend_edit": {
     "version": "1.7.2",
