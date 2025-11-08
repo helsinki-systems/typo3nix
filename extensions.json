@@ -3801,13 +3801,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.359.7",
+    "version": "3.359.8",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-aQeL0zSZsf4nQflieVpb2AL5lmboHcMuBGp5n0VQB6Y="
+    "hash": "sha256-5A9Vfvc9kl0qM9TxPgO93HvxuUy3susN2OjLwy5ptNo="
   },
   "aws_system_information": {
     "version": "1.0.0",
