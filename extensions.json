@@ -17972,13 +17972,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "evangtermine": {
-    "version": "2.2.7",
+    "version": "4.0.2",
     "t3_versions": [
-      10,
-      11
+      13
     ],
     "description": "Anzeige des Terminkalenders der Vernetzten Kirche in der Ev.-Luth. Kirche in Bayern und weiteren teilnehmenden evangelischen Landeskirchen.",
-    "hash": "sha256-MTh5It6DA6fTtduYQ6ZRw8WHzRp7rIrswy+36rzGKC8="
+    "hash": "sha256-cXJlDg+6kkNmaZKeBA7xkEVj2sivLyJdRUfIhhf3Olk="
   },
   "evcontext": {
     "version": "0.0.1",
@@ -32735,13 +32734,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "logs": {
-    "version": "5.2.1",
+    "version": "5.3.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "Log Reader with a backend module and API to read, filter and delete logs from the TYPO3 Logging API",
-    "hash": "sha256-PdWfgZFKKjfgshXhauYZDTF1tB6uSr7dvj7Ht6kR4vQ="
+    "hash": "sha256-28UPaM6IEm/eaOvbgFCA/7jmsc1WM4LZOvB9qpw5r/c="
   },
   "loki": {
     "version": "1.1.1",
@@ -52517,13 +52516,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "shop": {
-    "version": "5.10.1",
+    "version": "5.10.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "Shop for TYPO3 incl. PayPal, PayPal-Checkout (formerly PayPal-Plus), Klarna, Stripe, Bookmarks, UPS-API, Invoice generation, backend module, compare feature, graduated prices and many more - note there is a Pro version as well! See https://www.coding.ms/typo3-extensions/typo3-shop",
-    "hash": "sha256-ze0lVHpLazA0brBrpp4GPZ1hf324pds+H7CBWdxBDDQ="
+    "hash": "sha256-WAoWWLA9iKkmh31UtUBo8GqVWoEII9s12Syitoiuvb0="
   },
   "shop3ox": {
     "version": "0.0.3",
@@ -64654,13 +64653,13 @@
     "hash": "sha256-+AwO3CThLYLUfSte8VAz0yVlPyS+WVovZ57gl4XEds8="
   },
   "view_statistics": {
-    "version": "6.1.5",
+    "version": "6.1.6",
     "t3_versions": [
       12,
       13
     ],
     "description": "Logs frontend actions and display them in a backend module. Track page views, News, Downloads and custom objects. Optionally tracks frontend user logins and login durations. Alternative extension for Google-Analytics, Matomo, Piwik - this extension does not use any cookies! By default it does not track any personal data like IP address or even the user agent (though this can be activated optionally).",
-    "hash": "sha256-A0Li+7S3nAWhfLCt7iv3f8ubVgEHaqohgFfwhlcMhWk="
+    "hash": "sha256-4GGZY4rnOtsDUDPzXHRIHjk3TSgaYP/4LBddKsAQA6I="
   },
   "vimeovideo": {
     "version": "2.0.0",
