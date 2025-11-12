@@ -3801,13 +3801,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.359.9",
+    "version": "3.359.10",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-bGb8zxfye7nUIKJ4pTV6WHHyAbGVSlsxNRV7G5u/Yy8="
+    "hash": "sha256-02GJaIbaEfR728Tm+5OmwWuriz7volQvtOXBhb+cH3Y="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -8633,13 +8633,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "charts": {
-    "version": "3.0.2",
+    "version": "3.0.3",
     "t3_versions": [
       11,
       12
     ],
     "description": "Extension to create datasets and show them as line, bar, pie or doughnut chart in frontend",
-    "hash": "sha256-t1Bi1f3sC/1ALc2nIlQvejZ3C6Qi9vAk+X8ZKGCJF3o="
+    "hash": "sha256-nmt2kYWbt1HWFrzo1zTkscp5Avmb7aPvBP7CPdPUiqY="
   },
   "chartum": {
     "version": "1.1.1",
@@ -10202,13 +10202,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "content_animations": {
-    "version": "2.5.4",
+    "version": "2.6.0",
     "t3_versions": [
-      12,
       13
     ],
     "description": "This extension allows you to set nice animations to your content elements if they are scrolled into the browsers viewport. To install it include the static typoscript of content_animations to your template and you're good to go. Have fun! :-)",
-    "hash": "sha256-AfToijkanNxy5yWgP7Vdw03r4FjS4ylg2fCf0SLYwKU="
+    "hash": "sha256-5yVd7v0+MoYUQKG+/pu/pmABxeUWYbq2fQdkKwwJwSA="
   },
   "content_blocks": {
     "version": "1.3.18",
@@ -12507,12 +12506,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "dailyverses": {
-    "version": "13.4.5",
+    "version": "13.4.8",
     "t3_versions": [
       13
     ],
     "description": "Displays a daily or random Bible verse from dailyverses.net, with support for 26 languages and multiple translations. Offers flexible layout options like background images and verse links, and integrates smoothly with bootstrap_package and other Fluid-based content.",
-    "hash": "sha256-+XIBgFprqyDQrNT3aXviVEMhjbBhcs+5avLnhexLYQE="
+    "hash": "sha256-OyTzHzRrhXqW5SslXa42csRSNCh+0jocv4OADeqxKl8="
   },
   "daimi_event": {
     "version": "0.10.1",
@@ -20937,13 +20936,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fluid_styleguide": {
-    "version": "2.2.0",
+    "version": "2.2.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "Living styleguide for Fluid Components",
-    "hash": "sha256-QQjkM8tQSufgLJOs2ZgQC987HsHXLRwByVlY7/lbWwY="
+    "hash": "sha256-SJV0XtdfS1ghvAernVSrLGgK4nT/L24hPmhug0UaJmU="
   },
   "fluidbackend": {
     "version": "1.0.1",
@@ -30932,13 +30931,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "klaro_consent_manager": {
-    "version": "2.2.3",
+    "version": "2.2.4",
     "t3_versions": [
       12,
       13
     ],
     "description": "Functionally complete, flexible TYPO3 integration of Klaro! Consent Management by KIProtect GmbH, a powerful tool that protects your visitors' privacy and data.",
-    "hash": "sha256-21eJEABYp8r9bGu5IxUU197G7xCxg1AjRbRsV4XkqUk="
+    "hash": "sha256-+dfrbWVOu5WCRSSnRo0aeHFeaAgQuSXdXuWZwPPjRTA="
   },
   "klarokratie": {
     "version": "13.4.19",
@@ -33031,13 +33030,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "lux": {
-    "version": "39.1.2",
+    "version": "40.0.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Living User Experience - LUX - the Marketing Automation tool for TYPO3.",
-    "hash": "sha256-+mmwTewXmUs0of0sWeL4VGW6KyEcggGeWMMRlTHnGZY="
+    "hash": "sha256-wrwXyL9VyI9MSdjOp2xiv3LMq8HnEZUzv9Svn9hq5uQ="
   },
   "luxletter": {
     "version": "27.2.3",
@@ -34560,13 +34559,13 @@
     "hash": "sha256-7reAhNbIaWCXit1hWwJX5H3VDq5IWydbI/mh/KZ1TG8="
   },
   "md_news_author": {
-    "version": "8.0.0",
+    "version": "8.0.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "Adds one or more authors to a tx_news record, show a list of all authors and display a detail page of the author containing the attached news entries.",
-    "hash": "sha256-MZCLN4yGvwUle+35itB6DHEwTiM+KlZDOVOUYIF5JYc="
+    "hash": "sha256-DDPC4KEis8yAtY0wMXr7MH62DdK/XkBt1IzFX2jhhyE="
   },
   "md_news_clickcount": {
     "version": "4.0.1",
@@ -36855,13 +36854,13 @@
     "hash": "sha256-QBq7RgOtpBz21jSQfzIxEurNCmBZlHvZXZt3wzoyyMw="
   },
   "modules": {
-    "version": "7.5.4",
+    "version": "7.5.5",
     "t3_versions": [
       12,
       13
     ],
     "description": "Frontend-User-Registration, Profile, Invitations, Listing with detailview, Addressmanagement, Frontend-Recordmanagement. User friendly Backendmodule for managing Frontend- and Backend-Users and other Records. Toolbox for frontend and backend modules in TYPO3.",
-    "hash": "sha256-kzhdTi13eKfW2r8k/chcWSIsyVeoHVu6gzNqsWgfGBo="
+    "hash": "sha256-MtZMX1fYzbrTl4FYt0O9mhL3qczFw511NJojfwNa0ew="
   },
   "modulis_animated_gif": {
     "version": "0.0.4",
@@ -40553,12 +40552,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "nr_image_optimize": {
-    "version": "2.2.0",
+    "version": "2.2.1",
     "t3_versions": [
       13
     ],
     "description": "Advanced image optimization extension for TYPO3 13. Features include: Lazy image processing (on-demand generation), WebP and AVIF format support with automatic fallback, optimized compression for smaller file sizes, ViewHelper for responsive images with srcset support, middleware for efficient image delivery, and support for Intervention Image library. Perfect for improving Core Web Vitals and page loading performance.",
-    "hash": "sha256-3JVt0aZPjsQfKTHIvjIkzKXLr81twqqhVj2p572o+XY="
+    "hash": "sha256-EkrOkBwYhAViqqGxCmmSlaHsXwqFyi3DtAzlB0SNEYE="
   },
   "nr_image_sitemap": {
     "version": "13.0.6",
@@ -42979,13 +42978,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "page_password": {
-    "version": "1.1.1",
+    "version": "1.1.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "PagePassword provides a simple way to restrict access to specific pages and their sub-pages with password authentication.",
-    "hash": "sha256-rOburjijwHPPZFfctHiTU/0xHCeTzUxgLGmIgSwvWpo="
+    "hash": "sha256-81P2IQ70iU2q8OLJ8q6AZERulcyqeYGB17wxIXCxaGI="
   },
   "page_qrcode": {
     "version": "0.2.0",
@@ -47493,12 +47492,12 @@
     "hash": "sha256-/uhrXC9i7AJoNnaXs2rrVA1TRuEMRt/PoQlucDNbxc0="
   },
   "rdct": {
-    "version": "3.0.0",
+    "version": "3.1.0",
     "t3_versions": [
-      12
+      13
     ],
     "description": "Adds redirects based on \"&RDCT\" parameter in Frontend",
-    "hash": "sha256-z89l8KLe6wlOxZrMQor4PSSlArQMksgbOyDU8phgktg="
+    "hash": "sha256-dMRYsxVtCTO3E0lA34fwqm4nDfaXMsnAsgU4u0gzUKY="
   },
   "re_agenda": {
     "version": "0.1.4",
@@ -59095,12 +59094,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "taskqueue": {
-    "version": "9.4.1",
+    "version": "9.5.0",
     "t3_versions": [
       13
     ],
     "description": "Provides a task queue for other extensions to use.",
-    "hash": "sha256-YcShgAK0xm5vUbACBdZ7FGb/p6uHf/ausM73xnLhPcU="
+    "hash": "sha256-eU76V994rWDI1I7UOU24SXvI7csIfFnvn+0I+rJVdtY="
   },
   "taxajax": {
     "version": "1.4.0",
@@ -63846,12 +63845,12 @@
     "hash": "sha256-NFrrkLgA190uLAhNkkK564DLqoOQsdAFHLrs+aePAmg="
   },
   "univie_pure": {
-    "version": "12.6.524",
+    "version": "12.10.524",
     "t3_versions": [
       12
     ],
     "description": "This extension allows you to seamlessly integrate academic content from the Elsevier Pure Research Information System (API v524) into your TYPO3 website, displaying publications, projects, datasets, and equipment details. Based on the Vienna Pure extension, our implementation has been specifically optimized to meet the requirements of Leibniz University Hannover, while also being designed for global use and continuous improvement.",
-    "hash": "sha256-XXwq2m5Vl0fNkfPxCQlWinw/SUqay+3l+Uz5v3DdB0E="
+    "hash": "sha256-WtI0b9IiHrU5k4Xm9duaPLl34UK8pfJBgd9rM5G+bXQ="
   },
   "unleash": {
     "version": "1.0.0",
