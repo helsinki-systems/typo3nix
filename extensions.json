@@ -1203,13 +1203,13 @@
     "hash": "sha256-OEFgLxQD/Tdt5kQ7lM47wuVB1S2LvxFVQdRhe4jtx4Y="
   },
   "address_manager": {
-    "version": "5.0.6",
+    "version": "5.0.7",
     "t3_versions": [
       12,
       13
     ],
     "description": "Filialfinder, Umkreissuche, Standortuebersicht, radial search, radius search, Personenverzeichnis, Personendatenbank, Mitarbeiterverzeichnis: Manages and displays address and person records. Comes with three kinds of categories (groups, organisations and positions) with frontend filtering and fulltext search. Includes Google Maps and SEO support. There is also a pro version available. Note there is a Pro version as well! See https://www.coding.ms/typo3-extensions/typo3-address-manager",
-    "hash": "sha256-uUkhhBytsPHiGQNl+FotXSYRGY382FFEfSR2+Bd4BQ0="
+    "hash": "sha256-7kYwcmM9QEU7ZudzJyeCbUtgMUU0c76yyyEB3E1jFbI="
   },
   "addresses": {
     "version": "1.1.1",
@@ -3801,13 +3801,13 @@
     "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
   },
   "aws_sdk_php": {
-    "version": "3.359.10",
+    "version": "3.359.11",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-02GJaIbaEfR728Tm+5OmwWuriz7volQvtOXBhb+cH3Y="
+    "hash": "sha256-4mdgARhJWow4FJxcKXj/mjmZeMEm0XYNS3EIRHHxmaI="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -5256,12 +5256,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "bm_image_gallery": {
-    "version": "7.0.2",
+    "version": "7.1.0",
     "t3_versions": [
       13
     ],
     "description": "Simple gallery using file collections.",
-    "hash": "sha256-DDoJEA4kONXWOpORy7sZ05JjvcVVtarMYlh6UANnkt4="
+    "hash": "sha256-FWWbUvvpPU6kXT0aYkiG1aUN3a2ywDMNooyxzzPBBDo="
   },
   "bm_lofuc": {
     "version": "0.1.1",
@@ -21779,12 +21779,12 @@
     "hash": "sha256-CN1nAK2dmfTk6hcy2nAercA6NbfnnBuOX1j95cmyle4="
   },
   "form_to_database": {
-    "version": "5.0.2",
+    "version": "5.1.0",
     "t3_versions": [
       13
     ],
     "description": "Extends the TYPO3 form with a very simple database finisher, to save the form-results in the database.",
-    "hash": "sha256-l4xJnc2+YO8k0scK8wfA9PVz5ZlcA3GSk6nhgjskDaA="
+    "hash": "sha256-3Xs90++y8mPGx/Q02ruvZUZXA5TvfhgADDqCmQYWfRc="
   },
   "form_tools": {
     "version": "2.0.1",
@@ -27215,12 +27215,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "index": {
-    "version": "0.4.1",
+    "version": "1.0.0",
     "t3_versions": [
       13
     ],
     "description": "Smart and flexible async indexing of pages and documents for e.g. search engines or AI provider",
-    "hash": "sha256-a9LIiJXYpNOpBcwTdvFaOmfFiYzyFoYySRfKH9Z5FE8="
+    "hash": "sha256-pgDNQiczBpBZNLudFcJ1b2Mch152ppXjffW7BxBJJOE="
   },
   "indexed_search_autocomplete": {
     "version": "12.1.13",
@@ -36854,13 +36854,13 @@
     "hash": "sha256-QBq7RgOtpBz21jSQfzIxEurNCmBZlHvZXZt3wzoyyMw="
   },
   "modules": {
-    "version": "7.5.5",
+    "version": "7.5.6",
     "t3_versions": [
       12,
       13
     ],
     "description": "Frontend-User-Registration, Profile, Invitations, Listing with detailview, Addressmanagement, Frontend-Recordmanagement. User friendly Backendmodule for managing Frontend- and Backend-Users and other Records. Toolbox for frontend and backend modules in TYPO3.",
-    "hash": "sha256-MtZMX1fYzbrTl4FYt0O9mhL3qczFw511NJojfwNa0ew="
+    "hash": "sha256-2Pp68wHEZF8WGDihOVhDKBzQx0SA1EnVgvfXHtHAXJY="
   },
   "modulis_animated_gif": {
     "version": "0.0.4",
@@ -40592,12 +40592,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "nr_saml_auth": {
-    "version": "10.0.9",
+    "version": "10.0.10",
     "t3_versions": [
       10
     ],
     "description": "TYPO3 Saml Authentication for frontend",
-    "hash": "sha256-Vki2GZy6XEyn1ONo7v4w1uTBopSO8qPBWQHAtKkARJo="
+    "hash": "sha256-B9PrJqroLtuCn5FiU5/loBaIZ8sPvghfUC6lCoxp+nk="
   },
   "nr_semantic_templates": {
     "version": "0.3.0",
@@ -42096,14 +42096,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "oidc": {
-    "version": "4.0.1",
+    "version": "4.0.2",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "This extension uses OpenID Connect to authenticate users.",
-    "hash": "sha256-D1Jc3GkZzKDoxz2o9THEGni/Px7ObGKgh2/yl1bwskg="
+    "hash": "sha256-Aq+7Dr76sDPhulrStiaTYyqYGt1VJSViiuQakw2Py3k="
   },
   "oidc_client": {
     "version": "0.3.1",
@@ -59094,12 +59094,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "taskqueue": {
-    "version": "9.5.0",
+    "version": "9.5.1",
     "t3_versions": [
       13
     ],
     "description": "Provides a task queue for other extensions to use.",
-    "hash": "sha256-eU76V994rWDI1I7UOU24SXvI7csIfFnvn+0I+rJVdtY="
+    "hash": "sha256-GWb9rCfBuv+BaeiiM718RsUN59pgmox15x+L4lX1Dd4="
   },
   "taxajax": {
     "version": "1.4.0",
