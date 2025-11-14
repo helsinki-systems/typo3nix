@@ -4066,13 +4066,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "base_excel": {
-    "version": "5.1.0",
+    "version": "5.2.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "This provides the PhpSpreadsheet library, formerly phpExcel from phpOffice.",
-    "hash": "sha256-v6AdIQ1b08C7eFY8nIB5PnvsnOYWWFSapZd9zv/VC08="
+    "hash": "sha256-4Sc7XIQCl7/SfFDoYfYQbELr+6mh98NN2WaMQlAaLeU="
   },
   "base_font": {
     "version": "1.0.0",
@@ -24707,12 +24707,12 @@
     "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
   },
   "hd_structureddata": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "t3_versions": [
       13
     ],
     "description": "Extension for adding structured JSON-LD into page headers",
-    "hash": "sha256-dWTVLIE62nqSdGHRJ7CUPE1W8o3xGn4FXGp1NbXQuoA="
+    "hash": "sha256-LQdfE2X9ozBcQ4nDrtxwN/aHnD0S2c4T1Dbvf1LKUNw="
   },
   "hd_translator": {
     "version": "2.1.0",
@@ -25849,7 +25849,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "iconpack": {
-    "version": "1.3.0",
+    "version": "1.3.1",
     "t3_versions": [
       10,
       11,
@@ -25857,7 +25857,7 @@
       13
     ],
     "description": "Provides an iconpack-registry for various iconpacks.",
-    "hash": "sha256-dW4gw8yG31FDFdw4DLFarQQIclnDvDQSTB3kXDlkjLI="
+    "hash": "sha256-Bn4wE9y1eBirPbi3zipRmfp1/qjiufBv1oqxLgiMx88="
   },
   "iconpack_bootstrap": {
     "version": "1.3.3",
@@ -34821,13 +34821,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "media2click": {
-    "version": "3.5.4",
+    "version": "3.6.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Render external content like videos and iframes with privacy in mind: User has to click on placeholder to load the actual content.",
-    "hash": "sha256-Si8VlQzeq+RhEFVPPolsiFraVkIZ7puOQ6eJpxLYOcs="
+    "hash": "sha256-RsLKGKI49zqOrCYa9Ox06MfIb3KhXhz21uQQXT8Agtw="
   },
   "media_center": {
     "version": "1.0.3",
@@ -37162,13 +37162,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mosparo_form": {
-    "version": "1.0.3",
+    "version": "1.0.4",
     "t3_versions": [
       12,
       13
     ],
     "description": "Integrates the mosparo spam protection system into TYPO3 EXT:form and Extbase forms, allowing easy and effective spam protection across different form implementations.",
-    "hash": "sha256-7p4to7AHg0mePfUzi1XjVj7UutLq9nsbjnnadpnjCi4="
+    "hash": "sha256-TiDE4Wf9LvG74/grjqa3QmEPPsu715225sa362ePv24="
   },
   "mosparo_powermail": {
     "version": "1.0.3",
@@ -40939,13 +40939,13 @@
     "hash": "sha256-kPxKaPOFunsxkd20gpiPaMTtTkdDsAyhYtNQVZgoXGY="
   },
   "ns_license": {
-    "version": "13.0.12",
+    "version": "13.0.13",
     "t3_versions": [
       12,
       13
     ],
     "description": "Manage licenses of your TYPO3 templates and extensions purchased from T3Planet. Includes activation and license validation. Documentation available at https://docs.t3planet.com/en/latest/License/LicenseActivation/Index.html",
-    "hash": "sha256-BMP4O33/TwdsnS/abh1AClT/aIrngca7YNljrLR/0/U="
+    "hash": "sha256-F4CQUNLrf1oYe7MDWfCYdUzf/9LgLgArmDmopcpKJwU="
   },
   "ns_news_advancedsearch": {
     "version": "13.0.2",
@@ -45704,12 +45704,12 @@
     "hash": "sha256-lK9AGoQoc5+TKypf/QmovUeJXSgCnu93eEzggKXYq4c="
   },
   "powermail_cond": {
-    "version": "13.1.0",
+    "version": "13.1.1",
     "t3_versions": [
       13
     ],
     "description": "Add conditions (via AJAX) to powermail forms for fields and pages",
-    "hash": "sha256-fScRDB1uvECCcLycgxesy57rxwiLvdF7pyBdT/itEFk="
+    "hash": "sha256-nfRXkvxYyKdr2pxWamawVZb/3arUbhfzENTwrGLypUw="
   },
   "powermail_cond_jquery": {
     "version": "1.0.1",
