@@ -3793,21 +3793,21 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "aws_cloudfront_manager": {
-    "version": "1.0.1",
+    "version": "2.0.0",
     "t3_versions": [
-      12
+      13
     ],
     "description": "Backend module that lets backend users trigger Amazon CloudFront invalidations",
-    "hash": "sha256-iFmpaU81igmXUU16Gq/SfHJUzGsVECPkUx9b88qf9tI="
+    "hash": "sha256-Vm1EQFl1l7qB31THEFDv40dc4HM0RRxnXWkIQ2w4QCg="
   },
   "aws_sdk_php": {
-    "version": "3.359.11",
+    "version": "3.359.12",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-4mdgARhJWow4FJxcKXj/mjmZeMEm0XYNS3EIRHHxmaI="
+    "hash": "sha256-M0VY3OGP1yTXrlbIepZk8utSXdmGVtvpXQGlgiqAwfQ="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -66611,12 +66611,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ws_slider": {
-    "version": "13.2.1",
+    "version": "13.2.2",
     "t3_versions": [
       13
     ],
     "description": "Universal slider carousel for Owl slider, flexslider, ... ",
-    "hash": "sha256-baZjQUSx71SM5EMlcRLBVvVubWdPTk8TFC8bxl5HHPA="
+    "hash": "sha256-u1kHN5EYMAaI9eiex4/43Q6xTQuo/jIRUK0b/50iqCY="
   },
   "ws_stats": {
     "version": "0.2.0",
