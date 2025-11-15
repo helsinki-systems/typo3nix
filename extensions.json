@@ -3801,13 +3801,13 @@
     "hash": "sha256-Vm1EQFl1l7qB31THEFDv40dc4HM0RRxnXWkIQ2w4QCg="
   },
   "aws_sdk_php": {
-    "version": "3.359.12",
+    "version": "3.359.13",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-M0VY3OGP1yTXrlbIepZk8utSXdmGVtvpXQGlgiqAwfQ="
+    "hash": "sha256-re83lvu8EwByiie/MSuq88GMCjM3y1PcQwMxHseELNQ="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -25849,7 +25849,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "iconpack": {
-    "version": "1.3.1",
+    "version": "1.3.2",
     "t3_versions": [
       10,
       11,
@@ -25857,7 +25857,7 @@
       13
     ],
     "description": "Provides an iconpack-registry for various iconpacks.",
-    "hash": "sha256-Bn4wE9y1eBirPbi3zipRmfp1/qjiufBv1oqxLgiMx88="
+    "hash": "sha256-PuNXo+EJmAOtAmHnrhHSUMWmUyAMvdSNwJUeP0MSCHM="
   },
   "iconpack_bootstrap": {
     "version": "1.3.3",
@@ -25924,7 +25924,7 @@
     "hash": "sha256-xRDHM/QhQ0ef6JW1/bwEB0bh0XFLjCQolAgX9oVKhN0="
   },
   "iconpack_fontawesome": {
-    "version": "1.2.1",
+    "version": "1.2.2",
     "t3_versions": [
       10,
       11,
@@ -25932,7 +25932,7 @@
       13
     ],
     "description": "This Extension registers an Iconpack-Provider for EXT:iconpack which allows you to use the \"Font Awesome Icons\" in TYPO3.",
-    "hash": "sha256-Dt0BCekOVs1SLE8H3CkoSZY2mI/vSfqX2erljwzsuMU="
+    "hash": "sha256-yFrDQCEssCssieee/BGpVDJe31Ehj96JwxZovocDQ6I="
   },
   "iconpack_helium": {
     "version": "1.1.2",
@@ -33304,52 +33304,52 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "maagitblog": {
-    "version": "13.4.3",
+    "version": "13.4.20",
     "t3_versions": [
       13
     ],
     "description": "Versatile agenda system based on Extbase & Fluid and using latest technologies provided by TYPO3 CMS.",
-    "hash": "sha256-kkHM+cXJavLqdvms2qH+SReZy+jBAfU7DJ7qXZOjcA8="
+    "hash": "sha256-o3G9KH8m8SGPEPvkGuK6MheRef1c5K9dmUAnEtOHdEU="
   },
   "maagitcookie": {
-    "version": "13.4.3",
+    "version": "13.4.20",
     "t3_versions": [
       13
     ],
     "description": "Cookie consent functionality for using websites provided by TYPO3 CMS.",
-    "hash": "sha256-IIEP3aUFTCXPAI8TGiHv/MCSDIfoSf/mkDSXLup2HWQ="
+    "hash": "sha256-QEsVSFcXepJs+/d2OC9dS2Hon/IxbMX8wfHNL9zwtuo="
   },
   "maagitevent": {
-    "version": "13.4.3",
+    "version": "13.4.20",
     "t3_versions": [
       13
     ],
     "description": "Versatile agenda system based on Extbase & Fluid and using latest technologies provided by TYPO3 CMS.",
-    "hash": "sha256-ZNbBAnfDixxznVmFa/i6HYf8v3DXzQYNeOb1vi8fYn4="
+    "hash": "sha256-CGIKxmeVNKsFqeLnZgl9vM0PDaTA71H5agQbQRVIGNs="
   },
   "maagitproduct": {
-    "version": "13.4.3",
+    "version": "13.4.20",
     "t3_versions": [
       13
     ],
     "description": "Versatile shop system based on Extbase & Fluid and using latest technologies provided by TYPO3 CMS.",
-    "hash": "sha256-biHGM+L8tDZudfuj7n9NYPEEnXQVwCN8kU8SKPFC7CY="
+    "hash": "sha256-v31aKIy+MP4TwvE5htZT5DicNxYURaQ7dHDCKXiEXyU="
   },
   "maagitseclink": {
-    "version": "13.4.3",
+    "version": "13.4.20",
     "t3_versions": [
       13
     ],
     "description": "Secure download functionality for Typo3 Websites provided by TYPO3 CMS.",
-    "hash": "sha256-wPSCjClT5BLODnesy5iaudf6PYKK4ptH5T7vLVyILIw="
+    "hash": "sha256-qgN6PPO/i+fzOJ52B9BUVkVjFXLFUYRlLX2ffvOFaSU="
   },
   "maagituser": {
-    "version": "13.4.3",
+    "version": "13.4.20",
     "t3_versions": [
       13
     ],
     "description": "Versatile login and user system based on Extbase & Fluid and using latest technologies provided by TYPO3 CMS.",
-    "hash": "sha256-w8DuGxSv6wyVbQNkCdPfADhw15p6eXMj7HhrKIqIE6g="
+    "hash": "sha256-6yZ6Cs6ge8vyFOv6n5m35Pm4+Cl38+qjLbbZZpVMLjQ="
   },
   "maca_clubadmin": {
     "version": "0.1.4",
@@ -45727,12 +45727,12 @@
     "hash": "sha256-fKcU9WziII300LutqXGgvj7TyOlztwDLmlf6UiC2JS0="
   },
   "powermail_crshield": {
-    "version": "2.0.0",
+    "version": "2.0.1",
     "t3_versions": [
       13
     ],
     "description": "Adds a hidden input field containing a challenge string to powermail forms. Client must execute included JavaScript to calculate the expected response.",
-    "hash": "sha256-++5u26PQ68CXcrWP2tmFQqp1YkoIGoMUHytGoQv6oWw="
+    "hash": "sha256-aMnCtVuCaLpFDgmn83pmWqj/zsEZ7fUyMuR93VNLwd8="
   },
   "powermail_fastexport": {
     "version": "1.0.5",
