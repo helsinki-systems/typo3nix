@@ -1523,12 +1523,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "agency": {
-    "version": "0.15.1",
+    "version": "0.15.2",
     "t3_versions": [
       13
     ],
     "description": "An improved variant of Kasper Skårhøj’s Front End User Admin extension.",
-    "hash": "sha256-OrJv4pLXtCniSmqilDLWc9jTJxFTx0g1FsQ9N3X1gXI="
+    "hash": "sha256-N/v0i1EsEPEpUt2Xup/FqnwnokF47gCqnUHltEbDxCU="
   },
   "agency_tt_address": {
     "version": "0.2.0",
@@ -10486,12 +10486,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "contexts": {
-    "version": "3.0.0",
+    "version": "3.1.1",
     "t3_versions": [
       11
     ],
     "description": "Contexts for TYPO3 - can be used to modify page behaviour in the frontend based on several conditions",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-fcT18y4swiE94naDFrnJi2q73ZOvsIOaG+U7jaem4rY="
   },
   "contexts_geolocation": {
     "version": "1.0.0",
@@ -13168,12 +13168,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "dataviewer": {
-    "version": "2.0.2",
+    "version": "3.0.0",
     "t3_versions": [
-      8
+      12
     ],
     "description": "Build easy and intuitive TCA-records (e.g. News, Jobs, Events and more) on the fly without developing a new extension. Only templating is needed; includes many plugins for all kinds of usage!",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-FtDCce5qpWsQdlKu6j6fsrcjSDkOP55thrdZVnMrny0="
   },
   "date2cal": {
     "version": "8.0.0",
@@ -13851,6 +13851,16 @@
     ],
     "description": "Configurable, demand-based filtering framework with permalink-support for TYPO3.",
     "hash": "sha256-tA2haP5LxxQDOa3P0o6OyM486GeVWal3u+RIPMgJRyg="
+  },
+  "demio": {
+    "version": "1.1.1",
+    "t3_versions": [
+      10,
+      11,
+      12
+    ],
+    "description": "This extension provides a plugin for the TYPO3 CMS to integrate Demio webinars into your TYPO3 website.",
+    "hash": "sha256-hmsIIpqIgBB6pLO0Z4r1ZTKcggNAx07CO2KYLf0ofGQ="
   },
   "demo_extconf_userfunc": {
     "version": "0.0.1",
@@ -34120,12 +34130,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "masterplan": {
-    "version": "6.0.1",
+    "version": "6.0.3",
     "t3_versions": [
       13
     ],
     "description": "Masterplan",
-    "hash": "sha256-Gd02PKB8uQ2SxGbQ0tq77qVyLziLFoxGlzPbQq7jeWQ="
+    "hash": "sha256-rcsZ1gJ7AIoL04u26tLD494JMf3DqkWZDA3l6QQs0JU="
   },
   "mastertemplate": {
     "version": "0.6.2",
@@ -54908,12 +54918,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "solr": {
-    "version": "13.0.3",
+    "version": "13.0.4",
     "t3_versions": [
       13
     ],
     "description": "Apache Solr for TYPO3 is the enterprise search server you were looking for with special features such as Faceted Search or Synonym Support and incredibly fast response times of results within milliseconds.",
-    "hash": "sha256-pfjkQTWjGgJ0dVZ74YNoLwacxTE4kuCZXfE1mQwX0dk="
+    "hash": "sha256-5EGcmNSAISbP09THVlNlCvR+DA5/a8VPrCXWkyXrfCI="
   },
   "solr_boutique": {
     "version": "1.0.0",
@@ -64759,13 +64769,13 @@
     "hash": "sha256-jWR/gqSKGzy0yv3fdtX0Dp3GycnE25dhtg/sCI8t/hI="
   },
   "vite_asset_collector": {
-    "version": "1.14.0",
+    "version": "1.14.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "Bundle your TYPO3 frontend assets with Vite",
-    "hash": "sha256-zGuQHpUS8JMV6c5nsdPNamtBLMta8BNBoibfWq4d6gg="
+    "hash": "sha256-L6fdpFL0KzCLl7xqZHCoiDfX/JaqIjVD/D02L9fbusM="
   },
   "vjchat": {
     "version": "0.3.4",
