@@ -1203,13 +1203,13 @@
     "hash": "sha256-OEFgLxQD/Tdt5kQ7lM47wuVB1S2LvxFVQdRhe4jtx4Y="
   },
   "address_manager": {
-    "version": "5.0.7",
+    "version": "5.0.8",
     "t3_versions": [
       12,
       13
     ],
     "description": "Filialfinder, Umkreissuche, Standortuebersicht, radial search, radius search, Personenverzeichnis, Personendatenbank, Mitarbeiterverzeichnis: Manages and displays address and person records. Comes with three kinds of categories (groups, organisations and positions) with frontend filtering and fulltext search. Includes Google Maps and SEO support. There is also a pro version available. Note there is a Pro version as well! See https://www.coding.ms/typo3-extensions/typo3-address-manager",
-    "hash": "sha256-7kYwcmM9QEU7ZudzJyeCbUtgMUU0c76yyyEB3E1jFbI="
+    "hash": "sha256-Vt3vI6ea4totl/LfB73SQtnqV3BdD11WoJpUfXCEdLc="
   },
   "addresses": {
     "version": "1.1.1",
@@ -1288,12 +1288,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "admiral_cloud_connector": {
-    "version": "3.0.4",
+    "version": "3.0.5",
     "t3_versions": [
       13
     ],
     "description": "AdmiralCloud Connector",
-    "hash": "sha256-PjlylKHjHIh1KhJpXcvqP9gTX1xPid/m/0OTPx4jAj0="
+    "hash": "sha256-LmUUgtX3BnzjVWcaN4h0r0GPQ5+MMg/ZgsxS4gsQxck="
   },
   "adodb": {
     "version": "8.4.0",
@@ -3801,13 +3801,13 @@
     "hash": "sha256-Vm1EQFl1l7qB31THEFDv40dc4HM0RRxnXWkIQ2w4QCg="
   },
   "aws_sdk_php": {
-    "version": "3.359.13",
+    "version": "3.360.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-re83lvu8EwByiie/MSuq88GMCjM3y1PcQwMxHseELNQ="
+    "hash": "sha256-1oYFYJTW7DgB9Xdzwj5BE64n+cos6Xbp2yTjeucIxp4="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -13853,14 +13853,14 @@
     "hash": "sha256-tA2haP5LxxQDOa3P0o6OyM486GeVWal3u+RIPMgJRyg="
   },
   "demio": {
-    "version": "1.1.1",
+    "version": "1.1.2",
     "t3_versions": [
       10,
       11,
       12
     ],
     "description": "This extension provides a plugin for the TYPO3 CMS to integrate Demio webinars into your TYPO3 website.",
-    "hash": "sha256-hmsIIpqIgBB6pLO0Z4r1ZTKcggNAx07CO2KYLf0ofGQ="
+    "hash": "sha256-8FDTv2Tq4gztATiWPA1tzQq/JBllizFCr/bz9oo9kiA="
   },
   "demo_extconf_userfunc": {
     "version": "0.0.1",
@@ -20921,12 +20921,12 @@
     "hash": "sha256-DiE5UgAFeEq3UHmNQg2lOvRlmIIEj29ELkb0ylk6/9M="
   },
   "fluid_primitives": {
-    "version": "0.5.2",
+    "version": "0.6.0",
     "t3_versions": [
       13
     ],
     "description": "The headless component library for TYPO3 Fluid",
-    "hash": "sha256-JjOjND6bpcj3VDWgRhUChmVHkiF0IhCx3Xkt5j/lDsA="
+    "hash": "sha256-M8HhmYlh3KW0ysZnoEBnqYuF4jpwrNPxNhuQemIx6B8="
   },
   "fluid_recommendation": {
     "version": "1.3.0",
@@ -23128,13 +23128,13 @@
     "hash": "sha256-v+CiJDvqHsSTrWl12GMt+rQTQCAIvPJ5yULk6ARfLW8="
   },
   "geo_redirect": {
-    "version": "1.1.0",
+    "version": "1.2.0",
     "t3_versions": [
       11,
       12
     ],
     "description": "Redirect users based on browser language and ip country to the right language version of the website",
-    "hash": "sha256-x6TrN99z33jfF4v0uOrmG89A9t0Xw/iDzGNC0o8BoS8="
+    "hash": "sha256-iVWu2gIMjuNeo6xjkpYgZ7u3bfD9Hj/36oVS90ZIJ5k="
   },
   "geocode_osm": {
     "version": "1.0.0",
@@ -24863,13 +24863,13 @@
     "hash": "sha256-LgeQxEOCLyaUDjOYLliyJDngEesTLEBZy9QnbtTYih8="
   },
   "hh_powermail_checkboxlink": {
-    "version": "0.2.0",
+    "version": "0.2.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "Additional field for EXT:powermail. Adds one checkbox with RTE as Label/Description. Usage for e. g. gdpr-checkbox with link.",
-    "hash": "sha256-7CDrZS/l6+FHXTKMWvo6dq0feaV0al1WH12HGmvDAWo="
+    "hash": "sha256-mU5m++PiOihAV7BDjkmbZS1TzwpyQsnlBUPdNlX7XfM="
   },
   "hh_seo": {
     "version": "0.9.3",
@@ -25859,7 +25859,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "iconpack": {
-    "version": "1.3.2",
+    "version": "1.3.4",
     "t3_versions": [
       10,
       11,
@@ -25867,7 +25867,7 @@
       13
     ],
     "description": "Provides an iconpack-registry for various iconpacks.",
-    "hash": "sha256-PuNXo+EJmAOtAmHnrhHSUMWmUyAMvdSNwJUeP0MSCHM="
+    "hash": "sha256-tXF0qhy+VaUddX/abCNZdgPHk1NWNZkN13Hazrc+itQ="
   },
   "iconpack_bootstrap": {
     "version": "1.3.3",
@@ -25934,7 +25934,7 @@
     "hash": "sha256-xRDHM/QhQ0ef6JW1/bwEB0bh0XFLjCQolAgX9oVKhN0="
   },
   "iconpack_fontawesome": {
-    "version": "1.2.2",
+    "version": "1.3.0",
     "t3_versions": [
       10,
       11,
@@ -25942,7 +25942,7 @@
       13
     ],
     "description": "This Extension registers an Iconpack-Provider for EXT:iconpack which allows you to use the \"Font Awesome Icons\" in TYPO3.",
-    "hash": "sha256-yFrDQCEssCssieee/BGpVDJe31Ehj96JwxZovocDQ6I="
+    "hash": "sha256-BhiBeZiXDOlw2WSpWVL66fLuAMtuA3KVGMQwZ7OTAAM="
   },
   "iconpack_helium": {
     "version": "1.1.2",
@@ -26066,7 +26066,7 @@
     "hash": "sha256-H164GJ9gtePmqHAuQ7StLRZix7DOnoKYl+G3Jg7AZes="
   },
   "iconpack_typo3": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "t3_versions": [
       10,
       11,
@@ -26074,7 +26074,7 @@
       13
     ],
     "description": "This Extension registers an Iconpack-Provider for EXT:iconpack which allows you to use the \"TYPO3 Icons\" in ...TYPO3 (surprise!).",
-    "hash": "sha256-KElyxib+QqxsajXdSH/ZRMqmeLx8bhaanzRf/kzl5ZI="
+    "hash": "sha256-WinpLw4SIyr2l80eURVHbutMhSlhCoGGDKWVasoTw7E="
   },
   "icons": {
     "version": "1.0.1",
@@ -27208,7 +27208,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "includekrexx": {
-    "version": "6.1.1",
+    "version": "6.1.2",
     "t3_versions": [
       10,
       11,
@@ -27216,7 +27216,7 @@
       13
     ],
     "description": "Alternative for f:debug (fluid) and debug(); (PHP) with additional analysis features and logging options.",
-    "hash": "sha256-/hch7ObXcbXZkX2VuI29Mhi9G0+yrHKd2lC67oB88cQ="
+    "hash": "sha256-dkuJPOtFXBBzn9rwdjcu6MQMQOn8FZmW3h7GooJLsxI="
   },
   "incore_twitter": {
     "version": "1.2.2",
@@ -33558,13 +33558,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mailfiles": {
-    "version": "8.2.0",
+    "version": "8.2.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "Upload files and send download links via email. Uses plupload. Please see readme file.",
-    "hash": "sha256-8M+2LhbeSqqVxllDZ7Zjwh2Ff3xIWdXeNZsjJEJSc+E="
+    "hash": "sha256-Wz506x9naoEgGQNqJqhusx83p9CPYCKi2ELM+UvPQV0="
   },
   "mailform": {
     "version": "0.9.35",
@@ -34982,12 +34982,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "meilisearch": {
-    "version": "0.7.0",
+    "version": "0.7.3",
     "t3_versions": [
       12
     ],
     "description": "This extension integrates \"meilisearch\" into your TYPO3.",
-    "hash": "sha256-eAGVpR8twA0GuUPcJpgEb5TxqXy+SypqE6Oda9j1pWo="
+    "hash": "sha256-OLtwgpWhFkFU4ISZUKRbkLj3g2hD1yy1dhaDYBStMyc="
   },
   "meinpraktikum_widget": {
     "version": "1.0.1",
@@ -36864,13 +36864,13 @@
     "hash": "sha256-QBq7RgOtpBz21jSQfzIxEurNCmBZlHvZXZt3wzoyyMw="
   },
   "modules": {
-    "version": "7.5.6",
+    "version": "7.6.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Frontend-User-Registration, Profile, Invitations, Listing with detailview, Addressmanagement, Frontend-Recordmanagement. User friendly Backendmodule for managing Frontend- and Backend-Users and other Records. Toolbox for frontend and backend modules in TYPO3.",
-    "hash": "sha256-2Pp68wHEZF8WGDihOVhDKBzQx0SA1EnVgvfXHtHAXJY="
+    "hash": "sha256-o80nsokluGPiivtGe5kf1VKlRl0kJNPyA1MosO/buNw="
   },
   "modulis_animated_gif": {
     "version": "0.0.4",
@@ -39877,12 +39877,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "newsslider": {
-    "version": "7.0.0",
+    "version": "7.0.1",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "Slider Template-Layout for versatile news extension (tx_news).",
-    "hash": "sha256-uJeJf/6bZopKPPRCHLAzV4hwnQUCUb38OyhmDoGAfLc="
+    "hash": "sha256-B8aFBb5r7llu/XGISNTgiVEw7ATSCifyDB2UDZeHuvI="
   },
   "newsstylist": {
     "version": "6.0.2",
@@ -40608,6 +40609,14 @@
     ],
     "description": "TYPO3 Saml Authentication for frontend",
     "hash": "sha256-B9PrJqroLtuCn5FiU5/loBaIZ8sPvghfUC6lCoxp+nk="
+  },
+  "nr_scheduler": {
+    "version": "1.1.8",
+    "t3_versions": [
+      12
+    ],
+    "description": "Extends the TYPO3 scheduler extension with some functions.",
+    "hash": "sha256-O0HKuRffeLb7R47QI/yhgNDHILqLqM806z8Ay5HVjmc="
   },
   "nr_semantic_templates": {
     "version": "0.3.0",
@@ -51116,12 +51125,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "schooldirectory": {
-    "version": "8.0.1",
+    "version": "8.0.3",
     "t3_versions": [
       13
     ],
     "description": "This is a TYPO3 extension to manage schools",
-    "hash": "sha256-90y6u3A+8GNk+dh8N4BoZaDRE7iQVdMw05b5sHpGCsY="
+    "hash": "sha256-91bZFFNMx7Nd8h7wmKPA/kKUQuGVLv5YcH9HuKVptgk="
   },
   "scoopit": {
     "version": "0.0.4",
@@ -53849,6 +53858,15 @@
     ],
     "description": "Invalidates the timestamp of the \"Page is being generated\" message so that the TSFE always displays the actual page content.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "skip_to_content": {
+    "version": "1.2.2",
+    "t3_versions": [
+      12,
+      13
+    ],
+    "description": "TYPO3 extension to include the accessibility functions: skip to content and skip to footer",
+    "hash": "sha256-HRNBWDoXtW633fwLbgQ2pxcxOshG0VXHQ1YcxYV9HuY="
   },
   "skiplinks": {
     "version": "1.0.2",
@@ -58289,12 +58307,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "t3s_swiper": {
-    "version": "0.0.6",
+    "version": "0.0.8",
     "t3_versions": [
       13
     ],
     "description": "Swiper is the most modern free mobile touch slider with hardware accelerated transitions and amazing native behavior.",
-    "hash": "sha256-OX4SF/wQtUlw0Nc8cQ7UU94hijS7R9M0m6MmUvSKvfE="
+    "hash": "sha256-yGkT0+G07OuQNE/N2Gz+UzkkbLs+g6+eQbuLyV2tB40="
   },
   "t3s_titleattributes": {
     "version": "0.0.1",
@@ -58316,13 +58334,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "t3sbootstrap": {
-    "version": "5.3.25",
+    "version": "5.3.26",
     "t3_versions": [
       12,
       13
     ],
     "description": "Startup extension to use bootstrap 5 classes, components and more out of the box. Example and info: www.t3sbootstrap.de",
-    "hash": "sha256-MpnmTcYQ/4v8Na2mQbl3AqnngUFJUmHiTRSOFnR+upE="
+    "hash": "sha256-HLexv71bOICoYYpHTJIQJKf6rBljy3+HE+u3VyTCUqo="
   },
   "t3sbootstrap_grid": {
     "version": "4.0.0",
@@ -63854,6 +63872,14 @@
     "description": "",
     "hash": "sha256-NFrrkLgA190uLAhNkkK564DLqoOQsdAFHLrs+aePAmg="
   },
+  "universal_messenger": {
+    "version": "2.0.3",
+    "t3_versions": [
+      12
+    ],
+    "description": "TYPO3 extension providing a backend module to send newsletters using Universal Messenger API",
+    "hash": "sha256-qGwfToyeVe1NGJ0z3jRjVHsMuvh+kaASdWkJcDKihc8="
+  },
   "univie_pure": {
     "version": "12.10.524",
     "t3_versions": [
@@ -66456,13 +66482,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "wr_deepl_translate": {
-    "version": "1.2.0",
+    "version": "1.2.3",
     "t3_versions": [
       12,
       13
     ],
     "description": "Automatic translations of entire TYPO3 websites with DeepL. Quick and easy. Without extra languages in the backend and without headaches.",
-    "hash": "sha256-OeQzLt13irgpOANgt+V2RZ/nDWJZl0w9cS9Wquv9wrg="
+    "hash": "sha256-Rkc9eQKQW0plA3BL7Sb7c+mrxmL1iz0pJeTaa+EWttY="
   },
   "wrg_anotherbelogin": {
     "version": "0.0.4",
