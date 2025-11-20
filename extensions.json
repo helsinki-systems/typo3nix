@@ -3801,13 +3801,13 @@
     "hash": "sha256-Vm1EQFl1l7qB31THEFDv40dc4HM0RRxnXWkIQ2w4QCg="
   },
   "aws_sdk_php": {
-    "version": "3.360.1",
+    "version": "3.362.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-1oYFYJTW7DgB9Xdzwj5BE64n+cos6Xbp2yTjeucIxp4="
+    "hash": "sha256-+Mxx5ILrYAfshRFXc0/k6LQV7zSxoiRZ7FOWOoLriP8="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -48209,12 +48209,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "reserve": {
-    "version": "4.1.4",
+    "version": "4.2.0",
     "t3_versions": [
       13
     ],
     "description": "This extension allows you to reserve tickets for one or more persons using a period table and a form. Each reservation has it’s own QR Code that can be scanned at the event.",
-    "hash": "sha256-7Y5RgQe90dbiMyfWsQbUiEyPP4YOm+c9ap5K775X7cs="
+    "hash": "sha256-b8ZYKh2k6ebNbpzP5TspeRjVIE6/LXa5DMiqv2qspuA="
   },
   "reset_scheduler": {
     "version": "1.0.1",
