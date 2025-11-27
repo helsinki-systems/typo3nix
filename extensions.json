@@ -3809,13 +3809,13 @@
     "hash": "sha256-Vm1EQFl1l7qB31THEFDv40dc4HM0RRxnXWkIQ2w4QCg="
   },
   "aws_sdk_php": {
-    "version": "3.363.2",
+    "version": "3.363.3",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-2EtrQ2GLOmML4fYULgjv4j9L81cM5yYkSEbPBPfhmWs="
+    "hash": "sha256-koYtcxcfQcbN1Pj0CxfHniB5fmUbALWUSiCe8WDG4T0="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -7838,6 +7838,14 @@
     "t3_versions": [],
     "description": "Login a frontend user automatically if one is found with the right IP configured.",
     "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
+  },
+  "cc_jsonflex": {
+    "version": "1.0.0",
+    "t3_versions": [
+      13
+    ],
+    "description": "Provides jsonFlex datatype in TCA for JSON-Flexform",
+    "hash": "sha256-QUOCxyHEPSFlnvt20gq0avHv2OdAnbUO0uA18xg4Amc="
   },
   "cc_langguess": {
     "version": "1.0.0",
@@ -40652,12 +40660,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "nr_textdb": {
-    "version": "3.0.1",
+    "version": "3.0.3",
     "t3_versions": [
       13
     ],
-    "description": "Allows you to edit the translations in the back end",
-    "hash": "sha256-eDwOxLBrMeaKSN0DTOW+ptSB3YiFEXZAQXNiHKMmNkU="
+    "description": "Auto-creating TYPO3 translation database - use ViewHelpers, editors translate in backend, instant updates - by Netresearch",
+    "hash": "sha256-aCRyFZlWK6y3xQbQJK62FC3zfwyQZMWrM4p3f15EFoE="
   },
   "ns_all_chat": {
     "version": "13.0.1",
@@ -42988,13 +42996,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "page_link_insights": {
-    "version": "1.5.1",
+    "version": "1.6.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Visualize internal page links with D3.js force diagrams and thematic clustering for content analysis.",
-    "hash": "sha256-q220dMIK5C4VU9muc0bMh3hFheavBNm4XYf7DMqcAls="
+    "hash": "sha256-a/9rg++eTwUlt90IcLWXCKfxSLHKELDzpQ+Z/dFqzpY="
   },
   "page_params": {
     "version": "1.0.6",
