@@ -10224,10 +10224,10 @@
     "hash": "sha256-5yVd7v0+MoYUQKG+/pu/pmABxeUWYbq2fQdkKwwJwSA="
   },
   "content_blocks": {
-    "version": "2.0.0",
+    "version": "2.0.1",
     "t3_versions": [],
     "description": "TYPO3 CMS Content Blocks - Content Types API | Define reusable components via YAML",
-    "hash": "sha256-JbmMQhST1wucI+uuLufJYrGot2hUtqD8qnXEKkFnn24="
+    "hash": "sha256-wTb8xUxYCQLjk0X7EUGncfuX+DbSMiGEJ7BbbrFzOL4="
   },
   "content_blocks_bootstrap": {
     "version": "0.0.3",
@@ -13287,12 +13287,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "daycarecenters": {
-    "version": "7.0.2",
+    "version": "7.0.3",
     "t3_versions": [
       13
     ],
     "description": "This extensions lets create and show you records of day care centers",
-    "hash": "sha256-YEUQI/+lLZTm4VhnDIYrrRSLsU3uNeRVPdFo+xl9Gec="
+    "hash": "sha256-G1gTCQw9lR4BqGWnVdLFXlpRmfeY8vXR9fQuKGFs4MI="
   },
   "db_adm": {
     "version": "0.1.0",
@@ -26837,12 +26837,12 @@
     "hash": "sha256-rjQwnuKLOb1ZJdp4140b7cXq3tPyeiJ+e7DQtfrEM1I="
   },
   "imager": {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "t3_versions": [
       13
     ],
     "description": "Adding images from Gemini with Nano Banana",
-    "hash": "sha256-PDrkL1B6F8N1GndR292nkSc1lusZRvxMkkJFRUoiDVM="
+    "hash": "sha256-cVIZalcoDq/RI8yzqPmUvNysjVED/ELT94ie6AdVs+c="
   },
   "imagerotation": {
     "version": "0.1.1",
@@ -27254,15 +27254,12 @@
     "hash": "sha256-3jZeMr+lWwo1NC4P4bADeezJi7VxB0gPMg02saSsdP8="
   },
   "indexed_search_autocomplete": {
-    "version": "12.1.13",
+    "version": "13.0.1",
     "t3_versions": [
-      9,
-      10,
-      11,
-      12
+      13
     ],
     "description": "Extends the TYPO3 Core Extension Indexed_Search searchform with an autocomplete feature.",
-    "hash": "sha256-jR2R2ANj9cOXynj+XtEBNdomGC0gqvZvHBnJjzNmr8s="
+    "hash": "sha256-ALMSYDc0i11b/JVz1p4dYCp3l6MsKMNoKqvthwYBoCQ="
   },
   "indexed_search_fix": {
     "version": "0.1.0",
@@ -29198,12 +29195,12 @@
     "hash": "sha256-UiV4ENeK3s25DNBoplclJy/WMzTOQ8D+byxmMmEIxAk="
   },
   "jobcenter": {
-    "version": "5.0.1",
+    "version": "5.0.2",
     "t3_versions": [
       13
     ],
     "description": "Recommend employer contacts based on conditions",
-    "hash": "sha256-hJMtH9a4fg851jswaaVhTftQymrttahXa255pXH9rD8="
+    "hash": "sha256-MXH7j1IusXKhpLsVB5S07o5CTwG4MPayuVcEA8eDRq0="
   },
   "jobfair": {
     "version": "6.0.1",
@@ -46184,13 +46181,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "prevent_lang_packs_download": {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Prevent language packs download for configurable extension keys",
-    "hash": "sha256-Aj9k+1PFuqz4e8gkoSNsy/OyrMC9COyRF30TciQhL3Y="
+    "hash": "sha256-Uagw4TFMqPKAB7lAAYmqvmsdP39JIrZfDonZTmTxAFU="
   },
   "preview": {
     "version": "1.0.3",
@@ -49754,13 +49751,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "rte_ckeditor_pack": {
-    "version": "1.1.0",
+    "version": "2.0.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "CKEditor Pack TYPO3 extension provides a modern, integrated CKEditor build many optimized features, accessibility tools, AI assistance, and collaboration-friendly options—all without managing scattered YAML files. Built for stability and clean integration, it streamlines editing workflows and enhances TYPO3 content quality.",
-    "hash": "sha256-dhvpSWPDNfCOqHi5utx5FZbVxOyACxJDi8LNBuFvnsY="
+    "hash": "sha256-xpeJMNiQMHTrOa9ey4YMiFr+l+l9KZoDuYG8vMVt5oM="
   },
   "rte_ckeditor_textpartlanguage": {
     "version": "99.99.99",
@@ -51159,12 +51156,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "schooldirectory": {
-    "version": "8.0.3",
+    "version": "8.0.4",
     "t3_versions": [
       13
     ],
     "description": "This is a TYPO3 extension to manage schools",
-    "hash": "sha256-91bZFFNMx7Nd8h7wmKPA/kKUQuGVLv5YcH9HuKVptgk="
+    "hash": "sha256-RUpIllAL6iVi78jT0G52J6NziBvter3htpi04F0HwxI="
   },
   "scoopit": {
     "version": "0.0.4",
@@ -58096,7 +58093,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "t3monitor": {
-    "version": "2.1.0",
+    "version": "2.1.1",
     "t3_versions": [
       10,
       11,
@@ -58104,7 +58101,7 @@
       13
     ],
     "description": "Monitors TYPO3 installation for updates and security issues (Requires an account on www.t3monitor.de)",
-    "hash": "sha256-dy7hY01X/ls5CS/1Tn6K61waW0vbyAEjWvwIQaWfms4="
+    "hash": "sha256-WGUBEFqSZhRv4VQQcfrZHmMU1w/M3DQopbS8pgCX+Ik="
   },
   "t3monitoragent": {
     "version": "0.1.0",
