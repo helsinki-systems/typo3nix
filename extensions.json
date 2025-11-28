@@ -26836,6 +26836,14 @@
     "description": "Optimize uploaded/processed images with binaries of your choice",
     "hash": "sha256-rjQwnuKLOb1ZJdp4140b7cXq3tPyeiJ+e7DQtfrEM1I="
   },
+  "imager": {
+    "version": "1.0.0",
+    "t3_versions": [
+      13
+    ],
+    "description": "Adding images from Gemini with Nano Banana",
+    "hash": "sha256-PDrkL1B6F8N1GndR292nkSc1lusZRvxMkkJFRUoiDVM="
+  },
   "imagerotation": {
     "version": "0.1.1",
     "t3_versions": [],
