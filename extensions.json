@@ -2542,12 +2542,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "anatolkin_mosaic_gallery": {
-    "version": "0.1.11",
+    "version": "0.1.12",
     "t3_versions": [
       13
     ],
     "description": "Masonry-like image gallery for TYPO3 using FAL with optional GLightbox.",
-    "hash": "sha256-jlqwahuYuvhx9+WcCREuO4r9Dfm2I57dfAxnoOtTMqs="
+    "hash": "sha256-OOB4yDpLhf1MzDfIuICO5F4QKomSNCZxwTKnPHMG4sE="
   },
   "anckesearchaddon": {
     "version": "7.6.0",
@@ -8900,12 +8900,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ckeditor5_abbreviation": {
-    "version": "1.2.0",
+    "version": "1.3.1",
     "t3_versions": [
       13
     ],
     "description": "Add abbreviations information through the ckeditor",
-    "hash": "sha256-QkduFl6mkadWC40JLxjN91eb6sSXmSW1i/qnd7BaGK8="
+    "hash": "sha256-ABeDmcl7JUTSW6TYhkOW6WdlxhykRSNaDIlXKBq/iNY="
   },
   "ckeditor_custom_bullets": {
     "version": "1.0.1",
@@ -9524,13 +9524,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "codehighlight": {
-    "version": "4.2.1",
+    "version": "5.0.0",
     "t3_versions": [
-      12,
       13
     ],
     "description": "Code highlighter for various programming, markup and configuration languages based on PrismJS",
-    "hash": "sha256-WEbw5Kjc1vPDZncdIQZsrIBVOYVQr4a19QB7b2GsYSY="
+    "hash": "sha256-Xn6IGIxAjk5CWu/ETtUkYD9VSd1/pwCcw0t6eDjlz6E="
   },
   "codersquad_libs": {
     "version": "1.0.1",
@@ -18128,10 +18127,10 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ew_llxml2xliff": {
-    "version": "6.0.1",
+    "version": "7.0.1",
     "t3_versions": [],
     "description": "Provides a backend module to convert locallang.xml and locallang.php files",
-    "hash": "sha256-oOVaF6IYDPrM6qloJ4b2LQapBTqIxS/X95C1j+0kwB8="
+    "hash": "sha256-f1dke54X0g4UIU93zZ+9Lp6lIztv+afGJt6O30N9VXk="
   },
   "ew_socialfeedwall": {
     "version": "3.0.0",
@@ -20213,12 +20212,10 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "filecollection_gallery": {
-    "version": "13.0.5",
-    "t3_versions": [
-      13
-    ],
+    "version": "14.0.0",
+    "t3_versions": [],
     "description": "Simple FileCollection Gallery with mobile and desktop view",
-    "hash": "sha256-AxL1UT/R6WUStb6nEwBL8YBf9zluGdkjt4F8LMveuLc="
+    "hash": "sha256-vpBNsJ3X6Wr93Gkm75RycE/k/Y+wdwAzrcf1tFdd78Y="
   },
   "filecollector": {
     "version": "1.1.0",
@@ -26838,12 +26835,12 @@
     "hash": "sha256-rjQwnuKLOb1ZJdp4140b7cXq3tPyeiJ+e7DQtfrEM1I="
   },
   "imager": {
-    "version": "1.1.0",
+    "version": "1.2.0",
     "t3_versions": [
       13
     ],
     "description": "Adding images from Gemini with Nano Banana",
-    "hash": "sha256-cVIZalcoDq/RI8yzqPmUvNysjVED/ELT94ie6AdVs+c="
+    "hash": "sha256-YhFk4+PbLF+V7XKQpWe1OKqMjBlCFoTrWyZgz8dV26c="
   },
   "imagerotation": {
     "version": "0.1.1",
@@ -27366,12 +27363,12 @@
     "hash": "sha256-ClNl0K1WBEPzavDPytwLYScnkDbEx4ktfD/WYYAZvRU="
   },
   "info_hide_default_lang": {
-    "version": "1.1.0",
+    "version": "2.0.0",
     "t3_versions": [
-      12
+      13
     ],
     "description": "Display information about activated \"Hide default language\" in TYPO3 page module",
-    "hash": "sha256-HEdvktuZB9RmBkmt9l63Avus02740KDJKI0TLoIk5qI="
+    "hash": "sha256-NzFr5hfGoOx4pqg01a3IKL5JtV0hovSwS3L6Z6x46OA="
   },
   "info_subpages": {
     "version": "1.0.0",
@@ -27477,12 +27474,10 @@
     "hash": "sha256-SAghFSr4P5wmSfWXuyUCT6IJs5CLDXQPcMznaZx/uBw="
   },
   "infomaniak_vod": {
-    "version": "13.0.2",
-    "t3_versions": [
-      13
-    ],
+    "version": "14.0.0",
+    "t3_versions": [],
     "description": "An alternative video streaming service like Youtube or Vimeo by the Swiss hoster Infomaniak.",
-    "hash": "sha256-araPpI8ehBPnCO0Dca0COFIrqgK7UnDcmkFcoJlr8FA="
+    "hash": "sha256-NzryDWNbzyVE2pqNNGK/la3nWYw42rG1adhS3BT2yLk="
   },
   "ingmar_accessctrl": {
     "version": "1.0.1",
@@ -51803,12 +51798,10 @@
     "hash": "sha256-nk6QyRtptgf9DP0vKYT3qllWU31vfbAWhLyiG61a1/E="
   },
   "sf_books": {
-    "version": "10.0.1",
-    "t3_versions": [
-      13
-    ],
+    "version": "11.0.1",
+    "t3_versions": [],
     "description": "Managing lots of books is not easy without a good tool.",
-    "hash": "sha256-t+tpv2NMa8x0h/r2nj21yNy6rBopZbtlnTOgtQU+L14="
+    "hash": "sha256-/nJl/UK2ekrdFGri62w6ei07WGf+RqqBenNovnqhDEI="
   },
   "sf_event_mgt": {
     "version": "8.4.0",
