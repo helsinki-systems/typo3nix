@@ -2478,7 +2478,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ameos_tarteaucitron": {
-    "version": "3.9.0",
+    "version": "3.10.0",
     "t3_versions": [
       9,
       10,
@@ -2487,7 +2487,7 @@
       13
     ],
     "description": "Integrates tarteaucitron.js in TYPO3 (see : https://tarteaucitron.io )",
-    "hash": "sha256-ISV9GcfR2iMm/Zg1AepPP8QCPMgvGnKl2CKFwP2qMAc="
+    "hash": "sha256-KKWt3V9iq7WFkBphPUSircAyzflnYriBu1A5g1aIeX4="
   },
   "ameos_typo3_vulnerabilities": {
     "version": "1.0.0",
@@ -3809,13 +3809,13 @@
     "hash": "sha256-Vm1EQFl1l7qB31THEFDv40dc4HM0RRxnXWkIQ2w4QCg="
   },
   "aws_sdk_php": {
-    "version": "3.363.3",
+    "version": "3.364.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-koYtcxcfQcbN1Pj0CxfHniB5fmUbALWUSiCe8WDG4T0="
+    "hash": "sha256-hf7L3zRnq4J3hTYvJAb2Pe9jmmrJnUCjcqTdNRVXSxo="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -4542,12 +4542,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "beautyofcode": {
-    "version": "7.0.0",
+    "version": "7.0.1",
     "t3_versions": [
       13
     ],
     "description": "This plugin provides Java-Script based, state-of-the-art, feature rich syntax highlighting by using SyntaxHighlighter or Prism. t3editor enabled.",
-    "hash": "sha256-5qTo0Ev+9q9DEozUVdtZF6bAmANpZiV4qQqwIcYjj18="
+    "hash": "sha256-HaGya8f43U9WC+3BpwfhgCLt9t9HqXfqmemMT4r4M4E="
   },
   "becookies": {
     "version": "0.1.9",
@@ -6482,13 +6482,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "byt_coordconverter": {
-    "version": "3.3.0",
+    "version": "3.4.0",
     "t3_versions": [
-      11,
-      12
+      12,
+      13
     ],
     "description": "View helper for converting geospatial coordinates from one format into another",
-    "hash": "sha256-YvrrN9bTdzjNAHrdCzB8Epo0GXtpsgcUvyDzxvLfeZA="
+    "hash": "sha256-8AZynvV0AcsGChXhWlsTGh7rjhgA9CGB7bWkZoNllno="
   },
   "bz_sitemap": {
     "version": "2.0.0",
@@ -13850,10 +13850,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "deletefiles": {
-    "version": "1.4.0",
-    "t3_versions": [],
+    "version": "1.4.1",
+    "t3_versions": [
+      13
+    ],
     "description": "Scheduler task for deleting old files and folder. Supports FAL. Useful for GDPR / DSGVO compliance.",
-    "hash": "sha256-qWFSLMKctikGhLidP4yQKkp1Vl16snNMEwcLfSsztG4="
+    "hash": "sha256-yoG3sMgeFf5DjrvbJimIFL9BVcg/iY2dU88Xdqj8Egs="
   },
   "demander": {
     "version": "0.2.0",
@@ -19001,13 +19003,12 @@
     "hash": "sha256-9gZRC1bq+gIHWnryy8Blb4NLj2pFdLhJL2T62VuzHuc="
   },
   "fal_securedownload": {
-    "version": "5.0.7",
+    "version": "6.0.3",
     "t3_versions": [
-      11,
-      12
+      13
     ],
     "description": "Secure download of assets. Makes it possible to secure FE use of assets/files by setting permissions to folders/files for fe_groups.",
-    "hash": "sha256-dh2RqCcOwBG06curwt2jurt1iBmBHZLwaIE68rigwuI="
+    "hash": "sha256-X35TBKAuRLWL1C7PXVtfEPCj+/1UEllq0YAzCk+H9DM="
   },
   "fal_sftp": {
     "version": "4.3.0",
@@ -59539,12 +59540,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "telephonedirectory": {
-    "version": "6.0.0",
+    "version": "6.0.2",
     "t3_versions": [
       13
     ],
     "description": "Telephone Directory",
-    "hash": "sha256-rbmTNx7XfRaNCahs3f85lyKgsWnG/ZQXo86tFaQrbwM="
+    "hash": "sha256-eMtOEfhTkzKjV3KSmahw2tXqfDP7fMXZij8Mjp+CicI="
   },
   "template_basics_doc": {
     "version": "0.0.3",
