@@ -1203,13 +1203,13 @@
     "hash": "sha256-OEFgLxQD/Tdt5kQ7lM47wuVB1S2LvxFVQdRhe4jtx4Y="
   },
   "address_manager": {
-    "version": "5.0.8",
+    "version": "5.0.9",
     "t3_versions": [
       12,
       13
     ],
     "description": "Filialfinder, Umkreissuche, Standortuebersicht, radial search, radius search, Personenverzeichnis, Personendatenbank, Mitarbeiterverzeichnis: Manages and displays address and person records. Comes with three kinds of categories (groups, organisations and positions) with frontend filtering and fulltext search. Includes Google Maps and SEO support. There is also a pro version available. Note there is a Pro version as well! See https://www.coding.ms/typo3-extensions/typo3-address-manager",
-    "hash": "sha256-Vt3vI6ea4totl/LfB73SQtnqV3BdD11WoJpUfXCEdLc="
+    "hash": "sha256-/xbkclY9t8ReforLAh2S3Jfu/5xhxDn+DsSFeX2QQEg="
   },
   "addresses": {
     "version": "1.1.1",
@@ -1523,12 +1523,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "agency": {
-    "version": "0.15.2",
+    "version": "1.0.0",
     "t3_versions": [
       13
     ],
     "description": "An improved variant of Kasper Skårhøj’s Front End User Admin extension.",
-    "hash": "sha256-N/v0i1EsEPEpUt2Xup/FqnwnokF47gCqnUHltEbDxCU="
+    "hash": "sha256-ea0PsGUCjjVTTfeMJg2cquFVPDQDvCXXczZutXtZE4s="
   },
   "agency_tt_address": {
     "version": "0.2.0",
@@ -1673,14 +1673,14 @@
     "hash": "sha256-DIxBAwJpYfM0xgdjwu85/ak60ecQE7USGunWhQ25eDs="
   },
   "ai_tools": {
-    "version": "1.2.0",
+    "version": "1.3.0",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "A TYPO3 extension that leverages artificial intelligence to enhance content and accessibility",
-    "hash": "sha256-ihH3MUYavBBEDbSrgkk+sOxiGYSpJTMQuJnsFDwR/nY="
+    "hash": "sha256-UkrS0cW8AQpctzYfbOnBdb3MP7sZPH2ca409YidzRbU="
   },
   "ai_translate": {
     "version": "4.0.2",
@@ -1699,13 +1699,13 @@
     "hash": "sha256-9HaqYJClnzh8JN8UVPIESY88thrW+PLWi5kdkD8LAfE="
   },
   "aimeos": {
-    "version": "25.10.2",
+    "version": "25.10.3",
     "t3_versions": [
       12,
       13
     ],
     "description": "Professional, full-featured and ultra-fast TYPO3 e-commerce extension for online shops, complex B2B applications and #gigacommerce. Turns TYPO3 into the best platform for content commerce and your e-commerce requirements (also available as TYPO3 distribution)",
-    "hash": "sha256-r7VfhxechclZon9dCF5R0x5dxgtfoJJDmmXRSrQNmAY="
+    "hash": "sha256-R/gOe56Hmeb22AmQtMjIzMr9/rBe/8MxmaiTfnh4X/8="
   },
   "aimeos_dist": {
     "version": "25.4.1",
@@ -2542,12 +2542,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "anatolkin_mosaic_gallery": {
-    "version": "0.1.12",
+    "version": "0.1.13",
     "t3_versions": [
       13
     ],
     "description": "Masonry-like image gallery for TYPO3 using FAL with optional GLightbox.",
-    "hash": "sha256-OOB4yDpLhf1MzDfIuICO5F4QKomSNCZxwTKnPHMG4sE="
+    "hash": "sha256-2inXXEG4TtBbjls3Kbbc8sjhjgVWgvhkR2dQq0+0Djs="
   },
   "anckesearchaddon": {
     "version": "7.6.0",
@@ -3809,13 +3809,13 @@
     "hash": "sha256-Vm1EQFl1l7qB31THEFDv40dc4HM0RRxnXWkIQ2w4QCg="
   },
   "aws_sdk_php": {
-    "version": "3.364.0",
+    "version": "3.365.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-hf7L3zRnq4J3hTYvJAb2Pe9jmmrJnUCjcqTdNRVXSxo="
+    "hash": "sha256-+gNtsbLHX0LZSIcWKcX6+wJfBxUCWf/lbgpPo38r5c0="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -10149,14 +10149,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "container": {
-    "version": "3.1.10",
+    "version": "3.1.11",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "Create Custom Container Content Elements for TYPO3",
-    "hash": "sha256-CBc8p4U05j/ShxH8cO5Vj0ccubP+n/CojUbiY9z/JGs="
+    "hash": "sha256-eG3c234O5equ3vVzW6d9DXore2q6Rgyqfq/FGhqY1Ss="
   },
   "container_elements": {
     "version": "7.0.0",
@@ -10350,13 +10350,13 @@
     "hash": "sha256-I51+LadV23oKrzJfP8MecjUUQZA7187bveTfJXKX9d4="
   },
   "content_slug": {
-    "version": "4.2.0",
+    "version": "4.3.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Adds a slug field for human-readable anchors (\"domain.com/page/#my-section\") to TYPO3 content elements. By default, this anchor is rendered as the header's id attribute.",
-    "hash": "sha256-1S7GZ7MkNa1yqxVFX9W/XE+AilaZUYDu3G4fMV0Y6f4="
+    "hash": "sha256-+JtzwhlwEbHd0MqVLEbomAl5jvS0dYMcrlg/Mm3SvNk="
   },
   "content_uneraser": {
     "version": "0.2.0",
@@ -33334,40 +33334,40 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "maagitblog": {
-    "version": "14.0.0",
+    "version": "14.0.1",
     "t3_versions": [],
     "description": "Versatile agenda system based on Extbase & Fluid and using latest technologies provided by TYPO3 CMS.",
-    "hash": "sha256-ZZGDnp8NpcM+YKPTkk0chAq7lQyqKs1XbBWSuk6I0p4="
+    "hash": "sha256-9haKy4QfF+EnVtrC71xRwRtIOe6uP2B6R8EaNRiRCQI="
   },
   "maagitcookie": {
-    "version": "14.0.0",
+    "version": "14.0.1",
     "t3_versions": [],
     "description": "Cookie consent functionality for using websites provided by TYPO3 CMS.",
-    "hash": "sha256-LbUwK7aJx3o93HOvlbfk9N3pTSIwT8uYvve+3WrlSAg="
+    "hash": "sha256-e0Xb+htOOcRwZFhEERNsXE/L/wo73JZ/m/FuvrZ4isY="
   },
   "maagitevent": {
-    "version": "14.0.0",
+    "version": "14.0.1",
     "t3_versions": [],
     "description": "Versatile agenda system based on Extbase & Fluid and using latest technologies provided by TYPO3 CMS.",
-    "hash": "sha256-PSUTn9ZMndVejcXfLB4M98m6l0r4mcG3gtMbLCouOBc="
+    "hash": "sha256-6YomScSZt5RDdyywaaua6KW/kL/nBYp0zwejqETxhnQ="
   },
   "maagitproduct": {
-    "version": "14.0.0",
+    "version": "14.0.1",
     "t3_versions": [],
     "description": "Versatile shop system based on Extbase & Fluid and using latest technologies provided by TYPO3 CMS.",
-    "hash": "sha256-k6JoFkU/olb8kGCAiYpdA84FnNI1Xwm5r1fvWdvCbmc="
+    "hash": "sha256-8DSVln3a6j/X+p5S8L8c6wxkGs5gg+VlfRHQxR6NnlY="
   },
   "maagitseclink": {
-    "version": "14.0.0",
+    "version": "14.0.1",
     "t3_versions": [],
     "description": "Secure download functionality for Typo3 Websites provided by TYPO3 CMS.",
-    "hash": "sha256-GU43w4uyjObOpviM8/5qBinetqWg75lllBys/wbEApk="
+    "hash": "sha256-jLbaIqyZJtd9iuEyNr/lowaHhkhlxd0Z02/Xl4gK2VY="
   },
   "maagituser": {
-    "version": "14.0.0",
+    "version": "14.0.1",
     "t3_versions": [],
     "description": "Versatile login and user system based on Extbase & Fluid and using latest technologies provided by TYPO3 CMS.",
-    "hash": "sha256-AmAL17ATOy2g0dNKwYWtu0QW9QdKAvCueESTCYL6kUI="
+    "hash": "sha256-m6Qknxve/v3ZYIezlX5CA1xLSbb+JwlnR7frGS46xyY="
   },
   "maca_clubadmin": {
     "version": "0.1.4",
@@ -36238,13 +36238,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mkforms": {
-    "version": "12.0.4",
+    "version": "12.0.5",
     "t3_versions": [
       11,
       12
     ],
     "description": "Making HTML forms for TYPO3",
-    "hash": "sha256-0vxLYFjOLPJvwPBipr7OkYdXzHXuAGOcJsxe7MIzHbU="
+    "hash": "sha256-2NVSC7UCWNcO+ZEJbye3OC02pMcvzeS8lQ/NztoVwdk="
   },
   "mkit_wetter": {
     "version": "1.1.0",
@@ -36869,13 +36869,13 @@
     "hash": "sha256-QBq7RgOtpBz21jSQfzIxEurNCmBZlHvZXZt3wzoyyMw="
   },
   "modules": {
-    "version": "7.6.0",
+    "version": "7.7.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Frontend-User-Registration, Profile, Invitations, Listing with detailview, Addressmanagement, Frontend-Recordmanagement. User friendly Backendmodule for managing Frontend- and Backend-Users and other Records. Toolbox for frontend and backend modules in TYPO3.",
-    "hash": "sha256-o80nsokluGPiivtGe5kf1VKlRl0kJNPyA1MosO/buNw="
+    "hash": "sha256-0WRA9jKXlhpBH93CNL4BycaEGQKD41ztpwTkKU1djL4="
   },
   "modulis_animated_gif": {
     "version": "0.0.4",
@@ -40391,12 +40391,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "nnhelpers": {
-    "version": "2.0.6",
+    "version": "2.0.7",
     "t3_versions": [
       12
     ],
     "description": "Drastically speed up your extension development with this huge collection of very smart 'oneliners'. Make updating to new TYPO3 versions simple. Packed with things you've spent hours searching on the internet for. Everything accessible with one click via a convenient backend module. No mess and no conflicts. Use whatever method makes you happy – or simple grab the source-code and paste it in your own extension.",
-    "hash": "sha256-OvnPKT91oyVBrKXbzsrHLYUlhy5l3LyBFTXyrv/79Mg="
+    "hash": "sha256-ELMM8dDwrGItzEM2BRmbZCmUzOCwJlwIbLJjw9FuLIo="
   },
   "nnrestapi": {
     "version": "2.0.4",
@@ -41320,7 +41320,7 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "nws_municipal_statutes": {
-    "version": "0.4.8",
+    "version": "0.4.9",
     "t3_versions": [
       10,
       11,
@@ -41328,7 +41328,7 @@
       13
     ],
     "description": "Reads all available municipal statutes from the TSA FullRest interface.",
-    "hash": "sha256-CzxrsS8fAncNLIIX3pFWYBkn40BQZj3uUTOXJ0VUxys="
+    "hash": "sha256-toR/xBYzePuKNudGj+PpS/bCG27FG8bjK91CPNxt5RY="
   },
   "nwt_base": {
     "version": "0.1.0",
@@ -64636,12 +64636,12 @@
     "hash": "sha256-WLnIEx/iFLE+1a+Imu6aaXAQ/969oGaP5j714gHg27w="
   },
   "video_vtt": {
-    "version": "2.6.2",
+    "version": "2.7.0",
     "t3_versions": [
       13
     ],
     "description": "Extend TYPO3 Video functionality",
-    "hash": "sha256-yyCaIp9gZyhd+abxZHoL7XgXzY94YlefwaCfHmnn5c0="
+    "hash": "sha256-W4JOEsHZ1JUf8RxLxMeHZByeiBoseXCKzWXJXwy710g="
   },
   "videoce": {
     "version": "0.10.0",
