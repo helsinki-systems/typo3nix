@@ -2201,6 +2201,14 @@
     "description": "Enables previsualisation of alternative language contents in backend with web_layout module",
     "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
   },
+  "alternative": {
+    "version": "1.0.0",
+    "t3_versions": [
+      13
+    ],
+    "description": "Automatically set alternative, title and description labels for images",
+    "hash": "sha256-Nhg7I1dktHNX2g3ubmn4Oeviqh9sWDeqCIVDCvfjpsQ="
+  },
   "alternative_rte": {
     "version": "0.0.1",
     "t3_versions": [],
@@ -3809,13 +3817,13 @@
     "hash": "sha256-Vm1EQFl1l7qB31THEFDv40dc4HM0RRxnXWkIQ2w4QCg="
   },
   "aws_sdk_php": {
-    "version": "3.365.0",
+    "version": "3.366.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-+gNtsbLHX0LZSIcWKcX6+wJfBxUCWf/lbgpPo38r5c0="
+    "hash": "sha256-NGuSYr1D7Kekk1NZrolDA/2d7XxTgXkjMaLc9VcO1K4="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -7149,12 +7157,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "call_to_actions": {
-    "version": "2.0.1",
+    "version": "2.1.0",
     "t3_versions": [
-      11
+      11,
+      12
     ],
     "description": "Shared Call to Action repository and plugin, to allow display of your CTAs",
-    "hash": "sha256-ejjOcw0/p6sRe4S7L+kj0hdYzCVyxempRztYLWTTmdw="
+    "hash": "sha256-wj7rTqwlnNMfNZtwcODnV6hMXGcYpIJDeA61e76Vy30="
   },
   "callocationgrid": {
     "version": "1.3.0",
@@ -17512,13 +17521,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "embedassets": {
-    "version": "1.3.0",
+    "version": "1.4.0",
     "t3_versions": [
       11,
-      12
+      12,
+      13
     ],
     "description": "Fluid viewhelpers for embed and minified CSS/JS",
-    "hash": "sha256-NorjVII5Oh0cgazN8R9QGhDSihc4sQElXlDiKX8MJWg="
+    "hash": "sha256-ljOGzJVzXfq+Zm5T3/0c+7W7nM6BNVeB8AclslgZQ88="
   },
   "embettyvideo4typo3": {
     "version": "1.0.2",
@@ -19624,12 +19634,12 @@
     "hash": "sha256-H9l+6K6KQeMuBatiE7lkC3lW1lp5upQHPrEfG2hQPwY="
   },
   "feed_generator": {
-    "version": "0.7.0",
+    "version": "0.8.0",
     "t3_versions": [
-      12
+      13
     ],
     "description": "Generator for Atom, JSON and RSS feeds",
-    "hash": "sha256-wHvgEIOgGDeyma9ECjoVpjrEsQILrmjL3fUtVWBiMBQ="
+    "hash": "sha256-cYgMi+vklO3DR5NppcC1jXizfnF3jbb48Pas2iFEBZA="
   },
   "feedforward": {
     "version": "1.1.2",
@@ -19971,13 +19981,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "feuserregistration": {
-    "version": "2.7.0",
+    "version": "3.0.0",
     "t3_versions": [
-      12,
       13
     ],
     "description": "This extension enables the easy registration of a frontend user using the double opt-in process (e.g., for newsletter sign-ups). Optionally, a notification can be sent to a centrally configured email address.",
-    "hash": "sha256-odNXwbfZpNvD7BPK4BSK2TLOPp0t4xT3U62Cjw7X1KU="
+    "hash": "sha256-p/iIhPSECKLR3FV5mZM0t6p/bWohV3gF/ACLv5/c7OY="
   },
   "feusers2xml": {
     "version": "0.0.1",
@@ -32243,13 +32252,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "link2language": {
-    "version": "4.0.1",
+    "version": "4.0.3",
     "t3_versions": [
       12,
       13
     ],
     "description": "Allows to select links to pages or content elements for a specific language",
-    "hash": "sha256-s7hdE1+KOYcWV1sE7Tcwi8AHr3LJM4LrFUC935ArWHo="
+    "hash": "sha256-6SoUqRKDmpvzLdrwWO373Bvm4ZEif7nAqHS277Q/y0U="
   },
   "link_by_pageid": {
     "version": "1.0.2",
@@ -33060,13 +33069,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "lux": {
-    "version": "40.0.0",
+    "version": "40.0.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "Living User Experience - LUX - the Marketing Automation tool for TYPO3.",
-    "hash": "sha256-wrwXyL9VyI9MSdjOp2xiv3LMq8HnEZUzv9Svn9hq5uQ="
+    "hash": "sha256-B9Y6MG3/MPPpx5aR9L0h/nRqQZRj3ABnO+kylTLmOXk="
   },
   "luxletter": {
     "version": "27.2.3",
@@ -34924,6 +34933,14 @@
     ],
     "description": "A Media Center Extension based upon MediaElement.js and jQuery",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "mediaflow": {
+    "version": "1.0.2",
+    "t3_versions": [
+      13
+    ],
+    "description": "This is an integration of the Mediaflow image/video database into the TYPO3 CMS.",
+    "hash": "sha256-5FhmuJkqmj34o5Tb70peh2Qx4+fPnB1H5FqfPPItj6o="
   },
   "mediaflow_extension": {
     "version": "0.0.3",
@@ -39889,13 +39906,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "newsslider": {
-    "version": "7.0.1",
+    "version": "14.0.0",
     "t3_versions": [
-      12,
       13
     ],
     "description": "Slider Template-Layout for versatile news extension (tx_news).",
-    "hash": "sha256-B8aFBb5r7llu/XGISNTgiVEw7ATSCifyDB2UDZeHuvI="
+    "hash": "sha256-JzOJpM4FV65/8t5QZzRE+rJoKiWPtgQPvOmWwlqsrX0="
   },
   "newsstylist": {
     "version": "6.0.2",
@@ -40391,20 +40407,20 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "nnhelpers": {
-    "version": "2.0.7",
+    "version": "13.0.4",
     "t3_versions": [
-      12
+      13
     ],
     "description": "Drastically speed up your extension development with this huge collection of very smart 'oneliners'. Make updating to new TYPO3 versions simple. Packed with things you've spent hours searching on the internet for. Everything accessible with one click via a convenient backend module. No mess and no conflicts. Use whatever method makes you happy – or simple grab the source-code and paste it in your own extension.",
-    "hash": "sha256-ELMM8dDwrGItzEM2BRmbZCmUzOCwJlwIbLJjw9FuLIo="
+    "hash": "sha256-336DEOmyP4wwVql032BVjyNgfGaShJiruXnQxHZBCqk="
   },
   "nnrestapi": {
-    "version": "2.0.4",
+    "version": "13.1.1",
     "t3_versions": [
-      12
+      13
     ],
     "description": "Build a REST Api for your TYPO3 project. Equipped with everything you need: Routing with annotations. User authentication. Fileupload and FAL conversion. Testbed and automatic documentation of your API. The backend module comes with a \"Kickstarter\" to get your RESTful API up and running in minutes.",
-    "hash": "sha256-RLUaLKwer4L75S1OMuTiCxUvV3bsWBy68SNP/F28by4="
+    "hash": "sha256-yUg1P5Y8L655uMUgPZ7bDLj5nRGv4m8O2a78t+OT/3Q="
   },
   "no_opcode_cache_check": {
     "version": "1.0.2",
@@ -43358,14 +43374,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "paginatedprocessors": {
-    "version": "1.6.5",
+    "version": "1.7.1",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "Data processors with pagination",
-    "hash": "sha256-kaijFCJeVN3ahe04uhQtST2wYYT8ztA2DkxgvaZ5xTc="
+    "hash": "sha256-kl7EW3mUrYP/aGpNOhnkX24Q9lTNeFH/uOeCAV6O8tg="
   },
   "pandorabot_include": {
     "version": "0.1.0",
@@ -49741,13 +49757,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "rte_ckeditor_pack": {
-    "version": "2.0.0",
+    "version": "3.0.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "CKEditor Pack TYPO3 extension provides a modern, integrated CKEditor build many optimized features, accessibility tools, AI assistance, and collaboration-friendly options—all without managing scattered YAML files. Built for stability and clean integration, it streamlines editing workflows and enhances TYPO3 content quality.",
-    "hash": "sha256-xpeJMNiQMHTrOa9ey4YMiFr+l+l9KZoDuYG8vMVt5oM="
+    "hash": "sha256-0yoIw9xxEKFSys4bHKQNXoAeuvc/T4ebCaoIdMtA3fE="
   },
   "rte_ckeditor_textpartlanguage": {
     "version": "99.99.99",
@@ -62059,12 +62075,12 @@
     "hash": "sha256-BNgXT/XaxE7ArnrnrjouR7FBMMFTVYNUNIITm0MRQ38="
   },
   "translate_locallang": {
-    "version": "4.0.0",
+    "version": "4.0.2",
     "t3_versions": [
       13
     ],
     "description": "Backend Module for creating and editing of language files (locallang.xlf).",
-    "hash": "sha256-n05aik91UBxxpKMqJNr61cJ9bBAyy/WGWEMx3pt2lUM="
+    "hash": "sha256-5Ajg/C0MkkKVIRpIF55I4w35AbMhkfRWsi8I8gg2ZNs="
   },
   "translatelabels": {
     "version": "2.3.11",
@@ -68069,12 +68085,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "youtubevideo": {
-    "version": "3.0.0",
+    "version": "3.1.2",
     "t3_versions": [
-      12
+      12,
+      13
     ],
     "description": "YouTube videos with custom cover images, gallery layout, pagination, GDPR, and backend previews.",
-    "hash": "sha256-FbBXO//e4M4walNl328WlFDN2i1jwle+FSwzIusrz0M="
+    "hash": "sha256-hNv7d/dWCkRaC02byTgTOwIvcW6Ibk7WFhDPqiXUyv0="
   },
   "yuieditor": {
     "version": "0.0.5",
