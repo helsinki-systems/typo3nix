@@ -23136,12 +23136,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "generic_gallery": {
-    "version": "7.0.0",
+    "version": "7.1.0",
     "t3_versions": [
       13
     ],
     "description": "One gallery to rule them all. Extbase & Fluid driven for use with any gallery / slide / rotate plugin.",
-    "hash": "sha256-/k1ju3pBkN+dY5x9h8a/nbFEQn7+hDlbszrqsb8ht2o="
+    "hash": "sha256-E6BkC3XlWYIVZi9AdrY4jxYmEqJizGu1n+3XhwwxSqo="
   },
   "geo_location": {
     "version": "1.6.6",
@@ -30556,13 +30556,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ke_search_honeypot": {
-    "version": "11.5.3",
+    "version": "14.0.0",
     "t3_versions": [
-      10,
-      11
+      11,
+      12,
+      13
     ],
-    "description": "",
-    "hash": "sha256-HXLwEYPaOJ3NfIqp33LlTyiPMS3jEjDHDllAgeDSBko="
+    "description": "Spam protection for ke_search using honeypot technique. Adds an invisible form field to catch bots.",
+    "hash": "sha256-YiNGq4VsdYbVFl2kZXRnR23demBgkVZJqtje6v04ppc="
   },
   "ke_search_hooks": {
     "version": "5.1.0",
@@ -43218,13 +43219,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "pagelist": {
-    "version": "4.1.2",
+    "version": "5.0.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Page based news, events, products and vacancies or just page lists. Demo: microtemplate.t3brightside.com",
-    "hash": "sha256-4j/kPZAyN0h8oCF4QE2yEsHRR5BE4n4s3esAjyPQbkw="
+    "hash": "sha256-X9+5FPLgPeSLJ7jPR5aClC54Kq1xNdd62X8r6hAbwUw="
   },
   "pagemanager": {
     "version": "0.7.1",
@@ -44409,13 +44410,13 @@
     "hash": "sha256-bsRglACUyJ4FtRXAmmq/00yPuh4ny0gw8xEqpHY614Y="
   },
   "personnel": {
-    "version": "4.2.2",
+    "version": "5.0.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Persons contact lists with vCard support. Demo: microtemplate.t3brightside.com",
-    "hash": "sha256-enD2w//3x36+yeui1g1QNqD8Wy/DZ1g4JPeRq7V43ig="
+    "hash": "sha256-JxZilDHtFe7uZmiFhqvXg9Xi07gzSEtBy1FVAzRNWrw="
   },
   "persons": {
     "version": "1.0.0",
@@ -45311,13 +45312,13 @@
     "hash": "sha256-rI3aHPoVgj78n6avVrVqkxWM5NphT4IwEasGC2dG1vk="
   },
   "pluploadfe": {
-    "version": "8.1.0",
+    "version": "8.2.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Provides an API and a FE plugin for using plupload, a highly usable and advanced upload handler.",
-    "hash": "sha256-vaoicJyTjEaJ2iYGiIKkhMNLnxTNwLBhNbw7aD3L+94="
+    "hash": "sha256-YqiYLPEvmJMQaPVOza48Fspl/vWxHV20oruYrOj5v8Q="
   },
   "pluploadfe_powermail": {
     "version": "1.0.1",
@@ -53892,13 +53893,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "skip_to_content": {
-    "version": "1.2.2",
+    "version": "2.1.0",
     "t3_versions": [
-      12,
       13
     ],
     "description": "TYPO3 extension to include the accessibility functions: skip to content and skip to footer",
-    "hash": "sha256-HRNBWDoXtW633fwLbgQ2pxcxOshG0VXHQ1YcxYV9HuY="
+    "hash": "sha256-w+ZNsqcsfGb1sjgdiW9OfBMtAGcKKnMjaPTBWCBbkF8="
   },
   "skiplinks": {
     "version": "1.0.2",
@@ -57861,12 +57861,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "t3extblog": {
-    "version": "9.1.0",
+    "version": "9.2.0",
     "t3_versions": [
       13
     ],
     "description": "A record based blog extension for TYPO3 CMS. Easy to use and packed with features (incl.",
-    "hash": "sha256-wDkYD658J2MjM2ecD0PQq3/jliN59iOAyaOS1PCdOiI="
+    "hash": "sha256-gqeLanQWWiMNx3iqUjlEV3UR1cg7jPf3GmDMex65/9w="
   },
   "t3extension_tools": {
     "version": "1.0.1",
@@ -63625,6 +63625,15 @@
     ],
     "description": "Provides soft-hyphen replacement in frontend via editable records",
     "hash": "sha256-TjlR8BMwbN2m/DVOkqSJVc/hzjr5gjwzExbOUBjc9yw="
+  },
+  "typo3_image_compression": {
+    "version": "1.0.0",
+    "t3_versions": [
+      12,
+      13
+    ],
+    "description": "Automatically compress images using TinyPNG API, local tools (jpegoptim, optipng, etc.), or ImageMagick/GraphicsMagick",
+    "hash": "sha256-XszTBcxgdqgbKk/GSNfq1vkXwFW/73dZs/ck/3ARJLM="
   },
   "typo3_image_proxy": {
     "version": "0.0.5",
