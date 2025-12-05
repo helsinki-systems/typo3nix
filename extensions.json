@@ -3817,13 +3817,13 @@
     "hash": "sha256-Vm1EQFl1l7qB31THEFDv40dc4HM0RRxnXWkIQ2w4QCg="
   },
   "aws_sdk_php": {
-    "version": "3.366.0",
+    "version": "3.366.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-NGuSYr1D7Kekk1NZrolDA/2d7XxTgXkjMaLc9VcO1K4="
+    "hash": "sha256-uqhvPscVCfA3bhPRX6iC1M6PCRJ36ecOFHuwF4FHaGM="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -40407,12 +40407,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "nnhelpers": {
-    "version": "13.0.4",
+    "version": "13.0.5",
     "t3_versions": [
       13
     ],
     "description": "Drastically speed up your extension development with this huge collection of very smart 'oneliners'. Make updating to new TYPO3 versions simple. Packed with things you've spent hours searching on the internet for. Everything accessible with one click via a convenient backend module. No mess and no conflicts. Use whatever method makes you happy – or simple grab the source-code and paste it in your own extension.",
-    "hash": "sha256-336DEOmyP4wwVql032BVjyNgfGaShJiruXnQxHZBCqk="
+    "hash": "sha256-ftxvGfRLC7LpLh1jCu2zMMkpWIeyGyuMz29ryDjrvoU="
   },
   "nnrestapi": {
     "version": "13.1.1",
