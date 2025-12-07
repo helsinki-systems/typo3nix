@@ -5272,12 +5272,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "bm_image_gallery": {
-    "version": "7.1.0",
+    "version": "7.2.0",
     "t3_versions": [
       13
     ],
     "description": "Simple gallery using file collections.",
-    "hash": "sha256-FWWbUvvpPU6kXT0aYkiG1aUN3a2ywDMNooyxzzPBBDo="
+    "hash": "sha256-DME7S5CCt9vjxZRmyUJn9a2JN9Jln3ZO0f1zDe/E/tI="
   },
   "bm_lofuc": {
     "version": "0.1.1",
@@ -10244,12 +10244,12 @@
     "hash": "sha256-ZnHOjADySWb8miVaBidJs7V9cKvwnW6D4Mj7WNzG0mM="
   },
   "content_consent": {
-    "version": "5.0.0",
+    "version": "5.0.1",
     "t3_versions": [
       13
     ],
     "description": "Provides a content consent plugin to load any content elements and custom plugins by ajax without jQuery! So you can include Google Maps, YouTube- or Vimeo videos GDPR/DSGVO compliant. Best used with Bootstrap 5",
-    "hash": "sha256-bY3fT3XhbN0DePOchpqgoCYdwf817uNHYmkJkgHudvw="
+    "hash": "sha256-agam8o9bbWXAVEEDFP/IIk+9Us+he8pScubJ8z/cbpk="
   },
   "content_defender": {
     "version": "3.5.3",
@@ -12404,12 +12404,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cy_lending": {
-    "version": "4.1.1",
+    "version": "5.0.3",
     "t3_versions": [
       13
     ],
     "description": "You can organize lending of objects",
-    "hash": "sha256-leBNTYf4lRAnrhNP74nEbTmEMjql6QuJh90NQBUvZao="
+    "hash": "sha256-LZ5eqHO27A4pD2mV3jvMAN8X+9qP/q1WKJKlE1ppNsc="
   },
   "cy_newsletter": {
     "version": "3.1.1",
@@ -18590,12 +18590,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "extender": {
-    "version": "11.0.2",
+    "version": "11.1.1",
     "t3_versions": [
       13
     ],
     "description": "A services that enables adding properties and functions",
-    "hash": "sha256-s1k/H1zofIc9ayG0uO0lXGscvIUUK+qqmlwZiYFHmqM="
+    "hash": "sha256-qNKlnfW0W0qO82gZxGbLsv+heujgAyBTSQoUyYv1x64="
   },
   "extendmypage": {
     "version": "0.0.1",
@@ -21682,12 +21682,12 @@
     "hash": "sha256-9By7NCR3qJwvu7CRaPGYi8p/AO4MqqTF2TozgElpf6Q="
   },
   "form_extended": {
-    "version": "13.0.3",
+    "version": "13.0.4",
     "t3_versions": [
       13
     ],
     "description": "Multi upload field, sender addresses in site config, new field types and other",
-    "hash": "sha256-vpIPPl6Pt2WCvMzzHIUYRa+AzXSHh/WQmafXjwWkwOM="
+    "hash": "sha256-bPlKfS9mEpCM9/sD84dpnefdTPqK81lKbneIaECqLd4="
   },
   "form_extension_tut": {
     "version": "0.0.1",
@@ -30556,14 +30556,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ke_search_honeypot": {
-    "version": "14.0.1",
+    "version": "14.0.3",
     "t3_versions": [
       11,
       12,
       13
     ],
-    "description": "Spam protection for ke_search using honeypot technique. Adds an invisible form field to catch bots.",
-    "hash": "sha256-PGCIUe3XjvLT/sz/zywBq+GjulNcfTNYRBUQbSvkQ14="
+    "description": "Spam protection for ke_search using honeypot technique. Adds an invisible form field to catch bots. Install via Composer: composer require davidkohr/ke-search-honeypot",
+    "hash": "sha256-x3aQm5WjzSMv7BoCRESRxzBLYYdW4Nz7OF050XsXILQ="
   },
   "ke_search_hooks": {
     "version": "5.1.0",
@@ -51811,10 +51811,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sf_banners": {
-    "version": "8.0.0",
-    "t3_versions": [],
+    "version": "8.1.0",
+    "t3_versions": [
+      13
+    ],
     "description": "Banner-Management Extension based on Extbase and Fluid. Loads banners asynchronously using JavaScript.",
-    "hash": "sha256-nk6QyRtptgf9DP0vKYT3qllWU31vfbAWhLyiG61a1/E="
+    "hash": "sha256-QGZtN1cZn8GXrZE2NUVWJzcAxsAxFiFHxrO/YxcSmVw="
   },
   "sf_books": {
     "version": "11.0.1",
@@ -51823,12 +51825,12 @@
     "hash": "sha256-/nJl/UK2ekrdFGri62w6ei07WGf+RqqBenNovnqhDEI="
   },
   "sf_event_mgt": {
-    "version": "8.4.0",
+    "version": "8.5.0",
     "t3_versions": [
       13
     ],
     "description": "Configurable event management and registration extension based on ExtBase and Fluid",
-    "hash": "sha256-xtgAEZblzJ1CQp+LJszQPx8iebWePMxemXt8br/mEyM="
+    "hash": "sha256-0XxdlQ4IcfkFNHy8Al7596LhCeEXz6LlDoIk4dEw8pA="
   },
   "sf_event_mgt_contentelements": {
     "version": "3.0.1",
@@ -59893,6 +59895,14 @@
     "t3_versions": [],
     "description": "The Text Browser divides a text at a number of characters or at a marker and adds a pagebrowser.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "texter": {
+    "version": "1.0.0",
+    "t3_versions": [
+      13
+    ],
+    "description": "Using AI to generate texts in TYPO3 backend",
+    "hash": "sha256-1DZWXsJUjrHvgoo8bl4X84eLvrAJoXP0F39MbmSq4z8="
   },
   "texthighlighter": {
     "version": "1.0.0",
