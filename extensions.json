@@ -1212,21 +1212,22 @@
     "hash": "sha256-/xbkclY9t8ReforLAh2S3Jfu/5xhxDn+DsSFeX2QQEg="
   },
   "addresses": {
-    "version": "1.1.1",
+    "version": "2.0.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Address lists or selected records. Demo at: microtemplate.t3brightside.com",
-    "hash": "sha256-qfTmBd68tdVcZwQWnbsk+x6JAdUyJ8nsfOLizXKqL2c="
+    "hash": "sha256-Q03x9FD1xUIi27JT2l3MzzfKdABsw8OVHpVy6XqkJXk="
   },
   "addressespersonnel": {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "t3_versions": [
-      12
+      12,
+      13
     ],
-    "description": "Connect ext:addresses and ext:personnel records.",
-    "hash": "sha256-42wcyz+LQpUqQCxJI1SBKWh/MZVXvXfpYAF+qm4/FIo="
+    "description": "Bidirectional connection between ext:addresses and ext:personnel.",
+    "hash": "sha256-bld10lDweyNA6Sc2i3jv5QEwfh5l7Cc6jk59CGFh4Lc="
   },
   "addressgroups": {
     "version": "1.4.0",
@@ -2202,12 +2203,12 @@
     "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
   },
   "alternative": {
-    "version": "1.0.0",
+    "version": "1.2.0",
     "t3_versions": [
       13
     ],
     "description": "Automatically set alternative, title and description labels for images",
-    "hash": "sha256-Nhg7I1dktHNX2g3ubmn4Oeviqh9sWDeqCIVDCvfjpsQ="
+    "hash": "sha256-1rw40iDOJTWI5pxPeOxNUUgHOXgmNtp3mkgjNuHmgK0="
   },
   "alternative_rte": {
     "version": "0.0.1",
@@ -11568,12 +11569,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cs_seo": {
-    "version": "9.3.0",
+    "version": "9.4.0",
     "t3_versions": [
       13
     ],
     "description": "SEO Extension: Enables important onpage features for search engine optimization (SEO). Expands",
-    "hash": "sha256-/LGUiTZLM5bfDC9hIYMavuSfDs/N1Viv8lIot/4K1+E="
+    "hash": "sha256-d6gR8zGzLrbFahyhll+XT+iFJUZJ2rlA3jEU7yQXANo="
   },
   "cs_static_hide": {
     "version": "1.0.1",
@@ -20947,12 +20948,12 @@
     "hash": "sha256-DiE5UgAFeEq3UHmNQg2lOvRlmIIEj29ELkb0ylk6/9M="
   },
   "fluid_primitives": {
-    "version": "0.7.0",
+    "version": "0.8.0",
     "t3_versions": [
       13
     ],
     "description": "The headless component library for TYPO3 Fluid",
-    "hash": "sha256-HTOIHPwejQ/aHraTpYCxDDLfBwk10sclyo6Sa50pc2A="
+    "hash": "sha256-7rQCIMC5wvvt+Ty0ztI0bIeTGfoX4RW0i54KDdF0iok="
   },
   "fluid_recommendation": {
     "version": "1.3.0",
@@ -26850,12 +26851,12 @@
     "hash": "sha256-rjQwnuKLOb1ZJdp4140b7cXq3tPyeiJ+e7DQtfrEM1I="
   },
   "imager": {
-    "version": "1.2.0",
+    "version": "1.4.0",
     "t3_versions": [
       13
     ],
     "description": "Adding images from Gemini with Nano Banana",
-    "hash": "sha256-YhFk4+PbLF+V7XKQpWe1OKqMjBlCFoTrWyZgz8dV26c="
+    "hash": "sha256-plneDHcBPpBpWgPpUsnKuwISqKgjFmj0TcpGosThyZI="
   },
   "imagerotation": {
     "version": "0.1.1",
@@ -27096,12 +27097,10 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "importmap": {
-    "version": "0.1.5",
-    "t3_versions": [
-      13
-    ],
+    "version": "0.1.6",
+    "t3_versions": [],
     "description": "Easily import your JavaScript ES modules without the need of a build system like Webpack",
-    "hash": "sha256-VeHRKB0RhDftQuF+ztfm6iW/5gu872I34UZsB5VcbSs="
+    "hash": "sha256-dNXjFiS3EfV02euU0GUpJ8e3pmBlS9qSDD1s0ZCNpbg="
   },
   "importr": {
     "version": "5.0.0",
@@ -33706,14 +33705,13 @@
     "hash": "sha256-at4B3Q17Tq8FpS0iDk/j8VFn3jRbYoE5u+7vTFE1a0w="
   },
   "mailqueue": {
-    "version": "0.4.2",
+    "version": "0.5.0",
     "t3_versions": [
-      11,
       12,
       13
     ],
     "description": "Extension to improve TYPO3's mail spooler with additional components",
-    "hash": "sha256-twFNlzE8A5d8+PQAZlpUAY8WaSNO8FbCDVO8faTVxXg="
+    "hash": "sha256-/j63pX8S49JUmS/qlWAV4xBPAO7d9kP2JXFtJTaa+Ok="
   },
   "mailupload": {
     "version": "0.0.1",
@@ -45877,6 +45875,15 @@
     "t3_versions": [],
     "description": "This extension extends powermail version 1.6.9 with the possibility to set the receivers email-address using a typoscript cObject.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "powermail_salesforce": {
+    "version": "1.0.0",
+    "t3_versions": [
+      12,
+      13
+    ],
+    "description": "Add a finisher to send data to salesforce",
+    "hash": "sha256-Ct8JbFMncrCGmqea0JSTt2ca/MWK9h6faEEFUoPGgsI="
   },
   "powermail_sendpost": {
     "version": "0.4.1",
@@ -58374,13 +58381,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "t3sbootstrap": {
-    "version": "5.3.26",
+    "version": "5.3.30",
     "t3_versions": [
       12,
       13
     ],
     "description": "Startup extension to use bootstrap 5 classes, components and more out of the box. Example and info: www.t3sbootstrap.de",
-    "hash": "sha256-HLexv71bOICoYYpHTJIQJKf6rBljy3+HE+u3VyTCUqo="
+    "hash": "sha256-jZYQ3vaItc3ZDqcneUah8L/NfPBEV5Mf3gHwFWknXk4="
   },
   "t3sbootstrap_grid": {
     "version": "4.0.0",
@@ -60550,22 +60557,22 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "tile_maps": {
-    "version": "1.0.5",
+    "version": "1.1.1",
     "t3_versions": [
-      11,
-      12
+      12,
+      13
     ],
     "description": "Tile Maps allows in connection with Tile Proxy(tile_proxy) a GDPR compliant integration of OpenStreepMap maps without additional cookie dialog.",
-    "hash": "sha256-V7UlPSqLKD5kapOcSId6gQRbKlTuz/HlU1qUOwCeGlI="
+    "hash": "sha256-T2FVg16HboMqVnc1AZt9dQ8tjzsv2FqNURviGQK/1Ig="
   },
   "tile_proxy": {
-    "version": "1.3.6",
+    "version": "1.3.8",
     "t3_versions": [
       12,
       13
     ],
     "description": "Integrate OpenStreetMap without the need for a cookie banner or content blocker - that is the purpose of ext:tile_maps. All requests for map tiles are routed through a configurable proxy url within your TYPO3-system. Since the client browser does not directly requests the OpenStreetMap-server no user confirmation and no content blockers are necessary (GDPR compliant). A proxy is also provided for geocoding nominatim. For a certain area (as specified in the TYPO3-backend) the tiles are cached to improve performance.",
-    "hash": "sha256-wNHMLeimGXnown0Ro7LQ2i1Z1xO5NzrdAECCLxcX81s="
+    "hash": "sha256-8vZpr/uEPly6N8Nb6axO2Mm21Q76QZ34Z/RVZSvnqQo="
   },
   "timecollect": {
     "version": "0.0.1",
@@ -62343,12 +62350,10 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "trix": {
-    "version": "13.4.1",
-    "t3_versions": [
-      13
-    ],
+    "version": "14.0.0",
+    "t3_versions": [],
     "description": "A Trix Rich Text Editor Integration for TYPO3 CMS",
-    "hash": "sha256-23h2UYZSis1kuTIAAIE+e2ktobm38fCoYiVsH1+RmHM="
+    "hash": "sha256-Rp45ZlNmRhPJT/exsJr+QbfDwDsuhSAiiiYJZ9PZw0g="
   },
   "tro_yui_tabs": {
     "version": "1.7.1",
@@ -65390,13 +65395,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "we_cookie_consent": {
-    "version": "5.1.1",
+    "version": "5.1.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "Cookie Consent Panel (Optin) with DSGVO/GDPR-compliant use of cookies. Preconfigured modules for Google Analytics, Facebook and other frequently used services. Any extensibility with tracking scripts that generate cookies on your website Support for Google Tag Manager incl. Google Consent Mode and Google Consent Mode v2. Easy export for Google Tag Manager. Third-party cookies and scripts are only loaded if active consent has been given. Website visitors can edit their privacy settings at any time. Automatic update of cookie information when new cookies/scripts with secure consent procedure are inserted. Cookies can be automatically added to the privacy policy via a plugin Multilingual and full support for desktop, tablet and mobile. Four default modes for displaying the content solution, including the display of an always-on icon to access the privacy settings. Based on Klaro!",
-    "hash": "sha256-rDAvEQJS65osjhqHIlYjfJT/IyE7UjAsXVXngyQAEFM="
+    "hash": "sha256-QbCY850yvd4aHpK8QqCE2iFSXhGhby3Q8DtMNW7DWv4="
   },
   "we_dam2fal": {
     "version": "1.0.12",
@@ -67485,13 +67490,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "xima_typo3_content_planner": {
-    "version": "1.5.9",
+    "version": "1.5.10",
     "t3_versions": [
       12,
       13
     ],
     "description": "This extension provides a page status functionality to support the planning of content work.",
-    "hash": "sha256-jF0g55moEswKvEiw4utqWATCm5oAN49dHCFucXbYQAM="
+    "hash": "sha256-E/OpyCYs3iHGhDaMzWvX42iFGcIRqZynPEYtaBQiY5c="
   },
   "xima_typo3_frontend_edit": {
     "version": "1.7.2",
