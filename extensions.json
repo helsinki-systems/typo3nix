@@ -1349,13 +1349,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "advancedtitle": {
-    "version": "1.3.0",
+    "version": "1.4.0",
     "t3_versions": [
-      11,
-      12
+      12,
+      13
     ],
     "description": "Adds page title prefix and suffix to SEO tab.",
-    "hash": "sha256-PUzBysVaXP6vKICODxIazLNi57lpEuS0IaIfhZMiIIE="
+    "hash": "sha256-aeysL2uqDf3nrNCfRF9XA67IhgSw1NgqKyf8LRAld6c="
   },
   "advertising": {
     "version": "1.0.0",
@@ -1524,12 +1524,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "agency": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "t3_versions": [
       13
     ],
     "description": "An improved variant of Kasper Skårhøj’s Front End User Admin extension.",
-    "hash": "sha256-ea0PsGUCjjVTTfeMJg2cquFVPDQDvCXXczZutXtZE4s="
+    "hash": "sha256-iAE0rYQ+L1M9nyYEuiSd3H9m3N6bS0WUAe6f1pLpFHw="
   },
   "agency_tt_address": {
     "version": "0.2.0",
@@ -1648,12 +1648,13 @@
     "hash": "sha256-949ouCIbpQ+kQ7+CpVy7aQ6af6e42/03MQHEqxZCMI8="
   },
   "ai_llms_txt": {
-    "version": "0.1.4",
+    "version": "0.1.5",
     "t3_versions": [
+      12,
       13
     ],
     "description": "TYPO3 extension for generating llms.txt links according to llmstxt.org specification to control Large Language Model crawling policies.",
-    "hash": "sha256-HXQ2xjtf3cUSztS7lxYJfJMYWfjYwRK6zlVm9jk4tNQ="
+    "hash": "sha256-OdOABlQ+Xh9FagoTydiDFy5yUN0Ljzz++nE5feKdT3s="
   },
   "ai_seo_helper": {
     "version": "0.7.0",
@@ -3818,13 +3819,13 @@
     "hash": "sha256-Vm1EQFl1l7qB31THEFDv40dc4HM0RRxnXWkIQ2w4QCg="
   },
   "aws_sdk_php": {
-    "version": "3.366.3",
+    "version": "3.366.4",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-T6xyJf50sGIIWdr6TS10VJlJUZe08tY68mm/zIKKSK0="
+    "hash": "sha256-36Z3FbDvyRkEQS38E1miwBTegAxqvGL9ioL8EcSfPmE="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -4404,12 +4405,12 @@
     "hash": "sha256-tKpiVtD6Q6GvSfPFJQTyDg/cMaaF0Rw4lK3dUJkqKRI="
   },
   "bc_simplerate": {
-    "version": "1.0.2",
+    "version": "1.1.1",
     "t3_versions": [
       13
     ],
     "description": "Rate section of the website",
-    "hash": "sha256-MUeR9dkC3uvcluGKwuEhO3184cJQQUKMirGG7Tuv++4="
+    "hash": "sha256-Tx0r/2VrvB4hiwdvbv0Z2s8YTr/2GRkknAtPTTe4bZU="
   },
   "bc_tourdates": {
     "version": "0.9.1",
@@ -40405,13 +40406,22 @@
     "description": "Danish plugin (ONLY!) giving acces to fetch danish name and address information from all danish tele-providers - and inserts this info into TYPO3-forms - based on the phonenumer submitted by the user/customer. This extensions only works as a gateway to \"T",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "nnfocalpoint": {
+    "version": "2.1.0",
+    "t3_versions": [
+      12,
+      13
+    ],
+    "description": "Adds an interactive focal point editor to sys_file_reference, allowing users to set focus points for different crop variants.",
+    "hash": "sha256-x1uRP3P/8ENfutvgJYPuYMau9v0beVCturQ2i/0SyQU="
+  },
   "nnhelpers": {
-    "version": "13.0.6",
+    "version": "13.0.7",
     "t3_versions": [
       13
     ],
     "description": "Drastically speed up your extension development with this huge collection of very smart 'oneliners'. Make updating to new TYPO3 versions simple. Packed with things you've spent hours searching on the internet for. Everything accessible with one click via a convenient backend module. No mess and no conflicts. Use whatever method makes you happy – or simple grab the source-code and paste it in your own extension.",
-    "hash": "sha256-Wjfif/TfUdHZuR5/T4hQW3TAfwq54uFzlnVPX+a5J3I="
+    "hash": "sha256-HVgfTZxSArZ/OsOq7I7C18So8va2fGl6QNpaNBSzpb8="
   },
   "nnrestapi": {
     "version": "13.1.2",
@@ -47116,6 +47126,14 @@
     "description": "A lightweight TYPO3 API middleware providing a clean, Extbase-free way to define REST-style endpoints under /api/* paths. Includes CSRF protection, frontend authentication support, and allows endpoint access from Fluid without plugins or TypoScript. Ideal for lean SPA-like applications, HTML-over-the-wire workflows, or lightweight headless-style integrations without a frontend build pipeline.",
     "hash": "sha256-zW7PXqF0NMC9rQDy4JNPa50TEUVOnB7KZlPvZGh/JrE="
   },
+  "qkskima_model": {
+    "version": "0.0.1",
+    "t3_versions": [
+      13
+    ],
+    "description": "A lightweight model layer providing BaseModel and BaseRepository classes that add validation and business rule guards to plain PHP classes. Validation rules are defined declaratively using PHP attributes, enabling clean and minimal domain modeling without Extbase or heavy frameworks.",
+    "hash": "sha256-zBm3sq759+uQVFKvxkFElTuHaLgkZVflNwix3Rb9Kks="
+  },
   "ql_google_analytics": {
     "version": "0.0.5",
     "t3_versions": [],
@@ -51102,42 +51120,42 @@
     "hash": "sha256-bCMkdMOCy2wNJ3Gz6SWr7i1qZ9ZfxkhhegmjmYFHEdo="
   },
   "schema": {
-    "version": "4.1.1",
+    "version": "4.2.0",
     "t3_versions": [
       13
     ],
     "description": "API and view helpers for schema.org markup",
-    "hash": "sha256-Fs4q9St4ld8/29kSTG/7oxgeW9JAzTrcOibKAIluIPo="
+    "hash": "sha256-q6M9Rqrd0DEjrAXAjkrQDRMWViZ0D+XnIDqNcQXesBE="
   },
   "schema_auto": {
-    "version": "2.5.0",
-    "t3_versions": [
-      11,
-      12,
-      13
-    ],
-    "description": "Extend the schema extension with auto-related terms",
-    "hash": "sha256-M7eN/tTwbBv6qvhm8G8aJPKd578l85Jqv43jHA43dds="
-  },
-  "schema_bib": {
     "version": "2.6.0",
     "t3_versions": [
       11,
       12,
       13
     ],
+    "description": "Extend the schema extension with auto-related terms",
+    "hash": "sha256-t8yhBEHkMySmFz+6pCkg70wzEt6jwHmNq7XkUgmG6wo="
+  },
+  "schema_bib": {
+    "version": "2.7.0",
+    "t3_versions": [
+      11,
+      12,
+      13
+    ],
     "description": "Extend the schema extension with bibliographic-related terms",
-    "hash": "sha256-E+IJwaCQtog+L2Xe80zHIVhuzA361j3yLkktsbh89z4="
+    "hash": "sha256-wnR85QY1fsc3TG+Wt9KWG9C/Duiv+7gYLb7UHNOgOGg="
   },
   "schema_health": {
-    "version": "2.11.0",
+    "version": "2.12.0",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "Extend the schema extension with health-related terms",
-    "hash": "sha256-BaG2oGlUEf8j7nXX5NlHhK1VHdwdXR5m/hCxEY2h/gQ="
+    "hash": "sha256-naLwsjGqU/ujV7iO5K34+lnusHMEaHlnwb6x7V0b4Cc="
   },
   "schema_injector": {
     "version": "1.0.1",
@@ -51158,14 +51176,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "schema_pending": {
-    "version": "2.15.0",
+    "version": "2.16.0",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "Extend the schema extension with pending terms",
-    "hash": "sha256-WGQPOOe1JqS8+UPo95hdYbP75Xd3ca2wTcvJdgIlUjo="
+    "hash": "sha256-FaL0MHne99G917i7rWtysz/UkOCkQWsGa7pO9QNdCjs="
   },
   "schema_virtuallocation": {
     "version": "2.2.0",
@@ -54993,12 +55011,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "solr": {
-    "version": "13.0.4",
+    "version": "13.1.0",
     "t3_versions": [
       13
     ],
     "description": "Apache Solr for TYPO3 is the enterprise search server you were looking for with special features such as Faceted Search or Synonym Support and incredibly fast response times of results within milliseconds.",
-    "hash": "sha256-5EGcmNSAISbP09THVlNlCvR+DA5/a8VPrCXWkyXrfCI="
+    "hash": "sha256-BKvkbL4YETX/M00CHNHltYT+yNY2nAAsSq8tWUDTJkA="
   },
   "solr_boutique": {
     "version": "1.0.0",
