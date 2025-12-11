@@ -3819,13 +3819,13 @@
     "hash": "sha256-Vm1EQFl1l7qB31THEFDv40dc4HM0RRxnXWkIQ2w4QCg="
   },
   "aws_sdk_php": {
-    "version": "3.366.4",
+    "version": "3.367.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-36Z3FbDvyRkEQS38E1miwBTegAxqvGL9ioL8EcSfPmE="
+    "hash": "sha256-WilrgmxeduACBv7slzzFnZiI+1sdIscigN2qKVkB0N0="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -6295,13 +6295,13 @@
     "hash": "sha256-jiLb2j3yDluxNcPScJv4dU0zFGRg/jJ4/wmZtA7b2Ug="
   },
   "bw_icons": {
-    "version": "4.1.1",
+    "version": "4.2.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Form element for icon selection. Generates a browsable gallery of your icon fonts and SVGs - just link your stylesheet or image directory that you use in the frontend! Works with FontAwesome, Bootstrap, Icomoon.. Optionally adds icon field to pages and tt_content.",
-    "hash": "sha256-YMXXMOD2v67XlO+PEkzOeVi6jtBS4n2KHp7SkNCrva0="
+    "hash": "sha256-OxMLJN/cGng/NsNjEA5XFontN3+0iNzENCM6ELsTV8w="
   },
   "bw_jobs": {
     "version": "3.1.1",
@@ -25082,13 +25082,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "hio_typo3_connector": {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "TYPO3 Connector für die Integration von Daten aus HISinOne",
-    "hash": "sha256-EQU4rmfQm/I96+jdreq0wlckY96Afy32VvnrQs94fpI="
+    "hash": "sha256-2ynPjS2MtPj2w18h6Sd/iITa6X4yBMrPgT9NCLE40OI="
   },
   "hipchat": {
     "version": "1.1.3",
@@ -31526,13 +31526,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "language_detection": {
-    "version": "5.0.1",
+    "version": "5.1.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Modern language detection middleware for TYPO3. Based on PSR-7, PSR-14 & PSR-15.",
-    "hash": "sha256-AJcqejRq1X6hAyIi8fMJvTR6u5Ju+kiwa8Od8GFHptg="
+    "hash": "sha256-cMxh9h7i1su0fev8Fkj+9mWwmN1NlnyJjz+xKw7lwkk="
   },
   "language_redirect": {
     "version": "1.0.3",
@@ -32220,13 +32220,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "like_it": {
-    "version": "2.0.2",
+    "version": "4.0.0",
     "t3_versions": [
-      10,
-      11
+      13
     ],
     "description": "Like nearly any frontend content thanks to a custom view helper. No login required.",
-    "hash": "sha256-u9yR5YXUsawQZ9UMBM+mVwwwsENRYsVCxJ1LnSiCQpU="
+    "hash": "sha256-ufiDnzGvMbg/3Ym2b0VtAlQdMwElyT99itY9FRrg/Ek="
   },
   "lilURL": {
     "version": "1.1.0",
@@ -34583,13 +34582,13 @@
     "hash": "sha256-7reAhNbIaWCXit1hWwJX5H3VDq5IWydbI/mh/KZ1TG8="
   },
   "md_news_author": {
-    "version": "8.0.3",
+    "version": "8.1.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Adds one or more authors to a tx_news record, show a list of all authors and display a detail page of the author containing the attached news entries.",
-    "hash": "sha256-J7NQLd7iqfrfB3luoUFFSmMcdoER9yuxfctlz9Wd4pQ="
+    "hash": "sha256-u2RAtHBgtK5/iNe/GA/MXeRwKAYcEj5cDwy71vYDBPY="
   },
   "md_news_clickcount": {
     "version": "4.0.2",
@@ -34601,13 +34600,13 @@
     "hash": "sha256-cEdRBwP3DYJPtGpZRLra21wjT0NICw6oxENSo385kmY="
   },
   "md_newsfrontend": {
-    "version": "5.0.1",
+    "version": "5.0.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "This extension enables frontend users to created news records in the frontend.",
-    "hash": "sha256-Rufnm+YLosmMeCpBHdZQ66H7BBoCnesP8j463TDt6/c="
+    "hash": "sha256-RUI1GogbajS1ZHB/8LLZ1eVFkv4+eFg8to8bVnbNS3E="
   },
   "md_notifications": {
     "version": "1.0.4",
@@ -34619,12 +34618,12 @@
     "hash": "sha256-4ND3ktSZkbgoqygfaIlQJphCXndUZncn7x80liNW3aQ="
   },
   "md_saml": {
-    "version": "4.0.4",
+    "version": "4.0.5",
     "t3_versions": [
       13
     ],
     "description": "SSO frontend or backend login with SAML authentication.",
-    "hash": "sha256-VhEhGY3zX3uKdhDnFUOxRd/aI/I0h8HaEAZ9tO/6Pl0="
+    "hash": "sha256-pDUOk24Ui2AY0XBo39Kk+OGDWaNty2cCyOI9UF6GYMg="
   },
   "md_unreadnews": {
     "version": "5.0.3",
@@ -47127,12 +47126,12 @@
     "hash": "sha256-zW7PXqF0NMC9rQDy4JNPa50TEUVOnB7KZlPvZGh/JrE="
   },
   "qkskima_model": {
-    "version": "0.0.1",
+    "version": "0.0.3",
     "t3_versions": [
       13
     ],
-    "description": "A lightweight model layer providing BaseModel and BaseRepository classes that add validation and business rule guards to plain PHP classes. Validation rules are defined declaratively using PHP attributes, enabling clean and minimal domain modeling without Extbase or heavy frameworks.",
-    "hash": "sha256-zBm3sq759+uQVFKvxkFElTuHaLgkZVflNwix3Rb9Kks="
+    "description": "A lean but powerful DSL-based model system for TYPO3 with Symfony validation, property access, nested relations, and business rule validation. QkSkima Model is an alternative approach, when you think Extbase is too heavy for the job.",
+    "hash": "sha256-VQ4p5yG33Owef1IoMr0IDM7d9WVEe+LM6RL6njgETHE="
   },
   "ql_google_analytics": {
     "version": "0.0.5",
@@ -47825,12 +47824,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "recaptcha": {
-    "version": "14.1.0",
+    "version": "14.1.1",
     "t3_versions": [
       13
     ],
     "description": "Integrates google reCAPTCHA and invisible reCAPTCHA in EXT:form, EXT:sf_register",
-    "hash": "sha256-H5cbIqe7diI42v1agecnhE+wBW0CLeKVruFBn+rt90s="
+    "hash": "sha256-XII2+UKTVAcA01oDg6CZCGBM4oKkBXPlCXd1ULXx85U="
   },
   "recent_comments": {
     "version": "0.2.0",
