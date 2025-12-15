@@ -1195,12 +1195,12 @@
     "hash": "sha256-Qx7pEfxHzU21N5I2lCBk34qUvM/L0Ij1XDE7AIhUKNI="
   },
   "address": {
-    "version": "13.0.14",
+    "version": "13.0.16",
     "t3_versions": [
       13
     ],
     "description": "Address extension with multiple contact types per address. Code is based on news extension.",
-    "hash": "sha256-OEFgLxQD/Tdt5kQ7lM47wuVB1S2LvxFVQdRhe4jtx4Y="
+    "hash": "sha256-8NjHAwf/Gzg8TVPSH7mHSQ/jxhc/52cLc1j8ljDdmyk="
   },
   "address_manager": {
     "version": "5.0.9",
@@ -3819,13 +3819,13 @@
     "hash": "sha256-Vm1EQFl1l7qB31THEFDv40dc4HM0RRxnXWkIQ2w4QCg="
   },
   "aws_sdk_php": {
-    "version": "3.367.0",
+    "version": "3.367.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-WilrgmxeduACBv7slzzFnZiI+1sdIscigN2qKVkB0N0="
+    "hash": "sha256-U3eLtLaKRAYMo6Tvf+9Hr3sUUWvIba3cVnajEMHiz+0="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -10160,14 +10160,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "container": {
-    "version": "3.1.11",
+    "version": "3.1.12",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "Create Custom Container Content Elements for TYPO3",
-    "hash": "sha256-eG3c234O5equ3vVzW6d9DXore2q6Rgyqfq/FGhqY1Ss="
+    "hash": "sha256-5qe0C6VQogSEWTlymH68rm+lnZ9A/9kq4bnnEuQuhPw="
   },
   "container_elements": {
     "version": "7.0.0",
@@ -10232,10 +10232,10 @@
     "hash": "sha256-5yVd7v0+MoYUQKG+/pu/pmABxeUWYbq2fQdkKwwJwSA="
   },
   "content_blocks": {
-    "version": "2.0.2",
+    "version": "2.0.3",
     "t3_versions": [],
     "description": "Content Types API | Define reusable components via YAML",
-    "hash": "sha256-9mcVbUJ4KT3LrxTX8l0YVI909/8aYqO/mvEkWdaA3zs="
+    "hash": "sha256-icffP7rpPRoQs3MXm7imKZAtaCqefadE+dLHuzP5YSc="
   },
   "content_blocks_bootstrap": {
     "version": "0.0.3",
@@ -20949,12 +20949,12 @@
     "hash": "sha256-DiE5UgAFeEq3UHmNQg2lOvRlmIIEj29ELkb0ylk6/9M="
   },
   "fluid_primitives": {
-    "version": "0.8.0",
+    "version": "0.9.0",
     "t3_versions": [
       13
     ],
     "description": "The headless component library for TYPO3 Fluid",
-    "hash": "sha256-7rQCIMC5wvvt+Ty0ztI0bIeTGfoX4RW0i54KDdF0iok="
+    "hash": "sha256-5Zv50LsRRHyENGhKgdM2Uho7fSqmsql2CV/cjGnxmaM="
   },
   "fluid_recommendation": {
     "version": "1.3.0",
@@ -21642,12 +21642,10 @@
     "hash": "sha256-zI/AhMUQpm4wg0ertfHnjOmH0n9HXCXpmryClbhsTnI="
   },
   "form_crshield": {
-    "version": "3.0.0",
-    "t3_versions": [
-      13
-    ],
+    "version": "4.0.0",
+    "t3_versions": [],
     "description": "Adds a hidden input field containing a challenge string to forms. Client must execute included JavaScript to calculate the expected response.",
-    "hash": "sha256-CNJUhzGJR9yg5Y8nOD6dlH+xm5a8HYTDoZw3nUnT4AE="
+    "hash": "sha256-697QYHcujAkhIwI8eKs3QMYtUy3ehX7oDgjtCoyPkQM="
   },
   "form_doubleoptin": {
     "version": "1.1.1",
@@ -40399,6 +40397,14 @@
     "description": "Powerful Address extension. Fully based on Extbase/Fluid as an new alternative to tt_address. You can add multiple addresses,email address, etc. to a contact. No need to create multiple for one anymore. If more fields neededyou can simply extend them with flexforms.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "nnaitools": {
+    "version": "13.0.4",
+    "t3_versions": [
+      13
+    ],
+    "description": "Automatically generate the alt- and title texts when saving images. Or batch-process all images in the fileadmin. Multilanguage support.",
+    "hash": "sha256-VF/8MYD6rJUlHzwAISkvKwGP0H3KjJYgFTPRQjNPBEg="
+  },
   "nnd_opslag": {
     "version": "1.0.0",
     "t3_versions": [],
@@ -40415,20 +40421,20 @@
     "hash": "sha256-x1uRP3P/8ENfutvgJYPuYMau9v0beVCturQ2i/0SyQU="
   },
   "nnhelpers": {
-    "version": "13.0.7",
+    "version": "13.0.8",
     "t3_versions": [
       13
     ],
     "description": "Drastically speed up your extension development with this huge collection of very smart 'oneliners'. Make updating to new TYPO3 versions simple. Packed with things you've spent hours searching on the internet for. Everything accessible with one click via a convenient backend module. No mess and no conflicts. Use whatever method makes you happy – or simple grab the source-code and paste it in your own extension.",
-    "hash": "sha256-HVgfTZxSArZ/OsOq7I7C18So8va2fGl6QNpaNBSzpb8="
+    "hash": "sha256-TWk9TLJmi4Xz37CI5fztlKEBGbk0V1KVehcbMOZWFn0="
   },
   "nnrestapi": {
-    "version": "13.1.2",
+    "version": "13.1.3",
     "t3_versions": [
       13
     ],
     "description": "Build a REST Api for your TYPO3 project. Equipped with everything you need: Routing with annotations. User authentication. Fileupload and FAL conversion. Testbed and automatic documentation of your API. The backend module comes with a \"Kickstarter\" to get your RESTful API up and running in minutes.",
-    "hash": "sha256-sta09Q3WDP0oz3/unqepiFPy6ZkH6BBC0zJLV2OlE2E="
+    "hash": "sha256-aJ7l+1uoztsWvexPe3XMhI8+m82VYDwSX41fAf4lwBg="
   },
   "no_opcode_cache_check": {
     "version": "1.0.2",
@@ -40994,13 +41000,13 @@
     "hash": "sha256-kPxKaPOFunsxkd20gpiPaMTtTkdDsAyhYtNQVZgoXGY="
   },
   "ns_license": {
-    "version": "13.0.13",
+    "version": "13.0.14",
     "t3_versions": [
       12,
       13
     ],
     "description": "Manage licenses of your TYPO3 templates and extensions purchased from T3Planet. Includes activation and license validation. Documentation available at https://docs.t3planet.com/en/latest/License/LicenseActivation/Index.html",
-    "hash": "sha256-F4CQUNLrf1oYe7MDWfCYdUzf/9LgLgArmDmopcpKJwU="
+    "hash": "sha256-xfU0+Tnkoj67331foKEoKx1M0rGFZbEExmbll7ktODE="
   },
   "ns_news_advancedsearch": {
     "version": "13.0.2",
@@ -44901,14 +44907,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "picture": {
-    "version": "3.0.2",
+    "version": "3.0.4",
     "t3_versions": [
-      10,
       11,
-      12
+      12,
+      13
     ],
-    "description": "Improved TYPO3 image ViewHelper creating picture elements with support for sizes, sources, additional image formats, etc.",
-    "hash": "sha256-vyx2EHgqjCEQcFxgNC055zO/yVJZcmaOlo7O+l2rPf4="
+    "description": "Improved TYPO3 Image ViewHelper creating picture elements with support for sizes, sources, and additional image formats.",
+    "hash": "sha256-PZ2PBy7hyiPoDHWr8d4zFna/7OlpprnisRgUpQ9sJ0E="
   },
   "picturecredits": {
     "version": "2.4.0",
@@ -47824,12 +47830,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "recaptcha": {
-    "version": "14.1.1",
+    "version": "14.1.2",
     "t3_versions": [
       13
     ],
     "description": "Integrates google reCAPTCHA and invisible reCAPTCHA in EXT:form, EXT:sf_register",
-    "hash": "sha256-XII2+UKTVAcA01oDg6CZCGBM4oKkBXPlCXd1ULXx85U="
+    "hash": "sha256-A45F5z7+cui+WoFPLphdQwtdV6zJu2rM043HEk5kEdQ="
   },
   "recent_comments": {
     "version": "0.2.0",
@@ -51928,12 +51934,10 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sf_register": {
-    "version": "13.2.1",
-    "t3_versions": [
-      13
-    ],
+    "version": "14.0.0",
+    "t3_versions": [],
     "description": "Offers the possibility to maintain the fe_user data in frontend by the user self.",
-    "hash": "sha256-DLk2432i1N2Otb5KJZOIApNVbU8kWl1uTigm4qSXOtU="
+    "hash": "sha256-ulbtW1E27Omi5BmzuboqSATFc3dMHJ+ZkrG/n9TZPiE="
   },
   "sf_simple_faq": {
     "version": "1.3.0",
@@ -51959,10 +51963,10 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sf_yubikey": {
-    "version": "6.0.0",
+    "version": "7.0.0",
     "t3_versions": [],
     "description": "An authentication service for TYPO3 which extends the backend/frontend login by YubiKey OTP two-factor authentication.",
-    "hash": "sha256-B8ffTAdduk4bjthC6QRT6KQ3SY5JqpK2H85HLDK7P1o="
+    "hash": "sha256-aWtv8FowHUd6VtUVnUWgo8DqcXxtoO6mj9TcbRJTo7Q="
   },
   "sfdbutf8": {
     "version": "2.1.0",
@@ -52145,13 +52149,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sg_cookie_optin": {
-    "version": "7.1.1",
+    "version": "7.3.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "",
-    "hash": "sha256-OHzC8uejP4A9VFJ0KlMkZFM4Es9wh38gwU22Bazpq9U="
+    "hash": "sha256-jf79YESPiQJsNj6ZC57dqW+pXPaMtN1R55vfXRq5D+k="
   },
   "sg_cropscale": {
     "version": "0.5.0",
@@ -52885,12 +52889,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "simple_log404": {
-    "version": "1.2.2",
+    "version": "3.1.0",
     "t3_versions": [
-      12
+      13
     ],
     "description": "Creates a log overview of 404 errors that have been handled by the standard PageErrorHandler but have not been logged anywhere yet.",
-    "hash": "sha256-HUIKizBJvrAxSI6h/U+tUxQlDPW98ijYF+MrAOlf7Ak="
+    "hash": "sha256-s9IqUtP/EGWr6P1Mpg/Wt1VoS6HqxskjpzDW0F5Q8HQ="
   },
   "simple_slider": {
     "version": "1.0.7",
@@ -60053,12 +60057,12 @@
     "hash": "sha256-npPs8S14qMTCeHCHBr0kn+CGmD+yj4LriA9cd5UEOWI="
   },
   "tgm_copyright": {
-    "version": "3.3.3",
+    "version": "4.0.0",
     "t3_versions": [
-      12
+      13
     ],
     "description": "This extension will add a copyright field on every image palette and can show it below each image. All pictures with a copyright can be listed with a plugin. An Image Sitemap XML for Google of ALL used images can be generated by this extension.",
-    "hash": "sha256-i4QAeGP3jhmFf0NeA5cwILEq7Hu2juPFAoXv9tA3CGo="
+    "hash": "sha256-sDTFct/dkIqIoBbdNZhzQSt3Z+XudhOrsBzhOfoinJQ="
   },
   "tgm_customerservice": {
     "version": "1.0.1",
@@ -63528,12 +63532,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "typed_extconf": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "t3_versions": [
       13
     ],
     "description": "Aims to provide a type-safe extension configuration management for TYPO3, ensuring proper types instead of string-only values from backend configuration or mixed types from config/system/settings.php",
-    "hash": "sha256-TSlwsk7VA7nJLe7hmmoN/5K0+XtkX4r9FrYp8zSkgPM="
+    "hash": "sha256-61QaItnwA86cGfjUWN35EPeF+DGX4PwMWaGhVKTmeWI="
   },
   "typo3_ai": {
     "version": "1.1.1",
@@ -63560,14 +63564,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "typo3_console": {
-    "version": "8.2.3",
+    "version": "8.3.1",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "A reliable and powerful command line interface for TYPO3 CMS",
-    "hash": "sha256-8+mIf7FLWjhlDdzckxXuMIuLFiunwuLre5dRhB60/1U="
+    "hash": "sha256-BOa58Imc3lQY1zX+ZIIBnSTpvUkiM9SjUfFWNJ0NzlU="
   },
   "typo3_console_cleartempfiles": {
     "version": "1.0.0",
@@ -63616,14 +63620,12 @@
     "hash": "sha256-Q+fyn8GdbPzhNXFy5VitVgvHQlUeK+uWYA1fVzRB24o="
   },
   "typo3_environment_indicator": {
-    "version": "2.2.2",
+    "version": "3.0.0",
     "t3_versions": [
-      11,
-      12,
       13
     ],
     "description": "This extension comes with several features to show an environment indicator in the TYPO3 frontend and backend.",
-    "hash": "sha256-sLdOBYU0hY3dgR2d6ZEDWMrecyZpC4zRXzaBUiNMlmQ="
+    "hash": "sha256-roVJ03XlWTTXz7wUj9k8unC6txKFJmCF1iPHP9Av9IU="
   },
   "typo3_feed": {
     "version": "2.0.1",
@@ -64196,12 +64198,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "usertools": {
-    "version": "4.1.4",
+    "version": "4.2.2",
     "t3_versions": [
       13
     ],
     "description": "Collection of user tools:",
-    "hash": "sha256-cPNKP+Cl3mdtGFEmF4c6KUhhGTQsU2iq3L7WJq/ntmc="
+    "hash": "sha256-L4JpJw6T3G1L5MdirjdEA8RTXvRs4FlU9YP0pk0mEDA="
   },
   "uuid": {
     "version": "0.2.2",
@@ -67515,13 +67517,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "xima_typo3_content_planner": {
-    "version": "1.5.10",
+    "version": "2.0.0",
     "t3_versions": [
-      12,
       13
     ],
     "description": "This extension provides a page status functionality to support the planning of content work.",
-    "hash": "sha256-E/OpyCYs3iHGhDaMzWvX42iFGcIRqZynPEYtaBQiY5c="
+    "hash": "sha256-HVHRqGWEVYGw+wUgsTnT6unlUAGhC2Z1EpuBijq2fic="
   },
   "xima_typo3_frontend_edit": {
     "version": "1.7.2",
