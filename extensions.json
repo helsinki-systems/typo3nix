@@ -3819,13 +3819,13 @@
     "hash": "sha256-Vm1EQFl1l7qB31THEFDv40dc4HM0RRxnXWkIQ2w4QCg="
   },
   "aws_sdk_php": {
-    "version": "3.367.2",
+    "version": "3.367.3",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-U3eLtLaKRAYMo6Tvf+9Hr3sUUWvIba3cVnajEMHiz+0="
+    "hash": "sha256-GMZ/IW8zI9Bgpm2/M12JPZ9XkpwY6axjPViJRTYG5SU="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -6225,13 +6225,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "bw_captcha": {
-    "version": "4.2.2",
+    "version": "5.1.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Captcha element with audio support for TYPO3 form components. The captcha generation does not rely on Google or third-party integrations.",
-    "hash": "sha256-f4JYtn7tUKUb4zM97YmJZAdpfpNRrBR0yhPlcOFZm8s="
+    "hash": "sha256-oUPJxuNFyCVVx+46jLhJJ7p8rzTvsclhfSgfRumHq1I="
   },
   "bw_covid_numbers": {
     "version": "1.2.0",
@@ -12406,12 +12406,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cy_lending": {
-    "version": "5.0.3",
+    "version": "5.1.0",
     "t3_versions": [
       13
     ],
     "description": "You can organize lending of objects",
-    "hash": "sha256-LZ5eqHO27A4pD2mV3jvMAN8X+9qP/q1WKJKlE1ppNsc="
+    "hash": "sha256-TpZnexXY2ViAB4JnEP2Ir0fO5oxG5dbycmEJlbueXUw="
   },
   "cy_newsletter": {
     "version": "3.1.1",
@@ -14676,13 +14676,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "div2007": {
-    "version": "2.3.10",
+    "version": "2.3.11",
     "t3_versions": [
       12,
       13
     ],
     "description": "This library offers classes and functions to other TYPO3 extensions. Replacement for tslib_pibase methods.",
-    "hash": "sha256-+y5OMSBGmAOSCYqaIoCxXY0DybjQW6gRJ3sdqoXgHwY="
+    "hash": "sha256-cBvRNuKzV7JRNvoRFsMVrnSF2+YHut2pohF5ykDuGpc="
   },
   "diva": {
     "version": "8.7.1",
@@ -18191,13 +18191,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "example_site_sets_compat": {
-    "version": "1.1.0",
+    "version": "1.2.0",
     "t3_versions": [
       11,
-      12
+      12,
+      13
     ],
     "description": "Example of how to provide site sets in an extension that is compatible with older TYPO3 versions",
-    "hash": "sha256-zi234TRQ7OijOcTbHwNAMxsbJLLZjuX9y18od4mJg/s="
+    "hash": "sha256-MctT5s5xX/+H1l0UEoGnDIxrwzuoI5yOz/iAmFFoCtA="
   },
   "example_templates": {
     "version": "0.0.1",
@@ -20424,6 +20425,15 @@
     "description": "Management of accidents and cars for fire departments and other helping organisations",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "firewall": {
+    "version": "0.1.9",
+    "t3_versions": [
+      12,
+      13
+    ],
+    "description": "Firewall implements a PSR-15 middleware that helps to protect your website against malicious requests",
+    "hash": "sha256-v675DiYwCpAu+6WuY6j5w4H4NWGP8W8UocfCyWSyw/U="
+  },
   "firstconnect": {
     "version": "1.0.0",
     "t3_versions": [
@@ -20974,13 +20984,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fluid_styleguide": {
-    "version": "2.2.1",
+    "version": "2.2.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "Living styleguide for Fluid Components",
-    "hash": "sha256-SJV0XtdfS1ghvAernVSrLGgK4nT/L24hPmhug0UaJmU="
+    "hash": "sha256-Al7mp+8QnzA0FIRzvxRWDwavMbpD1KeARxVs6u4RFSo="
   },
   "fluidbackend": {
     "version": "1.0.1",
@@ -22142,13 +22152,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "foundation": {
-    "version": "3.1.0",
+    "version": "3.1.3",
     "t3_versions": [
       12,
       13
     ],
     "description": "Configuration framework for TYPO3 extension development",
-    "hash": "sha256-ZOfa2EEwuVAetU8fG1+SxmghmExRl+N0R/Vu0Nwh1nU="
+    "hash": "sha256-uso1HcR38vgBomYDmW8hwQlgzRJ/+Oh8VVQ4/7wP4Bg="
   },
   "foundation_grids": {
     "version": "2.0.0",
@@ -33515,13 +33525,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mail_css_inliner": {
-    "version": "3.1.2",
+    "version": "3.2.1",
     "t3_versions": [
-      11,
-      12
+      12,
+      13
     ],
     "description": "Inlines CSS in all outgoing TYPO3 mails.",
-    "hash": "sha256-t0gqOIUAOKi/kMXgs47/cwYU7JK/m7fcCg8s8Rhkm+g="
+    "hash": "sha256-l9piHhoUo53PZHMTJzGRG19Ud2qzwYLDy1P+yy6y1JI="
   },
   "mail_logger": {
     "version": "5.0.3",
@@ -40421,20 +40431,20 @@
     "hash": "sha256-x1uRP3P/8ENfutvgJYPuYMau9v0beVCturQ2i/0SyQU="
   },
   "nnhelpers": {
-    "version": "13.0.8",
+    "version": "13.1.0",
     "t3_versions": [
       13
     ],
     "description": "Drastically speed up your extension development with this huge collection of very smart 'oneliners'. Make updating to new TYPO3 versions simple. Packed with things you've spent hours searching on the internet for. Everything accessible with one click via a convenient backend module. No mess and no conflicts. Use whatever method makes you happy – or simple grab the source-code and paste it in your own extension.",
-    "hash": "sha256-TWk9TLJmi4Xz37CI5fztlKEBGbk0V1KVehcbMOZWFn0="
+    "hash": "sha256-3C4yP2YFeRpnCHTA62KZ4x91jICxqu+fXbtlwNfsRDc="
   },
   "nnrestapi": {
-    "version": "13.1.3",
+    "version": "13.2.3",
     "t3_versions": [
       13
     ],
     "description": "Build a REST Api for your TYPO3 project. Equipped with everything you need: Routing with annotations. User authentication. Fileupload and FAL conversion. Testbed and automatic documentation of your API. The backend module comes with a \"Kickstarter\" to get your RESTful API up and running in minutes.",
-    "hash": "sha256-aJ7l+1uoztsWvexPe3XMhI8+m82VYDwSX41fAf4lwBg="
+    "hash": "sha256-cIl/sgjyhiC113/EBKyMdbZHHNjmYPw031m6y643ZRA="
   },
   "no_opcode_cache_check": {
     "version": "1.0.2",
@@ -51790,13 +51800,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "sessionplaner": {
-    "version": "5.0.0",
+    "version": "5.2.1",
     "t3_versions": [
-      11,
-      12
+      12,
+      13
     ],
     "description": "Plan and display sessions for bar camp like events",
-    "hash": "sha256-zxsqxOaTjL+4fZHgD/+jPFBxcMvVaRxhD6deF4XR3Uw="
+    "hash": "sha256-t7+2nz2v6wzUWg1aL6BvhdnAzAGwR0R4uq0X9Mb74QM="
   },
   "set_devipmask": {
     "version": "1.3.1",
