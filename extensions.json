@@ -1675,14 +1675,14 @@
     "hash": "sha256-DIxBAwJpYfM0xgdjwu85/ak60ecQE7USGunWhQ25eDs="
   },
   "ai_tools": {
-    "version": "1.3.0",
+    "version": "1.3.1",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "A TYPO3 extension that leverages artificial intelligence to enhance content and accessibility",
-    "hash": "sha256-UkrS0cW8AQpctzYfbOnBdb3MP7sZPH2ca409YidzRbU="
+    "hash": "sha256-JeNV4oTI4s69apFVqvCGHyTxs+hIrp7Z+JtUECYegBY="
   },
   "ai_translate": {
     "version": "4.0.2",
@@ -7159,13 +7159,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "call_to_actions": {
-    "version": "2.1.0",
+    "version": "2.1.1",
     "t3_versions": [
       11,
       12
     ],
     "description": "Shared Call to Action repository and plugin, to allow display of your CTAs",
-    "hash": "sha256-wj7rTqwlnNMfNZtwcODnV6hMXGcYpIJDeA61e76Vy30="
+    "hash": "sha256-/4CGQFW8IZJufTh3JM0o1jv/LzuSrccvY7zVON/8yKQ="
   },
   "callocationgrid": {
     "version": "1.3.0",
@@ -21644,13 +21644,12 @@
     "hash": "sha256-BWcHU1c1baANiR9B0bA0+4JiV8GdVqQ4WyNtScWUmJs="
   },
   "form_consent": {
-    "version": "3.1.5",
+    "version": "4.0.0",
     "t3_versions": [
-      12,
       13
     ],
     "description": "An extension for TYPO3 CMS that adds double opt-in functionality to EXT:form. It allows the dynamic adaptation of the entire double opt-in process using various events. In addition, the extension integrates seamlessly into TYPO3, for example to delete outdated consents in compliance with the GDPR.",
-    "hash": "sha256-cnbu+Ei/PVCEA/SwbXZk77D79dMSqROXx4QTRSWBHR4="
+    "hash": "sha256-ZbkNkTndu+HeS8ox6diHQfsfW97t4pZ5bXIZoBqIS+4="
   },
   "form_country_select": {
     "version": "3.1.0",
@@ -33589,13 +33588,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mailfiles": {
-    "version": "8.2.1",
+    "version": "8.2.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "Upload files and send download links via email. Uses plupload. Please see readme file.",
-    "hash": "sha256-Wz506x9naoEgGQNqJqhusx83p9CPYCKi2ELM+UvPQV0="
+    "hash": "sha256-IAoh7WmkO1+496U2qtCPOwuZlwr+DsQxJ11+/SomHq8="
   },
   "mailform": {
     "version": "0.9.35",
@@ -37286,6 +37285,14 @@
     "t3_versions": [],
     "description": "Display of quests and logged-in front end user.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "mpc_rss": {
+    "version": "1.0.7",
+    "t3_versions": [
+      13
+    ],
+    "description": "TYPO3 extension to fetch and render RSS feeds grouped by category, date or author.",
+    "hash": "sha256-lR3qoRZ5pnpjt0/jf0z0BddDPjTWa+S5g4iD3E+VJ+U="
   },
   "mpc_vidply": {
     "version": "1.0.24",
@@ -43043,6 +43050,15 @@
     ],
     "description": "Page Creator is a tool for creating many pages quickly and easily",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "page_deletion_guard": {
+    "version": "1.2.0",
+    "t3_versions": [
+      12,
+      13
+    ],
+    "description": "Prevents deletion of pages with children",
+    "hash": "sha256-bKQRMSFHVbDNwX5wbqBdsTAzS22M+wE4ukl9ZS9ERho="
   },
   "page_link_insights": {
     "version": "1.6.0",
@@ -49828,13 +49844,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "rte_ckeditor_pack": {
-    "version": "3.0.0",
+    "version": "3.1.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "CKEditor Pack TYPO3 extension provides a modern, integrated CKEditor build many optimized features, accessibility tools, AI assistance, and collaboration-friendly options—all without managing scattered YAML files. Built for stability and clean integration, it streamlines editing workflows and enhances TYPO3 content quality.",
-    "hash": "sha256-0yoIw9xxEKFSys4bHKQNXoAeuvc/T4ebCaoIdMtA3fE="
+    "hash": "sha256-dUOyFUKb++/3QnNzoweQA1boNjFbA9F72ajIktBqKNY="
   },
   "rte_ckeditor_textpartlanguage": {
     "version": "99.99.99",
@@ -51887,12 +51903,12 @@
     "hash": "sha256-/nJl/UK2ekrdFGri62w6ei07WGf+RqqBenNovnqhDEI="
   },
   "sf_event_mgt": {
-    "version": "8.5.0",
+    "version": "8.5.1",
     "t3_versions": [
       13
     ],
     "description": "Configurable event management and registration extension based on ExtBase and Fluid",
-    "hash": "sha256-0XxdlQ4IcfkFNHy8Al7596LhCeEXz6LlDoIk4dEw8pA="
+    "hash": "sha256-2cp29c3ws8tzyvepw5lsfTcUykxSq3L+xh4MHMpMU78="
   },
   "sf_event_mgt_contentelements": {
     "version": "3.0.1",
@@ -60586,12 +60602,12 @@
     "hash": "sha256-Pl0djjBnkvV/OWHvoYAZIFLisz9tJbE5RZw/K3Jh8/M="
   },
   "tika": {
-    "version": "13.0.0",
+    "version": "13.1.0",
     "t3_versions": [
       13
     ],
     "description": "Provides Tika services for TYPO3 to detect a document's language, extract meta data, and extract content from files. Can either use a stand alone Tika executable or Tika integrated in a Solr server with an activated extracting request handler.",
-    "hash": "sha256-P+pusXERsnZYAh9WQsOgYFiX0MAc/fqajHuqg1T6YlQ="
+    "hash": "sha256-nNzeFHaFq/pAcntEFEXpVl21oBxVvyoIg0VsX0yNEE4="
   },
   "tiktok": {
     "version": "3.0.1",
@@ -67550,14 +67566,12 @@
     "hash": "sha256-HVHRqGWEVYGw+wUgsTnT6unlUAGhC2Z1EpuBijq2fic="
   },
   "xima_typo3_frontend_edit": {
-    "version": "1.7.2",
+    "version": "2.0.0",
     "t3_versions": [
-      11,
-      12,
       13
     ],
     "description": "This extension provides an edit button for editors within frontend content elements.",
-    "hash": "sha256-2w0Nm/55UQTUEmBuQYQLAwDJWmNeBuaDmQE5alswzW8="
+    "hash": "sha256-8mr5haZuEpyN10ufHfXkMBcCX58x3JAtESIK4PDvKr4="
   },
   "xima_typo3_internal_news": {
     "version": "1.1.1",
