@@ -760,13 +760,13 @@
     "hash": "sha256-7MwxjrN4lZCqRlYvDVDxifcOYEMPKPjobP2A1P0jhko="
   },
   "acl_deployment": {
-    "version": "2.0.0",
+    "version": "2.0.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "Deployment of users, user groups and their privileges",
-    "hash": "sha256-clYByVo914nnnv+OrTV0Opkczi6KoyQtvElZ4qYxOPo="
+    "hash": "sha256-Sw4cCiykiVK1qplVsV7Xv1fJVZ5xRvPZhO5Z18HLW/Y="
   },
   "acny": {
     "version": "1.0.5",
@@ -1648,13 +1648,13 @@
     "hash": "sha256-949ouCIbpQ+kQ7+CpVy7aQ6af6e42/03MQHEqxZCMI8="
   },
   "ai_llms_txt": {
-    "version": "0.1.5",
+    "version": "0.1.7",
     "t3_versions": [
       12,
       13
     ],
     "description": "TYPO3 extension for generating llms.txt links according to llmstxt.org specification to control Large Language Model crawling policies.",
-    "hash": "sha256-OdOABlQ+Xh9FagoTydiDFy5yUN0Ljzz++nE5feKdT3s="
+    "hash": "sha256-kDtxkE2QZtTwKZ8VuLd7xDZiqJaID5EhazzTEavwZY0="
   },
   "ai_seo_helper": {
     "version": "0.7.0",
@@ -2072,12 +2072,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "allinoneaccessibility": {
-    "version": "13.0.3",
+    "version": "13.0.4",
     "t3_versions": [
       13
     ],
     "description": "WCAG Website Accessibility widget improves Typo3 website ADA compliance and browser experience for ADA, WCAG 2.1 & 2.2, Section 508, Australian DDA, European EAA EN 301 549, UK Equality Act (EA), Israeli Standard 5568, California Unruh, Ontario AODA, Canada ACA, German BITV, France RGAA, Brazilian Inclusion Law (LBI 13.146/2015), Spain UNE 139803:2012, JIS X 8341 (Japan), Italian Stanca Act and Switzerland DDA Standards.",
-    "hash": "sha256-UhaJMQ76n0qXrGV8p3H5YBW01rF9foZTHP1xJbnUrbU="
+    "hash": "sha256-NyjuFxZX2VoT8hacaf72K1ASM+TZdL/w9EJCxt21+aY="
   },
   "allnews": {
     "version": "0.2.6",
@@ -3201,12 +3201,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "at_xmas": {
-    "version": "1.3.0",
+    "version": "1.4.0",
     "t3_versions": [
-      12
+      11,
+      12,
+      13
     ],
     "description": "It is a snow fall like christmas theme. Choose various snowflake shapes, sizes, colors, and many more edition. You do not need to add its plugin",
-    "hash": "sha256-xygPWu8A1XSUt98x/e8O2/j70+Pyh2HLSaREy3fpVRM="
+    "hash": "sha256-OZeApo7b+rCZ5+rAX7ky/kwQ2LTMTCRBsxUPQe1zglI="
   },
   "atol_cmis": {
     "version": "1.0.0",
@@ -3819,13 +3821,13 @@
     "hash": "sha256-Vm1EQFl1l7qB31THEFDv40dc4HM0RRxnXWkIQ2w4QCg="
   },
   "aws_sdk_php": {
-    "version": "3.368.0",
+    "version": "3.368.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-FMPBZWwiGkAlFFQNSJLkd/szY0Of/Qu0P4YCDp4XszI="
+    "hash": "sha256-UOanYgmfiA8gBAKdF9oogTFdCWsL4Qj4fHNCz+OkrpM="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -4552,12 +4554,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "beautyofcode": {
-    "version": "7.0.1",
+    "version": "7.0.2",
     "t3_versions": [
       13
     ],
     "description": "This plugin provides Java-Script based, state-of-the-art, feature rich syntax highlighting by using SyntaxHighlighter or Prism. t3editor enabled.",
-    "hash": "sha256-HaGya8f43U9WC+3BpwfhgCLt9t9HqXfqmemMT4r4M4E="
+    "hash": "sha256-ptKDPJuOMUpXaOM2fD5L4knmf2lIKrXvbDdLns39344="
   },
   "becookies": {
     "version": "0.1.9",
@@ -13741,6 +13743,15 @@
     "description": "Provides shared things across deepl related extensions, for example a shared point when overriding same TYPO3 backend fluid files are required and similar.",
     "hash": "sha256-SujcMrjj/16VvMobqHVZzeEdES1KP4m0Pnli7BPEuIg="
   },
+  "deepl_write": {
+    "version": "1.0.2",
+    "t3_versions": [
+      12,
+      13
+    ],
+    "description": "DeepL Write support for TYPO3. Write better texts, translate to simple language",
+    "hash": "sha256-RkRij5EIC2DnLM43vJo2bl9iZbw7HS3NJs/GRaAG48A="
+  },
   "deeplcom_deeplphp": {
     "version": "1.12.1",
     "t3_versions": [
@@ -13805,13 +13816,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "deferred_image_processing": {
-    "version": "3.0.2",
+    "version": "3.0.3",
     "t3_versions": [
       12,
       13
     ],
     "description": "Handles image processing on request instead of during page generation",
-    "hash": "sha256-YO8ifonx07EP9+d5k0fB79RL10HnAzdkO+pg/EUK1xA="
+    "hash": "sha256-NRw3X2UUhCkINl3w6P9Jq1gCCTl1jh7MsbJk64gm7RM="
   },
   "dejure_org": {
     "version": "11.0.0",
@@ -19757,12 +19768,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "femanager": {
-    "version": "13.2.0",
+    "version": "13.2.1",
     "t3_versions": [
       13
     ],
     "description": "TYPO3 Frontend User Registration and Management based on",
-    "hash": "sha256-zOc7LLDDnv7E8eMTostMeuOldsxkVS0vX4hmVFAwjLc="
+    "hash": "sha256-LrH8+QclcwQ1OUCmdEeACJAtv5NaIwnccewVwR2xC/I="
   },
   "femanager_cleverreach": {
     "version": "3.0.0",
@@ -22055,13 +22066,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "forms2db": {
-    "version": "1.2.3",
+    "version": "2.0.0",
     "t3_versions": [
-      12,
       13
     ],
     "description": "With forms2db, form data from the Forms extension is stored in the database. Additionally, the data can be exported in CSV format using a dedicated module.",
-    "hash": "sha256-UijnEqT9gF9kM4cT90s3lJjIiUcEKYuS3oksxi13+ys="
+    "hash": "sha256-BzXB1PFoJQkExS78/KmgBN+cmtmS1RtwwFukpzcMSkY="
   },
   "formsave": {
     "version": "1.6.3",
@@ -30546,13 +30556,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ke_search": {
-    "version": "6.6.0",
+    "version": "7.0.0",
     "t3_versions": [
-      12,
       13
     ],
     "description": "Faceted fulltext search for TYPO3. Fast, flexible and easy to install and use. Indexes content directly from the databases. Features faceting / filtering, file indexing, images in result lists and respects access restrictions.",
-    "hash": "sha256-zVXYPq2sLVaxyvqsL1ba9ODpEAHHOOhStOMS+pCWUt4="
+    "hash": "sha256-xqFGR8Nfre+1Trc8yMEDsJMLlc+m+ksSrd4RNn2R5+8="
   },
   "ke_search_dam_tags": {
     "version": "0.0.1",
@@ -33074,13 +33083,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "lux": {
-    "version": "40.0.1",
+    "version": "41.0.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Living User Experience - LUX - the Marketing Automation tool for TYPO3.",
-    "hash": "sha256-B9Y6MG3/MPPpx5aR9L0h/nRqQZRj3ABnO+kylTLmOXk="
+    "hash": "sha256-rSG6Z+5U5D8vv6JaeiCKAQdU4hZ9AyBOMSLXuyqXj1Q="
   },
   "luxletter": {
     "version": "27.2.3",
@@ -36386,13 +36395,13 @@
     "hash": "sha256-phRL0foWA1dZnNn7md29fWHqxnBhyYIrWqGysoS95EY="
   },
   "mksearch": {
-    "version": "13.0.0",
+    "version": "13.0.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "Generic highly adjustable and extendable search engine framework, using Zend Lucene, Apache Solr or ElasticSearch. But support for other search engines can be provided easily.",
-    "hash": "sha256-EWteB5Y69k5XsxP/S448hQsg+7NK6sBcbSCDysGqbuI="
+    "hash": "sha256-aqcFLlo9g4K4ovHo3T4SThstZ0F2x4psnhwq57rmOVE="
   },
   "mktools": {
     "version": "13.0.1",
@@ -37277,6 +37286,14 @@
     "t3_versions": [],
     "description": "Display of quests and logged-in front end user.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "mpc_vidply": {
+    "version": "1.0.24",
+    "t3_versions": [
+      13
+    ],
+    "description": "Universal, Accessible Video & Audio Player for TYPO3. Includes support for HTML5 video/audio, YouTube, Vimeo, SoundCloud, HLS streaming, playlists, captions, transcripts, sign language, and full WCAG 2.1 AA accessibility compliance.",
+    "hash": "sha256-yd9EgFWP6AYx8t8i9g1vSd1OgYpKMT9VTE+znhGOvTc="
   },
   "mpcimagepreview": {
     "version": "1.1.0",
@@ -47131,12 +47148,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "qkskima_api": {
-    "version": "0.0.1",
+    "version": "0.1.0",
     "t3_versions": [
       13
     ],
     "description": "A lightweight TYPO3 API middleware providing a clean, Extbase-free way to define REST-style endpoints under /api/* paths. Includes CSRF protection, frontend authentication support, and allows endpoint access from Fluid without plugins or TypoScript. Ideal for lean SPA-like applications, HTML-over-the-wire workflows, or lightweight headless-style integrations without a frontend build pipeline.",
-    "hash": "sha256-zW7PXqF0NMC9rQDy4JNPa50TEUVOnB7KZlPvZGh/JrE="
+    "hash": "sha256-BZOIM9MnoL9yBWjsfrgrgkc3y31KHGAP3Pca5nt5dh8="
   },
   "qkskima_model": {
     "version": "0.0.3",
