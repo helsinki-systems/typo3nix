@@ -2552,12 +2552,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "anatolkin_mosaic_gallery": {
-    "version": "0.1.13",
+    "version": "0.1.14",
     "t3_versions": [
       13
     ],
-    "description": "Masonry-like image gallery for TYPO3 using FAL with optional GLightbox.",
-    "hash": "sha256-2inXXEG4TtBbjls3Kbbc8sjhjgVWgvhkR2dQq0+0Djs="
+    "description": "Mosaic image gallery for TYPO3 using FAL with optional GLightbox.",
+    "hash": "sha256-XTN4wBa/jcoOQrQt4esnlD9iXWmoQJaCflI9VTgUOSE="
   },
   "anckesearchaddon": {
     "version": "7.6.0",
@@ -3821,13 +3821,13 @@
     "hash": "sha256-Vm1EQFl1l7qB31THEFDv40dc4HM0RRxnXWkIQ2w4QCg="
   },
   "aws_sdk_php": {
-    "version": "3.368.2",
+    "version": "3.369.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-UOanYgmfiA8gBAKdF9oogTFdCWsL4Qj4fHNCz+OkrpM="
+    "hash": "sha256-x/HsclRvjwmeymcM207L+aLCxh5mGJS3PfsRQpl/3VY="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -12406,12 +12406,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cy_lending": {
-    "version": "5.1.0",
+    "version": "5.1.1",
     "t3_versions": [
       13
     ],
     "description": "You can organize lending of objects",
-    "hash": "sha256-TpZnexXY2ViAB4JnEP2Ir0fO5oxG5dbycmEJlbueXUw="
+    "hash": "sha256-543YjHyYyUGarY1fYWpNCKFHObjJ2zrn/YSdNfJSQ5w="
   },
   "cy_newsletter": {
     "version": "3.1.1",
@@ -37266,6 +37266,14 @@
     "description": "This extension provides a dynamic search plugin generator for Mozilla/Firefox browsers. It will allow your visitors to search on your website directly from the toolbar of their browser.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "mp_core": {
+    "version": "1.0.27",
+    "t3_versions": [
+      13
+    ],
+    "description": "Core TYPO3 CMS extension providing base templates, styling, container, content blocks and backend configurations",
+    "hash": "sha256-gmkmwpr98pny6qrq30TeCrgrsWhSTdz+xy0BXax4fmA="
+  },
   "mp_em_forimages": {
     "version": "0.0.2",
     "t3_versions": [],
@@ -51653,13 +51661,13 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "seminars": {
-    "version": "5.8.1",
+    "version": "5.9.0",
     "t3_versions": [
       10,
       11
     ],
     "description": "Allows you to create and manage a list of seminars, workshops, lectures, theater performances and other events, allowing front-end users to sign up. FE users also can create and edit events.",
-    "hash": "sha256-FwUfWo05nJbOUkbVNi0dYuRZUQ/k/HTSRPoiQVSDguI="
+    "hash": "sha256-H1FwgC1T9x/M9oRe+eqVO6EELOppQBbbO6116ScOHh8="
   },
   "seminarscalredirect": {
     "version": "1.0.0",
