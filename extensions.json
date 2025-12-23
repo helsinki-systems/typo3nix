@@ -1142,13 +1142,14 @@
     "hash": "sha256-DRFUd5nO5/xMv25Mkr88ZOUzfo8HqmsSda5wTYQ2rSU="
   },
   "additional_scheduler": {
-    "version": "1.6.0",
+    "version": "1.7.1",
     "t3_versions": [
       11,
-      12
+      12,
+      13
     ],
     "description": "Useful tasks in the scheduler module : full backup, send query result in mail, exec SH script with reports...",
-    "hash": "sha256-PY8Wfmc557LdIy9YTfq3jCQZXWT4bcIWWFy5XpL0ecs="
+    "hash": "sha256-pKm7i1I8xGTPubNdJgh3BD40iC1NDJ9LMp9jfmheSU4="
   },
   "additional_site_conditions": {
     "version": "0.2.2",
@@ -2552,12 +2553,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "anatolkin_mosaic_gallery": {
-    "version": "0.1.14",
+    "version": "0.1.15",
     "t3_versions": [
       13
     ],
     "description": "Mosaic image gallery for TYPO3 using FAL with optional GLightbox.",
-    "hash": "sha256-XTN4wBa/jcoOQrQt4esnlD9iXWmoQJaCflI9VTgUOSE="
+    "hash": "sha256-eP+rt9+IWSvxbhmxW6DflvL6hrhygveko0QERkUc+/o="
   },
   "anckesearchaddon": {
     "version": "7.6.0",
@@ -3821,13 +3822,13 @@
     "hash": "sha256-Vm1EQFl1l7qB31THEFDv40dc4HM0RRxnXWkIQ2w4QCg="
   },
   "aws_sdk_php": {
-    "version": "3.369.0",
+    "version": "3.369.1",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-x/HsclRvjwmeymcM207L+aLCxh5mGJS3PfsRQpl/3VY="
+    "hash": "sha256-Yuv00kBasbdjI0H7qpV+v6q/UHzTmgpSF690cChwvmc="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -20313,13 +20314,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "filetransfer": {
-    "version": "2.1.0",
+    "version": "3.0.1",
     "t3_versions": [
-      12,
       13
     ],
     "description": "The filetransfer extension enables the secure transfer of files from your own web server (\"on-premise\"). This eliminates the need for email transfers, which can be challenging for large files and pose security risks for sensitive data. As an alternative to WeTransfer, organizations can use this extension to present themselves in a particularly security-conscious and professional manner.",
-    "hash": "sha256-2vlva58//CYHRY06Ix3SFIDyVsI9x3rtSZcXoPdK6QM="
+    "hash": "sha256-oSSlNt0D3sxx4wCF+GPhW1rBAUlOlOKnwdv91+Peu4A="
   },
   "fileupload": {
     "version": "1.1.0",
@@ -20968,12 +20968,12 @@
     "hash": "sha256-DiE5UgAFeEq3UHmNQg2lOvRlmIIEj29ELkb0ylk6/9M="
   },
   "fluid_primitives": {
-    "version": "0.9.0",
+    "version": "0.10.0",
     "t3_versions": [
       13
     ],
     "description": "The headless component library for TYPO3 Fluid",
-    "hash": "sha256-5Zv50LsRRHyENGhKgdM2Uho7fSqmsql2CV/cjGnxmaM="
+    "hash": "sha256-dUnZrvV+FpUTGXC+3hRyhAasbxLkRiC17zHhYJsDwQI="
   },
   "fluid_recommendation": {
     "version": "1.3.0",
@@ -22499,12 +22499,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fs_media_gallery": {
-    "version": "3.0.2",
+    "version": "5.0.0",
     "t3_versions": [
-      11
+      13
     ],
     "description": "A media gallery based on the FAL integration of TYPO3.",
-    "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+    "hash": "sha256-g8CEVtntQsJFyGSH1wWKdz6JPouyjKel0q5oeDzGuzM="
   },
   "fs_startupmodule": {
     "version": "0.0.1",
@@ -32644,12 +32644,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "lock_element": {
-    "version": "6.0.0",
+    "version": "6.0.1",
     "t3_versions": [
       13
     ],
     "description": "A locked element can't be deleted.",
-    "hash": "sha256-xKvKXfLzjM0BTI6+i+uPADH8cbL9Ak+QsJbz7F4cTkA="
+    "hash": "sha256-E5hU8DztZwDUCpWfjl5MpGHlzIH1NxCXNux3iz2GI/I="
   },
   "lock_ts": {
     "version": "3.0.0",
@@ -33082,22 +33082,22 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "lux": {
-    "version": "41.0.0",
+    "version": "41.1.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Living User Experience - LUX - the Marketing Automation tool for TYPO3.",
-    "hash": "sha256-rSG6Z+5U5D8vv6JaeiCKAQdU4hZ9AyBOMSLXuyqXj1Q="
+    "hash": "sha256-SCWJA9PTD1ceoaeZ7hPdqB6YEZ53c1MdDAl3ds58VS4="
   },
   "luxletter": {
-    "version": "27.2.3",
+    "version": "28.0.0",
     "t3_versions": [
       12,
       13
     ],
     "description": "Free newsletter extension for TYPO3 for an individual email marketing. A lot of analytics and modern concepts. Works with and without EXT:lux.",
-    "hash": "sha256-CPO812NrxB3F2kpDdpEe9UsTW00LjkzBvWDCSKzIZCg="
+    "hash": "sha256-5gmt/hq316FVU9vcH9qL5sFXl4qnyt8CpfKLtlM3wb8="
   },
   "lvcleantemp": {
     "version": "1.0.4",
@@ -33504,14 +33504,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mail": {
-    "version": "3.9.0",
+    "version": "3.9.2",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "Powerful newsletter system for TYPO3",
-    "hash": "sha256-j2KXfuzWz9xIKDgVNJ4QDhU/UOFTVfesiQaWVoQokBA="
+    "hash": "sha256-BSEwUwF+eT29jtWBf6if+w9J2El1wz+aEpKUkWdywkY="
   },
   "mail2news": {
     "version": "2.0.3",
@@ -34555,13 +34555,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mctest": {
-    "version": "3.4.2",
+    "version": "4.0.0",
     "t3_versions": [
-      12,
       13
     ],
     "description": "Single and multiple-choice tests to improve user experience (UX) and increase visitor dwelling time. Ideal for learning platforms, training sessions, or simply for entertainment.",
-    "hash": "sha256-iipGLjIMpUVnhjpajwMRqonLyVUIc24GPbIFHWBsv/k="
+    "hash": "sha256-4G9/G1ohlc/d/JoFoh6iYF8TC3UBut8tT2kifjFEMBE="
   },
   "md5passwords": {
     "version": "1.0.4",
@@ -37267,12 +37266,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mp_core": {
-    "version": "1.0.27",
+    "version": "1.0.33",
     "t3_versions": [
       13
     ],
     "description": "Core TYPO3 CMS extension providing base templates, styling, container, content blocks and backend configurations",
-    "hash": "sha256-gmkmwpr98pny6qrq30TeCrgrsWhSTdz+xy0BXax4fmA="
+    "hash": "sha256-c9AuJP6Ky2kP/BBVYP979k6oFVhB3ZtpkQE+Xiy1Hr0="
   },
   "mp_em_forimages": {
     "version": "0.0.2",
@@ -37295,20 +37294,20 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mpc_rss": {
-    "version": "1.0.7",
+    "version": "1.0.9",
     "t3_versions": [
       13
     ],
     "description": "TYPO3 extension to fetch and render RSS feeds grouped by category, date or author.",
-    "hash": "sha256-lR3qoRZ5pnpjt0/jf0z0BddDPjTWa+S5g4iD3E+VJ+U="
+    "hash": "sha256-ra3Dl/EL/EH6evQi8NPXy+YoEAQf5GeHo8cwNRmTwCM="
   },
   "mpc_vidply": {
-    "version": "1.0.24",
+    "version": "1.0.30",
     "t3_versions": [
       13
     ],
     "description": "Universal, Accessible Video & Audio Player for TYPO3. Includes support for HTML5 video/audio, YouTube, Vimeo, SoundCloud, HLS streaming, playlists, captions, transcripts, sign language, and full WCAG 2.1 AA accessibility compliance.",
-    "hash": "sha256-yd9EgFWP6AYx8t8i9g1vSd1OgYpKMT9VTE+znhGOvTc="
+    "hash": "sha256-fVtrG2OxIN7cxBfwziKqvY4Bwq0yL469VnK09X+T+DQ="
   },
   "mpcimagepreview": {
     "version": "1.1.0",
@@ -40460,20 +40459,20 @@
     "hash": "sha256-x1uRP3P/8ENfutvgJYPuYMau9v0beVCturQ2i/0SyQU="
   },
   "nnhelpers": {
-    "version": "13.1.0",
+    "version": "13.1.2",
     "t3_versions": [
       13
     ],
     "description": "Drastically speed up your extension development with this huge collection of very smart 'oneliners'. Make updating to new TYPO3 versions simple. Packed with things you've spent hours searching on the internet for. Everything accessible with one click via a convenient backend module. No mess and no conflicts. Use whatever method makes you happy – or simple grab the source-code and paste it in your own extension.",
-    "hash": "sha256-3C4yP2YFeRpnCHTA62KZ4x91jICxqu+fXbtlwNfsRDc="
+    "hash": "sha256-CTPbRBYRpJ8dHstt+docIbK/w8zg2IVw4WaqM2Fe5go="
   },
   "nnrestapi": {
-    "version": "13.2.3",
+    "version": "13.2.4",
     "t3_versions": [
       13
     ],
     "description": "Build a REST Api for your TYPO3 project. Equipped with everything you need: Routing with annotations. User authentication. Fileupload and FAL conversion. Testbed and automatic documentation of your API. The backend module comes with a \"Kickstarter\" to get your RESTful API up and running in minutes.",
-    "hash": "sha256-cIl/sgjyhiC113/EBKyMdbZHHNjmYPw031m6y643ZRA="
+    "hash": "sha256-4bT7zczwxkCqMvyNJVbYM4euJElnp9qaUh9fu+6jsUQ="
   },
   "no_opcode_cache_check": {
     "version": "1.0.2",
@@ -47266,6 +47265,14 @@
     "description": "Display QR codes as content elements, embed as Fluidtemplate, or use the view helper in your own extensions.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
+  "qrcodegenerator": {
+    "version": "2.0.0",
+    "t3_versions": [
+      13
+    ],
+    "description": "Generiert einen QR-Code im Frontend und zeigt eine Backend-Vorschau.",
+    "hash": "sha256-X1J1o+9tPW4kIvBWw3O0fymDBKtP/pG2KU20bkzw5K0="
+  },
   "quantcast": {
     "version": "1.0.0",
     "t3_versions": [],
@@ -49836,12 +49843,12 @@
     "hash": "sha256-OE68pCT+KlEVJ+RICFcNhbqd8HJ+BaVJTIManKjFjKU="
   },
   "rte_ckeditor_image": {
-    "version": "13.0.1",
+    "version": "13.1.5",
     "t3_versions": [
       13
     ],
     "description": "Adds FAL image support to CKEditor for TYPO3 - by Netresearch.",
-    "hash": "sha256-rZhhC6xwbSi8mg31MfS2HYL38wClDEGIhY9bKQdifg4="
+    "hash": "sha256-t2omp1cmfYqKtqiScmKoIXxpvTVbTUMz7Q9QABAy8R8="
   },
   "rte_ckeditor_microdata": {
     "version": "10.1.0",
@@ -51477,13 +51484,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "secrets": {
-    "version": "2.1.0",
+    "version": "3.0.1",
     "t3_versions": [
-      12,
       13
     ],
     "description": "secrets is used to encrypt messages and share them as a one-time link. The extension is suitable for organizations that place particular emphasis on security and trustworthiness. Since all communication takes place via your own web server, no third-party tools from servers whose location is not known (DSGVO) are necessary. Your own domain name in the link is more trustworthy and makes a more professional impression.",
-    "hash": "sha256-0TeWJbq8BCd40QjFFF6eOY6ZI28bMiS/k0idYf62jmI="
+    "hash": "sha256-KhOAtTb9ROY0x105dPx+JoN7A3+Vh7nfHbgrRyoWuOQ="
   },
   "secsign": {
     "version": "2.0.0",
@@ -56580,13 +56586,10 @@
     "hash": "sha256-2R8oCWKd5G3bZTY9MPatnegnTWtFW1aPq6WS5ZJLr1s="
   },
   "staticfilecache": {
-    "version": "15.2.3",
-    "t3_versions": [
-      12,
-      13
-    ],
+    "version": "16.0.1",
+    "t3_versions": [],
     "description": "Transparent static file cache solution using mod_rewrite and mod_expires. Increase performance for static pages by a factor of 230!!",
-    "hash": "sha256-q+4s0rrYKmFMLyurNV6XNsS0Clh536LdukBvjg7rPUM="
+    "hash": "sha256-hiurDt+uewHsepkK+UROv/Bnrx4KNn5RMATP+9ZzaRg="
   },
   "staticpathrouteresolver": {
     "version": "1.3.0",
@@ -61859,13 +61862,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "tooltip": {
-    "version": "1.2.0",
+    "version": "2.0.0",
     "t3_versions": [
-      12,
       13
     ],
     "description": "Add Tooltip to keywords in content",
-    "hash": "sha256-N/o5Q8riAbWobz9oH9J2GN4FocRKlD5XAvinzSJ4fl8="
+    "hash": "sha256-ukCHJUyIe7bqwq8gUv71mJWr038G1PR+jse6jkL8pIc="
   },
   "top": {
     "version": "1.0.0",
@@ -63659,14 +63661,14 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "typo3_dump_server": {
-    "version": "0.5.1",
+    "version": "0.6.0",
     "t3_versions": [
       11,
       12,
       13
     ],
     "description": "This extension brings the Symfony Var Dump Server to TYPO3.",
-    "hash": "sha256-Q+fyn8GdbPzhNXFy5VitVgvHQlUeK+uWYA1fVzRB24o="
+    "hash": "sha256-1rtLOhOR3yGZaSY9k5p6xpW8RvTvUttnlPaIMU3M3g0="
   },
   "typo3_environment_indicator": {
     "version": "3.0.0",
@@ -67566,20 +67568,20 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "xima_typo3_content_planner": {
-    "version": "2.0.0",
+    "version": "2.0.1",
     "t3_versions": [
       13
     ],
     "description": "This extension provides a page status functionality to support the planning of content work.",
-    "hash": "sha256-HVHRqGWEVYGw+wUgsTnT6unlUAGhC2Z1EpuBijq2fic="
+    "hash": "sha256-YNMvDnAz4oVrPptyT27DTA9VbM9/RbOOkYDZdHfMqbo="
   },
   "xima_typo3_frontend_edit": {
-    "version": "2.0.0",
+    "version": "2.0.1",
     "t3_versions": [
       13
     ],
     "description": "This extension provides an edit button for editors within frontend content elements.",
-    "hash": "sha256-8mr5haZuEpyN10ufHfXkMBcCX58x3JAtESIK4PDvKr4="
+    "hash": "sha256-Oi2WwRJtDC/3+KOOhs5wWU5J3ZItQRCrAbpwUFCjb5s="
   },
   "xima_typo3_internal_news": {
     "version": "1.1.1",
@@ -67699,6 +67701,17 @@
     ],
     "description": "Xima helper tools.",
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
+  },
+  "xmas": {
+    "version": "1.1.0",
+    "t3_versions": [
+      10,
+      11,
+      12,
+      13
+    ],
+    "description": "The xmas extension brings the holiday spirit to your TYPO3 website by adding a charming, animated Santa Claus and reindeer sleigh, a realistic falling snow system, and an optional festive modal popup.",
+    "hash": "sha256-GShm0PBJV125Mxbo+cicN94TakBNvKDvfLIZ2JvHfp8="
   },
   "xml_adapter": {
     "version": "0.2.1",
