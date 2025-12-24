@@ -3158,22 +3158,20 @@
     "hash": "sha256-2XhBg4wHBmWLL1RmP05UpOJXsIgcjNTjsQm7WS38mqA="
   },
   "at_christmas": {
-    "version": "1.0.0",
+    "version": "2.0.0",
     "t3_versions": [
-      11,
-      12
+      13
     ],
     "description": "Christmas theme is a modern and responsive TYPO3 template designed for Christmas, perfect for holiday promotions, events, and seasonal websites.",
-    "hash": "sha256-asgLpQBNhGSOAJrtilrcNttH2/9bjWw9APwDDfa8+W0="
+    "hash": "sha256-8g4HAi8aDCx9joDTjIvWTxjRj2cD/YpWkzPeo0YE0J8="
   },
   "at_goodfood": {
-    "version": "1.0.0",
+    "version": "2.0.0",
     "t3_versions": [
-      11,
-      12
+      13
     ],
     "description": "Good Food is a modern and responsive TYPO3 template designed for restaurants, cafés, food blogs, and catering businesses. It features a clean and elegant design, easy customization, and SEO-friendly structure to showcase menus, recipes, and services beautifully.",
-    "hash": "sha256-E5Tlr42bbkp55pKP0GAH1jShGSVhzgWzJNz4HAkevdQ="
+    "hash": "sha256-yeO/i8cP8QbuypPNQfZ8FoEwzi6fB9Zvs7b4sjapaik="
   },
   "at_kider": {
     "version": "1.0.0",
@@ -3822,13 +3820,13 @@
     "hash": "sha256-Vm1EQFl1l7qB31THEFDv40dc4HM0RRxnXWkIQ2w4QCg="
   },
   "aws_sdk_php": {
-    "version": "3.369.1",
+    "version": "3.369.2",
     "t3_versions": [
       12,
       13
     ],
     "description": "Amazon Web Services (AWS) SDK for PHP. See https://aws.amazon.com/sdk-for-php/ for details.",
-    "hash": "sha256-Yuv00kBasbdjI0H7qpV+v6q/UHzTmgpSF690cChwvmc="
+    "hash": "sha256-WMm3xXY2fMcFM34tGaCknNpOqvbgUC0KystxIayoyMY="
   },
   "aws_system_information": {
     "version": "1.0.0",
@@ -3859,12 +3857,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "ayacoo_soundcloud": {
-    "version": "3.0.2",
+    "version": "3.0.3",
     "t3_versions": [
       13
     ],
     "description": "",
-    "hash": "sha256-mbHWirMqd+s/sh3DA0e6ZN+poB/lPrBsfZr6HMA+jNk="
+    "hash": "sha256-QM7Pjk5Oge0cXQ5jiFRGqy/ocN43QpvreOvjstc2dW4="
   },
   "azurestorage": {
     "version": "0.6.1",
@@ -8446,28 +8444,26 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "cfc_league": {
-    "version": "1.11.8",
+    "version": "1.12.0",
     "t3_versions": [
-      8,
-      9,
       10,
       11,
-      12
+      12,
+      13
     ],
     "description": "Umfangreiche Extension zur Verwaltung von Sportvereinen und -wettbewerben. Extensive extension to manage sports clubs and competitions. https://github.com/digedag/cfc_league",
-    "hash": "sha256-wGZyPdEj8bYghsC3TRm4n4IA1FF4sRjTH6MBER2vsz8="
+    "hash": "sha256-kSL2mIvCxDhNgi+cp9sT6YQoNLDaVpsTFzMszNdrn6k="
   },
   "cfc_league_fe": {
-    "version": "1.11.3",
+    "version": "1.12.0",
     "t3_versions": [
-      8,
-      9,
       10,
       11,
-      12
+      12,
+      13
     ],
     "description": "FE-Plugins von T3sports. Liefert u.a. die Views Spielplan, Spielbericht, Tabellen, Team- und Spieleransicht. FE plugins for T3sports. Contains views for matchtable, leaguetable, matchreport, team and player reports and many more. Requires PHP5!",
-    "hash": "sha256-rEaN5IuNk505Lbd3VMmYDodz+3Amq3nr8Xzpg5Q0edQ="
+    "hash": "sha256-Ns4yCiq89YrbB0/gZXhCtYdf6lReu1ObrPVdY6zwPnY="
   },
   "cfloat": {
     "version": "0.1.5",
@@ -9084,12 +9080,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "clearcache_recursive": {
-    "version": "3.0.1",
+    "version": "3.0.2",
     "t3_versions": [
       13
     ],
     "description": "Adds a button in the backend for editors to be able to delete the cache recursively.",
-    "hash": "sha256-/iO0l2N11KF2kgvH9ZCW5SqELi8c3HzHXySrQQ8+VKQ="
+    "hash": "sha256-pmjIpFcuuBO8HpbKypHegMAsOhle574BoDoXe0Nnse8="
   },
   "clearcacheextend": {
     "version": "2.0.0",
@@ -21692,12 +21688,12 @@
     "hash": "sha256-hBjmSVjRbCQ3T5ftDpNSUpOhssizlr+Yuwfj2UQzOFI="
   },
   "form_email_contentblocks": {
-    "version": "3.0.3",
+    "version": "3.0.4",
     "t3_versions": [
       13
     ],
     "description": "Allows to add a content element at the beginning (introductory text) and/or at the end (email signature) of the email templates. Also, the background color and logo of the fluid email template can be edited.",
-    "hash": "sha256-9By7NCR3qJwvu7CRaPGYi8p/AO4MqqTF2TozgElpf6Q="
+    "hash": "sha256-PdpK0vatH04ULRL9sfmvg5nJlWjsYtIybO0NxxXheFc="
   },
   "form_extended": {
     "version": "13.0.4",
@@ -22499,12 +22495,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "fs_media_gallery": {
-    "version": "5.0.0",
+    "version": "6.0.0",
     "t3_versions": [
       13
     ],
     "description": "A media gallery based on the FAL integration of TYPO3.",
-    "hash": "sha256-g8CEVtntQsJFyGSH1wWKdz6JPouyjKel0q5oeDzGuzM="
+    "hash": "sha256-QxBFA7MOwjwY2Cnme/W1K2AGexSel+k4pogB+Xg7s/8="
   },
   "fs_startupmodule": {
     "version": "0.0.1",
@@ -38695,12 +38691,10 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "mysqlreport": {
-    "version": "4.0.2",
-    "t3_versions": [
-      13
-    ],
+    "version": "5.0.0",
+    "t3_versions": [],
     "description": "Analyze and profile your TYPO3 database queries",
-    "hash": "sha256-++DbdUiKevNf+NN5hbybjHX9/QR4m7lvZcDqqhvPJmA="
+    "hash": "sha256-BbJJSKjBDIj7il+plwc9+4c4ZADnkWnTQPbbVWx+KqY="
   },
   "mytemplate1": {
     "version": "0.0.2",
@@ -39721,12 +39715,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "news_tldr": {
-    "version": "2.0.1",
+    "version": "2.0.2",
     "t3_versions": [
       13
     ],
     "description": "Creates a short summary for news via ChatGPT",
-    "hash": "sha256-BDdJt2O0hw1A8g6Egqp3kHZ4X/SQ0LpiIGwkYDzU2+o="
+    "hash": "sha256-YcXuWXzMc6PhUlbFecm80AMnQ8pRS6CBqgZvSQUAZ0I="
   },
   "news_ttnewsimport": {
     "version": "2.0.0",
@@ -48013,12 +48007,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "redirect_tab": {
-    "version": "4.0.2",
+    "version": "4.0.3",
     "t3_versions": [
       13
     ],
     "description": "Show TYPO3 redirects in the page properties",
-    "hash": "sha256-ZbOVN7YPi3nHVdg/B5IZFwcqcEE00twKihofU1ZgFXA="
+    "hash": "sha256-uajIxzEf9Kj0kvVoM23Kivrt0V+7iJp8lpGALtw62IQ="
   },
   "redirection": {
     "version": "1.1.0",
@@ -60621,12 +60615,12 @@
     "hash": "sha256-nNzeFHaFq/pAcntEFEXpVl21oBxVvyoIg0VsX0yNEE4="
   },
   "tiktok": {
-    "version": "3.0.1",
+    "version": "3.0.2",
     "t3_versions": [
       13
     ],
     "description": "",
-    "hash": "sha256-IMQmV7wAar4Q4uEfCT2oMXig55qa+gKbq5LABLpQMYU="
+    "hash": "sha256-e2tzjeKLmnkw2zsGDI1YaEhEldUkYDem41qJrl0TVas="
   },
   "tile": {
     "version": "0.9.5",
@@ -63517,12 +63511,12 @@
     "hash": "sha256-tCniXngTqeK5Dc7BHZy1KHdRJGEo3Wx2pzSXdIKcVVQ="
   },
   "twitch": {
-    "version": "3.0.1",
+    "version": "3.0.2",
     "t3_versions": [
       13
     ],
     "description": "",
-    "hash": "sha256-rOau9Dt2yXRlbi69oC+cfdEdaxqeo7z4VltrOXGJZdQ="
+    "hash": "sha256-3QmqwQuEY3TvqAc+DkWEghPwUpFMTMg4jdIkwvjIR7g="
   },
   "twitter": {
     "version": "0.0.2",
@@ -64754,12 +64748,12 @@
     "hash": "sha256-VfWKibh+93U32C3RFch5159Xl9p3mQZFXFET8vYP3ds="
   },
   "video_validator": {
-    "version": "4.1.2",
+    "version": "4.1.3",
     "t3_versions": [
       13
     ],
     "description": "Checks online videos in TYPO3 for availability",
-    "hash": "sha256-WLnIEx/iFLE+1a+Imu6aaXAQ/969oGaP5j714gHg27w="
+    "hash": "sha256-UUT9TX5E7NgwlaiVdYmuEqaRv4g9AitJxgfoyHIPZ2Q="
   },
   "video_vtt": {
     "version": "2.7.0",
